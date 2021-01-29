@@ -1,9 +1,9 @@
-﻿ref_name,rx_name,strain_name,section,fold_cmp,fold,,
-Gottlieb21,Bamlanivimab,S:484K,eTable 1,>,100,,
-Gottlieb21,Bamlanivimab,S:484Q,eTable 1,>,100,,
-Gottlieb21,Bamlanivimab,S:490S,eTable 1,>,100,,
-Gottlieb21,Bamlanivimab,S:494P,eTable 1,>,100,,
-Gottlieb21,Etesevimab,S:484K,eTable 1,,4.4,,
-Gottlieb21,Etesevimab,S:484Q,eTable 1,,1.4,,
-Gottlieb21,Etesevimab,S:490S,eTable 1,,0.8,,
-Gottlieb21,Etesevimab,S:494P,eTable 1,,0.5,,
+﻿ref_name,rx_name,strain_name,section,fold_cmp,fold
+Gottlieb21,Bamlanivimab,S:484K,eTable 1,>,100
+Gottlieb21,Bamlanivimab,S:484Q,eTable 1,>,100
+Gottlieb21,Bamlanivimab,S:490S,eTable 1,>,100
+Gottlieb21,Bamlanivimab,S:494P,eTable 1,>,100
+Gottlieb21,Etesevimab,S:484K,eTable 1,,4.4
+Gottlieb21,Etesevimab,S:484Q,eTable 1,,1.4
+Gottlieb21,Etesevimab,S:490S,eTable 1,,0.8
+Gottlieb21,Etesevimab,S:494P,eTable 1,,0.5
