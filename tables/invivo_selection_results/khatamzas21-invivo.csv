@@ -1,4 +1,2 @@
-﻿ref_name,rx_name,section,patient,sample,gene,position,amino_acid
-Khatamzas21,None,Table 2,Case report,D154,S,144,del
-Khatamzas21,None,Table 2,Case report,D154,S,477,N
-Khatamzas21,None,Table 2,Case report,D154,S,484,K
+﻿ref_name,rx_name,strain_name,patient,sample,section,date_added
+Khatamzas21,None,Khatamzas21-d154,Case report,D154,Table 2,2021-02-01

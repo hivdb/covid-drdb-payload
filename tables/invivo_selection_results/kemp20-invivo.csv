@@ -1,11 +1,2 @@
-﻿ref_name,rx_name,section,patient,sample,gene,position,amino_acid
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,69,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,70,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,141,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,142,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,143,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,144,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,146,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,210,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,243,del
-Kemp20,None,"Title and section ""Results""",Recurrent mutation,Recurrent mutation,S,244,del
+﻿ref_name,rx_name,strain_name,patient,sample,section,date_added
+Kemp20,None,Kemp20-recurrent,Recurrent mutation,Recurrent mutation,"Title and section ""Results""",2021-02-01

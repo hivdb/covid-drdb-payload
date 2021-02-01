@@ -1,7 +1,7 @@
-﻿ref_name,rx_name,section,gene,position,amino_acid
-Greaney20,COV2-2050,Figure 6,S,484,K
-Greaney20,COV2-2094,Figure 6,S,378,E
-Greaney20,COV2-2094,Figure 6,S,378,N
-Greaney20,COV2-2479,Figure 6,S,484,K
-Greaney20,COV2-2499,Figure 6,S,446,D
-Greaney20,COV2-2499,Figure 6,S,498,R
+﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
+Greaney20,COV2-2050,S,484,K,Figure 6,2021-01-27
+Greaney20,COV2-2094,S,378,E,Figure 6,2021-01-27
+Greaney20,COV2-2094,S,378,N,Figure 6,2021-01-27
+Greaney20,COV2-2479,S,484,K,Figure 6,2021-01-27
+Greaney20,COV2-2499,S,446,D,Figure 6,2021-01-27
+Greaney20,COV2-2499,S,498,R,Figure 6,2021-01-27

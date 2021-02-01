@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,section,gene,position,amino_acid
-Andreano20b,PT188,Figure 1,S,140,del
-Andreano20b,PT188,Figure 1,S,248,ins
-Andreano20b,PT188,Figure 1,S,484,K
+﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
+Andreano20b,PT188,S,140,del,Figure 1,2021-01-27
+Andreano20b,PT188,S,248,ins,Figure 1,2021-01-27
+Andreano20b,PT188,S,484,K,Figure 1,2021-01-27
