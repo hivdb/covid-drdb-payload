@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,assay,date_added
+Edara21,CP,S:501Y,1,NULL,<,3,NULL,19,Virus,2021-02-05
+Edara21,CP,S:501Y,2,NULL,=,4,NULL,1,Virus,2021-02-05
+Edara21,mRNA-1273,S:501Y,1,NULL,<,2,NULL,14,Virus,2021-02-05
+Edara21,CP,B.1.1.7 Spike,1,NULL,<,3,NULL,16,Virus,2021-02-05
+Edara21,CP,B.1.1.7 Spike,2,NULL,=,4,NULL,4,Virus,2021-02-05
+Edara21,mRNA-1273,B.1.1.7 Spike,1,NULL,<,2,NULL,14,Virus,2021-02-05

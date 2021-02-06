@@ -1,16 +1,16 @@
-﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,date_added
-Starr21,REGN10933,S:406W,1,Figure S3; bit.ly/3oa0d2C Out[7],=,84.4,NULL,1,2021-01-27
-Starr21,REGN10987,S:406W,1,Figure S3; bit.ly/3oa0d2C Out[7],=,108.6,NULL,1,2021-01-27
-Starr21,REGN10933 + REGN10987,S:406W,1,Figure S3; bit.ly/3oa0d2C Out[7],=,92,NULL,1,2021-01-27
-Starr21,LY-CoV016,S:417N,1,Figure S3; bit.ly/3oa0d2C Out[7],=,4800.5,NULL,1,2021-01-27
-Starr21,REGN10933,S:439K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,0.8,NULL,1,2021-01-27
-Starr21,REGN10987,S:439K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,35.9,NULL,1,2021-01-27
-Starr21,REGN10933 + REGN10987,S:439K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,1.7,NULL,1,2021-01-27
-Starr21,REGN10933,S:444Q,1,Figure S3; bit.ly/3oa0d2C Out[7],=,0.5,NULL,1,2021-01-27
-Starr21,REGN10987,S:444Q,1,Figure S3; bit.ly/3oa0d2C Out[7],=,860.6,NULL,1,2021-01-27
-Starr21,REGN10933 + REGN10987,S:444Q,1,Figure S3; bit.ly/3oa0d2C Out[7],=,1.9,NULL,1,2021-01-27
-Starr21,LY-CoV016,S:460T,1,Figure S3; bit.ly/3oa0d2C Out[7],=,1392.2,NULL,1,2021-01-27
-Starr21,LY-CoV016,S:475V+614G,1,Figure S3; bit.ly/3oa0d2C Out[7],=,16,NULL,1,2021-01-27
-Starr21,REGN10933,S:486K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,937,NULL,1,2021-01-27
-Starr21,REGN10987,S:486K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,0.4,NULL,1,2021-01-27
-Starr21,REGN10933 + REGN10987,S:486K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,1.5,NULL,1,2021-01-27
+﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,assay,date_added
+Starr21,REGN10933,S:406W,1,Figure S3; bit.ly/3oa0d2C Out[7],=,84.4,NULL,1,NULL,2021-01-27
+Starr21,REGN10987,S:406W,1,Figure S3; bit.ly/3oa0d2C Out[7],=,108.6,NULL,1,NULL,2021-01-27
+Starr21,REGN10933 + REGN10987,S:406W,1,Figure S3; bit.ly/3oa0d2C Out[7],=,92,NULL,1,NULL,2021-01-27
+Starr21,LY-CoV016,S:417N,1,Figure S3; bit.ly/3oa0d2C Out[7],=,4800.5,NULL,1,NULL,2021-01-27
+Starr21,REGN10933,S:439K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,0.8,NULL,1,NULL,2021-01-27
+Starr21,REGN10987,S:439K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,35.9,NULL,1,NULL,2021-01-27
+Starr21,REGN10933 + REGN10987,S:439K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,1.7,NULL,1,NULL,2021-01-27
+Starr21,REGN10933,S:444Q,1,Figure S3; bit.ly/3oa0d2C Out[7],=,0.5,NULL,1,NULL,2021-01-27
+Starr21,REGN10987,S:444Q,1,Figure S3; bit.ly/3oa0d2C Out[7],=,860.6,NULL,1,NULL,2021-01-27
+Starr21,REGN10933 + REGN10987,S:444Q,1,Figure S3; bit.ly/3oa0d2C Out[7],=,1.9,NULL,1,NULL,2021-01-27
+Starr21,LY-CoV016,S:460T,1,Figure S3; bit.ly/3oa0d2C Out[7],=,1392.2,NULL,1,NULL,2021-01-27
+Starr21,LY-CoV016,S:475V+614G,1,Figure S3; bit.ly/3oa0d2C Out[7],=,16,NULL,1,NULL,2021-01-27
+Starr21,REGN10933,S:486K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,937,NULL,1,NULL,2021-01-27
+Starr21,REGN10987,S:486K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,0.4,NULL,1,NULL,2021-01-27
+Starr21,REGN10933 + REGN10987,S:486K,1,Figure S3; bit.ly/3oa0d2C Out[7],=,1.5,NULL,1,NULL,2021-01-27
