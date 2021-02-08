@@ -1,4 +1,6 @@
 ﻿strain_name,gene,position,amino_acid
+20A.EU2 Spike,S,477,N
+20A.EU2 Spike,S,614,G
 B.1.1.7 Spike,S,69,del
 B.1.1.7 Spike,S,70,del
 B.1.1.7 Spike,S,144,del
@@ -42,6 +44,9 @@ Choi20-d152,S,486,I
 Choi20-d152,S,494,P
 Choi20-d152,S,501,Y
 Choi20-d152,S,870,V
+COH.20G/677H Spike,S,501,Y
+COH.20G/677H Spike,S,614,G
+COH.20G/677H Spike,S,677,H
 Kemp20-recurrent,S,69,del
 Kemp20-recurrent,S,70,del
 Kemp20-recurrent,S,141,del
@@ -56,6 +61,13 @@ Khatamzas21-d154,S,144,del
 Khatamzas21-d154,S,477,N
 Khatamzas21-d154,S,484,K
 Khatamzas21-d154,S,614,G
+Mink Cluster 5 Spike,S,69,del
+Mink Cluster 5 Spike,S,70,del
+Mink Cluster 5 Spike,S,453,F
+Mink Cluster 5 Spike,S,614,G
+Mink Cluster 5 Spike,S,692,V
+Mink Cluster 5 Spike,S,1147,L
+Mink Cluster 5 Spike,S,1229,I
 PT188_EM,S,140,del
 PT188_EM,S,248,ins
 PT188_EM,S,484,K
@@ -352,6 +364,10 @@ S:69del+70del+501Y+614G+681H,S,70,del
 S:69del+70del+501Y+614G+681H,S,501,Y
 S:69del+70del+501Y+614G+681H,S,614,G
 S:69del+70del+501Y+614G+681H,S,681,H
+S:69del+70del+501Y+681H,S,69,del
+S:69del+70del+501Y+681H,S,70,del
+S:69del+70del+501Y+681H,S,501,Y
+S:69del+70del+501Y+681H,S,681,H
 S:701V,S,701,V
 S:709Q,S,709,Q
 S:716I,S,716,I
