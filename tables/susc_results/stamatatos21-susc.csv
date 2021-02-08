@@ -1,26 +1,26 @@
 ﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,assay,date_added
-Stamatatos21,Donor A pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,3.9,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor B pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,18.5,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor C pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,2.7,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor D pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",>,1000.0,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor E pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",>,1000.0,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor F pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",>,1000.0,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor G pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,6.0,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor H pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",>,1000.0,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor I pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",>,1000.0,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor J pre-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,1.4,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor A post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,1.1,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor B post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,2.3,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor C post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,1.2,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor D post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,3.0,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor E post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,1.8,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor F post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,1.5,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor G post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,1.3,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor H post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,3.7,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor I post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,3.0,NULL,1,NULL,2021-02-08
-Stamatatos21,Donor J post-vaccine,B.1.351 Spike,1,"Table 1; Figure 3, S4",=,2.1,NULL,1,NULL,2021-02-08
-Stamatatos21,CV30,B.1.351 Spike,1,Figure 1A,=,38.6,NULL,1,NULL,2021-02-08
-Stamatatos21,CV3-1,B.1.351 Spike,1,Figure 1B,=,2.8,NULL,1,NULL,2021-02-08
-Stamatatos21,CV2-75,B.1.351 Spike,1,Figure 1C,=,2.6,NULL,1,NULL,2021-02-08
-Stamatatos21,CV1,B.1.351 Spike,1,Figure 1D,>,1000.0,NULL,1,NULL,2021-02-08
-Stamatatos21,CV3-25,B.1.351 Spike,1,Figure 1E,=,0.7,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor A pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,3.9,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor B pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,18.5,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor C pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,2.7,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor D pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",>,1000,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor E pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",>,1000,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor F pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",>,1000,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor G pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,6,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor H pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",>,1000,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor I pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",>,1000,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor J pre-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,1.4,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor A post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,1.1,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor B post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,2.3,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor C post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,1.2,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor D post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,3,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor E post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,1.8,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor F post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,1.5,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor G post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,1.3,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor H post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,3.7,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor I post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,3,NULL,1,NULL,2021-02-08
+Stamatatos21,Donor J post-vaccine,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,2.1,NULL,1,NULL,2021-02-08
+Stamatatos21,CV30,B.1.351 Spike:-18F-242del-243del-244del-246I,1,Figure 1A,=,38.6,NULL,1,NULL,2021-02-08
+Stamatatos21,CV3-1,B.1.351 Spike:-18F-242del-243del-244del-246I,1,Figure 1B,=,2.8,NULL,1,NULL,2021-02-08
+Stamatatos21,CV2-75,B.1.351 Spike:-18F-242del-243del-244del-246I,1,Figure 1C,=,2.6,NULL,1,NULL,2021-02-08
+Stamatatos21,CV1,B.1.351 Spike:-18F-242del-243del-244del-246I,1,Figure 1D,>,1000,NULL,1,NULL,2021-02-08
+Stamatatos21,CV3-25,B.1.351 Spike:-18F-242del-243del-244del-246I,1,Figure 1E,=,0.7,NULL,1,NULL,2021-02-08
