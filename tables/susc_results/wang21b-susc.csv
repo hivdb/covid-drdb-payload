@@ -1156,7 +1156,7 @@ Wang21b,2-4,S:215G,1,Ext data fig. 4b,=,1.4,NULL,1,NULL,2021-02-05
 Wang21b,2-4,S:242del+243del+244del,1,Ext data fig. 4b,=,2.1,NULL,1,NULL,2021-02-05
 Wang21b,2-4,S:246I,1,Ext data fig. 4b,=,1.1,NULL,1,NULL,2021-02-05
 Wang21b,2-4,S:417N,1,Ext data fig. 4b,=,0.4,NULL,1,NULL,2021-02-05
-Wang21b,2-4,S:484K,1,Ext data fig. 4b,=,1000,NULL,1,NULL,2021-02-05
+Wang21b,2-4,S:484K,1,Ext data fig. 4b,>,1000,NULL,1,NULL,2021-02-05
 Wang21b,2-4,S:701V,1,Ext data fig. 4b,=,0.9,NULL,1,NULL,2021-02-05
 Wang21b,2-43,B.1.1.7 Spike,1,Ext data fig. 4b,=,4.1,NULL,1,NULL,2021-02-05
 Wang21b,2-43,S:69del+70del,1,Ext data fig. 4b,=,1.4,NULL,1,NULL,2021-02-05
