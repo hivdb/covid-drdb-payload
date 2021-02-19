@@ -400,7 +400,6 @@ Wang21b,Pfizer_BNT162b2_D28,B.1.351 Spike,17,Fig. 4b,=,2.5,NULL,1,NULL,2021-01-3
 Wang21b,Pfizer_BNT162b2_D28,B.1.351 Spike,18,Fig. 4b,=,7.5,NULL,1,NULL,2021-01-31
 Wang21b,Pfizer_BNT162b2_D28,B.1.351 Spike,19,Fig. 4b,=,10.4,NULL,1,NULL,2021-01-31
 Wang21b,Pfizer_BNT162b2_D28,B.1.351 Spike,20,Fig. 4b,=,4.5,NULL,1,NULL,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28,B.1.351 Spike,21,Fig. 4b,>,4.5,NULL,1,NULL,2021-02-19
 Wang21b,Pfizer_BNT162b2_D28,B.1.351 Spike,22,Fig. 4b,=,2.5,NULL,1,NULL,2021-01-31
 Wang21b,CP,S:1118H,1,Fig. 3b,=,2.1,NULL,1,NULL,2021-01-31
 Wang21b,CP,S:1118H,2,Fig. 3b,=,1.9,NULL,1,NULL,2021-01-31
@@ -1428,7 +1427,6 @@ Wang21b,Pfizer_BNT162b2_D28,B.1.351 authentic,17,Fig. 4b,=,9.3,NULL,1,authentic 
 Wang21b,Pfizer_BNT162b2_D28,B.1.351 authentic,18,Fig. 4b,=,4.3,NULL,1,authentic virus,2021-02-19
 Wang21b,Pfizer_BNT162b2_D28,B.1.351 authentic,19,Fig. 4b,=,11.9,NULL,1,authentic virus,2021-02-19
 Wang21b,Pfizer_BNT162b2_D28,B.1.351 authentic,20,Fig. 4b,=,7.4,NULL,1,authentic virus,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28,B.1.351 authentic,21,Fig. 4b,>,3.4,NULL,1,authentic virus,2021-02-19
 Wang21b,Pfizer_BNT162b2_D28,B.1.351 authentic,22,Fig. 4b,=,3.7,NULL,1,authentic virus,2021-02-19
 Wang21b,1-20,B.1.1.7 authentic,1,Ext data fig. 4b,=,5.6,NULL,1,authentic virus,2021-02-19
 Wang21b,CB6,B.1.1.7 authentic,1,Ext data fig. 4b,=,0.7,NULL,1,authentic virus,2021-02-19

@@ -1,0 +1,56 @@
+﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,assay,date_added
+Garcia-Beltran21,BNT162b2,S:614G,1,Figure 3C,=,2.1,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,B.1.1.7 Spike,1,Figure 3C,=,2.3,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,B.1.1.298 Spike,1,Figure 3C,=,3.4,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,B.1.429 Spike,1,Figure 3C,=,2.9,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,P.2 Spike,1,Figure 3C,=,13.4,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,P.1 Spike,1,Figure 3C,=,15.1,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,B.1.351 Spike:-18F-246I,1,Figure 3C,=,75.4,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,B.1.351 Spike:-246I,1,Figure 3C,=,97.2,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,B.1.351 Spike:-18F-215G,1,Figure 3C,=,93.6,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,SARS-CoV Spike,1,Figure 3C,=,84.1,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,BNT162b2,WIV1 Spike,1,Figure 3C,=,72.3,NULL,22,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,S:614G,1,Figure 3B,=,4.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.1.7 Spike,1,Figure 3B,=,2.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.1.298 Spike,1,Figure 3B,=,5.6,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.429 Spike,1,Figure 3B,=,2.9,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,P.2 Spike,1,Figure 3B,=,9.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,P.1 Spike,1,Figure 3B,=,26.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-18F-246I,1,Figure 3B,=,31.3,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-246I,1,Figure 3B,=,88.7,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-18F-215G,1,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,SARS-CoV Spike,1,Figure 3B,=,28.3,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,WIV1 Spike,1,Figure 3B,=,42.7,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,S:614G,2,Figure 3B,=,4.8,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.1.7 Spike,2,Figure 3B,=,1.2,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.1.298 Spike,2,Figure 3B,=,2.9,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.429 Spike,2,Figure 3B,=,2.3,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,P.2 Spike,2,Figure 3B,=,3.9,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,P.1 Spike,2,Figure 3B,=,18.7,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-18F-246I,2,Figure 3B,=,43.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-246I,2,Figure 3B,=,41.5,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-18F-215G,2,Figure 3B,=,63.5,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,SARS-CoV Spike,2,Figure 3B,=,14.7,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,WIV1 Spike,2,Figure 3B,=,13.5,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,S:614G,3,Figure 3B,=,2.9,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.1.7 Spike,3,Figure 3B,=,2.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.1.298 Spike,3,Figure 3B,=,1.9,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.429 Spike,3,Figure 3B,=,1.4,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,P.2 Spike,3,Figure 3B,=,4.8,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,P.1 Spike,3,Figure 3B,=,12.6,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-18F-246I,3,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-246I,3,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-18F-215G,3,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,SARS-CoV Spike,3,Figure 3B,=,50.3,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,WIV1 Spike,3,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,S:614G,4,Figure 3B,=,9.4,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.1.7 Spike,4,Figure 3B,=,2.8,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.1.298 Spike,4,Figure 3B,=,9.1,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.429 Spike,4,Figure 3B,=,5.7,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,P.2 Spike,4,Figure 3B,=,6.8,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,P.1 Spike,4,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-18F-246I,4,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-246I,4,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,B.1.351 Spike:-18F-215G,4,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,SARS-CoV Spike,4,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18
+Garcia-Beltran21,mRNA-1273,WIV1 Spike,4,Figure 3B,>,100.0,NULL,1,NULL,2021-02-18

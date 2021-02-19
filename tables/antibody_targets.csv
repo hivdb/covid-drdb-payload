@@ -3,7 +3,7 @@ Casirivimab,RBD,RBM Class I,structure
 Cilgavimab,RBD,RBM Class II,structure
 Etesevimab,RBD,RBM Class I,structure
 Imdevimab,RBD,RBD Core Cluster I,structure
-Tixagevimab,RBD,"RBM Class I ",structure
+Tixagevimab,RBD,RBM Class I,structure
 Vir-7831,RBD,RBD Core Cluster I,structure
 2-4,RBD,RBM Class III,structure
 2-43,RBD,RBD Core Cluster I,author
@@ -94,3 +94,6 @@ S2X613,RBD,NULL,author
 S2X615,RBD,NULL,author
 S2X619,RBD,NULL,author
 S2X620,RBD,NULL,author
+CC12.3,RBD,NULL,structure
+CV07-250,RBD,NULL,structure
+CV07-270,RBD,NULL,structure
