@@ -1,6 +1,35 @@
 ﻿strain_name,gene,position,amino_acid
 20A.EU2 Spike,S,477,N
 20A.EU2 Spike,S,614,G
+B.1.1.7 authentic,N,3,L
+B.1.1.7 authentic,N,235,F
+B.1.1.7 authentic,nsp6,106,del
+B.1.1.7 authentic,nsp6,107,del
+B.1.1.7 authentic,nsp6,108,del
+B.1.1.7 authentic,ORF8,27,stop
+B.1.1.7 authentic,ORF8,52,I
+B.1.1.7 authentic,ORF8,73,C
+B.1.1.7 authentic,PL,183,I
+B.1.1.7 authentic,PL,890,D
+B.1.1.7 authentic,PL,1412,T
+B.1.1.7 authentic,RdRP,323,L
+B.1.1.7 authentic,S,69,del
+B.1.1.7 authentic,S,70,del
+B.1.1.7 authentic,S,144,del
+B.1.1.7 authentic,S,501,Y
+B.1.1.7 authentic,S,570,D
+B.1.1.7 authentic,S,614,G
+B.1.1.7 authentic,S,681,H
+B.1.1.7 authentic,S,716,I
+B.1.1.7 authentic,S,982,A
+B.1.1.7 authentic,S,1118,H
+B.1.1.7 S1,S,69,del
+B.1.1.7 S1,S,70,del
+B.1.1.7 S1,S,144,del
+B.1.1.7 S1,S,501,Y
+B.1.1.7 S1,S,570,D
+B.1.1.7 S1,S,614,G
+B.1.1.7 S1,S,681,H
 B.1.1.7 Spike,S,69,del
 B.1.1.7 Spike,S,70,del
 B.1.1.7 Spike,S,144,del
@@ -22,13 +51,30 @@ B.1.1.7 Spike+S:484K,S,681,H
 B.1.1.7 Spike+S:484K,S,716,I
 B.1.1.7 Spike+S:484K,S,982,A
 B.1.1.7 Spike+S:484K,S,1118,H
-B.1.1.7 S1,S,69,del
-B.1.1.7 S1,S,70,del
-B.1.1.7 S1,S,144,del
-B.1.1.7 S1,S,501,Y
-B.1.1.7 S1,S,570,D
-B.1.1.7 S1,S,614,G
-B.1.1.7 S1,S,681,H
+B.1.351 authentic,3CL,90,R
+B.1.351 authentic,E,71,L
+B.1.351 authentic,N,205,I
+B.1.351 authentic,nsp13,588,I
+B.1.351 authentic,nsp2,85,I
+B.1.351 authentic,nsp4,26,Y
+B.1.351 authentic,nsp4,137,L
+B.1.351 authentic,ORF3a,57,H
+B.1.351 authentic,ORF3a,171,L
+B.1.351 authentic,PL,837,N
+B.1.351 authentic,RdRP,135,Y
+B.1.351 authentic,RdRP,323,L
+B.1.351 authentic,S,18,F
+B.1.351 authentic,S,80,A
+B.1.351 authentic,S,215,G
+B.1.351 authentic,S,242,del
+B.1.351 authentic,S,243,del
+B.1.351 authentic,S,244,del
+B.1.351 authentic,S,246,I
+B.1.351 authentic,S,417,N
+B.1.351 authentic,S,484,K
+B.1.351 authentic,S,501,Y
+B.1.351 authentic,S,614,G
+B.1.351 authentic,S,701,V
 B.1.351 NTD,S,18,F
 B.1.351 NTD,S,80,A
 B.1.351 NTD,S,215,G
@@ -39,6 +85,10 @@ B.1.351 NTD,S,246,I
 B.1.351 RBD,S,417,N
 B.1.351 RBD,S,484,K
 B.1.351 RBD,S,501,Y
+B.1.351 RBD+S:614G,S,417,N
+B.1.351 RBD+S:614G,S,484,K
+B.1.351 RBD+S:614G,S,501,Y
+B.1.351 RBD+S:614G,S,614,G
 B.1.351 Spike,S,18,F
 B.1.351 Spike,S,80,A
 B.1.351 Spike,S,215,G
@@ -51,10 +101,6 @@ B.1.351 Spike,S,484,K
 B.1.351 Spike,S,501,Y
 B.1.351 Spike,S,614,G
 B.1.351 Spike,S,701,V
-B.1.351 RBD+S:614G,S,417,N
-B.1.351 RBD+S:614G,S,484,K
-B.1.351 RBD+S:614G,S,501,Y
-B.1.351 RBD+S:614G,S,614,G
 B.1.351 Spike:-18F-242del-243del-244del-246I,S,80,A
 B.1.351 Spike:-18F-242del-243del-244del-246I,S,215,G
 B.1.351 Spike:-18F-242del-243del-244del-246I,S,417,N
@@ -62,16 +108,6 @@ B.1.351 Spike:-18F-242del-243del-244del-246I,S,484,K
 B.1.351 Spike:-18F-242del-243del-244del-246I,S,501,Y
 B.1.351 Spike:-18F-242del-243del-244del-246I,S,614,G
 B.1.351 Spike:-18F-242del-243del-244del-246I,S,701,V
-P.1 Spike,S,18,F
-P.1 Spike,S,20,N
-P.1 Spike,S,26,S
-P.1 Spike,S,138,Y
-P.1 Spike,S,190,S
-P.1 Spike,S,417,T
-P.1 Spike,S,484,K
-P.1 Spike,S,501,Y
-P.1 Spike,S,614,G
-P.1 Spike,S,655,Y
 Choi20-d152,S,141,del
 Choi20-d152,S,142,del
 Choi20-d152,S,143,del
@@ -100,6 +136,16 @@ Mink Cluster 5 Spike,S,614,G
 Mink Cluster 5 Spike,S,692,V
 Mink Cluster 5 Spike,S,1147,L
 Mink Cluster 5 Spike,S,1229,I
+P.1 Spike,S,18,F
+P.1 Spike,S,20,N
+P.1 Spike,S,26,S
+P.1 Spike,S,138,Y
+P.1 Spike,S,190,S
+P.1 Spike,S,417,T
+P.1 Spike,S,484,K
+P.1 Spike,S,501,Y
+P.1 Spike,S,614,G
+P.1 Spike,S,655,Y
 PT188_EM,S,140,del
 PT188_EM,S,248,ins
 PT188_EM,S,484,K
@@ -162,6 +208,8 @@ S:346S,S,346,S
 S:348T,S,348,T
 S:352D,S,352,D
 S:354D,S,354,D
+S:354D+364Y,S,354,D
+S:354D+364Y,S,364,Y
 S:354K,S,354,K
 S:359N,S,359,N
 S:367F,S,367,F
@@ -247,8 +295,6 @@ S:453F+498H,S,453,F
 S:453F+498H,S,498,H
 S:453F+614G,S,453,F
 S:453F+614G,S,614,G
-S:354D+364Y,S,354,D
-S:354D+364Y,S,364,Y
 S:455F,S,455,F
 S:455F+614G,S,455,F
 S:455F+614G,S,614,G

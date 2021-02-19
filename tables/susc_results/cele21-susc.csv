@@ -1,7 +1,7 @@
 ﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,assay,date_added
-Cele21,CP_13-0013,B.1.351 Spike,1,Figure 2D,>,100,NULL,1,Infectious virus,2021-02-10
-Cele21,CP_02-0014,B.1.351 Spike,1,Figure 2D,=,204,NULL,1,Infectious virus,2021-02-10
-Cele21,CP_02-0015,B.1.351 Spike,1,Figure 2D,=,53,NULL,1,Infectious virus,2021-02-10
-Cele21,CP_13-0017,B.1.351 Spike,1,Figure 2D,=,38,NULL,1,Infectious virus,2021-02-10
-Cele21,CP_13-0033,B.1.351 Spike,1,Figure 2D,=,9.5,NULL,1,Infectious virus,2021-02-10
-Cele21,CP_13-0062,B.1.351 Spike,1,Figure 2D,=,5.7,NULL,1,Infectious virus,2021-02-10
+Cele21,CP_13-0013,B.1.351 authentic,1,Figure 2D,>,1000,NULL,1,authentic virus,2021-02-10
+Cele21,CP_02-0014,B.1.351 authentic,1,Figure 2D,=,204.3,NULL,1,authentic virus,2021-02-10
+Cele21,CP_02-0015,B.1.351 authentic,1,Figure 2D,=,53.2,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0017,B.1.351 authentic,1,Figure 2D,=,38.1,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0033,B.1.351 authentic,1,Figure 2D,=,9.6,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0062,B.1.351 authentic,1,Figure 2D,=,5.7,NULL,1,authentic virus,2021-02-10
