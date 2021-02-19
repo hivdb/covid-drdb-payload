@@ -86,16 +86,9 @@ Choi20-d152,S,870,V
 COH.20G/677H Spike,S,501,Y
 COH.20G/677H Spike,S,614,G
 COH.20G/677H Spike,S,677,H
-Kemp20-recurrent,S,69,del
-Kemp20-recurrent,S,70,del
-Kemp20-recurrent,S,141,del
-Kemp20-recurrent,S,142,del
-Kemp20-recurrent,S,143,del
-Kemp20-recurrent,S,144,del
-Kemp20-recurrent,S,146,del
-Kemp20-recurrent,S,210,del
-Kemp20-recurrent,S,243,del
-Kemp20-recurrent,S,244,del
+Kemp21-d101,S,69,del
+Kemp21-d101,S,70,del
+Kemp21-d101,S,796,H
 Khatamzas21-d154,S,144,del
 Khatamzas21-d154,S,477,N
 Khatamzas21-d154,S,484,K
@@ -139,6 +132,10 @@ S:239K+614G,S,614,G
 S:242del+243del+244del,S,242,del
 S:242del+243del+244del,S,243,del
 S:242del+243del+244del,S,244,del
+S:242del+243del+244del+614G,S,242,del
+S:242del+243del+244del+614G,S,243,del
+S:242del+243del+244del+614G,S,244,del
+S:242del+243del+244del+614G,S,614,G
 S:246A,S,246,A
 S:246I,S,246,I
 S:253G,S,253,G
