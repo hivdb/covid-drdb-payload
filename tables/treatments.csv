@@ -80,6 +80,27 @@ Collier21,S2X613
 Collier21,S2X615
 Collier21,S2X619
 Collier21,S2X620
+Diamond21,Tixagevimab
+Diamond21,Cilgavimab
+Diamond21,Tixagevimab + Cilgavimab
+Diamond21,COV2-2072
+Diamond21,COV2-2050
+Diamond21,COV2-3025
+Diamond21,COV2-2381
+Diamond21,1B07
+Diamond21,COVOX-384
+Diamond21,COVOX-40
+Diamond21,S2E12
+Diamond21,S2H58
+Diamond21,S2X259
+Diamond21,Vir-7831+S2E12
+Diamond21,Vir-7831
+Diamond21,SARS2-3
+Diamond21,SARS2-10
+Diamond21,SARS2-31
+Diamond21,SARS2-44
+Diamond21,COV2-2676
+Diamond21,COV2-2489
 Dong21,COV2-2130
 Dong21,COV2-2196
 Du20,BD-368-2
@@ -304,6 +325,7 @@ Cele21,CP_02-0015
 Cele21,CP_13-0017
 Cele21,CP_13-0033
 Cele21,CP_13-0062
+Diamond21,CP
 Edara21,CP
 Greaney21,Subject_A_d120
 Greaney21,Subject_A_d21
@@ -377,6 +399,7 @@ Weisblum20,COV47
 Wibmer21,CP_Titer_GT400
 Wibmer21,CP_Titer_LT400
 Collier21,BNT162b2_3Weeks
+Diamond21,BNT162b2
 Edara21,mRNA-1273
 Garcia-Beltran21,BNT162b2
 Garcia-Beltran21,mRNA-1273
