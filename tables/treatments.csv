@@ -368,7 +368,7 @@ Hoffmann21b,ConvPlasma 12
 Hoffmann21b,ConvPlasma 13
 Hoffmann21b,ConvPlasma 14
 Hu21,CP_5-33d
-Hu21,CP_8mon
+Hu21,CP_8M
 Jangra21,CP_weakIgG
 Jangra21,CP_ModerateIgG
 Jangra21,CP_StrongIgG
@@ -380,8 +380,8 @@ Liu21,CP_35
 Planas21,CP_M3
 Planas21,CP_M6
 Planas21,CP_M9
-Rees-Spear21,Mild_Samples
-Rees-Spear21,Hospitalized_Samples
+Rees-Spear21,Mild
+Rees-Spear21,Hospitalized
 Shen21,CP_1M
 Stamatatos21,Donor A pre-vaccine
 Stamatatos21,Donor B pre-vaccine
@@ -399,7 +399,7 @@ Weisblum20,COV-NY
 Weisblum20,COV47
 Wibmer21,CP_Titer_GT400
 Wibmer21,CP_Titer_LT400
-Collier21,BNT162b2_3Weeks
+Collier21,BNT162b2_3W
 Collier21,BNT162b2
 Diamond21,BNT162b2
 Edara21,mRNA-1273
@@ -464,7 +464,7 @@ Planas21,VAC_08_W4
 Planas21,VAC_09_W4
 Planas21,VAC_10_W4
 Planas21,VAC_11_W4
-Sahin20,Subject_BNT162b2_4Weeks_25
+Sahin20,Subject_BNT162b2_4W_25
 Shen21,Mod_1M
 Shen21,NVV_1M
 Stamatatos21,Donor A post-vaccine
@@ -483,8 +483,8 @@ Wang21,Pfizer-BioNTech
 Wang21b,Moderna_D43
 Wang21b,Pfizer_BNT162b2_D28
 Wu21,Moderna_36d
-Xie21,BNT162b2_2Weeks
-Xie21,BNT162b2_4Weeks
+Xie21,BNT162b2_2W
+Xie21,BNT162b2_4W
 Xie21b,CP_BNT162b2_1M
 Kemp21,None
 Choi20,None

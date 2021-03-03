@@ -1,6 +1,6 @@
 ﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,assay,date_added
-Xie21,BNT162b2_2Weeks,S:501Y,1,"Figure 1, Table S1",=,0.50,NULL,3,NULL,2021-01-27
-Xie21,BNT162b2_2Weeks,S:501Y,2,"Figure 1, Table S1",=,0.25,NULL,1,NULL,2021-01-27
-Xie21,BNT162b2_4Weeks,S:501Y,1,"Figure 1, Table S1",=,0.50,NULL,5,NULL,2021-01-27
-Xie21,BNT162b2_4Weeks,S:501Y,2,"Figure 1, Table S1",=,0.25,NULL,1,NULL,2021-01-27
-Xie21,BNT162b2_4Weeks,S:501Y,3,"Figure 1, Table S1",=,2.00,NULL,1,NULL,2021-01-27
+Xie21,BNT162b2_2W,S:501Y,1,"Figure 1, Table S1",=,0.50,NULL,3,NULL,2021-01-27
+Xie21,BNT162b2_2W,S:501Y,2,"Figure 1, Table S1",=,0.25,NULL,1,NULL,2021-01-27
+Xie21,BNT162b2_4W,S:501Y,1,"Figure 1, Table S1",=,0.50,NULL,5,NULL,2021-01-27
+Xie21,BNT162b2_4W,S:501Y,2,"Figure 1, Table S1",=,0.25,NULL,1,NULL,2021-01-27
+Xie21,BNT162b2_4W,S:501Y,3,"Figure 1, Table S1",=,2.00,NULL,1,NULL,2021-01-27
