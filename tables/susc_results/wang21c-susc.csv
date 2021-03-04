@@ -1,6 +1,6 @@
 ﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,assay,date_added
 Wang21c,Etesevimab,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
-Wang21c,LY-CoV555,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,Bamlanivimab,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
 Wang21c,Casirivimab,P.1 Spike,1,Fig.1a;Figure S2,=,455,NULL,1,NULL,2021-03-03
 Wang21c,Imdevimab,P.1 Spike,1,Fig.1a;Figure S2,=,0.4,NULL,1,NULL,2021-03-03
 Wang21c,2-36,P.1 Spike,1,Fig.1a;Figure S2,=,1,NULL,1,NULL,2021-03-03
