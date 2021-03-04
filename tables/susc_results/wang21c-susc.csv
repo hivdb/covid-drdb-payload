@@ -1,0 +1,91 @@
+﻿ref_name,rx_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,cumulative_count,assay,date_added
+Wang21c,Etesevimab,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,LY-CoV555,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,Casirivimab,P.1 Spike,1,Fig.1a;Figure S2,=,455,NULL,1,NULL,2021-03-03
+Wang21c,Imdevimab,P.1 Spike,1,Fig.1a;Figure S2,=,0.4,NULL,1,NULL,2021-03-03
+Wang21c,2-36,P.1 Spike,1,Fig.1a;Figure S2,=,1,NULL,1,NULL,2021-03-03
+Wang21c,2-15,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,C121,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,2-7,P.1 Spike,1,Fig.1a;Figure S2,=,0.8,NULL,1,NULL,2021-03-03
+Wang21c,1-57,P.1 Spike,1,Fig.1a;Figure S2,=,1.2,NULL,1,NULL,2021-03-03
+Wang21c,Vir-7831,P.1 Spike,1,Fig.1a;Figure S2,=,1.4,NULL,1,NULL,2021-03-03
+Wang21c,Cilgavimab,P.1 Spike,1,Fig.1a;Figure S2,=,0.4,NULL,1,NULL,2021-03-03
+Wang21c,Tixagevimab,P.1 Spike,1,Fig.1a;Figure S2,=,3.5,NULL,1,NULL,2021-03-03
+Wang21c,5-24,P.1 Spike,1,Fig.1a;Figure S2,=,1,NULL,1,NULL,2021-03-03
+Wang21c,5-24,S:18F,1,Fig.1a;Figure S2,=,1,NULL,1,NULL,2021-03-03
+Wang21c,5-24,S:20N,1,Fig.1a;Figure S2,=,1.5,NULL,1,NULL,2021-03-03
+Wang21c,5-24,S:26S,1,Fig.1a;Figure S2,=,2.7,NULL,1,NULL,2021-03-03
+Wang21c,5-24,S:138Y,1,Fig.1a;Figure S2,=,1,NULL,1,NULL,2021-03-03
+Wang21c,5-24,S:190S,1,Fig.1a;Figure S2,=,0.6,NULL,1,NULL,2021-03-03
+Wang21c,4-8,P.1 Spike,1,Fig.1a;Figure S2,=,0.2,NULL,1,NULL,2021-03-03
+Wang21c,4-8,S:18F,1,Fig.1a;Figure S2,=,0.4,NULL,1,NULL,2021-03-03
+Wang21c,4-8,S:20N,1,Fig.1a;Figure S2,=,1,NULL,1,NULL,2021-03-03
+Wang21c,4-8,S:26S,1,Fig.1a;Figure S2,=,0.7,NULL,1,NULL,2021-03-03
+Wang21c,4-8,S:138Y,1,Fig.1a;Figure S2,=,0.2,NULL,1,NULL,2021-03-03
+Wang21c,4-8,S:190S,1,Fig.1a;Figure S2,=,1,NULL,1,NULL,2021-03-03
+Wang21c,4-18,P.1 Spike,1,Fig.1a;Figure S2,>,100,NULL,1,NULL,2021-03-03
+Wang21c,4-18,S:18F,1,Fig.1a;Figure S2,=,0.6,NULL,1,NULL,2021-03-03
+Wang21c,4-18,S:20N,1,Fig.1a;Figure S2,=,1,NULL,1,NULL,2021-03-03
+Wang21c,4-18,S:26S,1,Fig.1a;Figure S2,=,4,NULL,1,NULL,2021-03-03
+Wang21c,4-18,S:138Y,1,Fig.1a;Figure S2,=,1.2,NULL,1,NULL,2021-03-03
+Wang21c,4-18,S:190S,1,Fig.1a;Figure S2,=,1.2,NULL,1,NULL,2021-03-03
+Wang21c,5-7,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,5-7,S:18F,1,Fig.1a;Figure S2,=,9.8,NULL,1,NULL,2021-03-03
+Wang21c,5-7,S:20N,1,Fig.1a;Figure S2,=,4.4,NULL,1,NULL,2021-03-03
+Wang21c,5-7,S:26S,1,Fig.1a;Figure S2,=,1.6,NULL,1,NULL,2021-03-03
+Wang21c,5-7,S:138Y,1,Fig.1a;Figure S2,=,5.9,NULL,1,NULL,2021-03-03
+Wang21c,5-7,S:190S,1,Fig.1a;Figure S2,=,5.9,NULL,1,NULL,2021-03-03
+Wang21c,2-17,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,2-17,S:18F,1,Fig.1a;Figure S2,=,42,NULL,1,NULL,2021-03-03
+Wang21c,2-17,S:20N,1,Fig.1a;Figure S2,=,33,NULL,1,NULL,2021-03-03
+Wang21c,2-17,S:26S,1,Fig.1a;Figure S2,=,0.5,NULL,1,NULL,2021-03-03
+Wang21c,2-17,S:138Y,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,2-17,S:190S,1,Fig.1a;Figure S2,=,0.5,NULL,1,NULL,2021-03-03
+Wang21c,4-19,P.1 Spike,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,4-19,S:18F,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,4-19,S:20N,1,Fig.1a;Figure S2,=,94,NULL,1,NULL,2021-03-03
+Wang21c,4-19,S:26S,1,Fig.1a;Figure S2,=,5.3,NULL,1,NULL,2021-03-03
+Wang21c,4-19,S:138Y,1,Fig.1a;Figure S2,>,1000,NULL,1,NULL,2021-03-03
+Wang21c,4-19,S:190S,1,Fig.1a;Figure S2,=,10,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,1,"Fig. 1b, Figure S4",=,50,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,2,"Fig. 1b, Figure S4",=,1,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,3,"Fig. 1b, Figure S4",=,8.3,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,4,"Fig. 1b, Figure S4",=,2.3,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,5,"Fig. 1b, Figure S4",=,8.3,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,6,"Fig. 1b, Figure S4",=,5.4,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,7,"Fig. 1b, Figure S4",=,1,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,8,"Fig. 1b, Figure S4",=,2.6,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,9,"Fig. 1b, Figure S4",=,6.7,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,10,"Fig. 1b, Figure S4",=,1,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,11,"Fig. 1b, Figure S4",=,1.9,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,12,"Fig. 1b, Figure S4",=,4.9,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,13,"Fig. 1b, Figure S4",=,3.2,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,14,"Fig. 1b, Figure S4",=,10,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,15,"Fig. 1b, Figure S4",=,2.1,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,16,"Fig. 1b, Figure S4",=,2.3,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,17,"Fig. 1b, Figure S4",=,2.6,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,18,"Fig. 1b, Figure S4",=,1.4,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,19,"Fig. 1b, Figure S4",=,1.9,NULL,1,NULL,2021-03-03
+Wang21c,CP,P.1 Spike,20,"Fig. 1b, Figure S4",=,2.1,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,1,"Fig. 1b, Figure S5",=,3.6,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,2,"Fig. 1b, Figure S5",=,2.8,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,3,"Fig. 1b, Figure S5",=,4,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,4,"Fig. 1b, Figure S5",=,3.5,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,5,"Fig. 1b, Figure S5",=,2.2,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,6,"Fig. 1b, Figure S5",=,5.3,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,7,"Fig. 1b, Figure S5",=,3.2,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,8,"Fig. 1b, Figure S5",=,4.6,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,9,"Fig. 1b, Figure S5",=,1.9,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,10,"Fig. 1b, Figure S5",=,1.9,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,11,"Fig. 1b, Figure S5",=,1.9,NULL,1,NULL,2021-03-03
+Wang21c,Moderna_D43,P.1 Spike,12,"Fig. 1b, Figure S5",=,3.6,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,1,"Fig. 1b, Figure S5",=,1.5,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,2,"Fig. 1b, Figure S5",=,1.9,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,3,"Fig. 1b, Figure S5",=,3.1,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,4,"Fig. 1b, Figure S5",=,2.4,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,5,"Fig. 1b, Figure S5",=,2.8,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,6,"Fig. 1b, Figure S5",=,1.7,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,7,"Fig. 1b, Figure S5",=,1.5,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,8,"Fig. 1b, Figure S5",=,1.9,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,9,"Fig. 1b, Figure S5",>,100,NULL,1,NULL,2021-03-03
+Wang21c,Pfizer_BNT162b2_D28,P.1 Spike,10,"Fig. 1b, Figure S5",=,1.3,NULL,1,NULL,2021-03-03
