@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+Marot21,CP,S:614G,B.1.1.7 authentic,2,Table S2,=,1,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.1.7 authentic,3,Table S2,=,1,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.1.7 authentic,4,Table S2,=,2,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.1.7 authentic,5,Table S2,=,0.5,NULL,control,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.1.7 authentic,7,Table S2,=,2,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.1.7 authentic,8,Table S2,=,0.5,NULL,control,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.351 authentic,2,Table S2,>,100,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.351 authentic,3,Table S2,>,100,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.351 authentic,4,Table S2,>,100,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.351 authentic,5,Table S2,>,100,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.351 authentic,7,Table S2,>,100,NULL,both,1,authentic virus,2021-03-08
+Marot21,CP,S:614G,B.1.351 authentic,8,Table S2,=,2,NULL,both,1,authentic virus,2021-03-08
