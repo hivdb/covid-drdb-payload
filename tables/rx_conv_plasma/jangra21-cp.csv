@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,cumulative_group
-Jangra21,CP_weakIgG,CP
-Jangra21,CP_ModerateIgG,CP
-Jangra21,CP_StrongIgG,CP
+﻿ref_name,rx_name,variant,cumulative_group
+Jangra21,CP_weakIgG,Generic,CP
+Jangra21,CP_ModerateIgG,Generic,CP
+Jangra21,CP_StrongIgG,Generic,CP

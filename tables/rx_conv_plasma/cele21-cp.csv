@@ -1,7 +1,7 @@
-﻿ref_name,rx_name,cumulative_group
-Cele21,CP_13-0013,CP_WT
-Cele21,CP_02-0014,CP_WT
-Cele21,CP_02-0015,CP_WT
-Cele21,CP_13-0017,CP_WT
-Cele21,CP_13-0033,CP_WT
-Cele21,CP_13-0062,CP_WT
+﻿ref_name,rx_name,variant,cumulative_group
+Cele21,CP_13-0013,Generic,CP_WT
+Cele21,CP_02-0014,Generic,CP_WT
+Cele21,CP_02-0015,Generic,CP_WT
+Cele21,CP_13-0017,Generic,CP_WT
+Cele21,CP_13-0033,Generic,CP_WT
+Cele21,CP_13-0062,Generic,CP_WT

@@ -1,3 +1,3 @@
-﻿ref_name,rx_name,cumulative_group
-Weisblum20,COV-NY,CP
-Weisblum20,COV47,CP
+﻿ref_name,rx_name,variant,cumulative_group
+Weisblum20,COV-NY,Generic,CP
+Weisblum20,COV47,Generic,CP

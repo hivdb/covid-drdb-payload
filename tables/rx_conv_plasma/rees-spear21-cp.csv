@@ -1,3 +1,3 @@
-﻿ref_name,rx_name,cumulative_group
-Rees-Spear21,Mild,mild
-Rees-Spear21,Hospitalized,severe
+﻿ref_name,rx_name,variant,cumulative_group
+Rees-Spear21,Mild,Generic,mild
+Rees-Spear21,Hospitalized,Generic,severe
