@@ -308,6 +308,7 @@ Wibmer21,CA1
 Wibmer21,CC12.1
 Wibmer21,LY-CoV016
 Wibmer21,P2B-2F6
+Widera21,Bamlanivimab
 Yao21,Etesevimab
 Yao21,Casirivimab
 Yao21,Imdevimab
@@ -434,6 +435,7 @@ Weisblum20,COV-NY
 Weisblum20,COV47
 Wibmer21,CP_Titer_GT400
 Wibmer21,CP_Titer_LT400
+Widera21,CP
 Collier21,BNT162b2_3W
 Collier21,BNT162b2
 Diamond21,BNT162b2
@@ -520,6 +522,8 @@ Wang21b,Moderna_D43
 Wang21b,Pfizer_BNT162b2_D28
 Wang21c,Moderna_D43
 Wang21c,Pfizer_BNT162b2_D28
+Widera21,BNT162b2
+Widera21,BNT162b2_infected
 Wu21,Moderna_36d
 Xie21,BNT162b2_2W
 Xie21,BNT162b2_4W
