@@ -1,0 +1,47 @@
+﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+Cathcart21,Vir-7831,Control,B.1.1.7 Spike,1,Table 1; Figure 1e,=,2.3,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,B.1.351 Spike,1,Table 1; Figure 1e,=,0.6,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,P.1 Spike,1,Table 1; Figure 1e,=,0.35,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7832,Control,B.1.1.7 Spike,1,Table 1; Figure 1e,=,2.5,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7832,Control,B.1.351 Spike,1,Table 1; Figure 1e,=,0.72,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7832,Control,P.1 Spike,1,Table 1; Figure 1e,=,0.42,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:406W,1,Table 1; Figure 1e,=,0.74,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:417E,1,Table 1; Figure 1e,=,0.89,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:439K+614G,1,Table 1; Figure 1e,=,0.86,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:440D,1,Table 1; Figure 1e,=,1.29,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:444Q,1,Table 1; Figure 1e,=,1.11,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:445A,1,Table 1; Figure 1e,=,3.38,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:446V+614G,1,Table 1; Figure 1e,=,1.5,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:261D+453F,1,Table 1; Figure 1e,=,2.19,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:455F+614G,1,Table 1; Figure 1e,=,0.56,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:476S,1,Table 1; Figure 1e,=,2.94,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:484K+614G,1,Table 1; Figure 1e,=,0.33,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:486V,1,Table 1; Figure 1e,=,1.1,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:489H,1,Table 1; Figure 1e,=,1.48,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:490S,1,Table 1; Figure 1e,=,0.85,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:483K,1,Table 1; Figure 1e,=,0.98,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:494P+614G,1,Table 1; Figure 1e,=,2.5,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:334K+614G,1,Table 1; Figure 1e,=,1.27,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:335F,1,Table 1; Figure 1e,=,0.81,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:337H+614G,1,Table 1; Figure 1e,=,7.5,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:337L+614G,1,Table 1; Figure 1e,=,180,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:337R+614G,1,Table 1; Figure 1e,>,276,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:337S+614G,1,Table 1; Figure 1e,=,1.26,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:337T+614G,1,Table 1; Figure 1e,=,5.38,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:339D+614G,1,Table 1; Figure 1e,=,1.18,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:340A,1,Table 1; Figure 1e,>,100,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:340K,1,Table 1; Figure 1e,>,297,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:340G+614G,1,Table 1; Figure 1e,=,27,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:341I+614G,1,Table 1; Figure 1e,=,0.16,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:344S,1,Table 1; Figure 1e,=,0.89,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:346K+614G,1,Table 1; Figure 1e,=,0.72,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:354D,1,Table 1; Figure 1e,=,1,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:354K+95I,1,Table 1; Figure 1e,=,0.76,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:354S+614G,1,Table 1; Figure 1e,=,0.89,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:359N,1,Table 1; Figure 1e,=,0.96,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:N440K+614G,1,Table 1; Figure 1e,=,0.48,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:682W,1,Table 1; Figure 1e,=,0.52,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7831,Control,S:1128F,1,Table 1; Figure 1e,=,0.53,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7832,Control,S:340A,1,Table 1; Figure 1e,>,100,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7832,Control,S:682W,1,Table 1; Figure 1e,=,0.49,NULL,NULL,1,NULL,2021-03-12
+Cathcart21,Vir-7832,Control,S:1128F,1,Table 1; Figure 1e,=,0.6,NULL,NULL,1,NULL,2021-03-12
