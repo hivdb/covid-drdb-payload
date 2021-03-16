@@ -1,0 +1,9 @@
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+Supasa21,Casirivimab,Wuhan,B.1.1.7 authentic,1,Figure 4B,=,3,NULL,NULL,1,Authentic virus,2021-03-15
+Supasa21,Imdevimab,Wuhan,B.1.1.7 authentic,1,Figure 4B,=,1,NULL,NULL,1,Authentic virus,2021-03-15
+Supasa21,Cilgavimab,Wuhan,B.1.1.7 authentic,1,Figure 4B,=,1,NULL,NULL,1,Authentic virus,2021-03-15
+Supasa21,Tixagevimab,Wuhan,B.1.1.7 authentic,1,Figure 4B,=,1,NULL,NULL,1,Authentic virus,2021-03-15
+Supasa21,AZD1222,Wuhan,B.1.1.7 authentic,1,Figure 5B II,=,2.1,NULL,NULL,10,Authentic virus,2021-03-15
+Supasa21,BNT162b2,Wuhan,B.1.1.7 authentic,1,Figure 5C,=,3.3,NULL,NULL,25,Authentic virus,2021-03-15
+Supasa21,CP,Wuhan,B.1.1.7 authentic,1,Figure 5A,=,2.9,NULL,NULL,34,Authentic virus,2021-03-15
+Supasa21,CP_B.1.1.7,B.1.1.7 authentic,Wuhan,1,Figure 6A,=,0.9,NULL,NULL,13,Authentic virus,2021-03-15

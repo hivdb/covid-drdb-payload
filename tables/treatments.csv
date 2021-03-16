@@ -217,6 +217,10 @@ Starr21,REGN10933
 Starr21,REGN10987
 Starr21,REGN10933 + REGN10987
 Starr21,LY-CoV016
+Supasa21,Casirivimab
+Supasa21,Imdevimab
+Supasa21,Cilgavimab
+Supasa21,Tixagevimab
 Tada21b,REGN10933
 Tada21b,REGN10987
 Tada21b,REGN10933+REGN10987
@@ -446,6 +450,8 @@ Stamatatos21,Donor G pre-vaccine
 Stamatatos21,Donor H pre-vaccine
 Stamatatos21,Donor I pre-vaccine
 Stamatatos21,Donor J pre-vaccine
+Supasa21,CP
+Supasa21,CP_B.1.1.7
 Tada21,CP
 Wang21b,CP
 Wang21c,CP
@@ -536,6 +542,8 @@ Stamatatos21,Donor G post-vaccine
 Stamatatos21,Donor H post-vaccine
 Stamatatos21,Donor I post-vaccine
 Stamatatos21,Donor J post-vaccine
+Supasa21,BNT162b2
+Supasa21,AZD1222
 Tada21,BNT162b2_1M
 Wang21,Moderna
 Wang21,Pfizer-BioNTech
