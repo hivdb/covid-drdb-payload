@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Edara21,CP,Control,S:501Y,1,Figure 1C,<,3,NULL,NULL,19,authentic virus,2021-02-05
 Edara21,CP,Control,S:501Y,2,Figure 1C,=,4,NULL,NULL,1,authentic virus,2021-02-05
 Edara21,mRNA-1273,Control,S:501Y,1,Figure 1D,<,2,NULL,NULL,14,authentic virus,2021-02-05

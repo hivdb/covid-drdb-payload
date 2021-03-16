@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Tada21b,REGN10933,Control,S:69del+70del+501Y+681H,1,Table 1,=,1.1,NULL,NULL,1,NULL,2021-02-19
 Tada21b,REGN10933,Control,S:69del+70del,1,Table 1,=,1.9,NULL,NULL,1,NULL,2021-02-19
 Tada21b,REGN10933,Control,S:144del,1,Table 1,=,1.5,NULL,NULL,1,NULL,2021-02-19

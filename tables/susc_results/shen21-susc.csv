@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Shen21,B38,Control,S:501Y,1,Table 1,=,2.2,NULL,NULL,1,NULL,2021-01-28
 Shen21,COVA1-18,Control,S:501Y,1,Table 1,=,5.2,NULL,NULL,1,NULL,2021-01-28
 Shen21,COVA2-15,Control,S:501Y,1,Table 1,=,15,NULL,NULL,1,NULL,2021-01-28

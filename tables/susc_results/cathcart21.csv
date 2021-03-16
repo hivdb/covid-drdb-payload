@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Cathcart21,Vir-7831,Control,B.1.1.7 Spike,1,Table 1; Figure 1e,=,2.3,NULL,NULL,1,NULL,2021-03-12
 Cathcart21,Vir-7831,Control,B.1.351 Spike,1,Table 1; Figure 1e,=,0.6,NULL,NULL,1,NULL,2021-03-12
 Cathcart21,Vir-7831,Control,P.1 Spike,1,Table 1; Figure 1e,=,0.35,NULL,NULL,1,NULL,2021-03-12

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Huang21,ZF2001-serum-012,Control,B.1.351 Spike,1,Table 1,=,1.5,NULL,NULL,1,NULL,2021-02-04
 Huang21,ZF2001-serum-014,Control,B.1.351 Spike,1,Table 1,=,1.0,NULL,NULL,1,NULL,2021-02-04
 Huang21,ZF2001-serum-024,Control,B.1.351 Spike,1,Table 1,=,1.0,NULL,NULL,1,NULL,2021-02-04

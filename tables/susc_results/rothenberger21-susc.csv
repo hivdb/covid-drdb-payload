@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Rothenberger21,REGN10933,Control,S:80A+215G+484K+501Y+701V,1,Table 1a,=,4.9,NULL,NULL,1,NULL,2021-02-04
 Rothenberger21,REGN10933,Control,B.1.1.7 Spike,1,Table 1a,=,0.6,NULL,NULL,1,NULL,2021-02-04
 Rothenberger21,REGN10933,Control,S:501Y,1,Table 1a,=,1.1,NULL,NULL,1,NULL,2021-02-04

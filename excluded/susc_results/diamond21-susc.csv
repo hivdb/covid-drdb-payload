@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Diamond21,Tixagevimab,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.7,NULL,NULL,1,authentic virus,2021-03-06
 Diamond21,Cilgavimab,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.4,NULL,NULL,1,authentic virus,2021-03-06
 Diamond21,Tixagevimab + Cilgavimab,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.1,NULL,NULL,1,authentic virus,2021-03-06

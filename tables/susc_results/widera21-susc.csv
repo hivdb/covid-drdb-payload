@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Widera21,Bamlanivimab,Control,B.1.1.7 authentic,1,Table 1,=,1,NULL,NULL,1,authentic virus,2021-03-10
 Widera21,CP,Control,B.1.1.7 authentic,1,Table 1,=,8,NULL,NULL,1,authentic virus,2021-03-10
 Widera21,CP,Control,B.1.1.7 authentic,2,Table 1,>,1000,NULL,experimental,1,authentic virus,2021-03-10

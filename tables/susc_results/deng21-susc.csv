@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Deng21,CP,Wuhan,B.1.429 authentic,1,"Figure 5, Supplementary Table 3",=,4,NULL,NULL,1,authentic virus,2021-03-10
 Deng21,CP,Wuhan,B.1.429 authentic,3,"Figure 5, Supplementary Table 3",=,1,NULL,NULL,1,authentic virus,2021-03-10
 Deng21,CP,Wuhan,B.1.429 authentic,4,"Figure 5, Supplementary Table 3",=,4,NULL,NULL,1,authentic virus,2021-03-10

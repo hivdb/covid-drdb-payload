@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Planas21,mAb48,Control,B.1.1.7 Spike,1,Figure 1d,>,100,NULL,NULL,1,NULL,2021-02-16
 Planas21,mAb48,Control,B.1.351 Spike,1,Figure 1d,>,100,NULL,NULL,1,NULL,2021-02-16
 Planas21,mAb102,Control,B.1.1.7 Spike,1,Figure 1d,=,1.4,NULL,NULL,1,NULL,2021-02-16

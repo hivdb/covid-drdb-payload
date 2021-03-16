@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 McCallum21,S2L28,Control,S:12P,1,Figure 4B,>,1000.0,NULL,NULL,1,NULL,2021-01-27
 McCallum21,S2M28,Control,S:12P,1,Figure 4B,~,100.0,NULL,NULL,1,NULL,2021-01-27
 McCallum21,S2X28,Control,S:12P,1,Figure 4B,>,1000.0,NULL,NULL,1,NULL,2021-01-27

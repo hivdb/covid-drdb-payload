@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Jangra21,CP_BNT162b2,Control,S:484K,1,Figure 1,=,8.47,NULL,NULL,1,NULL,2021-01-29
 Jangra21,CP_BNT162b2,Control,S:484K,2,Figure 1,=,4.29,NULL,NULL,1,NULL,2021-01-29
 Jangra21,CP_BNT162b2,Control,S:484K,3,Figure 1,=,5.05,NULL,NULL,1,NULL,2021-01-29

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Greaney21,CB6,Control,S:456A,1,bit.ly/3c09LuV,=,14.87,NULL,NULL,1,NULL,2021-01-27
 Greaney21,CB6,Control,S:456K,1,bit.ly/3c09LuV,=,32.59,NULL,NULL,1,NULL,2021-01-27
 Greaney21,COV2-2082,Control,S:456A,1,bit.ly/3c09LuV,=,1.548,NULL,NULL,1,NULL,2021-01-27

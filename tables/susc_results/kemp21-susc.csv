@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Kemp21,COVA1-18,Control,S:796H,1,Ext Data Fig 8,=,1.6,NULL,NULL,1,NULL,2021-02-08
 Kemp21,COVA2-39,Control,S:796H,1,Ext Data Fig 8,=,1.4,NULL,NULL,1,NULL,2021-02-08
 Kemp21,COVA1-16,Control,S:796H,1,Ext Data Fig 8,=,0.5,NULL,NULL,1,NULL,2021-02-08

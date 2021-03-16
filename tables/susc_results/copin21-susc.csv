@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Copin21,Casirivimab,Control,B.1.1.7 Spike,1,Figure1B,=,1.2,NULL,NULL,1,NULL,2021-03-13
 Copin21,Imdevimab,Control,B.1.1.7 Spike,1,Figure1B,=,0.7,NULL,NULL,1,NULL,2021-03-13
 Copin21,Casirivimab+Imdevimab,Control,B.1.1.7 Spike,1,Figure1B,=,0.9,NULL,NULL,1,NULL,2021-03-13

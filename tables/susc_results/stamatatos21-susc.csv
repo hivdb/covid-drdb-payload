@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Stamatatos21,Donor A pre-vaccine,Control,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,3.9,NULL,NULL,1,NULL,2021-02-08
 Stamatatos21,Donor B pre-vaccine,Control,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,18.5,NULL,NULL,1,NULL,2021-02-08
 Stamatatos21,Donor C pre-vaccine,Control,B.1.351 Spike:-18F-242del-243del-244del-246I,1,"Table 1; Figure 3, S4",=,2.7,NULL,NULL,1,NULL,2021-02-08

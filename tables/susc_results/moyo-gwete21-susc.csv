@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,1,Figure 3A,=,91.1,NULL,NULL,1,NULL,2021-03-09
 Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,2,Figure 3A,=,106.4,NULL,NULL,1,NULL,2021-03-09
 Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,3,Figure 3A,=,7.6,NULL,NULL,1,NULL,2021-03-09

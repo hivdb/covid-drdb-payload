@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Hoffmann21b,ConvSerum 1,Control,S:453F,1,Figure 3A,=,3.1,NULL,NULL,1,NULL,2021-02-17
 Hoffmann21b,ConvSerum 2,Control,S:453F,1,Figure 3A,=,1.6,NULL,NULL,1,NULL,2021-02-17
 Hoffmann21b,ConvSerum 3,Control,S:453F,1,Figure 3A,=,1.2,NULL,NULL,1,NULL,2021-02-17

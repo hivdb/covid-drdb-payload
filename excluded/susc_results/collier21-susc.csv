@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,1,Table 1 (medRxiv V1),=,1.8,NULL,NULL,1,NULL,2021-01-27
 Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,2,Table 1 (medRxiv V1),=,2.2,NULL,NULL,1,NULL,2021-01-27
 Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,3,Table 1 (medRxiv V1),=,2.7,NULL,NULL,1,NULL,2021-01-27

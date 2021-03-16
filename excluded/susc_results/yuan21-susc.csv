@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Yuan21,COVA2-39,Control,S:417N,1,Figure 1C,<,10,NULL,NULL,1,NULL,2021-02-18
 Yuan21,C144,Control,S:417N,1,Figure 1C,<,10,NULL,NULL,1,NULL,2021-02-18
 Yuan21,C121,Control,S:417N,1,Figure 1C,<,10,NULL,NULL,1,NULL,2021-02-18

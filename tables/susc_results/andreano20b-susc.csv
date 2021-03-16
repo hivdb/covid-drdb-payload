@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Andreano20b,B07,Control,PT188_EM,1,Figure 2b; Table S3,=,2.52,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,C14,Control,PT188_EM,1,Figure 2b; Table S3,=,0.56,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,D14,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27

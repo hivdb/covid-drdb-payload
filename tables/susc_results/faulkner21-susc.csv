@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Faulkner21,CP_Patient,Wuhan,B.1.1.7 authentic,1,Figure 2b,=,1.4,NULL,NULL,1,authentic virus,2021-03-08
 Faulkner21,CP_Patient,Wuhan,B.1.351 authentic,1,Figure 2b,=,7.0,NULL,NULL,1,authentic virus,2021-03-08
 Faulkner21,CP_Patient,Wuhan,B.1.1.7 authentic,2,Figure 2b,=,1.6,NULL,NULL,1,authentic virus,2021-03-08

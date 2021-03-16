@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Tada21,CP,Control,S:501Y,1,Figure 2,=,0.3,NULL,NULL,1,NULL,2021-02-07
 Tada21,CP,Control,S:501Y,2,Figure 2,=,0.3,NULL,NULL,1,NULL,2021-02-07
 Tada21,CP,Control,S:501Y,3,Figure 2,=,0.4,NULL,NULL,1,NULL,2021-02-07

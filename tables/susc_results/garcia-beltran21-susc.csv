@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Garcia-Beltran21,BNT162b2,Control,S:614G,1,Figure 3C,=,2.1,NULL,NULL,22,NULL,2021-02-18
 Garcia-Beltran21,BNT162b2,Control,B.1.1.7 Spike,1,Figure 3C,=,2.3,NULL,NULL,22,NULL,2021-02-18
 Garcia-Beltran21,BNT162b2,Control,B.1.1.298 Spike,1,Figure 3C,=,3.4,NULL,NULL,22,NULL,2021-02-18

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Yao21,Etesevimab,Control,S:501Y,1,Figure 3,~,5,NULL,NULL,1,NULL,2021-02-07
 Yao21,Casirivimab,Control,S:501Y,1,Figure 3,~,1,NULL,NULL,1,NULL,2021-02-07
 Yao21,Imdevimab,Control,S:501Y,1,Figure 3,~,1,NULL,NULL,1,NULL,2021-02-07

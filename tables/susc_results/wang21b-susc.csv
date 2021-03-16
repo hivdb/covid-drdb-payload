@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Wang21b,1-57,Control,B.1.1.7 Spike,1,Fig. 2c,=,0.5,NULL,NULL,1,NULL,2021-01-31
 Wang21b,2-15,Control,B.1.1.7 Spike,1,Fig. 2c,=,0.5,NULL,NULL,1,NULL,2021-01-31
 Wang21b,2-17,Control,B.1.1.7 Spike,1,Fig. 2c,=,121.2,NULL,NULL,1,NULL,2021-01-31

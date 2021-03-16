@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_strain_name,strain_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Wibmer21,CA1,Control,B.1.351 Spike,1,Figure 1d,>,100,NULL,NULL,1,NULL,2021-01-27
 Wibmer21,CA1,Control,B.1.351 RBD,1,Figure 1d,>,100,NULL,NULL,1,NULL,2021-01-27
 Wibmer21,CC12.1,Control,B.1.351 Spike,1,Figure 1d,>,100,NULL,NULL,1,NULL,2021-01-27
