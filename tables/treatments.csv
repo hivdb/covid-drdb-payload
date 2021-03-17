@@ -85,6 +85,17 @@ Collier21,S2X620
 Copin21,Casirivimab
 Copin21,Imdevimab
 Copin21,Casirivimab+Imdevimab
+Dejnirattisai21,Cilgavimab
+Dejnirattisai21,Tixagevimab
+Dejnirattisai21,AZD7442
+Dejnirattisai21,Imdevimab
+Dejnirattisai21,Casirivimab
+Dejnirattisai21,ADG10
+Dejnirattisai21,ADG20
+Dejnirattisai21,ADG30
+Dejnirattisai21,Bamlanivimab
+Dejnirattisai21,Etesevimab
+Dejnirattisai21,Vir-7831
 Diamond21,Tixagevimab
 Diamond21,Cilgavimab
 Diamond21,Tixagevimab + Cilgavimab
@@ -217,10 +228,17 @@ Starr21,REGN10933
 Starr21,REGN10987
 Starr21,REGN10933 + REGN10987
 Starr21,LY-CoV016
-Supasa21,Casirivimab
-Supasa21,Imdevimab
 Supasa21,Cilgavimab
 Supasa21,Tixagevimab
+Supasa21,AZD7442
+Supasa21,Imdevimab
+Supasa21,Casirivimab
+Supasa21,ADG10
+Supasa21,ADG20
+Supasa21,ADG30
+Supasa21,Bamlanivimab
+Supasa21,Etesevimab
+Supasa21,Vir-7831
 Tada21b,REGN10933
 Tada21b,REGN10987
 Tada21b,REGN10933+REGN10987
@@ -352,6 +370,17 @@ Yuan21,CV136-142
 Yuan21,CAS/IMD
 Yuan21,CV07-209
 Yuan21,CC6.29
+Zhou21b,Cilgavimab
+Zhou21b,Tixagevimab
+Zhou21b,AZD7442
+Zhou21b,Imdevimab
+Zhou21b,Casirivimab
+Zhou21b,ADG10
+Zhou21b,ADG20
+Zhou21b,ADG30
+Zhou21b,Bamlanivimab
+Zhou21b,Etesevimab
+Zhou21b,Vir-7831
 Andreano20b,PT004
 Andreano20b,PT005
 Andreano20b,PT006
@@ -378,6 +407,7 @@ Cele21,CP_13-0017
 Cele21,CP_13-0033
 Cele21,CP_13-0062
 Collier21,CP
+Dejnirattisai21,CP
 Deng21,CP
 Diamond21,CP
 Edara21,CP
@@ -464,10 +494,13 @@ Weisblum20,COV47
 Wibmer21,CP_Titer_GT400
 Wibmer21,CP_Titer_LT400
 Widera21,CP
+Zhou21b,CP
 Becker21,BNT162b2
 Brown21,BNT162b2
 Collier21,BNT162b2_3W
 Collier21,BNT162b2
+Dejnirattisai21,BNT162b2
+Dejnirattisai21,AZD1222
 Deng21,BNT162b2
 Deng21,mRNA-1273
 Diamond21,BNT162b2
@@ -562,6 +595,8 @@ Wu21,Moderna_36d
 Xie21,BNT162b2_2W
 Xie21,BNT162b2_4W
 Xie21b,CP_BNT162b2_1M
+Zhou21b,BNT162b2
+Zhou21b,AZD1222
 Kemp21,None
 Choi20,None
 Avanzato20,None
