@@ -1,0 +1,16 @@
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+FDA21,Bamlanivimab,Control,B.1.1.7 Spike,1,Bamlanivimab Table 3,=,1,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab,Control,B.1.351 Spike,1,Bamlanivimab Table 3,=,2360,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab,Control,P.1 Spike,1,Bamlanivimab Table 3,=,2360,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab,Control,B.1.429 Spike,1,Bamlanivimab Table 3,=,1020,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab,Control,B.1.526 Spike,1,Bamlanivimab Table 3,=,2360,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Control,B.1.1.7 Spike,1,BAM+ETE Table 3,=,1,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Control,B.1.351 Spike,1,BAM+ETE Table 3,=,45,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Control,P.1 Spike,1,BAM+ETE Table 3,=,511,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Control,B.1.429 Spike,1,BAM+ETE Table 3,=,7.4,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Control,B.1.526 Spike,1,BAM+ETE Table 3,=,17,NULL,NULL,1,NULL,2021-03-18
+FDA21,Casirivimab+Imdevimab,Control,B.1.1.7 Spike,1,CAS+IMD Table 3,=,1,NULL,NULL,1,NULL,2021-03-18
+FDA21,Casirivimab+Imdevimab,Control,B.1.351 Spike,1,CAS+IMD Table 3,=,1,NULL,NULL,1,NULL,2021-03-18
+FDA21,Casirivimab+Imdevimab,Control,P.1 Spike,1,CAS+IMD Table 3,=,1,NULL,NULL,1,NULL,2021-03-18
+FDA21,Casirivimab+Imdevimab,Control,B.1.429 Spike,1,CAS+IMD Table 3,=,1,NULL,NULL,1,NULL,2021-03-18
+FDA21,Casirivimab+Imdevimab,Control,B.1.526 Spike,1,CAS+IMD Table 3,=,1,NULL,NULL,1,NULL,2021-03-18
