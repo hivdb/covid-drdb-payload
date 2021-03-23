@@ -1,0 +1,27 @@
+﻿ref_name,rx_name,dosage,host,infection_name,variant_name,patient,sampling,num_patients,num_patients_with_mut,section,note,date_added
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:484A,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:484D,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:484G,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:484K,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:484Q,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:484V,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:490L,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:490S,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:490V,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:494L,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S:494P,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Casirivimab+Imdevimab,2400mg,Human,Unknown,S:446V,,D25,66,1,CAS+IMD page 24,R10933-10987-COV-2067,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:417N,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:420N,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:460T,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:484A,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:484D,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:484G,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:484K,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:484Q,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:484V,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:490L,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:490S,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:490V,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:494L,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S:494P,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
