@@ -270,6 +270,15 @@ Wang21,C682
 Wang21,C664
 Wang21,C678
 Wang21,C683
+Wang21,Casirivimab
+Wang21,Imdevimab
+Wang21,Casirivimab + Imdevimab
+Wang21,Tixagevimab
+Wang21,Cilgavimab
+Wang21,Tixagevimab + Cilgavimab
+Wang21,C135
+Wang21,C144
+Wang21,C144+C135
 Wang21b,1-57
 Wang21b,2-15
 Wang21b,2-17
@@ -495,6 +504,8 @@ Supasa21,CP_B.1.1.7
 Tada21,CP
 Tang21,CP
 Tang21,hCoV-2IG
+Wang21,CP_1M
+Wang21,CP_6M
 Wang21b,CP
 Wang21c,CP
 Wang21f,CP
