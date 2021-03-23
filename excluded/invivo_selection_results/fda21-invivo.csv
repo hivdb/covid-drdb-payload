@@ -1,15 +1,15 @@
 ﻿ref_name,rx_name,dosage,host,infection_name,gene,position,amino_acid,patient,sampling,num_patients,num_patients_with_mut,section,note,date_added
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,A,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,D,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,G,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,K,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,Q,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,V,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,490,L,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,490,S,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,490,V,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,494,L,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
-FDA21,Bamlanivimab,700mg,Human,Unknown,S,494,P,,D7,97,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,A,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,D,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,G,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,K,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,Q,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,484,V,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,490,L,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,490,S,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,490,V,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,494,L,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
+FDA21,Bamlanivimab,700mg,Human,Unknown,S,494,P,,D7,98,9,BAM page 22,BLAZE-1,2021-03-23
 FDA21,Casirivimab+Imdevimab,2400mg,Human,Unknown,S,446,V,,D25,66,1,CAS+IMD page 24,R10933-10987-COV-2067,2021-03-23
 FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S,417,N,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
 FDA21,Bamlanivimab+Etesevimab,None,Human,Unknown,S,420,N,,D7,102,4,BAM+ETE page 27,BLAZE-1,2021-03-23
