@@ -1,15 +1,15 @@
 ﻿ref_name,rx_name,dosage,host,infection_name,gene,position,amino_acid,patient,sampling,num_patients,num_patients_with_mut,section,note,date_added
-Copin21,None,None,Human,Unknown,S,427,N,Hospitalized,None,90,4,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,Unknown,S,477,N,Hospitalized,None,88,3,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,Unknown,S,501,T,Hospitalized,None,88,4,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,Unknown,S,537,R,Hospitalized,None,88,2,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,high,Human,Unknown,S,477,N,Hospitalized,None,109,5,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,high,Human,Unknown,S,501,T,Hospitalized,None,109,3,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,None,None,Human,Unknown,S,477,N,Nonhospitalized,None,216,6,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,None,None,Human,Unknown,S,520,S,Nonhospitalized,None,216,3,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,Unknown,S,477,N,Nonhospitalized,None,248,5,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,Unknown,S,446,V,Nonhospitalized,None,248,4,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,high,Human,Unknown,S,494,P,Nonhospitalized,None,212,3,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,None,None,Human,NULL,S,427,N,Hospitalized,None,90,4,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,477,N,Hospitalized,None,88,3,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,501,T,Hospitalized,None,88,4,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,537,R,Hospitalized,None,88,2,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,Casirivimab+Imdevimab,high,Human,NULL,S,477,N,Hospitalized,None,109,5,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,Casirivimab+Imdevimab,high,Human,NULL,S,501,T,Hospitalized,None,109,3,Figure 4B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,None,None,Human,NULL,S,477,N,Nonhospitalized,None,216,6,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,None,None,Human,NULL,S,520,S,Nonhospitalized,None,216,3,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,477,N,Nonhospitalized,None,248,5,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,446,V,Nonhospitalized,None,248,4,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
+Copin21,Casirivimab+Imdevimab,high,Human,NULL,S,494,P,Nonhospitalized,None,212,3,Figure 6B,>=2 samples from >=1 patient (uncertain how many samples sequenced per person),2021-03-13
 Copin21,None,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Prevention,2021-03-13
 Copin21,Casirivimab+Imdevimab,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Prevention,2021-03-13
 Copin21,None,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Treatment,2021-03-13
