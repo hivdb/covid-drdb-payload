@@ -53,7 +53,7 @@ Marot21,BNT162b2,S:614G,B.1.351 authentic,22,Table S1,=,4,NULL,NULL,1,authentic 
 Marot21,BNT162b2,S:614G,B.1.351 authentic,23,Table S1,=,4,NULL,NULL,1,authentic virus,2021-03-08
 Marot21,BNT162b2,S:614G,B.1.351 authentic,24,Table S1,=,8,NULL,NULL,1,authentic virus,2021-03-08
 Marot21,BNT162b2,S:614G,B.1.351 authentic,25,Table S1,=,8,NULL,NULL,1,authentic virus,2021-03-08
-Marot21,BNT162b2,S:614G,B.1.351 authentic,26,Table S1,>,100,NULL,experimental,1,authentic virus,2021-03-08
+Marot21,BNT162b2,S:614G,B.1.351 authentic,26,Table S1,=,2,NULL,experimental,1,authentic virus,2021-03-08
 Marot21,BNT162b2,S:614G,B.1.351 authentic,27,Table S1,=,2,NULL,NULL,1,authentic virus,2021-03-08
 Marot21,BNT162b2,S:614G,B.1.351 authentic,28,Table S1,=,4,NULL,experimental,1,authentic virus,2021-03-08
 Marot21,BNT162b2,S:614G,B.1.351 authentic,29,Table S1,=,8,NULL,NULL,1,authentic virus,2021-03-08
@@ -71,7 +71,6 @@ Marot21,CP,S:614G,B.1.351 authentic,6,Table S2,=,4,NULL,experimental,1,authentic
 Marot21,CP,S:614G,B.1.351 authentic,9,Table S2,=,4,NULL,experimental,1,authentic virus,2021-03-08
 Marot21,CP,S:614G,B.1.351 authentic,10,Table S2,=,8,NULL,experimental,1,authentic virus,2021-03-08
 Marot21,CP,S:614G,B.1.351 authentic,11,Table S2,=,4,NULL,NULL,1,authentic virus,2021-03-08
-Marot21,CP,S:614G,B.1.351 authentic,12,Table S2,>,100,NULL,experimental,1,authentic virus,2021-03-08
 Marot21,CP,S:614G,B.1.351 authentic,13,Table S2,=,4,NULL,experimental,1,authentic virus,2021-03-08
 Marot21,CP,S:614G,B.1.351 authentic,14,Table S2,=,8,NULL,experimental,1,authentic virus,2021-03-08
 Marot21,CP,S:614G,B.1.351 authentic,15,Table S2,=,8,NULL,NULL,1,authentic virus,2021-03-08
