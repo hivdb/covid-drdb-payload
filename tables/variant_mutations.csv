@@ -13,9 +13,9 @@ B.1.1.7 authentic,nsp6,108,del
 B.1.1.7 authentic,ORF8,27,stop
 B.1.1.7 authentic,ORF8,52,I
 B.1.1.7 authentic,ORF8,73,C
-B.1.1.7 authentic,PL,183,I
-B.1.1.7 authentic,PL,890,D
-B.1.1.7 authentic,PL,1412,T
+B.1.1.7 authentic,PLpro,183,I
+B.1.1.7 authentic,PLpro,890,D
+B.1.1.7 authentic,PLpro,1412,T
 B.1.1.7 authentic,RdRP,323,L
 B.1.1.7 authentic,S,69,del
 B.1.1.7 authentic,S,70,del
@@ -55,7 +55,7 @@ B.1.1.7 Spike+S:484K,S,681,H
 B.1.1.7 Spike+S:484K,S,716,I
 B.1.1.7 Spike+S:484K,S,982,A
 B.1.1.7 Spike+S:484K,S,1118,H
-B.1.351 authentic,3CL,90,R
+B.1.351 authentic,_3CLpro,90,R
 B.1.351 authentic,E,71,L
 B.1.351 authentic,N,205,I
 B.1.351 authentic,nsp13,588,I
@@ -64,7 +64,7 @@ B.1.351 authentic,nsp4,26,Y
 B.1.351 authentic,nsp4,137,L
 B.1.351 authentic,ORF3a,57,H
 B.1.351 authentic,ORF3a,171,L
-B.1.351 authentic,PL,837,N
+B.1.351 authentic,PLpro,837,N
 B.1.351 authentic,RdRP,135,Y
 B.1.351 authentic,RdRP,323,L
 B.1.351 authentic,S,18,F
@@ -154,8 +154,8 @@ B.1.351 Spike:-246I,S,701,V
 B.1.427 authentic,nsp2,85,I
 B.1.427 authentic,nsp4,395,T
 B.1.427 authentic,RdRP,323,L
-B.1.427 authentic,helicase,53,L
-B.1.427 authentic,helicase,260,Y
+B.1.427 authentic,nsp13,53,L
+B.1.427 authentic,nsp13,260,Y
 B.1.427 authentic,S,13,I
 B.1.427 authentic,S,152,C
 B.1.427 authentic,S,452,R
@@ -165,7 +165,7 @@ B.1.427 authentic,N,205,I
 B.1.429 authentic,nsp2,85,I
 B.1.429 authentic,nsp9,64,V
 B.1.429 authentic,RdRP,323,L
-B.1.429 authentic,helicase,260,Y
+B.1.429 authentic,nsp13,260,Y
 B.1.429 authentic,S,13,I
 B.1.429 authentic,S,152,C
 B.1.429 authentic,S,452,R
@@ -188,8 +188,8 @@ B.1.526 Spike:-484K+477N,S,253,G
 B.1.526 Spike:-484K+477N,S,477,N
 B.1.526 Spike:-484K+477N,S,614,G
 B.1.526 Spike:-484K+477N,S,701,V
-B.1 clade G authentic,ORF1ab,1102,G
-B.1 clade G authentic,ORF1ab,314,L
+B.1 clade G authentic,PLpro,284,G
+B.1 clade G authentic,RdRP,323,L
 B.1 clade G authentic,S,215,H
 B.1 clade G authentic,S,614,F
 B.1 clade G authentic,S,640,F
@@ -203,7 +203,7 @@ B.1.1.50 authentic+S:681H,S,681,H
 B.1.1.50 authentic+S:681H,N,204,R
 B.1.1.50 authentic+S:681H,N,203,K
 B.1.1.50 authentic+S:681H,ORF3a,131,C
-B.1.1.50 authentic+S:681H,nsp3,720,I
+B.1.1.50 authentic+S:681H,PLpro,720,I
 B.1.1.50 authentic+S:681H,RdRP,176,V
 B.1.1.50 authentic+S:681H,RdRP,379,S
 B.1.1.50 authentic+S:681H,RdRP,666,I
@@ -247,15 +247,14 @@ P.1 Spike,S,614,G
 P.1 Spike,S,655,Y
 P.1 Spike,S,1027,I
 P.1 Spike,S,1176,F
-P.1 authentic,PL,370,L
-P.1 authentic,PL,977,Q
+P.1 authentic,PLpro,370,L
+P.1 authentic,PLpro,977,Q
 P.1 authentic,RdRP,323,L
-P.1 authentic,nsp12,341,D
+P.1 authentic,nsp13,341,D
 P.1 authentic,ORF3a,253,P
 P.1 authentic,ORF8,92,K
 P.1 authentic,N,80,R
 P.1 authentic,N,203,K
-P.1 authentic,ORF9b,77,E
 P.1 authentic,S,18,F
 P.1 authentic,S,20,N
 P.1 authentic,S,26,S
@@ -271,7 +270,7 @@ P.1 authentic,S,1176,F
 P.2 Spike,S,484,K
 P.2 Spike,S,614,G
 P.2 Spike,S,1176,F
-P.2 authentic,3CL,205,V
+P.2 authentic,_3CLpro,205,V
 P.2 authentic,nsp7,71,F
 P.2 authentic,RdRP,323,L
 P.2 authentic,S,484,K
