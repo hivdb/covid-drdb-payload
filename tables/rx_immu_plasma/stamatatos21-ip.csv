@@ -1,11 +1,7 @@
 ﻿ref_name,rx_name,vaccine_name,cumulative_group
-Stamatatos21,Donor A post-vaccine,BNT162b2,BNT
-Stamatatos21,Donor B post-vaccine,BNT162b2,BNT
-Stamatatos21,Donor C post-vaccine,BNT162b2,BNT
-Stamatatos21,Donor D post-vaccine,BNT162b2,BNT
-Stamatatos21,Donor E post-vaccine,BNT162b2,BNT
-Stamatatos21,Donor F post-vaccine,BNT162b2,BNT
-Stamatatos21,Donor G post-vaccine,BNT162b2,BNT
-Stamatatos21,Donor H post-vaccine,mRNA-1273,Mod
-Stamatatos21,Donor I post-vaccine,mRNA-1273,Mod
-Stamatatos21,Donor J post-vaccine,mRNA-1273,Mod
+Stamatatos21,BNT_infected_post_1,BNT162b2,BNT_dose1
+Stamatatos21,BNT_infected_post_2,BNT162b2,BNT
+Stamatatos21,MOD_infected_post_1,mRNA-1273,MOD_dose1
+Stamatatos21,BNT_uninfected_post_2,BNT162b2,BNT_uninfected
+Stamatatos21,MOD_uninfected_post_2,mRNA-1273,MOD_uninfected
+Stamatatos21,MOD_infected_post_2,mRNA-1273,MOD

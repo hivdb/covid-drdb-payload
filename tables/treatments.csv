@@ -229,7 +229,6 @@ Stamatatos21,CV30
 Stamatatos21,CV3-1
 Stamatatos21,CV2-75
 Stamatatos21,CV1
-Stamatatos21,CV3-25
 Starr21,REGN10933
 Starr21,REGN10987
 Starr21,REGN10933 + REGN10987
@@ -499,16 +498,8 @@ Skelly21,CP125
 Skelly21,CP204
 Skelly21,CP230
 Skelly21,CP238
-Stamatatos21,Donor A pre-vaccine
-Stamatatos21,Donor B pre-vaccine
-Stamatatos21,Donor C pre-vaccine
-Stamatatos21,Donor D pre-vaccine
-Stamatatos21,Donor E pre-vaccine
-Stamatatos21,Donor F pre-vaccine
-Stamatatos21,Donor G pre-vaccine
-Stamatatos21,Donor H pre-vaccine
-Stamatatos21,Donor I pre-vaccine
-Stamatatos21,Donor J pre-vaccine
+Stamatatos21,BNT_infected_pre
+Stamatatos21,MOD_infected_pre
 Supasa21,CP
 Supasa21,CP_B.1.1.7
 Tada21,CP
@@ -579,16 +570,12 @@ Skelly21,BNTsd364
 Skelly21,BNTsd537
 Skelly21,BNTsd557
 Skelly21,BNT162b2
-Stamatatos21,Donor A post-vaccine
-Stamatatos21,Donor B post-vaccine
-Stamatatos21,Donor C post-vaccine
-Stamatatos21,Donor D post-vaccine
-Stamatatos21,Donor E post-vaccine
-Stamatatos21,Donor F post-vaccine
-Stamatatos21,Donor G post-vaccine
-Stamatatos21,Donor H post-vaccine
-Stamatatos21,Donor I post-vaccine
-Stamatatos21,Donor J post-vaccine
+Stamatatos21,BNT_infected_post_1
+Stamatatos21,BNT_infected_post_2
+Stamatatos21,MOD_infected_post_1
+Stamatatos21,BNT_uninfected_post_2
+Stamatatos21,MOD_uninfected_post_2
+Stamatatos21,MOD_infected_post_2
 Supasa21,BNT162b2
 Supasa21,AZD1222
 Tada21,BNT162b2_1M
