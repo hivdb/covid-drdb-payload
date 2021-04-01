@@ -24,16 +24,8 @@ Collier21,CP,Control,S:69del+70del+501Y+570D,7,Ext Data Fig. 2c (medRxiv V4),=,0
 Collier21,CP,Control,S:69del+70del+501Y+570D,8,Ext Data Fig. 2c (medRxiv V4),=,0.8,NULL,NULL,1,NULL,2021-02-26
 Collier21,CP,Control,S:69del+70del+501Y+570D,9,Ext Data Fig. 2c (medRxiv V4),=,3,NULL,NULL,1,NULL,2021-02-26
 Collier21,CP,Control,S:69del+70del+501Y+570D,10,Ext Data Fig. 2c (medRxiv V4),=,0.6,NULL,NULL,1,NULL,2021-02-26
-Collier21,4A8,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2L26,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2L50,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.2,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2M28,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,41.4,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2X107,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2X124,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2X158,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2X28,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2X303,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2X333,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2D106,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.7,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2D19,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,587.5,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2D32,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.4,NULL,NULL,1,NULL,2021-02-08
@@ -46,7 +38,6 @@ Collier21,S2E13,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,2.3,NULL
 Collier21,S2E16,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,1.1,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2E23,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,1.3,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2H14,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,140.1,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2H19,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2H58,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.5,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2H7,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,1.2,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2H70,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.4,NULL,NULL,1,NULL,2021-02-08
@@ -57,7 +48,6 @@ Collier21,S2N22,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.7,NULL
 Collier21,S2N28,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.3,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2X128,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,2.2,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2X16,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,2.3,NULL,NULL,1,NULL,2021-02-08
-Collier21,S2X192,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2X227,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.5,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2X246,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,0.9,NULL,NULL,1,NULL,2021-02-08
 Collier21,S2X30,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),=,1.7,NULL,NULL,1,NULL,2021-02-08
@@ -120,16 +110,16 @@ Collier21,S2H19,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,100,NULL,NULL
 Collier21,S2D19,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,100,NULL,NULL,1,NULL,2021-02-26
 Collier21,S2H70,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,100,NULL,NULL,1,NULL,2021-02-26
 Collier21,S2X128,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2X16,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2X58,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2D8,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2D106,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2H58,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2N22,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2D32,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2X615,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2X30,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
-Collier21,S2M11,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,1000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2X16,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,2000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2X58,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,3000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2D8,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,3000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2D106,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,3000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2H58,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,3000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2N22,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,4000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2D32,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,4000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2X615,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,4000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2X30,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,10000,NULL,NULL,1,NULL,2021-02-26
+Collier21,S2M11,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,10000,NULL,NULL,1,NULL,2021-02-26
 Collier21,S2X607,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,0.7,NULL,NULL,1,NULL,2021-02-26
 Collier21,S2K15,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,0.8,NULL,NULL,1,NULL,2021-02-26
 Collier21,S2X475,Control,S:417N+484K+501Y,1,Figure 4 (medRxiv V4),=,0.9,NULL,NULL,1,NULL,2021-02-26

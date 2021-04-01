@@ -1,16 +1,7 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Andreano20b,B07,Control,PT188_EM,1,Figure 2b; Table S3,=,2.52,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,C14,Control,PT188_EM,1,Figure 2b; Table S3,=,0.56,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,D14,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,F05,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,F10,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,F20,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,G12,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,H20,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,I14,Control,PT188_EM,1,Figure 2b; Table S3,=,16.07,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,I15,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,I21,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,J13,Control,PT188_EM,1,Figure 2b; Table S3,>,1000,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,J08,Control,PT188_EM,1,Figure 2b; Table S3,=,5.67,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,PT004,Control,PT188_EM,1,Figure 2A; Table S1,=,6,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,PT005,Control,PT188_EM,1,Figure 2A; Table S1,=,8,NULL,NULL,1,NULL,2021-01-27
@@ -27,4 +18,3 @@ Andreano20b,PT100,Control,PT188_EM,1,Figure 2A; Table S1,=,2,NULL,NULL,1,NULL,20
 Andreano20b,PT101,Control,PT188_EM,1,Figure 2A; Table S1,=,2,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,PT122,Control,PT188_EM,1,Figure 2A; Table S1,=,2,NULL,NULL,1,NULL,2021-01-27
 Andreano20b,PT188,Control,PT188_EM,1,Figure 2A; Table S1,=,256,NULL,NULL,1,NULL,2021-01-27
-Andreano20b,PT200,Control,PT188_EM,1,Figure 2A; Table S1,>,1000,NULL,NULL,1,NULL,2021-01-27

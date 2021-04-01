@@ -1,0 +1,12 @@
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+Rees-Spear21,COVA1-12,Control,S:455Y+456L,1,Figure 1B,>,34.25,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA1-12,Control,S:494D,1,Figure 1B,>,34.25,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA1-16,Control,S:384A,1,Figure 1B,>,67.57,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-02,Control,S:470N+471V+472P,1,Figure 1B,>,14.65,experimental,NULL,1,NULL,1/27/21
+Rees-Spear21,COVA2-07,Control,S:455Y+456L,1,Figure 1B,>,144.93,experimental,NULL,1,NULL,1/27/21
+Rees-Spear21,COVA2-07,Control,S:470N+471V+472P,1,Figure 1B,>,144.93,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-29,Control,S:452K,1,Figure 1B,>,153.85,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-29,Control,S:470N+471V+472P,1,Figure 1B,>,153.85,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-29,Control,S:494D,1,Figure 1B,>,153.85,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA1-21,Control,B.1.1.7 Spike,1,Figure 4A,>,138.32,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-04,Control,S:417V,1,"Subsection ""K417V"" of section ""Results""",>,5000,NULL,experimental,1,NULL,1/27/21

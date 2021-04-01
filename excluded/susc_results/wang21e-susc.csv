@@ -1,0 +1,34 @@
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
+Wang21e,Bamlanivimab,Wuhan,S:484K+614G,1,Figure 2C,>,1409,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Bamlanivimab,Wuhan,S:417N+484K+501Y+614G,1,Figure 2C,>,1409,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Bamlanivimab,Wuhan,B.1.351 Spike:-246I,1,Figure 2C,>,1409,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Bamlanivimab,Wuhan,B.1.351 Spike,1,Figure 2C,>,1409,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Etesevimab,Wuhan,S:417N+484K+501Y+614G,1,Figure 2C,>,382,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Etesevimab,Wuhan,B.1.351 Spike:-246I,1,Figure 2C,>,382,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Etesevimab,Wuhan,B.1.351 Spike,1,Figure 2C,>,382,NULL,experimental,1,NULL,2021-03-09
+Wang21e,REGN10989,Wuhan,S:484K+614G,1,Figure 2C,>,2326,NULL,experimental,1,NULL,2021-03-09
+Wang21e,REGN10989,Wuhan,S:417N+484K+501Y+614G,1,Figure 2C,>,2326,NULL,experimental,1,NULL,2021-03-09
+Wang21e,REGN10989,Wuhan,B.1.351 Spike:-246I,1,Figure 2C,>,2326,NULL,experimental,1,NULL,2021-03-09
+Wang21e,REGN10989,Wuhan,B.1.351 Spike,1,Figure 2C,>,2326,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Casirivimab,Wuhan,S:453F+614G,1,Figure 2C,>,1299,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Casirivimab,Wuhan,S:417N+484K+501Y+614G,1,Figure 2C,>,1299,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Casirivimab,Wuhan,B.1.351 Spike:-246I,1,Figure 2C,>,1299,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Casirivimab,Wuhan,B.1.351 Spike,1,Figure 2C,>,1299,NULL,experimental,1,NULL,2021-03-09
+Wang21e,A23-58.1,Wuhan,S:486R,1,Figure 4B,>,2857,NULL,experimental,1,NULL,2021-03-09
+Wang21e,A23-58.1,Wuhan,S:487R,1,Figure 4B,>,2857,NULL,experimental,1,NULL,2021-03-09
+Wang21e,B1-182.1,Wuhan,S:486R,1,Figure 4B,>,6667,NULL,experimental,1,NULL,2021-03-09
+Wang21e,B1-182.1,Wuhan,S:487R,1,Figure 4B,>,6667,NULL,experimental,1,NULL,2021-03-09
+Wang21e,A19-61.1,Wuhan,S:494R,1,Figure 4B,>,281,NULL,experimental,1,NULL,2021-03-09
+Wang21e,A19-46.1,Wuhan,S:452R,1,Figure 4B,>,470,NULL,experimental,1,NULL,2021-03-09
+Wang21e,A19-46.1,Wuhan,S:490L,1,Figure 4B,>,470,NULL,experimental,1,NULL,2021-03-09
+Wang21e,A19-46.1,Wuhan,S:494R,1,Figure 4B,>,470,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Bamlanivimab,Wuhan,S:452R,1,Figure 4B,>,826,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Bamlanivimab,Wuhan,S:490L,1,Figure 4B,>,826,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Bamlanivimab,Wuhan,S:494R,1,Figure 4B,>,826,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Etesevimab,Wuhan,S:456R,1,Figure 4B,>,357,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Etesevimab,Wuhan,S:475R,1,Figure 4B,>,357,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Etesevimab,Wuhan,S:487R,1,Figure 4B,>,357,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Etesevimab,Wuhan,S:417N+614G,1,Figure 4B,>,357,NULL,experimental,1,NULL,2021-03-09
+Wang21e,REGN10989,Wuhan,S:490L,1,Figure 4B,>,4546,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Casirivimab,Wuhan,S:486R,1,Figure 4B,>,1639,NULL,experimental,1,NULL,2021-03-09
+Wang21e,Casirivimab,Wuhan,S:487R,1,Figure 4B,>,1639,NULL,experimental,1,NULL,2021-03-09

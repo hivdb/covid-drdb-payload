@@ -72,14 +72,10 @@ Hoffmann21,BNT162b2_1M:15,Control,B.1.1.7 Spike,1,Figure 7,=,3,NULL,NULL,1,NULL,
 Hoffmann21,BNT162b2_1M:15,Control,B.1.351 Spike,1,Figure 7,=,9.8,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,BNT162b2_1M:15,Control,P.1 Spike,1,Figure 7,=,3,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,Bamlanivimab,Control,B.1.1.7 Spike,1,Figure 6,=,0.7,NULL,NULL,1,NULL,2021-02-12
-Hoffmann21,Bamlanivimab,Control,B.1.351 Spike,1,Figure 6,>,100,NULL,NULL,1,NULL,2021-02-12
-Hoffmann21,Bamlanivimab,Control,P.1 Spike,1,Figure 6,>,100,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,Imdevimab,Control,B.1.1.7 Spike,1,Figure 6,=,1,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,Imdevimab,Control,B.1.351 Spike,1,Figure 6,=,1,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,Imdevimab,Control,P.1 Spike,1,Figure 6,=,0.7,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,REGN10989,Control,B.1.1.7 Spike,1,Figure 6,=,0.3,NULL,NULL,1,NULL,2021-02-12
-Hoffmann21,REGN10989,Control,B.1.351 Spike,1,Figure 6,>,100,NULL,NULL,1,NULL,2021-02-12
-Hoffmann21,REGN10989,Control,P.1 Spike,1,Figure 6,>,100,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,Casirivimab,Control,B.1.1.7 Spike,1,Figure 6,=,2,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,Casirivimab,Control,B.1.351 Spike,1,Figure 6,=,48,NULL,NULL,1,NULL,2021-02-12
 Hoffmann21,Casirivimab,Control,P.1 Spike,1,Figure 6,=,16,NULL,NULL,1,NULL,2021-02-12
