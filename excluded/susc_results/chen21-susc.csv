@@ -1,130 +1,130 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Chen21,Tixagevimab,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.7,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,Cilgavimab,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,Tixagevimab + Cilgavimab,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2072,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-3025,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2381,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,2.9,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COVOX-384,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COVOX-40,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2E12,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,6.1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2H58,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2X259,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,2.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,Vir-7831+S2E12,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,Vir-7831,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-3,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-10,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-31,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-44,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.9,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2676,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",=,1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,Control,B.1.1.7 authentic,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,Tixagevimab,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,6.9,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,Cilgavimab,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,Tixagevimab + Cilgavimab,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2072,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,COV2-3025,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,5.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2381,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,1.9,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,COVOX-384,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,COVOX-40,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,33.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2E12,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,2.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2H58,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,S2X259,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,3.2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,Vir-7831+S2E12,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,2.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,Vir-7831,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-3,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-10,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,2.2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-31,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-44,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2676,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,COV2-2489,Control,B.1.351 authentic,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,1,"Fig.5a,  Source Data Fig 5a",=,3.1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,2,"Fig.5a,  Source Data Fig 5a",=,3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,3,"Fig.5a,  Source Data Fig 5a",=,2.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,4,"Fig.5a,  Source Data Fig 5a",=,1.9,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,5,"Fig.5a,  Source Data Fig 5a",=,2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,6,"Fig.5a,  Source Data Fig 5a",=,6.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,7,"Fig.5a,  Source Data Fig 5a",=,2.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,8,"Fig.5a,  Source Data Fig 5a",=,2.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,9,"Fig.5a,  Source Data Fig 5a",=,3.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.1.7 authentic,10,"Fig.5a,  Source Data Fig 5a",=,0.9,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,1,"Fig.5b,  Source Data Fig 5b",=,5.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,2,"Fig.5b,  Source Data Fig 5b",=,4.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,3,"Fig.5b,  Source Data Fig 5b",=,5.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,4,"Fig.5b,  Source Data Fig 5b",=,4.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,5,"Fig.5b,  Source Data Fig 5b",=,11.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,6,"Fig.5b,  Source Data Fig 5b",=,9.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,7,"Fig.5b,  Source Data Fig 5b",=,50,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,8,"Fig.5b,  Source Data Fig 5b",=,12.2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,9,"Fig.5b,  Source Data Fig 5b",=,10.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,B.1.351 authentic,10,"Fig.5b,  Source Data Fig 5b",=,7.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,1,"Fig.5c,  Source Data Fig 5c",=,2.1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,2,"Fig.5c,  Source Data Fig 5c",=,2.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,3,"Fig.5c,  Source Data Fig 5c",=,5.1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,4,"Fig.5c,  Source Data Fig 5c",=,2.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,5,"Fig.5c,  Source Data Fig 5c",=,2.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,6,"Fig.5c,  Source Data Fig 5c",=,6.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,7,"Fig.5c,  Source Data Fig 5c",=,16.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,8,"Fig.5c,  Source Data Fig 5c",=,5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,9,"Fig.5c,  Source Data Fig 5c",=,5.2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,CP,Control,P.1 authentic,10,"Fig.5c,  Source Data Fig 5c",=,7.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,1,"Fig.5e,  Source Data Fig 5e",=,1.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,2,"Fig.5e,  Source Data Fig 5e",=,1.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,3,"Fig.5e,  Source Data Fig 5e",=,1.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,4,"Fig.5e,  Source Data Fig 5e",=,1.9,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,5,"Fig.5e,  Source Data Fig 5e",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,6,"Fig.5e,  Source Data Fig 5e",=,1.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,7,"Fig.5e,  Source Data Fig 5e",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,8,"Fig.5e,  Source Data Fig 5e",=,2.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,9,"Fig.5e,  Source Data Fig 5e",=,1.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.1.7 authentic,10,"Fig.5e,  Source Data Fig 5e",=,2.2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,1,"Fig.5f,  Source Data Fig 5f",=,6.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,2,"Fig.5f,  Source Data Fig 5f",=,7.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,3,"Fig.5f,  Source Data Fig 5f",=,6.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,4,"Fig.5f,  Source Data Fig 5f",=,7.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,5,"Fig.5f,  Source Data Fig 5f",=,9.7,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,6,"Fig.5f,  Source Data Fig 5f",=,6.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,7,"Fig.5f,  Source Data Fig 5f",=,3.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,8,"Fig.5f,  Source Data Fig 5f",=,5.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,9,"Fig.5f,  Source Data Fig 5f",=,4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,B.1.351 authentic,10,"Fig.5f,  Source Data Fig 5f",=,5.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,1,"Fig.5g,  Source Data Fig 5g",=,2.4,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,2,"Fig.5g,  Source Data Fig 5g",=,2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,3,"Fig.5g,  Source Data Fig 5g",=,1.7,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,4,"Fig.5g,  Source Data Fig 5g",=,1.6,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,5,"Fig.5g,  Source Data Fig 5g",=,2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,6,"Fig.5g,  Source Data Fig 5g",=,1.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,7,"Fig.5g,  Source Data Fig 5g",=,1.2,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,8,"Fig.5g,  Source Data Fig 5g",=,2.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,9,"Fig.5g,  Source Data Fig 5g",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,BNT162b2,Control,P.1 authentic,10,"Fig.5g,  Source Data Fig 5g",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2072,Control,P.1 authentic,1,Extended Data Fig.5c,=,2.5,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,Control,P.1 authentic,1,Extended Data Fig.5c,>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,COV2-3025,Control,P.1 authentic,1,Extended Data Fig.5c,=,5.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,Control,P.1 authentic,1,Extended Data Fig.5c,>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,SARS2-3,Control,P.1 authentic,1,Extended Data Fig.5c,=,0.04,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-10,Control,P.1 authentic,1,Extended Data Fig.5c,=,0.9,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-31,Control,P.1 authentic,1,Extended Data Fig.5c,=,2.3,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,SARS2-44,Control,P.1 authentic,1,Extended Data Fig.5c,=,0.8,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2676,Control,P.1 authentic,1,Extended Data Fig.5c,>,5000,NULL,experimental,1,authentic virus,2021-03-06
-Chen21,COV2-2489,Control,P.1 authentic,1,Extended Data Fig.5c,=,1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,Control,P.1 authentic,1,Extended Data Fig.5c,>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,Control,P.1 authentic,1,Extended Data Fig.5c,>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2676,Control,P.1 authentic,1,Extended Data Fig.5c,>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2676,Control,B.1.351 authentic,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,Control,B.1.351 authentic,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,Control,B.1.351 authentic,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COVOX-384,Control,B.1.351 authentic,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2H58,Control,B.1.351 authentic,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,Control,B.1.351 authentic,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Tixagevimab,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,1.7,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Cilgavimab,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Tixagevimab + Cilgavimab,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,1.1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2072,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2050,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,1.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-3025,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2381,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,2.9,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,1B07,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COVOX-384,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COVOX-40,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,S2E12,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,6.1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,S2H58,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,S2X259,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,2.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Vir-7831+S2E12,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Vir-7831,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,1.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-3,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-10,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-31,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-44,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.9,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2676,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",=,1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2489,Control,B.1.1.7 full genome,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,Tixagevimab,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,6.9,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Cilgavimab,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Tixagevimab + Cilgavimab,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2072,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,1.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2050,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-3025,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,5.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2381,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,1.9,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,1B07,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COVOX-384,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COVOX-40,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,33.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,S2E12,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,2.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,S2H58,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,S2X259,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,3.2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Vir-7831+S2E12,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,2.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,Vir-7831,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-3,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-10,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,2.2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-31,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-44,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2676,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2489,Control,B.1.351 full genome,1,"Fig.1i,Source Data Fig.1i",>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,1,"Fig.5a,  Source Data Fig 5a",=,3.1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,2,"Fig.5a,  Source Data Fig 5a",=,3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,3,"Fig.5a,  Source Data Fig 5a",=,2.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,4,"Fig.5a,  Source Data Fig 5a",=,1.9,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,5,"Fig.5a,  Source Data Fig 5a",=,2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,6,"Fig.5a,  Source Data Fig 5a",=,6.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,7,"Fig.5a,  Source Data Fig 5a",=,2.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,8,"Fig.5a,  Source Data Fig 5a",=,2.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,9,"Fig.5a,  Source Data Fig 5a",=,3.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.1.7 full genome,10,"Fig.5a,  Source Data Fig 5a",=,0.9,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,1,"Fig.5b,  Source Data Fig 5b",=,5.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,2,"Fig.5b,  Source Data Fig 5b",=,4.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,3,"Fig.5b,  Source Data Fig 5b",=,5.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,4,"Fig.5b,  Source Data Fig 5b",=,4.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,5,"Fig.5b,  Source Data Fig 5b",=,11.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,6,"Fig.5b,  Source Data Fig 5b",=,9.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,7,"Fig.5b,  Source Data Fig 5b",=,50,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,8,"Fig.5b,  Source Data Fig 5b",=,12.2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,9,"Fig.5b,  Source Data Fig 5b",=,10.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,B.1.351 full genome,10,"Fig.5b,  Source Data Fig 5b",=,7.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,1,"Fig.5c,  Source Data Fig 5c",=,2.1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,2,"Fig.5c,  Source Data Fig 5c",=,2.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,3,"Fig.5c,  Source Data Fig 5c",=,5.1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,4,"Fig.5c,  Source Data Fig 5c",=,2.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,5,"Fig.5c,  Source Data Fig 5c",=,2.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,6,"Fig.5c,  Source Data Fig 5c",=,6.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,7,"Fig.5c,  Source Data Fig 5c",=,16.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,8,"Fig.5c,  Source Data Fig 5c",=,5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,9,"Fig.5c,  Source Data Fig 5c",=,5.2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,CP,Control,P.1 full genome,10,"Fig.5c,  Source Data Fig 5c",=,7.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,1,"Fig.5e,  Source Data Fig 5e",=,1.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,2,"Fig.5e,  Source Data Fig 5e",=,1.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,3,"Fig.5e,  Source Data Fig 5e",=,1.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,4,"Fig.5e,  Source Data Fig 5e",=,1.9,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,5,"Fig.5e,  Source Data Fig 5e",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,6,"Fig.5e,  Source Data Fig 5e",=,1.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,7,"Fig.5e,  Source Data Fig 5e",=,0.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,8,"Fig.5e,  Source Data Fig 5e",=,2.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,9,"Fig.5e,  Source Data Fig 5e",=,1.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.1.7 full genome,10,"Fig.5e,  Source Data Fig 5e",=,2.2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,1,"Fig.5f,  Source Data Fig 5f",=,6.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,2,"Fig.5f,  Source Data Fig 5f",=,7.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,3,"Fig.5f,  Source Data Fig 5f",=,6.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,4,"Fig.5f,  Source Data Fig 5f",=,7.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,5,"Fig.5f,  Source Data Fig 5f",=,9.7,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,6,"Fig.5f,  Source Data Fig 5f",=,6.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,7,"Fig.5f,  Source Data Fig 5f",=,3.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,8,"Fig.5f,  Source Data Fig 5f",=,5.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,9,"Fig.5f,  Source Data Fig 5f",=,4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,B.1.351 full genome,10,"Fig.5f,  Source Data Fig 5f",=,5.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,1,"Fig.5g,  Source Data Fig 5g",=,2.4,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,2,"Fig.5g,  Source Data Fig 5g",=,2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,3,"Fig.5g,  Source Data Fig 5g",=,1.7,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,4,"Fig.5g,  Source Data Fig 5g",=,1.6,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,5,"Fig.5g,  Source Data Fig 5g",=,2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,6,"Fig.5g,  Source Data Fig 5g",=,1.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,7,"Fig.5g,  Source Data Fig 5g",=,1.2,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,8,"Fig.5g,  Source Data Fig 5g",=,2.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,9,"Fig.5g,  Source Data Fig 5g",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,BNT162b2,Control,P.1 full genome,10,"Fig.5g,  Source Data Fig 5g",=,1.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2072,Control,P.1 full genome,1,Extended Data Fig.5c,=,2.5,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2050,Control,P.1 full genome,1,Extended Data Fig.5c,>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-3025,Control,P.1 full genome,1,Extended Data Fig.5c,=,5.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,1B07,Control,P.1 full genome,1,Extended Data Fig.5c,>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,SARS2-3,Control,P.1 full genome,1,Extended Data Fig.5c,=,0.04,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-10,Control,P.1 full genome,1,Extended Data Fig.5c,=,0.9,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-31,Control,P.1 full genome,1,Extended Data Fig.5c,=,2.3,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,SARS2-44,Control,P.1 full genome,1,Extended Data Fig.5c,=,0.8,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2676,Control,P.1 full genome,1,Extended Data Fig.5c,>,5000,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2489,Control,P.1 full genome,1,Extended Data Fig.5c,=,1,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2050,Control,P.1 full genome,1,Extended Data Fig.5c,>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,1B07,Control,P.1 full genome,1,Extended Data Fig.5c,>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2676,Control,P.1 full genome,1,Extended Data Fig.5c,>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2676,Control,B.1.351 full genome,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2489,Control,B.1.351 full genome,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,1B07,Control,B.1.351 full genome,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COVOX-384,Control,B.1.351 full genome,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,S2H58,Control,B.1.351 full genome,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2050,Control,B.1.351 full genome,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,S2H58,Control,S:417N+484K+501Y,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,1B07,Control,S:417N+484K+501Y,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,COVOX-384,Control,S:417N+484K+501Y,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,COV2-2050,Control,S:417N+484K+501Y,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,Control,B.1.1.7 authentic,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2489,Control,B.1.1.7 full genome,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,S2H58,Control,S:484K+501Y,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,1B07,Control,S:484K+501Y,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,COVOX-384,Control,S:484K+501Y,1,"Fig.1h,Source Data Fig.1h",>,5000,NULL,NULL,1,authentic virus,2021-03-06

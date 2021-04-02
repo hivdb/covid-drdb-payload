@@ -5,7 +5,7 @@ Wang21b,4A8,Control,S:501Y,1,Fig. 2c,>,5000,NULL,NULL,1,NULL,2021-01-31
 Wang21b,4A8,Control,S:701V,1,Fig. 2c,>,5000,NULL,NULL,1,NULL,2021-01-31
 Wang21b,4A8,Control,S:716I,1,Fig. 2c,>,5000,NULL,NULL,1,NULL,2021-01-31
 Wang21b,Pfizer_BNT162b2_D28,Control,B.1.351 Spike,21,Fig. 4b,>,4.5,NULL,NULL,1,NULL,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28,Control,B.1.351 authentic,21,Fig. 4b,>,3.4,NULL,NULL,1,authentic virus,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28,Control,B.1.351 full genome,21,Fig. 4b,>,3.4,NULL,NULL,1,authentic virus,2021-02-19
 Wang21b,4-8,Control,B.1.1.7 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
 Wang21b,4A8,Control,B.1.1.7 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
 Wang21b,5-24,Control,B.1.1.7 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
@@ -44,18 +44,18 @@ Wang21b,2-4,Control,S:484K,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,
 Wang21b,2-43,Control,B.1.351 Spike,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
 Wang21b,2-43,Control,S:484K,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
 Wang21b,2-30,Control,B.1.351 Spike,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
-Wang21b,4-8,Control,B.1.1.7 authentic,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,4-8,Control,B.1.1.7 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
 Wang21b,2-30,Control,S:484K,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
-Wang21b,4A8,Control,B.1.1.7 authentic,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,2-15,Control,B.1.351 authentic,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,LY-CoV555,Control,B.1.351 authentic,1,"Fig. 2c, 2e",>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,C121,Control,B.1.351 authentic,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,REGN10933,Control,B.1.351 authentic,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,5-24,Control,B.1.351 authentic,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,4-8,Control,B.1.351 authentic,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,4A8,Control,B.1.351 authentic,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,CB6,Control,B.1.351 authentic,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,4-20,Control,B.1.351 authentic,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,2-4,Control,B.1.351 authentic,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,2-43,Control,B.1.351 authentic,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
-Wang21b,2-30,Control,B.1.351 authentic,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,4A8,Control,B.1.1.7 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-15,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,LY-CoV555,Control,B.1.351 full genome,1,"Fig. 2c, 2e",>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,C121,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,REGN10933,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,5-24,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,4-8,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,4A8,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,CB6,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,4-20,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-4,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-43,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-30,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19

@@ -1,20 +1,20 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Widera21,CP,Control,B.1.1.7 authentic,2,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.1.7 authentic,3,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.1.7 authentic,7,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.1.7 authentic,8,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.1.7 authentic,9,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.1.7 authentic,10,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,Bamlanivimab,Control,B.1.351 authentic,1,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.351 authentic,1,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.351 authentic,2,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.351 authentic,3,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.351 authentic,4,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.351 authentic,7,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,B.1.351 authentic,9,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,Bamlanivimab,Control,P.2 authentic,1,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,P.2 authentic,1,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,P.2 authentic,3,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,P.2 authentic,4,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,P.2 authentic,7,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
-Widera21,CP,Control,P.2 authentic,9,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.1.7 full genome,2,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.1.7 full genome,3,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.1.7 full genome,7,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.1.7 full genome,8,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.1.7 full genome,9,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.1.7 full genome,10,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,Bamlanivimab,Control,B.1.351 full genome,1,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.351 full genome,1,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.351 full genome,2,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.351 full genome,3,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.351 full genome,4,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.351 full genome,7,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,B.1.351 full genome,9,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,Bamlanivimab,Control,P.2 full genome,1,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,P.2 full genome,1,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,P.2 full genome,3,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,P.2 full genome,4,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,P.2 full genome,7,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10
+Widera21,CP,Control,P.2 full genome,9,Table 1,>,5000,NULL,experimental,1,authentic virus,2021-03-10

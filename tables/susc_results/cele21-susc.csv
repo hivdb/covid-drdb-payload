@@ -1,6 +1,6 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Cele21,CP_02-0014,Control,B.1.351 authentic,1,Figure 2D,=,204.3,NULL,NULL,1,authentic virus,2021-02-10
-Cele21,CP_02-0015,Control,B.1.351 authentic,1,Figure 2D,=,53.2,NULL,NULL,1,authentic virus,2021-02-10
-Cele21,CP_13-0017,Control,B.1.351 authentic,1,Figure 2D,=,38.1,NULL,NULL,1,authentic virus,2021-02-10
-Cele21,CP_13-0033,Control,B.1.351 authentic,1,Figure 2D,=,9.6,NULL,NULL,1,authentic virus,2021-02-10
-Cele21,CP_13-0062,Control,B.1.351 authentic,1,Figure 2D,=,5.7,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_02-0014,Control,B.1.351 full genome,1,Figure 2D,=,204.3,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_02-0015,Control,B.1.351 full genome,1,Figure 2D,=,53.2,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0017,Control,B.1.351 full genome,1,Figure 2D,=,38.1,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0033,Control,B.1.351 full genome,1,Figure 2D,=,9.6,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0062,Control,B.1.351 full genome,1,Figure 2D,=,5.7,NULL,NULL,1,authentic virus,2021-02-10
