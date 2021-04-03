@@ -1399,3 +1399,56 @@ Wang21b,BRII-196,Control,B.1.351 full genome,1,Ext data fig. 4b,=,0.5,NULL,NULL,
 Wang21b,2-38,Control,B.1.351 full genome,1,Ext data fig. 4b,=,3.5,NULL,NULL,1,authentic virus,2021-02-19
 Wang21b,COV2-2130,Control,B.1.351 full genome,1,Ext data fig. 4b,=,0.3,NULL,NULL,1,authentic virus,2021-02-19
 Wang21b,REGN10985,Control,B.1.351 full genome,1,Ext data fig. 4b,=,0.2,NULL,NULL,1,authentic virus,2021-02-19
+Wang21b,4-8,Control,B.1.1.7 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4A8,Control,B.1.1.7 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,5-24,Control,B.1.1.7 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,2-15,Control,B.1.351 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-19,Control,B.1.351 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-8,Control,B.1.351 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4A8,Control,B.1.351 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,5-24,Control,B.1.351 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,910-30,Control,B.1.351 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,C121,Control,B.1.351 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,LY-CoV555,Control,B.1.351 Spike,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-8,Control,S:144del,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4A8,Control,S:144del,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,5-24,Control,S:144del,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-19,Control,S:18F,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-19,Control,S:242del+243del+244del,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-8,Control,S:242del+243del+244del,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4A8,Control,S:242del+243del+244del,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,5-24,Control,S:242del+243del+244del,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,2-17,Control,S:242del+243del+244del,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-19,Control,S:246I,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-8,Control,S:246I,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4A8,Control,S:246I,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,5-24,Control,S:246I,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,910-30,Control,S:417N,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,2-15,Control,S:484K,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,C121,Control,S:484K,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,LY-CoV555,Control,S:484K,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,4-19,Control,S:80A,1,Fig. 2c,>,1000.0,NULL,experimental,1,NULL,2021-01-31
+Wang21b,CB6,Control,B.1.351 Spike,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,CB6,Control,S:417N,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,4-20,Control,B.1.351 Spike,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,4-20,Control,S:484K,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,2-4,Control,B.1.351 Spike,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,2-4,Control,S:484K,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,2-43,Control,B.1.351 Spike,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,2-43,Control,S:484K,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,2-30,Control,B.1.351 Spike,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,4-8,Control,B.1.1.7 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-30,Control,S:484K,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,NULL,2021-02-05
+Wang21b,4A8,Control,B.1.1.7 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-15,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,LY-CoV555,Control,B.1.351 full genome,1,"Fig. 2c, 2e",>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,C121,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,REGN10933,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,5-24,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,4-8,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,4A8,Control,B.1.351 full genome,1,Fig. 2c,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,CB6,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,4-20,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-4,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-43,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
+Wang21b,2-30,Control,B.1.351 full genome,1,Ext data fig. 4b,>,1000.0,NULL,experimental,1,authentic virus,2021-02-19
