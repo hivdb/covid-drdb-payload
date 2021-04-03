@@ -132,3 +132,13 @@ Rees-Spear21,Severe,S:614G,B.1.1.7 Spike,4,Figure 4B,=,5,NULL,NULL,1,NULL,3/15/2
 Rees-Spear21,Severe,S:614G,B.1.1.7 Spike,5,Figure 4B,=,10,NULL,NULL,1,NULL,3/15/21
 Rees-Spear21,Severe,S:614G,S:501Y,1,Figure 4B,<,3,NULL,NULL,18,NULL,3/15/21
 Rees-Spear21,Severe,S:614G,S:69del+70del,1,Figure 4B,<,3,NULL,NULL,18,NULL,3/15/21
+Rees-Spear21,COVA1-12,Control,S:455Y+456L,1,Figure 1B,>,34.25,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA1-12,Control,S:494D,1,Figure 1B,>,34.25,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA1-16,Control,S:384A,1,Figure 1B,>,67.57,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-02,Control,S:470N+471V+472P,1,Figure 1B,>,14.65,experimental,NULL,1,NULL,1/27/21
+Rees-Spear21,COVA2-07,Control,S:455Y+456L,1,Figure 1B,>,144.93,experimental,NULL,1,NULL,1/27/21
+Rees-Spear21,COVA2-07,Control,S:470N+471V+472P,1,Figure 1B,>,144.93,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-29,Control,S:452K,1,Figure 1B,>,153.85,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-29,Control,S:470N+471V+472P,1,Figure 1B,>,153.85,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA2-29,Control,S:494D,1,Figure 1B,>,153.85,NULL,experimental,1,NULL,1/27/21
+Rees-Spear21,COVA1-21,Control,B.1.1.7 Spike,1,Figure 4A,>,138.32,NULL,experimental,1,NULL,1/27/21
