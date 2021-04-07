@@ -548,6 +548,7 @@ Wang21,CP_6M
 Wang21b,CP
 Wang21d,CP
 Wang21f,CP
+Wang21g,CP
 Weisblum20,COV-NY
 Weisblum20,COV47
 Wibmer21,CP_Titer_GT400
@@ -627,6 +628,8 @@ Wang21b,Moderna_D43
 Wang21b,Pfizer_BNT162b2_D28
 Wang21d,Moderna_D43
 Wang21d,Pfizer_BNT162b2_D28
+Wang21g,BBIBP-CorV
+Wang21g,CoronaVac
 Widera21,BNT162b2
 Widera21,BNT162b2_infected
 Wu21,Moderna_36d
