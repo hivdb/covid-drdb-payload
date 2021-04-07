@@ -1,10 +1,9 @@
 gene,position,position_end,amino_acid
-nsp6,104,106,del
 S,18,NULL,F
-S,253,NULL,Y
 S,69,70,del
 S,141,146,del
 S,242,244,del
+S,253,NULL,Y
 S,417,NULL,N
 S,417,NULL,T
 S,439,NULL,K
