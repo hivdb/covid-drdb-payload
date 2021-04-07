@@ -1,38 +1,14 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,1,Table 1 (medRxiv V1),=,1.8,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,2,Table 1 (medRxiv V1),=,2.2,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,3,Table 1 (medRxiv V1),=,2.7,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,5,Table 1 (medRxiv V1),=,4.8,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,6,Table 1 (medRxiv V1),=,4.5,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,7,Table 1 (medRxiv V1),=,5.8,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,9,Table 1 (medRxiv V1),=,2.9,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,14,Table 1 (medRxiv V1),=,4.1,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,15,Table 1 (medRxiv V1),=,6.1,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,18,Table 1 (medRxiv V1),=,3.6,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,19,Table 1 (medRxiv V1),=,5.4,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,20,Table 1 (medRxiv V1),=,3.9,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,22,Table 1 (medRxiv V1),=,5.3,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,25,Table 1 (medRxiv V1),=,2.4,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike,28,Table 1 (medRxiv V1),=,3.2,NULL,NULL,1,NULL,2021-01-27
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,1,Figure 4 (medRxiv V3),=,5.2,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,2,Figure 4 (medRxiv V3),=,1.7,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,3,Figure 4 (medRxiv V3),=,1.7,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,4,Figure 4 (medRxiv V3),=,2.6,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,5,Figure 4 (medRxiv V3),=,2.6,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,6,Figure 4 (medRxiv V3),=,3.4,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,7,Figure 4 (medRxiv V3),=,3.4,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,8,Figure 4 (medRxiv V3),=,4.5,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,9,Figure 4 (medRxiv V3),=,6.9,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,10,Figure 4 (medRxiv V3),=,6.4,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,11,Figure 4 (medRxiv V3),=,32,NULL,NULL,1,NULL,2021-02-15
-Collier21,BNT162b2_3Weeks,Control,B.1.1.7 Spike+S:484K,12,Figure 4 (medRxiv V3),=,40,NULL,NULL,1,NULL,2021-02-15
-Collier21,S2X107,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,S2X124,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,S2X158,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,S2X28,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,S2X303,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,S2X333,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,4A8,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,S2L26,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,S2H19,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
-Collier21,S2X192,Control,B.1.1.7 Spike,1,Ext Data Table 1 (medRxiv V4),>,5000,NULL,experimental,1,NULL,2021-02-08
+Collier21,4A8,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2L26,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2X107,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2X124,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2X158,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2X28,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2X303,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2X333,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2H19,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,S2X192,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,NULL,experimental,1,NULL,2021-04-06
+Collier21,BNT162b2_1ds,S:614G,S:69del+70del+501Y+570D,17,Ext Data Fig. 2a,=,0.3,NULL,control,1,NULL,2021-04-06
+Collier21,BNT162b2_1ds,S:614G,S:69del+70del+501Y+570D,18,Ext Data Fig. 2a,=,0.9,NULL,both,1,NULL,2021-04-06
+Collier21,BNT162b2_1ds,S:614G,S:69del+70del+501Y+570D,19,Ext Data Fig. 2a,=,1,NULL,both,1,NULL,2021-04-06
