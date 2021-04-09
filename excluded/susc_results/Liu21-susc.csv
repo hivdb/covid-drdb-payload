@@ -26,8 +26,8 @@ Liu21,CP_13,Control,S:486Y,1,"Figure 4B, Figure S5A",=,0.58,NULL,NULL,1,NULL,202
 Liu21,CP_13,Control,S:490S,1,"Figure 4B, Figure S5A",>,1.74,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_13,Control,S:494P,1,"Figure 4B, Figure S5A",=,0.74,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_13,Control,S:499L,1,"Figure 4B, Figure S5A",=,0.39,NULL,NULL,1,NULL,2021-01-27
-Liu21,CP_13,Control,S:514F+477N,1,"Figure 4B, Figure S5A",>,4.38,NULL,NULL,1,NULL,2021-01-27
-Liu21,CP_13,Control,S:517R+345A,1,"Figure 4B, Figure S5A",=,0.26,NULL,NULL,1,NULL,2021-01-27
+Liu21,CP_13,Control,S:477N+514F,1,"Figure 4B, Figure S5A",>,4.38,NULL,NULL,1,NULL,2021-01-27
+Liu21,CP_13,Control,S:345A+517R,1,"Figure 4B, Figure S5A",=,0.26,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_35,Control,S:345A,1,"Figure 4B, Figure S5A",=,0.87,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_35,Control,S:345N,1,"Figure 4B, Figure S5A",=,0.92,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_35,Control,S:345S,1,"Figure 4B, Figure S5A",=,1.04,NULL,NULL,1,NULL,2021-01-27
@@ -55,8 +55,8 @@ Liu21,CP_35,Control,S:486Y,1,"Figure 4B, Figure S5A",=,0.64,NULL,NULL,1,NULL,202
 Liu21,CP_35,Control,S:490S,1,"Figure 4B, Figure S5A",>,2.65,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_35,Control,S:494P,1,"Figure 4B, Figure S5A",=,0.85,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_35,Control,S:499L,1,"Figure 4B, Figure S5A",=,1,NULL,NULL,1,NULL,2021-01-27
-Liu21,CP_35,Control,S:514F+477N,1,"Figure 4B, Figure S5A",>,2.65,NULL,NULL,1,NULL,2021-01-27
-Liu21,CP_35,Control,S:517R+345A,1,"Figure 4B, Figure S5A",=,0.06,NULL,NULL,1,NULL,2021-01-27
+Liu21,CP_35,Control,S:477N+514F,1,"Figure 4B, Figure S5A",>,2.65,NULL,NULL,1,NULL,2021-01-27
+Liu21,CP_35,Control,S:345A+517R,1,"Figure 4B, Figure S5A",=,0.06,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_29,Control,S:484A,1,"Figure 4B, Figure S5A",>,7.24,NULL,experimental,1,NULL,2021-01-27
 Liu21,CP_29,Control,S:484K,1,"Figure 4B, Figure S5A",>,7.16,NULL,experimental,1,NULL,2021-01-27
 Liu21,CP_37,Control,S:484A,1,"Figure 4B, Figure S5A",>,6.27,NULL,experimental,1,NULL,2021-01-27
