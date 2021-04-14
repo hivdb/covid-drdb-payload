@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Wibmer21,CP_Titer_GT400,NULL,NULL,NULL,NULL,high titer
-Wibmer21,CP_Titer_LT400,NULL,NULL,NULL,NULL,low titer
+Wibmer21,CP_Titer_GT400,NULL,NULL,<400,NULL,high titer
+Wibmer21,CP_Titer_LT400,NULL,NULL,>400,NULL,low titer
