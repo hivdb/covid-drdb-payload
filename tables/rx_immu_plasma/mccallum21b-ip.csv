@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,vaccine_name,cumulative_group
-McCallum21b,BNT162b2,BNT162b2,BNT_antibody
-McCallum21b,BNT_infected,BNT162b2,BNT_infected
-McCallum21b,BNT_uninfected,BNT162b2,BNT
-McCallum21b,mRNA-1273,mRNA-1273,MOD
+﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
+McCallum21b,BNT162b2,BNT162b2,NULL,NULL,BNT_antibody
+McCallum21b,BNT_infected,BNT162b2,NULL,NULL,BNT_infected
+McCallum21b,BNT_uninfected,BNT162b2,NULL,NULL,BNT
+McCallum21b,mRNA-1273,mRNA-1273,NULL,NULL,MOD

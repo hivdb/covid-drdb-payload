@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,infection,cumulative_group
-Liu21,CP_29,NULL,CP
-Liu21,CP_37,NULL,CP
-Liu21,CP_13,NULL,CP
-Liu21,CP_35,NULL,CP
+﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
+Liu21,CP_29,NULL,NULL,NULL,NULL,CP
+Liu21,CP_37,NULL,NULL,NULL,NULL,CP
+Liu21,CP_13,NULL,NULL,NULL,NULL,CP
+Liu21,CP_35,NULL,NULL,NULL,NULL,CP

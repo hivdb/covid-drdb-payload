@@ -1,15 +1,15 @@
-﻿ref_name,rx_name,infection,cumulative_group
-Hoffmann21b,ConvSerum 1,NULL,CP
-Hoffmann21b,ConvSerum 2,NULL,CP
-Hoffmann21b,ConvSerum 3,NULL,CP
-Hoffmann21b,ConvSerum 4,NULL,CP
-Hoffmann21b,ConvSerum 5,NULL,CP
-Hoffmann21b,ConvSerum 6,NULL,CP
-Hoffmann21b,ConvPlasma 7,NULL,CP
-Hoffmann21b,ConvPlasma 8,NULL,CP
-Hoffmann21b,ConvPlasma 9,NULL,CP
-Hoffmann21b,ConvPlasma 10,NULL,CP
-Hoffmann21b,ConvPlasma 11,NULL,CP
-Hoffmann21b,ConvPlasma 12,NULL,CP
-Hoffmann21b,ConvPlasma 13,NULL,CP
-Hoffmann21b,ConvPlasma 14,NULL,CP
+﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
+Hoffmann21b,ConvSerum 1,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvSerum 2,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvSerum 3,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvSerum 4,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvSerum 5,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvSerum 6,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvPlasma 7,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvPlasma 8,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvPlasma 9,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvPlasma 10,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvPlasma 11,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvPlasma 12,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvPlasma 13,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,ConvPlasma 14,NULL,NULL,NULL,NULL,CP

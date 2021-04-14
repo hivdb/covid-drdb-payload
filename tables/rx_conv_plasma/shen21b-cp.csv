@@ -1,2 +1,2 @@
-﻿ref_name,rx_name,infection,cumulative_group
-Shen21b,CP,NULL,CP
+﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
+Shen21b,CP,NULL,NULL,NULL,NULL,CP

@@ -1,2 +1,2 @@
-﻿ref_name,rx_name,vaccine_name,cumulative_group
-Wu21,Moderna_36d,mRNA-1273,Mod
+﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
+Wu21,Moderna_36d,mRNA-1273,NULL,NULL,Mod

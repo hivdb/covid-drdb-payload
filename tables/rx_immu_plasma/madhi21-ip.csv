@@ -1,2 +1,2 @@
-﻿ref_name,rx_name,vaccine_name,cumulative_group
-Madhi21,AZD1222,AZD1222,AZD
+﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
+Madhi21,AZD1222,AZD1222,NULL,NULL,AZD

@@ -1,2 +1,2 @@
-﻿ref_name,rx_name,infection,cumulative_group
-Wang21f,CP,NULL,CP
+﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
+Wang21f,CP,NULL,NULL,NULL,NULL,CP
