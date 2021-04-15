@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Rees-Spear21,Mild,NULL,NULL,NULL,mild,mild
-Rees-Spear21,Severe,NULL,NULL,NULL,severe,severe
+Rees-Spear21,Mild,S:614G,3M,NULL,mild,mild
+Rees-Spear21,Severe,S:614G,3M,NULL,severe,severe

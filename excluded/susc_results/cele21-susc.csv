@@ -1,7 +1,7 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Cele21,CP_13-0013,B.1.1.117 full genome,B.1.351 full genome,1,Extended Data Figure 1D,>,9999,NULL,experimantal,1,authentic virus,2021-02-10
-Cele21,CP_02-0014,B.1.1.117 full genome,B.1.351 full genome,1,Extended Data Figure 1D,=,204.3,NULL,NULL,1,authentic virus,2021-02-10
-Cele21,CP_02-0015,B.1.1.117 full genome,B.1.351 full genome,1,Extended Data Figure 1D,=,53.2,NULL,NULL,1,authentic virus,2021-02-10
-Cele21,CP_13-0017,B.1.1.117 full genome,B.1.351 full genome,1,Extended Data Figure 1D,=,38.1,NULL,NULL,1,authentic virus,2021-02-10
-Cele21,CP_13-0033,B.1.1.117 full genome,B.1.351 full genome,1,Extended Data Figure 1D,=,9.6,NULL,NULL,1,authentic virus,2021-02-10
-Cele21,CP_13-0062,B.1.1.117 full genome,B.1.351 full genome,1,Extended Data Figure 1D,=,5.7,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0013,S:614G,B.1.351 full genome,1,Extended Data Figure 1D,>,9999,NULL,experimantal,1,authentic virus,2021-02-10
+Cele21,CP_02-0014,S:614G,B.1.351 full genome,1,Extended Data Figure 1D,=,204.3,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_02-0015,S:614G,B.1.351 full genome,1,Extended Data Figure 1D,=,53.2,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0017,S:614G,B.1.351 full genome,1,Extended Data Figure 1D,=,38.1,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0033,S:614G,B.1.351 full genome,1,Extended Data Figure 1D,=,9.6,NULL,NULL,1,authentic virus,2021-02-10
+Cele21,CP_13-0062,S:614G,B.1.351 full genome,1,Extended Data Figure 1D,=,5.7,NULL,NULL,1,authentic virus,2021-02-10
