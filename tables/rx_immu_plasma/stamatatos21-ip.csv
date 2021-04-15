@@ -1,7 +1,7 @@
 ﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
-Stamatatos21,BNT_infected_post_1,BNT162b2,NULL,1,BNT_dose1
-Stamatatos21,BNT_infected_post_2,BNT162b2,NULL,2,BNT
-Stamatatos21,MOD_infected_post_1,mRNA-1273,NULL,1,MOD_dose1
-Stamatatos21,BNT_uninfected_post_2,BNT162b2,NULL,2,BNT_uninfected
-Stamatatos21,MOD_uninfected_post_2,mRNA-1273,NULL,2,MOD_uninfected
-Stamatatos21,MOD_infected_post_2,mRNA-1273,NULL,2,MOD
+Stamatatos21,BNT_infected_post_1,BNT162b2,1M,1,BNT_dose1
+Stamatatos21,MOD_infected_post_1,mRNA-1273,1M,1,MOD_dose1
+Stamatatos21,BNT_infected_post_2,BNT162b2,0.5M,2,BNT
+Stamatatos21,MOD_infected_post_2,mRNA-1273,0.5M,2,MOD
+Stamatatos21,BNT_uninfected_post_2,BNT162b2,0.5M,2,BNT_uninfected
+Stamatatos21,MOD_uninfected_post_2,mRNA-1273,1M,2,MOD_uninfected

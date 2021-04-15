@@ -1,12 +1,12 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
 Kuzmina21,CP,Control,B.1.1.7 Spike,1,Figure 3,=,1.5,NULL,NULL,10,NULL,2021-03-23
 Kuzmina21,CP,Control,B.1.351 Spike,1,Figure 3,=,6.9,NULL,NULL,10,NULL,2021-03-24
-Kuzmina21,BNT162b2,Control,B.1.1.7 Spike,1,Figure 3,=,1.0,NULL,NULL,10,NULL,2021-03-25
-Kuzmina21,BNT162b2,Control,B.1.351 Spike,1,Figure 3,=,6.8,NULL,NULL,10,NULL,2021-03-26
-Kuzmina21,BNT162b2,Control,S:417N,1,Figure 4,=,1.1,NULL,NULL,10,NULL,2021-03-27
-Kuzmina21,BNT162b2,Control,S:501Y,1,Figure 4,=,1.1,NULL,NULL,10,NULL,2021-03-28
-Kuzmina21,BNT162b2,Control,S:417N+501Y,1,Figure 4,=,1.1,NULL,NULL,10,NULL,2021-03-29
-Kuzmina21,BNT162b2,Control,S:484K,1,Figure 4,=,3.4,NULL,NULL,10,NULL,2021-03-30
-Kuzmina21,BNT162b2,Control,S:484K+501Y,1,Figure 4,=,3.8,NULL,NULL,10,NULL,2021-03-31
-Kuzmina21,BNT162b2,Control,S:417N+484K+501Y,1,Figure 4,=,4.5,NULL,NULL,10,NULL,2021-04-01
-Kuzmina21,BNT162b2,Control,S:417N+484K,1,Figure 4,=,5.2,NULL,NULL,10,NULL,2021-04-02
+Kuzmina21,BNT162b2_3W,Control,B.1.1.7 Spike,1,Figure 3,=,1.0,NULL,NULL,10,NULL,2021-03-25
+Kuzmina21,BNT162b2_3W,Control,B.1.351 Spike,1,Figure 3,=,6.8,NULL,NULL,10,NULL,2021-03-26
+Kuzmina21,BNT162b2_3W,Control,S:417N,1,Figure 4,=,1.1,NULL,NULL,10,NULL,2021-03-27
+Kuzmina21,BNT162b2_3W,Control,S:501Y,1,Figure 4,=,1.1,NULL,NULL,10,NULL,2021-03-28
+Kuzmina21,BNT162b2_3W,Control,S:417N+501Y,1,Figure 4,=,1.1,NULL,NULL,10,NULL,2021-03-29
+Kuzmina21,BNT162b2_3W,Control,S:484K,1,Figure 4,=,3.4,NULL,NULL,10,NULL,2021-03-30
+Kuzmina21,BNT162b2_3W,Control,S:484K+501Y,1,Figure 4,=,3.8,NULL,NULL,10,NULL,2021-03-31
+Kuzmina21,BNT162b2_3W,Control,S:417N+484K+501Y,1,Figure 4,=,4.5,NULL,NULL,10,NULL,2021-04-01
+Kuzmina21,BNT162b2_3W,Control,S:417N+484K,1,Figure 4,=,5.2,NULL,NULL,10,NULL,2021-04-02

@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
-Garcia-Beltran21,BNT162b2,BNT162b2,NULL,NULL,BNT
-Garcia-Beltran21,mRNA-1273,mRNA-1273,NULL,NULL,Mod
+Garcia-Beltran21,BNT162b2,BNT162b2,0.5M,2,BNT
+Garcia-Beltran21,mRNA-1273,mRNA-1273,0.5M,2,Mod

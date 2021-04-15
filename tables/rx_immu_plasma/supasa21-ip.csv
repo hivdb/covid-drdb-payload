@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
-Supasa21,BNT162b2,BNT162b2,NULL,NULL,BNT
-Supasa21,AZD1222,AZD1222,NULL,NULL,AZD
+Supasa21,BNT162b2,BNT162b2,0.5,2,BNT
+Supasa21,AZD1222,AZD1222,1M,2,AZD

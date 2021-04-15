@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
-Deng21,BNT162b2,BNT162b2,NULL,NULL,BNT
-Deng21,mRNA-1273,mRNA-1273,NULL,NULL,Mod
+Deng21,BNT162b2,BNT162b2,1M,2,BNT
+Deng21,mRNA-1273,mRNA-1273,1M,2,Mod
