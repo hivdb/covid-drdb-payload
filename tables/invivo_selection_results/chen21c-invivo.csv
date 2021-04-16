@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,dosage,host,infection_name,gene,position,amino_acid,patient,sampling,num_patients,num_patients_with_mut,section,note,date_added
+Chen21c,CP,None,Human,B.1.369 full genome,S,439,R,immunosuppressed,D21,1,1,Figure 1b,,2021-04-16
+Chen21c,CP,None,Human,B.1.369 full genome,S,243,del,immunosuppressed,D21,1,1,Figure 1b,,2021-04-16
+Chen21c,CP,None,Human,B.1.369 full genome,S,244,del,immunosuppressed,D21,1,1,Figure 1b,,2021-04-16
+Chen21c,CP,None,Human,B.1.369 full genome,nsp1,138,T,immunosuppressed,D27,1,1,Figure 1b,,2021-04-16
+Chen21c,CP,None,Human,B.1.369 full genome,S,141,del,immunosuppressed,D27,1,1,Figure 1b,,2021-04-16
+Chen21c,CP,None,Human,B.1.369 full genome,S,142,del,immunosuppressed,D27,1,1,Figure 1b,,2021-04-16
+Chen21c,CP,None,Human,B.1.369 full genome,S,143,del,immunosuppressed,D27,1,1,Figure 1b,,2021-04-16
+Chen21c,CP,None,Human,B.1.369 full genome,S,144,del,immunosuppressed,D27,1,1,Figure 1b,,2021-04-16
+Chen21c,CP,None,Human,B.1.369 full genome,S,484,K,immunosuppressed,D27,1,1,Figure 1b,,2021-04-16
