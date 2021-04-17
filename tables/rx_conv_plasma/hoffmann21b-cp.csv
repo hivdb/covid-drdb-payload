@@ -1,15 +1,15 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Hoffmann21b,ConvSerum 1,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvSerum 2,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvSerum 3,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvSerum 4,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvSerum 5,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvSerum 6,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvPlasma 7,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvPlasma 8,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvPlasma 9,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvPlasma 10,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvPlasma 11,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvPlasma 12,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvPlasma 13,NULL,NULL,NULL,NULL,CP
-Hoffmann21b,ConvPlasma 14,NULL,NULL,NULL,NULL,CP
+Hoffmann21b,CP_serum_1,NULL,NULL,128.2,Severe,CP
+Hoffmann21b,CP_serum_2,NULL,NULL,116.7,Severe,CP
+Hoffmann21b,CP_serum_3,NULL,NULL,237.3,Severe,CP
+Hoffmann21b,CP_serum_4,NULL,NULL,30.4,Severe,CP
+Hoffmann21b,CP_serum_5,NULL,NULL,61.4,Severe,CP
+Hoffmann21b,CP_serum_6,NULL,NULL,223.5,Severe,CP
+Hoffmann21b,CP_7,NULL,NULL,393.2,Severe,CP
+Hoffmann21b,CP_8,NULL,NULL,7096.7,Severe,CP
+Hoffmann21b,CP_9,NULL,NULL,432.1,Severe,CP
+Hoffmann21b,CP_10,NULL,NULL,1037.2,Severe,CP
+Hoffmann21b,CP_11,NULL,NULL,273.9,Severe,CP
+Hoffmann21b,CP_12,NULL,NULL,868.2,Severe,CP
+Hoffmann21b,CP_13,NULL,NULL,1116.9,Severe,CP
+Hoffmann21b,CP_14,NULL,NULL,495.7,Severe,CP
