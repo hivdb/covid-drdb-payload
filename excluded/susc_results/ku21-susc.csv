@@ -1,13 +1,13 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Ku21,CoV2-06,Wuhan,S:444R,1,Figure 5c,>,9999,NULL,experimantal,1,ELISA,2021-03-17
-Ku21,CoV2-14,Wuhan,S:444R,1,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
-Ku21,CoV2-06+CoV2-14,Wuhan,S:444R,1,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
-Ku21,CoV2-06,Wuhan,S:444S,1,Figure 5c,>,9999,NULL,experimantal,1,ELISA,2021-03-17
-Ku21,CoV2-14,Wuhan,S:444S,1,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
-Ku21,CoV2-06+CoV2-14,Wuhan,S:444S,1,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
-Ku21,CoV2-06,Wuhan,S:484A,1,Figure 5c,>,9999,NULL,experimantal,1,ELISA,2021-03-17
-Ku21,CoV2-14,Wuhan,S:484A,1,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
-Ku21,CoV2-06+CoV2-14,Wuhan,S:484A,1,Figure 5c,=,3,NULL,NULL,1,ELISA,2021-03-17
-Ku21,CoV2-06,Wuhan,S:486S,1,Figure 5c,>,9999,NULL,experimantal,1,ELISA,2021-03-17
-Ku21,CoV2-14,Wuhan,S:486S,1,Figure 5c,=,0.3,NULL,NULL,1,ELISA,2021-03-17
-Ku21,CoV2-06+CoV2-14,Wuhan,S:486S,1,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
+Ku21,CoV2-06,Wuhan,S:444R,999,Figure 5c,>,9999,NULL,experimental,1,ELISA,2021-03-17
+Ku21,CoV2-14,Wuhan,S:444R,999,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
+Ku21,CoV2-06+CoV2-14,Wuhan,S:444R,999,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
+Ku21,CoV2-06,Wuhan,S:444S,999,Figure 5c,>,9999,NULL,experimental,1,ELISA,2021-03-17
+Ku21,CoV2-14,Wuhan,S:444S,999,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
+Ku21,CoV2-06+CoV2-14,Wuhan,S:444S,999,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
+Ku21,CoV2-06,Wuhan,S:484A,999,Figure 5c,>,9999,NULL,experimental,1,ELISA,2021-03-17
+Ku21,CoV2-14,Wuhan,S:484A,999,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
+Ku21,CoV2-06+CoV2-14,Wuhan,S:484A,999,Figure 5c,=,3,NULL,NULL,1,ELISA,2021-03-17
+Ku21,CoV2-06,Wuhan,S:486S,999,Figure 5c,>,9999,NULL,experimental,1,ELISA,2021-03-17
+Ku21,CoV2-14,Wuhan,S:486S,999,Figure 5c,=,0.3,NULL,NULL,1,ELISA,2021-03-17
+Ku21,CoV2-06+CoV2-14,Wuhan,S:486S,999,Figure 5c,=,1,NULL,NULL,1,ELISA,2021-03-17
