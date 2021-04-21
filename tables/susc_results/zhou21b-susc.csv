@@ -1,82 +1,82 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Zhou21b,Cilgavimab,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,1.1,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,Tixagevimab,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,8.9,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD7442,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,1.4,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,Imdevimab,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,0.2,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,Casirivimab,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,773.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,ADG10,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,1.9,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,ADG20,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,2.5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,ADG30,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,4.4,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,Vir-7831,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,2,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,3,"Figure 2, TableS1A",=,6,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,4,"Figure 2, TableS1A",=,1.2,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,6,"Figure 2, TableS1A",=,2.4,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,8,"Figure 2, TableS1A",=,5.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,9,"Figure 2, TableS1A",=,33.3,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,15,"Figure 2, TableS1A",=,5.6,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,20,"Figure 2, TableS1A",=,7.4,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,21,"Figure 2, TableS1A",=,8.5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,22,"Figure 2, TableS1A",=,8.2,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,24,"Figure 2, TableS1A",=,22.9,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,25,"Figure 2, TableS1A",=,4.5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,26,"Figure 2, TableS1A",=,5.4,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,27,"Figure 2, TableS1A",=,21.9,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,29,"Figure 2, TableS1A",=,3.8,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,30,"Figure 2, TableS1A",=,6,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,31,"Figure 2, TableS1A",=,3.9,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,33,"Figure 2, TableS1A",=,23.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,1,"Figure 3, Table S2",=,15.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,3,"Figure 3, Table S2",=,7.5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,4,"Figure 3, Table S2",=,5.3,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,5,"Figure 3, Table S2",=,5.2,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,6,"Figure 3, Table S2",=,10,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,7,"Figure 3, Table S2",=,5.6,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,8,"Figure 3, Table S2",=,3.5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,9,"Figure 3, Table S2",=,14.4,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,10,"Figure 3, Table S2",=,14.2,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,11,"Figure 3, Table S2",=,7.1,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,12,"Figure 3, Table S2",=,26.6,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,13,"Figure 3, Table S2",=,4.8,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,14,"Figure 3, Table S2",=,3.3,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,15,"Figure 3, Table S2",=,6.4,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,16,"Figure 3, Table S2",=,14.1,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,17,"Figure 3, Table S2",=,12.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,18,"Figure 3, Table S2",=,12.9,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,19,"Figure 3, Table S2",=,7.6,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,20,"Figure 3, Table S2",=,8.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,22,"Figure 3, Table S2",=,5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,23,"Figure 3, Table S2",=,16.6,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,24,"Figure 3, Table S2",=,6,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wuhan,B.1.351 full genome,25,"Figure 3, Table S2",=,2.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,1,"Figure 3, Table S2",=,3.2,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,2,"Figure 3, Table S2",=,2.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,4,"Figure 3, Table S2",=,3,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,5,"Figure 3, Table S2",=,7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,6,"Figure 3, Table S2",=,14.3,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,8,"Figure 3, Table S2",=,6.3,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,9,"Figure 3, Table S2",=,3.9,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,10,"Figure 3, Table S2",=,3.1,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,11,"Figure 3, Table S2",=,7.5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,12,"Figure 3, Table S2",=,4.9,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,15,"Figure 3, Table S2",=,8.4,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,16,"Figure 3, Table S2",=,9.5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,17,"Figure 3, Table S2",=,32.5,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,18,"Figure 3, Table S2",=,8.1,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,19,"Figure 3, Table S2",=,14,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,24,"Figure 3, Table S2",=,9.7,NULL,NULL,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,2,"Figure 2, TableS1A",>,34.4,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,5,"Figure 2, TableS1A",>,18.4,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,7,"Figure 2, TableS1A",>,13.7,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,12,"Figure 2, TableS1A",>,16.9,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,13,"Figure 2, TableS1A",>,16.6,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,14,"Figure 2, TableS1A",>,21.9,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,17,"Figure 2, TableS1A",>,55.8,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,18,"Figure 2, TableS1A",>,12.1,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,23,"Figure 2, TableS1A",>,19.1,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,28,"Figure 2, TableS1A",>,18,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,32,"Figure 2, TableS1A",>,19.8,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wuhan,B.1.351 full genome,34,"Figure 2, TableS1A",>,33.8,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,3,"Figure 3, Table S2",>,12.6,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wuhan,B.1.351 full genome,14,"Figure 3, Table S2",>,10.6,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,Bamlanivimab,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",>,1545.3,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,Etesevimab,Wuhan,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",>,291.2,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,Cilgavimab,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,1.1,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,Tixagevimab,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,8.9,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD7442,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,1.4,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,Imdevimab,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,0.2,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,Casirivimab,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,773.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,ADG10,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,1.9,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,ADG20,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,2.5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,ADG30,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,4.4,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,Vir-7831,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,2,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,3,"Figure 2, TableS1A",=,6,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,4,"Figure 2, TableS1A",=,1.2,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,6,"Figure 2, TableS1A",=,2.4,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,8,"Figure 2, TableS1A",=,5.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,9,"Figure 2, TableS1A",=,33.3,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,15,"Figure 2, TableS1A",=,5.6,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,20,"Figure 2, TableS1A",=,7.4,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,21,"Figure 2, TableS1A",=,8.5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,22,"Figure 2, TableS1A",=,8.2,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,24,"Figure 2, TableS1A",=,22.9,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,25,"Figure 2, TableS1A",=,4.5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,26,"Figure 2, TableS1A",=,5.4,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,27,"Figure 2, TableS1A",=,21.9,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,29,"Figure 2, TableS1A",=,3.8,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,30,"Figure 2, TableS1A",=,6,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,31,"Figure 2, TableS1A",=,3.9,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,33,"Figure 2, TableS1A",=,23.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,1,"Figure 3, Table S2",=,15.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,3,"Figure 3, Table S2",=,7.5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,4,"Figure 3, Table S2",=,5.3,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,5,"Figure 3, Table S2",=,5.2,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,6,"Figure 3, Table S2",=,10,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,7,"Figure 3, Table S2",=,5.6,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,8,"Figure 3, Table S2",=,3.5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,9,"Figure 3, Table S2",=,14.4,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,10,"Figure 3, Table S2",=,14.2,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,11,"Figure 3, Table S2",=,7.1,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,12,"Figure 3, Table S2",=,26.6,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,13,"Figure 3, Table S2",=,4.8,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,14,"Figure 3, Table S2",=,3.3,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,15,"Figure 3, Table S2",=,6.4,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,16,"Figure 3, Table S2",=,14.1,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,17,"Figure 3, Table S2",=,12.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,18,"Figure 3, Table S2",=,12.9,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,19,"Figure 3, Table S2",=,7.6,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,20,"Figure 3, Table S2",=,8.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,22,"Figure 3, Table S2",=,5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,23,"Figure 3, Table S2",=,16.6,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,24,"Figure 3, Table S2",=,6,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,25,"Figure 3, Table S2",=,2.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,1,"Figure 3, Table S2",=,3.2,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,2,"Figure 3, Table S2",=,2.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,4,"Figure 3, Table S2",=,3,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,5,"Figure 3, Table S2",=,7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,6,"Figure 3, Table S2",=,14.3,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,8,"Figure 3, Table S2",=,6.3,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,9,"Figure 3, Table S2",=,3.9,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,10,"Figure 3, Table S2",=,3.1,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,11,"Figure 3, Table S2",=,7.5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,12,"Figure 3, Table S2",=,4.9,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,15,"Figure 3, Table S2",=,8.4,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,16,"Figure 3, Table S2",=,9.5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,17,"Figure 3, Table S2",=,32.5,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,18,"Figure 3, Table S2",=,8.1,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,19,"Figure 3, Table S2",=,14,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,24,"Figure 3, Table S2",=,9.7,NULL,NULL,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,2,"Figure 2, TableS1A",>,34.4,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,5,"Figure 2, TableS1A",>,18.4,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,7,"Figure 2, TableS1A",>,13.7,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,12,"Figure 2, TableS1A",>,16.9,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,13,"Figure 2, TableS1A",>,16.6,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,14,"Figure 2, TableS1A",>,21.9,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,17,"Figure 2, TableS1A",>,55.8,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,18,"Figure 2, TableS1A",>,12.1,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,23,"Figure 2, TableS1A",>,19.1,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,28,"Figure 2, TableS1A",>,18,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,32,"Figure 2, TableS1A",>,19.8,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wildtype,B.1.351 full genome,34,"Figure 2, TableS1A",>,33.8,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,3,"Figure 3, Table S2",>,12.6,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wildtype,B.1.351 full genome,14,"Figure 3, Table S2",>,10.6,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,Bamlanivimab,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",>,1545.3,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,Etesevimab,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",>,291.2,NULL,experimental,1,authentic virus,2021-03-17

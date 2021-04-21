@@ -1,51 +1,51 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Faulkner21,CP_Mild,Wuhan,B.1.1.7 full genome,9,Figure 2b,=,2.5,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,9,Figure 2b,=,2.5,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.1.7 full genome,10,Figure 2b,=,2.5,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,10,Figure 2b,=,2.5,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,11,Figure 2b,=,2.2,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,12,Figure 2b,=,2.1,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.1.7 full genome,13,Figure 2b,=,1.7,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,13,Figure 2b,=,1.7,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.1.7 full genome,14,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,14,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.1.7 full genome,15,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,15,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.1.7 full genome,16,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,16,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.1.7 full genome,17,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,17,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,15,Figure 2b,NULL,NULL,NULL,control,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.1.7 full genome,9,Figure 2b,=,2.5,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,9,Figure 2b,=,2.5,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.1.7 full genome,10,Figure 2b,=,2.5,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,10,Figure 2b,=,2.5,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,11,Figure 2b,=,2.2,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,12,Figure 2b,=,2.1,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.1.7 full genome,13,Figure 2b,=,1.7,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,13,Figure 2b,=,1.7,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.1.7 full genome,14,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,14,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.1.7 full genome,15,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,15,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.1.7 full genome,16,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,16,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.1.7 full genome,17,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,17,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,15,Figure 2b,NULL,NULL,NULL,control,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,15,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,19,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,19,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,19,Figure 2b,NULL,NULL,NULL,control,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,20,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,20,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,20,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,21,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,21,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,21,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,22,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,22,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,22,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,23,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,23,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,23,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,24,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,24,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,24,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,25,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,25,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,25,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,26,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,26,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,26,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,27,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,27,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,27,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,28,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,28,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,28,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP,B.1.1.7 full genome,Wuhan,29,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
+Faulkner21,CP,B.1.1.7 full genome,Wildtype,29,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,29,Figure 2b,NULL,NULL,NULL,both,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,1,Figure 2b,=,9.7,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,2,Figure 2b,=,9.7,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,3,Figure 2b,=,6.6,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,5,Figure 2b,=,5.2,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,6,Figure 2b,=,4.3,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,7,Figure 2b,=,3.8,NULL,experimental,1,authentic virus,2021-03-08
-Faulkner21,CP_Mild,Wuhan,B.1.351 full genome,8,Figure 2b,=,3.6,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,1,Figure 2b,=,9.7,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,2,Figure 2b,=,9.7,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,3,Figure 2b,=,6.6,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,5,Figure 2b,=,5.2,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,6,Figure 2b,=,4.3,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,7,Figure 2b,=,3.8,NULL,experimental,1,authentic virus,2021-03-08
+Faulkner21,CP_Mild,Wildtype,B.1.351 full genome,8,Figure 2b,=,3.6,NULL,experimental,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,9,Figure 2b,=,5.8,NULL,experimental,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,12,Figure 2b,=,8.0,NULL,experimental,1,authentic virus,2021-03-08
 Faulkner21,CP,B.1.1.7 full genome,B.1.351 full genome,13,Figure 2b,=,9.3,NULL,experimental,1,authentic virus,2021-03-08

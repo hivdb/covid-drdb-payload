@@ -1,8 +1,8 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Edara21,CP_acute,S:614G,Wuhan,17,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,control,1,authentic virus,2021-03-19
-Edara21,CP_acute,S:614G,Wuhan,18,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
-Edara21,CP_acute,S:614G,Wuhan,19,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
-Edara21,CP_acute,S:614G,Wuhan,20,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
+Edara21,CP_acute,S:614G,Wildtype,17,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,control,1,authentic virus,2021-03-19
+Edara21,CP_acute,S:614G,Wildtype,18,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
+Edara21,CP_acute,S:614G,Wildtype,19,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
+Edara21,CP_acute,S:614G,Wildtype,20,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
 Edara21,CP_acute,S:614G,B.1.1.7 full genome,17,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,control,1,authentic virus,2021-03-19
 Edara21,CP_acute,S:614G,B.1.1.7 full genome,18,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
 Edara21,CP_acute,S:614G,B.1.1.7 full genome,19,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
@@ -11,6 +11,6 @@ Edara21,CP_acute,S:614G,S:501Y,17,"Figure, preprint 2021.02.02.21250799 figure 1
 Edara21,CP_acute,S:614G,S:501Y,18,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
 Edara21,CP_acute,S:614G,S:501Y,19,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
 Edara21,CP_acute,S:614G,S:501Y,20,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
-Edara21,CP,S:614G,Wuhan,20,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,control,1,authentic virus,2021-03-19
+Edara21,CP,S:614G,Wildtype,20,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,control,1,authentic virus,2021-03-19
 Edara21,CP,S:614G,B.1.1.7 full genome,20,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19
 Edara21,CP,S:614G,S:501Y,20,"Figure, preprint 2021.02.02.21250799 figure 1",NULL,NULL,NULL,both,1,authentic virus,2021-03-19

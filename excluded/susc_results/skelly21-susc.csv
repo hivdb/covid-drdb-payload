@@ -1,3 +1,12 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Skelly21,BNTsd003,Wuhan,B.1.1.7 full genome,1,Figure 2B,NULL,NULL,NULL,both,1,authentic virus,2021-03-29
-Skelly21,BNTsd003,Wuhan,B.1.351 full genome,1,Figure 2B,NULL,NULL,NULL,both,1,authentic virus,2021-03-29
+Skelly21,CP_24d,Wildtype,B.1.1.7 full genome,12,Figure S2E,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,CP_24d,Wildtype,B.1.351 full genome,18,Figure S2E,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,CP_24d,Wildtype,B.1.351 full genome,19,Figure S2E,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,CP_24d,Wildtype,B.1.351 full genome,6,Figure S2E,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,CP_24d,Wildtype,B.1.351 full genome,7,Figure S2E,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,CP_24d,Wildtype,B.1.351 full genome,8,Figure S2E,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,CP_24d,Wildtype,B.1.351 full genome,9,Figure S2E,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,CP_24d,Wildtype,B.1.351 full genome,10,Figure S2E,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,BNT162b2_2ds,Wildtype,B.1.1.7 full genome,25,Figure S1,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,BNT162b2_2ds,Wildtype,B.1.351 full genome,24,Figure S1,>,9999,NULL,NULL,1,authentic virus,2021-04-21
+Skelly21,BNT162b2_2ds,Wildtype,B.1.351 full genome,1,Figure S1,>,9999,NULL,NULL,1,authentic virus,2021-04-21

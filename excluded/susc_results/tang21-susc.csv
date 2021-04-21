@@ -1,8 +1,8 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Tang21,CP,Wuhan,B.1.429 Spike,5,Supplementary table 3,NULL,NULL,NULL,both,1,NULL,2021-03-22
-Tang21,CP,Wuhan,B.1.1.7 Spike,5,Supplementary table 3,NULL,NULL,NULL,both,1,NULL,2021-03-22
-Tang21,CP,Wuhan,P.1 Spike,5,Supplementary table 3,NULL,NULL,NULL,both,1,NULL,2021-03-22
-Tang21,CP,Wuhan,B.1.351 Spike,5,Supplementary table 3,NULL,NULL,NULL,both,1,NULL,2021-03-22
-Tang21,CP,Wuhan,P.1 Spike,8,Supplementary table 3,=,6,NULL,experimental,1,NULL,2021-03-22
-Tang21,CP,Wuhan,B.1.351 Spike,7,Supplementary table 3,=,3.4,NULL,experimental,1,NULL,2021-03-22
-Tang21,CP,Wuhan,B.1.351 Spike,8,Supplementary table 3,=,6,NULL,experimental,1,NULL,2021-03-22
+Tang21,CP,Wildtype,B.1.429 Spike,5,Supplementary table 3,NULL,NULL,NULL,both,1,NULL,2021-03-22
+Tang21,CP,Wildtype,B.1.1.7 Spike,5,Supplementary table 3,NULL,NULL,NULL,both,1,NULL,2021-03-22
+Tang21,CP,Wildtype,P.1 Spike,5,Supplementary table 3,NULL,NULL,NULL,both,1,NULL,2021-03-22
+Tang21,CP,Wildtype,B.1.351 Spike,5,Supplementary table 3,NULL,NULL,NULL,both,1,NULL,2021-03-22
+Tang21,CP,Wildtype,P.1 Spike,8,Supplementary table 3,=,6,NULL,experimental,1,NULL,2021-03-22
+Tang21,CP,Wildtype,B.1.351 Spike,7,Supplementary table 3,=,3.4,NULL,experimental,1,NULL,2021-03-22
+Tang21,CP,Wildtype,B.1.351 Spike,8,Supplementary table 3,=,6,NULL,experimental,1,NULL,2021-03-22
