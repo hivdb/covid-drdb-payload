@@ -1,8 +1,10 @@
-﻿ab_name,pdb_id,target,class,source
+ab_name,pdb_id,target,class,source
 1-20,NULL,RBD,NULL,author
 1-57,7LS9,RBD,NULL,structure
 1-87,7L2D,NTD,NULL,structure
+150HC + 222LC,NULL,RBD,NULL,author
 157,NULL,RBD,NULL,author
+158HC + 222LC,NULL,RBD,NULL,author
 1B07,NULL,RBD,NULL,author
 2-15,7L5B,RBD,NULL,structure
 2-15,NULL,RBD,NULL,author
@@ -14,8 +16,10 @@
 2-43,NULL,RBD,RBD Core Cluster I,author
 2-51,7L2C,NTD,NULL,structure
 2-7,7LSS,RBD,NULL,structure
+222HC + 222LC,NULL,RBD,NULL,author
 247,NULL,RBD,NULL,author
 261-262,NULL,RBD,NULL,author
+269HC + 222LC,NULL,RBD,NULL,author
 2B04,NULL,RBD,NULL,author
 2C02,NULL,RBD,NULL,author
 2C03,NULL,RBD,NULL,author
@@ -39,12 +43,12 @@ ADG30,NULL,RBD,NULL,author
 B07,NULL,RBD,NULL,author
 B1-182.1,NULL,RBD,NULL,author
 B38,7BZ5,RBD,RBM Class I,structure
-Bamlanivimab,7KMG,RBD,RBM Class II,structure
 BD-368-2,7CHH,RBD,RBM Class II,structure
 BD-629,7CH5,RBD,RBM Class I,structure
 BD23,NULL,RBD,NULL,author
 BRII-196,NULL,RBD,NULL,author
 BRII-198,NULL,RBD,NULL,author
+Bamlanivimab,7KMG,RBD,RBM Class II,structure
 C002,7K8S,RBD,RBM Class II,structure
 C105,6XCN,RBD,RBM Class I,structure
 C110,7K8V,RBD,RBD Core Cluster I,structure
@@ -74,11 +78,9 @@ C678,NULL,RBD,NULL,author
 C682,NULL,RBD,NULL,author
 C683,NULL,RBD,NULL,author
 CA1,NULL,RBD,NULL,author
-Casirivimab,6XDG,RBD,RBM Class I,structure
 CC12.1,6XC2,RBD,RBM Class I,structure
 CC12.3,6XC4,RBD,NULL,structure
 CC6.29,NULL,RBD,NULL,author
-Cilgavimab,7L7E,RBD,RBM Class II,structure
 COV-021,NULL,RBD,NULL,author
 COV-047,NULL,RBD,NULL,author
 COV-057,NULL,RBD,NULL,author
@@ -124,11 +126,13 @@ CV07-209,NULL,NULL,NULL,author
 CV07-250,6XKQ,RBD,NULL,structure
 CV07-270,6XKP,RBD,NULL,structure
 CV1,NULL,NTD,NULL,author
-CV38-142,NULL,NTD,NULL,author
 CV2-75,NULL,RBD,NULL,author
 CV3-1,NULL,RBD,NULL,author
 CV3-25,NULL,S2,NULL,author
 CV30,6XE1,RBD,RBM Class I,structure
+CV38-142,NULL,NTD,NULL,author
+Casirivimab,6XDG,RBD,RBM Class I,structure
+Cilgavimab,7L7E,RBD,RBM Class II,structure
 D14,NULL,S1,NULL,author
 DH1041,7LAA,RBD,NULL,structure
 DH1042,NULL,NULL,NULL,author
@@ -138,6 +142,10 @@ Etesevimab,7C01,RBD,RBM Class I,structure
 F05,NULL,RBD,NULL,author
 F10,NULL,S,NULL,author
 F20,NULL,S,NULL,author
+Fab 150,NULL,RBD,NULL,author
+Fab 158,NULL,RBD,NULL,author
+Fab 175,NULL,RBD,NULL,author
+Fab 222,NULL,RBD,NULL,author
 G12,NULL,RBD,NULL,author
 H00S022,NULL,RBD,NULL,author
 H014,7CAH,RBD,RBD Core Cluster II,structure
@@ -150,8 +158,6 @@ Imdevimab,6XDG,RBD,RBD Core Cluster I,structure
 J08,NULL,RBD,NULL,author
 J13,NULL,NTD,NULL,author
 JMB2002,NULL,RBD,NULL,author
-mAb102,NULL,RBD,NULL,author
-mAb48,NULL,RBD,NULL,author
 P22A-1D1,NULL,RBD,RBM Class I,author
 P2B-1G5,NULL,RBD,RBD Core Cluster II,author
 P2B-2F6,7BWJ,RBD,RBM Class II,structure
@@ -159,11 +165,10 @@ P2C-1F11,7CDI,RBD,RBM Class I,structure
 P5A-1B9,NULL,RBD,RBM Class II,author
 P5A-1D2,NULL,RBD,RBM Class I,author
 P5A-3C8,NULL,RBD,RBM Class I,author
-rCR3022,6YLA,RBD,RBD Core Cluster II,structure
-Regdanvimab,7CM4,RBD,RBM Class I,structure
 REGN10934,NULL,RBD,NULL,author
 REGN10985,NULL,RBD,NULL,author
 REGN10989,NULL,RBD,NULL,author
+Regdanvimab,7CM4,RBD,RBM Class I,structure
 S2D106,NULL,RBD,NULL,author
 S2D19,NULL,RBD,NULL,author
 S2D32,NULL,RBD,NULL,author
@@ -176,6 +181,7 @@ S2E12,7K4N,RBD,RBM Class I,author
 S2E13,NULL,RBD,NULL,author
 S2E16,NULL,RBD,NULL,author
 S2E23,NULL,RBD,NULL,author
+S2H13,7JV6,RBD,NULL,structure
 S2H14,7JX3,RBD,RBM Class I,structure
 S2H14,NULL,RBD,RBM Class I,author
 S2H19,NULL,RBD,NULL,author
@@ -229,6 +235,7 @@ S2X613,NULL,RBD,NULL,author
 S2X615,NULL,RBD,NULL,author
 S2X619,NULL,RBD,NULL,author
 S2X620,NULL,RBD,NULL,author
+S304,7JW0,RBD,RBD Core Cluster II,structure
 SARS2-01,NULL,RBD,NULL,author
 SARS2-02,NULL,RBD,NULL,author
 SARS2-07,NULL,RBD,NULL,author
@@ -250,15 +257,8 @@ SARS2-66,NULL,RBD,NULL,author
 SARS2-71,NULL,RBD,NULL,author
 Tixagevimab,7L7D,RBD,RBM Class I,structure
 Vir-7831,6WPS,RBD,RBD Core Cluster I,structure
-S304,7JW0,RBD,RBD Core Cluster II,structure
 Vir-7832,NULL,RBD,NULL,author
 X593,NULL,RBD,NULL,author
-S2H13,7JV6,RBD,NULL,structure
-Fab 150,NULL,RBD,NULL,author
-Fab 158,NULL,RBD,NULL,author
-Fab 175,NULL,RBD,NULL,author
-Fab 222,NULL,RBD,NULL,author
-222HC + 222LC,NULL,RBD,NULL,author
-150HC + 222LC,NULL,RBD,NULL,author
-158HC + 222LC,NULL,RBD,NULL,author
-269HC + 222LC,NULL,RBD,NULL,author
+mAb102,NULL,RBD,NULL,author
+mAb48,NULL,RBD,NULL,author
+rCR3022,6YLA,RBD,RBD Core Cluster II,structure
