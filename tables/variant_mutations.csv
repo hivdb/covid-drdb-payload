@@ -197,6 +197,15 @@ B.1 clade G full genome,S,655,Y
 B.1 clade G full genome,E,42,C
 B.1 clade G full genome,M,3,G
 B.1 clade G full genome,M,125,Y
+B.1.1.50 full genome,S,27,S
+B.1.1.50 full genome,S,614,G
+B.1.1.50 full genome,N,204,R
+B.1.1.50 full genome,N,203,K
+B.1.1.50 full genome,ORF3a,131,C
+B.1.1.50 full genome,PLpro,720,I
+B.1.1.50 full genome,RdRP,176,V
+B.1.1.50 full genome,RdRP,379,S
+B.1.1.50 full genome,RdRP,666,I
 B.1.1.50 full genome+S:681H,S,27,S
 B.1.1.50 full genome+S:681H,S,614,G
 B.1.1.50 full genome+S:681H,S,681,H
