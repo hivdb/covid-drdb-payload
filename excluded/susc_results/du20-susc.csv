@@ -1,4 +1,4 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Du20,BD-368-2,Control,S:452R,1,Figure 7,NULL,NULL,NULL,control,1,NULL,2021-01-31
-Du20,BD-368-2,Control,S:483A,1,Figure 7,NULL,NULL,NULL,control,1,NULL,2021-01-31
-Du20,BD-368-2,Control,S:490L,1,Figure 7,NULL,NULL,NULL,control,1,NULL,2021-01-31
+Du20,BD-368-2,Wildtype,S:452R,1,Figure 7,NULL,NULL,NULL,control,1,NULL,2021-01-31
+Du20,BD-368-2,Wildtype,S:483A,1,Figure 7,NULL,NULL,NULL,control,1,NULL,2021-01-31
+Du20,BD-368-2,Wildtype,S:490L,1,Figure 7,NULL,NULL,NULL,control,1,NULL,2021-01-31

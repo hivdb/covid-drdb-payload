@@ -1,14 +1,14 @@
 ﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Baum20,REGN10933,Control,S:453F,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10933,Control,S:455F,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10933,Control,S:486V,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10933,Control,S:493K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10934,Control,S:450D,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10934,Control,S:484K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10987,Control,S:444Q,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10987,Control,S:445A,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10989,Control,S:484K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10989,Control,S:485D,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10989,Control,S:486V,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10989,Control,S:493K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
-Baum20,REGN10989/10934,Control,S:484K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10933,Wildtype,S:453F,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10933,Wildtype,S:455F,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10933,Wildtype,S:486V,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10933,Wildtype,S:493K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10934,Wildtype,S:450D,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10934,Wildtype,S:484K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10987,Wildtype,S:444Q,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10987,Wildtype,S:445A,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10989,Wildtype,S:484K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10989,Wildtype,S:485D,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10989,Wildtype,S:486V,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10989,Wildtype,S:493K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
+Baum20,REGN10989/10934,Wildtype,S:484K,1,Table 2,>,9999,NULL,experimental,1,NULL,2021-01-27
