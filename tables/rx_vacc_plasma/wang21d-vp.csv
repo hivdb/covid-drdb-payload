@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
-Wang21d,Moderna_D43,mRNA-1273,1M,NULL,Mod
-Wang21d,Pfizer_BNT162b2_D28,BNT162b2,1M,NULL,BNT
+Wang21d,Moderna_D43,mRNA-1273,1,NULL,Mod
+Wang21d,Pfizer_BNT162b2_D28,BNT162b2,1,NULL,BNT

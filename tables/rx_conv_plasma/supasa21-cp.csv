@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Supasa21,CP,NULL,1M,NULL,NULL,CP
-Supasa21,CP_B.1.1.7,B.1.1.7 full genome,B.1.1.7 full genome,0.5M,NULL,CP_B.1.1.7
+Supasa21,CP,NULL,1,NULL,NULL,CP
+Supasa21,CP_B.1.1.7,B.1.1.7 full genome,0.5,NULL,NULL,CP_B.1.1.7
