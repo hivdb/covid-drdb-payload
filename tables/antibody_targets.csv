@@ -26,7 +26,10 @@ ab_name,pdb_id,target,class,source
 2C02,NULL,RBD,NULL,author
 2C03,NULL,RBD,NULL,author
 2E06,NULL,RBD,NULL,author
+2G12,7L02,S2,NULL,structure
 2H04,NULL,RBD,NULL,author
+2H2,7DK5,RBD,RBM,structure
+3C1,7DD2,RBD,RBD Core,structure
 4-18,NULL,NTD,NTD,author
 4-18,7L2E,NTD,NTD,structure
 4-19,NULL,NTD,NTD,author
@@ -35,6 +38,8 @@ ab_name,pdb_id,target,class,source
 4A8,7C2L,NTD,NTD,structure
 5-24,7L2F,NTD,NTD,structure
 5-7,NULL,NTD,NTD,author
+6D6,7EAN,RBD,RBD Core,structure
+7D6,7EAM,RBD,RBD Core,structure
 910-30,7KS9,RBD,NULL,structure
 A19-46.1,NULL,RBD,NULL,author
 A19-61.1,NULL,RBD,NULL,author
@@ -46,7 +51,9 @@ ADG30,NULL,RBD,NULL,author
 B07,NULL,RBD,NULL,author
 B1-182.1,NULL,RBD,NULL,author
 B38,7BZ5,RBD,RBM Class I,structure
+BD-236,7CHB,RBD,RBM,structure
 BD-368-2,7CHH,RBD,RBM Class II,structure
+BD-604,7CH4,RBD,RBM,structure
 BD-629,7CH5,RBD,RBM Class I,structure
 BD23,NULL,RBD,NULL,author
 BD23,7BYR,RBD,RBM Class III,structure
@@ -54,13 +61,20 @@ BRII-196,NULL,RBD,NULL,author
 BRII-198,NULL,RBD,NULL,author
 Bamlanivimab,7KMG,RBD,RBM Class II,structure
 C002,7K8S,RBD,RBM Class II,structure
+C102,7K8M,RBD,RBM,structure
+C104,7K8U,RBD,RBM,structure
 C105,6XCN,RBD,RBM Class I,structure
+C105,6XCN,RBD,RBM,structure
 C110,7K8V,RBD,RBD Core Cluster I,structure
 C119,7K8W,RBD,RBM Class II,structure
 C121,7K8X,RBD,RBM Class II,structure
 C135,7K8Z,RBD,RBD Core Cluster I,structure
 C14,NULL,RBD,NULL,author
 C144,7K90,RBD,RBM Class III,structure
+C1A-B12,7KFV,RBD,RBM,structure
+C1A-B3,7KFW,RBD,RBM,structure
+C1A-C2,7KFX,RBD,RBM,structure
+C1A-F10,7KFY,RBD,RBM,structure
 C601,NULL,RBD,NULL,author
 C602,NULL,RBD,NULL,author
 C603,NULL,RBD,NULL,author
@@ -115,10 +129,22 @@ COVA2-15,NULL,RBD,NULL,author
 COVA2-17,NULL,RBD,NULL,author
 COVA2-29,NULL,RBD,NULL,author
 COVA2-39,7JMP,RBD,RBM Class I,structure
+COVOX-150,7BEI,RBD,RBM,structure
+COVOX-158,7BEJ,RBD,RBM,structure
+COVOX-159,7NDC,NTD,NTD,structure
+COVOX-222,7NX6,RBD,RBD Core,structure
+COVOX-253,7BEN,RBD,RBM,structure
+COVOX-253H165L,7NDB,RBD,RBM,structure
+COVOX-253H55L,7BEO,RBD,RBM,structure
+COVOX-269,7BEM,RBD,RBM,structure
+COVOX-316,7BEH,RBD,RBM,structure
 COVOX-384,NULL,RBD,NULL,author
 COVOX-384,7BEP,RBD,NULL,structure
 COVOX-40,NULL,RBD,NULL,author
 COVOX-40,7ND6,RBD,NULL,structure
+COVOX-45,7BEL,RBD,RBD Core,structure
+COVOX-75,7BEN,RBD,RBM,structure
+COVOX-88,7ND4,RBD,RBM,structure
 CQ012,NULL,NULL,NULL,author
 CQ016,NULL,NULL,NULL,author
 CQ024,NULL,NULL,NULL,author
@@ -127,6 +153,9 @@ CQ028,NULL,NULL,NULL,author
 CQ038,NULL,NULL,NULL,author
 CQ045,NULL,NULL,NULL,author
 CQ046,NULL,NULL,NULL,author
+CR3014-C8,7KZB,RBD,RBD Core,structure
+CR3022,6YLA,RBD,RBD Core,structure
+CR3022-B6,7KZB,RBD,RBM,structure
 CV05-163,7LOP,RBD,NULL,structure
 CV07-209,NULL,NULL,NULL,author
 CV07-250,6XKQ,RBD,NULL,structure
@@ -145,17 +174,26 @@ DH1042,NULL,NULL,NULL,author
 DH1043,NULL,RBD,NULL,author
 DH1043,7LJR,RBD,NULL,structure
 DH1047,7LD1,RBD,RBD Core Cluster II,structure
+DH1050,7LCN,NTD,NTD,structure
+DH1052,7LAB,NTD,NTD,structure
+EY6A,6ZER,RBD,RBD Core,structure
 Etesevimab,7C01,RBD,RBM Class I,structure
 F05,NULL,RBD,NULL,author
 F10,NULL,S,NULL,author
 F20,NULL,S,NULL,author
+FC05,7CWS,NTD,NTD,structure
 Fab 150,NULL,RBD,NULL,author
 Fab 158,NULL,RBD,NULL,author
 Fab 175,NULL,RBD,NULL,author
 Fab 222,NULL,RBD,NULL,author
+Fab-298,7K9Z,RBD,RBM,structure
+Fab-52,7K9Z,RBD,RBM,structure
+Fab_15033-7,7KXJ,RBD,RBM,structure
 G12,NULL,RBD,NULL,author
 H00S022,NULL,RBD,NULL,author
 H014,7CAH,RBD,RBD Core Cluster II,structure
+H11-D4,6Z43,RBD,RBM,structure
+H11-H4,6ZHD,RBD,RBM,structure
 H20,NULL,S,NULL,author
 H4,NULL,RBD,NULL,author
 H4,7L58,RBD,NULL,structure
@@ -166,18 +204,42 @@ Imdevimab,6XDG,RBD,RBD Core Cluster I,structure
 J08,NULL,RBD,NULL,author
 J13,NULL,NTD,NTD,author
 JMB2002,NULL,RBD,NULL,author
+LY-CoV481,7KMI,RBD,RBM,structure
+LY-CoV488,7KMH,RBD,RBM,structure
+MR17,7C8W,RBD,RBM,structure
+MR17-K99Y,7CAN,RBD,RBM,structure
+MW06,7DPM,RBD,RBD Core,structure
+Nb6,7KKK,RBD,RBM,structure
+P17,7CWM,RBD,RBM,structure
 P22A-1D1,NULL,RBD,RBM Class I,author
+P2B-1A1,7CZP,RBD,RBM,structure
+P2B-1A10,7CZQ,RBD,RBM,structure
 P2B-1G5,NULL,RBD,RBD Core Cluster II,author
 P2B-2F6,7BWJ,RBD,RBM Class II,structure
+P2C-1A3,7CDJ,RBD,RBM,structure
 P2C-1F11,7CDI,RBD,RBM Class I,structure
+P4A1,7CJF,RBD,RBM,structure
+P5A-1B6,7CZU,RBD,RBM,structure
+P5A-1B8,7CZR,RBD,RBM,structure
 P5A-1B9,NULL,RBD,RBM Class II,author
 P5A-1B9,7CZX,RBD,NULL,structure
 P5A-1D2,NULL,RBD,RBM Class I,author
+P5A-2F11,7CZZ,RBD,RBM,structure
+P5A-2G7,7CZW,RBD,RBM,structure
+P5A-2G9,7CZT,RBD,RBM,structure
+P5A-3A1,7D0C,RBD,RBM,structure
+P5A-3C12,7D0D,RBD,RBM,structure
 P5A-3C8,NULL,RBD,RBM Class I,author
+REGN10933,6XDG,RBD,RBM,structure
 REGN10934,NULL,RBD,NULL,author
 REGN10985,NULL,RBD,NULL,author
+REGN10987,6XDG,RBD,RBD Core,structure
 REGN10989,NULL,RBD,NULL,author
 Regdanvimab,7CM4,RBD,RBM Class I,structure
+S2-L28,7LXX,RBD,RBM,structure
+S2-M28,7LY0,NTD,NTD,structure
+S2-X333,7LXW,NTD,NTD,structure
+S2A4,7JVA,RBD,RBD Core,structure
 S2D106,NULL,RBD,NULL,author
 S2D19,NULL,RBD,NULL,author
 S2D32,NULL,RBD,NULL,author
@@ -188,7 +250,6 @@ S2E11,7K43,RBD,NULL,structure
 S2E12,7K4N,RBD,RBM Class I,structure
 S2E12,NULL,RBD,RBM Class I,author
 S2E13,NULL,RBD,NULL,author
-S2E13,7JV6,RBD,NULL,structure
 S2E16,NULL,RBD,NULL,author
 S2E23,NULL,RBD,NULL,author
 S2H13,7JV6,RBD,NULL,structure
@@ -267,10 +328,24 @@ SARS2-55,NULL,RBD,NULL,author
 SARS2-58,NULL,RBD,NULL,author
 SARS2-66,NULL,RBD,NULL,author
 SARS2-71,NULL,RBD,NULL,author
+SR31,7D2Z,RBD,RBD Core Cluster I,structure
+SR4,7C8V,RBD,RBM,structure
+STE90-C11,7B3O,RBD,RBM,structure
+Sb16,7KGK,RBD,RBM,structure
+Sb23,7A29,RBD,RBM,structure
+Sb45,7KGJ,RBD,RBM,structure
+Sb68,7KLW,RBD,RBD Core,structure
 Tixagevimab,7L7D,RBD,RBM Class I,structure
+Ty1,6ZXN,RBD,RBM Class II,structure
+VHH E,7KN5,RBD,RBM Class II,structure
+VHH U,7KN5,RBD,RBD Core Cluster I,structure
+VHH V,7KN6,RBD,RBD Core Cluster I,structure
+VHH W,7KN7,RBD,RBD Core Cluster I,structure
+VHH-72,6WAQ,RBD,RBD Core Cluster II,structure
 Vir-7831,6WPS,RBD,RBD Core Cluster I,structure
 Vir-7832,NULL,RBD,NULL,author
 X593,NULL,RBD,NULL,author
 mAb102,NULL,RBD,NULL,author
 mAb48,NULL,RBD,NULL,author
+nb20,7JVB,RBD,RBM,structure
 rCR3022,6YLA,RBD,RBD Core Cluster II,structure
