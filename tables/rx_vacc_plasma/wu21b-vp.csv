@@ -1,0 +1,6 @@
+﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
+Wu21b,mRNA-1273_mice,mRNA-1273,0.5,2,Mod_mice
+Wu21b,mRNA-1273.351_mice,mRNA-1273.351,0.5,2,Mod_351_mice
+Wu21b,mRNA-1273.211_mice,mRNA-1273.211,0.5,2,Mod_211_mice
+Wu21b,mRNA-1273_mice_2nd,mRNA-1273,6,2,Mod_mice_2nd
+Wu21b,mRNA-1273_mice_3rd,mRNA-1273 + mRNA-1273.351,7,3,
