@@ -111,29 +111,29 @@ Chen21,SARS2-31,S:614G,P.1 full genome,999,Extended Data Fig.5c,=,2.3,NULL,NULL,
 Chen21,SARS2-44,S:614G,P.1 full genome,999,Extended Data Fig.5c,=,0.8,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,COV2-2676,S:614G,P.1 full genome,999,Extended Data Fig.5c,>,9999,NULL,experimental,1,authentic virus,2021-03-06
 Chen21,COV2-2489,S:614G,P.1 full genome,999,Extended Data Fig.5c,=,1,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,S:614G,P.1 full genome,9999,Extended Data Fig.5c,>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,S:614G,P.1 full genome,9999,Extended Data Fig.5c,>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2676,S:614G,P.1 full genome,9999,Extended Data Fig.5c,>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2676,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COVOX-384,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2H58,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2H58,S:614G,S:417N+484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,S:614G,S:417N+484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COVOX-384,S:614G,S:417N+484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,S:614G,S:417N+484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,S:614G,B.1.1.7 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2H58,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COVOX-384,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,S:614G,S:69del+70del+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,S:614G,S:681H,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2489,S:614G,S:501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,S2H58,S:614G,S:484K,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,1B07,S:614G,S:484K,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COVOX-384,S:614G,S:484K,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
-Chen21,COV2-2050,S:614G,S:484K,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,NULL,1,authentic virus,2021-03-06
+Chen21,COV2-2050,S:614G,P.1 full genome,9999,Extended Data Fig.5c,>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,1B07,S:614G,P.1 full genome,9999,Extended Data Fig.5c,>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2676,S:614G,P.1 full genome,9999,Extended Data Fig.5c,>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2676,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2489,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,1B07,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COVOX-384,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,S2H58,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2050,S:614G,B.1.351 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,S2H58,S:614G,S:417N+484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,1B07,S:614G,S:417N+484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COVOX-384,S:614G,S:417N+484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2050,S:614G,S:417N+484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2489,S:614G,B.1.1.7 full genome,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,S2H58,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,1B07,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COVOX-384,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2050,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2489,S:614G,S:484K+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2489,S:614G,S:69del+70del+501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2489,S:614G,S:681H,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2489,S:614G,S:501Y,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,S2H58,S:614G,S:484K,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,1B07,S:614G,S:484K,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COVOX-384,S:614G,S:484K,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
+Chen21,COV2-2050,S:614G,S:484K,9999,"Fig.1h,Source Data Fig.1h",>,9999,NULL,experimental,1,authentic virus,2021-03-06
