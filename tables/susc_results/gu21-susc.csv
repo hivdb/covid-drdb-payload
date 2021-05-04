@@ -1,13 +1,13 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Gu21,JMB2002,Wildtype,S:354D,1,Table S4A,=,0.85,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:367F,1,Table S4A,=,0.57,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:436R,1,Table S4A,=,0.24,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:408I,1,Table S4A,=,0.83,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:354D+364Y,1,Table S4A,=,0.59,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:476S,1,Table S4A,=,0.64,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:483A,1,Table S4A,=,2,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:475V,1,Table S4A,=,4,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:452R,1,Table S4A,=,42,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,S:614G,1,Table S4B,=,0.57,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,B.1.1.7 S1,1,Table S4B,=,17,NULL,NULL,1,NULL,2021-02-08
-Gu21,JMB2002,Wildtype,B.1.351 RBD+S:614G,1,Table S4B,=,2.84,NULL,NULL,1,NULL,2021-02-08
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+Gu21,JMB2002,Wildtype,S:354D,1,Table S4A,=,0.85,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:367F,1,Table S4A,=,0.57,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:436R,1,Table S4A,=,0.24,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:408I,1,Table S4A,=,0.83,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:354D+364Y,1,Table S4A,=,0.59,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:476S,1,Table S4A,=,0.64,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:483A,1,Table S4A,=,2,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:475V,1,Table S4A,=,4,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:452R,1,Table S4A,=,42,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,S:614G,1,Table S4B,=,0.57,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,B.1.1.7 S1,1,Table S4B,=,17,0,NULL,NULL,1,NULL,2021-02-08
+Gu21,JMB2002,Wildtype,B.1.351 RBD+S:614G,1,Table S4B,=,2.84,0,NULL,NULL,1,NULL,2021-02-08

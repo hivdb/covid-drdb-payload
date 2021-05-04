@@ -1,12 +1,12 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,29,Figure 3A,>,8.8,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,30,Figure 3A,>,8.8,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,31,Figure 3A,>,8.8,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,32,Figure 3A,>,7.6,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,33,Figure 3A,>,7.6,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,34,Figure 3A,>,6.5,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,36,Figure 3A,>,2.5,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,37,Figure 3A,>,2.5,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_B.1.351,B.1.351 Spike,S:614G,19,Figure 3C,>,7.6,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_B.1.351,B.1.351 Spike,S:614G,20,Figure 3C,>,4.7,NULL,experimental,1,NULL,2021-03-09
-Moyo-Gwete21,CP_B.1.351,B.1.351 Spike,S:614G,22,Figure 3C,>,3,NULL,experimental,1,NULL,2021-03-09
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,29,Figure 3A,>,8.8,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,30,Figure 3A,>,8.8,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,31,Figure 3A,>,8.8,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,32,Figure 3A,>,7.6,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,33,Figure 3A,>,7.6,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,34,Figure 3A,>,6.5,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,36,Figure 3A,>,2.5,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_614G,S:614G,B.1.351 Spike,37,Figure 3A,>,2.5,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_B.1.351,B.1.351 Spike,S:614G,19,Figure 3C,>,7.6,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_B.1.351,B.1.351 Spike,S:614G,20,Figure 3C,>,4.7,0,NULL,experimental,1,NULL,2021-03-09
+Moyo-Gwete21,CP_B.1.351,B.1.351 Spike,S:614G,22,Figure 3C,>,3,0,NULL,experimental,1,NULL,2021-03-09

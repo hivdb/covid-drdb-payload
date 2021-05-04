@@ -1,40 +1,40 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added
-Wang21g,CP,Wildtype,S:614G,31,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,S:614G,32,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,S:614G,33,Figure 1,<,0.1,NULL,control,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,S:614G,34,Figure 1,<,0.1,NULL,control,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,B.1.1.7 Spike,31,Figure 1,<,0.3,NULL,control,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,B.1.1.7 Spike,32,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,B.1.1.7 Spike,33,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,B.1.1.7 Spike,34,Figure 1,<,0.1,NULL,control,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,B.1.351 Spike,31,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,B.1.351 Spike,32,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,B.1.351 Spike,33,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CP,Wildtype,B.1.351 Spike,34,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,S:614G,20,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,S:614G,21,Figure 1,<,0.3,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,S:614G,22,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,S:614G,23,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,S:614G,24,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,S:614G,25,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,20,Figure 1,<,0.1,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,21,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,22,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,23,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,24,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,25,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,20,Figure 1,<,0.1,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,21,Figure 1,<,0.1,NULL,control,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,22,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,23,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,24,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,25,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,S:614G,23,Figure 1,<,0.3,NULL,control,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,S:614G,24,Figure 1,<,0.2,NULL,control,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,S:614G,25,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,B.1.1.7 Spike,23,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,B.1.1.7 Spike,24,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,B.1.1.7 Spike,25,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,B.1.351 Spike,23,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,B.1.351 Spike,24,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
-Wang21g,CoronaVac,Wildtype,B.1.351 Spike,25,Figure 1,NULL,NULL,NULL,both,1,NULL,2021-04-07
+﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+Wang21g,CP,Wildtype,S:614G,31,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,S:614G,32,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,S:614G,33,Figure 1,<,0.1,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,S:614G,34,Figure 1,<,0.1,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,B.1.1.7 Spike,31,Figure 1,<,0.3,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,B.1.1.7 Spike,32,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,B.1.1.7 Spike,33,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,B.1.1.7 Spike,34,Figure 1,<,0.1,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,B.1.351 Spike,31,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,B.1.351 Spike,32,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,B.1.351 Spike,33,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CP,Wildtype,B.1.351 Spike,34,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,S:614G,20,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,S:614G,21,Figure 1,<,0.3,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,S:614G,22,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,S:614G,23,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,S:614G,24,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,S:614G,25,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,20,Figure 1,<,0.1,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,21,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,22,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,23,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,24,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.1.7 Spike,25,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,20,Figure 1,<,0.1,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,21,Figure 1,<,0.1,0,NULL,control,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,22,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,23,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,24,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,BBIBP-CorV,Wildtype,B.1.351 Spike,25,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,S:614G,23,Figure 1,<,0.3,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,S:614G,24,Figure 1,<,0.2,0,NULL,control,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,S:614G,25,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,B.1.1.7 Spike,23,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,B.1.1.7 Spike,24,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,B.1.1.7 Spike,25,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,B.1.351 Spike,23,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,B.1.351 Spike,24,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
+Wang21g,CoronaVac,Wildtype,B.1.351 Spike,25,Figure 1,NULL,NULL,0,NULL,both,1,NULL,2021-04-07
