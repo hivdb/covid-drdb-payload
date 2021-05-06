@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
+Weigang21,CP_patient_2,NULL,NULL,NULL,NULL,CP
+Weigang21,CP_WT_mice,Wildtype,1,NULL,NULL,CP_WT_mice
+Weigang21,CP_d105_mice,Weigang21_d105,1,NULL,NULL,CP_d105_mice

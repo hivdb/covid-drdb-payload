@@ -1,6 +1,15 @@
 ﻿variant_name,gene,position,amino_acid
 20A.EU2 Spike,S,477,N
 20A.EU2 Spike,S,614,G
+B.1.1 full genome,RdRP,323,L
+B.1.1 full genome,S,614,G
+B.1.1 full genome,N,203,K
+B.1.1 full genome,N,204,R
+EPI_ISL_852709,RdRP,323,L
+EPI_ISL_852709,S,614,G
+EPI_ISL_852709,N,203,K
+EPI_ISL_852709,N,204,R
+EPI_ISL_852709,M,175,M
 B.1.1.298 Spike,S,453,F
 B.1.1.298 Spike,S,614,G
 B.1.1.298 Spike,S,692,V
@@ -321,6 +330,20 @@ S:1194Q,S,1194,Q
 S:1229I,S,1229,I
 S:12P,S,12,P
 S:136Y,S,136,Y
+S:141del+142del+143del+144del,S,141,del
+S:141del+142del+143del+144del,S,142,del
+S:141del+142del+143del+144del,S,143,del
+S:141del+142del+143del+144del,S,144,del
+S:141del+142del+143del+144del+484G,S,484,G
+S:141del+142del+143del+144del+484G,S,141,del
+S:141del+142del+143del+144del+484G,S,142,del
+S:141del+142del+143del+144del+484G,S,143,del
+S:141del+142del+143del+144del+484G,S,144,del
+S:141del+142del+143del+144del+490L,S,490,L
+S:141del+142del+143del+144del+490L,S,141,del
+S:141del+142del+143del+144del+490L,S,142,del
+S:141del+142del+143del+144del+490L,S,143,del
+S:141del+142del+143del+144del+490L,S,144,del
 S:144del,S,144,del
 S:145del,S,145,del
 S:145del+408I,S,145,del
@@ -357,6 +380,20 @@ S:242del+243del+244del+614G,S,242,del
 S:242del+243del+244del+614G,S,243,del
 S:242del+243del+244del+614G,S,244,del
 S:242del+243del+244del+614G,S,614,G
+S:244del+245del+246del+247del,S,244,del
+S:244del+245del+246del+247del,S,245,del
+S:244del+245del+246del+247del,S,246,del
+S:244del+245del+246del+247del,S,247,del
+S:244del+245del+246del+247del+484G,S,244,del
+S:244del+245del+246del+247del+484G,S,245,del
+S:244del+245del+246del+247del+484G,S,246,del
+S:244del+245del+246del+247del+484G,S,247,del
+S:244del+245del+246del+247del+484G,S,484,G
+S:244del+245del+246del+247del+490L,S,244,del
+S:244del+245del+246del+247del+490L,S,245,del
+S:244del+245del+246del+247del+490L,S,246,del
+S:244del+245del+246del+247del+490L,S,247,del
+S:244del+245del+246del+247del+490L,S,490,L
 S:242H+614G,S,241,H
 S:242H+614G,S,614,G
 S:246A,S,246,A
@@ -1440,3 +1477,37 @@ Diemen_1363454,S,839,E
 Diemen_1363454,N,203,K
 Diemen_1363454,N,204,R
 Diemen_1363454,N,292,T
+Weigang21_d14,RdRP,323,L
+Weigang21_d14,S,614,G
+Weigang21_d14,N,203,K
+Weigang21_d14,N,204,R
+Weigang21_d14,M,175,M
+Weigang21_d105,RdRP,323,L
+Weigang21_d105,M,175,M
+Weigang21_d105,N,204,R
+Weigang21_d105,N,203,K
+Weigang21_d105,N,270,L
+Weigang21_d105,ORF3a,151,I
+Weigang21_d105,PLpro,1103,S
+Weigang21_d105,S,13,I
+Weigang21_d105,S,141,del
+Weigang21_d105,S,142,del
+Weigang21_d105,S,143,del
+Weigang21_d105,S,144,del
+Weigang21_d105,S,244,del
+Weigang21_d105,S,245,del
+Weigang21_d105,S,246,del
+Weigang21_d105,S,247,del
+Weigang21_d105,S,614,G
+Weigang21_d105,S,490,L
+Weigang21_d105 Spike,S,13,I
+Weigang21_d105 Spike,S,141,del
+Weigang21_d105 Spike,S,142,del
+Weigang21_d105 Spike,S,143,del
+Weigang21_d105 Spike,S,144,del
+Weigang21_d105 Spike,S,244,del
+Weigang21_d105 Spike,S,245,del
+Weigang21_d105 Spike,S,246,del
+Weigang21_d105 Spike,S,247,del
+Weigang21_d105 Spike,S,614,G
+Weigang21_d105 Spike,S,490,L

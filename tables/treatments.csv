@@ -668,6 +668,9 @@ Wang21b,CP
 Wang21d,CP
 Wang21f,CP
 Wang21g,CP
+Weigang21,CP_patient_2
+Weigang21,CP_WT_mice
+Weigang21,CP_d105_mice
 Weisblum20,COV-NY
 Weisblum20,COV47
 West21,CP_1.3M
@@ -765,6 +768,7 @@ Wang21d,Moderna_D43
 Wang21d,Pfizer_BNT162b2_D28
 Wang21g,BBIBP-CorV
 Wang21g,CoronaVac
+Weigang21,BNT162b2
 West21,MOD
 West21,BNT
 Widera21,BNT162b2
@@ -790,6 +794,7 @@ Avanzato20,None
 Bazykin21,None
 Khatamzas21,None
 Copin21,None
+Weigang21,None
 Copin21,REGN10985
 Copin21,Etesevimab
 Copin21,Bamlanivimab
