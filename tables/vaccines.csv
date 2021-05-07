@@ -1,0 +1,12 @@
+vaccine_name,vaccine_type,priority
+BNT162b2,mRNA,1
+mRNA-1273,mRNA,2
+AZD1222,Viral vector,3
+BBIBP-CorV,Inactivated virus,4
+BBV152,Inactivated virus,5
+CoronaVac,Inactivated virus,6
+NVX-CoV2373,Protein subunit,7
+Sptunik V,Viral vector,8
+mRNA-1273.211,mRNA,9
+mRNA-1273.351,mRNA,10
+mRNA-1273 + mRNA-1273.351,mRNA,11
