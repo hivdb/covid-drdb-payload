@@ -155,6 +155,12 @@ Hoffmann21,Casirivimab
 Hoffmann21b,Casirivimab
 Hoffmann21b,Imdevimab
 Hoffmann21b,REGN10989
+Hoffmann21c,Casirivimab
+Hoffmann21c,Imdevimab
+Hoffmann21c,Bamlanivimab
+Hoffmann21c,Etesevimab
+Hoffmann21c,REGN-COV
+Hoffmann21c,Bamlanivimab + Etesevimab
 Hu21,CQ012
 Hu21,CQ016
 Hu21,CQ024
@@ -580,6 +586,21 @@ Hoffmann21b,CP_11
 Hoffmann21b,CP_12
 Hoffmann21b,CP_13
 Hoffmann21b,CP_14
+Hoffmann21c,CP_ID15
+Hoffmann21c,CP_ID18
+Hoffmann21c,CP_ID20
+Hoffmann21c,CP_ID22
+Hoffmann21c,CP_ID23
+Hoffmann21c,CP_ID24
+Hoffmann21c,CP_ID27
+Hoffmann21c,CP_ID33
+Hoffmann21c,CP_ID51
+Hoffmann21c,CP_ID54
+Hoffmann21c,CP_ID59
+Hoffmann21c,CP_ID60
+Hoffmann21c,CP_ID61
+Hoffmann21c,CP_ID70
+Hoffmann21c,CP_ID71
 Hu21,CP_5-33d
 Hu21,CP_8M
 Jangra21,CP_weakIgG
@@ -724,6 +745,21 @@ Hoffmann21,BNT162b2_1M:12
 Hoffmann21,BNT162b2_1M:13
 Hoffmann21,BNT162b2_1M:14
 Hoffmann21,BNT162b2_1M:15
+Hoffmann21c,BNT_ID4844
+Hoffmann21c,BNT_ID4846
+Hoffmann21c,BNT_ID4847
+Hoffmann21c,BNT_ID4848
+Hoffmann21c,BNT_ID4849
+Hoffmann21c,BNT_ID4863
+Hoffmann21c,BNT_ID4864
+Hoffmann21c,BNT_ID4865
+Hoffmann21c,BNT_ID4866
+Hoffmann21c,BNT_ID4867
+Hoffmann21c,BNT_ID4868
+Hoffmann21c,BNT_ID4872
+Hoffmann21c,BNT_ID4874
+Hoffmann21c,BNT_ID4876
+Hoffmann21c,BNT_ID4877
 Ikegame21,Sputnik V
 Jangra21,CP_BNT162b2
 Kuzmina21,BNT162b2_3W

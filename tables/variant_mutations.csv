@@ -1437,6 +1437,14 @@ B.1.617 full genome,ORF7a,43,Y
 B.1.617 full genome,ORF7a,82,A
 B.1.617 full genome,N,203,M
 B.1.617 full genome,N,377,Y
+B.1.617 Spike,S,95,I
+B.1.617 Spike,S,142,D
+B.1.617 Spike,S,154,K
+B.1.617 Spike,S,452,R
+B.1.617 Spike,S,484,Q
+B.1.617 Spike,S,614,G
+B.1.617 Spike,S,681,R
+B.1.617 Spike,S,1071,H
 S:15S,S,15,S
 S:18P,S,18,P
 S:80N,S,80,N
