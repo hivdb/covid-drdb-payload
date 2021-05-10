@@ -2,6 +2,8 @@
 Ku21,CoV2-06
 Ku21,CoV2-14
 Ku21,CoV2-06+CoV2-14
+Jalkanen21,CP_infected_before_vaccine
+Jalkanen21,CP
 Huang21b,ZF2001-serum-012
 Huang21b,ZF2001-serum-014
 Huang21b,ZF2001-serum-024
@@ -26,3 +28,7 @@ Huang21b,BBIBP-CorV-serum-851
 Huang21b,BBIBP-CorV-serum-890
 Huang21b,BBIBP-CorV-serum-845
 Huang21b,BBIBP-CorV-serum-869
+Jalkanen21,BNT_infected_1st
+Jalkanen21,BNT_infected_2nd
+Jalkanen21,BNT_1st
+Jalkanen21,BNT_2nd

@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
+Jalkanen21,BNT_infected_1st,BNT162b2,0.75,1,BNT_infected_1st
+Jalkanen21,BNT_infected_2nd,BNT162b2,0.75,2,BNT_infected_2nd
+Jalkanen21,BNT_1st,BNT162b2,0.75,1,BNT_1st
+Jalkanen21,BNT_2nd,BNT162b2,0.75,2,BNT_2nd
