@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
+Goel21,mRNA_vaccine_infected_1st_dose,BNT162b2 or mRNA-1273,0.5,1,mRNA_infected_1st
+Goel21,mRNA_vaccine_uninfected_1st_dose,BNT162b2 or mRNA-1273,0.5,1,mRNA_uninfected_1st
+Goel21,mRNA_vaccine_infected_2nd_dose,BNT162b2 or mRNA-1273,0.25,2,mRNA_infected_2nd
+Goel21,mRNA_vaccine_uninfected_2nd_dose,BNT162b2 or mRNA-1273,0.25,2,mRNA_uninfected_2nd

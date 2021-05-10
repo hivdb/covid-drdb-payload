@@ -542,6 +542,7 @@ Edara21,CP_acute
 Faulkner21,CP_Patient
 Faulkner21,CP_Mild
 Faulkner21,CP
+Goel21,CP
 Greaney21,Subject_A_d120
 Greaney21,Subject_A_d21
 Greaney21,Subject_J_d121
@@ -726,6 +727,10 @@ Edara21,mRNA-1273
 Emary21,AZD1222
 Garcia-Beltran21,BNT162b2
 Garcia-Beltran21,mRNA-1273
+Goel21,mRNA_vaccine_infected_1st_dose
+Goel21,mRNA_vaccine_uninfected_1st_dose
+Goel21,mRNA_vaccine_infected_2nd_dose
+Goel21,mRNA_vaccine_uninfected_2nd_dose
 Greaney21c,M06
 Greaney21c,M11
 Greaney21c,M05
