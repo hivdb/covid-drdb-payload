@@ -679,6 +679,7 @@ Shen21b,CP
 Skelly21,CP_24d
 Stamatatos21,BNT_infected_pre
 Stamatatos21,MOD_infected_pre
+Stankov21,CP
 Supasa21,CP
 Supasa21,CP_B.1.1.7
 Tada21,CP
@@ -793,6 +794,12 @@ Stamatatos21,BNT_infected_post_2
 Stamatatos21,MOD_infected_post_2
 Stamatatos21,BNT_uninfected_post_2
 Stamatatos21,MOD_uninfected_post_2
+Stankov21,BNT_1st_dose
+Stankov21,BNT_P4
+Stankov21,BNT_P5
+Stankov21,BNT_P6
+Stankov21,BNT_P7
+Stankov21,BNT_P8
 Supasa21,BNT162b2
 Supasa21,AZD1222_14d
 Supasa21,AZD1222_28d
