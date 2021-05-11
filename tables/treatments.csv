@@ -545,6 +545,7 @@ Edara21b,CP_binding_6M
 Edara21b,CP_acute
 Edara21b,CP
 Edara21b,CP_6M
+Edara21c,CP
 Faulkner21,CP_Patient
 Faulkner21,CP_Mild
 Faulkner21,CP
@@ -771,6 +772,8 @@ deSouza21,PiCoV-8
 Edara21,mRNA-1273
 Edara21b,mRNA-1273
 Edara21b,mRNA-1273_binding
+Edara21c,mRNA-1273
+Edara21c,BNT162b2
 Emary21,AZD1222
 Ferreira21,BNT162b2
 Garcia-Beltran21,BNT162b2
