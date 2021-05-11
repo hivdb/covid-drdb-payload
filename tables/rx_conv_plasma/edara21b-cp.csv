@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
+Edara21b,CP_acute_binding,NULL,0.5,NULL,Severe,CP_acute
+Edara21b,CP_binding,NULL,1,NULL,Mild,CP
+Edara21b,CP_binding_6M,NULL,6,NULL,Mild,CP_6M
+Edara21b,CP_acute,NULL,0.5,NULL,Severe,CP_acute
+Edara21b,CP,NULL,1,NULL,Mild,CP
+Edara21b,CP_6M,NULL,6,NULL,Mild,CP_6M
