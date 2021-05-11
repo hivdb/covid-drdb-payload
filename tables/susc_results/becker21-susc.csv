@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Becker21,CP,Wildtype,B.1.351 full genome,1,Figure 4a,=,67.6,0,NULL,NULL,1,authentic virus,2021-03-16
 Becker21,CP,Wildtype,B.1.351 full genome,2,Figure 4a,=,2.1,0,NULL,NULL,1,authentic virus,2021-03-16
 Becker21,CP,Wildtype,B.1.351 full genome,3,Figure 4a,=,1.8,0,NULL,NULL,1,authentic virus,2021-03-16

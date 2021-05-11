@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Betton21,CP,S:614G,B.1.1.7 full genome,1,Figure 4b,=,0.8,50,NULL,NULL,107,authentic virus,2021-05-09
 Betton21,CP,S:614G,B.1.351 full genome,1,Figure 4b,=,3.7,50,NULL,NULL,107,authentic virus,2021-05-09
 Betton21,CP,S:614G,P.1 full genome,1,Figure 4b,=,1.0,50,NULL,NULL,107,authentic virus,2021-05-09

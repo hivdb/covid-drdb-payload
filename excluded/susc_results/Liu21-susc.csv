@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Liu21,CP_13,Wildtype,S:345A,1,"Figure 4B, Figure S5A",=,1.66,0,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_13,Wildtype,S:345N,1,"Figure 4B, Figure S5A",=,1.63,0,NULL,NULL,1,NULL,2021-01-27
 Liu21,CP_13,Wildtype,S:345S,1,"Figure 4B, Figure S5A",=,1.69,0,NULL,NULL,1,NULL,2021-01-27

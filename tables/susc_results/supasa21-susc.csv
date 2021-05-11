@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Supasa21,Cilgavimab,Wildtype,B.1.1.7 full genome,1,Figure 4B + Dejnirattisai21,=,0.9,0,NULL,NULL,1,authentic virus,2021-03-15
 Supasa21,Tixagevimab,Wildtype,B.1.1.7 full genome,1,Figure 4B + Dejnirattisai21,=,2.2,0,NULL,NULL,1,authentic virus,2021-03-15
 Supasa21,AZD7442,Wildtype,B.1.1.7 full genome,1,Figure 4B + Dejnirattisai21,=,0.8,0,NULL,NULL,1,authentic virus,2021-03-15

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Tada21b,REGN10933,S:614G,S:69del+70del+501Y+681H,1,Table 1,=,1.1,0,NULL,NULL,1,NULL,2021-02-19
 Tada21b,REGN10933,S:614G,S:69del+70del,1,Table 1,=,1.9,0,NULL,NULL,1,NULL,2021-02-19
 Tada21b,REGN10933,S:614G,S:144del,1,Table 1,=,1.5,0,NULL,NULL,1,NULL,2021-02-19

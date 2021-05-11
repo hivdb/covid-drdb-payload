@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Edara21,CP_acute,S:614G,Wildtype,1,"Figure, preprint 2021.02.02.21250799 figure 1",=,0.5,0,NULL,NULL,1,authentic virus,2021-03-19
 Edara21,CP_acute,S:614G,Wildtype,2,"Figure, preprint 2021.02.02.21250799 figure 1",=,0.5,0,NULL,NULL,1,authentic virus,2021-03-19
 Edara21,CP_acute,S:614G,Wildtype,3,"Figure, preprint 2021.02.02.21250799 figure 1",=,1.1,0,NULL,NULL,1,authentic virus,2021-03-19

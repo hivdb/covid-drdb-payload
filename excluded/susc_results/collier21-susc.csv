@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Collier21,4A8,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,0,NULL,experimental,1,NULL,2021-04-06
 Collier21,S2L26,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,0,NULL,experimental,1,NULL,2021-04-06
 Collier21,S2X107,S:614G,B.1.1.7 Spike,1,Table 1,>,9999,0,NULL,experimental,1,NULL,2021-04-06

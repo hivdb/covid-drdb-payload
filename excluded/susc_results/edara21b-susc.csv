@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Edara21b,CP_acute,B.1 full genome,B.1.351 full genome,1,Table S1,NULL,NULL,50,NULL,both,1,authentic virus,2021-05-11
 Edara21b,CP_acute,B.1 full genome,B.1.351 full genome,3,Table S1,>,2.4,50,NULL,experimental,1,authentic virus,2021-05-11
 Edara21b,CP_acute,B.1 full genome,B.1.351 full genome,5,Table S1,=,5.2,50,NULL,experimental,1,authentic virus,2021-05-11

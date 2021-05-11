@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Westendorf21,LY-CoV1404,WA1,INMI1,1,Table 2,=,5,50,NULL,NULL,1,authentic virus,2021-05-04
 Westendorf21,LY-CoV1404,WA1,INMI1,1,Table 2,=,8.4,90,NULL,NULL,1,authentic virus,2021-05-04
 Westendorf21,LY-CoV1404,WA1,Diemen_1363454,1,Table 2,=,2.5,50,NULL,NULL,1,authentic virus,2021-05-04

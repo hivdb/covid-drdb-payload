@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Chen21,Tixagevimab,S:614G,S:417N,1,"Fig.1h,Source Data Fig.1h",=,0.2,0,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,Cilgavimab,S:614G,S:417N,1,"Fig.1h,Source Data Fig.1h",=,0.6,0,NULL,NULL,1,authentic virus,2021-03-06
 Chen21,Tixagevimab + Cilgavimab,S:614G,S:417N,1,"Fig.1h,Source Data Fig.1h",=,0.5,0,NULL,NULL,1,authentic virus,2021-03-06

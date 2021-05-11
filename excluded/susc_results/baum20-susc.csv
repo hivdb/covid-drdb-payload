@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Baum20,REGN10933,Wildtype,S:453F,1,Table 2,>,9999,0,NULL,experimental,1,NULL,2021-01-27
 Baum20,REGN10933,Wildtype,S:455F,1,Table 2,>,9999,0,NULL,experimental,1,NULL,2021-01-27
 Baum20,REGN10933,Wildtype,S:486V,1,Table 2,>,9999,0,NULL,experimental,1,NULL,2021-01-27

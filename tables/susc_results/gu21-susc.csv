@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Gu21,JMB2002,Wildtype,S:354D,1,Table S4A,=,0.85,0,NULL,NULL,1,NULL,2021-02-08
 Gu21,JMB2002,Wildtype,S:367F,1,Table S4A,=,0.57,0,NULL,NULL,1,NULL,2021-02-08
 Gu21,JMB2002,Wildtype,S:436R,1,Table S4A,=,0.24,0,NULL,NULL,1,NULL,2021-02-08

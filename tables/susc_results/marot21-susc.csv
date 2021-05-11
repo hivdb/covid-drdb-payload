@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Marot21,BNT162b2,S:614G,B.1.1.7 full genome,1,Table S1,=,4,0,NULL,NULL,1,authentic virus,2021-03-08
 Marot21,BNT162b2,S:614G,B.1.1.7 full genome,2,Table S1,=,4,0,NULL,NULL,1,authentic virus,2021-03-08
 Marot21,BNT162b2,S:614G,B.1.1.7 full genome,3,Table S1,=,4,0,NULL,NULL,1,authentic virus,2021-03-08

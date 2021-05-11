@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added,Excluded
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,resistance_level,ineffective,cumulative_count,assay,date_added,Excluded
 Trinite21,CP_early,Wildtype,S:614G,1,"Figure 2, Figure 3A",=,1.0,NULL,NULL,1,NULL,2021-03-09,
 Trinite21,CP_early,Wildtype,B.1.1.7 Spike,1,"Figure 2, Figure 3A",=,1.2,NULL,NULL,1,NULL,2021-03-09,
 Trinite21,CP_early,Wildtype,S:614G,2,"Figure 2, Figure 3A",=,1.2,NULL,NULL,1,NULL,2021-03-09,

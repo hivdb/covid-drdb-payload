@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Wang21b,4A8,Wildtype,S:18F,1,Figure 2a,>,9999,0,NULL,experimental,1,NULL,2021-01-31
 Wang21b,4A8,Wildtype,S:484K,1,Figure 2a,>,9999,0,NULL,experimental,1,NULL,2021-01-31
 Wang21b,4A8,Wildtype,S:501Y,1,Figure 2a,>,9999,0,NULL,experimental,1,NULL,2021-01-31

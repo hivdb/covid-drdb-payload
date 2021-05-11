@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Garcia-Beltran21,BNT162b2,Wildtype,S:614G,1,Figure 4C,=,2.1,0,NULL,NULL,22,NULL,2021-02-18
 Garcia-Beltran21,BNT162b2,Wildtype,B.1.1.7 Spike,1,Figure 4C,=,2.3,0,NULL,NULL,22,NULL,2021-02-18
 Garcia-Beltran21,BNT162b2,Wildtype,B.1.1.298 Spike,1,Figure 4C,=,3.4,0,NULL,NULL,22,NULL,2021-02-18

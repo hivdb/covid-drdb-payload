@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Zhou21b,CP,Wildtype,B.1.351 full genome,1,"Figure 2, TableS1A",>,3.1,0,NULL,experimental,1,authentic virus,2021-03-17
 Zhou21b,CP,Wildtype,B.1.351 full genome,10,"Figure 2, TableS1A",>,6.2,0,NULL,experimental,1,authentic virus,2021-03-17
 Zhou21b,CP,Wildtype,B.1.351 full genome,11,"Figure 2, TableS1A",>,5.1,0,NULL,experimental,1,authentic virus,2021-03-17

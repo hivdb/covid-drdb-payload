@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Goel21,CP,S:614G,B.1.351 Spike,1,Table S4,=,2.8,50,NULL,NULL,1,NULL,2021-05-09
 Goel21,CP,S:614G,B.1.351 Spike,4,Table S4,=,1.4,50,NULL,NULL,1,NULL,2021-05-09
 Goel21,CP,S:614G,B.1.351 Spike,5,Table S4,=,1.0,50,NULL,NULL,1,NULL,2021-05-09

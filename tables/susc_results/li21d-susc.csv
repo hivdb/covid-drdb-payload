@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Li21d,CP,S:614G,Wildtype,1,Fig 1C,=,8.4,50,NULL,NULL,1,NULL,2021-05-11
 Li21d,CP,S:614G,Wildtype,2,Fig 1C,=,11.9,50,NULL,NULL,1,NULL,2021-05-11
 Li21d,CP,S:614G,Wildtype,3,Fig 1C,=,28.9,50,NULL,NULL,1,NULL,2021-05-11

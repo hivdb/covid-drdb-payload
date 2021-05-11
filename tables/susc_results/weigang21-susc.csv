@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Weigang21,CP_patient_2,S:614G,S:484G,1,Figure 5d,=,1.1,50,NULL,NULL,1,NULL,2021-05-06
 Weigang21,CP_patient_2,S:614G,S:490L,1,Figure 5d,=,1.1,50,NULL,NULL,1,NULL,2021-05-06
 Weigang21,CP_patient_2,S:614G,S:141del+142del+143del+144del,1,Figure 5d,=,2.3,50,NULL,NULL,1,NULL,2021-05-06

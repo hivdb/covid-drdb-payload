@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Wibmer21,CP_Titer_GT400,S:614G,B.1.351 RBD,1,Figure 2,=,10.3,0,NULL,NULL,1,NULL,2021-01-27
 Wibmer21,CP_Titer_GT400,S:614G,B.1.351 RBD,2,Figure 2,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
 Wibmer21,CP_Titer_GT400,S:614G,B.1.351 Spike,2,Figure 2,=,2.11,0,NULL,NULL,1,NULL,2021-01-27

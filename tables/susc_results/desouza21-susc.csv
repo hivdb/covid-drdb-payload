@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 deSouza21,CP_BD280,Control,P.1 Spike,1,"Figure 2A, Table S4",>,3.0,0,NULL,experimental,1,NULL,2021-05-03
 deSouza21,CP_BD504,Control,P.1 Spike,1,"Figure 2A, Table S4",=,2.0,0,NULL,NULL,1,NULL,2021-05-03
 deSouza21,CP_BD000,Control,P.1 Spike,1,"Figure 2A, Table S4",=,5.3,0,NULL,NULL,1,NULL,2021-05-03

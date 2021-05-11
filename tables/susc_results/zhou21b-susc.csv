@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Zhou21b,Cilgavimab,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,1.1,0,NULL,NULL,1,authentic virus,2021-03-17
 Zhou21b,Tixagevimab,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,8.9,0,NULL,NULL,1,authentic virus,2021-03-17
 Zhou21b,AZD7442,Wildtype,B.1.351 full genome,1,"Dej21(TableS2), Figure 4",=,1.4,0,NULL,NULL,1,authentic virus,2021-03-17

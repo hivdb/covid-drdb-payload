@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Weisblum20,C121,Wildtype,S:346K,1,Figure 7A,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
 Weisblum20,C135,Wildtype,S:346K,1,Figure 7B,=,1377,0,NULL,NULL,1,NULL,2021-01-27
 Weisblum20,C144,Wildtype,S:346K,1,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27

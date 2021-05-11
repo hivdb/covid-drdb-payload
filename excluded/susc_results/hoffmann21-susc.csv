@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Hoffmann21,Bamlanivimab,Wildtype,B.1.351 Spike,1,Figure 6,>,9999,0,NULL,experimental,1,NULL,2021-02-12
 Hoffmann21,Bamlanivimab,Wildtype,P.1 Spike,1,Figure 6,>,9999,0,NULL,experimental,1,NULL,2021-02-12
 Hoffmann21,REGN10989,Wildtype,B.1.351 Spike,1,Figure 6,>,9999,0,NULL,experimental,1,NULL,2021-02-12

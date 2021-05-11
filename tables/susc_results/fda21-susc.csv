@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_variant_name,variant_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 FDA21,Bamlanivimab,Control,B.1.1.7 Spike,1,Bamlanivimab Table 3,=,1,0,NULL,NULL,1,NULL,2021-03-18
 FDA21,Bamlanivimab,Control,B.1.351 Spike,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,NULL,2021-03-18
 FDA21,Bamlanivimab,Control,S:484K,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,NULL,2021-03-18
