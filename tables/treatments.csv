@@ -694,6 +694,10 @@ Supasa21,CP_B.1.1.7
 Tada21,CP
 Tang21,CP
 Tang21,hCoV-2IG
+Trinite21,CP
+Trinite21,CP_B.1.1.7
+Trinite21,CP_early
+Trinite21,CP_late
 Virtanen21,CP_4a
 Virtanen21,CP_4b
 Virtanen21,CP_5a
@@ -889,6 +893,8 @@ Supasa21,BNT162b2
 Supasa21,AZD1222_14d
 Supasa21,AZD1222_28d
 Tada21,BNT162b2_1M
+Trinite21,BNT_infected
+Trinite21,BNT_uninfected
 Wang21,Moderna
 Wang21,Pfizer-BioNTech
 Wang21b,Moderna_D43

@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
+Trinite21,CP,20E.EU1,1.5,NULL,Moderate,CP
+Trinite21,CP_B.1.1.7,B.1.1.7 full genome,0.5,NULL,Hospitalized,CP_B.1.1.7
+Trinite21,CP_early,S:614G,1.5,NULL,Moderate,CP
+Trinite21,CP_late,S:614G,6.5,NULL,Moderate,CP
