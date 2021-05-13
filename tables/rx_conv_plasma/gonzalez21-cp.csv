@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
+Gonzalez21,CP,Wildtype,NULL,NULL,NULL,CP
+Gonzalez21,CP_Severe,Wildtype,1,NULL,Severe,CP_Severe
+Gonzalez21,CP_Mild,Wildtype,6,NULL,Mild,CP_Mild

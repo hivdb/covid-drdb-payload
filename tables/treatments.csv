@@ -551,6 +551,9 @@ Faulkner21,CP_Patient
 Faulkner21,CP_Mild
 Faulkner21,CP
 Goel21,CP
+Gonzalez21,CP
+Gonzalez21,CP_Severe
+Gonzalez21,CP_Mild
 Greaney21,Subject_A_d120
 Greaney21,Subject_A_d21
 Greaney21,Subject_J_d121
@@ -787,6 +790,7 @@ Goel21,mRNA_vaccine_infected_1st_dose
 Goel21,mRNA_vaccine_uninfected_1st_dose
 Goel21,mRNA_vaccine_infected_2nd_dose
 Goel21,mRNA_vaccine_uninfected_2nd_dose
+Gonzalez21,BNT162b2
 Greaney21c,M06
 Greaney21c,M11
 Greaney21c,M05
