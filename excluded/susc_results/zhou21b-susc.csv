@@ -1,14 +1,14 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Zhou21b,CP,Wildtype,B.1.351 full genome,1,"Figure 2, TableS1A",>,3.1,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wildtype,B.1.351 full genome,10,"Figure 2, TableS1A",>,6.2,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wildtype,B.1.351 full genome,11,"Figure 2, TableS1A",>,5.1,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wildtype,B.1.351 full genome,19,"Figure 2, TableS1A",>,1.5,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,BNT162b2,Wildtype,B.1.351 full genome,21,"Figure 3, Table S2",>,9.2,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wildtype,B.1.351 full genome,7,"Figure 3, Table S2",>,6.7,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wildtype,B.1.351 full genome,13,"Figure 3, Table S2",>,6.1,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wildtype,B.1.351 full genome,20,"Figure 3, Table S2",>,8.4,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wildtype,B.1.351 full genome,21,"Figure 3, Table S2",>,7.7,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wildtype,B.1.351 full genome,22,"Figure 3, Table S2",>,7.6,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wildtype,B.1.351 full genome,23,"Figure 3, Table S2",>,6.3,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,AZD1222,Wildtype,B.1.351 full genome,25,"Figure 3, Table S2",>,4.7,0,NULL,experimental,1,authentic virus,2021-03-17
-Zhou21b,CP,Wildtype,B.1.351 full genome,16,"Figure 2, TableS1A",>,2.2,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wuhan-Hu-1,B.1.351 full genome,1,"Figure 2, TableS1A",>,3.1,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wuhan-Hu-1,B.1.351 full genome,10,"Figure 2, TableS1A",>,6.2,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wuhan-Hu-1,B.1.351 full genome,11,"Figure 2, TableS1A",>,5.1,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wuhan-Hu-1,B.1.351 full genome,19,"Figure 2, TableS1A",>,1.5,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,BNT162b2,Wuhan-Hu-1,B.1.351 full genome,21,"Figure 3, Table S2",>,9.2,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wuhan-Hu-1,B.1.351 full genome,7,"Figure 3, Table S2",>,6.7,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wuhan-Hu-1,B.1.351 full genome,13,"Figure 3, Table S2",>,6.1,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wuhan-Hu-1,B.1.351 full genome,20,"Figure 3, Table S2",>,8.4,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wuhan-Hu-1,B.1.351 full genome,21,"Figure 3, Table S2",>,7.7,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wuhan-Hu-1,B.1.351 full genome,22,"Figure 3, Table S2",>,7.6,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wuhan-Hu-1,B.1.351 full genome,23,"Figure 3, Table S2",>,6.3,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,AZD1222,Wuhan-Hu-1,B.1.351 full genome,25,"Figure 3, Table S2",>,4.7,0,NULL,experimental,1,authentic virus,2021-03-17
+Zhou21b,CP,Wuhan-Hu-1,B.1.351 full genome,16,"Figure 2, TableS1A",>,2.2,0,NULL,experimental,1,authentic virus,2021-03-17

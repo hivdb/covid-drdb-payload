@@ -1,6 +1,6 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Du20,BD-629,Wildtype,S:452R,1,Figure 7,=,3.3,0,NULL,NULL,1,NULL,2021-01-31
-Du20,BD-368-2,Wildtype,S:483I,1,Figure 7,=,1.0,0,NULL,NULL,1,NULL,2021-01-31
-Du20,BD-629,Wildtype,S:483A,1,Figure 7,=,1.5,0,NULL,NULL,1,NULL,2021-01-31
-Du20,BD-629,Wildtype,S:483I,1,Figure 7,=,2.5,0,NULL,NULL,1,NULL,2021-01-31
-Du20,BD-629,Wildtype,S:490L,1,Figure 7,=,3.3,0,NULL,NULL,1,NULL,2021-01-31
+Du20,BD-629,Wuhan-Hu-1,S:452R,1,Figure 7,=,3.3,0,NULL,NULL,1,NULL,2021-01-31
+Du20,BD-368-2,Wuhan-Hu-1,S:483I,1,Figure 7,=,1.0,0,NULL,NULL,1,NULL,2021-01-31
+Du20,BD-629,Wuhan-Hu-1,S:483A,1,Figure 7,=,1.5,0,NULL,NULL,1,NULL,2021-01-31
+Du20,BD-629,Wuhan-Hu-1,S:483I,1,Figure 7,=,2.5,0,NULL,NULL,1,NULL,2021-01-31
+Du20,BD-629,Wuhan-Hu-1,S:490L,1,Figure 7,=,3.3,0,NULL,NULL,1,NULL,2021-01-31
