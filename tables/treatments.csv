@@ -313,6 +313,9 @@ Supasa21,Vir-7831
 Tada21b,REGN10933
 Tada21b,REGN10987
 Tada21b,REGN10933+REGN10987
+Tada21c,REGN10933
+Tada21c,REGN10987
+Tada21c,REGN-COV2
 Tortorici20,S2M11
 Tortorici20,S2E12
 Vanhove21,XAV-19
@@ -696,6 +699,7 @@ Stankov21,CP
 Supasa21,CP
 Supasa21,CP_B.1.1.7
 Tada21,CP
+Tada21c,CP
 Tang21,CP
 Tang21,hCoV-2IG
 Trinite21,CP
@@ -899,6 +903,8 @@ Supasa21,BNT162b2
 Supasa21,AZD1222_14d
 Supasa21,AZD1222_28d
 Tada21,BNT162b2_1M
+Tada21c,BNT162b2
+Tada21c,mRNA-1273
 Trinite21,BNT_infected
 Trinite21,BNT_uninfected
 Wang21,Moderna

@@ -1,0 +1,6 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Tada21c,CP,isolation,<,2021-03-01,USA,NULL,NULL,NULL
+Tada21c,BNT,2nd dose,~,2021-03-01,USA,NULL,NULL,2
+Tada21c,BNT,isolation,~,2021-03-28,USA,NULL,NULL,2
+Tada21c,Mod,2nd dose,~,2021-03-01,USA,NULL,NULL,2
+Tada21c,Mod,isolation,~,2021-03-28,USA,NULL,NULL,2
