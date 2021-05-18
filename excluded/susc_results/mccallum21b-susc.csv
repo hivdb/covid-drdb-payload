@@ -1,18 +1,18 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,1,"Figure 2A, 2B",=,14.4,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,2,"Figure 2A, 2B",=,3,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,3,"Figure 2A, 2B",=,54.6,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,4,"Figure 2A, 2B",=,0.3,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,5,"Figure 2A, 2B",=,112.9,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,6,"Figure 2A, 2B",=,54.6,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,7,"Figure 2A, 2B",=,3.4,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,8,"Figure 2A, 2B",=,14.4,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,9,"Figure 2A, 2B",=,7.8,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,10,"Figure 2A, 2B",=,7.8,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,11,"Figure 2A, 2B",=,3.8,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,12,"Figure 2A, 2B",=,0.4,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,13,"Figure 2A, 2B",=,1.6,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,BNT162b2,S:614G,B.1.429 Spike,14,"Figure 2A, 2B",>,11.3,0,NULL,experimental,1,HIV pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,1,"Figure 2A, 2B",=,14.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,2,"Figure 2A, 2B",=,3,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,3,"Figure 2A, 2B",=,54.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,4,"Figure 2A, 2B",=,0.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,5,"Figure 2A, 2B",=,112.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,6,"Figure 2A, 2B",=,54.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,7,"Figure 2A, 2B",=,3.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,8,"Figure 2A, 2B",=,14.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,9,"Figure 2A, 2B",=,7.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,10,"Figure 2A, 2B",=,7.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,11,"Figure 2A, 2B",=,3.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,12,"Figure 2A, 2B",=,0.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,13,"Figure 2A, 2B",=,1.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,BNT162b2,S:614G,B.1.429 Spike,14,"Figure 2A, 2B",>,11.3,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-02
 McCallum21b,BNT162b2,S:614G,B.1.429 Spike,1999,"Figure 2C, 2D",=,7.3,0,NULL,NULL,1,NULL,2021-04-02
 McCallum21b,BNT162b2,S:614G,B.1.429 Spike,2999,"Figure 2C, 2D",=,5.1,0,NULL,NULL,1,NULL,2021-04-02
 McCallum21b,BNT162b2,S:614G,B.1.429 Spike,3999,"Figure 2C, 2D",=,3.8,0,NULL,NULL,1,NULL,2021-04-02

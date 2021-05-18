@@ -1,15 +1,15 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,1,"Figure 2A, 2B",=,143.8,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,2,"Figure 2A, 2B",=,10,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,3,"Figure 2A, 2B",=,48.3,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,4,"Figure 2A, 2B",=,0.6,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,5,"Figure 2A, 2B",=,0.4,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,6,"Figure 2A, 2B",=,16.2,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,7,"Figure 2A, 2B",=,0.1,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,8,"Figure 2A, 2B",=,7.8,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,9,"Figure 2A, 2B",=,2.6,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,10,"Figure 2A, 2B",=,1.8,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
-McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,11,"Figure 2A, 2B",=,2.1,0,NULL,NULL,1,HIV pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,1,"Figure 2A, 2B",=,143.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,2,"Figure 2A, 2B",=,10,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,3,"Figure 2A, 2B",=,48.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,4,"Figure 2A, 2B",=,0.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,5,"Figure 2A, 2B",=,0.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,6,"Figure 2A, 2B",=,16.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,7,"Figure 2A, 2B",=,0.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,8,"Figure 2A, 2B",=,7.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,9,"Figure 2A, 2B",=,2.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,10,"Figure 2A, 2B",=,1.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
+McCallum21b,mRNA-1273,S:614G,B.1.429 Spike,11,"Figure 2A, 2B",=,2.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-04-02
 McCallum21b,BNT_infected,S:614G,B.1.429 Spike,1,Figure 2I,=,6.9,0,NULL,NULL,1,NULL,2021-04-02
 McCallum21b,BNT_infected,S:614G,B.1.429 Spike,2,Figure 2I,=,3.4,0,NULL,NULL,1,NULL,2021-04-02
 McCallum21b,BNT_infected,S:614G,B.1.429 Spike,3,Figure 2I,=,2.9,0,NULL,NULL,1,NULL,2021-04-02
