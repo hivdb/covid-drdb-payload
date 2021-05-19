@@ -14,6 +14,12 @@ B.1.1.298 Spike,S,453,F
 B.1.1.298 Spike,S,614,G
 B.1.1.298 Spike,S,692,V
 B.1.1.298 Spike,S,1229,I
+B.1.1.298 Spike:+69del+70del,S,69,del
+B.1.1.298 Spike:+69del+70del,S,70,del
+B.1.1.298 Spike:+69del+70del,S,453,F
+B.1.1.298 Spike:+69del+70del,S,614,G
+B.1.1.298 Spike:+69del+70del,S,692,V
+B.1.1.298 Spike:+69del+70del,S,1229,I
 B.1.1.7 full genome,N,3,L
 B.1.1.7 full genome,N,235,F
 B.1.1.7 full genome,nsp6,106,del
@@ -53,6 +59,16 @@ B.1.1.7 Spike,S,681,H
 B.1.1.7 Spike,S,716,I
 B.1.1.7 Spike,S,982,A
 B.1.1.7 Spike,S,1118,H
+B.1.1.7 Spike:-144del+145del,S,69,del
+B.1.1.7 Spike:-144del+145del,S,70,del
+B.1.1.7 Spike:-144del+145del,S,145,del
+B.1.1.7 Spike:-144del+145del,S,501,Y
+B.1.1.7 Spike:-144del+145del,S,570,D
+B.1.1.7 Spike:-144del+145del,S,614,G
+B.1.1.7 Spike:-144del+145del,S,681,H
+B.1.1.7 Spike:-144del+145del,S,716,I
+B.1.1.7 Spike:-144del+145del,S,982,A
+B.1.1.7 Spike:-144del+145del,S,1118,H
 B.1.1.7 Spike+S:484K,S,69,del
 B.1.1.7 Spike+S:484K,S,70,del
 B.1.1.7 Spike+S:484K,S,144,del
@@ -223,6 +239,15 @@ B.1.429 Spike,S,13,I
 B.1.429 Spike,S,152,C
 B.1.429 Spike,S,452,R
 B.1.429 Spike,S,614,G
+B.1.525 Spike,S,52,R
+B.1.525 Spike,S,67,V
+B.1.525 Spike,S,69,del
+B.1.525 Spike,S,70,del
+B.1.525 Spike,S,145,del
+B.1.525 Spike,S,484,K
+B.1.525 Spike,S,614,G
+B.1.525 Spike,S,677,H
+B.1.525 Spike,S,888,L
 B.1.526 Spike,S,5,F
 B.1.526 Spike,S,95,I
 B.1.526 Spike,S,253,G
@@ -536,6 +561,8 @@ S:417T+484K,S,484,K
 S:417T+484K+501Y,S,417,T
 S:417T+484K+501Y,S,484,K
 S:417T+484K+501Y,S,501,Y
+S:417T+614G,S,417,T
+S:417T+614G,S,614,G
 S:417V,S,417,V
 S:417V+614G,S,417,V
 S:417V+614G,S,614,G
@@ -1729,3 +1756,9 @@ B.1.351_768828,nsp6,108,del
 B.1.351_768828,nsp6,107,del
 B.1.351_768828,nsp6,106,del
 B.1.351_768828,RdRP,323,L
+B.1.1.318 Spike,S,95,I
+B.1.1.318 Spike,S,145,del
+B.1.1.318 Spike,S,484,K
+B.1.1.318 Spike,S,614,G
+B.1.1.318 Spike,S,681,H
+B.1.1.318 Spike,S,796,H
