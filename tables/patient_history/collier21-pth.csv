@@ -1,0 +1,6 @@
+ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Collier21,Patient,isolation,~,2020-12-01,UK,B.1 full genome,,
+Collier21,Patient,1st dose,~,2020-12-22,UK,B.1 full genome,,1
+Collier21,Patient,1st dose isolation,~,2020-01-05,UK,B.1 full genome,,1
+Collier21,Patient,2nd dose,~,2020-01-05,UK,B.1 full genome,,2
+Collier21,Patient,2nd dose isolation,~,2021-01-26,UK,B.1 full genome,,2
