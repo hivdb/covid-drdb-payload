@@ -1,4 +1,5 @@
 ﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,expandable
+Unknown,NULL,FALSE,NULL,NULL,FALSE
 20A.EU2 Spike,20A.EU2,FALSE,NULL,NULL,TRUE
 B.1 clade G full genome,B.1 clade G,FALSE,568579,NULL,TRUE
 B.1.1.298 Spike,B.1.1.298,FALSE,NULL,NULL,TRUE
