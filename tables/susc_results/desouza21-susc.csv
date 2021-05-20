@@ -1,28 +1,28 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-deSouza21,CP_BD280,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",>,3.0,0,NULL,experimental,1,NULL,2021-05-03
-deSouza21,CP_BD504,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,2.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD000,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,5.3,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD864,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,2.2,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD900a,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,6.4,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD129,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,10.7,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD138,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,24.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD145,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,17.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD927,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,9.6,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD935,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,12.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD947,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,5.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD966,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,18.3,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD160,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,4.4,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD891,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,3.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD900b,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",>,16.0,0,NULL,experimental,1,NULL,2021-05-03
-deSouza21,CP_BD880,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,32.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD466,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,3.6,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD5063,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,4.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,CP_BD510,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",>,8.0,0,NULL,NULL,1,NULL,2021-05-03
-deSouza21,PiCoV-1,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,10.0,0,NULL,experimental,1,NULL,2021-05-03
-deSouza21,PiCoV-2,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,3.0,0,NULL,experimental,1,NULL,2021-05-03
-deSouza21,PiCoV-3,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,3.0,0,NULL,both,1,NULL,2021-05-03
-deSouza21,PiCoV-4,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,3.0,0,NULL,both,1,NULL,2021-05-03
-deSouza21,PiCoV-5,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,5.0,0,NULL,experimental,1,NULL,2021-05-03
-deSouza21,PiCoV-6,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,3.0,0,NULL,experimental,1,NULL,2021-05-03
-deSouza21,PiCoV-7,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,5.0,0,NULL,experimental,1,NULL,2021-05-03
-deSouza21,PiCoV-8,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,5.0,0,NULL,experimental,1,NULL,2021-05-03
+deSouza21,CP_BD280,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",>,3.0,0,NULL,experimental,1,authentic virus,2021-05-03
+deSouza21,CP_BD504,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,2.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD000,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,5.3,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD864,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,2.2,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD900a,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,6.4,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD129,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,10.7,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD138,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,24.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD145,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,17.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD927,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,9.6,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD935,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,12.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD947,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,5.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD966,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,18.3,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD160,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,4.4,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD891,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,3.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD900b,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",>,16.0,0,NULL,experimental,1,authentic virus,2021-05-03
+deSouza21,CP_BD880,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,32.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD466,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,3.6,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD5063,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",=,4.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,CP_BD510,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2A, Table S4",>,8.0,0,NULL,NULL,1,authentic virus,2021-05-03
+deSouza21,PiCoV-1,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,10.0,0,NULL,experimental,1,authentic virus,2021-05-03
+deSouza21,PiCoV-2,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,3.0,0,NULL,experimental,1,authentic virus,2021-05-03
+deSouza21,PiCoV-3,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,3.0,0,NULL,both,1,authentic virus,2021-05-03
+deSouza21,PiCoV-4,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,3.0,0,NULL,both,1,authentic virus,2021-05-03
+deSouza21,PiCoV-5,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,5.0,0,NULL,experimental,1,authentic virus,2021-05-03
+deSouza21,PiCoV-6,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,3.0,0,NULL,experimental,1,authentic virus,2021-05-03
+deSouza21,PiCoV-7,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,5.0,0,NULL,experimental,1,authentic virus,2021-05-03
+deSouza21,PiCoV-8,Wuhan-Hu-1 Spike,P.1 Spike,1,"Figure 2B, Table S5",>,5.0,0,NULL,experimental,1,authentic virus,2021-05-03
