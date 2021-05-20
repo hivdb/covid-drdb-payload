@@ -79,6 +79,7 @@ BD-629,7CH5,RBD,RBM Class I,structure
 BD23,NULL,RBD,NULL,author
 BD23,7BYR,RBD,RBM Class III,structure
 BRII-196,NULL,RBD,NULL,author
+BRII-196,7CDI,RBD,RBM Class I,structure
 BRII-198,NULL,RBD,NULL,author
 Bamlanivimab,7KMG,RBD,RBM Class II,structure
 C002,7K8S,RBD,RBM Class II,structure
@@ -183,12 +184,13 @@ CV07-270,6XKP,RBD,NULL,structure
 CV1,NULL,NTD,NTD,author
 CV2-75,NULL,RBD,NULL,author
 CV3-1,NULL,RBD,NULL,author
-CV3-25,NULL,S2,S2,author
 CV30,6XE1,RBD,RBM Class I,structure
 CV38-142,7LM8,RBD,NULL,structure
 Casirivimab,6XDG,RBD,RBM Class I,structure
 Cilgavimab,NULL,RBD,RBM Class II,author
 Cilgavimab,7L7E,RBD,NULL,structure
+CoV2-06,NULL,RBD,NULL,author
+CoV2-14,NULL,RBD,NULL,author
 D14,NULL,S1,S1,author
 DH1041,7LAA,RBD,NULL,structure
 DH1042,NULL,NULL,NULL,author
@@ -238,10 +240,8 @@ P17,7CWM,RBD,RBM,structure
 P22A-1D1,NULL,RBD,RBM Class I,author
 P2B-1A1,7CZP,RBD,RBM,structure
 P2B-1A10,7CZQ,RBD,RBM,structure
-P2B-1G5,NULL,RBD,RBD Core Cluster II,author
 P2B-2F6,7BWJ,RBD,RBM Class II,structure
 P2C-1A3,7CDJ,RBD,RBM,structure
-P2C-1F11,7CDI,RBD,RBM Class I,structure
 P4A1,7CJF,RBD,RBM,structure
 P5A-1B6,7CZU,RBD,RBM,structure
 P5A-1B8,7CZR,RBD,RBM,structure
