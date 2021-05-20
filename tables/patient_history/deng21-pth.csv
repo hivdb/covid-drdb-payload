@@ -1,0 +1,7 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Deng21,CP,infection,~,2021-08-15,US CA,B.1 full genome,NULL,NULL
+Deng21,CP,isolation,~,2021-09-30,US CA,B.1 full genome,NULL,NULL
+Deng21,BNT,2nd dose,~,2021-01-01,US CA,NULL,NULL,2
+Deng21,BNT,2nd dose isolation,~,2021-01-19,US CA,NULL,NULL,2
+Deng21,Mod,2nd dose,~,2021-01-01,US CA,NULL,NULL,2
+Deng21,Mod,2nd dose isolation,~,2021-01-19,US CA,NULL,NULL,2
