@@ -1,2 +1,2 @@
-﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Wang21f,CP,Wuhan-Hu-1,2,NULL,Severe,CP
+﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
+Wang21f,CP,Wuhan-Hu-1,2,NULL,Severe,NULL,CP

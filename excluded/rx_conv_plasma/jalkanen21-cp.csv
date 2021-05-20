@@ -1,3 +1,3 @@
-﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Jalkanen21,CP_infected_before_vaccine,NULL,NULL,NULL,NULL,CP_infected_before_vaccine
-Jalkanen21,CP,NULL,NULL,NULL,Moderate,CP
+﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
+Jalkanen21,CP_infected_before_vaccine,NULL,NULL,NULL,NULL,NULL,CP_infected_before_vaccine
+Jalkanen21,CP,NULL,NULL,NULL,Moderate,NULL,CP

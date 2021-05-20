@@ -1,7 +1,7 @@
-﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Greaney21c,CP_subject_C,S:614G,3,NULL,NULL,CP
-Greaney21c,CP_subject_E,S:614G,3,NULL,NULL,CP
-Greaney21c,CP_subject_I,S:614G,3,NULL,NULL,CP
-Greaney21c,CP_subject_B,S:614G,3,NULL,NULL,CP
-Greaney21c,CP_subject_A,S:614G,3,NULL,NULL,CP
-Greaney21c,CP_subject_G,S:614G,3,NULL,NULL,CP
+﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
+Greaney21c,CP_subject_C,S:614G,3,NULL,NULL,NULL,CP
+Greaney21c,CP_subject_E,S:614G,3,NULL,NULL,NULL,CP
+Greaney21c,CP_subject_I,S:614G,3,NULL,NULL,NULL,CP
+Greaney21c,CP_subject_B,S:614G,3,NULL,NULL,NULL,CP
+Greaney21c,CP_subject_A,S:614G,3,NULL,NULL,NULL,CP
+Greaney21c,CP_subject_G,S:614G,3,NULL,NULL,NULL,CP

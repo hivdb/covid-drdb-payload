@@ -1,7 +1,7 @@
-﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
-Greaney21c,M06,mRNA-1273,3,2,Mod
-Greaney21c,M11,mRNA-1273,3,2,Mod
-Greaney21c,M05,mRNA-1273,3,2,Mod
-Greaney21c,M03,mRNA-1273,3,2,Mod
-Greaney21c,M12,mRNA-1273,3,2,Mod
-Greaney21c,M14,mRNA-1273,3,2,Mod
+﻿ref_name,rx_name,vaccine_name,timing,dosage,collection_date,cumulative_group
+Greaney21c,M06,mRNA-1273,3,2,NULL,Mod
+Greaney21c,M11,mRNA-1273,3,2,NULL,Mod
+Greaney21c,M05,mRNA-1273,3,2,NULL,Mod
+Greaney21c,M03,mRNA-1273,3,2,NULL,Mod
+Greaney21c,M12,mRNA-1273,3,2,NULL,Mod
+Greaney21c,M14,mRNA-1273,3,2,NULL,Mod

@@ -1,2 +1,2 @@
-﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Sapkal21,CP,NULL,4,NULL,NULL,CP
+﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
+Sapkal21,CP,NULL,4,NULL,NULL,NULL,CP

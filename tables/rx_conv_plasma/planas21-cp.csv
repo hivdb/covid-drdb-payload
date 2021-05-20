@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,infection,timing,titer,severity,cumulative_group
-Planas21,CP_M3,S:614G,3,NULL,NULL,CP_M3
-Planas21,CP_M6,S:614G,6,NULL,NULL,CP_M6
-Planas21,CP_M9,S:614G,9,NULL,NULL,CP_M9
+﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
+Planas21,CP_M3,S:614G,3,NULL,NULL,NULL,CP_M3
+Planas21,CP_M6,S:614G,6,NULL,NULL,NULL,CP_M6
+Planas21,CP_M9,S:614G,9,NULL,NULL,NULL,CP_M9

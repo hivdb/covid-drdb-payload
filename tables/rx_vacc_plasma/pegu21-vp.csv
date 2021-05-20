@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,vaccine_name,timing,dosage,cumulative_group
-Pegu21,Mod_1st,mRNA-1273,1,1,Mod_1st
-Pegu21,Mod_2nd,mRNA-1273,0.5,2,Mod_2nd
-Pegu21,Mod_2nd_4M,mRNA-1273,6,2,Mod_2nd_6M
-Pegu21,Mod_2nd_7M,mRNA-1273,7,2,Mod_2nd_7M
+﻿ref_name,rx_name,vaccine_name,timing,dosage,collection_date,cumulative_group
+Pegu21,Mod_1st,mRNA-1273,1,1,NULL,Mod_1st
+Pegu21,Mod_2nd,mRNA-1273,0.5,2,NULL,Mod_2nd
+Pegu21,Mod_2nd_4M,mRNA-1273,6,2,NULL,Mod_2nd_6M
+Pegu21,Mod_2nd_7M,mRNA-1273,7,2,NULL,Mod_2nd_7M
