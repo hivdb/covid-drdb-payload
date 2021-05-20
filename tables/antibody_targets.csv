@@ -2,10 +2,14 @@ ab_name,pdb_id,target,class,source
 1-20,NULL,RBD,NULL,author
 1-57,7LS9,RBD,NULL,structure
 1-87,7L2D,NTD,NTD,structure
+10D12,NULL,RBD,NULL,author
+10F9,NULL,RBD,NULL,author
+11D12,NULL,RBD,NULL,author
 150HC + 222LC,NULL,RBD,NULL,author
 157,NULL,RBD,NULL,author
 158HC + 222LC,NULL,RBD,NULL,author
 1B07,NULL,RBD,NULL,author
+1F9,NULL,RBD,NULL,author
 2-15,7L5B,RBD,NULL,structure
 2-15,NULL,RBD,NULL,author
 2-17,NULL,NTD,NTD,author
@@ -19,15 +23,26 @@ ab_name,pdb_id,target,class,source
 2-51,7L2C,NTD,NTD,structure
 2-7,7LSS,RBD,NULL,structure
 222HC + 222LC,NULL,RBD,NULL,author
+24-12K,NULL,RBD,NULL,author
+24-1L,NULL,RBD,NULL,author
 247,NULL,RBD,NULL,author
+25-C9,NULL,RBD,NULL,author
+25-G7,NULL,RBD,NULL,author
+26-34L,NULL,RBD,NULL,author
+26-40K,NULL,RBD,NULL,author
 261-262,NULL,RBD,NULL,author
 269HC + 222LC,NULL,RBD,NULL,author
+28-15L,NULL,RBD,NULL,author
+28-26K,NULL,RBD,NULL,author
+28-8L,NULL,RBD,NULL,author
 2B04,NULL,RBD,NULL,author
 2C02,NULL,RBD,NULL,author
 2C03,NULL,RBD,NULL,author
 2E06,NULL,RBD,NULL,author
+2F7,NULL,RBD,NULL,author
 2G12,7L02,S2,NULL,structure
 2H04,NULL,RBD,NULL,author
+2H10,NULL,RBD,NULL,author
 2H2,7DK5,RBD,RBM,structure
 3C1,7DD2,RBD,RBD Core,structure
 4-18,NULL,NTD,NTD,author
@@ -36,14 +51,20 @@ ab_name,pdb_id,target,class,source
 4-20,NULL,RBD,NULL,author
 4-8,7LQV,NTD,NTD,structure
 4A8,7C2L,NTD,NTD,structure
+4E5,NULL,RBD,NULL,author
 5-24,7L2F,NTD,NTD,structure
 5-7,NULL,NTD,NTD,author
 6D6,7EAN,RBD,RBD Core,structure
+76A,NULL,RBD,NULL,author
+7B8,NULL,RBD,NULL,author
 7D6,7EAM,RBD,RBD Core,structure
 910-30,7KS9,RBD,NULL,structure
+9G11,NULL,RBD,NULL,author
 A19-46.1,NULL,RBD,NULL,author
 A19-61.1,NULL,RBD,NULL,author
 A23-58.1,NULL,RBD,NULL,author
+A247,NULL,RBD,NULL,author
+A261-262,NULL,RBD,NULL,author
 AB35,NULL,RBD,NULL,author
 ADG10,NULL,RBD,NULL,author
 ADG20,NULL,RBD,NULL,author
@@ -204,8 +225,11 @@ Imdevimab,6XDG,RBD,RBD Core Cluster I,structure
 J08,NULL,RBD,NULL,author
 J13,NULL,NTD,NTD,author
 JMB2002,NULL,RBD,NULL,author
+LKLH,NULL,RBD,NULL,author
 LY-CoV481,7KMI,RBD,RBM,structure
 LY-CoV488,7KMH,RBD,RBM,structure
+LY3853113,7MMO,RBD,NULL,structure
+LY3853113,NULL,RBD,NULL,author
 MR17,7C8W,RBD,RBM,structure
 MR17-K99Y,7CAN,RBD,RBM,structure
 MW06,7DPM,RBD,RBD Core,structure
@@ -341,6 +365,7 @@ VHH-72,6WAQ,RBD,RBD Core Cluster II,structure
 Vir-7831,6WPS,RBD,RBD Core Cluster I,structure
 Vir-7832,NULL,RBD,NULL,author
 X593,NULL,RBD,NULL,author
+XAV-19,NULL,RBD,RBM,author
 mAb102,NULL,RBD,NULL,author
 mAb48,NULL,RBD,NULL,author
 nb20,7JVB,RBD,RBM,structure
