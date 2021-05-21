@@ -1,0 +1,7 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Gonzalez21,CP_Severe,infection,~,2020-07-01,France,B.1 full genome,Hospitalized,NULL
+Gonzalez21,CP_Severe,isolation,~,2020-07-01,France,B.1 full genome,Hospitalized,NULL
+Gonzalez21,CP_Mild,infection,~,2020-07-01,France,B.1 full genome,Mild,NULL
+Gonzalez21,CP_Mild,isolation,~,2020-12-31,France,B.1 full genome,Mild,NULL
+Gonzalez21,BNT162b2,2nd dose,~,2021-01-01,France,NULL,NULL,2
+Gonzalez21,BNT162b2,2nd dose isolation,~,2021-01-15,France,NULL,NULL,2
