@@ -1,0 +1,24 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Greaney21,Subject_A,infection,<,2020-07-01,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_A,isolation,<,2020-07-22,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_A,isolation,<,2020-10-29,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_B,infection,<,2020-07-01,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_B,isolation,<,2020-07-27,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_B,isolation,<,2020-10-22,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_C,infection,<,2020-07-01,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_C,isolation,<,2020-10-13,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_E,infection,<,2020-07-01,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_E,isolation,<,2020-07-29,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_E,isolation,<,2020-10-13,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_G,infection,<,2020-07-01,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_G,isolation,<,2020-07-19,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_G,isolation,<,2020-10-03,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_I,infection,<,2020-07-01,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_I,isolation,<,2020-07-27,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_I,isolation,<,2020-10-11,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_J,infection,<,2020-07-01,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_J,isolation,<,2020-07-16,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_J,isolation,<,2020-10-30,USA,B.1 full genome,Hospitalized,NULL
+Greaney21,Subject_K,infection,<,2020-07-01,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_K,isolation,<,2020-07-30,USA,B.1 full genome,Non-Hospitalized,NULL
+Greaney21,Subject_K,isolation,<,2020-10-12,USA,B.1 full genome,Non-Hospitalized,NULL
