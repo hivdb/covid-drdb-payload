@@ -1,2 +1,4 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
-Kemp21,CP,B.1 full genome,NULL,NULL,Severe,NULL,CP
+Kemp21,CP_1,B.1 full genome,NULL,NULL,Severe,NULL,CP
+Kemp21,CP_2,B.1 full genome,NULL,NULL,Severe,NULL,CP
+Kemp21,CP_3,B.1 full genome,NULL,NULL,Severe,NULL,CP
