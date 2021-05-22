@@ -1,2 +1,6 @@
 ﻿ref_name,rx_name,vaccine_name,timing,dosage,collection_date,cumulative_group
-Jangra21,CP_BNT162b2,BNT162b2,0.5,2,NULL,BNT
+Jangra21,BNT_V1,BNT162b2,0.5,2,NULL,BNT
+Jangra21,BNT_V2,BNT162b2,0.5,2,NULL,BNT
+Jangra21,BNT_V3,BNT162b2,0.5,2,NULL,BNT
+Jangra21,BNT_V4,BNT162b2,0.5,2,NULL,BNT
+Jangra21,BNT_V5,BNT162b2,0.5,2,NULL,BNT
