@@ -1,19 +1,19 @@
 ﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
 Hoffmann21,CP_ID15,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID15,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
-Hoffmann21,CP_ID18,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
+Hoffmann21,CP_ID18,infection,<,2020-12-18,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID18,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID20,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID20,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
-Hoffmann21,CP_ID22,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
+Hoffmann21,CP_ID22,infection,<,2020-12-21,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID22,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
-Hoffmann21,CP_ID23,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
+Hoffmann21,CP_ID23,infection,<,2020-12-21,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID23,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
-Hoffmann21,CP_ID24,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
+Hoffmann21,CP_ID24,infection,<,2020-12-19,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID24,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID27,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID27,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
-Hoffmann21,CP_ID33,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
+Hoffmann21,CP_ID33,infection,<,2020-12-16,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID33,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID51,infection,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
 Hoffmann21,CP_ID51,isolation,<,2020-12-31,Germany,B.1 full genome,Severe,NULL
