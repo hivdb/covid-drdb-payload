@@ -1,0 +1,4 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Sapkal21b,BBV152,1st dose,<,2020-10-13,India,NULL,NULL,1
+Sapkal21b,BBV152,2nd dose,<,2020-11-09,India,NULL,NULL,2
+Sapkal21b,BBV152,2nd dose isolation,<,2020-12-21,India,NULL,NULL,2
