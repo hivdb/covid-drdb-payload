@@ -1,0 +1,13 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Supasa21,CP,infection,<,2021-12-31,UK,VIC,NULL,NULL
+Supasa21,CP,isolation,<,2021-12-31,UK,VIC,NULL,NULL
+Supasa21,CP_B.1.1.7,infection,~,2021-01-01,UK,B.1.1.7 full genome,NULL,NULL
+Supasa21,CP_B.1.1.7,isolation,~,2021-01-01,UK,B.1.1.7 full genome,NULL,NULL
+Supasa21,BNT162b2,1st dose,~,2021-01-01,UK,NULL,NULL,1
+Supasa21,BNT162b2,2nd dose,~,2021-01-22,UK,NULL,NULL,2
+Supasa21,BNT162b2,2nd dose isolation,~,2021-02-03,UK,NULL,NULL,2
+Supasa21,AZD1222,1st dose,~,2020-10-23,UK,NULL,NULL,1
+Supasa21,AZD1222,1st dose isolation,~,2021-01-01,UK,NULL,NULL,1
+Supasa21,AZD1222,2nd dose ,~,2021-01-01,UK,NULL,NULL,2
+Supasa21,AZD1222,2nd dose isolation,~,2021-01-15,UK,NULL,NULL,2
+Supasa21,AZD1222,2nd dose isolation,~,2021-01-29,UK,NULL,NULL,2
