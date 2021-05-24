@@ -1,0 +1,9 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Wang21g,CP,infection,<,2020-10-01,China,B.1 full genome,Mild,NULL
+Wang21g,CP,isolation,<,2021-03-01,China,B.1 full genome,Mild,NULL
+Wang21g,BBIBP-CorV,1st dose,~,2021-01-05,China,NULL,NULL,1
+Wang21g,BBIBP-CorV,2nd dose,~,2021-01-26,China,NULL,NULL,2
+Wang21g,BBIBP-CorV,2nd dose isolation,~,2021-03-01,China,NULL,NULL,2
+Wang21g,CoronaVac,1st dose,~,2021-01-31,China,NULL,NULL,1
+Wang21g,CoronaVac,2nd dose,~,2021-02-21,China,NULL,NULL,2
+Wang21g,CoronaVac,2nd dose isolation,~,2021-03-01,China,NULL,NULL,2
