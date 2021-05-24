@@ -1,0 +1,6 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Weigang21,CP_patient_2,infection,~,2020-04-01,Germany,B.1 full genome,Mild,NULL
+Weigang21,CP_patient_2,isolation,~,2020-04-15,Germany,B.1 full genome,Mild,NULL
+Weigang21,BNT162b2,1st dose,~,2021-01-01,Germany,NULL,NULL,1
+Weigang21,BNT162b2,2nd dose,~,2021-01-14,Germany,NULL,NULL,2
+Weigang21,BNT162b2,2nd dose isolation,~,2021-01-28,Germany,NULL,NULL,2
