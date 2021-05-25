@@ -1,0 +1,6 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Skelly21,CP,infection,~,2020-04-01,UK,B.1 full genome,Mild,NULL
+Skelly21,CP,isolation,~,2020-04-29,UK,B.1 full genome,Mild,NULL
+Skelly21,BNT,1st dose,~,2021-01-01,UK,NULL,NULL,1
+Skelly21,BNT,2nd dose,~,2021-01-24,UK,NULL,NULL,2
+Skelly21,BNT,2nd dose isolation,~,2021-02-01,UK,NULL,NULL,2
