@@ -1,0 +1,3 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Emary21,AZD1222,2nd dose,~,2020-10-15,UK,NULL,NULL,2
+Emary21,AZD1222,2nd dose isolation,~,2020-10-29,UK,NULL,NULL,2
