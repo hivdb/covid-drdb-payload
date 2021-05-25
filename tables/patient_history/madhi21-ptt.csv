@@ -1,0 +1,4 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Madhi21,AZD1222,1st dose,~,2020-06-24,"UK,Brazil,South Africa",NULL,NULL,1
+Madhi21,AZD1222,2nd dose,~,2020-07-22,"UK,Brazil,South Africa",NULL,NULL,2
+Madhi21,AZD1222,2nd dose isolation,~,2020-08-04,"UK,Brazil,South Africa",NULL,NULL,2
