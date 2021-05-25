@@ -89,42 +89,42 @@ Stamatatos21,PT_O,1st dose,~,2021-01-23,USA,B.1 full genome,Moderate,1
 Stamatatos21,PT_O,1st dose isolation,~,2021-02-09,USA,B.1 full genome,Moderate,1
 Stamatatos21,PT_O,2nd dose,~,2021-02-13,USA,B.1 full genome,Moderate,2
 Stamatatos21,PT_O,2nd dose isolation,~,2021-03-01,USA,B.1 full genome,Moderate,2
-Stamatatos21,PT_1,isolation,~,2020-05-14,,NULL,NULL,NULL
-Stamatatos21,PT_1,2nd dose,~,2021-02-10,,NULL,NULL,2
-Stamatatos21,PT_1,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_2,isolation,~,2020-05-14,,NULL,NULL,NULL
-Stamatatos21,PT_2,2nd dose,~,2021-02-07,,NULL,NULL,2
-Stamatatos21,PT_2,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_3,isolation,~,2020-05-18,,NULL,NULL,NULL
-Stamatatos21,PT_3,2nd dose,~,2021-02-21,,NULL,NULL,2
-Stamatatos21,PT_3,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_4,isolation,~,2020-05-28,,NULL,NULL,NULL
-Stamatatos21,PT_4,2nd dose,~,2021-02-16,,NULL,NULL,2
-Stamatatos21,PT_4,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_5,isolation,~,2020-06-03,,NULL,NULL,NULL
-Stamatatos21,PT_5,2nd dose,~,2021-02-10,,NULL,NULL,2
-Stamatatos21,PT_5,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_6,isolation,~,2020-05-24,,NULL,NULL,NULL
-Stamatatos21,PT_6,2nd dose,~,2021-02-13,,NULL,NULL,2
-Stamatatos21,PT_6,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_7,isolation,~,2020-05-19,,NULL,NULL,NULL
-Stamatatos21,PT_7,2nd dose,~,2021-02-11,,NULL,NULL,2
-Stamatatos21,PT_7,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_8,isolation,~,2020-05-30,,NULL,NULL,NULL
-Stamatatos21,PT_8,2nd dose,~,2021-02-10,,NULL,NULL,2
-Stamatatos21,PT_8,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_9,isolation,~,2020-08-07,,NULL,NULL,NULL
-Stamatatos21,PT_9,2nd dose,~,2021-02-01,,NULL,NULL,2
-Stamatatos21,PT_9,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_10,isolation,~,2020-05-24,,NULL,NULL,NULL
-Stamatatos21,PT_10,2nd dose,~,2021-02-23,,NULL,NULL,2
-Stamatatos21,PT_10,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_11,isolation,~,2020-05-22,,NULL,NULL,NULL
-Stamatatos21,PT_11,2nd dose,~,2021-02-07,,NULL,NULL,2
-Stamatatos21,PT_11,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_12,isolation,~,2020-05-25,,NULL,NULL,NULL
-Stamatatos21,PT_12,2nd dose,~,2021-02-04,,NULL,NULL,2
-Stamatatos21,PT_12,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
-Stamatatos21,PT_13,isolation,~,2020-05-28,,NULL,NULL,NULL
-Stamatatos21,PT_13,2nd dose,~,2021-02-03,,NULL,NULL,2
-Stamatatos21,PT_13,2nd dose isolation,~,2021-03-01,,NULL,NULL,2
+Stamatatos21,PT_1,isolation,~,2020-05-14,USA,NULL,NULL,NULL
+Stamatatos21,PT_1,2nd dose,~,2021-02-10,USA,NULL,NULL,2
+Stamatatos21,PT_1,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_2,isolation,~,2020-05-14,USA,NULL,NULL,NULL
+Stamatatos21,PT_2,2nd dose,~,2021-02-07,USA,NULL,NULL,2
+Stamatatos21,PT_2,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_3,isolation,~,2020-05-18,USA,NULL,NULL,NULL
+Stamatatos21,PT_3,2nd dose,~,2021-02-21,USA,NULL,NULL,2
+Stamatatos21,PT_3,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_4,isolation,~,2020-05-28,USA,NULL,NULL,NULL
+Stamatatos21,PT_4,2nd dose,~,2021-02-16,USA,NULL,NULL,2
+Stamatatos21,PT_4,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_5,isolation,~,2020-06-03,USA,NULL,NULL,NULL
+Stamatatos21,PT_5,2nd dose,~,2021-02-10,USA,NULL,NULL,2
+Stamatatos21,PT_5,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_6,isolation,~,2020-05-24,USA,NULL,NULL,NULL
+Stamatatos21,PT_6,2nd dose,~,2021-02-13,USA,NULL,NULL,2
+Stamatatos21,PT_6,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_7,isolation,~,2020-05-19,USA,NULL,NULL,NULL
+Stamatatos21,PT_7,2nd dose,~,2021-02-11,USA,NULL,NULL,2
+Stamatatos21,PT_7,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_8,isolation,~,2020-05-30,USA,NULL,NULL,NULL
+Stamatatos21,PT_8,2nd dose,~,2021-02-10,USA,NULL,NULL,2
+Stamatatos21,PT_8,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_9,isolation,~,2020-08-07,USA,NULL,NULL,NULL
+Stamatatos21,PT_9,2nd dose,~,2021-02-01,USA,NULL,NULL,2
+Stamatatos21,PT_9,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_10,isolation,~,2020-05-24,USA,NULL,NULL,NULL
+Stamatatos21,PT_10,2nd dose,~,2021-02-23,USA,NULL,NULL,2
+Stamatatos21,PT_10,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_11,isolation,~,2020-05-22,USA,NULL,NULL,NULL
+Stamatatos21,PT_11,2nd dose,~,2021-02-07,USA,NULL,NULL,2
+Stamatatos21,PT_11,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_12,isolation,~,2020-05-25,USA,NULL,NULL,NULL
+Stamatatos21,PT_12,2nd dose,~,2021-02-04,USA,NULL,NULL,2
+Stamatatos21,PT_12,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
+Stamatatos21,PT_13,isolation,~,2020-05-28,USA,NULL,NULL,NULL
+Stamatatos21,PT_13,2nd dose,~,2021-02-03,USA,NULL,NULL,2
+Stamatatos21,PT_13,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,2
