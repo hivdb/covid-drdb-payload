@@ -1,0 +1,7 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Yadav21,BBV152,1st dose,~,2020-07-15,India,NULL,NULL,1
+Yadav21,BBV152,2nd dose,~,2020-08-12,India,NULL,NULL,2
+Yadav21,BBV152,2nd dose isolation,~,2020-08-26,India,NULL,NULL,2
+Yadav21,BBV152,2nd dose isolation,~,2020-09-09,India,NULL,NULL,2
+Yadav21,BBV152,2nd dose isolation,~,2020-11-10,India,NULL,NULL,2
+Yadav21,BBV152,2nd dose isolation,~,2021-02-08,India,NULL,NULL,2
