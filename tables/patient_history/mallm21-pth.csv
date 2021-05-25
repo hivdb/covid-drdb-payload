@@ -1,0 +1,4 @@
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+Mallm21,BNT162b2,1st dose,~,2021-01-01,Germany,NULL,NULL,1
+Mallm21,BNT162b2,2nd dose,~,2021-01-15,Germany,NULL,NULL,2
+Mallm21,BNT162b2,2nd dose isolation,~,2021-02-03,Germany,NULL,NULL,2
