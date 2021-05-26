@@ -1,0 +1,15 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+Makdasi21,MD65,S:614G,B.1.1.7 S1,1,Figure 5,=,0.4,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,MD65,S:614G,B.1.351 RBD+S:614G,1,Figure 5,=,4.0,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,LY-CoV555,S:614G,B.1.1.7 S1,1,Figure 5,=,1.0,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,LY-CoV555,S:614G,B.1.351 RBD+S:614G,1,Figure 5,>,5263.2,50,NULL,experimental,1,vsv pseudovirus,2021-05-26
+Makdasi21,MD62,S:614G,B.1.1.7 S1,1,Figure 5,=,0.4,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,MD62,S:614G,B.1.351 RBD+S:614G,1,Figure 5,=,1.7,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,BLN14,S:614G,B.1.1.7 S1,1,Figure 5,=,0.0,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,BLN14,S:614G,B.1.351 RBD+S:614G,1,Figure 5,=,3.3,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,MD29,S:614G,B.1.1.7 S1,1,Figure 5,=,1.0,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,MD29,S:614G,B.1.351 RBD+S:614G,1,Figure 5,>,1000000.0,50,NULL,experimental,1,vsv pseudovirus,2021-05-26
+Makdasi21,BLN12,S:614G,B.1.1.7 S1,1,Figure 5,=,0.6,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,BLN12,S:614G,B.1.351 RBD+S:614G,1,Figure 5,>,142857.1,50,NULL,experimental,1,vsv pseudovirus,2021-05-26
+Makdasi21,BL6,S:614G,B.1.1.7 S1,1,Figure 5,=,68.6,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
+Makdasi21,BL6,S:614G,B.1.351 RBD+S:614G,1,Figure 5,=,1400.0,50,NULL,NULL,1,vsv pseudovirus,2021-05-26
