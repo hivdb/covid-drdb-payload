@@ -1,4 +1,4 @@
 ﻿ref_name,rx_name,vaccine_name,timing,dosage,collection_date,cumulative_group
-Lien21,MVC_low,MVC-COV1901,1,2,NULL,MVC
-Lien21,MVC_middle,MVC-COV1901,1,2,NULL,MVC
-Lien21,MVC_high,MVC-COV1901,1,2,NULL,MVC
+Lien21,MVC_low,MVC-COV1901,1,2,2020-12-03,MVC
+Lien21,MVC_middle,MVC-COV1901,1,2,2020-12-03,MVC
+Lien21,MVC_high,MVC-COV1901,1,2,2020-12-03,MVC

@@ -1,4 +1,4 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
-Faulkner21,CP_Patient,B.1 full genome,1,NULL,Severe,NULL,CP_Patient
-Faulkner21,CP_Mild,B.1 full genome,1,NULL,Mild,NULL,CP_Mild
-Faulkner21,CP_B.1.1.7,B.1.1.7 full genome,0.5,NULL,Mild,NULL,CP_B.1.1.7
+Faulkner21,CP_Patient,B.1 full genome,1,NULL,Severe,2020-05-29,CP_Patient
+Faulkner21,CP_Mild,B.1 full genome,1,NULL,Mild,2020-05-26,CP_Mild
+Faulkner21,CP_B.1.1.7,B.1.1.7 full genome,0.5,NULL,Mild,2020-01-12,CP_B.1.1.7

@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
-Wibmer21,CP_Titer_GT400,S:614G,2,<400,Severe,NULL,CP_high_titer
-Wibmer21,CP_Titer_LT400,S:614G,2,>400,Severe,NULL,CP_low_titer
+Wibmer21,CP_Titer_GT400,B.1 full gnome,2,<400,Severe,2020-10-01,CP_high_titer
+Wibmer21,CP_Titer_LT400,B.1 full gnome,2,>400,Severe,2020-10-01,CP_low_titer

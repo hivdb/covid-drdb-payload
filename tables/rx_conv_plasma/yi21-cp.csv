@@ -1,10 +1,10 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
-Yi21,CP_2,B.1 full genome,NULL,7118,NULL,NULL,CP
-Yi21,CP_6,B.1 full genome,NULL,1758,NULL,NULL,CP
-Yi21,CP_23,B.1 full genome,NULL,2521,NULL,NULL,CP
-Yi21,CP_24,B.1 full genome,NULL,6128,NULL,NULL,CP
-Yi21,CP_25,B.1 full genome,NULL,4326,NULL,NULL,CP
-Yi21,CP_26,B.1 full genome,NULL,4723,NULL,NULL,CP
-Yi21,CP_27,B.1 full genome,NULL,1957,NULL,NULL,CP
-Yi21,CP_28,B.1 full genome,NULL,4455,NULL,NULL,CP
-Yi21,CP_32,B.1 full genome,NULL,540,NULL,NULL,CP
+Yi21,CP_2,B.1 full genome,NULL,7118,NULL,2021-05-01,CP
+Yi21,CP_6,B.1 full genome,NULL,1758,NULL,2021-05-01,CP
+Yi21,CP_23,B.1 full genome,NULL,2521,NULL,2021-05-01,CP
+Yi21,CP_24,B.1 full genome,NULL,6128,NULL,2021-05-01,CP
+Yi21,CP_25,B.1 full genome,NULL,4326,NULL,2021-05-01,CP
+Yi21,CP_26,B.1 full genome,NULL,4723,NULL,2021-05-01,CP
+Yi21,CP_27,B.1 full genome,NULL,1957,NULL,2021-05-01,CP
+Yi21,CP_28,B.1 full genome,NULL,4455,NULL,2021-05-01,CP
+Yi21,CP_32,B.1 full genome,NULL,540,NULL,2021-05-01,CP

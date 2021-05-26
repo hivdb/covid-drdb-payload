@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,vaccine_name,timing,dosage,collection_date,cumulative_group
-Leier21,BNT_2nd_uninfected,BNT162b2,0.5,2,NULL,BNT_uninfected
-Leier21,BNT_2nd_infected,BNT162b2,0.5,2,NULL,BNT_infected
+Leier21,BNT_2nd_uninfected,BNT162b2,0.5,2,2021-02-09,BNT_uninfected
+Leier21,BNT_2nd_infected,BNT162b2,0.5,2,2021-02-09,BNT_infected

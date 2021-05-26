@@ -1,17 +1,17 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
-Greaney21,Subject_A_d120,S:614G,4,NULL,Severe,NULL,CP
-Greaney21,Subject_A_d21,S:614G,1,NULL,Severe,NULL,CP
-Greaney21,Subject_J_d121,S:614G,4,NULL,Severe,NULL,CP
-Greaney21,Subject_J_d15,S:614G,0.5,NULL,Severe,NULL,CP
-Greaney21,Subject_G_d94,S:614G,3,NULL,Mild,NULL,CP
-Greaney21,Subject_G_d18,S:614G,0.5,NULL,Mild,NULL,CP
-Greaney21,Subject_I_d102,S:614G,3,NULL,Mild,NULL,CP
-Greaney21,Subject_I_d26,S:614G,1,NULL,Mild,NULL,CP
-Greaney21,Subject_C_d32,S:614G,1,NULL,Mild,NULL,CP
-Greaney21,Subject_K_d103,S:614G,3,NULL,Mild,NULL,CP
-Greaney21,Subject_B_d26,S:614G,1,NULL,Severe,NULL,CP
-Greaney21,Subject_C_d104,S:614G,3,NULL,Mild,NULL,CP
-Greaney21,Subject_K_d29,S:614G,1,NULL,Mild,NULL,CP
-Greaney21,Subject_B_d113,S:614G,4,NULL,Severe,NULL,CP
-Greaney21,Subject_E_d28,S:614G,1,NULL,Mild,NULL,CP
-Greaney21,Subject_E_d104,S:614G,3,NULL,Mild,NULL,CP
+Greaney21,Subject_A_d120,B.1 full gnome,4,NULL,Severe,2020-10-29,CP
+Greaney21,Subject_A_d21,B.1 full gnome,1,NULL,Severe,2020-07-22,CP
+Greaney21,Subject_J_d121,B.1 full gnome,4,NULL,Severe,2020-10-30,CP
+Greaney21,Subject_J_d15,B.1 full gnome,0.5,NULL,Severe,2020-07-16,CP
+Greaney21,Subject_G_d94,B.1 full gnome,3,NULL,Mild,2020-10-03,CP
+Greaney21,Subject_G_d18,B.1 full gnome,0.5,NULL,Mild,2020-07-19,CP
+Greaney21,Subject_I_d102,B.1 full gnome,3,NULL,Mild,2020-10-11,CP
+Greaney21,Subject_I_d26,B.1 full gnome,1,NULL,Mild,2020-07-27,CP
+Greaney21,Subject_C_d32,B.1 full gnome,1,NULL,Mild,2020-07-27,CP
+Greaney21,Subject_K_d103,B.1 full gnome,3,NULL,Mild,2020-10-12,CP
+Greaney21,Subject_B_d26,B.1 full gnome,1,NULL,Severe,2020-07-27,CP
+Greaney21,Subject_C_d104,B.1 full gnome,3,NULL,Mild,2020-10-13,CP
+Greaney21,Subject_K_d29,B.1 full gnome,1,NULL,Mild,2020-07-30,CP
+Greaney21,Subject_B_d113,B.1 full gnome,4,NULL,Severe,2020-10-22,CP
+Greaney21,Subject_E_d28,B.1 full gnome,1,NULL,Mild,2020-07-29,CP
+Greaney21,Subject_E_d104,B.1 full gnome,3,NULL,Mild,2020-10-13,CP
