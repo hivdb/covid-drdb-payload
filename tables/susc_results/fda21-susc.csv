@@ -1,90 +1,90 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-FDA21,Bamlanivimab,Wuhan-Hu-1,B.1.1.7 Spike,1,Bamlanivimab Table 3,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,B.1.351 Spike,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:484K,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,P.1 Spike,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,B.1.429 Spike,1,Bamlanivimab Table 3,>,1020,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:452R,1,Bamlanivimab Table 3,>,1020,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,B.1.526 Spike,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:490S,1,BAM page 21,>,485,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:494P,1,BAM page 21,>,71,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:484D,1,BAM page 21,>,100,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:484Q,1,BAM page 21,>,100,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:493R,1,BAM page 21,>,100,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,B.1.1.7 Spike,1,BAM+ETE Table 3,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:69del+70del+501Y,1,BAM+ETE Table 3,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:69del+70del+501Y,1,BAM+ETE Table 3,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,B.1.351 Spike,1,BAM+ETE Table 3,=,45,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:417N+484K+501Y,1,BAM+ETE Table 3,=,45,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,P.1 Spike,1,BAM+ETE Table 3,=,511,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:417T+484K+501Y,1,BAM+ETE Table 3,=,511,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,B.1.429 Spike,1,BAM+ETE Table 3,=,7.7,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:452R,1,BAM+ETE Table 3,=,7.4,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,B.1.526 Spike,1,BAM+ETE Table 3,=,17,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:484K,1,BAM+ETE Page 26,=,17,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:484Q,1,BAM+ETE Page 26,=,22,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:493R,1,BAM+ETE Page 26,>,100,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:483A,1,BAM+ETE Page 26,=,48,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Etesevimab,Wuhan-Hu-1,S:483A,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:483A,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Etesevimab,Wuhan-Hu-1,S:501Y,1,BAM+ETE Page 26,=,5,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:501Y,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:501Y,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Etesevimab,Wuhan-Hu-1,S:501T,1,BAM+ETE Page 26,=,20,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1,S:501T,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:501T,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:484D,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:490S,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:494P,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:417N,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:420T,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:460K,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:460S,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:460T,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,B.1.1.7 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,B.1.1.7 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,B.1.1.7 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:501Y,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:501Y,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:501Y,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,B.1.351 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:417N+484K+501Y,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,P.1 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:417T+484K,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:417N,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:484K,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,B.1.429 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:452R,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:452R,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:452R,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,B.1.526 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:484K,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:417E,1,CAS+IMD Page 23,=,182,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:417N,1,CAS+IMD Page 23,=,7,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:417R,1,CAS+IMD Page 23,=,61,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:453F,1,CAS+IMD Page 23,>,438,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:455F,1,CAS+IMD Page 23,=,80,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:484K,1,CAS+IMD Page 23,=,25,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:486V,1,CAS+IMD Page 23,>,438,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:493K,1,CAS+IMD Page 23,>,438,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:444N,1,CAS+IMD Page 23,>,755,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:444Q,1,CAS+IMD Page 23,>,548,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:444T,1,CAS+IMD Page 23,>,1033,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:445A,1,CAS+IMD Page 23,=,548,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:444T,1,CAS+IMD Page 23,=,6,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:445A,1,CAS+IMD Page 23,=,5,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:409E,1,CAS+IMD Page 24,=,4,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:476S,1,CAS+IMD Page 24,=,5,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:494P,1,CAS+IMD Page 24,=,5,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:439K,1,CAS+IMD Page 24,=,463,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:484Q,1,CAS+IMD Page 24,=,9,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:493E,1,CAS+IMD Page 24,=,446,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Imdevimab,Wuhan-Hu-1,S:446V,1,CAS+IMD Page 25,=,135,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:446V,1,CAS+IMD Page 25,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab,Wuhan-Hu-1,S:446V,1,CAS+IMD Page 25,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:409E,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:476S,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:494P,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:439K,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:484Q,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,NULL,2021-03-18
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:493E,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,NULL,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,B.1.1.7 Spike,1,Bamlanivimab Table 3,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,B.1.351 Spike,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:484K,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,P.1 Spike,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,B.1.429 Spike,1,Bamlanivimab Table 3,>,1020,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:452R,1,Bamlanivimab Table 3,>,1020,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,B.1.526 Spike,1,Bamlanivimab Table 3,>,2360,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:490S,1,BAM page 21,>,485,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:494P,1,BAM page 21,>,71,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:484D,1,BAM page 21,>,100,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:484Q,1,BAM page 21,>,100,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:493R,1,BAM page 21,>,100,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,B.1.1.7 Spike,1,BAM+ETE Table 3,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:69del+70del+501Y,1,BAM+ETE Table 3,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:69del+70del+501Y,1,BAM+ETE Table 3,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,B.1.351 Spike,1,BAM+ETE Table 3,=,45,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:417N+484K+501Y,1,BAM+ETE Table 3,=,45,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,P.1 Spike,1,BAM+ETE Table 3,=,511,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:417T+484K+501Y,1,BAM+ETE Table 3,=,511,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,B.1.429 Spike,1,BAM+ETE Table 3,=,7.7,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:452R,1,BAM+ETE Table 3,=,7.4,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,B.1.526 Spike,1,BAM+ETE Table 3,=,17,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:484K,1,BAM+ETE Page 26,=,17,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:484Q,1,BAM+ETE Page 26,=,22,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:493R,1,BAM+ETE Page 26,>,100,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:483A,1,BAM+ETE Page 26,=,48,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Etesevimab,Wuhan-Hu-1,S:483A,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:483A,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Etesevimab,Wuhan-Hu-1,S:501Y,1,BAM+ETE Page 26,=,5,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:501Y,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:501Y,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Etesevimab,Wuhan-Hu-1,S:501T,1,BAM+ETE Page 26,=,20,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1,S:501T,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:501T,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:484D,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:490S,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:494P,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:417N,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:420T,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:460K,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:460S,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1,S:460T,1,BAM+ETE Page 26,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,B.1.1.7 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,B.1.1.7 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,B.1.1.7 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:501Y,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:501Y,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:501Y,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,B.1.351 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:417N+484K+501Y,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,P.1 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:417T+484K,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:417N,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:484K,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,B.1.429 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:452R,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:452R,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:452R,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,B.1.526 Spike,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:484K,1,"CAS+IMD Table 3, Page24",=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:417E,1,CAS+IMD Page 23,=,182,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:417N,1,CAS+IMD Page 23,=,7,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:417R,1,CAS+IMD Page 23,=,61,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:453F,1,CAS+IMD Page 23,>,438,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:455F,1,CAS+IMD Page 23,=,80,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:484K,1,CAS+IMD Page 23,=,25,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:486V,1,CAS+IMD Page 23,>,438,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:493K,1,CAS+IMD Page 23,>,438,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:444N,1,CAS+IMD Page 23,>,755,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:444Q,1,CAS+IMD Page 23,>,548,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:444T,1,CAS+IMD Page 23,>,1033,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:445A,1,CAS+IMD Page 23,=,548,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:444T,1,CAS+IMD Page 23,=,6,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:445A,1,CAS+IMD Page 23,=,5,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:409E,1,CAS+IMD Page 24,=,4,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:476S,1,CAS+IMD Page 24,=,5,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:494P,1,CAS+IMD Page 24,=,5,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:439K,1,CAS+IMD Page 24,=,463,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:484Q,1,CAS+IMD Page 24,=,9,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:493E,1,CAS+IMD Page 24,=,446,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Imdevimab,Wuhan-Hu-1,S:446V,1,CAS+IMD Page 25,=,135,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:446V,1,CAS+IMD Page 25,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab,Wuhan-Hu-1,S:446V,1,CAS+IMD Page 25,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:409E,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:476S,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:494P,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:439K,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:484Q,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1,S:493E,1,CAS+IMD Page 24,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18

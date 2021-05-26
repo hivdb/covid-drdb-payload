@@ -1,139 +1,139 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Weisblum20,C121,Wuhan-Hu-1,S:346K,1,Figure 7A,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:346K,1,Figure 7B,=,1377,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:346K,1,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:346S,1,Figure 4B,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:346S,1,Figure 4B,=,0.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:346S,2,Figure 7A,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:346S,2,Figure 7C,=,0.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:367F,1,Figure 7A,=,0.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:367F,1,Figure 7B,=,0.6,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:367F,1,Figure 7C,=,0.6,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:439K,1,Figure 7A,=,2.3,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:439K,1,Figure 7B,=,165.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:439K,1,Figure 7C,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:440K,1,Figure 4B,=,2.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:440K,1,Figure 4B,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:440K,2,Figure 7A,=,1.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:440K,2,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:444N,1,Figure 4B,=,3.3,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:444N,1,Figure 4B,=,15.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:444N,1,Figure 4B,=,1.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:444N,2,Figure 7A,=,1.6,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:444N,2,Figure 7B,=,46.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:444N,2,Figure 7C,=,0.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:444Q,1,Figure 7A,=,1.3,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:444Q,1,Figure 7B,=,34.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:444Q,1,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:444R,1,Figure 7A,=,1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:444R,1,Figure 7B,=,1.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:444R,1,Figure 7C,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:444T,1,Figure 4B,=,4.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:444T,1,Figure 4B,=,106.6,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:444T,1,Figure 4B,=,2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:445E,1,Figure 4B,=,1.6,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:445E,1,Figure 4B,=,26.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:445E,1,Figure 4B,=,1.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:445E,2,Figure 7A,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:445E,2,Figure 7B,=,2.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:445E,2,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:445G,1,Figure 4B,=,10.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:445G,1,Figure 4B,=,73.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:445G,1,Figure 4B,=,2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:445I,1,Figure 7A,=,0.6,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:445I,1,Figure 7B,=,4.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:445I,1,Figure 7C,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:445K,1,Figure 7A,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:445K,1,Figure 7B,=,5.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:445K,1,Figure 7C,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:445L,1,Figure 4B,=,1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:445L,1,Figure 4B,=,3.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:445L,1,Figure 4B,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:445L,2,Figure 7A,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:445L,2,Figure 7B,=,10.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:445L,2,Figure 7C,=,1.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:446S,1,Figure 7A,=,1.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:446S,1,Figure 7B,=,3.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:446S,1,Figure 7C,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:446V,1,Figure 7A,=,11.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:446V,1,Figure 7B,=,533.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:446V,1,Figure 7C,=,1.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:455F,1,Figure 7A,=,19,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:455F,1,Figure 7B,=,1.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:455F,1,Figure 7C,=,54.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:455I,1,Figure 7A,=,1.6,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:455I,1,Figure 7B,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:455I,1,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:455R,1,Figure 7A,=,68.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:455R,1,Figure 7B,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:456V,1,Figure 7A,=,6.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:456V,1,Figure 7B,=,0.3,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:456V,1,Figure 7C,=,125.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:475D,1,Figure 7A,=,0.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:475D,1,Figure 7B,=,0.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:475D,1,Figure 7C,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:475V,1,Figure 7A,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:475V,1,Figure 7B,=,0.3,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:475V,1,Figure 7C,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:476A,1,Figure 7A,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:476A,1,Figure 7B,=,1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:476A,1,Figure 7C,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:476S,1,Figure 7A,=,0.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:476S,1,Figure 7B,=,0.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:476S,1,Figure 7C,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:478I,1,Figure 7A,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:478I,1,Figure 7B,=,2.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:478I,1,Figure 7C,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:483A,1,Figure 7A,=,10.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:483A,1,Figure 7B,=,1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:483A,1,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:483F,1,Figure 7A,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:483F,1,Figure 7B,=,1.3,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:483F,1,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:483I,1,Figure 7A,=,0.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:483I,1,Figure 7B,=,1.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:483I,1,Figure 7C,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:484A,1,Figure 7B,=,1.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:484D,1,Figure 7B,=,1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:484D,1,Figure 7C,=,220.3,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:484K,1,Figure 4B,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:484Q,1,Figure 7A,=,2737.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:484Q,1,Figure 7B,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:490L,1,Figure 7B,=,2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:490L,1,Figure 7C,=,213.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:490S,1,Figure 7B,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:490S,1,Figure 7C,=,4.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:493K,1,Figure 7B,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:493L,1,Figure 7A,=,5.6,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:493L,1,Figure 7B,=,1.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:493L,1,Figure 7C,=,26.7,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:493R,1,Figure 4B,=,1.3,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:493R,2,Figure 7B,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:494P,1,Figure 7A,=,26.9,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:494P,1,Figure 7B,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:494P,1,Figure 7C,=,45.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:501Y,1,Figure 7A,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:501Y,1,Figure 7B,=,2.2,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:501Y,1,Figure 7C,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:503F,1,Figure 7A,=,1.5,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:503F,1,Figure 7B,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:503F,1,Figure 7C,=,1.1,0,NULL,NULL,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:346S,1,Figure 4B,>,1548.8,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:346S,2,Figure 7B,>,2631.7,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:440K,1,Figure 4B,>,1548.8,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C135,Wuhan-Hu-1,S:440K,2,Figure 7B,>,2631.7,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:455R,1,Figure 7C,>,1873.8,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:484A,1,Figure 7A,>,2737.7,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:484A,1,Figure 7C,>,1873.8,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:484D,1,Figure 7A,>,2737.7,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:484K,1,Figure 4B,>,2202.2,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:484K,1,Figure 4B,>,956.2,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:484Q,1,Figure 7C,>,1873.8,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:490L,1,Figure 7A,>,2737.7,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:490S,1,Figure 7A,>,2737.7,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:493K,1,Figure 7A,>,2737.7,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:493K,1,Figure 7C,>,1873.8,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:493R,1,Figure 4B,>,2202.2,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:493R,1,Figure 4B,>,956.2,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C121,Wuhan-Hu-1,S:493R,2,Figure 7A,>,2737.7,0,NULL,experimental,1,NULL,2021-01-27
-Weisblum20,C144,Wuhan-Hu-1,S:493R,2,Figure 7C,>,1873.8,0,NULL,experimental,1,NULL,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:346K,1,Figure 7A,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:346K,1,Figure 7B,=,1377,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:346K,1,Figure 7C,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:346S,1,Figure 4B,=,1.4,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:346S,1,Figure 4B,=,0.5,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:346S,2,Figure 7A,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:346S,2,Figure 7C,=,0.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:367F,1,Figure 7A,=,0.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:367F,1,Figure 7B,=,0.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:367F,1,Figure 7C,=,0.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:439K,1,Figure 7A,=,2.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:439K,1,Figure 7B,=,165.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:439K,1,Figure 7C,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:440K,1,Figure 4B,=,2.1,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:440K,1,Figure 4B,=,1.2,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:440K,2,Figure 7A,=,1.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:440K,2,Figure 7C,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:444N,1,Figure 4B,=,3.3,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:444N,1,Figure 4B,=,15.1,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:444N,1,Figure 4B,=,1.5,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:444N,2,Figure 7A,=,1.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:444N,2,Figure 7B,=,46.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:444N,2,Figure 7C,=,0.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:444Q,1,Figure 7A,=,1.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:444Q,1,Figure 7B,=,34.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:444Q,1,Figure 7C,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:444R,1,Figure 7A,=,1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:444R,1,Figure 7B,=,1.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:444R,1,Figure 7C,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:444T,1,Figure 4B,=,4.8,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:444T,1,Figure 4B,=,106.6,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:444T,1,Figure 4B,=,2,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:445E,1,Figure 4B,=,1.6,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:445E,1,Figure 4B,=,26.5,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:445E,1,Figure 4B,=,1.1,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:445E,2,Figure 7A,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:445E,2,Figure 7B,=,2.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:445E,2,Figure 7C,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:445G,1,Figure 4B,=,10.1,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:445G,1,Figure 4B,=,73.1,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:445G,1,Figure 4B,=,2,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:445I,1,Figure 7A,=,0.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:445I,1,Figure 7B,=,4.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:445I,1,Figure 7C,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:445K,1,Figure 7A,=,1.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:445K,1,Figure 7B,=,5.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:445K,1,Figure 7C,=,1.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:445L,1,Figure 4B,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:445L,1,Figure 4B,=,3.9,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:445L,1,Figure 4B,=,1.2,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:445L,2,Figure 7A,=,1.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:445L,2,Figure 7B,=,10.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:445L,2,Figure 7C,=,1.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:446S,1,Figure 7A,=,1.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:446S,1,Figure 7B,=,3.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:446S,1,Figure 7C,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:446V,1,Figure 7A,=,11.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:446V,1,Figure 7B,=,533.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:446V,1,Figure 7C,=,1.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:455F,1,Figure 7A,=,19,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:455F,1,Figure 7B,=,1.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:455F,1,Figure 7C,=,54.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:455I,1,Figure 7A,=,1.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:455I,1,Figure 7B,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:455I,1,Figure 7C,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:455R,1,Figure 7A,=,68.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:455R,1,Figure 7B,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:456V,1,Figure 7A,=,6.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:456V,1,Figure 7B,=,0.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:456V,1,Figure 7C,=,125.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:475D,1,Figure 7A,=,0.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:475D,1,Figure 7B,=,0.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:475D,1,Figure 7C,=,1.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:475V,1,Figure 7A,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:475V,1,Figure 7B,=,0.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:475V,1,Figure 7C,=,1.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:476A,1,Figure 7A,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:476A,1,Figure 7B,=,1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:476A,1,Figure 7C,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:476S,1,Figure 7A,=,0.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:476S,1,Figure 7B,=,0.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:476S,1,Figure 7C,=,0.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:478I,1,Figure 7A,=,1.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:478I,1,Figure 7B,=,2.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:478I,1,Figure 7C,=,1.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:483A,1,Figure 7A,=,10.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:483A,1,Figure 7B,=,1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:483A,1,Figure 7C,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:483F,1,Figure 7A,=,1.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:483F,1,Figure 7B,=,1.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:483F,1,Figure 7C,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:483I,1,Figure 7A,=,0.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:483I,1,Figure 7B,=,1.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:483I,1,Figure 7C,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:484A,1,Figure 7B,=,1.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:484D,1,Figure 7B,=,1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:484D,1,Figure 7C,=,220.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:484K,1,Figure 4B,=,1.2,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:484Q,1,Figure 7A,=,2737.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:484Q,1,Figure 7B,=,1.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:490L,1,Figure 7B,=,2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:490L,1,Figure 7C,=,213.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:490S,1,Figure 7B,=,1.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:490S,1,Figure 7C,=,4.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:493K,1,Figure 7B,=,1.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:493L,1,Figure 7A,=,5.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:493L,1,Figure 7B,=,1.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:493L,1,Figure 7C,=,26.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:493R,1,Figure 4B,=,1.3,0,NULL,NULL,1,vsv pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:493R,2,Figure 7B,=,1.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:494P,1,Figure 7A,=,26.9,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:494P,1,Figure 7B,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:494P,1,Figure 7C,=,45.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:501Y,1,Figure 7A,=,0.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:501Y,1,Figure 7B,=,2.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:501Y,1,Figure 7C,=,1.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:503F,1,Figure 7A,=,1.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:503F,1,Figure 7B,=,1.4,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:503F,1,Figure 7C,=,1.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:346S,1,Figure 4B,>,1548.8,0,NULL,experimental,1,vsv pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:346S,2,Figure 7B,>,2631.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:440K,1,Figure 4B,>,1548.8,0,NULL,experimental,1,vsv pseudovirus,2021-01-27
+Weisblum20,C135,Wuhan-Hu-1,S:440K,2,Figure 7B,>,2631.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:455R,1,Figure 7C,>,1873.8,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:484A,1,Figure 7A,>,2737.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:484A,1,Figure 7C,>,1873.8,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:484D,1,Figure 7A,>,2737.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:484K,1,Figure 4B,>,2202.2,0,NULL,experimental,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:484K,1,Figure 4B,>,956.2,0,NULL,experimental,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:484Q,1,Figure 7C,>,1873.8,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:490L,1,Figure 7A,>,2737.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:490S,1,Figure 7A,>,2737.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:493K,1,Figure 7A,>,2737.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:493K,1,Figure 7C,>,1873.8,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:493R,1,Figure 4B,>,2202.2,0,NULL,experimental,1,vsv pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:493R,1,Figure 4B,>,956.2,0,NULL,experimental,1,vsv pseudovirus,2021-01-27
+Weisblum20,C121,Wuhan-Hu-1,S:493R,2,Figure 7A,>,2737.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Weisblum20,C144,Wuhan-Hu-1,S:493R,2,Figure 7C,>,1873.8,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27

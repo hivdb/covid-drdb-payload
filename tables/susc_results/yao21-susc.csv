@@ -1,17 +1,17 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Yao21,Etesevimab,Wuhan-Hu-1,S:501Y,1,Figure 3,~,5,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Casirivimab,Wuhan-Hu-1,S:501Y,1,Figure 3,~,1,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Imdevimab,Wuhan-Hu-1,S:501Y,1,Figure 3,~,1,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Etesevimab,Wuhan-Hu-1,S:69del+70del+439K,1,Figure 3,~,1,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Casirivimab,Wuhan-Hu-1,S:69del+70del+439K,1,Figure 3,~,1,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Imdevimab,Wuhan-Hu-1,S:69del+70del+439K,1,Figure 3,~,10,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Etesevimab,Wuhan-Hu-1,S:69del+70del+453F,1,Figure 3,~,3,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Casirivimab,Wuhan-Hu-1,S:69del+70del+453F,1,Figure 3,~,50,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Imdevimab,Wuhan-Hu-1,S:69del+70del+453F,1,Figure 3,~,1,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Etesevimab,Wuhan-Hu-1,S:69del+70del+501Y,1,Figure 3,~,10,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Casirivimab,Wuhan-Hu-1,S:69del+70del+501Y,1,Figure 3,~,1,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Imdevimab,Wuhan-Hu-1,S:69del+70del+501Y,1,Figure 3,~,1,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Casirivimab,Wuhan-Hu-1,S:417N+484K+501Y,1,Figure 3,~,100,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Imdevimab,Wuhan-Hu-1,S:417N+484K+501Y,1,Figure 3,~,1,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Etesevimab,Wuhan-Hu-1,S:453F+498H,1,Figure 3,~,3,0,NULL,NULL,1,NULL,2021-02-07
-Yao21,Imdevimab,Wuhan-Hu-1,S:69del+70del+453F+486L+501T+1229I,1,Figure 3,~,10,0,NULL,NULL,1,NULL,2021-02-07
+Yao21,Etesevimab,Wuhan-Hu-1,S:501Y,1,Figure 3,~,5,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Casirivimab,Wuhan-Hu-1,S:501Y,1,Figure 3,~,1,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Imdevimab,Wuhan-Hu-1,S:501Y,1,Figure 3,~,1,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Etesevimab,Wuhan-Hu-1,S:69del+70del+439K,1,Figure 3,~,1,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Casirivimab,Wuhan-Hu-1,S:69del+70del+439K,1,Figure 3,~,1,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Imdevimab,Wuhan-Hu-1,S:69del+70del+439K,1,Figure 3,~,10,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Etesevimab,Wuhan-Hu-1,S:69del+70del+453F,1,Figure 3,~,3,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Casirivimab,Wuhan-Hu-1,S:69del+70del+453F,1,Figure 3,~,50,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Imdevimab,Wuhan-Hu-1,S:69del+70del+453F,1,Figure 3,~,1,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Etesevimab,Wuhan-Hu-1,S:69del+70del+501Y,1,Figure 3,~,10,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Casirivimab,Wuhan-Hu-1,S:69del+70del+501Y,1,Figure 3,~,1,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Imdevimab,Wuhan-Hu-1,S:69del+70del+501Y,1,Figure 3,~,1,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Casirivimab,Wuhan-Hu-1,S:417N+484K+501Y,1,Figure 3,~,100,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Imdevimab,Wuhan-Hu-1,S:417N+484K+501Y,1,Figure 3,~,1,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Etesevimab,Wuhan-Hu-1,S:453F+498H,1,Figure 3,~,3,0,NULL,NULL,1,MLV pseudovirus,2021-02-07
+Yao21,Imdevimab,Wuhan-Hu-1,S:69del+70del+453F+486L+501T+1229I,1,Figure 3,~,10,0,NULL,NULL,1,MLV pseudovirus,2021-02-07

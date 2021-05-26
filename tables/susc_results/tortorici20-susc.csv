@@ -1,53 +1,53 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Tortorici20,S2M11,Wuhan-Hu-1,S:346K,1,Figure S7E,=,1.0,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:346K,1,Figure S7F,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:367F+614G,1,Figure S7C,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:367F+614G,1,Figure S7D,=,0.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:417V+614G,1,Figure S7C,=,1.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:417V+614G,1,Figure S7D,=,0.7,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:439K,1,Figure S7C,=,1.1,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:439K+614G+1121L,1,Figure S7C,=,2.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:439K,1,Figure S7D,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:439K+614G+1121L,1,Figure S7D,=,0.6,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:439K+614G,1,Figure S7E,=,1.3,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:439K+614G,1,Figure S7F,=,1.0,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:440A,1,Figure S7E,=,1.0,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:440A,1,Figure S7F,=,0.8,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:444A+614G,1,Figure S7E,=,1.0,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:444A,1,Figure S7F,=,1.7,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:445A+614G,1,Figure S7C,=,0.6,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:445A+614G,1,Figure S7D,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:446V+614G,1,Figure S7A,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:446V+614G,1,Figure S7B,=,1.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:449N+614G,1,Figure S7B,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:453F+614G,1,Figure S7A,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:453F+614G,1,Figure S7B,=,1.6,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:455F+614G,1,Figure S7E,=,4.6,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:455F+614G,1,Figure S7F,=,1.1,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:475V+261D,1,Figure S7A,=,0.7,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:475V+261D,1,Figure S7B,=,1.6,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:476S,1,Figure S7C,=,0.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:476S,1,Figure S7D,=,6.1,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:477N,1,Figure S7A,=,1.4,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:477N,1,Figure S7B,=,1.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:479S+614G,1,Figure S7C,=,0.7,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:479S+614G,1,Figure S7D,=,1.3,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:483A,1,Figure S7C,=,1.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:483A,1,Figure S7D,=,1.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:483F,1,Figure S7A,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:483F,1,Figure S7B,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:484K+614G,1,Figure S7F,=,3.6,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:484Q,1,Figure S7F,=,1.7,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:485R+614G,1,Figure S7E,=,1.0,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:485R+614G,1,Figure S7F,=,2.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:490L+614G+779H,1,Figure S7F,=,1.0,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:490S+614G,1,Figure S7F,=,1.0,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:494P,1,Figure S7D,=,0.5,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:614G+936Y,1,Figure S7E,=,0.9,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2E12,Wuhan-Hu-1,S:614G+936Y,1,Figure S7F,=,1.2,0,NULL,NULL,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:449N+614G,1,Figure S7A,>,149.5,0,NULL,experimental,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:484K+614G,1,Figure S7E,>,486.5,0,NULL,experimental,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:484Q,1,Figure S7E,>,486.5,0,NULL,experimental,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:490L+614G+779H,1,Figure S7E,>,486.5,0,NULL,experimental,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:490S+614G,1,Figure S7E,>,486.5,0,NULL,experimental,1,NULL,2021-01-27
-Tortorici20,S2M11,Wuhan-Hu-1,S:494P,1,Figure S7C,>,268.8,0,NULL,experimental,1,NULL,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:346K,1,Figure S7E,=,1.0,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:346K,1,Figure S7F,=,1.2,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:367F+614G,1,Figure S7C,=,1.4,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:367F+614G,1,Figure S7D,=,0.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:417V+614G,1,Figure S7C,=,1.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:417V+614G,1,Figure S7D,=,0.7,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:439K,1,Figure S7C,=,1.1,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:439K+614G+1121L,1,Figure S7C,=,2.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:439K,1,Figure S7D,=,0.9,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:439K+614G+1121L,1,Figure S7D,=,0.6,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:439K+614G,1,Figure S7E,=,1.3,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:439K+614G,1,Figure S7F,=,1.0,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:440A,1,Figure S7E,=,1.0,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:440A,1,Figure S7F,=,0.8,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:444A+614G,1,Figure S7E,=,1.0,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:444A,1,Figure S7F,=,1.7,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:445A+614G,1,Figure S7C,=,0.6,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:445A+614G,1,Figure S7D,=,0.9,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:446V+614G,1,Figure S7A,=,1.4,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:446V+614G,1,Figure S7B,=,1.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:449N+614G,1,Figure S7B,=,1.2,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:453F+614G,1,Figure S7A,=,0.9,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:453F+614G,1,Figure S7B,=,1.6,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:455F+614G,1,Figure S7E,=,4.6,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:455F+614G,1,Figure S7F,=,1.1,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:475V+261D,1,Figure S7A,=,0.7,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:475V+261D,1,Figure S7B,=,1.6,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:476S,1,Figure S7C,=,0.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:476S,1,Figure S7D,=,6.1,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:477N,1,Figure S7A,=,1.4,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:477N,1,Figure S7B,=,1.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:479S+614G,1,Figure S7C,=,0.7,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:479S+614G,1,Figure S7D,=,1.3,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:483A,1,Figure S7C,=,1.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:483A,1,Figure S7D,=,1.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:483F,1,Figure S7A,=,1.2,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:483F,1,Figure S7B,=,1.2,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:484K+614G,1,Figure S7F,=,3.6,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:484Q,1,Figure S7F,=,1.7,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:485R+614G,1,Figure S7E,=,1.0,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:485R+614G,1,Figure S7F,=,2.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:490L+614G+779H,1,Figure S7F,=,1.0,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:490S+614G,1,Figure S7F,=,1.0,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:494P,1,Figure S7D,=,0.5,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:614G+936Y,1,Figure S7E,=,0.9,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2E12,Wuhan-Hu-1,S:614G+936Y,1,Figure S7F,=,1.2,0,NULL,NULL,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:449N+614G,1,Figure S7A,>,149.5,0,NULL,experimental,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:484K+614G,1,Figure S7E,>,486.5,0,NULL,experimental,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:484Q,1,Figure S7E,>,486.5,0,NULL,experimental,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:490L+614G+779H,1,Figure S7E,>,486.5,0,NULL,experimental,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:490S+614G,1,Figure S7E,>,486.5,0,NULL,experimental,1,MLV pseudovirus,2021-01-27
+Tortorici20,S2M11,Wuhan-Hu-1,S:494P,1,Figure S7C,>,268.8,0,NULL,experimental,1,MLV pseudovirus,2021-01-27

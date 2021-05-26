@@ -1,0 +1,47 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+Cathcart21,Vir-7831,Wuhan-Hu-1,B.1.1.7 Spike,1,Table 1; Figure 1e,=,2.3,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,B.1.351 Spike,1,Table 1; Figure 1e,=,0.6,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,P.1 Spike,1,Table 1; Figure 1e,=,0.35,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7832,Wuhan-Hu-1,B.1.1.7 Spike,1,Table 1; Figure 1e,=,2.5,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7832,Wuhan-Hu-1,B.1.351 Spike,1,Table 1; Figure 1e,=,0.72,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7832,Wuhan-Hu-1,P.1 Spike,1,Table 1; Figure 1e,=,0.42,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:406W,1,Table 2,=,0.74,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:417E,1,Table 2,=,0.89,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:439K+614G,1,Table 2,=,0.86,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:440D,1,Table 2,=,1.29,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:444Q,1,Table 2,=,1.11,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:445A,1,Table 2,=,3.38,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:446V+614G,1,Table 2,=,1.5,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:261D+453F,1,Table 2,=,2.19,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:455F+614G,1,Table 2,=,0.56,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:476S,1,Table 2,=,2.94,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:484K+614G,1,Table 2,=,0.33,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:486V,1,Table 2,=,1.1,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:489H,1,Table 2,=,1.48,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:490S,1,Table 2,=,0.85,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:483K,1,Table 2,=,0.98,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:494P+614G,1,Table 2,=,2.5,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:334K+614G,1,Table 1; Figure 1e,=,1.27,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:335F,1,Table 4,=,0.81,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:337H+614G,1,Table 4,=,7.5,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:337L+614G,1,Table 4,=,180,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:337R+614G,1,Table 4,>,276,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:337S+614G,1,Table 4,=,1.26,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:337T+614G,1,Table 4,=,5.38,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:339D+614G,1,Table 4,=,1.18,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:340A,1,Table 4,>,100,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:340K,1,Table 4,>,297,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:340G+614G,1,Table 4,=,27,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:341I+614G,1,Table 4,=,0.16,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:344S,1,Table 4,=,0.89,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:346K+614G,1,Table 4,=,0.72,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:354D,1,Table 4,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:354K+95I,1,Table 4,=,0.76,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:354S+614G,1,Table 4,=,0.89,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:359N,1,Table 4,=,0.96,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:440K+614G,1,Table 4,=,0.48,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:682W,1,Supplementary table 2,=,0.52,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7831,Wuhan-Hu-1,S:1128F,1,Supplementary table 2,=,0.53,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7832,Wuhan-Hu-1,S:340A,1,Supplementary table 2,>,100,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7832,Wuhan-Hu-1,S:682W,1,Supplementary table 2,=,0.49,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
+Cathcart21,Vir-7832,Wuhan-Hu-1,S:1128F,1,Supplementary table 2,=,0.6,0,NULL,NULL,1,vsv pseudovirus,2021-03-12
