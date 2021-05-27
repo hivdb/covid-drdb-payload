@@ -1,4 +1,4 @@
 ﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
-Planas21,CP_M3,B.1 full gnome,3,NULL,NULL,2020-11-27,CP_M3
-Planas21,CP_M6,B.1 full gnome,6,NULL,NULL,2021-02-27,CP_M6
-Planas21,CP_M9,B.1 full gnome,9,NULL,NULL,2021-01-17,CP_M9
+Planas21,CP_M3,B.1 full genome,3,NULL,NULL,2020-11-27,CP_M3
+Planas21,CP_M6,B.1 full genome,6,NULL,NULL,2021-02-27,CP_M6
+Planas21,CP_M9,B.1 full genome,9,NULL,NULL,2021-01-17,CP_M9
