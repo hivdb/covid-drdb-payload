@@ -3,7 +3,7 @@ Wang21g,CP,infection,<,2020-10-01,China,B.1 full genome,NULL,Mild
 Wang21g,CP,isolation,<,2021-03-01,China,B.1 full genome,NULL,Mild
 Wang21g,BBIBP-CorV,1st dose,~,2021-01-05,China,NULL,BBIBP-CorV,NULL
 Wang21g,BBIBP-CorV,2nd dose,~,2021-01-26,China,NULL,BBIBP-CorV,NULL
-Wang21g,BBIBP-CorV,2nd dose isolation,~,2021-03-01,China,NULL,BBIBP-CorV,NULL
+Wang21g,BBIBP-CorV,2nd dose isolation,~,2021-03-01,China,NULL,NULL,NULL
 Wang21g,CoronaVac,1st dose,~,2021-01-31,China,NULL,CoronaVac,NULL
 Wang21g,CoronaVac,2nd dose,~,2021-02-21,China,NULL,CoronaVac,NULL
-Wang21g,CoronaVac,2nd dose isolation,~,2021-03-01,China,NULL,CoronaVac,NULL
+Wang21g,CoronaVac,2nd dose isolation,~,2021-03-01,China,NULL,NULL,NULL

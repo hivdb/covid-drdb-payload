@@ -1,22 +1,22 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Greaney21c,M06,1st dose,<,2020-04-14,USA,NULL,mRNA-1273,NULL
 Greaney21c,M06,2nd dose,<,2020-05-13,USA,NULL,mRNA-1273,NULL
-Greaney21c,M06,2nd dose isolation,<,2020-09-09,USA,NULL,mRNA-1273,NULL
+Greaney21c,M06,2nd dose isolation,<,2020-09-09,USA,NULL,NULL,NULL
 Greaney21c,M11,1st dose,<,2020-04-14,USA,NULL,mRNA-1273,NULL
 Greaney21c,M11,2nd dose,<,2020-05-13,USA,NULL,mRNA-1273,NULL
-Greaney21c,M11,2nd dose isolation,<,2020-09-09,USA,NULL,mRNA-1273,NULL
+Greaney21c,M11,2nd dose isolation,<,2020-09-09,USA,NULL,NULL,NULL
 Greaney21c,M05,1st dose,<,2020-04-14,USA,NULL,mRNA-1273,NULL
 Greaney21c,M05,2nd dose,<,2020-05-13,USA,NULL,mRNA-1273,NULL
-Greaney21c,M05,2nd dose isolation,<,2020-09-09,USA,NULL,mRNA-1273,NULL
+Greaney21c,M05,2nd dose isolation,<,2020-09-09,USA,NULL,NULL,NULL
 Greaney21c,M03,1st dose,<,2020-04-14,USA,NULL,mRNA-1273,NULL
 Greaney21c,M03,2nd dose,<,2020-05-13,USA,NULL,mRNA-1273,NULL
-Greaney21c,M03,2nd dose isolation,<,2020-09-09,USA,NULL,mRNA-1273,NULL
+Greaney21c,M03,2nd dose isolation,<,2020-09-09,USA,NULL,NULL,NULL
 Greaney21c,M12,1st dose,<,2020-04-14,USA,NULL,mRNA-1273,NULL
 Greaney21c,M12,2nd dose,<,2020-05-13,USA,NULL,mRNA-1273,NULL
-Greaney21c,M12,2nd dose isolation,<,2020-09-09,USA,NULL,mRNA-1273,NULL
+Greaney21c,M12,2nd dose isolation,<,2020-09-09,USA,NULL,NULL,NULL
 Greaney21c,M14,1st dose,<,2020-04-14,USA,NULL,mRNA-1273,NULL
 Greaney21c,M14,2nd dose,<,2020-05-13,USA,NULL,mRNA-1273,NULL
-Greaney21c,M14,2nd dose isolation,<,2020-09-09,USA,NULL,mRNA-1273,NULL
+Greaney21c,M14,2nd dose isolation,<,2020-09-09,USA,NULL,NULL,NULL
 Greaney21c,Subject_A,infection,<,2020-07-01,USA,B.1 full genome,NULL,Hospitalized
 Greaney21c,Subject_A,isolation,<,2020-07-22,USA,B.1 full genome,NULL,Hospitalized
 Greaney21c,Subject_A,isolation,<,2020-10-29,USA,B.1 full genome,NULL,Hospitalized

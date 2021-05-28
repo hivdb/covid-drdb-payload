@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Kuzmina21,BNT162b2,2nd dose,<,2020-12-21,Israel,B.1 full genome,BNT162b2,NULL
-Kuzmina21,BNT162b2,2nd dose isolation,<,2020-12-31,Israel,B.1 full genome,BNT162b2,NULL
+Kuzmina21,BNT162b2,2nd dose isolation,<,2020-12-31,Israel,B.1 full genome,NULL,NULL
 Kuzmina21,CP,infection,<,2020-11-21,Israel,B.1 full genome,NULL,NULL
 Kuzmina21,CP,isolation,<,2020-12-31,Israel,B.1 full genome,NULL,NULL

@@ -2,6 +2,6 @@
 Deng21,CP,infection,~,2020-08-15,USA CA,B.1 full genome,NULL,NULL
 Deng21,CP,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
 Deng21,BNT,2nd dose,~,2021-01-01,USA CA,NULL,BNT162b2,NULL
-Deng21,BNT,2nd dose isolation,~,2021-01-19,USA CA,NULL,BNT162b2,NULL
+Deng21,BNT,2nd dose isolation,~,2021-01-19,USA CA,NULL,NULL,NULL
 Deng21,Mod,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
-Deng21,Mod,2nd dose isolation,~,2021-01-19,USA CA,NULL,mRNA-1273,NULL
+Deng21,Mod,2nd dose isolation,~,2021-01-19,USA CA,NULL,NULL,NULL
