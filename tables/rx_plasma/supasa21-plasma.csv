@@ -1,6 +1,6 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Supasa21,CP,NULL,2020-12-31,CP
-Supasa21,CP_B.1.1.7,NULL,2021-01-01,CP_B.1.1.7
-Supasa21,BNT162b2,NULL,2021-02-03,BNT
-Supasa21,AZD1222_14d,NULL,2021-01-15,AZD_14d
-Supasa21,AZD1222_28d,NULL,2021-01-29,AZD
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Supasa21,CP,CP,NULL,2020-12-31,CP
+Supasa21,CP_B.1.1.7,CP_B.1.1.7,NULL,2021-01-01,CP_B.1.1.7
+Supasa21,BNT162b2,BNT162b2,NULL,2021-02-03,BNT
+Supasa21,AZD1222_14d,AZD1222,NULL,2021-01-15,AZD_14d
+Supasa21,AZD1222_28d,AZD1222,NULL,2021-01-29,AZD

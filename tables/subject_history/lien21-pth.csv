@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Lien21,MVC_low,1st dose,~,2020-10-07,Taiwan,NULL,MVC-COV1901,NULL
+Lien21,MVC_middle,1st dose,~,2020-10-07,Taiwan,NULL,MVC-COV1901,NULL
+Lien21,MVC_high,1st dose,~,2020-10-07,Taiwan,NULL,MVC-COV1901,NULL
+Lien21,MVC_low,2nd dose,~,2020-11-05,Taiwan,NULL,MVC-COV1901,NULL
+Lien21,MVC_middle,2nd dose,~,2020-11-05,Taiwan,NULL,MVC-COV1901,NULL
+Lien21,MVC_high,2nd dose,~,2020-11-05,Taiwan,NULL,MVC-COV1901,NULL
+Lien21,MVC_low,2nd dose isolation,~,2020-12-03,Taiwan,NULL,MVC-COV1901,NULL
+Lien21,MVC_middle,2nd dose isolation,~,2020-12-03,Taiwan,NULL,MVC-COV1901,NULL
+Lien21,MVC_high,2nd dose isolation,~,2020-12-03,Taiwan,NULL,MVC-COV1901,NULL

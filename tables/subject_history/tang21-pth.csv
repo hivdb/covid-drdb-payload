@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Tang21,CP,infection,<,2021-03-01,USA,NULL,NULL,NULL
+Tang21,CP,isolation,<,2021-03-01,USA,NULL,NULL,NULL
+Tang21,hCoV-2IG,isolation,<,2019-12-31,USA,NULL,NULL,NULL

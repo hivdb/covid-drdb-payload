@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Deng21,CP,NULL,2020-09-30,CP
-Deng21,BNT162b2,NULL,2021-01-19,BNT
-Deng21,mRNA-1273,NULL,2021-01-19,Mod
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Deng21,CP,CP,NULL,2020-09-30,CP
+Deng21,BNT162b2,BNT,NULL,2021-01-19,BNT
+Deng21,mRNA-1273,Mod,NULL,2021-01-19,Mod

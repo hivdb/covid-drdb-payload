@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Weigang21,CP_patient_2,NULL,2020-04-15,CP
-Weigang21,CP_WT_mice,NULL,2020-05-01,CP_WT_mice
-Weigang21,CP_d105_mice,NULL,2020-05-01,CP_d105_mice
-Weigang21,BNT162b2,NULL,2021-01-28,BNT
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Weigang21,CP_subject_2,CP_subject_2,NULL,2020-04-15,CP
+Weigang21,CP_WT_mice,CP_WT_mice,NULL,2020-05-01,CP_WT_mice
+Weigang21,CP_d105_mice,CP_d105_mice,NULL,2020-05-01,CP_d105_mice
+Weigang21,BNT162b2,BNT162b2,NULL,2021-01-28,BNT

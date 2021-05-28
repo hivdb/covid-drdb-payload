@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Widera21,CP,NULL,2021-02-24,CP
-Widera21,BNT162b2,NULL,2021-02-24,BNT
-Widera21,BNT162b2_infected,NULL,2021-02-24,BNT
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Widera21,CP,CP,NULL,2021-02-24,CP
+Widera21,BNT162b2,BNT162b2,NULL,2021-02-24,BNT
+Widera21,BNT162b2_infected,BNT162b2_infected,NULL,2021-02-24,BNT

@@ -1,7 +1,7 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Trinite21,CP,NULL,2020-09-14,CP
-Trinite21,CP_B.1.1.7,NULL,2021-01-17,CP_B.1.1.7
-Trinite21,CP_early,NULL,2020-04-18,CP
-Trinite21,CP_late,NULL,2020-09-13,CP
-Trinite21,BNT_infected,NULL,2021-01-28,BNT
-Trinite21,BNT_uninfected,NULL,2021-01-24,BNT
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Trinite21,CP,CP_Aug20,NULL,2020-09-14,CP
+Trinite21,CP_B.1.1.7,CP_B.1.1.7,NULL,2021-01-17,CP_B.1.1.7
+Trinite21,CP_early,CP_Mar20,NULL,2020-04-18,CP
+Trinite21,CP_late,CP_Mar20,NULL,2020-09-13,CP
+Trinite21,BNT_infected,BNT_infected,NULL,2021-01-28,BNT
+Trinite21,BNT_uninfected,BNT_uninfected,NULL,2021-01-24,BNT

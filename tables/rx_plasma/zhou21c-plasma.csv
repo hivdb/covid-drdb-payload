@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Zhou21c,CP,NULL,2020-05-01,CP
-Zhou21c,BNT162b2,NULL,2021-02-12,BNT
-Zhou21c,mRNA-1273,NULL,2021-02-12,Mod
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Zhou21c,CP,CP,NULL,2020-05-01,CP
+Zhou21c,BNT162b2,BNT162b2,NULL,2021-02-12,BNT
+Zhou21c,mRNA-1273,mRNA-1273,NULL,2021-02-12,Mod

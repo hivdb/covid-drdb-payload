@@ -1,7 +1,7 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-McCallum21b,CP,NULL,2020-11-01,CP
-McCallum21b,CP_B.1.1.7,NULL,2020-12-31,CP_B.1.1.7
-McCallum21b,BNT162b2,NULL,2021-01-29,BNT_PSEUDO_HIV
-McCallum21b,BNT_infected,NULL,2021-01-29,BNT_infected
-McCallum21b,BNT_uninfected,NULL,2021-01-29,BNT
-McCallum21b,mRNA-1273,NULL,2021-01-29,Mod
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+McCallum21b,CP,CP,NULL,2020-11-01,CP
+McCallum21b,CP_B.1.1.7,CP_B.1.1.7,NULL,2020-12-31,CP_B.1.1.7
+McCallum21b,BNT162b2,BNT162b2,NULL,2021-01-29,BNT_PSEUDO_HIV
+McCallum21b,BNT_infected,BNT_infected,NULL,2021-01-29,BNT_infected
+McCallum21b,BNT_uninfected,BNT162b2,NULL,2021-01-29,BNT
+McCallum21b,mRNA-1273,mRNA-1273,NULL,2021-01-29,Mod

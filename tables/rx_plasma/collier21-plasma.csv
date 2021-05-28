@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Collier21,CP,NULL,2020-12-01,CP
-Collier21,BNT162b2_1st_dose,NULL,2021-01-05,BNT_1ds
-Collier21,BNT162b2_2nd_dose,NULL,2021-01-26,BNT
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Collier21,CP,Patient,NULL,2020-12-01,CP
+Collier21,BNT162b2_1st_dose,Patient,NULL,2021-01-05,BNT_1ds
+Collier21,BNT162b2_2nd_dose,Patient,NULL,2021-01-26,BNT

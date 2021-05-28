@@ -1,8 +1,8 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Stankov21,CP,NULL,2020-12-31,CP
-Stankov21,BNT_1st_dose,NULL,2021-01-18,BNT_1st_dose
-Stankov21,BNT_P4,NULL,2021-02-08,BNT
-Stankov21,BNT_P5,NULL,2021-02-08,BNT
-Stankov21,BNT_P6,NULL,2021-02-08,BNT
-Stankov21,BNT_P7,NULL,2021-02-08,BNT
-Stankov21,BNT_P8,NULL,2021-02-08,BNT
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Stankov21,CP,CP,NULL,2020-12-31,CP
+Stankov21,BNT_1st_dose,BNT_1st_dose,NULL,2021-01-18,BNT_1st_dose
+Stankov21,BNT_P4,BNT_P4,NULL,2021-02-08,BNT
+Stankov21,BNT_P5,BNT_P5,NULL,2021-02-08,BNT
+Stankov21,BNT_P6,BNT_P6,NULL,2021-02-08,BNT
+Stankov21,BNT_P7,BNT_P7,NULL,2021-02-08,BNT
+Stankov21,BNT_P8,BNT_P8,NULL,2021-02-08,BNT

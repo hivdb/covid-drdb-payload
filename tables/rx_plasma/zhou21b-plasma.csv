@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Zhou21b,CP,NULL,2020-07-16,CP
-Zhou21b,BNT162b2,NULL,2021-01-31,BNT
-Zhou21b,AZD1222,NULL,2021-01-31,AZD
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Zhou21b,CP,CP,NULL,2020-07-16,CP
+Zhou21b,BNT162b2,BNT162b2,NULL,2021-01-31,BNT
+Zhou21b,AZD1222,AZD1222,NULL,2021-01-31,AZD

@@ -1,0 +1,16 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Wu21b,mRNA-1273_mice,1st dose,~,2020-07-01,USA,NULL,mRNA-1273,NULL
+Wu21b,mRNA-1273_mice,1st dose isolation,~,2020-07-21,USA,NULL,NULL,NULL
+Wu21b,mRNA-1273_mice,2nd dose,~,2020-07-22,USA,NULL,mRNA-1273,NULL
+Wu21b,mRNA-1273_mice,2nd dose isolation,~,2020-08-05,USA,NULL,NULL,NULL
+Wu21b,mRNA-1273_mice,2nd dose isolation,~,2021-01-28,USA,NULL,NULL,NULL
+Wu21b,mRNA-1273_mice,3rd dose,~,2021-01-29,USA,NULL,mRNA-1273.351,NULL
+Wu21b,mRNA-1273_mice,3rd dose isolation,~,2021-02-18,USA,NULL,NULL,NULL
+Wu21b,mRNA-1273.351_mice,1st dose,~,2021-01-01,USA,NULL,mRNA-1273.351,NULL
+Wu21b,mRNA-1273.351_mice,1st dose isolation,~,2021-01-15,USA,NULL,NULL,NULL
+Wu21b,mRNA-1273.351_mice,2nd dose,~,2021-01-22,USA,NULL,mRNA-1273.351,NULL
+Wu21b,mRNA-1273.351_mice,1st dose isolation,~,2021-02-05,USA,NULL,NULL,NULL
+Wu21b,mRNA-1273.211_mice,1st dose,~,2021-01-01,USA,NULL,mRNA-1273.211,NULL
+Wu21b,mRNA-1273.211_mice,1st dose isolation,~,2021-01-15,USA,NULL,NULL,NULL
+Wu21b,mRNA-1273.211_mice,2nd dose,~,2021-01-22,USA,NULL,mRNA-1273.211,NULL
+Wu21b,mRNA-1273.211_mice,1st dose isolation,~,2021-02-05,USA,NULL,NULL,NULL

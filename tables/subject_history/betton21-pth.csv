@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Betton21,CP,infection,~,2020-04-07,France,B.1 full genome,NULL,Hospitalized
+Betton21,CP,isolation,~,2020-07-07,France,B.1 full genome,NULL,Hospitalized
+Betton21,CP,isolation,~,2020-10-07,France,B.1 full genome,NULL,Hospitalized

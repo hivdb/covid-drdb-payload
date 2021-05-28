@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Dejnirattisai21,CP,NULL,2020-06-01,CP
-Dejnirattisai21,BNT162b2_14d,NULL,2020-12-21,BNT
-Dejnirattisai21,AZD1222_28d,NULL,2020-12-21,AZD
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Dejnirattisai21,CP,CP,NULL,2020-06-01,CP
+Dejnirattisai21,BNT162b2_14d,BNT,NULL,2020-12-21,BNT
+Dejnirattisai21,AZD1222_28d,AZD,NULL,2020-12-21,AZD

@@ -1,7 +1,0 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Pegu21,mRNA-1273,1st dose,~,2020-06-01,"USA WA, GA",NULL,mRNA-1273,NULL
-Pegu21,mRNA-1273,1st dose isolation,~,2020-06-29,"USA WA, GA",NULL,mRNA-1273,NULL
-Pegu21,mRNA-1273,2nd dose,~,2020-06-29,"USA WA, GA",NULL,mRNA-1273,NULL
-Pegu21,mRNA-1273,2nd dose isolation,~,2020-07-13,"USA WA, GA",NULL,mRNA-1273,NULL
-Pegu21,mRNA-1273,2nd dose isolation,~,2020-09-27,"USA WA, GA",NULL,mRNA-1273,NULL
-Pegu21,mRNA-1273,2nd dose isolation,~,2020-12-26,"USA WA, GA",NULL,mRNA-1273,NULL

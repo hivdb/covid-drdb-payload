@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Chen21b,Patient,infection,~,2020-04-20,USA,B.1 full genome,NULL,Severe
+Chen21b,Patient,isolation,~,2020-04-20,USA,B.1 full genome,NULL,Severe
+Chen21b,Patient,isolation,~,2020-04-27,USA,B.1 full genome,NULL,Severe
+Chen21b,Patient,isolation,~,2020-05-11,USA,B.1 full genome,NULL,Severe
+Chen21b,Patient,isolation,~,2020-05-17,USA,B.1 full genome,NULL,Severe
+Chen21b,Patient,isolation,~,2020-05-24,USA,B.1 full genome,NULL,Severe
+Chen21b,Patient,isolation,~,2020-05-31,USA,B.1 full genome,NULL,Severe

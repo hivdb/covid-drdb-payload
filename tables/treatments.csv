@@ -669,7 +669,6 @@ Edara21b,CP_2nd_23
 Edara21b,CP_2nd_24
 Edara21b,CP_2nd_25
 Edara21b,mRNA-1273
-Edara21b,mRNA-1273_binding
 Edara21c,CP_1
 Edara21c,CP_2
 Edara21c,CP_3
@@ -1429,7 +1428,7 @@ Wang21f,CP
 Wang21g,CP
 Wang21g,BBIBP-CorV
 Wang21g,CoronaVac
-Weigang21,CP_patient_2
+Weigang21,CP_subject_2
 Weigang21,CP_WT_mice
 Weigang21,CP_d105_mice
 Weigang21,BNT162b2
@@ -1471,10 +1470,10 @@ Widera21,BNT162b2
 Widera21,BNT162b2_infected
 Wu21,Moderna_36d
 Wu21b,mRNA-1273_mice
-Wu21b,mRNA-1273.351_mice
-Wu21b,mRNA-1273.211_mice
 Wu21b,mRNA-1273_mice_2nd
 Wu21b,mRNA-1273_mice_3rd
+Wu21b,mRNA-1273.351_mice
+Wu21b,mRNA-1273.211_mice
 Xie21,BNT162b2_1
 Xie21,BNT162b2_2
 Xie21,BNT162b2_3

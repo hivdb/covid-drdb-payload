@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Tada21c,CP,NULL,2021-03-01,CP
-Tada21c,BNT162b2,NULL,2021-03-28,BNT
-Tada21c,mRNA-1273,NULL,2021-03-28,BNT
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Tada21c,CP,CP,NULL,2021-03-01,CP
+Tada21c,BNT162b2,BNT,NULL,2021-03-28,BNT
+Tada21c,mRNA-1273,Mod,NULL,2021-03-28,BNT

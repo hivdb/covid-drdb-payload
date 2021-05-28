@@ -1,5 +1,0 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Weisblum20,COV-NY,infection,<,2020-04-24,USA NY,B.1 full genome,NULL,Mild
-Weisblum20,COV-NY,isolation,<,2020-05-08,USA NY,B.1 full genome,NULL,Mild
-Weisblum20,COV47,infection,<,2020-04-05,USA NY,B.1 full genome,NULL,Severe
-Weisblum20,COV47,isolation,<,2020-05-08,USA NY,B.1 full genome,NULL,Severe

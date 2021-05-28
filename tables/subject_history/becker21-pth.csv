@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Becker21,CP,infection,~,2020-08-01,Germany,B.1 full genome,NULL,NULL
+Becker21,CP,isolation,~,2020-08-15,Germany,B.1 full genome,NULL,NULL
+Becker21,BNT162b2,1st dose,~,2021-02-01,Germany,NULL,BNT162b2,NULL
+Becker21,BNT162b2,1st dose isolation,~,2021-02-18,Germany,NULL,BNT162b2,NULL
+Becker21,BNT162b2,2nd dose,~,2021-02-18,Germany,NULL,BNT162b2,NULL
+Becker21,BNT162b2,2nd dose saliva isolation,~,2021-02-27,Germany,NULL,BNT162b2,NULL
+Becker21,BNT162b2,2nd dose isolation,~,2021-03-02,Germany,NULL,BNT162b2,NULL

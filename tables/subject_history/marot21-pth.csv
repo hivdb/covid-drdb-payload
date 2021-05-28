@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Marot21,CP,isolation,<,2020-06-30,France,B.1 full genome,NULL,NULL
+Marot21,CP,isolation,<,2020-12-31,France,B.1 full genome,NULL,NULL
+Marot21,BNT162b2,1st dose,~,2021-01-01,France,NULL,BNT162b2,NULL
+Marot21,BNT162b2,1st dose isolation,~,2021-01-21,France,NULL,BNT162b2,NULL
+Marot21,BNT162b2,2nd dose,~,2021-01-21,France,NULL,BNT162b2,NULL
+Marot21,BNT162b2,2nd dose isolation,~,2021-01-28,France,NULL,BNT162b2,NULL

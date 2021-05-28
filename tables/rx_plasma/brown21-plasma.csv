@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Brown21,CP,NULL,2020-05-01,CP
-Brown21,CP_B.1.1.7,NULL,2020-12-31,CP_B.1.1.7
-Brown21,BNT162b2,NULL,2021-02-25,BNT
-Brown21,BNT162b2_infected,NULL,2021-02-25,BNT
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Brown21,CP,CP,NULL,2020-05-01,CP
+Brown21,CP_B.1.1.7,CP_B.1.1.7,NULL,2020-12-31,CP_B.1.1.7
+Brown21,BNT162b2,BNT162b2,NULL,2021-02-25,BNT
+Brown21,BNT162b2_infected,BNT162b2_infected,NULL,2021-02-25,BNT

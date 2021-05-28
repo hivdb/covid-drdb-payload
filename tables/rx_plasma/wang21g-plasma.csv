@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,titer,collection_date,cumulative_group
-Wang21g,CP,NULL,2021-03-01,CP
-Wang21g,BBIBP-CorV,NULL,2021-03-01,BBIBP-CorV
-Wang21g,CoronaVac,NULL,2021-03-01,CoronaVac
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Wang21g,CP,CP,NULL,2021-03-01,CP
+Wang21g,BBIBP-CorV,BBIBP-CorV,NULL,2021-03-01,BBIBP-CorV
+Wang21g,CoronaVac,CoronaVac,NULL,2021-03-01,CoronaVac

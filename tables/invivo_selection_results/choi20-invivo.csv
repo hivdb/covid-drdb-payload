@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,dosage,host,infection_name,gene,position,amino_acid,patient,sampling,num_patients,num_patients_with_mut,section,note,date_added
+﻿ref_name,rx_name,dosage,host,infection_name,gene,position,amino_acid,subject,sampling,num_subjects,num_subjects_with_mut,section,note,date_added
 Choi20,None,None,Human,NULL,S,141,del,Case report,D152,1,1,Figure 1B,prolonged infection,2021-01-27
 Choi20,None,None,Human,NULL,S,142,del,Case report,D152,1,1,Figure 1B,prolonged infection,2021-01-27
 Choi20,None,None,Human,NULL,S,143,del,Case report,D152,1,1,Figure 1B,prolonged infection,2021-01-27

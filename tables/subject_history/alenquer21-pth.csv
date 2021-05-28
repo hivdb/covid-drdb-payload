@@ -1,0 +1,21 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Alenquer21,CP_ID_5,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_6,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_7,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_8,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_12,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_9,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_10,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_11,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_13,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_14,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_15,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_16,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_19,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_20,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_21,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,CP_ID_22,isolation,~,2020-05-01,Portugal,B.1 full genome,NULL,NULL
+Alenquer21,BNT,1st dose,~,2021-02-01,Portugal,NULL,BNT162b2,NULL
+Alenquer21,BNT,1st dose isolation,~,2021-02-12,Portugal,NULL,BNT162b2,NULL
+Alenquer21,BNT,2nd dose,~,2021-02-21,Portugal,NULL,BNT162b2,NULL
+Alenquer21,BNT,2nd dose isolation,~,2021-03-05,Portugal,NULL,BNT162b2,NULL

@@ -1,9 +1,0 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Zhou21b,CP,infection,~,2020-06-01,UK,B.1 full genome,NULL,NULL
-Zhou21b,CP,isolation,~,2020-07-16,UK,B.1 full genome,NULL,NULL
-Zhou21b,BNT162b2,1st dose,~,2021-01-01,UK,NULL,BNT162b2,NULL
-Zhou21b,BNT162b2,2nd dose,~,2021-01-22,UK,NULL,BNT162b2,NULL
-Zhou21b,BNT162b2,2nd dose isolation,~,2021-01-31,UK,NULL,BNT162b2,NULL
-Zhou21b,AZD1222,1st dose,~,2020-11-01,UK,NULL,AZD1222,NULL
-Zhou21b,AZD1222,2nd dose,~,2021-01-17,UK,NULL,AZD1222,NULL
-Zhou21b,AZD1222,2nd dose isolation,~,2021-01-31,UK,NULL,AZD1222,NULL
