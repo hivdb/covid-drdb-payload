@@ -1,6 +1,6 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Tada21c,CP,isolation,<,2021-03-01,USA NY,NULL,NULL,NULL
-Tada21c,BNT,2nd dose,~,2021-03-01,USA NY,NULL,NULL,2
-Tada21c,BNT,2nd dose isolation,~,2021-03-28,USA NY,NULL,NULL,2
-Tada21c,Mod,2nd dose,~,2021-03-01,USA NY,NULL,NULL,2
-Tada21c,Mod,2nd dose isolation,~,2021-03-28,USA NY,NULL,NULL,2
+Tada21c,BNT,2nd dose,~,2021-03-01,USA NY,NULL,BNT162b2,NULL
+Tada21c,BNT,2nd dose isolation,~,2021-03-28,USA NY,NULL,BNT162b2,NULL
+Tada21c,Mod,2nd dose,~,2021-03-01,USA NY,NULL,mRNA-1273,NULL
+Tada21c,Mod,2nd dose isolation,~,2021-03-28,USA NY,NULL,mRNA-1273,NULL

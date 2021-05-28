@@ -1,0 +1,19 @@
+ref_name,rx_name,vaccine_name
+# animal model data, currently not in derived table
+Edara21b,mRNA-1273_binding,mRNA-1273
+Wu21b,mRNA-1273_mice,mRNA-1273
+Wu21b,mRNA-1273.351_mice,mRNA-1273
+Wu21b,mRNA-1273.211_mice,mRNA-1273
+Wu21b,mRNA-1273_mice_2nd,mRNA-1273
+Wu21b,mRNA-1273_mice_3rd,mRNA-1273
+Li21c,CP_RBD_Immu_1,NULL
+Li21c,CP_RBD_Immu_2,NULL
+Li21c,CP_RBD_Immu_3,NULL
+Weigang21,CP_WT_mice,NULL
+Weigang21,CP_d105_mice,NULL
+
+# from excluded data
+Jalkanen21,BNT_infected_1st,BNT162b2
+Jalkanen21,BNT_infected_2nd,BNT162b2
+Jalkanen21,BNT_1st,BNT162b2
+Jalkanen21,BNT_2nd,BNT162b2

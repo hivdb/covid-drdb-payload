@@ -1,10 +1,10 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Wang21,CP,infection,~,2020-06-28,USA,B.1 full genome,NULL,NULL
 Wang21,CP,isolation,~,2020-08-06,USA,B.1 full genome,NULL,NULL
 Wang21,CP,isolation,~,2020-12-31,USA,B.1 full genome,NULL,NULL
-Wang21,Mod,1st dose,~,2020-10-19,USA,NULL,NULL,1
-Wang21,Mod,2nd dose,~,2020-11-02,USA,NULL,NULL,2
-Wang21,Mod,2nd dose isolation,~,2020-12-28,USA,NULL,NULL,2
-Wang21,BNT,1st dose,~,2020-10-19,USA,NULL,NULL,1
-Wang21,BNT,2nd dose,~,2020-11-02,USA,NULL,NULL,2
-Wang21,BNT,2nd dose isolation,~,2020-12-28,USA,NULL,NULL,2
+Wang21,Mod,1st dose,~,2020-10-19,USA,NULL,mRNA-1273,NULL
+Wang21,Mod,2nd dose,~,2020-11-02,USA,NULL,mRNA-1273,NULL
+Wang21,Mod,2nd dose isolation,~,2020-12-28,USA,NULL,mRNA-1273,NULL
+Wang21,BNT,1st dose,~,2020-10-19,USA,NULL,BNT162b2,NULL
+Wang21,BNT,2nd dose,~,2020-11-02,USA,NULL,BNT162b2,NULL
+Wang21,BNT,2nd dose isolation,~,2020-12-28,USA,NULL,BNT162b2,NULL

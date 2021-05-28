@@ -1,4 +1,4 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
-Ikegame21,Sputnik V,1st dose,~,2020-12-20,Argentina,NULL,NULL,1
-Ikegame21,Sputnik V,2nd dose,~,2021-01-20,Argentina,NULL,NULL,2
-Ikegame21,Sputnik V,2nd dose isolation,~,2021-02-20,Argentina,NULL,NULL,2
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Ikegame21,Sputnik V,1st dose,~,2020-12-20,Argentina,NULL,Sputnik V,NULL
+Ikegame21,Sputnik V,2nd dose,~,2021-01-20,Argentina,NULL,Sputnik V,NULL
+Ikegame21,Sputnik V,2nd dose isolation,~,2021-02-20,Argentina,NULL,Sputnik V,NULL

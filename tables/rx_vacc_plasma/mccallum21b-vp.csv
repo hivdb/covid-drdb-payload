@@ -1,5 +1,0 @@
-﻿ref_name,rx_name,vaccine_name,timing,dosage,collection_date,cumulative_group
-McCallum21b,BNT162b2,BNT162b2,1,2,2021-01-29,BNT_PSEUDO_HIV
-McCallum21b,BNT_infected,BNT162b2,1,2,2021-01-29,BNT_infected
-McCallum21b,BNT_uninfected,BNT162b2,1,2,2021-01-29,BNT
-McCallum21b,mRNA-1273,mRNA-1273,1,2,2021-01-29,Mod

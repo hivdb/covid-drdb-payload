@@ -1,4 +1,4 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Zhang21c,CP,infection,~,2020-06-01,China,B.1 full genome,NULL,NULL
 Zhang21c,CP,isolation,~,2020-08-15,China,B.1 full genome,NULL,NULL
 Zhang21c,CP_B.1.1.7,infection,~,2021-01-01,China,B.1.1.7 full genome,NULL,NULL

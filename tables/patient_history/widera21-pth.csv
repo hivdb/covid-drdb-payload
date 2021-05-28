@@ -1,8 +1,8 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
-Widera21,CP,infection,<,2021-02-24,Germany,Unknown,NULL,NULL
-Widera21,CP,isolation,<,2021-02-24,Germany,Unknown,NULL,NULL
-Widera21,BNT162b2,2nd dose,<,2021-02-24,Germany,NULL,NULL,2
-Widera21,BNT162b2,2nd dose isolation,<,2021-02-24,Germany,NULL,NULL,2
-Widera21,BNT162b2_infected,infection,<,2021-02-24,Germany,Unknown,NULL,NULL
-Widera21,BNT162b2_infected,2nd dose,<,2021-02-24,Germany,Unknown,NULL,2
-Widera21,BNT162b2_infected,2nd dose isolation,<,2021-02-24,Germany,Unknown,NULL,2
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Widera21,CP,infection,<,2021-02-24,Germany,NULL,NULL,NULL
+Widera21,CP,isolation,<,2021-02-24,Germany,NULL,NULL,NULL
+Widera21,BNT162b2,2nd dose,<,2021-02-24,Germany,NULL,BNT162b2,NULL
+Widera21,BNT162b2,2nd dose isolation,<,2021-02-24,Germany,NULL,BNT162b2,NULL
+Widera21,BNT162b2_infected,infection,<,2021-02-24,Germany,NULL,NULL,NULL
+Widera21,BNT162b2_infected,2nd dose,<,2021-02-24,Germany,NULL,BNT162b2,NULL
+Widera21,BNT162b2_infected,2nd dose isolation,<,2021-02-24,Germany,NULL,BNT162b2,NULL

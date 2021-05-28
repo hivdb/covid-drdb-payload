@@ -1,4 +1,4 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Andreano20b,PT004,isolation,<,2020-07-01,Italy,Wuhan-Hu-1,NULL,NULL
 Andreano20b,PT005,isolation,<,2020-07-01,Italy,Wuhan-Hu-1,NULL,NULL
 Andreano20b,PT006,isolation,<,2020-07-01,Italy,Wuhan-Hu-1,NULL,NULL

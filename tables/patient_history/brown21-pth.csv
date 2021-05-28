@@ -1,8 +1,9 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
-Brown21,CP,infection,~,2020-04-10,UK,B.1 full genome,Mild,NULL
-Brown21,CP,isolation,~,2020-05-01,UK,B.1 full genome,Mild,NULL
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Brown21,CP,infection,~,2020-04-10,UK,B.1 full genome,NULL,Mild
+Brown21,CP,isolation,~,2020-05-01,UK,B.1 full genome,NULL,Mild
 Brown21,CP_B.1.1.7,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Brown21,BNT162b2,1st dose,~,2021-02-01,UK,NULL,NULL,1
-Brown21,BNT162b2,1st dose isolation,~,2021-02-25,UK,NULL,NULL,1
-Brown21,BNT162b2_infected,1st dose,~,2021-02-01,UK,Unknown,NULL,1
-Brown21,BNT162b2_infected,1st dose isolation,~,2021-02-25,UK,Unknown,NULL,1
+Brown21,BNT162b2,1st dose,~,2021-02-01,UK,NULL,BNT162b2,NULL
+Brown21,BNT162b2,1st dose isolation,~,2021-02-25,UK,NULL,BNT162b2,NULL
+Brown21,BNT162b2_infected,infection,<,2021-01-31,UK,NULL,NULL,NULL
+Brown21,BNT162b2_infected,1st dose,~,2021-02-01,UK,NULL,BNT162b2,NULL
+Brown21,BNT162b2_infected,1st dose isolation,~,2021-02-25,UK,NULL,BNT162b2,NULL

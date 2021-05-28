@@ -1,4 +1,4 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Li21c,CP_CSC1,isolation,<,2020-07-01,China,Wuhan-Hu-1,NULL,NULL
 Li21c,CP_CSC2,isolation,<,2020-07-01,China,Wuhan-Hu-1,NULL,NULL
 Li21c,CP_CSC3,isolation,<,2020-07-01,China,Wuhan-Hu-1,NULL,NULL
@@ -44,3 +44,6 @@ Li21c,CP_NH9.3,isolation,<,2020-07-01,China,Wuhan-Hu-1,NULL,NULL
 Li21c,CP_NH10.1,isolation,<,2020-07-01,China,Wuhan-Hu-1,NULL,NULL
 Li21c,CP_NH10.2,isolation,<,2020-07-01,China,Wuhan-Hu-1,NULL,NULL
 Li21c,CP_NH10.3,isolation,<,2020-07-01,China,Wuhan-Hu-1,NULL,NULL
+Li21c,CP_RBD_Immu_1,isolation,<,2020-07-01,China,NULL,NULL,NULL
+Li21c,CP_RBD_Immu_2,isolation,<,2020-07-01,China,NULL,NULL,NULL
+Li21c,CP_RBD_Immu_3,isolation,<,2020-07-01,China,NULL,NULL,NULL

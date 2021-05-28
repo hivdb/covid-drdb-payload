@@ -1,5 +1,5 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
-Wibmer21,CP_Titer_GT400,infection,<,2020-09-02,South Africa,B.1 full genome,Hospitalized,NULL
-Wibmer21,CP_Titer_GT400,isolation,<,2020-10-01,South Africa,B.1 full genome,Hospitalized,NULL
-Wibmer21,CP_Titer_LT400,infection,<,2020-09-02,South Africa,B.1 full genome,Hospitalized,NULL
-Wibmer21,CP_Titer_LT400,isolation,<,2020-10-01,South Africa,B.1 full genome,Hospitalized,NULL
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Wibmer21,CP_Titer_GT400,infection,<,2020-09-02,South Africa,B.1 full genome,NULL,Hospitalized
+Wibmer21,CP_Titer_GT400,isolation,<,2020-10-01,South Africa,B.1 full genome,NULL,Hospitalized
+Wibmer21,CP_Titer_LT400,infection,<,2020-09-02,South Africa,B.1 full genome,NULL,Hospitalized
+Wibmer21,CP_Titer_LT400,isolation,<,2020-10-01,South Africa,B.1 full genome,NULL,Hospitalized

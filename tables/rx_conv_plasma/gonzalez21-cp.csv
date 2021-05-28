@@ -1,4 +1,0 @@
-﻿ref_name,rx_name,infection,timing,titer,severity,collection_date,cumulative_group
-Gonzalez21,CP,B.1 full genome,NULL,NULL,NULL,NULL,CP
-Gonzalez21,CP_Severe,B.1 full genome,1,NULL,Severe,2020-07-01,CP_Severe
-Gonzalez21,CP_Mild,B.1 full genome,6,NULL,Mild,2020-12-31,CP_Mild

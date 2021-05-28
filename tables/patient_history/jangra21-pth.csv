@@ -1,19 +1,19 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
-Jangra21,BNT_V1,1st dose,~,2020-10-01,USA,NULL,NULL,1
-Jangra21,BNT_V1,2nd dose,~,2020-10-15,USA,NULL,NULL,2
-Jangra21,BNT_V1,2nd dose isolation,~,2020-12-08,USA,NULL,NULL,2
-Jangra21,BNT_V2,1st dose,~,2020-10-01,USA,NULL,NULL,1
-Jangra21,BNT_V2,2nd dose,~,2020-10-15,USA,NULL,NULL,2
-Jangra21,BNT_V2,2nd dose isolation,~,2020-11-17,USA,NULL,NULL,2
-Jangra21,BNT_V3,1st dose,~,2020-10-01,USA,NULL,NULL,1
-Jangra21,BNT_V3,2nd dose,~,2020-10-15,USA,NULL,NULL,2
-Jangra21,BNT_V3,2nd dose isolation,~,2020-11-17,USA,NULL,NULL,2
-Jangra21,BNT_V4,1st dose,~,2020-10-01,USA,NULL,NULL,1
-Jangra21,BNT_V4,2nd dose,~,2020-10-15,USA,NULL,NULL,2
-Jangra21,BNT_V4,2nd dose isolation,~,2020-11-19,USA,NULL,NULL,2
-Jangra21,BNT_V5,1st dose,~,2020-10-01,USA,NULL,NULL,1
-Jangra21,BNT_V5,2nd dose,~,2020-10-15,USA,NULL,NULL,2
-Jangra21,BNT_V5,2nd dose isolation,~,2020-11-18,USA,NULL,NULL,2
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Jangra21,BNT_V1,1st dose,~,2020-10-01,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V1,2nd dose,~,2020-10-15,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V1,2nd dose isolation,~,2020-12-08,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V2,1st dose,~,2020-10-01,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V2,2nd dose,~,2020-10-15,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V2,2nd dose isolation,~,2020-11-17,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V3,1st dose,~,2020-10-01,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V3,2nd dose,~,2020-10-15,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V3,2nd dose isolation,~,2020-11-17,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V4,1st dose,~,2020-10-01,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V4,2nd dose,~,2020-10-15,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V4,2nd dose isolation,~,2020-11-19,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V5,1st dose,~,2020-10-01,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V5,2nd dose,~,2020-10-15,USA,NULL,BNT162b2,NULL
+Jangra21,BNT_V5,2nd dose isolation,~,2020-11-18,USA,NULL,BNT162b2,NULL
 Jangra21,CP_P1,infection,<,2020-04-15,USA,WA1,NULL,NULL
 Jangra21,CP_P1,isolation,<,2020-12-31,USA,WA1,NULL,NULL
 Jangra21,CP_P2,infection,<,2020-12-31,USA,WA1,NULL,NULL

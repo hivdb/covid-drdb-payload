@@ -1,61 +1,61 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
-West21,CP38,infection,<,2020-07-05,USA,B.1 full genome,Mild,NULL
-West21,CP38,isolation,<,2020-08-12,USA,B.1 full genome,Mild,NULL
-West21,CP38,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,CP40,infection,<,2020-07-21,USA,B.1 full genome,Mild,NULL
-West21,CP40,isolation,<,2020-08-13,USA,B.1 full genome,Mild,NULL
-West21,CP40,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,CP76,infection,<,2020-07-12,USA,B.1 full genome,Mild,NULL
-West21,CP76,isolation,<,2020-08-15,USA,B.1 full genome,Mild,NULL
-West21,CP76,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,CP99,infection,<,2020-07-12,USA,B.1 full genome,Mild,NULL
-West21,CP99,isolation,<,2020-08-10,USA,B.1 full genome,Mild,NULL
-West21,CP99,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,CP233,infection,<,2020-07-10,USA,B.1 full genome,Mild,NULL
-West21,CP233,isolation,<,2020-08-20,USA,B.1 full genome,Mild,NULL
-West21,CP233,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,CP328,infection,<,2020-07-13,USA,B.1 full genome,Mild,NULL
-West21,CP328,isolation,<,2020-09-13,USA,B.1 full genome,Mild,NULL
-West21,CP328,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,CP352,infection,<,2020-07-19,USA,B.1 full genome,Mild,NULL
-West21,CP352,isolation,<,2020-08-31,USA,B.1 full genome,Mild,NULL
-West21,CP352,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,CP403,infection,<,2020-08-11,USA,B.1 full genome,Hospitalized,NULL
-West21,CP403,isolation,<,2020-09-19,USA,B.1 full genome,Hospitalized,NULL
-West21,CP403,isolation,<,2021-02-01,USA,B.1 full genome,Hospitalized,NULL
-West21,CP437,infection,<,2020-07-24,USA,B.1 full genome,Mild,NULL
-West21,CP437,isolation,<,2020-08-27,USA,B.1 full genome,Mild,NULL
-West21,CP437,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,CP537,infection,<,2020-08-07,USA,B.1 full genome,Mild,NULL
-West21,CP537,isolation,<,2020-09-21,USA,B.1 full genome,Mild,NULL
-West21,CP537,isolation,<,2021-02-01,USA,B.1 full genome,Mild,NULL
-West21,MOD1,1st dose,<,2020-11-19,USA,NULL,NULL,1
-West21,MOD1,2nd dose,<,2020-12-17,USA,NULL,NULL,2
-West21,MOD1,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,MOD2,1st dose,<,2020-12-01,USA,NULL,NULL,1
-West21,MOD2,2nd dose,<,2021-01-04,USA,NULL,NULL,2
-West21,MOD2,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,MOD3,1st dose,<,2020-11-15,USA,NULL,NULL,1
-West21,MOD3,2nd dose,<,2020-12-16,USA,NULL,NULL,2
-West21,MOD3,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,MOD6,1st dose,<,2020-11-04,USA,NULL,NULL,1
-West21,MOD6,2nd dose,<,2020-12-02,USA,NULL,NULL,2
-West21,MOD6,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,MOD7,1st dose,<,2020-11-09,USA,NULL,NULL,1
-West21,MOD7,2nd dose,<,2020-12-14,USA,NULL,NULL,2
-West21,MOD7,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,MOD8,1st dose,<,2020-10-28,USA,NULL,NULL,1
-West21,MOD8,2nd dose,<,2020-11-30,USA,NULL,NULL,2
-West21,MOD8,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,PFZ12,1st dose,<,2020-11-10,USA,NULL,NULL,1
-West21,PFZ12,2nd dose,<,2020-12-01,USA,NULL,NULL,2
-West21,PFZ12,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,PFZ16,1st dose,<,2020-10-05,USA,NULL,NULL,1
-West21,PFZ16,2nd dose,<,2020-10-27,USA,NULL,NULL,2
-West21,PFZ16,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,C001,1st dose,<,2020-12-06,USA,NULL,NULL,1
-West21,C001,2nd dose,<,2020-12-28,USA,NULL,NULL,2
-West21,C001,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
-West21,C004,1st dose,<,2020-11-02,USA,NULL,NULL,1
-West21,C004,2nd dose,<,2020-11-23,USA,NULL,NULL,2
-West21,C004,2nd dose isolation,<,2021-02-01,USA,NULL,NULL,2
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+West21,CP38,infection,<,2020-07-05,USA,B.1 full genome,NULL,Mild
+West21,CP38,isolation,<,2020-08-12,USA,B.1 full genome,NULL,Mild
+West21,CP38,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,CP40,infection,<,2020-07-21,USA,B.1 full genome,NULL,Mild
+West21,CP40,isolation,<,2020-08-13,USA,B.1 full genome,NULL,Mild
+West21,CP40,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,CP76,infection,<,2020-07-12,USA,B.1 full genome,NULL,Mild
+West21,CP76,isolation,<,2020-08-15,USA,B.1 full genome,NULL,Mild
+West21,CP76,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,CP99,infection,<,2020-07-12,USA,B.1 full genome,NULL,Mild
+West21,CP99,isolation,<,2020-08-10,USA,B.1 full genome,NULL,Mild
+West21,CP99,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,CP233,infection,<,2020-07-10,USA,B.1 full genome,NULL,Mild
+West21,CP233,isolation,<,2020-08-20,USA,B.1 full genome,NULL,Mild
+West21,CP233,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,CP328,infection,<,2020-07-13,USA,B.1 full genome,NULL,Mild
+West21,CP328,isolation,<,2020-09-13,USA,B.1 full genome,NULL,Mild
+West21,CP328,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,CP352,infection,<,2020-07-19,USA,B.1 full genome,NULL,Mild
+West21,CP352,isolation,<,2020-08-31,USA,B.1 full genome,NULL,Mild
+West21,CP352,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,CP403,infection,<,2020-08-11,USA,B.1 full genome,NULL,Hospitalized
+West21,CP403,isolation,<,2020-09-19,USA,B.1 full genome,NULL,Hospitalized
+West21,CP403,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Hospitalized
+West21,CP437,infection,<,2020-07-24,USA,B.1 full genome,NULL,Mild
+West21,CP437,isolation,<,2020-08-27,USA,B.1 full genome,NULL,Mild
+West21,CP437,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,CP537,infection,<,2020-08-07,USA,B.1 full genome,NULL,Mild
+West21,CP537,isolation,<,2020-09-21,USA,B.1 full genome,NULL,Mild
+West21,CP537,isolation,<,2021-02-01,USA,B.1 full genome,NULL,Mild
+West21,MOD1,1st dose,<,2020-11-19,USA,NULL,mRNA-1273,NULL
+West21,MOD1,2nd dose,<,2020-12-17,USA,NULL,mRNA-1273,NULL
+West21,MOD1,2nd dose isolation,<,2021-02-01,USA,NULL,mRNA-1273,NULL
+West21,MOD2,1st dose,<,2020-12-01,USA,NULL,mRNA-1273,NULL
+West21,MOD2,2nd dose,<,2021-01-04,USA,NULL,mRNA-1273,NULL
+West21,MOD2,2nd dose isolation,<,2021-02-01,USA,NULL,mRNA-1273,NULL
+West21,MOD3,1st dose,<,2020-11-15,USA,NULL,mRNA-1273,NULL
+West21,MOD3,2nd dose,<,2020-12-16,USA,NULL,mRNA-1273,NULL
+West21,MOD3,2nd dose isolation,<,2021-02-01,USA,NULL,mRNA-1273,NULL
+West21,MOD6,1st dose,<,2020-11-04,USA,NULL,mRNA-1273,NULL
+West21,MOD6,2nd dose,<,2020-12-02,USA,NULL,mRNA-1273,NULL
+West21,MOD6,2nd dose isolation,<,2021-02-01,USA,NULL,mRNA-1273,NULL
+West21,MOD7,1st dose,<,2020-11-09,USA,NULL,mRNA-1273,NULL
+West21,MOD7,2nd dose,<,2020-12-14,USA,NULL,mRNA-1273,NULL
+West21,MOD7,2nd dose isolation,<,2021-02-01,USA,NULL,mRNA-1273,NULL
+West21,MOD8,1st dose,<,2020-10-28,USA,NULL,mRNA-1273,NULL
+West21,MOD8,2nd dose,<,2020-11-30,USA,NULL,mRNA-1273,NULL
+West21,MOD8,2nd dose isolation,<,2021-02-01,USA,NULL,mRNA-1273,NULL
+West21,PFZ12,1st dose,<,2020-11-10,USA,NULL,BNT162b2,NULL
+West21,PFZ12,2nd dose,<,2020-12-01,USA,NULL,BNT162b2,NULL
+West21,PFZ12,2nd dose isolation,<,2021-02-01,USA,NULL,BNT162b2,NULL
+West21,PFZ16,1st dose,<,2020-10-05,USA,NULL,BNT162b2,NULL
+West21,PFZ16,2nd dose,<,2020-10-27,USA,NULL,BNT162b2,NULL
+West21,PFZ16,2nd dose isolation,<,2021-02-01,USA,NULL,BNT162b2,NULL
+West21,C001,1st dose,<,2020-12-06,USA,NULL,BNT162b2,NULL
+West21,C001,2nd dose,<,2020-12-28,USA,NULL,BNT162b2,NULL
+West21,C001,2nd dose isolation,<,2021-02-01,USA,NULL,BNT162b2,NULL
+West21,C004,1st dose,<,2020-11-02,USA,NULL,BNT162b2,NULL
+West21,C004,2nd dose,<,2020-11-23,USA,NULL,BNT162b2,NULL
+West21,C004,2nd dose isolation,<,2021-02-01,USA,NULL,BNT162b2,NULL

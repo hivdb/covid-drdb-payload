@@ -1,4 +1,4 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
-Zuckerman21,BNT162b2,1st dose,<,2020-11-03,Israel,NULL,NULL,1
-Zuckerman21,BNT162b2,2nd dose,<,2020-11-17,Israel,NULL,NULL,2
-Zuckerman21,BNT162b2,2nd dose isolation,<,2020-12-01,Israel,NULL,NULL,2
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Zuckerman21,BNT162b2,1st dose,<,2020-11-03,Israel,NULL,BNT162b2,NULL
+Zuckerman21,BNT162b2,2nd dose,<,2020-11-17,Israel,NULL,BNT162b2,NULL
+Zuckerman21,BNT162b2,2nd dose isolation,<,2020-12-01,Israel,NULL,BNT162b2,NULL

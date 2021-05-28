@@ -1,4 +1,4 @@
-﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,severity,vaccine_dosage
-Monin-Aldama21,BNT162b2,1st dose,~,2020-12-10,UK,NULL,NULL,1
-Monin-Aldama21,BNT162b2,2nd dose,~,2020-12-31,UK,NULL,NULL,2
-Monin-Aldama21,BNT162b2,2nd dose isolation,~,2021-01-21,UK,NULL,NULL,2
+﻿ref_name,patient_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Monin-Aldama21,BNT162b2,1st dose,~,2020-12-10,UK,NULL,BNT162b2,NULL
+Monin-Aldama21,BNT162b2,2nd dose,~,2020-12-31,UK,NULL,BNT162b2,NULL
+Monin-Aldama21,BNT162b2,2nd dose isolation,~,2021-01-21,UK,NULL,BNT162b2,NULL
