@@ -106,6 +106,10 @@ Collier21,S2X620
 Copin21,Casirivimab
 Copin21,Imdevimab
 Copin21,Casirivimab+Imdevimab
+Copin21,Cilgavimab
+Copin21,Etesevimab
+Copin21,REGN10985
+Copin21,Tixagevimab
 Dejnirattisai21,Cilgavimab
 Dejnirattisai21,Tixagevimab
 Dejnirattisai21,AZD7442
@@ -325,6 +329,14 @@ Starr21,REGN10933
 Starr21,REGN10987
 Starr21,REGN10933 + REGN10987
 Starr21,LY-CoV016
+Starr21c,S2E12
+Starr21c,S2D106
+Starr21c,S2X58
+Starr21c,Vir-7831
+Starr21c,S2X35
+Starr21c,S2X227
+Starr21c,S2H58
+Starr21c,S2X16
 Supasa21,Cilgavimab
 Supasa21,Tixagevimab
 Supasa21,AZD7442
@@ -1528,20 +1540,8 @@ Bazykin21,None
 Khatamzas21,None
 Copin21,None
 Weigang21,None
-Copin21,REGN10985
-Copin21,Etesevimab
 Copin21,Bamlanivimab
-Copin21,Cilgavimab
-Copin21,Tixagevimab
 Copin21,Vir-7831
-Starr21c,S2E12
-Starr21c,S2D106
-Starr21c,S2X58
-Starr21c,Vir-7831
-Starr21c,S2X35
-Starr21c,S2X16
-Starr21c,S2H58
-Starr21c,S2X227
 Starr21b,LY-CoV555
 Greaney21b,LY-CoV016
 Starr21b,LY-CoV555+LY-CoV016
