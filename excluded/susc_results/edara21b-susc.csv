@@ -7,9 +7,6 @@ Edara21b,CP_acute_10,B.1 full genome,B.1.351 full genome,1,Table S1,=,4.8,50,NUL
 Edara21b,CP_acute_15,B.1 full genome,B.1.351 full genome,1,Table S1,NULL,NULL,50,NULL,both,1,authentic virus,2021-05-11
 Edara21b,CP_acute_16,B.1 full genome,B.1.351 full genome,1,Table S1,NULL,NULL,50,NULL,both,1,authentic virus,2021-05-11
 Edara21b,CP_acute_18,B.1 full genome,B.1.351 full genome,1,Table S1,=,0.9,50,NULL,experimental,1,authentic virus,2021-05-11
-Edara21b,CP_20,B.1 full genome,B.1.351 full genome,1,Table S1,>,6.8,50,NULL,experimental,1,authentic virus,2021-05-11
-Edara21b,CP_2nd_20,B.1 full genome,B.1.351 full genome,1,Table S1,>,1.0,50,NULL,experimental,1,authentic virus,2021-05-11
-Edara21b,CP_2nd_23,B.1 full genome,B.1.351 full genome,1,Table S1,>,1.6,50,NULL,experimental,1,authentic virus,2021-05-11
 Edara21b,CP_acute_binding_1,B.1 full genome,B.1.351 full genome,1,Table S1,=,1.4,50,NULL,NULL,1,IgG binding,2021-05-11
 Edara21b,CP_acute_binding_2,B.1 full genome,B.1.351 full genome,1,Table S1,=,1.0,50,NULL,NULL,1,IgG binding,2021-05-11
 Edara21b,CP_acute_binding_3,B.1 full genome,B.1.351 full genome,1,Table S1,=,2.7,50,NULL,NULL,1,IgG binding,2021-05-11
@@ -59,3 +56,16 @@ Edara21b,mRNA-1273_binding,B.1 full genome,B.1.351 full genome,16,Table S2,=,4.0
 Edara21b,mRNA-1273_binding,B.1 full genome,B.1.351 full genome,17,Table S2,=,4.0,50,NULL,NULL,1,IgG binding,2021-05-11
 Edara21b,mRNA-1273_binding,B.1 full genome,B.1.351 full genome,18,Table S2,=,4.7,50,NULL,NULL,1,IgG binding,2021-05-11
 Edara21b,mRNA-1273_binding,B.1 full genome,B.1.351 full genome,19,Table S2,=,3.5,50,NULL,NULL,1,IgG binding,2021-05-11
+Edara21b,CP_20,B.1 full genome,B.1.351 full genome,1,Table S1,>,6.8,50,NULL,experimental,1,authentic virus,2021-05-11
+Edara21b,CP_2nd_20,B.1 full genome,B.1.351 full genome,1,Table S1,>,1.0,50,NULL,both,1,authentic virus,2021-05-11
+Edara21b,CP_23,B.1 full genome,B.1.351 full genome,1,Table S1,>,1.6,50,NULL,experimental,1,authentic virus,2021-05-11
+Edara21b,CP_26,B.1 full genome,B.1.351 full genome,1,Table S1,>,4.6,50,NULL,experimental,1,authentic virus,2021-05-11
+Edara21b,CP_2nd_26,B.1 full genome,B.1.351 full genome,1,Table S1,>,1.0,50,NULL,both,1,authentic virus,2021-05-11
+Edara21b,CP_2nd_28,B.1 full genome,B.1.351 full genome,1,Table S1,>,2.8,50,NULL,experimental,1,authentic virus,2021-05-11
+Edara21b,CP_2nd_31,B.1 full genome,B.1.351 full genome,1,Table S1,>,5.7,50,NULL,experimental,1,authentic virus,2021-05-11
+Edara21b,CP_34,B.1 full genome,B.1.351 full genome,1,Table S1,>,5.3,50,NULL,experimental,1,authentic virus,2021-05-11
+Edara21b,CP_2nd_34,B.1 full genome,B.1.351 full genome,1,Table S1,>,1.0,50,NULL,both,1,authentic virus,2021-05-11
+Edara21b,CP_36,B.1 full genome,B.1.351 full genome,1,Table S1,>,1.5,50,NULL,experimental,1,authentic virus,2021-05-11
+Edara21b,CP_2nd_38,B.1 full genome,B.1.351 full genome,1,Table S1,>,2.0,50,NULL,experimental,1,authentic virus,2021-05-11
+Edara21b,CP_2nd_39,B.1 full genome,B.1.351 full genome,1,Table S1,>,1.0,50,NULL,both,1,authentic virus,2021-05-11
+Edara21b,CP_2nd_44,B.1 full genome,B.1.351 full genome,1,Table S1,>,6.1,50,NULL,experimental,1,authentic virus,2021-05-11
