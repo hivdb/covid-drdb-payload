@@ -1520,6 +1520,33 @@ B.1.617 full genome,ORF7a,43,Y
 B.1.617 full genome,ORF7a,82,A
 B.1.617 full genome,N,203,M
 B.1.617 full genome,N,377,Y
+B.1.617.2 full genome,nsp2,129,L
+B.1.617.2 full genome,PLpro,822,L
+B.1.617.2 full genome,PLpro,1274,Y
+B.1.617.2 full genome,nsp4,446,V
+B.1.617.2 full genome,nsp6,37,F
+B.1.617.2 full genome,nsp6,149,A
+B.1.617.2 full genome,RdRP,323,L
+B.1.617.2 full genome,RdRP,671,S
+B.1.617.2 full genome,nsp13,77,L
+B.1.617.2 full genome,nsp15,234,Y
+B.1.617.2 full genome,S,19,R
+B.1.617.2 full genome,S,156,G
+B.1.617.2 full genome,S,157,del
+B.1.617.2 full genome,S,158,del
+B.1.617.2 full genome,S,452,R
+B.1.617.2 full genome,S,478,K
+B.1.617.2 full genome,S,614,G
+B.1.617.2 full genome,S,681,R
+B.1.617.2 full genome,S,950,N
+B.1.617.2 full genome,M,82,T
+B.1.617.2 full genome,N,63,G
+B.1.617.2 full genome,N,377,Y
+B.1.617.2 full genome,N,203,M
+B.1.617.2 full genome,N,385,K
+B.1.617.2 full genome,ORF3a,26,L
+B.1.617.2 full genome,ORF7a,120,I
+B.1.617.2 full genome,ORF7a,82,V
 B.1.617.1_1675223,PLpro,749,I
 B.1.617.1_1675223,nsp6,77,A
 B.1.617.1_1675223,RdRP,323,L
