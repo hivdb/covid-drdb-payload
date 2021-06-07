@@ -104,3 +104,27 @@ FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:445A,1,CAS+IMD Page 31,=,5,0,NULL
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:476D,1,CAS+IMD Page 31,=,5,0,NULL,NULL,1,vsv pseudovirus,2021-06-07
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:446V,1,CAS+IMD Page 25,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
 FDA21,Casirivimab,Wuhan-Hu-1 Spike,S:446V,1,CAS+IMD Page 25,=,1,0,NULL,NULL,1,vsv pseudovirus,2021-03-18
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:340K,1,SOT Page 22,>,297,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:337R,1,SOT Page 22,>,276,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:337L,1,SOT Page 22,=,180,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:340A,1,SOT Page 22,>,100,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:340G,1,SOT Page 22,=,27,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:337H,1,SOT Page 22,=,7.5,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:337T,1,SOT Page 22,=,5.4,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,B.1.1.7 Spike,1,"SOT Page 22, Table 1",=,2.3,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,B.1.351 Spike:-242del-243del-244del,1,"SOT Page 22, Table 1",=,0.6,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,P.1 Spike,1,"SOT Page 22, Table 1",=,0.35,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,B.1.429 Spike,1,"SOT Page 22, Table 1",=,0.7,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,B.1.526 Spike,1,"SOT Page 22, Table 1",=,0.6,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,B.1.617 Spike,1,"SOT Page 22, Table 1",=,0.7,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1,B.1.1.7 full genome,1,"SOT Page 22, Table 1",=,3,50,NULL,NULL,1,authentic virus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1,B.1.351 full genome,1,"SOT Page 22, Table 1",=,1.2,50,NULL,NULL,1,authentic virus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1,P.1 full genome,1,"SOT Page 22, Table 1",=,1.6,50,NULL,NULL,1,authentic virus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:335F,1,SOT Page 23,=,0.8,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:339C,1,SOT Page 23,=,1.2,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:346I,1,SOT Page 23,=,1.7,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:356N,1,SOT Page 23,=,1.1,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:356R,1,SOT Page 23,=,0.8,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:357I,1,SOT Page 23,=,1,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:358V,1,SOT Page 23,=,0.7,50,NULL,NULL,1,pseudovirus,2021-06-07
+FDA21,Sotrovimab,Wuhan-Hu-1 Spike,S:359G,1,SOT Page 23,=,0.8,50,NULL,NULL,1,pseudovirus,2021-06-07
