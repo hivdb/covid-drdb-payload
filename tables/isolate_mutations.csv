@@ -1587,6 +1587,23 @@ B.1.617.2 Spike,S,478,K
 B.1.617.2 Spike,S,614,G
 B.1.617.2 Spike,S,681,R
 B.1.617.2 Spike,S,950,N
+B.1.617.2 Spike:+142D,S,19,R
+B.1.617.2 Spike:+142D,S,142,D
+B.1.617.2 Spike:+142D,S,156,G
+B.1.617.2 Spike:+142D,S,157,del
+B.1.617.2 Spike:+142D,S,158,del
+B.1.617.2 Spike:+142D,S,452,R
+B.1.617.2 Spike:+142D,S,478,K
+B.1.617.2 Spike:+142D,S,614,G
+B.1.617.2 Spike:+142D,S,681,R
+B.1.617.2 Spike:+142D,S,950,N
+B.1.617.2 Spike:+142D-156G-157del-158del,S,19,R
+B.1.617.2 Spike:+142D-156G-157del-158del,S,142,D
+B.1.617.2 Spike:+142D-156G-157del-158del,S,452,R
+B.1.617.2 Spike:+142D-156G-157del-158del,S,478,K
+B.1.617.2 Spike:+142D-156G-157del-158del,S,614,G
+B.1.617.2 Spike:+142D-156G-157del-158del,S,681,R
+B.1.617.2 Spike:+142D-156G-157del-158del,S,950,N
 B.1.617.3 Spike,S,19,R
 B.1.617.3 Spike,S,452,R
 B.1.617.3 Spike,S,484,Q
@@ -1627,6 +1644,11 @@ B.1.617 Spike,S,484,Q
 B.1.617 Spike,S,614,G
 B.1.617 Spike,S,681,R
 B.1.617 Spike,S,1071,H
+B.1.618 Spike,S,49,Y
+B.1.618 Spike,S,145,del
+B.1.618 Spike,S,146,del
+B.1.618 Spike,S,484,K
+B.1.618 Spike,S,614,G
 S:15S,S,15,S
 S:18P,S,18,P
 S:80N,S,80,N

@@ -357,6 +357,7 @@ Sb16,7KGK,RBD,RBM,structure
 Sb23,7A29,RBD,RBM,structure
 Sb45,7KGJ,RBD,RBM,structure
 Sb68,7KLW,RBD,RBD Core,structure
+Sotrovimab,6WPS,RBD,RBD Core Cluster I,structure
 Tixagevimab,NULL,RBD,RBM Class I,author
 Tixagevimab,7L7D,RBD,NULL,structure
 Ty1,6ZXN,RBD,RBM Class II,structure
@@ -365,7 +366,6 @@ VHH U,7KN5,RBD,RBD Core Cluster I,structure
 VHH V,7KN6,RBD,RBD Core Cluster I,structure
 VHH W,7KN7,RBD,RBD Core Cluster I,structure
 VHH-72,6WAQ,RBD,RBD Core Cluster II,structure
-Sotrovimab,6WPS,RBD,RBD Core Cluster I,structure
 Vir-7832,NULL,RBD,NULL,author
 X593,NULL,RBD,NULL,author
 XAV-19,NULL,RBD,RBM,author
