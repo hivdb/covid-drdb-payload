@@ -41,8 +41,8 @@ Planas21b,BNT_W8,B.1 full genome,B.1.1.7 full genome,1,Figure 4c,=,0.5,50,NULL,N
 Planas21b,BNT_W8,B.1 full genome,B.1.351 full genome,1,Figure 4c,=,14.1,50,NULL,NULL,16,authentic virus,2021-05-28
 Planas21b,BNT_W8,B.1 full genome,B.1.617.2 full genome,1,Figure 4c,=,1.7,50,NULL,NULL,16,authentic virus,2021-05-28
 Planas21b,BNT_W16,B.1 full genome,B.1.1.7 full genome,1,Figure 4c,=,0.8,50,NULL,NULL,13,authentic virus,2021-05-28
-Planas21b,BNT_W16,B.1 full genome,B.1.351 full genome,1,Figure 4c,=,45.2,50,NULL,NULL,13,authentic virus,2021-05-28
+Planas21b,BNT_W16,B.1 full genome,B.1.351 full genome,1,Figure 4c,>,45.2,50,NULL,NULL,13,authentic virus,2021-05-28
 Planas21b,BNT_W16,B.1 full genome,B.1.617.2 full genome,1,Figure 4c,=,3.2,50,NULL,NULL,13,authentic virus,2021-05-28
 Planas21b,AZD_W10,B.1 full genome,B.1.1.7 full genome,1,Figure 4c,=,1.1,50,NULL,NULL,12,authentic virus,2021-05-28
-Planas21b,AZD_W10,B.1 full genome,B.1.351 full genome,1,Figure 4c,=,12.7,50,NULL,NULL,12,authentic virus,2021-05-28
-Planas21b,AZD_W10,B.1 full genome,B.1.617.2 full genome,1,Figure 4c,=,12.7,50,NULL,NULL,12,authentic virus,2021-05-28
+Planas21b,AZD_W10,B.1 full genome,B.1.351 full genome,1,Figure 4c,>,12.7,50,NULL,NULL,12,authentic virus,2021-05-28
+Planas21b,AZD_W10,B.1 full genome,B.1.617.2 full genome,1,Figure 4c,>,12.7,50,NULL,NULL,12,authentic virus,2021-05-28
