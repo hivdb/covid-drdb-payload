@@ -45,15 +45,18 @@ ab_name,pdb_id,target,class,source
 2H10,NULL,RBD,NULL,author
 2H2,7DK5,RBD,RBM,structure
 3C1,7DD2,RBD,RBD Core,structure
+3D11,7M7B,RBD,RBD Core,structure
 4-18,NULL,NTD,NTD,author
 4-18,7L2E,NTD,NTD,structure
 4-19,NULL,NTD,NTD,author
 4-20,NULL,RBD,NULL,author
 4-8,7LQV,NTD,NTD,structure
+47D11,7AKD,RBD,RBD Core,structure
 4A8,7C2L,NTD,NTD,structure
 4E5,NULL,RBD,NULL,author
 5-24,7L2F,NTD,NTD,structure
 5-7,NULL,NTD,NTD,author
+5A6,7KQB,RBD,RBM,structure
 6D6,7EAN,RBD,RBD Core,structure
 76A,NULL,RBD,NULL,author
 7B8,NULL,RBD,NULL,author
@@ -72,6 +75,7 @@ ADG30,NULL,RBD,NULL,author
 B07,NULL,RBD,NULL,author
 B1-182.1,NULL,RBD,NULL,author
 B38,7BZ5,RBD,RBM Class I,structure
+B6,7M51,S2,,structure
 BD-236,7CHB,RBD,RBM,structure
 BD-368-2,7CHH,RBD,RBM Class II,structure
 BD-604,7CH4,RBD,RBM,structure
@@ -239,6 +243,7 @@ MW06,7DPM,RBD,RBD Core,structure
 Nb6,7KKK,RBD,RBM,structure
 P17,7CWM,RBD,RBM,structure
 P22A-1D1,NULL,RBD,RBM Class I,author
+P22A-1D1,7CHS,RBD,RBM,structure
 P2B-1A1,7CZP,RBD,RBM,structure
 P2B-1A10,7CZQ,RBD,RBM,structure
 P2B-2F6,7BWJ,RBD,RBM Class II,structure
@@ -249,12 +254,14 @@ P5A-1B8,7CZR,RBD,RBM,structure
 P5A-1B9,NULL,RBD,RBM Class II,author
 P5A-1B9,7CZX,RBD,NULL,structure
 P5A-1D2,NULL,RBD,RBM Class I,author
+P5A-1D2,7CHO,RBD,RBM,structure
 P5A-2F11,7CZZ,RBD,RBM,structure
 P5A-2G7,7CZW,RBD,RBM,structure
 P5A-2G9,7CZT,RBD,RBM,structure
 P5A-3A1,7D0C,RBD,RBM,structure
 P5A-3C12,7D0D,RBD,RBM,structure
 P5A-3C8,NULL,RBD,RBM Class I,author
+P5A-3C8,7CHP,RBD,RBM,structure
 REGN10934,NULL,RBD,NULL,author
 REGN10985,NULL,RBD,NULL,author
 REGN10989,NULL,RBD,NULL,author
@@ -370,14 +377,7 @@ VHH-72,6WAQ,RBD,RBD Core Cluster II,structure
 Vir-7832,NULL,RBD,NULL,author
 X593,NULL,RBD,NULL,author
 XAV-19,NULL,RBD,RBM,author
+ab1,7MJJ,RBD,RBM,structure
 mAb102,NULL,RBD,NULL,author
 mAb48,NULL,RBD,NULL,author
 nb20,7JVB,RBD,RBM,structure
-47D11,7AKD,RBD,RBD Core,structure
-3D11,7M7B,RBD,RBD Core,structure
-5A6,7KQB,RBD,RBM,structure
-P22A-1D1,7CHS,RBD,RBM,structure
-P5A-3C8,7CHP,RBD,RBM,structure
-P5A-1D2,7CHO,RBD,RBM,structure
-ab1,7MJJ,RBD,RBM,structure
-B6,7M51,S2,,structure
