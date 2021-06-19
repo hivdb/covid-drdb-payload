@@ -1685,6 +1685,15 @@ B.1.617.1 Spike,S,614,G
 B.1.617.1 Spike,S,681,R
 B.1.617.1 Spike,S,1071,H
 B.1.617.1 Spike,S,1101,D
+B.1.617.1 Spike:+95I-1101D,S,95,I
+B.1.617.1 Spike:+95I-1101D,S,142,D
+B.1.617.1 Spike:+95I-1101D,S,154,K
+B.1.617.1 Spike:+95I-1101D,S,452,R
+B.1.617.1 Spike:+95I-1101D,S,484,Q
+B.1.617.1 Spike:+95I-1101D,S,614,G
+B.1.617.1 Spike:+95I-1101D,S,681,R
+B.1.617.1 Spike:+95I-1101D,S,1071,H
+B.1.617.1 Spike:+95I-1101D,S,1101,D
 B.1.617 Spike,S,95,I
 B.1.617 Spike,S,142,D
 B.1.617 Spike,S,154,K
@@ -1943,3 +1952,7 @@ B.1.1.229 full genome,ORF3a,131,C
 B.1.1.229 full genome,N,203,K
 B.1.1.229 full genome,N,204,R
 B.1.1.229 full genome,N,377,Y
+B.1.1.519 Spike,S,478,K
+B.1.1.519 Spike,S,614,G
+B.1.1.519 Spike,S,681,H
+B.1.1.519 Spike,S,732,A
