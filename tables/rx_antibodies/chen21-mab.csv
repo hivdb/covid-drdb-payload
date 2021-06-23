@@ -1,8 +1,8 @@
 ref_name,rx_name,ab_name
-Chen21,Tixagevimab,Tixagevimab
-Chen21,Cilgavimab,Cilgavimab
-Chen21,Tixagevimab + Cilgavimab,Tixagevimab
-Chen21,Tixagevimab + Cilgavimab,Cilgavimab
+Chen21,COV2-2196,Tixagevimab
+Chen21,COV2-2130,Cilgavimab
+Chen21,COV2-2196+COV2-2130,Tixagevimab
+Chen21,COV2-2196+COV2-2130,Cilgavimab
 Chen21,COV2-2072,COV2-2072
 Chen21,COV2-2050,COV2-2050
 Chen21,COV2-3025,COV2-3025
@@ -13,8 +13,9 @@ Chen21,COVOX-40,COVOX-40
 Chen21,S2E12,S2E12
 Chen21,S2H58,S2H58
 Chen21,S2X259,S2X259
-Chen21,Vir-7831+S2E12,Sotrovimab
-Chen21,Vir-7831+S2E12,S2E12
+Chen21,S309 + S2E12,Sotrovimab
+Chen21,S309 + S2E12,S2E12
+Chen21,S309,Sotrovimab
 Chen21,Vir-7831,Sotrovimab
 Chen21,SARS2-3,SARS2-3
 Chen21,SARS2-10,SARS2-10
