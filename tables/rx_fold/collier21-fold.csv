@@ -1,4 +1,4 @@
-ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
 Collier21,BNT162b2_1ds_Figure3_1,S:614G,B.1.1.7 Spike,Figure 3c,HIV pseudovirus,NT50,=,35.7,NULL,NULL,1,2021-04-06
 Collier21,BNT162b2_1ds_Figure3_2,S:614G,B.1.1.7 Spike,Figure 3c,HIV pseudovirus,NT50,=,10.3,NULL,NULL,1,2021-04-06
 Collier21,BNT162b2_1ds_Figure3_3,S:614G,B.1.1.7 Spike,Figure 3c,HIV pseudovirus,NT50,=,6.9,NULL,NULL,1,2021-04-06

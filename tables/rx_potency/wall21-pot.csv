@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,date_added
 Wall21,RLSA188158,Wuhan-Hu-1,github:davidlvb/Crick-UCLH-Legacy-VOCs-2021-05,authentic virus,NT50,310.4683575,1,2021-06-22
 Wall21,RLS288158,Wuhan-Hu-1,github:davidlvb/Crick-UCLH-Legacy-VOCs-2021-05,authentic virus,NT50,142.1846758,1,2021-06-22
 Wall21,RLSA188121,Wuhan-Hu-1,github:davidlvb/Crick-UCLH-Legacy-VOCs-2021-05,authentic virus,NT50,92.8654025,1,2021-06-22
