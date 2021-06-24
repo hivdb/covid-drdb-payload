@@ -1,6 +1,564 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Collier21,Patient,isolation,~,2020-12-01,UK,B.1 full genome,NULL,NULL
-Collier21,Patient,1st dose,~,2020-12-22,UK,B.1 full genome,BNT162b2,NULL
-Collier21,Patient,1st dose isolation,~,2021-01-05,UK,B.1 full genome,NULL,NULL
-Collier21,Patient,2nd dose,~,2021-01-05,UK,B.1 full genome,BNT162b2,NULL
-Collier21,Patient,2nd dose isolation,~,2021-01-26,UK,B.1 full genome,NULL,NULL
+Collier21,Vaccinee_TM_1,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_2,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_3,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_4,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_5,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_6,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_7,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_8,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_9,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_10,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_11,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_12,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_13,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_14,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_15,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_16,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_17,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_18,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_1,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_2,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_3,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_4,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_5,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_6,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_7,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_8,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_9,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_10,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_11,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_12,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_13,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_14,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_15,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_16,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_17,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_18,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,Vaccinee_TM_1,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_2,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_3,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_4,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_5,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_6,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_7,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_8,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_9,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_10,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_11,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_12,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_13,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_14,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_15,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_16,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_17,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_TM_18,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_1,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_2,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_3,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_4,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_5,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_6,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_7,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_8,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_9,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,Vaccinee_CP_TM_10,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_before B.1.1.7_1,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_2,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_3,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_4,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_5,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_6,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_7,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_8,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_9,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_10,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_11,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_12,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_13,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_14,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_15,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_16,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_17,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_18,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_19,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_20,infection,<,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_1,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_2,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_3,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_4,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_5,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_6,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_7,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_8,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_9,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_10,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_11,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_12,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_13,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_14,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_15,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_16,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_17,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_18,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_19,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,CP_before B.1.1.7_20,isolation,~,2020-08-31,UK,B.1 full genome,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_1,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_2,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_3,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_4,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_5,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_6,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_7,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_8,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_9,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_10,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_11,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_12,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_13,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_14,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_15,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_16,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_17,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_18,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_19,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_20,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_21,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_22,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_23,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_24,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_25,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_26,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_27,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_28,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_29,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_30,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_31,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_32,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_33,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_34,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_35,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_36,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_37,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_1,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_2,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_3,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_4,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_5,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_6,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_7,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_8,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_9,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_10,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_11,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_12,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_13,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_14,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_15,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_16,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_17,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_18,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_19,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_20,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_21,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_22,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_23,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_24,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_25,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_26,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_27,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_28,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_29,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_30,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_31,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_32,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_33,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_34,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_35,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_36,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_37,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_1ds_Figure3_1,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_2,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_3,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_4,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_5,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_6,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_7,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_8,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_9,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_10,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_11,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_12,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_13,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_14,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_15,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_16,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_17,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_18,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_19,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_20,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_21,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_22,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_23,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_24,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_25,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_26,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_27,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_28,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_29,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_30,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_31,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_32,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_33,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_34,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_35,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_36,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_1ds_Figure3_37,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_1,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_2,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_3,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_4,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_5,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_6,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_7,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_8,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_9,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_10,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_11,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_12,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_13,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_14,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_15,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_16,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_17,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_18,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_19,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_20,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_21,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_1,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_2,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_3,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_4,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_5,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_6,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_7,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_8,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_9,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_10,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_11,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_12,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_13,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_14,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_15,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_16,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_17,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_18,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_19,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_20,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_21,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_1,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_2,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_3,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_4,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_5,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_6,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_7,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_8,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_9,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_10,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_11,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_12,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_13,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_14,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_15,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_16,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_17,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_18,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_19,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_20,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_21,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_1,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_2,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_3,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_4,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_5,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_6,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_7,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_8,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_9,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_10,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_11,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_12,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_13,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_14,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_15,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_16,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_17,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_18,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_19,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_20,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_21,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT162b2_2ds_Figure3_1,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_2,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_3,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_4,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_5,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_6,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_7,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_8,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_9,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_10,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_11,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_12,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_13,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_14,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_15,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_16,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_17,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_18,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_19,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_20,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT162b2_2ds_Figure3_21,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_1,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_2,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_3,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_4,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_5,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_6,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_7,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_8,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_9,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_10,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_11,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_12,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_13,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_14,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_15,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_16,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_17,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_18,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_19,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_20,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_21,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_22,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_23,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_24,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_25,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_26,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,CP_Vaccinee_Figure1_27,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_1,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_2,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_3,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_4,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_5,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_6,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_7,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_8,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_9,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_10,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_11,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_12,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_13,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_14,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_15,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_16,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_17,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_18,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_19,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_20,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_21,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_22,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_23,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_24,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_25,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_26,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_27,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_28,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_29,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_30,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_31,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_32,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_33,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_34,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_35,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_36,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_37,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_1,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_2,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_3,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_4,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_5,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_6,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_7,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_8,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_9,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_10,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_11,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_12,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_13,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_14,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_15,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_16,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_17,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_18,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_19,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_20,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_21,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_22,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_23,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_24,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_25,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_26,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_27,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_28,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_29,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_30,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_31,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_32,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_33,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_34,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_35,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_36,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_37,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_1st_Figure1_1,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_2,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_3,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_4,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_5,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_6,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_7,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_8,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_9,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_10,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_11,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_12,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_13,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_14,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_15,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_16,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_17,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_18,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_19,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_20,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_21,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_22,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_23,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_24,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_25,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_26,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_27,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_28,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_29,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_30,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_31,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_32,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_33,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_34,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_35,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_36,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_1st_Figure1_37,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_1,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_2,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_3,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_4,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_5,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_6,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_7,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_8,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_9,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_10,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_11,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_12,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_13,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_14,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_15,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_16,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_17,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_18,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_19,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_20,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_21,isolation,~,2020-12-01,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_1,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_2,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_3,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_4,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_5,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_6,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_7,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_8,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_9,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_10,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_11,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_12,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_13,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_14,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_15,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_16,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_17,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_18,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_19,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_20,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_21,1st dose,~,2020-12-22,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_1,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_2,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_3,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_4,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_5,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_6,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_7,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_8,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_9,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_10,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_11,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_12,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_13,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_14,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_15,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_16,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_17,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_18,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_19,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_20,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_21,1st dose isolation,~,2021-01-05,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_1,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_2,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_3,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_4,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_5,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_6,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_7,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_8,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_9,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_10,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_11,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_12,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_13,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_14,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_15,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_16,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_17,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_18,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_19,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_20,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_21,2nd dose,~,2021-01-05,UK,NULL,BNT162b2,NULL
+Collier21,BNT_2nd_Figure1_1,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_2,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_3,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_4,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_5,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_6,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_7,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_8,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_9,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_10,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_11,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_12,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_13,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_14,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_15,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_16,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_17,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_18,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_19,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_20,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
+Collier21,BNT_2nd_Figure1_21,2nd dose isolation,~,2021-01-26,UK,NULL,NULL,NULL
