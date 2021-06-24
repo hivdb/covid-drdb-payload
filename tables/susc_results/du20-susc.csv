@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Du20,BD-629,Wuhan-Hu-1,S:452R,1,Figure 7,=,3.3,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-31
 Du20,BD-368-2,Wuhan-Hu-1,S:483I,1,Figure 7,=,1.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-31
 Du20,BD-629,Wuhan-Hu-1,S:483A,1,Figure 7,=,1.5,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-31

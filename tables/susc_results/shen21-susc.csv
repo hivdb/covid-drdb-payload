@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Shen21,B38,S:614G,S:501Y,1,Table 1,=,2.2,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-28
 Shen21,COVA1-18,S:614G,S:501Y,1,Table 1,=,5.2,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-28
 Shen21,COVA2-15,S:614G,S:501Y,1,Table 1,=,15,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-28

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Liu21f,AZD1061,VIC Spike,B.1.617.1 Spike:+95I-1101D,1,Table S1,=,5.1,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-06-18
 Liu21f,AZD8895,VIC Spike,B.1.617.1 Spike:+95I-1101D,1,Table S1,=,0.7,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-06-18
 Liu21f,AZD7442,VIC Spike,B.1.617.1 Spike:+95I-1101D,1,Table S1,=,2,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-06-18

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Weisblum20,C121,Wuhan-Hu-1,S:346K,1,Figure 7A,=,0.8,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
 Weisblum20,C135,Wuhan-Hu-1,S:346K,1,Figure 7B,=,1377,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
 Weisblum20,C144,Wuhan-Hu-1,S:346K,1,Figure 7C,=,0.8,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Edara21,CP_acute,B.1 full genome,WA1,1,"Figure, preprint 2021.02.02.21250799 figure 1",=,0.5,IC50,NULL,NULL,1,authentic virus,2021-03-19
 Edara21,CP_acute,B.1 full genome,WA1,2,"Figure, preprint 2021.02.02.21250799 figure 1",=,0.5,IC50,NULL,NULL,1,authentic virus,2021-03-19
 Edara21,CP_acute,B.1 full genome,WA1,3,"Figure, preprint 2021.02.02.21250799 figure 1",=,1.1,IC50,NULL,NULL,1,authentic virus,2021-03-19

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Lien21,MVC_high,Wuhan-Hu-1,S:614G,1,Figure 2B,=,1.1,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-05-10
 Lien21,MVC_high,Wuhan-Hu-1,S:614G,2,Figure 2B,=,1.7,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-05-10
 Lien21,MVC_high,Wuhan-Hu-1,S:614G,3,Figure 2B,=,1.7,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-05-10

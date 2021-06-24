@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Planas21,mAb102,S:614G,B.1.1.7 Spike,1,"Figure 1d, Source Data Fig 1",=,1.4,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-16
 Planas21,mAb102,S:614G,B.1.351 Spike,1,"Figure 1d, Source Data Fig 1",=,0.6,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-16
 Planas21,CP_M3,S:614G,B.1.1.7 Spike,1,Supplement data Figure 2b,=,1.4,IC50,NULL,NULL,1,vsv pseudovirus,2021-03-29

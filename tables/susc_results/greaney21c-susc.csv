@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Greaney21c,M06,S:614G,S:384R,1,Fig 5B,=,1.7,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-04-17
 Greaney21c,M06,S:614G,S:417N,1,Fig 5B,=,0.9,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-04-17
 Greaney21c,M06,S:614G,S:446V,1,Fig 5B,=,2.0,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-04-17

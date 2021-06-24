@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Zou21,CP_Mouse_1,Wuhan-Hu-1,S:614G,1,Fig 1c,=,1.8,IC50,NULL,NULL,1,authentic virus,2021-06-18
 Zou21,CP_Mouse_2,Wuhan-Hu-1,S:614G,1,Fig 1c,=,1.8,IC50,NULL,NULL,1,authentic virus,2021-06-18
 Zou21,CP_Mouse_3,Wuhan-Hu-1,S:614G,1,Fig 1c,=,2.1,IC50,NULL,NULL,1,authentic virus,2021-06-18

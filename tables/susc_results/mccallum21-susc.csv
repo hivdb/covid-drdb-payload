@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 McCallum21,S2L28,Wuhan-Hu-1,S:12P,1,Figure 5B,>,1000.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
 McCallum21,S2M28,Wuhan-Hu-1,S:12P,1,Figure 5B,~,100.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
 McCallum21,S2X28,Wuhan-Hu-1,S:12P,1,Figure 5B,>,1000.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27

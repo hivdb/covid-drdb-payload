@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Madhi21,AZD1222,S:614G,B.1.351 RBD,1,Figure 2B,=,5.5,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-03-17
 Madhi21,AZD1222,S:614G,B.1.351 RBD,2,Figure 2B,=,3.8,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-03-17
 Madhi21,AZD1222,S:614G,B.1.351 RBD,3,Figure 2B,=,3.1,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-03-17

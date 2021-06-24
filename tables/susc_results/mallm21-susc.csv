@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Mallm21,BNT162b2,Wuhan-Hu-1,A.27.RN full genome,1,Fig. 4,=,2.7,IC50,NULL,NULL,1,authentic virus,2021-05-03
 Mallm21,BNT162b2,Wuhan-Hu-1,A.27.RN full genome,2,Fig. 4,=,2.7,IC50,NULL,NULL,1,authentic virus,2021-05-03
 Mallm21,BNT162b2,Wuhan-Hu-1,A.27.RN full genome,3,Fig. 4,=,4.0,IC50,NULL,NULL,1,authentic virus,2021-05-03

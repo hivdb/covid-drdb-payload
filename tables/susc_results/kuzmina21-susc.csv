@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Kuzmina21,CP,Wuhan-Hu-1,B.1.1.7 Spike,1,Figure 3,=,1.5,IC50,NULL,NULL,10,lentivirus pseudovirus,2021-03-23
 Kuzmina21,CP,Wuhan-Hu-1,B.1.351 Spike,1,Figure 3,=,6.9,IC50,NULL,NULL,10,lentivirus pseudovirus,2021-03-24
 Kuzmina21,BNT162b2_3W,Wuhan-Hu-1,B.1.1.7 Spike,1,Figure 3,=,1.0,IC50,NULL,NULL,10,lentivirus pseudovirus,2021-03-25

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Wang21b,1-57,Wuhan-Hu-1,B.1.1.7 Spike,1,Figure 2a,=,0.5,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-31
 Wang21b,2-15,Wuhan-Hu-1,B.1.1.7 Spike,1,Figure 2a,=,0.5,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-31
 Wang21b,2-17,Wuhan-Hu-1,B.1.1.7 Spike,1,Figure 2a,=,121.2,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-31

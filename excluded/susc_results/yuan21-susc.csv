@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Yuan21,COVA2-39,Wuhan-Hu-1,S:417N,999,Figure 1C,<,10,IC50,NULL,NULL,1,MLV pseudovirus,2021-02-18
 Yuan21,C144,Wuhan-Hu-1,S:417N,999,Figure 1C,<,10,IC50,NULL,NULL,1,MLV pseudovirus,2021-02-18
 Yuan21,C121,Wuhan-Hu-1,S:417N,999,Figure 1C,<,10,IC50,NULL,NULL,1,MLV pseudovirus,2021-02-18

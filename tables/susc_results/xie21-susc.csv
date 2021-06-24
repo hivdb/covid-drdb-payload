@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Xie21,BNT162b2_1,Wuhan-Hu-1,S:501Y,1,"Figure 1, Table S1",=,0.25,IC50,NULL,NULL,1,chimeric virus,2021-01-27
 Xie21,BNT162b2_2,Wuhan-Hu-1,S:501Y,1,"Figure 1, Table S1",=,0.5,IC50,NULL,NULL,1,chimeric virus,2021-01-27
 Xie21,BNT162b2_3,Wuhan-Hu-1,S:501Y,1,"Figure 1, Table S1",=,0.5,IC50,NULL,NULL,1,chimeric virus,2021-01-27

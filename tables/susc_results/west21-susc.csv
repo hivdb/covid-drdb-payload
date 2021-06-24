@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 West21,MOD1,S:614G,B.1.526 Spike,1,Table S2a,=,6.0,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-04-25
 West21,MOD2,S:614G,B.1.526 Spike,1,Table S2a,=,3.7,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-04-25
 West21,MOD3,S:614G,B.1.526 Spike,1,Table S2a,=,5.2,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-04-25

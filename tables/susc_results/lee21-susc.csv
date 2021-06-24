@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Lee21,CT-P59,B.1 full genome,B.1.1.7 full genome,1,Table 2,=,1.4,IC50,NULL,NULL,1,authentic virus,2021-05-01
 Lee21,CT-P59,B.1 full genome,B.1.351 full genome,1,Table 2,=,20,IC50,NULL,NULL,1,authentic virus,2021-05-01
 Lee21,CT-P59,S:614G,B.1.351 Spike,1,Table 3,=,33,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-05-01

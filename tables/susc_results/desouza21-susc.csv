@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 deSouza21,CP_BD280,Wuhan-Hu-1,P.1 full genome,1,"Figure 2A, Table S4",>,3.0,IC50,NULL,experimental,1,authentic virus,2021-05-03
 deSouza21,CP_BD504,Wuhan-Hu-1,P.1 full genome,1,"Figure 2A, Table S4",=,2.0,IC50,NULL,NULL,1,authentic virus,2021-05-03
 deSouza21,CP_BD000,Wuhan-Hu-1,P.1 full genome,1,"Figure 2A, Table S4",=,5.3,IC50,NULL,NULL,1,authentic virus,2021-05-03

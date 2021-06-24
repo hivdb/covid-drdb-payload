@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Wu21,Moderna_36d,S:614G,S:69del+70del+501Y+614G+681H,1,Figure 1A,=,1.45,IC50,NULL,NULL,8,vsv pseudovirus,2021-01-27
 Wu21,Moderna_36d,S:614G,S:417N+484K+501Y+614G,1,Figure 1C,=,2.7,IC50,NULL,NULL,8,vsv pseudovirus,2021-01-27
 Wu21,Moderna_36d,S:614G,S:501Y+614G,1,"Figure 1A, 1C",=,0.87,IC50,NULL,NULL,8,vsv pseudovirus,2021-01-27

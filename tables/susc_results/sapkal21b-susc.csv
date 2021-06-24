@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Sapkal21b,BBV152,hCoV-19/India/2020770,B.1.1.7 full genome,1,Figure 1C,=,1.6,IC50,NULL,NULL,1,authentic virus,2021-05-10
 Sapkal21b,BBV152,hCoV-19/India/2020770,B.1.1.7 full genome,2,Figure 1C,=,0.9,IC50,NULL,NULL,1,authentic virus,2021-05-10
 Sapkal21b,BBV152,hCoV-19/India/2020770,B.1.1.7 full genome,3,Figure 1C,=,0.9,IC50,NULL,NULL,1,authentic virus,2021-05-10

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Virtanen21,CP_4a,B.1 full genome,B.1.351 full genome,1,Table S1,>,2,IC50,NULL,experimental,1,authentic virus,2021-05-10
 Virtanen21,CP_4b,B.1 full genome,B.1.351 full genome,1,Table S1,NULL,NULL,IC50,NULL,experimental,1,authentic virus,2021-05-10
 Virtanen21,CP_5c,B.1 full genome,B.1.351 full genome,1,Table S1,>,4,IC50,NULL,experimental,1,authentic virus,2021-05-10

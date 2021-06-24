@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Wang21f,4A8,S:614G,B.1.1.7 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
 Wang21f,Etesevimab,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
 Wang21f,P5A-1D2,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10

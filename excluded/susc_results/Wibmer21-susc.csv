@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Wibmer21,CP_Titer_LT400,S:614G,B.1.351 Spike,5,Figure 2,>,2.45,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
 Wibmer21,CP_Titer_LT400,S:614G,B.1.351 Spike,6,Figure 2,>,2.55,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
 Wibmer21,CP_Titer_LT400,S:614G,B.1.351 Spike,7,Figure 2,>,6.6,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-01-27

@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Edara21c,CP_1,WA1,B.1.617.1_1675223,1,Table S2,>,18.0,IC50,NULL,experimental,1,authentic virus,2021-05-11
 Edara21c,CP_2,WA1,B.1.617.1_1675223,1,Table S2,=,9.8,IC50,NULL,NULL,1,authentic virus,2021-05-11
 Edara21c,CP_3,WA1,B.1.617.1_1675223,1,Table S2,=,4.0,IC50,NULL,NULL,1,authentic virus,2021-05-11

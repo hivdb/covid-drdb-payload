@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
 Sahin20,Subject_BNT162b2_4W_25,Wuhan-Hu-1,S:321L,1,Extended Data Table 5,=,0.6,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
 Sahin20,Subject_BNT162b2_4W_25,Wuhan-Hu-1,S:341I,1,Extended Data Table 5,=,0.5,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
 Sahin20,Subject_BNT162b2_4W_25,Wuhan-Hu-1,S:348T,1,Extended Data Table 5,=,1.1,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
