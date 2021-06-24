@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Vanhove21,XAV-19,Wuhan-Hu-1,B.1.1.7 full genome,1,Figure 3A,=,1,0,NULL,NULL,1,authentic virus,2021-05-01
-Vanhove21,XAV-19,Wuhan-Hu-1,B.1.351 full genome,1,Figure 3A,~,2,0,NULL,NULL,1,authentic virus,2021-05-01
-Vanhove21,BAM,Wuhan-Hu-1,B.1.1.7 full genome,1,Figure 3B,~,2,0,NULL,NULL,1,authentic virus,2021-05-01
-Vanhove21,BAM,Wuhan-Hu-1,B.1.351 full genome,1,Figure 3B,>,1000,0,NULL,NULL,1,authentic virus,2021-05-01
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Vanhove21,XAV-19,Wuhan-Hu-1,B.1.1.7 full genome,1,Figure 3A,=,1,IC50,NULL,NULL,1,authentic virus,2021-05-01
+Vanhove21,XAV-19,Wuhan-Hu-1,B.1.351 full genome,1,Figure 3A,~,2,IC50,NULL,NULL,1,authentic virus,2021-05-01
+Vanhove21,BAM,Wuhan-Hu-1,B.1.1.7 full genome,1,Figure 3B,~,2,IC50,NULL,NULL,1,authentic virus,2021-05-01
+Vanhove21,BAM,Wuhan-Hu-1,B.1.351 full genome,1,Figure 3B,>,1000,IC50,NULL,NULL,1,authentic virus,2021-05-01

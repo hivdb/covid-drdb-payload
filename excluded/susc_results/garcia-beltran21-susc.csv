@@ -1,12 +1,12 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-215G,1,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-246I,3,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-246I,3,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-215G,3,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,WIV1 Spike,3,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,P.1 Spike,4,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-246I,4,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-246I,4,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-215G,4,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,SARS-CoV Spike,4,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
-Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,WIV1 Spike,4,Figure 4B,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-215G,1,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-246I,3,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-246I,3,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-215G,3,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,WIV1 Spike,3,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,P.1 Spike,4,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-246I,4,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-246I,4,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,B.1.351 Spike:-18F-215G,4,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,SARS-CoV Spike,4,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,WIV1 Spike,4,Figure 4B,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-02-18

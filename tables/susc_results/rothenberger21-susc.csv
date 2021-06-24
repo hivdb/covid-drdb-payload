@@ -1,29 +1,29 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:80A+215G+484K+501Y+701V,1,Table 1a,=,4.9,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,B.1.1.7 Spike,1,Table 1a,=,0.6,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:501Y,1,Table 1a,=,1.1,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:484K,1,Table 1a,=,4.4,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:439K,1,Table 1a,=,0.7,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:222V,1,Table 1a,=,1.8,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:446V,1,Table 1a,=,0.4,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:478I,1,Table 1a,=,1.0,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:479S,1,Table 1a,=,0.9,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:490S,1,Table 1a,=,0.8,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:80A+215G+484K+501Y+701V,1,Table 1a,=,1.0,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,B.1.1.7 Spike,1,Table 1a,=,0.6,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:501Y,1,Table 1a,=,1.0,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:484K,1,Table 1a,=,1.0,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:417E,1,Table 1a,=,0.2,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:453F,1,Table 1a,=,2.0,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:439K,1,Table 1a,=,4.9,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:222V,1,Table 1a,=,0.5,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:478I,1,Table 1a,=,1.1,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:479S,1,Table 1a,=,1.6,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:486V,1,Table 1a,=,0.7,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:493K,1,Table 1a,=,1.6,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:490S,1,Table 1a,=,1.5,0,NULL,NULL,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:417E,1,Table 1a,>,25.6,0,NULL,experimental,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:453F,1,Table 1a,>,25.6,0,NULL,experimental,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:486V,1,Table 1a,>,25.6,0,NULL,experimental,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10933,Wuhan-Hu-1,S:493K,1,Table 1a,>,25.6,0,NULL,experimental,1,vsv pseudovirus,2021-02-04
-Rothenberger21,REGN10987,Wuhan-Hu-1,S:446V,1,Table 1a,>,16.4,0,NULL,experimental,1,vsv pseudovirus,2021-02-04
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:80A+215G+484K+501Y+701V,1,Table 1a,=,4.9,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,B.1.1.7 Spike,1,Table 1a,=,0.6,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:501Y,1,Table 1a,=,1.1,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:484K,1,Table 1a,=,4.4,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:439K,1,Table 1a,=,0.7,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:222V,1,Table 1a,=,1.8,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:446V,1,Table 1a,=,0.4,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:478I,1,Table 1a,=,1.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:479S,1,Table 1a,=,0.9,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:490S,1,Table 1a,=,0.8,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:80A+215G+484K+501Y+701V,1,Table 1a,=,1.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,B.1.1.7 Spike,1,Table 1a,=,0.6,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:501Y,1,Table 1a,=,1.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:484K,1,Table 1a,=,1.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:417E,1,Table 1a,=,0.2,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:453F,1,Table 1a,=,2.0,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:439K,1,Table 1a,=,4.9,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:222V,1,Table 1a,=,0.5,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:478I,1,Table 1a,=,1.1,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:479S,1,Table 1a,=,1.6,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:486V,1,Table 1a,=,0.7,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:493K,1,Table 1a,=,1.6,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:490S,1,Table 1a,=,1.5,IC50,NULL,NULL,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:417E,1,Table 1a,>,25.6,IC50,NULL,experimental,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:453F,1,Table 1a,>,25.6,IC50,NULL,experimental,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:486V,1,Table 1a,>,25.6,IC50,NULL,experimental,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10933,Wuhan-Hu-1,S:493K,1,Table 1a,>,25.6,IC50,NULL,experimental,1,vsv pseudovirus,2021-02-04
+Rothenberger21,REGN10987,Wuhan-Hu-1,S:446V,1,Table 1a,>,16.4,IC50,NULL,experimental,1,vsv pseudovirus,2021-02-04

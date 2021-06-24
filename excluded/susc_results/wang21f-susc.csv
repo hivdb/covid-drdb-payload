@@ -1,53 +1,53 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Wang21f,4A8,S:614G,B.1.1.7 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,Etesevimab,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1D2,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-3C8,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P22A-1D1,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,BD-368-2,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1B9,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,4A8,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,Etesevimab,S:614G,P.1 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1D2,S:614G,P.1 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-3C8,S:614G,P.1 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P22A-1D1,S:614G,P.1 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,BD-368-2,S:614G,P.1 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1B9,S:614G,P.1 Spike,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,4A8,S:614G,S:144del,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,4A8,S:614G,S:242del+243del+244del,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,Etesevimab,S:614G,S:417N,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1D2,S:614G,S:417N,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P22A-1D1,S:614G,S:417N,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,Etesevimab,S:614G,S:417T,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1D2,S:614G,S:417T,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-3C8,S:614G,S:417T,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P22A-1D1,S:614G,S:417T,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,BD-368-2,S:614G,S:484K,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1B9,S:614G,S:484K,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1B9,S:614G,S:486L,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,Etesevimab,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1D2,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-3C8,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P22A-1D1,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,BD-368-2,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,P5A-1B9,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.1.7 Spike,24,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,8,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,9,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,12,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,14,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,15,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,16,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,17,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,20,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,21,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,22,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,23,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,B.1.351 Spike,24,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,P.1 Spike,9,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,P.1 Spike,15,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,P.1 Spike,16,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,P.1 Spike,17,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,S:242del+243del+244del,9,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,S:242del+243del+244del,24,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
-Wang21f,CP,S:614G,S:417N+484K+501Y,16,Figure 3C,>,9999,0,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Wang21f,4A8,S:614G,B.1.1.7 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,Etesevimab,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1D2,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-3C8,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P22A-1D1,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,BD-368-2,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1B9,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,4A8,S:614G,B.1.351 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,Etesevimab,S:614G,P.1 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1D2,S:614G,P.1 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-3C8,S:614G,P.1 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P22A-1D1,S:614G,P.1 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,BD-368-2,S:614G,P.1 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1B9,S:614G,P.1 Spike,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,4A8,S:614G,S:144del,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,4A8,S:614G,S:242del+243del+244del,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,Etesevimab,S:614G,S:417N,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1D2,S:614G,S:417N,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P22A-1D1,S:614G,S:417N,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,Etesevimab,S:614G,S:417T,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1D2,S:614G,S:417T,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-3C8,S:614G,S:417T,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P22A-1D1,S:614G,S:417T,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,BD-368-2,S:614G,S:484K,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1B9,S:614G,S:484K,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1B9,S:614G,S:486L,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,Etesevimab,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1D2,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-3C8,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P22A-1D1,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,BD-368-2,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,P5A-1B9,S:614G,S:417N+484K+501Y,1,Figure 1A,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.1.7 Spike,24,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,8,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,9,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,12,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,14,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,15,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,16,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,17,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,20,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,21,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,22,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,23,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,B.1.351 Spike,24,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,P.1 Spike,9,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,P.1 Spike,15,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,P.1 Spike,16,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,P.1 Spike,17,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,S:242del+243del+244del,9,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,S:242del+243del+244del,24,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10
+Wang21f,CP,S:614G,S:417N+484K+501Y,16,Figure 3C,>,9999,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-03-10

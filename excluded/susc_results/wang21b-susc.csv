@@ -1,6 +1,6 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Wang21b,4A8,Wuhan-Hu-1,S:18F,1,Figure 2a,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-01-31
-Wang21b,4A8,Wuhan-Hu-1,S:484K,1,Figure 2a,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-01-31
-Wang21b,4A8,Wuhan-Hu-1,S:501Y,1,Figure 2a,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-01-31
-Wang21b,4A8,Wuhan-Hu-1,S:701V,1,Figure 2a,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-01-31
-Wang21b,4A8,Wuhan-Hu-1,S:716I,1,Figure 2a,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-01-31
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Wang21b,4A8,Wuhan-Hu-1,S:18F,1,Figure 2a,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-01-31
+Wang21b,4A8,Wuhan-Hu-1,S:484K,1,Figure 2a,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-01-31
+Wang21b,4A8,Wuhan-Hu-1,S:501Y,1,Figure 2a,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-01-31
+Wang21b,4A8,Wuhan-Hu-1,S:701V,1,Figure 2a,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-01-31
+Wang21b,4A8,Wuhan-Hu-1,S:716I,1,Figure 2a,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-01-31

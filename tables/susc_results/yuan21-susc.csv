@@ -1,15 +1,15 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Yuan21,CAS,Wuhan-Hu-1,S:417N,1,Figure 1C,~,30,0,NULL,NULL,1,MLV pseudovirus,2021-02-18
-Yuan21,CAS,Wuhan-Hu-1,S:484K,1,Figure 1C,~,30,0,NULL,NULL,1,MLV pseudovirus,2021-02-18
-Yuan21,IMD,Wuhan-Hu-1,S:484K,1,Figure 1C,<,10,0,NULL,NULL,1,MLV pseudovirus,2021-02-18
-Yuan21,CC12.1,Wuhan-Hu-1,S:417N,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,CC12.3,Wuhan-Hu-1,S:417N,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,COVA2-04,Wuhan-Hu-1,S:417N,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,COVA2-07,Wuhan-Hu-1,S:417N,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,COVA2-39,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,C144,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,C121,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,CV05-163,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,CV07-270,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,COVA2-15,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
-Yuan21,CC6.29,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,0,NULL,experimental,1,MLV pseudovirus,2021-02-18
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Yuan21,CAS,Wuhan-Hu-1,S:417N,1,Figure 1C,~,30,IC50,NULL,NULL,1,MLV pseudovirus,2021-02-18
+Yuan21,CAS,Wuhan-Hu-1,S:484K,1,Figure 1C,~,30,IC50,NULL,NULL,1,MLV pseudovirus,2021-02-18
+Yuan21,IMD,Wuhan-Hu-1,S:484K,1,Figure 1C,<,10,IC50,NULL,NULL,1,MLV pseudovirus,2021-02-18
+Yuan21,CC12.1,Wuhan-Hu-1,S:417N,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,CC12.3,Wuhan-Hu-1,S:417N,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,COVA2-04,Wuhan-Hu-1,S:417N,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,COVA2-07,Wuhan-Hu-1,S:417N,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,COVA2-39,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,C144,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,C121,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,CV05-163,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,CV07-270,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,COVA2-15,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18
+Yuan21,CC6.29,Wuhan-Hu-1,S:484K,1,Figure 1C,>,100,IC50,NULL,experimental,1,MLV pseudovirus,2021-02-18

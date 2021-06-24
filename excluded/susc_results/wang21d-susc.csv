@@ -1,12 +1,12 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Wang21d,Etesevimab,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,Bamlanivimab,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,2-15,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,C121,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,5-7,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,2-17,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,2-17,Wuhan-Hu-1,S:138Y,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,4-19,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,4-19,Wuhan-Hu-1,S:18F,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,4-19,Wuhan-Hu-1,S:138Y,1,Fig.1a;Figure S2,>,9999,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
-Wang21d,4-18,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,1000,0,NULL,experimental,1,vsv pseudovirus,2021-03-03
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Wang21d,Etesevimab,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,Bamlanivimab,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,2-15,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,C121,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,5-7,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,2-17,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,2-17,Wuhan-Hu-1,S:138Y,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,4-19,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,4-19,Wuhan-Hu-1,S:18F,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,4-19,Wuhan-Hu-1,S:138Y,1,Fig.1a;Figure S2,>,9999,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03
+Wang21d,4-18,Wuhan-Hu-1,P.1 Spike,1,Fig.1a;Figure S2,>,1000,IC50,NULL,experimental,1,vsv pseudovirus,2021-03-03

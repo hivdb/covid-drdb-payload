@@ -1,16 +1,16 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Greaney20,COV2-2082,Wuhan-Hu-1,S:392A,1,Figure 3; bit.ly/2IVqlzS Out[10],=,1.0,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2082,Wuhan-Hu-1,S:417E,1,Figure 3; bit.ly/2IVqlzS Out[10],=,81.0,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2165,Wuhan-Hu-1,S:475V,1,Figure 3; bit.ly/2IVqlzS Out[10],=,0.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2165,Wuhan-Hu-1,S:486A,1,Figure 3; bit.ly/2IVqlzS Out[10],=,1.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2165,Wuhan-Hu-1,S:487R,1,Figure 3; bit.ly/2IVqlzS Out[10],=,13.3,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2479,Wuhan-Hu-1,S:484V,1,Figure 3; bit.ly/2IVqlzS Out[10],=,40.7,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2479,Wuhan-Hu-1,S:486A,1,Figure 3; bit.ly/2IVqlzS Out[10],=,0.5,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2479,Wuhan-Hu-1,S:487R,1,Figure 3; bit.ly/2IVqlzS Out[10],=,0.1,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2479,Wuhan-Hu-1,S:490K,1,Figure 3; bit.ly/2IVqlzS Out[10],=,168.8,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2832,Wuhan-Hu-1,S:484V,1,Figure 3; bit.ly/2IVqlzS Out[10],=,3.2,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2832,Wuhan-Hu-1,S:490K,1,Figure 3; bit.ly/2IVqlzS Out[10],=,0.6,0,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2082,Wuhan-Hu-1,S:378N,1,Figure 3; bit.ly/2IVqlzS Out[10],>,110.3,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2165,Wuhan-Hu-1,S:420R,1,Figure 3; bit.ly/2IVqlzS Out[10],>,208.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2832,Wuhan-Hu-1,S:486A,1,Figure 3; bit.ly/2IVqlzS Out[10],>,577.8,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
-Greaney20,COV2-2832,Wuhan-Hu-1,S:487R,1,Figure 3; bit.ly/2IVqlzS Out[10],>,577.8,0,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Greaney20,COV2-2082,Wuhan-Hu-1,S:392A,1,Figure 3; bit.ly/2IVqlzS Out[10],=,1.0,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2082,Wuhan-Hu-1,S:417E,1,Figure 3; bit.ly/2IVqlzS Out[10],=,81.0,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2165,Wuhan-Hu-1,S:475V,1,Figure 3; bit.ly/2IVqlzS Out[10],=,0.5,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2165,Wuhan-Hu-1,S:486A,1,Figure 3; bit.ly/2IVqlzS Out[10],=,1.2,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2165,Wuhan-Hu-1,S:487R,1,Figure 3; bit.ly/2IVqlzS Out[10],=,13.3,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2479,Wuhan-Hu-1,S:484V,1,Figure 3; bit.ly/2IVqlzS Out[10],=,40.7,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2479,Wuhan-Hu-1,S:486A,1,Figure 3; bit.ly/2IVqlzS Out[10],=,0.5,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2479,Wuhan-Hu-1,S:487R,1,Figure 3; bit.ly/2IVqlzS Out[10],=,0.1,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2479,Wuhan-Hu-1,S:490K,1,Figure 3; bit.ly/2IVqlzS Out[10],=,168.8,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2832,Wuhan-Hu-1,S:484V,1,Figure 3; bit.ly/2IVqlzS Out[10],=,3.2,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2832,Wuhan-Hu-1,S:490K,1,Figure 3; bit.ly/2IVqlzS Out[10],=,0.6,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2082,Wuhan-Hu-1,S:378N,1,Figure 3; bit.ly/2IVqlzS Out[10],>,110.3,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2165,Wuhan-Hu-1,S:420R,1,Figure 3; bit.ly/2IVqlzS Out[10],>,208.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2832,Wuhan-Hu-1,S:486A,1,Figure 3; bit.ly/2IVqlzS Out[10],>,577.8,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-01-27
+Greaney20,COV2-2832,Wuhan-Hu-1,S:487R,1,Figure 3; bit.ly/2IVqlzS Out[10],>,577.8,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-01-27

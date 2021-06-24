@@ -1,45 +1,45 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Alenquer21,CP_ID_5,S:614G,B.1.351 Spike,1,Table S2,>,3.2,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_5,S:614G,P.1 Spike,1,Table S2,>,3.2,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_5,S:614G,S:484K,1,Table S2,>,3.2,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_5,S:614G,S:417N+484K+501Y,1,Table S2,>,3.2,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_5,S:614G,S:494P,1,Table S2,>,3.2,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_6,S:614G,B.1.351 Spike,1,Table S2,>,2.5,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_6,S:614G,P.1 Spike,1,Table S2,>,2.5,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_6,S:614G,S:484K,1,Table S2,>,2.5,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_6,S:614G,S:417N+484K+501Y,1,Table S2,>,2.5,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_6,S:614G,S:452R,1,Table S2,>,2.5,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_6,S:614G,S:494P,1,Table S2,>,2.5,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_7,S:614G,B.1.1.7 Spike,1,Table S2,>,2.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_7,S:614G,B.1.351 Spike,1,Table S2,>,2.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_7,S:614G,P.1 Spike,1,Table S2,>,2.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_7,S:614G,S:484K,1,Table S2,>,2.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_7,S:614G,S:417N+484K+501Y,1,Table S2,>,2.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_7,S:614G,S:452R,1,Table S2,>,2.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_7,S:614G,S:494P,1,Table S2,>,2.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_7,S:614G,S:439K,1,Table S2,>,2.7,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_8,S:614G,B.1.1.7 Spike,1,Table S2,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_8,S:614G,B.1.351 Spike,1,Table S2,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_8,S:614G,P.1 Spike,1,Table S2,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_8,S:614G,S:484K,1,Table S2,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_8,S:614G,S:417N+484K+501Y,1,Table S2,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_8,S:614G,S:452R,1,Table S2,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_8,S:614G,S:494P,1,Table S2,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_8,S:614G,S:477N,1,Table S2,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,B.1.1.7 Spike,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,B.1.351 Spike,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,P.1 Spike,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,S:501Y,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,S:484K,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,S:417N+484K+501Y,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,S:452R,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,S:494P,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_12,S:614G,S:69del+70del+439K,1,Table S2,>,1.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_11,S:614G,B.1.351 Spike,1,Table S2,>,4.0,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_11,S:614G,P.1 Spike,1,Table S2,>,4.0,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_11,S:614G,S:484K,1,Table S2,>,4.0,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_11,S:614G,S:417N+484K+501Y,1,Table S2,>,4.0,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_14,S:614G,S:417N+484K+501Y,1,Table S2,>,19.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,CP_ID_16,S:614G,S:417N+484K+501Y,1,Table S2,>,5.6,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,BNT_2nd,S:614G,B.1.351 Spike,10,Table S3,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
-Alenquer21,BNT_2nd,S:614G,P.1 Spike,10,Table S3,>,2.4,0,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay,date_added
+Alenquer21,CP_ID_5,S:614G,B.1.351 Spike,1,Table S2,>,3.2,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_5,S:614G,P.1 Spike,1,Table S2,>,3.2,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_5,S:614G,S:484K,1,Table S2,>,3.2,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_5,S:614G,S:417N+484K+501Y,1,Table S2,>,3.2,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_5,S:614G,S:494P,1,Table S2,>,3.2,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_6,S:614G,B.1.351 Spike,1,Table S2,>,2.5,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_6,S:614G,P.1 Spike,1,Table S2,>,2.5,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_6,S:614G,S:484K,1,Table S2,>,2.5,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_6,S:614G,S:417N+484K+501Y,1,Table S2,>,2.5,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_6,S:614G,S:452R,1,Table S2,>,2.5,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_6,S:614G,S:494P,1,Table S2,>,2.5,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_7,S:614G,B.1.1.7 Spike,1,Table S2,>,2.7,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_7,S:614G,B.1.351 Spike,1,Table S2,>,2.7,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_7,S:614G,P.1 Spike,1,Table S2,>,2.7,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_7,S:614G,S:484K,1,Table S2,>,2.7,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_7,S:614G,S:417N+484K+501Y,1,Table S2,>,2.7,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_7,S:614G,S:452R,1,Table S2,>,2.7,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_7,S:614G,S:494P,1,Table S2,>,2.7,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_7,S:614G,S:439K,1,Table S2,>,2.7,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_8,S:614G,B.1.1.7 Spike,1,Table S2,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_8,S:614G,B.1.351 Spike,1,Table S2,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_8,S:614G,P.1 Spike,1,Table S2,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_8,S:614G,S:484K,1,Table S2,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_8,S:614G,S:417N+484K+501Y,1,Table S2,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_8,S:614G,S:452R,1,Table S2,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_8,S:614G,S:494P,1,Table S2,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_8,S:614G,S:477N,1,Table S2,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,B.1.1.7 Spike,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,B.1.351 Spike,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,P.1 Spike,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,S:501Y,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,S:484K,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,S:417N+484K+501Y,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,S:452R,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,S:494P,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_12,S:614G,S:69del+70del+439K,1,Table S2,>,1.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_11,S:614G,B.1.351 Spike,1,Table S2,>,4.0,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_11,S:614G,P.1 Spike,1,Table S2,>,4.0,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_11,S:614G,S:484K,1,Table S2,>,4.0,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_11,S:614G,S:417N+484K+501Y,1,Table S2,>,4.0,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_14,S:614G,S:417N+484K+501Y,1,Table S2,>,19.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,CP_ID_16,S:614G,S:417N+484K+501Y,1,Table S2,>,5.6,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,BNT_2nd,S:614G,B.1.351 Spike,10,Table S3,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
+Alenquer21,BNT_2nd,S:614G,P.1 Spike,10,Table S3,>,2.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-25
