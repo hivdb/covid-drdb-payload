@@ -133,20 +133,102 @@ Collier21,CP_Vaccinee_Figure1,Human,27
 Collier21,CP_before B.1.1.7,Human,20
 Collier21,Vaccinee_CP_TM,Human,10
 Collier21,Vaccinee_TM,Human,18
-Dejnirattisai21,AZD,Human,1
-Dejnirattisai21,B.1.1.7 P10,Human,1
-Dejnirattisai21,B.1.1.7 P11,Human,1
-Dejnirattisai21,B.1.1.7 P13,Human,1
-Dejnirattisai21,B.1.1.7 P14,Human,1
-Dejnirattisai21,B.1.1.7 P3,Human,1
-Dejnirattisai21,B.1.1.7 P4,Human,1
-Dejnirattisai21,B.1.1.7 P5,Human,1
-Dejnirattisai21,B.1.1.7 P6,Human,1
-Dejnirattisai21,B.1.1.7 P7,Human,1
-Dejnirattisai21,B.1.1.7 P8,Human,1
-Dejnirattisai21,B.1.1.7 P9,Human,1
-Dejnirattisai21,BNT,Human,1
-Dejnirattisai21,CP,Human,1
+Dejnirattisai21,AstraZeneca 1,Human,1
+Dejnirattisai21,AstraZeneca 10,Human,1
+Dejnirattisai21,AstraZeneca 11,Human,1
+Dejnirattisai21,AstraZeneca 12,Human,1
+Dejnirattisai21,AstraZeneca 13,Human,1
+Dejnirattisai21,AstraZeneca 14,Human,1
+Dejnirattisai21,AstraZeneca 15,Human,1
+Dejnirattisai21,AstraZeneca 16,Human,1
+Dejnirattisai21,AstraZeneca 17,Human,1
+Dejnirattisai21,AstraZeneca 18,Human,1
+Dejnirattisai21,AstraZeneca 19,Human,1
+Dejnirattisai21,AstraZeneca 2,Human,1
+Dejnirattisai21,AstraZeneca 20,Human,1
+Dejnirattisai21,AstraZeneca 21,Human,1
+Dejnirattisai21,AstraZeneca 22,Human,1
+Dejnirattisai21,AstraZeneca 23,Human,1
+Dejnirattisai21,AstraZeneca 24,Human,1
+Dejnirattisai21,AstraZeneca 25,Human,1
+Dejnirattisai21,AstraZeneca 3,Human,1
+Dejnirattisai21,AstraZeneca 4,Human,1
+Dejnirattisai21,AstraZeneca 5,Human,1
+Dejnirattisai21,AstraZeneca 6,Human,1
+Dejnirattisai21,AstraZeneca 7,Human,1
+Dejnirattisai21,AstraZeneca 8,Human,1
+Dejnirattisai21,AstraZeneca 9,Human,1
+Dejnirattisai21,CP_1,Human,1
+Dejnirattisai21,CP_10,Human,1
+Dejnirattisai21,CP_11,Human,1
+Dejnirattisai21,CP_12,Human,1
+Dejnirattisai21,CP_13,Human,1
+Dejnirattisai21,CP_14,Human,1
+Dejnirattisai21,CP_15,Human,1
+Dejnirattisai21,CP_16,Human,1
+Dejnirattisai21,CP_17,Human,1
+Dejnirattisai21,CP_18,Human,1
+Dejnirattisai21,CP_19,Human,1
+Dejnirattisai21,CP_2,Human,1
+Dejnirattisai21,CP_20,Human,1
+Dejnirattisai21,CP_21,Human,1
+Dejnirattisai21,CP_22,Human,1
+Dejnirattisai21,CP_23,Human,1
+Dejnirattisai21,CP_24,Human,1
+Dejnirattisai21,CP_25,Human,1
+Dejnirattisai21,CP_26,Human,1
+Dejnirattisai21,CP_27,Human,1
+Dejnirattisai21,CP_28,Human,1
+Dejnirattisai21,CP_29,Human,1
+Dejnirattisai21,CP_3,Human,1
+Dejnirattisai21,CP_30,Human,1
+Dejnirattisai21,CP_31,Human,1
+Dejnirattisai21,CP_32,Human,1
+Dejnirattisai21,CP_33,Human,1
+Dejnirattisai21,CP_34,Human,1
+Dejnirattisai21,CP_4,Human,1
+Dejnirattisai21,CP_5,Human,1
+Dejnirattisai21,CP_6,Human,1
+Dejnirattisai21,CP_7,Human,1
+Dejnirattisai21,CP_8,Human,1
+Dejnirattisai21,CP_9,Human,1
+Dejnirattisai21,CP_B.1.1.7_P10,Human,1
+Dejnirattisai21,CP_B.1.1.7_P11,Human,1
+Dejnirattisai21,CP_B.1.1.7_P13,Human,1
+Dejnirattisai21,CP_B.1.1.7_P14,Human,1
+Dejnirattisai21,CP_B.1.1.7_P15,Human,1
+Dejnirattisai21,CP_B.1.1.7_P3,Human,1
+Dejnirattisai21,CP_B.1.1.7_P4,Human,1
+Dejnirattisai21,CP_B.1.1.7_P5,Human,1
+Dejnirattisai21,CP_B.1.1.7_P6,Human,1
+Dejnirattisai21,CP_B.1.1.7_P7,Human,1
+Dejnirattisai21,CP_B.1.1.7_P8,Human,1
+Dejnirattisai21,CP_B.1.1.7_P9,Human,1
+Dejnirattisai21,Pfizer1,Human,1
+Dejnirattisai21,Pfizer10,Human,1
+Dejnirattisai21,Pfizer11,Human,1
+Dejnirattisai21,Pfizer12,Human,1
+Dejnirattisai21,Pfizer13,Human,1
+Dejnirattisai21,Pfizer14,Human,1
+Dejnirattisai21,Pfizer15,Human,1
+Dejnirattisai21,Pfizer16,Human,1
+Dejnirattisai21,Pfizer17,Human,1
+Dejnirattisai21,Pfizer18,Human,1
+Dejnirattisai21,Pfizer19,Human,1
+Dejnirattisai21,Pfizer2,Human,1
+Dejnirattisai21,Pfizer20,Human,1
+Dejnirattisai21,Pfizer21,Human,1
+Dejnirattisai21,Pfizer22,Human,1
+Dejnirattisai21,Pfizer23,Human,1
+Dejnirattisai21,Pfizer24,Human,1
+Dejnirattisai21,Pfizer25,Human,1
+Dejnirattisai21,Pfizer3,Human,1
+Dejnirattisai21,Pfizer4,Human,1
+Dejnirattisai21,Pfizer5,Human,1
+Dejnirattisai21,Pfizer6,Human,1
+Dejnirattisai21,Pfizer7,Human,1
+Dejnirattisai21,Pfizer8,Human,1
+Dejnirattisai21,Pfizer9,Human,1
 Deng21,BNT,Human,1
 Deng21,CP,Human,1
 Deng21,Mod,Human,1

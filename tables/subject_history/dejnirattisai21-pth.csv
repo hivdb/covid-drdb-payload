@@ -1,31 +1,243 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Dejnirattisai21,CP,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,BNT,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
-Dejnirattisai21,BNT,2nd dose,~,2020-12-15,UK,NULL,BNT162b2,NULL
-Dejnirattisai21,BNT,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
-Dejnirattisai21,AZD,1st dose,~,2020-9-21,UK,NULL,AZD1222,NULL
-Dejnirattisai21,AZD,2nd dose,~,2020-9-21,UK,NULL,AZD1222,NULL
-Dejnirattisai21,AZD,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
-Dejnirattisai21,B.1.1.7 P3,infection,~,2020-12-20,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P4,infection,~,2020-12-13,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P5,infection,~,2020-11-16,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P6,infection,~,2020-11-30,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P7,infection,~,2020-11-28,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P8,infection,~,2020-12-06,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P9,infection,~,2020-12-05,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P10,infection,~,2020-12-13,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P11,infection,~,2020-12-07,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P13,infection,~,2020-12-10,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P14,infection,~,2020-12-15,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P3,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P4,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P5,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P6,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P7,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P8,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P9,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P10,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P11,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P13,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,B.1.1.7 P14,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P3,infection,~,2020-12-20,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P4,infection,~,2020-12-13,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P5,infection,~,2020-11-16,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P6,infection,~,2020-11-30,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P7,infection,~,2020-11-28,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P8,infection,~,2020-12-06,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P9,infection,~,2020-12-05,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P10,infection,~,2020-12-13,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P11,infection,~,2020-12-07,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P13,infection,~,2020-12-02,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P14,infection,~,2020-12-10,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P15,infection,~,2020-12-15,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P3,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P4,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P5,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P6,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P7,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P8,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P9,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P10,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P11,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P13,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P14,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P15,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_1,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_2,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_3,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_4,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_5,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_6,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_7,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_8,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_9,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_10,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_11,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_12,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_13,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_14,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_15,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_16,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_17,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_18,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_19,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_20,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_21,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_22,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_23,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_24,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_25,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_26,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_27,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_28,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_29,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_30,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_31,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_32,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_33,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_34,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_1,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_2,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_3,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_4,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_5,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_6,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_7,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_8,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_9,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_10,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_11,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_12,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_13,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_14,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_15,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_16,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_17,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_18,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_19,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_20,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_21,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_22,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_23,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_24,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_25,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_26,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_27,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_28,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_29,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_30,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_31,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_32,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_33,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_34,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,Pfizer1,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer2,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer3,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer4,1st dose,~,2020-11-30,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer5,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer6,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer7,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer8,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer9,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer10,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer11,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer12,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer13,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer14,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer15,1st dose,~,2020-11-30,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer16,1st dose,~,2020-11-30,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer17,1st dose,~,2020-11-30,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer18,1st dose,~,2020-11-30,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer19,1st dose,~,2020-11-30,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer20,1st dose,~,2020-11-30,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer21,1st dose,~,2020-11-29,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer22,1st dose,~,2020-11-27,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer23,1st dose,~,2020-11-26,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer24,1st dose,~,2020-11-26,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer25,1st dose,~,2020-11-23,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer1,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer2,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer3,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer4,2nd dose,~,2020-12-13,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer5,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer6,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer7,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer8,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer9,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer10,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer11,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer12,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer13,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer14,2nd dose,~,2020-12-14,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer15,2nd dose,~,2020-12-13,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer16,2nd dose,~,2020-12-13,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer17,2nd dose,~,2020-12-13,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer18,2nd dose,~,2020-12-13,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer19,2nd dose,~,2020-12-13,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer20,2nd dose,~,2020-12-13,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer21,2nd dose,~,2020-12-12,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer22,2nd dose,~,2020-12-10,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer23,2nd dose,~,2020-12-09,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer24,2nd dose,~,2020-12-09,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer25,2nd dose,~,2020-12-06,UK,NULL,BNT162b2,NULL
+Dejnirattisai21,Pfizer1,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer2,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer3,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer4,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer5,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer6,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer7,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer8,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer9,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer10,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer11,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer12,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer13,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer14,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer15,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer16,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer17,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer18,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer19,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer20,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer21,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer22,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer23,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer24,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,Pfizer25,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 1,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 2,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 3,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 4,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 5,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 6,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 7,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 8,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 9,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 10,1st dose,~,2020-09-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 11,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 12,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 13,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 14,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 15,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 16,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 17,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 18,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 19,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 20,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 21,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 22,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 23,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 24,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 25,1st dose,~,2020-09-21,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 1,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 2,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 3,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 4,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 5,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 6,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 7,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 8,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 9,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 10,2nd dose,~,2020-11-23,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 11,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 12,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 13,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 14,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 15,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 16,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 17,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 18,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 19,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 20,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 21,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 22,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 23,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 24,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 25,2nd dose,~,2020-12-07,UK,NULL,AZD1222,NULL
+Dejnirattisai21,AstraZeneca 1,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 2,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 3,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 4,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 5,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 6,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 7,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 8,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 9,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 10,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 11,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 12,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 13,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 14,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 15,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 16,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 17,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 18,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 19,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 20,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 21,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 22,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 23,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 24,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
+Dejnirattisai21,AstraZeneca 25,2nd dose isolation,~,2020-12-21,UK,NULL,NULL,NULL
