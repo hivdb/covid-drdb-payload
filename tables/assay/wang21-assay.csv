@@ -1,0 +1,3 @@
+﻿ref_name,assay_name,potency_type,potency_upper_limit,potency_lower_limit
+Wang21,HIV pseudovirus,NT50,NULL,10
+Wang21,HIV pseudovirus,IC50,1000,NULL
