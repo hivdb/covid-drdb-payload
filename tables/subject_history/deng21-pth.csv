@@ -1,7 +1,63 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Deng21,CP,infection,~,2020-08-15,USA CA,B.1 full genome,NULL,NULL
-Deng21,CP,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
-Deng21,BNT,2nd dose,~,2021-01-01,USA CA,NULL,BNT162b2,NULL
-Deng21,BNT,2nd dose isolation,~,2021-01-19,USA CA,NULL,NULL,NULL
-Deng21,Mod,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
-Deng21,Mod,2nd dose isolation,~,2021-01-19,USA CA,NULL,NULL,NULL
+Deng21,CP_1,infection,~,2020-08-01,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_2,infection,~,2020-09-12,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_3,infection,~,2020-07-22,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_4,infection,~,2020-07-21,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_5,infection,~,2020-09-15,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_6,infection,~,2020-08-12,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_7,infection,~,2020-09-07,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_8,infection,~,2020-08-25,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_9,infection,~,2020-08-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_10,infection,~,2020-08-06,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_11,infection,~,2020-08-17,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_12,infection,~,2020-07-07,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_13,infection,~,2020-07-20,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_14,infection,~,2020-07-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_15,infection,~,2020-08-05,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_16,infection,~,2020-09-09,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_17,infection,~,2020-07-20,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_18,infection,~,2020-08-31,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_19,infection,~,2020-08-19,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_1,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_2,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_3,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_4,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_5,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_6,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_7,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_8,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_9,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_10,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_11,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_12,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_13,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_14,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_15,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_16,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_17,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_18,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,CP_19,isolation,~,2020-09-30,USA CA,B.1 full genome,NULL,NULL
+Deng21,BNT162b2_1,2nd dose,~,2021-01-01,USA CA,NULL,BNT162b2,NULL
+Deng21,mRNA-1273_1,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,BNT162b2_2,2nd dose,~,2021-01-01,USA CA,NULL,BNT162b2,NULL
+Deng21,mRNA-1273_2,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,mRNA-1273_3,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,mRNA-1273_4,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,mRNA-1273_5,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,mRNA-1273_6,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,mRNA-1273_7,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,BNT162b2_3,2nd dose,~,2021-01-01,USA CA,NULL,BNT162b2,NULL
+Deng21,mRNA-1273_8,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,mRNA-1273_9,2nd dose,~,2021-01-01,USA CA,NULL,mRNA-1273,NULL
+Deng21,BNT162b2_1,2nd dose isolation,~,2021-01-29,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_1,2nd dose isolation,~,2021-01-05,USA CA,NULL,NULL,NULL
+Deng21,BNT162b2_2,2nd dose isolation,~,2021-01-15,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_2,2nd dose isolation,~,2021-01-05,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_3,2nd dose isolation,~,2021-01-15,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_4,2nd dose isolation,~,2021-01-19,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_5,2nd dose isolation,~,2021-01-11,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_6,2nd dose isolation,~,2021-01-11,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_7,2nd dose isolation,~,2021-01-12,USA CA,NULL,NULL,NULL
+Deng21,BNT162b2_3,2nd dose isolation,~,2021-01-16,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_8,2nd dose isolation,~,2021-01-08,USA CA,NULL,NULL,NULL
+Deng21,mRNA-1273_9,2nd dose isolation,~,2021-01-06,USA CA,NULL,NULL,NULL
