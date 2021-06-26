@@ -1,0 +1,117 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,date_added
+Hoffmann21,Bamlanivimab,S:614G,Figure 6,vsv pseudovirus,IC50,4.84018649,1,2021-02-12
+Hoffmann21,Imdevimab,S:614G,Figure 6,vsv pseudovirus,IC50,0.87332616,1,2021-02-12
+Hoffmann21,REGN10989,S:614G,Figure 6,vsv pseudovirus,IC50,0.31622777,1,2021-02-12
+Hoffmann21,Casirivimab,S:614G,Figure 6,vsv pseudovirus,IC50,0.95499259,1,2021-02-12
+Hoffmann21,REGN-COV2,S:614G,Figure 6,vsv pseudovirus,IC50,1,1,2021-02-12
+Hoffmann21,Bamlanivimab,B.1.1.7 Spike,Figure 6,vsv pseudovirus,IC50,2.40286127,1,2021-02-12
+Hoffmann21,Bamlanivimab,B.1.351 Spike,Figure 6,vsv pseudovirus,IC50,16000,1,2021-02-12
+Hoffmann21,Bamlanivimab,P.1 Spike,Figure 6,vsv pseudovirus,IC50,16000,1,2021-02-12
+Hoffmann21,Imdevimab,B.1.1.7 Spike,Figure 6,vsv pseudovirus,IC50,0.87332616,1,2021-02-12
+Hoffmann21,Imdevimab,B.1.351 Spike,Figure 6,vsv pseudovirus,IC50,0.87332616,1,2021-02-12
+Hoffmann21,Imdevimab,P.1 Spike,Figure 6,vsv pseudovirus,IC50,0.58170913,1,2021-02-12
+Hoffmann21,REGN10989,B.1.1.7 Spike,Figure 6,vsv pseudovirus,IC50,10000,1,2021-02-12
+Hoffmann21,REGN10989,B.1.351 Spike,Figure 6,vsv pseudovirus,IC50,10000,1,2021-02-12
+Hoffmann21,REGN10989,P.1 Spike,Figure 6,vsv pseudovirus,IC50,10000,1,2021-02-12
+Hoffmann21,Casirivimab,B.1.1.7 Spike,Figure 6,vsv pseudovirus,IC50,1.90546072,1,2021-02-12
+Hoffmann21,Casirivimab,B.1.351 Spike,Figure 6,vsv pseudovirus,IC50,45.708819,1,2021-02-12
+Hoffmann21,Casirivimab,P.1 Spike,Figure 6,vsv pseudovirus,IC50,15.1356125,1,2021-02-12
+Hoffmann21,REGN-COV2,B.1.1.7 Spike,Figure 6,vsv pseudovirus,IC50,1,1,2021-02-12
+Hoffmann21,REGN-COV2,B.1.351 Spike,Figure 6,vsv pseudovirus,IC50,1,1,2021-02-12
+Hoffmann21,REGN-COV2,P.1 Spike,Figure 6,vsv pseudovirus,IC50,1,1,2021-02-12
+Hoffmann21,CP_ID15,S:614G,Figure S3,vsv pseudovirus,NT50,2157.62547,1,2021-02-12
+Hoffmann21,CP_ID18,S:614G,Figure S3,vsv pseudovirus,NT50,3755.07347,1,2021-02-12
+Hoffmann21,CP_ID20,S:614G,Figure S3,vsv pseudovirus,NT50,681.744317,1,2021-02-12
+Hoffmann21,CP_ID22,S:614G,Figure S3,vsv pseudovirus,NT50,2681.74106,1,2021-02-12
+Hoffmann21,CP_ID23,S:614G,Figure S3,vsv pseudovirus,NT50,422.347752,1,2021-02-12
+Hoffmann21,CP_ID24,S:614G,Figure S3,vsv pseudovirus,NT50,2681.74106,1,2021-02-12
+Hoffmann21,CP_ID27,S:614G,Figure S3,vsv pseudovirus,NT50,1780.05036,1,2021-02-12
+Hoffmann21,CP_ID33,S:614G,Figure S3,vsv pseudovirus,NT50,400,1,2021-02-12
+Hoffmann21,CP_ID51,S:614G,Figure S3,vsv pseudovirus,NT50,2157.62547,1,2021-02-12
+Hoffmann21,CP_ID15,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,727.39807,1,2021-02-12
+Hoffmann21,CP_ID15,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,304.795824,1,2021-02-12
+Hoffmann21,CP_ID15,P.1 Spike,Figure S3,vsv pseudovirus,NT50,470.858678,1,2021-02-12
+Hoffmann21,CP_ID18,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,3033.84805,1,2021-02-12
+Hoffmann21,CP_ID18,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,1044.40936,1,2021-02-12
+Hoffmann21,CP_ID18,P.1 Spike,Figure S3,vsv pseudovirus,NT50,612.786543,1,2021-02-12
+Hoffmann21,CP_ID20,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,758.462011,1,2021-02-12
+Hoffmann21,CP_ID20,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,261.10234,1,2021-02-12
+Hoffmann21,CP_ID20,P.1 Spike,Figure S3,vsv pseudovirus,NT50,170.436079,1,2021-02-12
+Hoffmann21,CP_ID22,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,1557.09419,1,2021-02-12
+Hoffmann21,CP_ID22,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,158.740105,1,2021-02-12
+Hoffmann21,CP_ID22,P.1 Spike,Figure S3,vsv pseudovirus,NT50,273.393775,1,2021-02-12
+Hoffmann21,CP_ID23,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,524.941575,1,2021-02-12
+Hoffmann21,CP_ID23,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,66.5156029,1,2021-02-12
+Hoffmann21,CP_ID23,P.1 Spike,Figure S3,vsv pseudovirus,NT50,66.5156029,1,2021-02-12
+Hoffmann21,CP_ID24,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,810.94712,1,2021-02-12
+Hoffmann21,CP_ID24,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,378.834738,1,2021-02-12
+Hoffmann21,CP_ID24,P.1 Spike,Figure S3,vsv pseudovirus,NT50,245.226969,1,2021-02-12
+Hoffmann21,CP_ID27,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,1980.36206,1,2021-02-12
+Hoffmann21,CP_ID27,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,1161.93828,1,2021-02-12
+Hoffmann21,CP_ID27,P.1 Spike,Figure S3,vsv pseudovirus,NT50,1161.93828,1,2021-02-12
+Hoffmann21,CP_ID33,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,400,1,2021-02-12
+Hoffmann21,CP_ID33,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,612.786543,1,2021-02-12
+Hoffmann21,CP_ID33,P.1 Spike,Figure S3,vsv pseudovirus,NT50,234.692092,1,2021-02-12
+Hoffmann21,CP_ID51,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,1007.93684,1,2021-02-12
+Hoffmann21,CP_ID51,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,727.39807,1,2021-02-12
+Hoffmann21,CP_ID51,P.1 Spike,Figure S3,vsv pseudovirus,NT50,339.804718,1,2021-02-12
+Hoffmann21,BNT162b2_01,S:614G,Figure S3,vsv pseudovirus,NT50,1252.77795,1,2021-02-12
+Hoffmann21,BNT162b2_02,S:614G,Figure S3,vsv pseudovirus,NT50,1935.33285,1,2021-02-12
+Hoffmann21,BNT162b2_03,S:614G,Figure S3,vsv pseudovirus,NT50,758.462011,1,2021-02-12
+Hoffmann21,BNT162b2_04,S:614G,Figure S3,vsv pseudovirus,NT50,938.768368,1,2021-02-12
+Hoffmann21,BNT162b2_05,S:614G,Figure S3,vsv pseudovirus,NT50,422.347752,1,2021-02-12
+Hoffmann21,BNT162b2_06,S:614G,Figure S3,vsv pseudovirus,NT50,1252.77795,1,2021-02-12
+Hoffmann21,BNT162b2_07,S:614G,Figure S3,vsv pseudovirus,NT50,1007.93684,1,2021-02-12
+Hoffmann21,BNT162b2_08,S:614G,Figure S3,vsv pseudovirus,NT50,938.768368,1,2021-02-12
+Hoffmann21,BNT162b2_09,S:614G,Figure S3,vsv pseudovirus,NT50,1044.40936,1,2021-02-12
+Hoffmann21,BNT162b2_10,S:614G,Figure S3,vsv pseudovirus,NT50,1638400,1,2021-02-12
+Hoffmann21,BNT162b2_11,S:614G,Figure S3,vsv pseudovirus,NT50,1252.77795,1,2021-02-12
+Hoffmann21,BNT162b2_12,S:614G,Figure S3,vsv pseudovirus,NT50,3333.17123,1,2021-02-12
+Hoffmann21,BNT162b2_13,S:614G,Figure S3,vsv pseudovirus,NT50,938.768368,1,2021-02-12
+Hoffmann21,BNT162b2_14,S:614G,Figure S3,vsv pseudovirus,NT50,1044.40936,1,2021-02-12
+Hoffmann21,BNT162b2_15,S:614G,Figure S3,vsv pseudovirus,NT50,1123.70861,1,2021-02-12
+Hoffmann21,BNT162b2_01,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,470.858678,1,2021-02-12
+Hoffmann21,BNT162b2_01,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,114.558018,1,2021-02-12
+Hoffmann21,BNT162b2_01,P.1 Spike,Figure S3,vsv pseudovirus,NT50,197.300164,1,2021-02-12
+Hoffmann21,BNT162b2_02,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,1935.33285,1,2021-02-12
+Hoffmann21,BNT162b2_02,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,652.456787,1,2021-02-12
+Hoffmann21,BNT162b2_02,P.1 Spike,Figure S3,vsv pseudovirus,NT50,1396.67221,1,2021-02-12
+Hoffmann21,BNT162b2_03,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,612.786543,1,2021-02-12
+Hoffmann21,BNT162b2_03,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,111.253148,1,2021-02-12
+Hoffmann21,BNT162b2_03,P.1 Spike,Figure S3,vsv pseudovirus,NT50,137.700945,1,2021-02-12
+Hoffmann21,BNT162b2_04,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,938.768368,1,2021-02-12
+Hoffmann21,BNT162b2_04,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,210.953215,1,2021-02-12
+Hoffmann21,BNT162b2_04,P.1 Spike,Figure S3,vsv pseudovirus,NT50,234.692092,1,2021-02-12
+Hoffmann21,BNT162b2_05,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,422.347752,1,2021-02-12
+Hoffmann21,BNT162b2_05,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,273.393775,1,2021-02-12
+Hoffmann21,BNT162b2_05,P.1 Spike,Figure S3,vsv pseudovirus,NT50,422.347752,1,2021-02-12
+Hoffmann21,BNT162b2_06,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,1007.93684,1,2021-02-12
+Hoffmann21,BNT162b2_06,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,2989.76624,1,2021-02-12
+Hoffmann21,BNT162b2_06,P.1 Spike,Figure S3,vsv pseudovirus,NT50,2989.76624,1,2021-02-12
+Hoffmann21,BNT162b2_07,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,727.39807,1,2021-02-12
+Hoffmann21,BNT162b2_07,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,470.858678,1,2021-02-12
+Hoffmann21,BNT162b2_07,P.1 Spike,Figure S3,vsv pseudovirus,NT50,1252.77795,1,2021-02-12
+Hoffmann21,BNT162b2_08,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,550.80378,1,2021-02-12
+Hoffmann21,BNT162b2_08,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,153.196636,1,2021-02-12
+Hoffmann21,BNT162b2_08,P.1 Spike,Figure S3,vsv pseudovirus,NT50,137.700945,1,2021-02-12
+Hoffmann21,BNT162b2_09,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,612.786543,1,2021-02-12
+Hoffmann21,BNT162b2_09,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,210.953215,1,2021-02-12
+Hoffmann21,BNT162b2_09,P.1 Spike,Figure S3,vsv pseudovirus,NT50,261.10234,1,2021-02-12
+Hoffmann21,BNT162b2_10,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,1638400,1,2021-02-12
+Hoffmann21,BNT162b2_10,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,2405.45065,1,2021-02-12
+Hoffmann21,BNT162b2_10,P.1 Spike,Figure S3,vsv pseudovirus,NT50,5149.19325,1,2021-02-12
+Hoffmann21,BNT162b2_11,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,470.858678,1,2021-02-12
+Hoffmann21,BNT162b2_11,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,339.804718,1,2021-02-12
+Hoffmann21,BNT162b2_11,P.1 Spike,Figure S3,vsv pseudovirus,NT50,142.385666,1,2021-02-12
+Hoffmann21,BNT162b2_12,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,1935.33285,1,2021-02-12
+Hoffmann21,BNT162b2_12,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,652.456787,1,2021-02-12
+Hoffmann21,BNT162b2_12,P.1 Spike,Figure S3,vsv pseudovirus,NT50,1123.70861,1,2021-02-12
+Hoffmann21,BNT162b2_13,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,612.786543,1,2021-02-12
+Hoffmann21,BNT162b2_13,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,210.953215,1,2021-02-12
+Hoffmann21,BNT162b2_13,P.1 Spike,Figure S3,vsv pseudovirus,NT50,170.436079,1,2021-02-12
+Hoffmann21,BNT162b2_14,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,1044.40936,1,2021-02-12
+Hoffmann21,BNT162b2_14,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,123.772629,1,2021-02-12
+Hoffmann21,BNT162b2_14,P.1 Spike,Figure S3,vsv pseudovirus,NT50,359.540389,1,2021-02-12
+Hoffmann21,BNT162b2_15,B.1.1.7 Spike,Figure S3,vsv pseudovirus,NT50,378.834738,1,2021-02-12
+Hoffmann21,BNT162b2_15,B.1.351 Spike,Figure S3,vsv pseudovirus,NT50,114.558018,1,2021-02-12
+Hoffmann21,BNT162b2_15,P.1 Spike,Figure S3,vsv pseudovirus,NT50,378.834738,1,2021-02-12
