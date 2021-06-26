@@ -1,3 +1,0 @@
-﻿ref_name,virus_type,potency_type,potency_upper_limit,potency_lower_limit,potency_unit
-Wang21,pseudovirus,NT50,NULL,10,NULL
-Wang21,pseudovirus,IC50,1000,NULL,ng/ml

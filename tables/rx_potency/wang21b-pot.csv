@@ -1,485 +1,485 @@
-﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,date_added
-Wang21b,Moderna_D43_V1,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,26456,1,2021-06-25
-Wang21b,Moderna_D43_V2,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,11633,1,2021-06-25
-Wang21b,Moderna_D43_V3,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,9629,1,2021-06-25
-Wang21b,Moderna_D43_V4,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,8021,1,2021-06-25
-Wang21b,Moderna_D43_V5,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,6952,1,2021-06-25
-Wang21b,Moderna_D43_V6,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,6750,1,2021-06-25
-Wang21b,Moderna_D43_V7,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,6604,1,2021-06-25
-Wang21b,Moderna_D43_V8,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,4603,1,2021-06-25
-Wang21b,Moderna_D43_V9,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,4553,1,2021-06-25
-Wang21b,Moderna_D43_V10,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,4038,1,2021-06-25
-Wang21b,Moderna_D43_V11,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,3157,1,2021-06-25
-Wang21b,Moderna_D43_V12,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,2266,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V13,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,27029,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V14,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,24641,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V15,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,2626,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V16,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,2547,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V17,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,1636,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V18,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,1464,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V19,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,1369,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V20,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,1149,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V21,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,450,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V22,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,449,1,2021-06-25
-Wang21b,Moderna_D43_V1,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9798,1,2021-01-31
-Wang21b,Moderna_D43_V2,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5288,1,2021-01-31
-Wang21b,Moderna_D43_V3,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3210,1,2021-01-31
-Wang21b,Moderna_D43_V4,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6684,1,2021-01-31
-Wang21b,Moderna_D43_V5,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4089,1,2021-01-31
-Wang21b,Moderna_D43_V6,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3552,1,2021-01-31
-Wang21b,Moderna_D43_V7,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5503,1,2021-01-31
-Wang21b,Moderna_D43_V8,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2423,1,2021-01-31
-Wang21b,Moderna_D43_V9,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3252,1,2021-01-31
-Wang21b,Moderna_D43_V10,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4038,1,2021-01-31
-Wang21b,Moderna_D43_V11,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2630,1,2021-01-31
-Wang21b,Moderna_D43_V12,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1259,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16893,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12969,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1250,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1415,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1818,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,610,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,595,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,359,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,409,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,499,1,2021-01-31
-Wang21b,Moderna_D43_V1,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3834,1,2021-01-31
-Wang21b,Moderna_D43_V2,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1385,1,2021-01-31
-Wang21b,Moderna_D43_V3,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,424,1,2021-01-31
-Wang21b,Moderna_D43_V4,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,729,1,2021-01-31
-Wang21b,Moderna_D43_V5,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1140,1,2021-01-31
-Wang21b,Moderna_D43_V6,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,877,1,2021-01-31
-Wang21b,Moderna_D43_V7,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2277,1,2021-01-31
-Wang21b,Moderna_D43_V8,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,460,1,2021-01-31
-Wang21b,Moderna_D43_V9,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,949,1,2021-01-31
-Wang21b,Moderna_D43_V10,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1262,1,2021-01-31
-Wang21b,Moderna_D43_V11,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,243,1,2021-01-31
-Wang21b,Moderna_D43_V12,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,343,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9010,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11200,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,285,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,728,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,654,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,195,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,132,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,255,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,100,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V22,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,180,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22046,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12925,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8024,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5729,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7725,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6750,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6604,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3069,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3794,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3671,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3157,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2518,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20534,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1641,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1592,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1363,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,976,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1141,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,884,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,265,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,345,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,24051,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9694,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6878,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16041,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5793,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5625,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6003,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3836,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3794,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3671,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3507,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1743,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,14495,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2188,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2122,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1259,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1627,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1141,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,718,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,500,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,345,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,52911,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11633,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5350,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7291,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5348,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6750,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22012,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3069,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4553,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5048,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5261,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2266,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,33787,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,18955,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3282,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3183,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1636,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1046,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1955,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,821,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,300,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,641,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20350,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12925,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10699,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6684,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8690,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8437,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6003,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1587,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4139,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10096,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3507,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1743,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,24572,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,27379,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1459,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1273,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1363,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,813,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1053,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1149,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,375,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,499,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7349,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11633,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7407,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4456,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4089,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5192,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3884,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2708,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3252,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2692,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1973,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1416,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,19307,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12969,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1876,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1959,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2337,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1627,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1053,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,442,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,281,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,249,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16535,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12925,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4815,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7291,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4089,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5625,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7337,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2192,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3502,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3671,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3157,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1333,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,18020,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20534,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4376,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2547,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2045,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2928,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4562,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,287,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,450,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,408,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,44093,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16618,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8754,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8021,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6952,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5625,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11006,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3541,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5059,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5769,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2428,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3237,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,38613,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,41068,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3282,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3638,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1091,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2928,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2737,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1149,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,250,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,748,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8819,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5058,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2469,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2005,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4966,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2411,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5080,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1395,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2070,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1553,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,986,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1259,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,14226,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9126,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1250,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1592,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,564,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,130,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,415,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,359,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,145,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,249,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,37794,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12925,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5350,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13368,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3476,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13499,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13207,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2302,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3794,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20192,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10522,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1888,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,30801,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1250,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1592,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1023,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,976,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1244,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,479,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,321,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,449,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,37794,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,23265,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12036,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20052,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11587,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11249,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13207,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6576,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4553,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5769,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4509,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3776,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,33787,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,35201,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3751,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6367,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2045,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1830,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2281,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1277,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,375,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,641,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,52911,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,14541,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5664,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5347,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4635,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6750,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7337,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3288,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4553,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3671,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3507,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2518,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,33787,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,30801,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2020,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2830,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1487,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1331,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1369,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,547,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,346,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,449,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,37794,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16618,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7407,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10026,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5348,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6136,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13207,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5115,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6505,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2885,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3946,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2832,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,19307,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,30801,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2626,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2547,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1091,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1126,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1711,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1436,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,321,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,898,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,24051,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9694,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5068,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3646,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4089,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4218,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4717,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2708,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5691,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4487,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6313,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2060,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,18955,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2188,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2315,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,779,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,976,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,978,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1277,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,205,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,299,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,29395,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10575,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8754,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13368,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8690,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8437,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11006,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5115,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4553,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6731,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3946,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3237,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,45049,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,35201,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3282,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2830,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1818,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1830,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1521,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1915,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,500,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,499,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,33069,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16618,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8754,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16041,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7725,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9642,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11006,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3069,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6505,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13461,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3946,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2518,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,45049,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,24641,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3282,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3638,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1091,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,813,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1369,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,638,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,346,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,499,1,2021-01-31
-Wang21b,Moderna_D43_V1,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11502,1,2021-01-31
-Wang21b,Moderna_D43_V2,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7755,1,2021-01-31
-Wang21b,Moderna_D43_V3,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3704,1,2021-01-31
-Wang21b,Moderna_D43_V4,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4456,1,2021-01-31
-Wang21b,Moderna_D43_V5,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3476,1,2021-01-31
-Wang21b,Moderna_D43_V6,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4218,1,2021-01-31
-Wang21b,Moderna_D43_V7,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5080,1,2021-01-31
-Wang21b,Moderna_D43_V8,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1841,1,2021-01-31
-Wang21b,Moderna_D43_V9,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2678,1,2021-01-31
-Wang21b,Moderna_D43_V10,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2692,1,2021-01-31
-Wang21b,Moderna_D43_V11,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2104,1,2021-01-31
-Wang21b,Moderna_D43_V12,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1511,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V13,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V14,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,15401,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V15,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1641,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V16,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1498,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V17,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1091,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V18,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,771,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V19,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,855,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V20,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,479,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V21,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,225,1,2021-01-31
-Wang21b,Pfizer_BNT162b2_D28_V22,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,345,1,2021-01-31
-Wang21b,Moderna_D43_V1,WA1,Fig 4a,authentic virus,NT50,13541,1,2021-06-25
-Wang21b,Moderna_D43_V2,WA1,Fig 4a,authentic virus,NT50,7619,1,2021-06-25
-Wang21b,Moderna_D43_V3,WA1,Fig 4a,authentic virus,NT50,13914,1,2021-06-25
-Wang21b,Moderna_D43_V4,WA1,Fig 4a,authentic virus,NT50,9324,1,2021-06-25
-Wang21b,Moderna_D43_V5,WA1,Fig 4a,authentic virus,NT50,6555,1,2021-06-25
-Wang21b,Moderna_D43_V6,WA1,Fig 4a,authentic virus,NT50,5742,1,2021-06-25
-Wang21b,Moderna_D43_V7,WA1,Fig 4a,authentic virus,NT50,7976,1,2021-06-25
-Wang21b,Moderna_D43_V8,WA1,Fig 4a,authentic virus,NT50,2622,1,2021-06-25
-Wang21b,Moderna_D43_V9,WA1,Fig 4a,authentic virus,NT50,5022,1,2021-06-25
-Wang21b,Moderna_D43_V10,WA1,Fig 4a,authentic virus,NT50,3355,1,2021-06-25
-Wang21b,Moderna_D43_V11,WA1,Fig 4a,authentic virus,NT50,2535,1,2021-06-25
-Wang21b,Moderna_D43_V12,WA1,Fig 4a,authentic virus,NT50,3119,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V13,WA1,Fig 4a,authentic virus,NT50,80329,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V14,WA1,Fig 4a,authentic virus,NT50,83000,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V15,WA1,Fig 4a,authentic virus,NT50,3380,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V16,WA1,Fig 4a,authentic virus,NT50,3877,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V17,WA1,Fig 4a,authentic virus,NT50,3097,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V18,WA1,Fig 4a,authentic virus,NT50,754,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V19,WA1,Fig 4a,authentic virus,NT50,1684,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V20,WA1,Fig 4a,authentic virus,NT50,1582,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V21,WA1,Fig 4a,authentic virus,NT50,343,1,2021-06-25
-Wang21b,Pfizer_BNT162b2_D28_V22,WA1,Fig 4a,authentic virus,NT50,830,1,2021-06-25
-Wang21b,Moderna_D43_V1,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,12310,1,2021-02-19
-Wang21b,Moderna_D43_V2,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,6349,1,2021-02-19
-Wang21b,Moderna_D43_V3,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,8185,1,2021-02-19
-Wang21b,Moderna_D43_V4,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,18647,1,2021-02-19
-Wang21b,Moderna_D43_V5,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,9364,1,2021-02-19
-Wang21b,Moderna_D43_V6,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,14355,1,2021-02-19
-Wang21b,Moderna_D43_V7,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,11394,1,2021-02-19
-Wang21b,Moderna_D43_V8,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,5243,1,2021-02-19
-Wang21b,Moderna_D43_V9,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,7175,1,2021-02-19
-Wang21b,Moderna_D43_V10,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,5591,1,2021-02-19
-Wang21b,Moderna_D43_V11,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,3621,1,2021-02-19
-Wang21b,Moderna_D43_V12,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,7798,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V13,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,100411,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V14,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,46111,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V15,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,3756,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V16,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,2281,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V17,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,5162,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V18,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,1257,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V19,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,4209,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V20,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,1758,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V21,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,856,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V22,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,830,1,2021-02-19
-Wang21b,Moderna_D43_V1,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,940,1,2021-02-19
-Wang21b,Moderna_D43_V2,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,811,1,2021-02-19
-Wang21b,Moderna_D43_V3,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,483,1,2021-02-19
-Wang21b,Moderna_D43_V4,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,771,1,2021-02-19
-Wang21b,Moderna_D43_V5,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,753,1,2021-02-19
-Wang21b,Moderna_D43_V6,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,338,1,2021-02-19
-Wang21b,Moderna_D43_V7,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,1036,1,2021-02-19
-Wang21b,Moderna_D43_V8,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,226,1,2021-02-19
-Wang21b,Moderna_D43_V9,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,492,1,2021-02-19
-Wang21b,Moderna_D43_V10,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,399,1,2021-02-19
-Wang21b,Moderna_D43_V11,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,228,1,2021-02-19
-Wang21b,Moderna_D43_V12,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,354,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V13,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,8925,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V14,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,4743,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V15,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,184,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V16,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,210,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V17,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,333,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V18,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,175,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V19,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,141,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V20,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,214,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V21,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,100,1,2021-02-19
-Wang21b,Pfizer_BNT162b2_D28_V22,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,224,1,2021-02-19
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Wang21b,Moderna_D43_V1,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,26456,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V2,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,11633,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V3,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,9629,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V4,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,8021,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V5,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,6952,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V6,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,6750,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V7,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,6604,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V8,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,4603,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V9,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,4553,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V10,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,4038,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V11,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,3157,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V12,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,2266,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V13,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,27029,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V14,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,24641,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V15,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,2626,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V16,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,2547,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V17,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,1636,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V18,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,1464,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V19,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,1369,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V20,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,1149,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V21,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,450,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V22,S:614G,Ext Data Fig 8,vsv pseudovirus,NT50,449,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V1,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9798,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5288,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3210,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6684,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4089,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3552,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5503,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2423,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3252,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4038,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2630,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1259,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16893,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12969,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1250,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1415,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1818,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,610,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,595,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,359,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,409,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,B.1.1.7 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,499,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3834,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1385,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,424,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,729,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1140,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,877,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2277,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,460,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,949,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1262,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,243,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,343,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9010,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11200,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,285,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,728,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,654,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,195,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,132,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,255,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,100,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V22,B.1.351 Spike,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,180,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22046,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12925,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8024,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5729,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7725,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6750,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6604,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3069,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3794,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3671,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3157,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2518,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20534,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1641,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1592,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1363,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,976,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1141,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,884,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,265,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:1118H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,345,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,24051,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9694,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6878,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16041,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5793,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5625,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6003,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3836,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3794,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3671,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3507,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1743,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,14495,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2188,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2122,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1259,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1627,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1141,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,718,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,500,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:144del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,345,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,52911,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11633,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5350,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7291,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5348,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6750,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22012,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3069,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4553,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5048,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5261,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2266,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,33787,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,18955,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3282,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3183,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1636,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1046,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1955,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,821,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,300,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:18F,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,641,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20350,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12925,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10699,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6684,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8690,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8437,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6003,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1587,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4139,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10096,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3507,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1743,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,24572,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,27379,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1459,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1273,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1363,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,813,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1053,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1149,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,375,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:215G,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,499,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7349,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11633,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7407,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4456,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4089,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5192,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3884,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2708,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3252,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2692,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1973,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1416,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,19307,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12969,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1876,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1959,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2337,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1627,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1053,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,442,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,281,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:242del+243del+244del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,249,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16535,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12925,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4815,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7291,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4089,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5625,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7337,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2192,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3502,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3671,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3157,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1333,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,18020,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20534,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4376,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2547,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2045,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2928,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4562,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,287,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,450,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:246I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,408,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,44093,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16618,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8754,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8021,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6952,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5625,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11006,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3541,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5059,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5769,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2428,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3237,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,38613,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,41068,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3282,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3638,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1091,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2928,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2737,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1149,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,250,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:417N,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,748,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8819,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5058,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2469,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2005,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4966,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2411,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5080,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1395,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2070,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1553,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,986,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1259,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,14226,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9126,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1250,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1592,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,564,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,130,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,415,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,359,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,145,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:484K,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,249,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,37794,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12925,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5350,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13368,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3476,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13499,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13207,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2302,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3794,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20192,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10522,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1888,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,30801,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1250,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1592,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1023,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,976,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1244,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,479,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,321,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:501Y,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,449,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,37794,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,23265,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,12036,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,20052,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11587,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11249,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13207,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6576,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4553,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5769,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4509,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3776,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,33787,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,35201,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3751,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6367,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2045,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1830,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2281,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1277,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,375,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:570D,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,641,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,52911,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,14541,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5664,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5347,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4635,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6750,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7337,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3288,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4553,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3671,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3507,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2518,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,33787,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,30801,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2020,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2830,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1487,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1331,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1369,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,547,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,346,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:681H,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,449,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,37794,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16618,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7407,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10026,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5348,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6136,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13207,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5115,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6505,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2885,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3946,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2832,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,19307,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,30801,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2626,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2547,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1091,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1126,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1711,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1436,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,321,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:69del+70del,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,898,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,24051,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9694,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5068,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3646,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4089,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4218,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4717,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2708,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5691,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4487,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6313,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2060,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,18955,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2188,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2315,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,779,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,976,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,978,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1277,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,205,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:701V,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,299,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,29395,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,10575,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8754,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13368,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8690,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8437,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11006,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5115,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4553,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6731,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3946,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3237,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,45049,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,35201,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3282,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2830,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1818,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1830,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1521,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1915,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,500,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:716I,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,499,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,33069,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16618,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,8754,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,16041,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7725,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,9642,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11006,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3069,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,6505,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,13461,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3946,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2518,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,45049,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,24641,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3282,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3638,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1091,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,813,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1369,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,638,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,346,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:80A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,499,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,11502,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V2,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,7755,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V3,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3704,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V4,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4456,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V5,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,3476,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V6,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,4218,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V7,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,5080,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V8,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1841,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V9,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2678,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V10,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2692,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V11,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,2104,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V12,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1511,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V13,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,22524,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V14,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,15401,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V15,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1641,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V16,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1498,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V17,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,1091,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V18,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,771,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V19,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,855,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V20,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,479,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V21,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,225,1,NULL,100,NULL,2021-01-31
+Wang21b,Pfizer_BNT162b2_D28_V22,S:982A,"Fig 4b, Ext Data Fig 8",vsv pseudovirus,NT50,345,1,NULL,100,NULL,2021-01-31
+Wang21b,Moderna_D43_V1,WA1,Fig 4a,authentic virus,NT50,13541,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V2,WA1,Fig 4a,authentic virus,NT50,7619,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V3,WA1,Fig 4a,authentic virus,NT50,13914,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V4,WA1,Fig 4a,authentic virus,NT50,9324,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V5,WA1,Fig 4a,authentic virus,NT50,6555,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V6,WA1,Fig 4a,authentic virus,NT50,5742,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V7,WA1,Fig 4a,authentic virus,NT50,7976,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V8,WA1,Fig 4a,authentic virus,NT50,2622,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V9,WA1,Fig 4a,authentic virus,NT50,5022,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V10,WA1,Fig 4a,authentic virus,NT50,3355,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V11,WA1,Fig 4a,authentic virus,NT50,2535,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V12,WA1,Fig 4a,authentic virus,NT50,3119,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V13,WA1,Fig 4a,authentic virus,NT50,80329,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V14,WA1,Fig 4a,authentic virus,NT50,83000,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V15,WA1,Fig 4a,authentic virus,NT50,3380,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V16,WA1,Fig 4a,authentic virus,NT50,3877,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V17,WA1,Fig 4a,authentic virus,NT50,3097,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V18,WA1,Fig 4a,authentic virus,NT50,754,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V19,WA1,Fig 4a,authentic virus,NT50,1684,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V20,WA1,Fig 4a,authentic virus,NT50,1582,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V21,WA1,Fig 4a,authentic virus,NT50,343,1,NULL,100,NULL,2021-06-25
+Wang21b,Pfizer_BNT162b2_D28_V22,WA1,Fig 4a,authentic virus,NT50,830,1,NULL,100,NULL,2021-06-25
+Wang21b,Moderna_D43_V1,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,12310,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V2,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,6349,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V3,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,8185,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V4,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,18647,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V5,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,9364,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V6,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,14355,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V7,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,11394,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V8,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,5243,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V9,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,7175,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V10,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,5591,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V11,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,3621,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V12,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,7798,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V13,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,100411,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V14,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,46111,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V15,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,3756,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V16,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,2281,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V17,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,5162,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V18,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,1257,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V19,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,4209,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V20,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,1758,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V21,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,856,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V22,B.1.1.7 full genome,"Fig 4a, 4b",authentic virus,NT50,830,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V1,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,940,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V2,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,811,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V3,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,483,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V4,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,771,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V5,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,753,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V6,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,338,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V7,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,1036,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V8,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,226,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V9,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,492,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V10,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,399,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V11,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,228,1,NULL,100,NULL,2021-02-19
+Wang21b,Moderna_D43_V12,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,354,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V13,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,8925,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V14,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,4743,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V15,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,184,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V16,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,210,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V17,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,333,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V18,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,175,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V19,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,141,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V20,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,214,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V21,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,100,1,NULL,100,NULL,2021-02-19
+Wang21b,Pfizer_BNT162b2_D28_V22,B.1.351 full genome,"Fig 4a, 4b",authentic virus,NT50,224,1,NULL,100,NULL,2021-02-19
