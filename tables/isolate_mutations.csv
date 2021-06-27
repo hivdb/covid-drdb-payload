@@ -318,25 +318,28 @@ B.1 clade G full genome,S,655,Y
 B.1 clade G full genome,E,42,C
 B.1 clade G full genome,M,3,G
 B.1 clade G full genome,M,125,Y
-B.1.1.50 full genome,S,27,S
-B.1.1.50 full genome,S,614,G
-B.1.1.50 full genome,N,204,R
-B.1.1.50 full genome,N,203,K
-B.1.1.50 full genome,ORF3a,131,C
-B.1.1.50 full genome,PLpro,720,I
-B.1.1.50 full genome,RdRP,176,V
-B.1.1.50 full genome,RdRP,379,S
-B.1.1.50 full genome,RdRP,666,I
-B.1.1.50 full genome+S:681H,S,27,S
-B.1.1.50 full genome+S:681H,S,614,G
-B.1.1.50 full genome+S:681H,S,681,H
-B.1.1.50 full genome+S:681H,N,204,R
-B.1.1.50 full genome+S:681H,N,203,K
-B.1.1.50 full genome+S:681H,ORF3a,131,C
-B.1.1.50 full genome+S:681H,PLpro,720,I
-B.1.1.50 full genome+S:681H,RdRP,176,V
-B.1.1.50 full genome+S:681H,RdRP,379,S
-B.1.1.50 full genome+S:681H,RdRP,666,I
+B.1.1.50 full genome_745046,nsp2,129,L
+B.1.1.50 full genome_745046,nsp6,190,F
+B.1.1.50 full genome_745046,RdRP,323,L
+B.1.1.50 full genome_745046,RdRP,379,S
+B.1.1.50 full genome_745046,RdRP,666,I
+B.1.1.50 full genome_745046,nsp13,214,I
+B.1.1.50 full genome_745046,nsp16,160,R
+B.1.1.50 full genome_745046,S,614,G
+B.1.1.50 full genome_745046,ORF3a,131,C
+B.1.1.50 full genome_745046,ORF8,54,L
+B.1.1.50 full genome_745046,N,203,K
+B.1.1.50 full genome_745046,N,204,R
+B.1.1.50 full genome_745038,PLpro,720,I
+B.1.1.50 full genome_745038,RdRP,176,V
+B.1.1.50 full genome_745038,RdRP,379,S
+B.1.1.50 full genome_745038,RdRP,666,I
+B.1.1.50 full genome_745038,S,27,S
+B.1.1.50 full genome_745038,S,614,G
+B.1.1.50 full genome_745038,S,681,H
+B.1.1.50 full genome_745038,ORF3a,131,C
+B.1.1.50 full genome_745038,N,203,K
+B.1.1.50 full genome_745038,N,204,R
 Choi20-d152,S,141,del
 Choi20-d152,S,142,del
 Choi20-d152,S,143,del
@@ -2030,3 +2033,30 @@ P.1 full genome_1060971,ORF8,92,K
 P.1 full genome_1060971,N,80,R
 P.1 full genome_1060971,N,203,K
 P.1 full genome_1060971,N,204,R
+B.1.1.7 full genome_737204,PLpro,183,I
+B.1.1.7 full genome_737204,PLpro,890,D
+B.1.1.7 full genome_737204,PLpro,1412,T
+B.1.1.7 full genome_737204,nsp4,17,L
+B.1.1.7 full genome_737204,nsp6,106,del
+B.1.1.7 full genome_737204,nsp6,107,del
+B.1.1.7 full genome_737204,nsp6,108,del
+B.1.1.7 full genome_737204,RdRP,323,L
+B.1.1.7 full genome_737204,nsp13,460,R
+B.1.1.7 full genome_737204,S,69,del
+B.1.1.7 full genome_737204,S,70,del
+B.1.1.7 full genome_737204,S,144,del
+B.1.1.7 full genome_737204,S,501,Y
+B.1.1.7 full genome_737204,S,570,D
+B.1.1.7 full genome_737204,S,614,G
+B.1.1.7 full genome_737204,S,681,H
+B.1.1.7 full genome_737204,S,716,I
+B.1.1.7 full genome_737204,S,982,A
+B.1.1.7 full genome_737204,S,1118,H
+B.1.1.7 full genome_737204,ORF3a,15,F
+B.1.1.7 full genome_737204,ORF8,27,stop
+B.1.1.7 full genome_737204,ORF8,52,I
+B.1.1.7 full genome_737204,ORF8,73,C
+B.1.1.7 full genome_737204,N,3,L
+B.1.1.7 full genome_737204,N,203,K
+B.1.1.7 full genome_737204,N,204,R
+B.1.1.7 full genome_737204,N,235,F
