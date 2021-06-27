@@ -1,29 +1,69 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Wu21,Moderna_36d_01,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,881,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_02,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,1223,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_03,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,1296,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_04,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,1830,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_05,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,1984,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_06,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,2291,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_07,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,2526,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_08,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,4597,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_01,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,891,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_02,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,759,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_03,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,1357,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_04,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,2676,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_01,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,882,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_02,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,1225,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_03,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,1298,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_04,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,1836,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_05,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,1989,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_06,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,2297,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_07,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,2529,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_08,S:614G,"Figure 1B, 1D",vsv pseudovirus,NT50,4605,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_01,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,892,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_02,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,760,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_03,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,1358,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_04,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,2679,1,NULL,40,NULL,2021-01-27
 Wu21,Moderna_36d_05,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,1429,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_06,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,3388,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_06,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,3397,1,NULL,40,NULL,2021-01-27
 Wu21,Moderna_36d_07,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,1142,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_08,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,3073,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_08,B.1.1.7 Spike,Figure 1B,vsv pseudovirus,NT50,3075,1,NULL,40,NULL,2021-01-27
 Wu21,Moderna_36d_01,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,158,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_02,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,151,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_02,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,152,1,NULL,40,NULL,2021-01-27
 Wu21,Moderna_36d_03,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,168,1,NULL,40,NULL,2021-01-27
 Wu21,Moderna_36d_04,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,427,1,NULL,40,NULL,2021-01-27
 Wu21,Moderna_36d_05,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,202,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_06,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,363,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_07,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,642,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_06,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,364,1,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_07,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,643,1,NULL,40,NULL,2021-01-27
 Wu21,Moderna_36d_08,B.1.351 Spike,Figure 1D,vsv pseudovirus,NT50,603,1,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_median,S:614G,Figure 1A,vsv pseudovirus,NT50,1907,8,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_median,S:69del+70del+501Y+614G+681H,Figure 1A,vsv pseudovirus,NT50,1318,8,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_median,S:614G,Figure 1A,vsv pseudovirus,NT50,1898,8,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_median,S:69del+70del+501Y+614G+681H,Figure 1A,vsv pseudovirus,NT50,1313,8,NULL,40,NULL,2021-01-27
 Wu21,Moderna_36d_median,S:417N+484K+501Y+614G,Figure 1C,vsv pseudovirus,NT50,678,8,NULL,40,NULL,2021-01-27
-Wu21,Moderna_36d_median,S:501Y+614G,Figure 1A,vsv pseudovirus,NT50,2200,8,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_median,S:501Y+614G,Figure 1A,vsv pseudovirus,NT50,2193,8,NULL,40,NULL,2021-01-27
+Wu21,Moderna_36d_Run02_01,S:614G,"Figure 1F, 1G, 1H, 1I",vsv pseudovirus,NT50,1059,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_02,S:614G,"Figure 1F, 1G, 1H, 1I",vsv pseudovirus,NT50,1422,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_03,S:614G,"Figure 1F, 1G, 1H, 1I",vsv pseudovirus,NT50,1440,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_04,S:614G,"Figure 1F, 1G, 1H, 1I",vsv pseudovirus,NT50,1548,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_05,S:614G,"Figure 1F, 1G, 1H, 1I",vsv pseudovirus,NT50,2821,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_06,S:614G,"Figure 1F, 1G, 1H, 1I",vsv pseudovirus,NT50,3055,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_07,S:614G,"Figure 1F, 1G, 1H, 1I",vsv pseudovirus,NT50,3099,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_08,S:614G,"Figure 1F, 1G, 1H, 1I",vsv pseudovirus,NT50,3801,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_01,P.1 Spike,Figure 1F,vsv pseudovirus,NT50,283,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_02,P.1 Spike,Figure 1F,vsv pseudovirus,NT50,339,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_03,P.1 Spike,Figure 1F,vsv pseudovirus,NT50,538,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_04,P.1 Spike,Figure 1F,vsv pseudovirus,NT50,267,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_05,P.1 Spike,Figure 1F,vsv pseudovirus,NT50,880,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_06,P.1 Spike,Figure 1F,vsv pseudovirus,NT50,1339,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_07,P.1 Spike,Figure 1F,vsv pseudovirus,NT50,631,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_08,P.1 Spike,Figure 1F,vsv pseudovirus,NT50,1408,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_01,B.1.427/9 Spike,Figure 1G,vsv pseudovirus,NT50,399,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_02,B.1.427/9 Spike,Figure 1G,vsv pseudovirus,NT50,666,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_03,B.1.427/9 Spike,Figure 1G,vsv pseudovirus,NT50,461,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_04,B.1.427/9 Spike,Figure 1G,vsv pseudovirus,NT50,525,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_05,B.1.427/9 Spike,Figure 1G,vsv pseudovirus,NT50,1178,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_06,B.1.427/9 Spike,Figure 1G,vsv pseudovirus,NT50,1691,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_07,B.1.427/9 Spike,Figure 1G,vsv pseudovirus,NT50,1539,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_08,B.1.427/9 Spike,Figure 1G,vsv pseudovirus,NT50,2011,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_01,B.1.427/9 Spike+S:26S,Figure 1H,vsv pseudovirus,NT50,505,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_02,B.1.427/9 Spike+S:26S,Figure 1H,vsv pseudovirus,NT50,547,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_03,B.1.427/9 Spike+S:26S,Figure 1H,vsv pseudovirus,NT50,477,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_04,B.1.427/9 Spike+S:26S,Figure 1H,vsv pseudovirus,NT50,576,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_05,B.1.427/9 Spike+S:26S,Figure 1H,vsv pseudovirus,NT50,1186,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_06,B.1.427/9 Spike+S:26S,Figure 1H,vsv pseudovirus,NT50,1538,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_07,B.1.427/9 Spike+S:26S,Figure 1H,vsv pseudovirus,NT50,576,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_08,B.1.427/9 Spike+S:26S,Figure 1H,vsv pseudovirus,NT50,1274,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_01,B.1.1.7 Spike+S:484K,Figure 1I,vsv pseudovirus,NT50,275,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_02,B.1.1.7 Spike+S:484K,Figure 1I,vsv pseudovirus,NT50,344,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_03,B.1.1.7 Spike+S:484K,Figure 1I,vsv pseudovirus,NT50,893,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_04,B.1.1.7 Spike+S:484K,Figure 1I,vsv pseudovirus,NT50,604,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_05,B.1.1.7 Spike+S:484K,Figure 1I,vsv pseudovirus,NT50,1101,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_06,B.1.1.7 Spike+S:484K,Figure 1I,vsv pseudovirus,NT50,981,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_07,B.1.1.7 Spike+S:484K,Figure 1I,vsv pseudovirus,NT50,591,1,NULL,40,NULL,2021-06-26
+Wu21,Moderna_36d_Run02_08,B.1.1.7 Spike+S:484K,Figure 1I,vsv pseudovirus,NT50,1192,1,NULL,40,NULL,2021-06-26

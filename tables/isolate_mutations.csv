@@ -259,6 +259,15 @@ B.1.427 full genome,S,452,R
 B.1.427 full genome,S,614,G
 B.1.427 full genome,ORF3a,57,H
 B.1.427 full genome,N,205,I
+B.1.427/9 Spike,S,13,I
+B.1.427/9 Spike,S,152,C
+B.1.427/9 Spike,S,452,R
+B.1.427/9 Spike,S,614,G
+B.1.427/9 Spike+S:26S,S,13,I
+B.1.427/9 Spike+S:26S,S,26,S
+B.1.427/9 Spike+S:26S,S,152,C
+B.1.427/9 Spike+S:26S,S,452,R
+B.1.427/9 Spike+S:26S,S,614,G
 B.1.429 full genome,nsp2,85,I
 B.1.429 full genome,nsp9,64,V
 B.1.429 full genome,RdRP,323,L
