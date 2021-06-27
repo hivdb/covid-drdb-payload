@@ -1990,3 +1990,43 @@ B.1.1.519 Spike,S,478,K
 B.1.1.519 Spike,S,614,G
 B.1.1.519 Spike,S,681,H
 B.1.1.519 Spike,S,732,A
+SP02.2020,nsp6,37,F
+SP02.2020,ORF3a,251,V
+P.1 full genome_1060918,PLpro,370,L
+P.1 full genome_1060918,PLpro,977,Q
+P.1 full genome_1060918,nsp6,106,del
+P.1 full genome_1060918,nsp6,107,del
+P.1 full genome_1060918,nsp6,108,del
+P.1 full genome_1060918,RdRP,323,L
+P.1 full genome_1060918,nsp13,341,D
+P.1 full genome_1060918,S,18,F
+P.1 full genome_1060918,S,20,N
+P.1 full genome_1060918,S,26,S
+P.1 full genome_1060918,S,138,Y
+P.1 full genome_1060918,S,417,T
+P.1 full genome_1060918,S,484,K
+P.1 full genome_1060918,S,501,Y
+P.1 full genome_1060918,S,614,G
+P.1 full genome_1060918,S,655,Y
+P.1 full genome_1060918,S,1027,I
+P.1 full genome_1060918,S,1176,F
+P.1 full genome_1060918,ORF3a,253,P
+P.1 full genome_1060918,ORF8,92,K
+P.1 full genome_1060918,N,80,R
+P.1 full genome_1060918,N,203,K
+P.1 full genome_1060918,N,204,R
+P.1 full genome_1060971,PLpro,977,Q
+P.1 full genome_1060971,nsp6,106,del
+P.1 full genome_1060971,nsp6,107,del
+P.1 full genome_1060971,nsp6,108,del
+P.1 full genome_1060971,RdRP,323,L
+P.1 full genome_1060971,nsp13,341,D
+P.1 full genome_1060971,S,138,Y
+P.1 full genome_1060971,S,417,T
+P.1 full genome_1060971,S,484,K
+P.1 full genome_1060971,S,501,Y
+P.1 full genome_1060971,S,614,G
+P.1 full genome_1060971,ORF8,92,K
+P.1 full genome_1060971,N,80,R
+P.1 full genome_1060971,N,203,K
+P.1 full genome_1060971,N,204,R
