@@ -1,7 +1,7 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Edara21,CP,infection,~,2020-06-15,USA,B.1 full genome,NULL,Mild
-Edara21,CP,isolation,~,2020-08-15,USA,B.1 full genome,NULL,Mild
+Edara21,CP,isolation,~,2020-08-15,USA,B.1 full genome,NULL,NULL
 Edara21,CP_acute,infection,~,2020-07-01,USA,B.1 full genome,NULL,Hospitalized
-Edara21,CP_acute,isolation,~,2020-07-13,USA,B.1 full genome,NULL,Hospitalized
+Edara21,CP_acute,isolation,~,2020-07-13,USA,B.1 full genome,NULL,NULL
 Edara21,Mod,2nd dose,~,2020-06-01,USA,NULL,mRNA-1273,NULL
 Edara21,Mod,2nd dose isolation,~,2020-06-15,USA,NULL,NULL,NULL

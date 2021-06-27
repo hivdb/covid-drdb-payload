@@ -1,7 +1,7 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Kemp21,CP_1,infection,<,2020-10-24,UK,B.1 full genome,NULL,Severe
-Kemp21,CP_1,isolation,<,2020-12-31,UK,B.1 full genome,NULL,Severe
+Kemp21,CP_1,isolation,<,2020-12-31,UK,B.1 full genome,NULL,NULL
 Kemp21,CP_2,infection,<,2020-10-02,UK,B.1 full genome,NULL,Severe
-Kemp21,CP_2,isolation,<,2020-12-31,UK,B.1 full genome,NULL,Severe
+Kemp21,CP_2,isolation,<,2020-12-31,UK,B.1 full genome,NULL,NULL
 Kemp21,CP_3,infection,<,2020-09-21,UK,B.1 full genome,NULL,Severe
-Kemp21,CP_3,isolation,<,2020-12-31,UK,B.1 full genome,NULL,Severe
+Kemp21,CP_3,isolation,<,2020-12-31,UK,B.1 full genome,NULL,NULL

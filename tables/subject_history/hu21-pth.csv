@@ -1,4 +1,4 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Hu21,CP,infection,~,2020-02-01,China,B.1 full genome,NULL,Mild
-Hu21,CP,isolation,~,2020-02-20,China,B.1 full genome,NULL,Mild
-Hu21,CP,isolation,~,2020-10-01,China,B.1 full genome,NULL,Mild
+Hu21,CP,isolation,~,2020-02-20,China,B.1 full genome,NULL,NULL
+Hu21,CP,isolation,~,2020-10-01,China,B.1 full genome,NULL,NULL

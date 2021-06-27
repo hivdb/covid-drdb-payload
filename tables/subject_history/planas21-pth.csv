@@ -1,9 +1,9 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Planas21,CP_Orleans,infection,<,2020-08-27,France,B.1 full genome,NULL,Severe
-Planas21,CP_Orleans,isolation,~,2020-11-27,France,B.1 full genome,NULL,Severe
-Planas21,CP_Orleans,isolation,~,2021-02-27,France,B.1 full genome,NULL,Severe
+Planas21,CP_Orleans,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
+Planas21,CP_Orleans,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
 Planas21,CP_Strasbourg,infection,<,2020-04-17,France,B.1 full genome,NULL,Mild
-Planas21,CP_Strasbourg,isolation,~,2021-01-17,France,B.1 full genome,NULL,Mild
+Planas21,CP_Strasbourg,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
 Planas21,BNT_Orleans,1st dose,~,2021-01-13,France,NULL,BNT162b2,NULL
 Planas21,BNT_Orleans,1st dose isolation,~,2021-01-20,France,NULL,NULL,NULL
 Planas21,BNT_Orleans,1st dose isolation,~,2021-01-27,France,NULL,NULL,NULL
