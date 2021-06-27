@@ -1,0 +1,17 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Mlcochova21,CP,B.1 full genome,Figure 1f,authentic virus,NT50,124.279292,12,1280,5,NULL,2021-06-27
+Mlcochova21,CP,B.1.1.7 full genome,Figure 1f,authentic virus,NT50,54.2360585,12,1280,5,NULL,2021-06-27
+Mlcochova21,CP,B.1.351 full genome,Figure 1f,authentic virus,NT50,14.8461974,12,1280,5,NULL,2021-06-27
+Mlcochova21,CP,B.1.617.2 full genome,Figure 1f,authentic virus,NT50,20.2608063,12,1280,5,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1 full genome,Figure 4a,authentic virus,NT50,295.039062,10,100000,0.1,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1.1.7 full genome,Figure 4a,authentic virus,NT50,92.0143202,10,100000,0.1,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1.617.2 full genome,Figure 4a,authentic virus,NT50,33.8938171,10,100000,0.1,NULL,2021-06-27
+Mlcochova21,BNT162b2,B.1 full genome,Figure 4a,authentic virus,NT50,4231.61379,10,100000,0.1,NULL,2021-06-27
+Mlcochova21,BNT162b2,B.1.1.7 full genome,Figure 4a,authentic virus,NT50,800.966695,10,100000,0.1,NULL,2021-06-27
+Mlcochova21,BNT162b2,B.1.617.2 full genome,Figure 4a,authentic virus,NT50,574.164246,10,100000,0.1,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1 full genome,"Figure 4b, Extended Data Table 3",HIV pseudovirus,NT50,2625,33,1000000,10,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1.617.1 Spike,"Figure 4b, Extended Data Table 3",HIV pseudovirus,NT50,464.158883,33,1000000,10,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1.617.2 Spike,"Figure 4b, Extended Data Table 3",HIV pseudovirus,NT50,654,33,1000000,10,NULL,2021-06-27
+Mlcochova21,BNT162b2,S:614G,"Figure 4b, Extended Data Table 3",HIV pseudovirus,NT50,7393,32,1000000,10,NULL,2021-06-27
+Mlcochova21,BNT162b2,B.1.617.1 Spike,"Figure 4b, Extended Data Table 3",HIV pseudovirus,NT50,1946.06179,32,1000000,10,NULL,2021-06-27
+Mlcochova21,BNT162b2,B.1.617.2 Spike,"Figure 4b, Extended Data Table 3",HIV pseudovirus,NT50,3372,32,1000000,10,NULL,2021-06-27
