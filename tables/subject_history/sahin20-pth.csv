@@ -1,8 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Sahin20,Subject_25,isolation,~,2020-06-10,Germany,NULL,NULL,NULL
-Sahin20,Subject_25,1st dose,~,2020-06-10,Germany,NULL,BNT162b2,NULL
-Sahin20,Subject_25,1st dose isolation,~,2020-06-18,Germany,NULL,NULL,NULL
-Sahin20,Subject_25,1st dose isolation,~,2020-07-01,Germany,NULL,NULL,NULL
-Sahin20,Subject_25,2nd dose,~,2020-07-01,Germany,NULL,BNT162b2,NULL
-Sahin20,Subject_25,2nd dose isolation,~,2020-07-08,Germany,NULL,NULL,NULL
-Sahin20,Subject_25,2nd dose isolation,~,2020-07-23,Germany,NULL,NULL,NULL
+Sahin20,Subject_PSV,isolation,~,2020-06-10,Germany,NULL,NULL,NULL
+Sahin20,Subject_PSV,1st dose,~,2020-06-10,Germany,NULL,BNT162b2,NULL
+Sahin20,Subject_PSV,2nd dose,~,2020-07-01,Germany,NULL,BNT162b2,NULL
+Sahin20,Subject_PSV,2nd dose isolation,~,2020-07-08,Germany,NULL,NULL,NULL
