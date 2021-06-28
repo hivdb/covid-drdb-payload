@@ -864,9 +864,12 @@ Moyo-Gwete21,CP_614G,Human,1
 Moyo-Gwete21,CP_B.1.351,Human,1
 Muik21,BNT162b2,Human,1
 Pegu21,mRNA-1273,Human,1
-Planas21,BNT_Orleans,Human,1
-Planas21,CP_Orleans,Human,1
-Planas21,CP_Strasbourg,Human,1
+Planas21,BNT_Orleans,Human,19
+Planas21,CP_Orleans_Asymptomatic,Human,1
+Planas21,CP_Orleans_Critical,Human,3
+Planas21,CP_Orleans_Mild-to-moderate,Human,11
+Planas21,CP_Orleans_Severe,Human,13
+Planas21,CP_Strasbourg,Human,30
 Planas21b,AZD,Human,1
 Planas21b,BNT,Human,1
 Planas21b,CP_Orleans,Human,1

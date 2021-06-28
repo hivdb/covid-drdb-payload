@@ -1,0 +1,457 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Planas21,mAb48,S:614G,"Figure 1d, Source Data Fig 1",vsv pseudovirus,IC50,153.150,1,1000,4.115,ng/ml,2021-06-28
+Planas21,mAb48,B.1.1.7 Spike,"Figure 1d, Source Data Fig 1",vsv pseudovirus,IC50,1000.000,1,1000,4.115,ng/ml,2021-02-16
+Planas21,mAb48,B.1.351 Spike,"Figure 1d, Source Data Fig 1",vsv pseudovirus,IC50,1000.000,1,1000,4.115,ng/ml,2021-02-16
+Planas21,mAb102,S:614G,"Figure 1d, Source Data Fig 1",vsv pseudovirus,IC50,10.926,1,100,0.412,ng/ml,2021-06-28
+Planas21,mAb102,B.1.1.7 Spike,"Figure 1d, Source Data Fig 1",vsv pseudovirus,IC50,15.624,1,100,0.412,ng/ml,2021-02-16
+Planas21,mAb102,B.1.351 Spike,"Figure 1d, Source Data Fig 1",vsv pseudovirus,IC50,6.704,1,100,0.412,ng/ml,2021-02-16
+Planas21,CP_01_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,2060.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_02_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1029.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_03_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,9323.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_04_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,117.800,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_05_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,4126.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_06_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,5408.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_07_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,3411.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_08_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1645.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_09_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,15299.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_10_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1756.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_11_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,6338.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_12_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,446.900,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_13_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1140.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_14_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,663.100,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_15_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1305.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_16_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1583.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_17_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,558.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_18_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1352.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_19_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1614.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_20_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,241.100,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_21_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,151.550,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_22_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,716.900,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_23_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,100.545,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_24_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1154.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_25_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,861.450,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_26_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,561.850,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_27_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,103.565,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_28_M3,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,121.300,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_01_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1433.350,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_02_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,688.350,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_03_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,4834.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_04_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,135.400,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_05_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,2250.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_06_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,6600.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_07_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,11291.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_08_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1783.200,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_09_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,5663.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_10_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,265.200,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_11_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,5705.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_12_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,983.050,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_13_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,957.250,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_14_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,667.050,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_15_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,461.750,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_16_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,3164.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_17_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1407.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_18_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1869.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_19_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,2758.150,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_20_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,464.600,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_21_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,705.865,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_22_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,2711.200,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_23_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,109.340,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_24_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,833.250,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_25_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,296.150,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_26_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,371.950,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_27_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,217.650,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_28_M3,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,146.020,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_01_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1987.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_02_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,696.400,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_03_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,2765.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_04_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,5970.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_05_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,271.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_06_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,10291.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_07_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,609.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_08_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,285.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_09_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,6182.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_10_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1570.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_11_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,402.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_12_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,60.670,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_13_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,486.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_14_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,154.200,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_15_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,265.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_16_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,223.700,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_17_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,35.840,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_18_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,130.200,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_19_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,189.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_20_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,104.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_21_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_22_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1269.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_23_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,65.420,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_24_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,224.700,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_25_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1575.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_26_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,32.050,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_27_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,36.350,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_28_M3,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_01_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,3808.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_02_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,2553.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_03_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,12879.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_04_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,655.600,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_05_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1239.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_07_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,3645.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_08_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1539.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_09_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1191.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_10_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,477.650,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_11_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1489.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_12_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,2649.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_13_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,704.600,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_14_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1969.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_15_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,4709.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_17_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_18_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1385.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_19_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,626.250,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_20_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,73.235,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_21_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,46.070,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_22_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,848.100,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_24_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1473.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_25_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1068.850,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_26_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,589.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_27_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_28_M6,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,144.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_01_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1863.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_02_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,832.550,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_03_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,19024.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_04_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1535.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_05_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,835.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_07_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,5018.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_08_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1827.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_09_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,4148.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_10_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,554.750,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_11_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,3193.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_12_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,3391.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_13_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,430.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_14_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,582.150,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_15_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,506.350,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_17_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_18_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,872.900,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_19_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1647.900,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_20_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,51.705,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_21_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,103.800,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_22_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,632.050,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_24_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,4156.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_25_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1704.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_26_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,182.725,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_27_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_28_M6,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,188.850,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_01_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,956.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_02_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,78.570,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_03_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,225.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_04_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,3254.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_05_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,73.530,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_07_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1679.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_08_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,558.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_09_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1985.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_10_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,426.600,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_11_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1244.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_12_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,210.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_13_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,184.100,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_14_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,395.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_15_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,104.100,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_17_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_18_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,128.700,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_19_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,114.800,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_20_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_21_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_22_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,431.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_24_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,312.400,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_25_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1232.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_26_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_27_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_28_M6,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_31_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,173.750,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_56_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,165.145,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_33_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_40_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,97.545,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_29_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1167.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_49_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,124.655,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_50_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,51.835,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_46_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1081.900,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_57_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,261.300,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_47_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,76.395,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_58_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,79.760,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_53_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,281.450,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_30_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,408.550,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_54_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1200.250,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_55_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,356.800,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_45_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,149.590,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_32_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,96.500,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_44_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,76.865,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_38_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,809.150,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_41_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,587.050,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_34_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,210.300,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_36_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,200.000,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_37_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,156.800,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_48_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,947.300,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_39_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,129.980,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_43_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,42.785,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_35_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,172.400,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_51_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,72.650,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_42_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,930.400,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_52_M9,S:614G,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,905.600,1,7680,7.500,NULL,2021-06-28
+Planas21,CP_31_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,158.360,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_56_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,242.050,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_33_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,64.540,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_40_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,159.600,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_29_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,833.650,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_49_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,129.025,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_50_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,70.195,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_46_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,2166.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_57_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,117.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_47_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,232.150,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_58_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,118.670,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_53_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,131.245,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_30_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,222.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_54_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,792.900,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_55_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,330.100,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_45_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,168.250,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_32_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,87.410,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_44_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,147.535,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_38_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,853.650,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_41_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,565.100,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_34_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,229.050,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_36_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,167.650,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_37_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,191.100,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_48_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1223.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_39_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,228.850,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_43_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,34.570,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_35_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,340.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_51_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,285.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_42_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1804.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_52_M9,B.1.1.7 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1225.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_31_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,42.660,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_56_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,92.480,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_33_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_40_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,33.590,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_29_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,210.800,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_49_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_50_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_46_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,643.900,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_57_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_47_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_58_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_53_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_30_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,58.530,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_54_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,121.200,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_55_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,79.650,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_45_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,122.100,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_32_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,53.370,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_44_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_38_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,1764.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_41_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,430.800,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_34_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,133.500,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_36_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_37_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,33.360,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_48_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,939.100,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_39_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,139.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_43_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_35_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,184.300,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_51_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_42_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,102.400,1,7680,7.500,NULL,2021-03-29
+Planas21,CP_52_M9,B.1.351 Spike,"Figure 2b, Source Data Fig 2",vsv pseudovirus,NT50,289.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_02_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,11.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_03_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,34.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_04_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,13.600,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_05_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,49.900,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_06_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,141.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_07_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,117.900,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_08_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,23.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_09_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,27.100,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_10_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,30.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_11_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_12_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_13_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,57.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_15_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_16_W2,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,16.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_01_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_03_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,12.300,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,102.200,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,113.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_10_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_12_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_13_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,13.300,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_15_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_16_W2,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_03_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,11.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_10_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_12_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_13_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_15_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_16_W2,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,24.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_02_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_03_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,29.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_04_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,40.200,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_05_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,147.600,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_06_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,207.900,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_07_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,421.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_08_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,16.100,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_09_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,81.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_10_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,58.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_11_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_12_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_13_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,224.900,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_14_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,281.900,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_15_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,37.600,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_16_W3,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,113.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_01_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,29.200,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_03_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,55.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,78.600,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,152.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,18.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_10_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,55.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_12_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_13_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,216.400,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_14_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,122.900,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_15_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_16_W3,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_03_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,30.300,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,23.600,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_10_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_12_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_13_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,11.400,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_14_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,10.200,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_15_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_16_W3,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,30.100,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_02_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,147.600,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_04_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,25.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_05_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2104.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_06_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,3348.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_07_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,382.300,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_08_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,101.400,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_09_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,3659.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_10_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,1184.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_11_W4,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,54.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_01_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,215.100,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2507.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,3734.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,573.900,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,80.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,6203.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_10_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2718.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W4,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,45.400,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,42.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,256.300,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,601.600,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,213.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,22.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,68.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_10_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,441.900,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W4,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,20.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,13.100,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_02_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,494.600,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_03_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,1292.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_04_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,436.700,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_05_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,5639.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_06_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,1087.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_07_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2652.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_08_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2860.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_09_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2163.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_11_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,1251.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_12_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2045.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_15_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,17.400,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_16_W5,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,194.500,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_01_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,10.600,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,657.700,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_03_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2884.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,327.200,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,10198.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,5107.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,5939.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,4268.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2526.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,848.300,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_12_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2021.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_15_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_16_W5,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,87.600,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,84.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_03_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,176.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,34.600,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,529.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,454.300,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,550.200,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,213.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,22.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,64.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_12_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,43.400,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_15_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_16_W5,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,16.900,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_02_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,314.900,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_03_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2166.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_04_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,223.600,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_05_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7810.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_06_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,1666.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_07_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,3325.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_08_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,1791.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_09_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,3267.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_10_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,4564.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_11_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,347.600,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_15_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,3404.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_16_W6,S:614G,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,1005.000,1,7680,7.500,NULL,2021-06-28
+Planas21,BNT162b2_01_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,23.300,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2094.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_03_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7114.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,792.400,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,24337.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,5417.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,14453.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7308.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7661.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_10_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,13624.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,2592.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_15_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7185.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_16_W6,B.1.1.7 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,3812.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_01_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,7.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_02_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,85.600,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_03_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,196.500,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_04_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,30.900,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_05_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,557.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_06_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,513.300,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_07_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,688.800,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_08_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,118.900,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_09_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,15.400,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_10_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,1248.000,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_11_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,119.100,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_15_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,252.900,1,7680,7.500,NULL,2021-03-29
+Planas21,BNT162b2_16_W6,B.1.351 Spike,"Figure 4b/c, Source Data Fig 4",vsv pseudovirus,NT50,133.800,1,7680,7.500,NULL,2021-03-29
