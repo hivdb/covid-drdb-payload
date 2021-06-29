@@ -1,13 +1,24 @@
 ﻿ref_name,rx_name,ab_name
 Supasa21,Cilgavimab,Cilgavimab
 Supasa21,Tixagevimab,Tixagevimab
+Supasa21,AZD1061,Cilgavimab
+Supasa21,AZD8895,Tixagevimab
 Supasa21,AZD7442,Tixagevimab
 Supasa21,AZD7442,Cilgavimab
-Supasa21,Imdevimab,Imdevimab
-Supasa21,Casirivimab,Casirivimab
+Supasa21,REGN10987,Imdevimab
+Supasa21,REGN10933,Casirivimab
 Supasa21,ADG10,ADG10
 Supasa21,ADG20,ADG20
 Supasa21,ADG30,ADG30
-Supasa21,Bamlanivimab,Bamlanivimab
-Supasa21,Etesevimab,Etesevimab
-Supasa21,Vir-7831,Sotrovimab
+Supasa21,LY-CoV555,Bamlanivimab
+Supasa21,LY-CoV16,Etesevimab
+Supasa21,S309,Sotrovimab
+Supasa21,222,Fab 222
+Supasa21,150,Fab 150
+Supasa21,158,Fab 158
+Supasa21,175,Fab 175
+Supasa21,222H+222L,222HC + 222LC
+Supasa21,150H+222L,150HC + 222LC
+Supasa21,158H+222L,158HC + 222LC
+Supasa21,269H+222L,269HC + 222LC
+Supasa21,175H+222L,175HC + 222LC
