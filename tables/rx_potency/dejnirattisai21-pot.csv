@@ -191,3 +191,43 @@ Dejnirattisai21,AstraZeneca 22,P.1 full genome,"Figure 7B, Table S5",authentic v
 Dejnirattisai21,AstraZeneca 23,P.1 full genome,"Figure 7B, Table S5",authentic virus,NT50,67,1,NULL,20,NULL,2021-03-17
 Dejnirattisai21,AstraZeneca 24,P.1 full genome,"Figure 7B, Table S5",authentic virus,NT50,151,1,NULL,20,NULL,2021-03-17
 Dejnirattisai21,AstraZeneca 25,P.1 full genome,"Figure 7B, Table S5",authentic virus,NT50,25,1,NULL,20,NULL,2021-03-17
+Dejnirattisai21,150,VIC,Table S2,authentic virus,IC50,12,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,158,VIC,Table S2,authentic virus,IC50,31,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,175,VIC,Table S2,authentic virus,IC50,26,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,222,VIC,Table S2,authentic virus,IC50,19,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,AZD1061,VIC,Table S2,authentic virus,IC50,13,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,AZD8895,VIC,Table S2,authentic virus,IC50,5,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,AZD7442,VIC,Table S2,authentic virus,IC50,9,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,REGN10987,VIC,Table S2,authentic virus,IC50,32,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,REGN10933,VIC,Table S2,authentic virus,IC50,4,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,ADG10,VIC,Table S2,authentic virus,IC50,6,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,ADG20,VIC,Table S2,authentic virus,IC50,4,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,ADG30,VIC,Table S2,authentic virus,IC50,7,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,LY-CoV555,VIC,Table S2,authentic virus,IC50,6,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,LY-CoV16,VIC,Table S2,authentic virus,IC50,34,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,S309,VIC,Table S2,authentic virus,IC50,40,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,222H+222L,VIC,Table S2,authentic virus,IC50,17,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,150H+222L,VIC,Table S2,authentic virus,IC50,16,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,158H+222L,VIC,Table S2,authentic virus,IC50,33,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,175H+222L,VIC,Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,269H+222L,VIC,Table S2,authentic virus,IC50,552,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,150,P.1 full genome,Table S2,authentic virus,IC50,40,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,158,P.1 full genome,Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,175,P.1 full genome,Table S2,authentic virus,IC50,3881,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,222,P.1 full genome,Table S2,authentic virus,IC50,8,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,AZD1061,P.1 full genome,Table S2,authentic virus,IC50,7,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,AZD8895,P.1 full genome,Table S2,authentic virus,IC50,46,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,AZD7442,P.1 full genome,Table S2,authentic virus,IC50,6,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,REGN10987,P.1 full genome,Table S2,authentic virus,IC50,13,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,REGN10933,P.1 full genome,Table S2,authentic virus,IC50,6177,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,ADG10,P.1 full genome,Table S2,authentic virus,IC50,3,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,ADG20,P.1 full genome,Table S2,authentic virus,IC50,9,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,ADG30,P.1 full genome,Table S2,authentic virus,IC50,2,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,LY-CoV555,P.1 full genome,Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,LY-CoV16,P.1 full genome,Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,S309,P.1 full genome,Table S2,authentic virus,IC50,76,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,222H+222L,P.1 full genome,Table S2,authentic virus,IC50,9,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,150H+222L,P.1 full genome,Table S2,authentic virus,IC50,3,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,158H+222L,P.1 full genome,Table S2,authentic virus,IC50,19,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,175H+222L,P.1 full genome,Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Dejnirattisai21,269H+222L,P.1 full genome,Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
