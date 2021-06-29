@@ -1,0 +1,235 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhou21b,150,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,12,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,158,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,31,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,175,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,26,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,222,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,19,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,AZD1061,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,13,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,AZD8895,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,5,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,AZD7442,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,9,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,REGN10987,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,32,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,REGN10933,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,4,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,ADG10,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,6,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,ADG20,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,4,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,ADG30,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,7,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,LY-CoV555,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,6,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,LY-CoV16,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,34,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,S309,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,40,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,222H+222L,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,17,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,150H+222L,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,16,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,158H+222L,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,33,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,175H+222L,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,269H+222L,VIC,Dejnirattisai21 Table S2,authentic virus,IC50,552,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,150,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,350,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,158,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,175,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,222,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,17,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,AZD1061,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,14,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,AZD8895,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,46,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,AZD7442,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,12,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,REGN10987,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,7,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,REGN10933,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,3284,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,ADG10,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,11,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,ADG20,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,10,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,ADG30,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,29,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,LY-CoV555,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,LY-CoV16,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,S309,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,82,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,222H+222L,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,16,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,150H+222L,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,7,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,158H+222L,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,56,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,175H+222L,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,269H+222L,B.1.351 full genome,Dejnirattisai21 Table S2,authentic virus,IC50,10000,1,10000,NULL,ng/ml,2021-03-17
+Zhou21b,CP_1,VIC,Table S1A,authentic virus,NT50,61,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_2,VIC,Table S1A,authentic virus,NT50,689,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_3,VIC,Table S1A,authentic virus,NT50,526,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_4,VIC,Table S1A,authentic virus,NT50,409,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_5,VIC,Table S1A,authentic virus,NT50,369,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_6,VIC,Table S1A,authentic virus,NT50,1270,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_7,VIC,Table S1A,authentic virus,NT50,274,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_8,VIC,Table S1A,authentic virus,NT50,633,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_9,VIC,Table S1A,authentic virus,NT50,667,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_10,VIC,Table S1A,authentic virus,NT50,124,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_11,VIC,Table S1A,authentic virus,NT50,102,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_12,VIC,Table S1A,authentic virus,NT50,339,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_13,VIC,Table S1A,authentic virus,NT50,331,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_14,VIC,Table S1A,authentic virus,NT50,438,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_15,VIC,Table S1A,authentic virus,NT50,6397,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_16,VIC,Table S1A,authentic virus,NT50,44,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_17,VIC,Table S1A,authentic virus,NT50,1115,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_18,VIC,Table S1A,authentic virus,NT50,242,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_19,VIC,Table S1A,authentic virus,NT50,29,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_20,VIC,Table S1A,authentic virus,NT50,154,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_21,VIC,Table S1A,authentic virus,NT50,487,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_22,VIC,Table S1A,authentic virus,NT50,438,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_23,VIC,Table S1A,authentic virus,NT50,381,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_24,VIC,Table S1A,authentic virus,NT50,1647,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_25,VIC,Table S1A,authentic virus,NT50,913,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_26,VIC,Table S1A,authentic virus,NT50,1880,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_27,VIC,Table S1A,authentic virus,NT50,1464,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_28,VIC,Table S1A,authentic virus,NT50,361,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_29,VIC,Table S1A,authentic virus,NT50,2859,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_30,VIC,Table S1A,authentic virus,NT50,1109,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_31,VIC,Table S1A,authentic virus,NT50,811,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_32,VIC,Table S1A,authentic virus,NT50,395,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_33,VIC,Table S1A,authentic virus,NT50,1144,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_34,VIC,Table S1A,authentic virus,NT50,676,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_1,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_2,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_3,B.1.351 full genome,Table S1A,authentic virus,NT50,88,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_4,B.1.351 full genome,Table S1A,authentic virus,NT50,339,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_5,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_6,B.1.351 full genome,Table S1A,authentic virus,NT50,522,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_7,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_8,B.1.351 full genome,Table S1A,authentic virus,NT50,111,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_9,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_10,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_11,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_12,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_13,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_14,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_15,B.1.351 full genome,Table S1A,authentic virus,NT50,1147,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_16,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_17,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_18,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_19,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_20,B.1.351 full genome,Table S1A,authentic virus,NT50,21,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_21,B.1.351 full genome,Table S1A,authentic virus,NT50,58,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_22,B.1.351 full genome,Table S1A,authentic virus,NT50,53,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_23,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_24,B.1.351 full genome,Table S1A,authentic virus,NT50,72,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_25,B.1.351 full genome,Table S1A,authentic virus,NT50,202,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_26,B.1.351 full genome,Table S1A,authentic virus,NT50,348,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_27,B.1.351 full genome,Table S1A,authentic virus,NT50,67,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_28,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_29,B.1.351 full genome,Table S1A,authentic virus,NT50,748,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_30,B.1.351 full genome,Table S1A,authentic virus,NT50,184,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_31,B.1.351 full genome,Table S1A,authentic virus,NT50,210,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_32,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_33,B.1.351 full genome,Table S1A,authentic virus,NT50,48,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_34,B.1.351 full genome,Table S1A,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_1,VIC,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_2,VIC,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_3,VIC,Table S1B,authentic virus,NT50,440,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_4,VIC,Table S1B,authentic virus,NT50,136884,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_5,VIC,Table S1B,authentic virus,NT50,1506,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_6,VIC,Table S1B,authentic virus,NT50,370,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_7,VIC,Table S1B,authentic virus,NT50,2250,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_8,VIC,Table S1B,authentic virus,NT50,2999,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_9,VIC,Table S1B,authentic virus,NT50,970,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_10,VIC,Table S1B,authentic virus,NT50,3735,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_11,VIC,Table S1B,authentic virus,NT50,2193,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_12,VIC,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_13,VIC,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_1,B.1.351 full genome,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_2,B.1.351 full genome,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_3,B.1.351 full genome,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_4,B.1.351 full genome,Table S1B,authentic virus,NT50,81493,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_5,B.1.351 full genome,Table S1B,authentic virus,NT50,278,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_6,B.1.351 full genome,Table S1B,authentic virus,NT50,80,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_7,B.1.351 full genome,Table S1B,authentic virus,NT50,159,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_8,B.1.351 full genome,Table S1B,authentic virus,NT50,867,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_9,B.1.351 full genome,Table S1B,authentic virus,NT50,336,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_10,B.1.351 full genome,Table S1B,authentic virus,NT50,1150,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_11,B.1.351 full genome,Table S1B,authentic virus,NT50,705,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_12,B.1.351 full genome,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,CP_B.1.1.7_13,B.1.351 full genome,Table S1B,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_1,VIC,Table S2,authentic virus,NT50,1149,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_2,VIC,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_3,VIC,Table S2,authentic virus,NT50,1727,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_4,VIC,Table S2,authentic virus,NT50,2234,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_5,VIC,Table S2,authentic virus,NT50,3016,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_6,VIC,Table S2,authentic virus,NT50,1521,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_7,VIC,Table S2,authentic virus,NT50,609,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_8,VIC,Table S2,authentic virus,NT50,4340,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_9,VIC,Table S2,authentic virus,NT50,1467,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_10,VIC,Table S2,authentic virus,NT50,1757,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_11,VIC,Table S2,authentic virus,NT50,860,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_12,VIC,Table S2,authentic virus,NT50,1749,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_13,VIC,Table S2,authentic virus,NT50,1851,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_14,VIC,Table S2,authentic virus,NT50,407,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_15,VIC,Table S2,authentic virus,NT50,1285,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_16,VIC,Table S2,authentic virus,NT50,1286,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_17,VIC,Table S2,authentic virus,NT50,1810,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_18,VIC,Table S2,authentic virus,NT50,1198,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_19,VIC,Table S2,authentic virus,NT50,466,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_20,VIC,Table S2,authentic virus,NT50,1539,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_21,VIC,Table S2,authentic virus,NT50,184,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_22,VIC,Table S2,authentic virus,NT50,1061,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_23,VIC,Table S2,authentic virus,NT50,1658,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_24,VIC,Table S2,authentic virus,NT50,1155,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_25,VIC,Table S2,authentic virus,NT50,8092,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_1,B.1.351 full genome,Table S2,authentic virus,NT50,73,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_2,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_3,B.1.351 full genome,Table S2,authentic virus,NT50,230,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_4,B.1.351 full genome,Table S2,authentic virus,NT50,420,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_5,B.1.351 full genome,Table S2,authentic virus,NT50,577,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_6,B.1.351 full genome,Table S2,authentic virus,NT50,152,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_7,B.1.351 full genome,Table S2,authentic virus,NT50,109,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_8,B.1.351 full genome,Table S2,authentic virus,NT50,1255,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_9,B.1.351 full genome,Table S2,authentic virus,NT50,102,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_10,B.1.351 full genome,Table S2,authentic virus,NT50,124,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_11,B.1.351 full genome,Table S2,authentic virus,NT50,121,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_12,B.1.351 full genome,Table S2,authentic virus,NT50,66,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_13,B.1.351 full genome,Table S2,authentic virus,NT50,385,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_14,B.1.351 full genome,Table S2,authentic virus,NT50,122,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_15,B.1.351 full genome,Table S2,authentic virus,NT50,202,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_16,B.1.351 full genome,Table S2,authentic virus,NT50,91,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_17,B.1.351 full genome,Table S2,authentic virus,NT50,143,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_18,B.1.351 full genome,Table S2,authentic virus,NT50,93,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_19,B.1.351 full genome,Table S2,authentic virus,NT50,61,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_20,B.1.351 full genome,Table S2,authentic virus,NT50,178,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_21,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_22,B.1.351 full genome,Table S2,authentic virus,NT50,212,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_23,B.1.351 full genome,Table S2,authentic virus,NT50,100,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_24,B.1.351 full genome,Table S2,authentic virus,NT50,192,1,NULL,20,NULL,2021-03-17
+Zhou21b,BNT162b2_25,B.1.351 full genome,Table S2,authentic virus,NT50,3006,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_1,VIC,Table S2,authentic virus,NT50,495,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_2,VIC,Table S2,authentic virus,NT50,580,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_3,VIC,Table S2,authentic virus,NT50,253,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_4,VIC,Table S2,authentic virus,NT50,183,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_5,VIC,Table S2,authentic virus,NT50,432,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_6,VIC,Table S2,authentic virus,NT50,764,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_7,VIC,Table S2,authentic virus,NT50,133,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_8,VIC,Table S2,authentic virus,NT50,257,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_9,VIC,Table S2,authentic virus,NT50,501,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_10,VIC,Table S2,authentic virus,NT50,357,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_11,VIC,Table S2,authentic virus,NT50,334,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_12,VIC,Table S2,authentic virus,NT50,250,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_13,VIC,Table S2,authentic virus,NT50,122,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_14,VIC,Table S2,authentic virus,NT50,212,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_15,VIC,Table S2,authentic virus,NT50,789,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_16,VIC,Table S2,authentic virus,NT50,538,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_17,VIC,Table S2,authentic virus,NT50,1159,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_18,VIC,Table S2,authentic virus,NT50,353,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_19,VIC,Table S2,authentic virus,NT50,975,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_20,VIC,Table S2,authentic virus,NT50,169,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_21,VIC,Table S2,authentic virus,NT50,155,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_22,VIC,Table S2,authentic virus,NT50,152,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_23,VIC,Table S2,authentic virus,NT50,126,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_24,VIC,Table S2,authentic virus,NT50,293,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_25,VIC,Table S2,authentic virus,NT50,94,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_1,B.1.351 full genome,Table S2,authentic virus,NT50,155,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_2,B.1.351 full genome,Table S2,authentic virus,NT50,217,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_3,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_4,B.1.351 full genome,Table S2,authentic virus,NT50,62,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_5,B.1.351 full genome,Table S2,authentic virus,NT50,62,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_6,B.1.351 full genome,Table S2,authentic virus,NT50,54,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_7,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_8,B.1.351 full genome,Table S2,authentic virus,NT50,41,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_9,B.1.351 full genome,Table S2,authentic virus,NT50,128,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_10,B.1.351 full genome,Table S2,authentic virus,NT50,116,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_11,B.1.351 full genome,Table S2,authentic virus,NT50,45,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_12,B.1.351 full genome,Table S2,authentic virus,NT50,51,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_13,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_14,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_15,B.1.351 full genome,Table S2,authentic virus,NT50,94,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_16,B.1.351 full genome,Table S2,authentic virus,NT50,57,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_17,B.1.351 full genome,Table S2,authentic virus,NT50,36,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_18,B.1.351 full genome,Table S2,authentic virus,NT50,44,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_19,B.1.351 full genome,Table S2,authentic virus,NT50,69,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_20,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_21,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_22,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_23,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_24,B.1.351 full genome,Table S2,authentic virus,NT50,30,1,NULL,20,NULL,2021-03-17
+Zhou21b,AZD1222_25,B.1.351 full genome,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-03-17

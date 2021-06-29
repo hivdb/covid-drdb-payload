@@ -1,13 +1,22 @@
 ﻿ref_name,rx_name,ab_name
-Zhou21b,Cilgavimab,Cilgavimab
-Zhou21b,Tixagevimab,Tixagevimab
+Zhou21b,AZD1061,Cilgavimab
+Zhou21b,AZD8895,Tixagevimab
 Zhou21b,AZD7442,Tixagevimab
 Zhou21b,AZD7442,Cilgavimab
-Zhou21b,Imdevimab,Imdevimab
-Zhou21b,Casirivimab,Casirivimab
+Zhou21b,REGN10987,Imdevimab
+Zhou21b,REGN10933,Casirivimab
 Zhou21b,ADG10,ADG10
 Zhou21b,ADG20,ADG20
 Zhou21b,ADG30,ADG30
-Zhou21b,Bamlanivimab,Bamlanivimab
-Zhou21b,Etesevimab,Etesevimab
-Zhou21b,Vir-7831,Sotrovimab
+Zhou21b,LY-CoV555,Bamlanivimab
+Zhou21b,LY-CoV16,Etesevimab
+Zhou21b,S309,Sotrovimab
+Zhou21b,222,Fab 222
+Zhou21b,150,Fab 150
+Zhou21b,158,Fab 158
+Zhou21b,175,Fab 175
+Zhou21b,222H+222L,222HC + 222LC
+Zhou21b,150H+222L,150HC + 222LC
+Zhou21b,158H+222L,158HC + 222LC
+Zhou21b,269H+222L,269HC + 222LC
+Zhou21b,175H+222L,175HC + 222LC
