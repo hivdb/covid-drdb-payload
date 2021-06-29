@@ -1,0 +1,81 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Liu21d,BNT162b2_1,WA1,Table S1,chimeric virus,NT50,453,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_2,WA1,Table S1,chimeric virus,NT50,160,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_3,WA1,Table S1,chimeric virus,NT50,905,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_4,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_5,WA1,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_6,WA1,Table S1,chimeric virus,NT50,453,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_7,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_8,WA1,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_9,WA1,Table S1,chimeric virus,NT50,905,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_10,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_11,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_12,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_13,WA1,Table S1,chimeric virus,NT50,1280,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_14,WA1,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_15,WA1,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_16,WA1,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_17,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_18,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_19,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_20,WA1,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_1,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_2,B.1.429 Spike,Table S1,chimeric virus,NT50,80,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_3,B.1.429 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_4,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_5,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_6,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_7,B.1.429 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_8,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_9,B.1.429 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_10,B.1.429 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_11,B.1.429 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_12,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_13,B.1.429 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_14,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_15,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_16,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_17,B.1.429 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_18,B.1.429 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_19,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_20,B.1.429 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_1,B.1.526 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_2,B.1.526 Spike,Table S1,chimeric virus,NT50,160,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_3,B.1.526 Spike,Table S1,chimeric virus,NT50,1280,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_4,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_5,B.1.526 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_6,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_7,B.1.526 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_8,B.1.526 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_9,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_10,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_11,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_12,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_13,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_14,B.1.526 Spike,Table S1,chimeric virus,NT50,160,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_15,B.1.526 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_16,B.1.526 Spike,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_17,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_18,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_19,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_20,B.1.526 Spike,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_1,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_2,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,80,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_3,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,1280,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_4,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_5,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_6,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_7,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_8,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_9,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,1280,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_10,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_11,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_12,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,1280,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_13,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,1280,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_14,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,320,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_15,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_16,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,1280,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_17,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_18,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_19,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
+Liu21d,BNT162b2_20,B.1.1.7 Spike+S:484K,Table S1,chimeric virus,NT50,640,1,1280,40,NULL,2021-05-13
