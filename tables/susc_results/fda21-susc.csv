@@ -63,9 +63,9 @@ FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,B.1.617.1 Spike,1,"CAS+IMD Table 6,
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,B.1.617.3 Spike,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:452R+484Q,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,B.1.617.2 Spike,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:452R+478T,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
-FDA21,Casirivimab,Wuhan-Hu-1 Spike,S:452R+478T,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
-FDA21,Imdevimab,Wuhan-Hu-1 Spike,S:452R+478T,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:452R+478K,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
+FDA21,Casirivimab,Wuhan-Hu-1 Spike,S:452R+478K,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
+FDA21,Imdevimab,Wuhan-Hu-1 Spike,S:452R+478K,1,"CAS+IMD Table 6, Page31",=,1,IC50,NULL,NULL,1,vsv pseudovirus,2021-06-07
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:417E,1,CAS+IMD Page 31,=,182,IC50,NULL,NULL,1,vsv pseudovirus,2021-03-18
 FDA21,Casirivimab,Wuhan-Hu-1 Spike,S:417N,1,CAS+IMD Page 31,=,7,IC50,NULL,NULL,1,vsv pseudovirus,2021-03-18
 FDA21,Casirivimab,Wuhan-Hu-1 Spike,S:417R,1,CAS+IMD Page 31,=,61,IC50,NULL,NULL,1,vsv pseudovirus,2021-03-18
