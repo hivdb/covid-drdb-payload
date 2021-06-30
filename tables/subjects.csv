@@ -1118,8 +1118,10 @@ Shen21b,NVV_Ser_50,Human,1
 Shen21b,NVV_Ser_55,Human,1
 Shen21b,NVV_Ser_57,Human,1
 Shen21b,NVV_Ser_62,Human,1
-Skelly21,BNT,Human,1
-Skelly21,CP,Human,1
+Skelly21,BNT_1st,Human,11
+Skelly21,BNT_2nd,Human,25
+Skelly21,CP_Asymptomatic,Human,12
+Skelly21,CP_Mild,Human,12
 Stamatatos21,PT_1,Human,1
 Stamatatos21,PT_10,Human,1
 Stamatatos21,PT_11,Human,1

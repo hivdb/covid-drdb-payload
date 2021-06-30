@@ -1,6 +1,10 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Skelly21,CP,infection,~,2020-04-01,UK,B.1 full genome,NULL,Mild
-Skelly21,CP,isolation,~,2020-04-29,UK,B.1 full genome,NULL,NULL
-Skelly21,BNT,1st dose,~,2021-01-01,UK,NULL,BNT162b2,NULL
-Skelly21,BNT,2nd dose,~,2021-01-24,UK,NULL,BNT162b2,NULL
-Skelly21,BNT,2nd dose isolation,~,2021-02-01,UK,NULL,NULL,NULL
+Skelly21,CP_Asymptomatic,infection,~,2020-04-01,UK,B.1 full genome,NULL,Asymptomatic
+Skelly21,CP_Asymptomatic,isolation,~,2020-04-29,UK,B.1 full genome,NULL,NULL
+Skelly21,CP_Mild,infection,~,2020-04-01,UK,B.1 full genome,NULL,Mild
+Skelly21,CP_Mild,isolation,~,2020-04-29,UK,B.1 full genome,NULL,NULL
+Skelly21,BNT_1st,1st dose,~,2021-01-01,UK,NULL,BNT162b2,NULL
+Skelly21,BNT_1st,1st dose isolation,~,2021-01-30,UK,NULL,NULL,NULL
+Skelly21,BNT_2nd,1st dose,~,2021-01-01,UK,NULL,BNT162b2,NULL
+Skelly21,BNT_2nd,2nd dose,~,2021-01-24,UK,NULL,BNT162b2,NULL
+Skelly21,BNT_2nd,2nd dose isolation,~,2021-02-01,UK,NULL,NULL,NULL
