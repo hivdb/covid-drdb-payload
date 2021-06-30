@@ -39,6 +39,7 @@ B.1.1.7 full genome,RdRP,323,L
 B.1.1.7 full genome,S,69,del
 B.1.1.7 full genome,S,70,del
 B.1.1.7 full genome,S,144,del
+B.1.1.7 full genome,S,145,del
 B.1.1.7 full genome,S,501,Y
 B.1.1.7 full genome,S,570,D
 B.1.1.7 full genome,S,614,G
@@ -46,6 +47,8 @@ B.1.1.7 full genome,S,681,H
 B.1.1.7 full genome,S,716,I
 B.1.1.7 full genome,S,982,A
 B.1.1.7 full genome,S,1118,H
+B.1.1.7 full genome,N,203,K
+B.1.1.7 full genome,N,204,R
 B.1.1.7 S1,S,69,del
 B.1.1.7 S1,S,70,del
 B.1.1.7 S1,S,144,del
@@ -414,6 +417,9 @@ P.2 full genome,S,484,K
 P.2 full genome,S,614,G
 P.2 full genome,S,1176,F
 P.2 full genome,N,119,S
+P.2 full genome,N,203,K
+P.2 full genome,N,204,R
+P.2 full genome,N,234,I
 PT188_EM,S,140,del
 PT188_EM,S,248,ins
 PT188_EM,S,484,K
@@ -1598,16 +1604,16 @@ B.1.617 full genome,ORF7a,43,Y
 B.1.617 full genome,ORF7a,82,A
 B.1.617 full genome,N,203,M
 B.1.617 full genome,N,377,Y
-B.1.617.2 full genome,nsp2,129,L
-B.1.617.2 full genome,PLpro,822,L
-B.1.617.2 full genome,PLpro,1274,Y
-B.1.617.2 full genome,nsp4,446,V
-B.1.617.2 full genome,nsp6,37,F
-B.1.617.2 full genome,nsp6,149,A
+B.1.617.2 full genome,PLpro,488,S
+B.1.617.2 full genome,PLpro,1228,L
+B.1.617.2 full genome,PLpro,1469,S
+B.1.617.2 full genome,nsp4,167,L
+B.1.617.2 full genome,nsp4,492,I
+B.1.617.2 full genome,nsp6,77,A
 B.1.617.2 full genome,RdRP,323,L
 B.1.617.2 full genome,RdRP,671,S
 B.1.617.2 full genome,nsp13,77,L
-B.1.617.2 full genome,nsp15,234,Y
+B.1.617.2 full genome,nsp14,394,V
 B.1.617.2 full genome,S,19,R
 B.1.617.2 full genome,S,156,G
 B.1.617.2 full genome,S,157,del
@@ -1618,13 +1624,14 @@ B.1.617.2 full genome,S,614,G
 B.1.617.2 full genome,S,681,R
 B.1.617.2 full genome,S,950,N
 B.1.617.2 full genome,M,82,T
-B.1.617.2 full genome,N,63,G
-B.1.617.2 full genome,N,377,Y
-B.1.617.2 full genome,N,203,M
-B.1.617.2 full genome,N,385,K
 B.1.617.2 full genome,ORF3a,26,L
 B.1.617.2 full genome,ORF7a,120,I
 B.1.617.2 full genome,ORF7a,82,V
+B.1.617.2 full genome,ORF8,119,del
+B.1.617.2 full genome,ORF8,120,del
+B.1.617.2 full genome,N,63,G
+B.1.617.2 full genome,N,377,Y
+B.1.617.2 full genome,N,203,M
 B.1.617.2 Spike,S,19,R
 B.1.617.2 Spike,S,156,G
 B.1.617.2 Spike,S,157,del
@@ -1778,8 +1785,8 @@ A.27.RN full genome,S,1219,V
 A.27.RN full genome,ORF3a,50,A
 A.27.RN full genome,ORF3a,173,G
 A.27.RN full genome,ORF8,84,S
+A.27.RN full genome,ORF3a,257,del
 A.27.RN full genome,ORF3a,258,del
-A.27.RN full genome,ORF3a,259,del
 A.27.RN full genome,ORF8,119,del
 A.27.RN full genome,ORF8,120,del
 A.27.RN full genome,N,202,N
