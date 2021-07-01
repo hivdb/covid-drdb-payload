@@ -1,0 +1,71 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Widera21,Bamlanivimab,FFM1,Table 1,authentic virus,NT50,1280,1,40000,20,NULL,2021-07-01
+Widera21,CP01,FFM1,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-07-01
+Widera21,CP02,FFM1,Table 1,authentic virus,NT50,40,1,40000,20,NULL,2021-07-01
+Widera21,CP03,FFM1,Table 1,authentic virus,NT50,40,1,40000,20,NULL,2021-07-01
+Widera21,CP04,FFM1,Table 1,authentic virus,NT50,320,1,40000,20,NULL,2021-07-01
+Widera21,CP05,FFM1,Table 1,authentic virus,NT50,80,1,40000,20,NULL,2021-07-01
+Widera21,CP06,FFM1,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-07-01
+Widera21,CP07,FFM1,Table 1,authentic virus,NT50,40,1,40000,20,NULL,2021-07-01
+Widera21,CP08,FFM1,Table 1,authentic virus,NT50,80,1,40000,20,NULL,2021-07-01
+Widera21,CP09,FFM1,Table 1,authentic virus,NT50,20,1,40000,20,NULL,2021-07-01
+Widera21,CP10,FFM1,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-07-01
+Widera21,BNT162b2_01,FFM1,Table 1,authentic virus,NT50,40,1,40000,20,NULL,2021-07-01
+Widera21,BNT162b2_02,FFM1,Table 1,authentic virus,NT50,320,1,40000,20,NULL,2021-07-01
+Widera21,BNT162b2_infected,FFM1,Table 1,authentic virus,NT50,1280,1,40000,20,NULL,2021-07-01
+Widera21,Bamlanivimab,FFM7,Table 1,authentic virus,NT50,1280,1,40000,20,NULL,2021-07-01
+Widera21,CP01,FFM7,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-07-01
+Widera21,CP02,FFM7,Table 1,authentic virus,NT50,20,1,40000,20,NULL,2021-07-01
+Widera21,CP03,FFM7,Table 1,authentic virus,NT50,40,1,40000,20,NULL,2021-07-01
+Widera21,CP04,FFM7,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-07-01
+Widera21,CP05,FFM7,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-07-01
+Widera21,CP06,FFM7,Table 1,authentic virus,NT50,80,1,40000,20,NULL,2021-07-01
+Widera21,CP07,FFM7,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-07-01
+Widera21,CP08,FFM7,Table 1,authentic virus,NT50,40,1,40000,20,NULL,2021-07-01
+Widera21,CP09,FFM7,Table 1,authentic virus,NT50,20,1,40000,20,NULL,2021-07-01
+Widera21,CP10,FFM7,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-07-01
+Widera21,BNT162b2_01,FFM7,Table 1,authentic virus,NT50,80,1,40000,20,NULL,2021-07-01
+Widera21,BNT162b2_02,FFM7,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-07-01
+Widera21,BNT162b2_infected,FFM7,Table 1,authentic virus,NT50,1280,1,40000,20,NULL,2021-07-01
+Widera21,Bamlanivimab,B.1.1.7 full genome,Table 1,authentic virus,NT50,1280,1,40000,20,NULL,2021-03-10
+Widera21,CP01,B.1.1.7 full genome,Table 1,authentic virus,NT50,20,1,40000,20,NULL,2021-03-10
+Widera21,CP02,B.1.1.7 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP03,B.1.1.7 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP04,B.1.1.7 full genome,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-03-10
+Widera21,CP05,B.1.1.7 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,CP06,B.1.1.7 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,CP07,B.1.1.7 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP08,B.1.1.7 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP09,B.1.1.7 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP10,B.1.1.7 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,BNT162b2_01,B.1.1.7 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,BNT162b2_02,B.1.1.7 full genome,Table 1,authentic virus,NT50,20,1,40000,20,NULL,2021-03-10
+Widera21,BNT162b2_infected,B.1.1.7 full genome,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-03-10
+Widera21,Bamlanivimab,B.1.351 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP01,B.1.351 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP02,B.1.351 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP03,B.1.351 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP04,B.1.351 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP05,B.1.351 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,CP06,B.1.351 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,CP07,B.1.351 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP08,B.1.351 full genome,Table 1,authentic virus,NT50,20,1,40000,20,NULL,2021-03-10
+Widera21,CP09,B.1.351 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP10,B.1.351 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,BNT162b2_01,B.1.351 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,BNT162b2_02,B.1.351 full genome,Table 1,authentic virus,NT50,40,1,40000,20,NULL,2021-03-10
+Widera21,BNT162b2_infected,B.1.351 full genome,Table 1,authentic virus,NT50,160,1,40000,20,NULL,2021-03-10
+Widera21,Bamlanivimab,P.2 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP01,P.2 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP02,P.2 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,CP03,P.2 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP04,P.2 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP05,P.2 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,CP06,P.2 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,CP07,P.2 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP08,P.2 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,CP09,P.2 full genome,Table 1,authentic virus,NT50,5,1,40000,20,NULL,2021-07-01
+Widera21,CP10,P.2 full genome,Table 1,authentic virus,NT50,20,1,40000,20,NULL,2021-03-10
+Widera21,BNT162b2_01,P.2 full genome,Table 1,authentic virus,NT50,10,1,40000,20,NULL,2021-03-10
+Widera21,BNT162b2_02,P.2 full genome,Table 1,authentic virus,NT50,20,1,40000,20,NULL,2021-03-10
+Widera21,BNT162b2_infected,P.2 full genome,Table 1,authentic virus,NT50,80,1,40000,20,NULL,2021-03-10
