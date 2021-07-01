@@ -1824,16 +1824,11 @@ Diemen_1363454,N,204,R
 Diemen_1363454,N,292,T
 Weigang21_d14,RdRP,323,L
 Weigang21_d14,S,614,G
+Weigang21_d14,M,175,M
 Weigang21_d14,N,203,K
 Weigang21_d14,N,204,R
-Weigang21_d14,M,175,M
-Weigang21_d105,RdRP,323,L
-Weigang21_d105,M,175,M
-Weigang21_d105,N,204,R
-Weigang21_d105,N,203,K
-Weigang21_d105,N,270,L
-Weigang21_d105,ORF3a,151,I
 Weigang21_d105,PLpro,1103,S
+Weigang21_d105,RdRP,323,L
 Weigang21_d105,S,13,I
 Weigang21_d105,S,141,del
 Weigang21_d105,S,142,del
@@ -1843,8 +1838,13 @@ Weigang21_d105,S,244,del
 Weigang21_d105,S,245,del
 Weigang21_d105,S,246,del
 Weigang21_d105,S,247,del
-Weigang21_d105,S,614,G
 Weigang21_d105,S,490,L
+Weigang21_d105,S,614,G
+Weigang21_d105,ORF3a,151,I
+Weigang21_d105,M,175,M
+Weigang21_d105,N,203,K
+Weigang21_d105,N,204,R
+Weigang21_d105,N,270,L
 Weigang21_d105 Spike,S,13,I
 Weigang21_d105 Spike,S,141,del
 Weigang21_d105 Spike,S,142,del
@@ -1854,8 +1854,8 @@ Weigang21_d105 Spike,S,244,del
 Weigang21_d105 Spike,S,245,del
 Weigang21_d105 Spike,S,246,del
 Weigang21_d105 Spike,S,247,del
-Weigang21_d105 Spike,S,614,G
 Weigang21_d105 Spike,S,490,L
+Weigang21_d105 Spike,S,614,G
 FIN-25,RdRP,323,L
 FIN-25,S,614,G
 SR121,nsp2,53,G
@@ -2246,3 +2246,51 @@ FFM1,ORF6,24,A
 FFM1,N,194,L
 FFM7,RdRP,323,L
 FFM7,S,614,G
+hCoV-19/Germany/NW-RKI-I-0026/2020,PLpro,183,I
+hCoV-19/Germany/NW-RKI-I-0026/2020,PLpro,890,D
+hCoV-19/Germany/NW-RKI-I-0026/2020,PLpro,1412,T
+hCoV-19/Germany/NW-RKI-I-0026/2020,nsp6,106,del
+hCoV-19/Germany/NW-RKI-I-0026/2020,nsp6,107,del
+hCoV-19/Germany/NW-RKI-I-0026/2020,nsp6,108,del
+hCoV-19/Germany/NW-RKI-I-0026/2020,RdRP,323,L
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,69,del
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,70,del
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,144,del
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,501,Y
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,570,D
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,614,G
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,681,H
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,716,I
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,982,A
+hCoV-19/Germany/NW-RKI-I-0026/2020,S,1118,H
+hCoV-19/Germany/NW-RKI-I-0026/2020,ORF8,27,stop
+hCoV-19/Germany/NW-RKI-I-0026/2020,ORF8,68,stop
+hCoV-19/Germany/NW-RKI-I-0026/2020,ORF8,73,C
+hCoV-19/Germany/NW-RKI-I-0026/2020,N,3,L
+hCoV-19/Germany/NW-RKI-I-0026/2020,N,203,K
+hCoV-19/Germany/NW-RKI-I-0026/2020,N,204,P
+hCoV-19/Germany/NW-RKI-I-0026/2020,N,235,F
+hCoV-19/Germany/NW-RKI-I-0029/2020,nsp2,85,I
+hCoV-19/Germany/NW-RKI-I-0029/2020,nsp2,160,I
+hCoV-19/Germany/NW-RKI-I-0029/2020,PLpro,837,N
+hCoV-19/Germany/NW-RKI-I-0029/2020,_3CLpro,90,R
+hCoV-19/Germany/NW-RKI-I-0029/2020,nsp6,106,del
+hCoV-19/Germany/NW-RKI-I-0029/2020,nsp6,107,del
+hCoV-19/Germany/NW-RKI-I-0029/2020,nsp6,108,del
+hCoV-19/Germany/NW-RKI-I-0029/2020,nsp10,39,N
+hCoV-19/Germany/NW-RKI-I-0029/2020,RdRP,323,L
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,18,F
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,80,A
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,242,del
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,243,del
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,244,del
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,417,N
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,484,K
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,501,Y
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,614,G
+hCoV-19/Germany/NW-RKI-I-0029/2020,S,701,V
+hCoV-19/Germany/NW-RKI-I-0029/2020,ORF3a,57,H
+hCoV-19/Germany/NW-RKI-I-0029/2020,ORF3a,131,L
+hCoV-19/Germany/NW-RKI-I-0029/2020,ORF3a,171,L
+hCoV-19/Germany/NW-RKI-I-0029/2020,E,71,L
+hCoV-19/Germany/NW-RKI-I-0029/2020,N,205,I
