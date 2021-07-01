@@ -1,0 +1,12 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gonzalez21,CP,19A_1707038,Figure 1A,authentic virus,NT50,160,34,2560,10,NULL,2021-05-13
+Gonzalez21,CP,B.1.1.241_1707040,Figure 1A,authentic virus,NT50,237.759086,34,2560,10,NULL,2021-05-13
+Gonzalez21,CP_Severe,19A_1707038,Figure 1C,authentic virus,NT50,498.933868,25,1280,10,NULL,2021-05-13
+Gonzalez21,CP_Severe,B.1.1.7_1707039,Figure 1C,authentic virus,NT50,246.131811,25,1280,10,NULL,2021-05-13
+Gonzalez21,CP_Severe,B.1.351_768828,Figure 1C,authentic virus,NT50,326.526056,25,1280,10,NULL,2021-05-13
+Gonzalez21,CP_Mild,19A_1707038,Figure 1C,authentic virus,NT50,81.094712,29,1280,10,NULL,2021-05-13
+Gonzalez21,CP_Mild,B.1.1.7_1707039,Figure 1C,authentic virus,NT50,39.7290991,29,1280,10,NULL,2021-05-13
+Gonzalez21,CP_Mild,B.1.351_768828,Figure 1C,authentic virus,NT50,39.7290991,29,1280,10,NULL,2021-05-13
+Gonzalez21,BNT162b2,19A_1707038,Figure 1C,authentic virus,NT50,194.480472,30,1280,10,NULL,2021-05-13
+Gonzalez21,BNT162b2,B.1.1.7_1707039,Figure 1C,authentic virus,NT50,121.420637,30,1280,10,NULL,2021-05-13
+Gonzalez21,BNT162b2,B.1.351_768828,Figure 1C,authentic virus,NT50,41.0913563,30,1280,10,NULL,2021-05-13
