@@ -2026,6 +2026,14 @@ B.1.617 Spike,S,484,Q
 B.1.617 Spike,S,614,G
 B.1.617 Spike,S,681,R
 B.1.617 Spike,S,1071,H
+B.1.617 Spike v2,S,154,K
+B.1.617 Spike v2,S,452,R
+B.1.617 Spike v2,S,484,Q
+B.1.617 Spike v2,S,614,G
+B.1.617 Spike v2,S,681,R
+B.1.617 Spike v2,S,950,N
+B.1.617 Spike v2,S,1072,K
+B.1.617 Spike v2,S,1073,R
 B.1.618 Spike,S,49,Y
 B.1.618 Spike,S,145,del
 B.1.618 Spike,S,146,del
@@ -2183,6 +2191,7 @@ hCoV-19/India/2020Q111,ORF7b,11,F
 hCoV-19/India/2020Q111,nsp2,198,I
 B.1 full genome,RdRP,323,L
 B.1 full genome,S,614,G
+B.1 Spike,S,614,G
 B.1_BavPat1/​2020_406862,S,614,G
 IC19 full genome,S,614,G
 IC19 full genome,ORF3a,57,H

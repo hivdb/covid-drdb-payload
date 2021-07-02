@@ -1,0 +1,57 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Jongeneelen21,Ad26_1,B.1 Spike,Figure 3B,HIV pseudovirus,NT50,1141.24516,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_2,B.1 Spike,Figure 3B,HIV pseudovirus,NT50,507.402534,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_3,B.1 Spike,Figure 3B,HIV pseudovirus,NT50,354.849941,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_4,B.1 Spike,Figure 3B,HIV pseudovirus,NT50,236.609174,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_5,B.1 Spike,Figure 3B,HIV pseudovirus,NT50,195.525152,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_6,B.1 Spike,Figure 3B,HIV pseudovirus,NT50,195.525152,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_7,B.1 Spike,Figure 3B,HIV pseudovirus,NT50,91.1767716,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_8,B.1 Spike,Figure 3B,HIV pseudovirus,NT50,91.1767716,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_1,B.1.1.7 Spike,Figure 3B,HIV pseudovirus,NT50,1381.04521,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_2,B.1.1.7 Spike,Figure 3B,HIV pseudovirus,NT50,708.44357,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_3,B.1.1.7 Spike,Figure 3B,HIV pseudovirus,NT50,354.849941,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_4,B.1.1.7 Spike,Figure 3B,HIV pseudovirus,NT50,260.283938,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_5,B.1.1.7 Spike,Figure 3B,HIV pseudovirus,NT50,195.525152,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_6,B.1.1.7 Spike,Figure 3B,HIV pseudovirus,NT50,195.525152,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_7,B.1.1.7 Spike,Figure 3B,HIV pseudovirus,NT50,79.0242761,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_8,B.1.1.7 Spike,Figure 3B,HIV pseudovirus,NT50,79.0242761,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_1,B.1.351 Spike:-18F-246I,Figure 3B,HIV pseudovirus,NT50,80.9311645,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_2,B.1.351 Spike:-18F-246I,Figure 3B,HIV pseudovirus,NT50,200.242041,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_3,B.1.351 Spike:-18F-246I,Figure 3B,HIV pseudovirus,NT50,205.073964,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_4,B.1.351 Spike:-18F-246I,Figure 3B,HIV pseudovirus,NT50,91.1767716,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_5,B.1.351 Spike:-18F-246I,Figure 3B,HIV pseudovirus,NT50,75.3446867,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_6,B.1.351 Spike:-18F-246I,Figure 3B,HIV pseudovirus,NT50,57.964642,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_7,B.1.351 Spike:-18F-246I,Figure 3B,HIV pseudovirus,NT50,20,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_8,B.1.351 Spike:-18F-246I,Figure 3B,HIV pseudovirus,NT50,20,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_1,B.1.617 Spike v2,Figure 3B,HIV pseudovirus,NT50,266.563081,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_2,B.1.617 Spike v2,Figure 3B,HIV pseudovirus,NT50,495.447189,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_3,B.1.617 Spike v2,Figure 3B,HIV pseudovirus,NT50,338.329194,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_4,B.1.617 Spike v2,Figure 3B,HIV pseudovirus,NT50,154.05145,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_5,B.1.617 Spike v2,Figure 3B,HIV pseudovirus,NT50,182.029638,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_6,B.1.617 Spike v2,Figure 3B,HIV pseudovirus,NT50,182.029638,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_7,B.1.617 Spike v2,Figure 3B,HIV pseudovirus,NT50,65.3027663,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_8,B.1.617 Spike v2,Figure 3B,HIV pseudovirus,NT50,35.9821278,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_1,B.1.617.2 Spike:+142D,Figure 3B,HIV pseudovirus,NT50,691.751326,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_2,B.1.617.2 Spike:+142D,Figure 3B,HIV pseudovirus,NT50,242.318651,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_3,B.1.617.2 Spike:+142D,Figure 3B,HIV pseudovirus,NT50,725.53421,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_4,B.1.617.2 Spike:+142D,Figure 3B,HIV pseudovirus,NT50,154.05145,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_5,B.1.617.2 Spike:+142D,Figure 3B,HIV pseudovirus,NT50,173.553833,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_6,B.1.617.2 Spike:+142D,Figure 3B,HIV pseudovirus,NT50,133.518703,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_7,B.1.617.2 Spike:+142D,Figure 3B,HIV pseudovirus,NT50,52.6923258,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_8,B.1.617.2 Spike:+142D,Figure 3B,HIV pseudovirus,NT50,23.427236,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_1,P.1 Spike,Figure 3B,HIV pseudovirus,NT50,93.3763389,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_2,P.1 Spike,Figure 3B,HIV pseudovirus,NT50,210.021211,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_3,P.1 Spike,Figure 3B,HIV pseudovirus,NT50,95.628969,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_4,P.1 Spike,Figure 3B,HIV pseudovirus,NT50,105.197462,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_5,P.1 Spike,Figure 3B,HIV pseudovirus,NT50,75.3446867,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_6,P.1 Spike,Figure 3B,HIV pseudovirus,NT50,75.3446867,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_7,P.1 Spike,Figure 3B,HIV pseudovirus,NT50,20,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_8,P.1 Spike,Figure 3B,HIV pseudovirus,NT50,20,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_1,P.2 Spike,Figure 3B,HIV pseudovirus,NT50,121.374917,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_2,P.2 Spike,Figure 3B,HIV pseudovirus,NT50,429.414115,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_3,P.2 Spike,Figure 3B,HIV pseudovirus,NT50,297.635144,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_4,P.2 Spike,Figure 3B,HIV pseudovirus,NT50,124.302991,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_5,P.2 Spike,Figure 3B,HIV pseudovirus,NT50,105.197462,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_6,P.2 Spike,Figure 3B,HIV pseudovirus,NT50,91.1767716,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_7,P.2 Spike,Figure 3B,HIV pseudovirus,NT50,39.7143417,1,10000,20,NULL,2021-07-02
+Jongeneelen21,Ad26_8,P.2 Spike,Figure 3B,HIV pseudovirus,NT50,39.7143417,1,10000,20,NULL,2021-07-02
