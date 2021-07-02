@@ -1,0 +1,6 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ryu21,CT-P59,S:614G,Supplementary Table 3,HIV pseudovirus,IC50,10,1,10000,NULL,ng/ml,2021-07-01
+Ryu21,CT-P59,B.1.351 Spike,Supplementary Table 3,HIV pseudovirus,IC50,330,1,10000,NULL,ng/ml,2021-07-01
+Ryu21,CT-P59,B.1_BavPat1/​2020_406862,Supplementary Table 4,authentic virus,IC50,2.0,1,10000,NULL,ng/ml,2021-07-01
+Ryu21,CT-P59,B.1.1.7 full genome,Supplementary Table 4,authentic virus,IC50,2.8,1,10000,NULL,ng/ml,2021-07-01
+Ryu21,CT-P59,B.1.351 full genome,Supplementary Table 4,authentic virus,IC50,39.5,1,10000,NULL,ng/ml,2021-07-01
