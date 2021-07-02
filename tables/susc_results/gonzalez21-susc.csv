@@ -1,8 +1,8 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
 Gonzalez21,CP,19A_1707038,B.1.1.241_1707040,1,Figure 1A,=,0.7,50,NULL,NULL,34,authentic virus,2021-05-13
-Gonzalez21,CP_Severe,19A_1707038,B.1.1.7_1707039,1,Figure 1C,=,1.7,50,NULL,NULL,25,authentic virus,2021-05-13
-Gonzalez21,CP_Severe,19A_1707038,B.1.351_768828,1,Figure 1C,=,2.4,50,NULL,NULL,25,authentic virus,2021-05-13
-Gonzalez21,CP_Mild,19A_1707038,B.1.1.7_1707039,1,Figure 1C,=,2.0,50,NULL,NULL,29,authentic virus,2021-05-13
-Gonzalez21,CP_Mild,19A_1707038,B.1.351_768828,1,Figure 1C,=,2.0,50,NULL,NULL,29,authentic virus,2021-05-13
-Gonzalez21,BNT162b2,19A_1707038,B.1.1.7_1707039,1,Figure 1C,=,1.6,50,NULL,NULL,30,authentic virus,2021-05-13
-Gonzalez21,BNT162b2,19A_1707038,B.1.351_768828,1,Figure 1C,=,4.7,50,NULL,NULL,30,authentic virus,2021-05-13
+Gonzalez21,CP_Severe,19A_1707038,B.1.1.7 full genome_1707039,1,Figure 1C,=,1.7,50,NULL,NULL,25,authentic virus,2021-05-13
+Gonzalez21,CP_Severe,19A_1707038,B.1.351 full genome_768828,1,Figure 1C,=,2.4,50,NULL,NULL,25,authentic virus,2021-05-13
+Gonzalez21,CP_Mild,19A_1707038,B.1.1.7 full genome_1707039,1,Figure 1C,=,2.0,50,NULL,NULL,29,authentic virus,2021-05-13
+Gonzalez21,CP_Mild,19A_1707038,B.1.351 full genome_768828,1,Figure 1C,=,2.0,50,NULL,NULL,29,authentic virus,2021-05-13
+Gonzalez21,BNT162b2,19A_1707038,B.1.1.7 full genome_1707039,1,Figure 1C,=,1.6,50,NULL,NULL,30,authentic virus,2021-05-13
+Gonzalez21,BNT162b2,19A_1707038,B.1.351 full genome_768828,1,Figure 1C,=,4.7,50,NULL,NULL,30,authentic virus,2021-05-13
