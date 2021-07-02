@@ -1,13 +1,21 @@
 ﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
-Greaney21c,CP_subject_C,Subject_C,NULL,2020-10-13,CP
-Greaney21c,CP_subject_E,Subject_E,NULL,2020-10-13,CP
-Greaney21c,CP_subject_I,Subject_I,NULL,2020-10-11,CP
-Greaney21c,CP_subject_B,Subject_B,NULL,2020-10-22,CP
-Greaney21c,CP_subject_A,Subject_A,NULL,2020-10-29,CP
-Greaney21c,CP_subject_G,Subject_G,NULL,2020-10-03,CP
-Greaney21c,M06,M06,NULL,2020-09-09,Mod
-Greaney21c,M11,M11,NULL,2020-09-09,Mod
-Greaney21c,M05,M05,NULL,2020-09-09,Mod
-Greaney21c,M03,M03,NULL,2020-09-09,Mod
-Greaney21c,M12,M12,NULL,2020-09-09,Mod
-Greaney21c,M14,M14,NULL,2020-09-09,Mod
+Greaney21c,participant A_210308,Subject_A,NULL,2020-10-29,CP
+Greaney21c,participant B_210308,Subject_B,NULL,2020-10-22,CP
+Greaney21c,participant C_210312,Subject_C,NULL,2020-10-13,CP
+Greaney21c,participant E_210312,Subject_E,NULL,2020-10-13,CP
+Greaney21c,participant G_210312,Subject_G,NULL,2020-10-03,CP
+Greaney21c,participant I_210312,Subject_I,NULL,2020-10-11,CP
+Greaney21c,participant A_210312,Subject_A,NULL,2020-10-29,CP
+Greaney21c,participant B_210312,Subject_B,NULL,2020-10-22,CP
+Greaney21c,M03_210308,M03,NULL,2020-09-09,Mod
+Greaney21c,M05_210308,M05,NULL,2020-09-09,Mod
+Greaney21c,M06_210308,M06,NULL,2020-09-09,Mod
+Greaney21c,M11_210308,M11,NULL,2020-09-09,Mod
+Greaney21c,M12_210308,M12,NULL,2020-09-09,Mod
+Greaney21c,M14_210308,M14,NULL,2020-09-09,Mod
+Greaney21c,M03_210312,M03,NULL,2020-09-09,Mod
+Greaney21c,M05_210312,M05,NULL,2020-09-09,Mod
+Greaney21c,M06_210312,M06,NULL,2020-09-09,Mod
+Greaney21c,M11_210312,M11,NULL,2020-09-09,Mod
+Greaney21c,M12_210312,M12,NULL,2020-09-09,Mod
+Greaney21c,M14_210312,M14,NULL,2020-09-09,Mod
