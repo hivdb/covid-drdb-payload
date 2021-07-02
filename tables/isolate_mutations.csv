@@ -87,6 +87,145 @@ B.1.1.7 Spike+S:484K,S,681,H
 B.1.1.7 Spike+S:484K,S,716,I
 B.1.1.7 Spike+S:484K,S,982,A
 B.1.1.7 Spike+S:484K,S,1118,H
+B.1.1.7 full genome_1707039,S,69,del
+B.1.1.7 full genome_1707039,S,70,del
+B.1.1.7 full genome_1707039,S,144,del
+B.1.1.7 full genome_1707039,S,74,K
+B.1.1.7 full genome_1707039,S,501,Y
+B.1.1.7 full genome_1707039,S,570,D
+B.1.1.7 full genome_1707039,S,614,G
+B.1.1.7 full genome_1707039,S,681,H
+B.1.1.7 full genome_1707039,S,982,A
+B.1.1.7 full genome_1707039,S,716,I
+B.1.1.7 full genome_1707039,S,1118,H
+B.1.1.7 full genome_1707039,N,3,L
+B.1.1.7 full genome_1707039,N,203,K
+B.1.1.7 full genome_1707039,N,204,R
+B.1.1.7 full genome_1707039,N,235,F
+B.1.1.7 full genome_1707039,ORF8,27,stop
+B.1.1.7 full genome_1707039,ORF8,52,I
+B.1.1.7 full genome_1707039,ORF8,73,C
+B.1.1.7 full genome_1707039,PLpro,183,I
+B.1.1.7 full genome_1707039,PLpro,307,R
+B.1.1.7 full genome_1707039,PLpro,890,D
+B.1.1.7 full genome_1707039,PLpro,1412,T
+B.1.1.7 full genome_1707039,PLpro,1910,K
+B.1.1.7 full genome_1707039,nsp4,433,G
+B.1.1.7 full genome_1707039,nsp6,106,del
+B.1.1.7 full genome_1707039,nsp6,107,del
+B.1.1.7 full genome_1707039,nsp6,108,del
+B.1.1.7 full genome_1707039,RdRP,323,L
+B.1.1.7 full genome_737204,PLpro,183,I
+B.1.1.7 full genome_737204,PLpro,890,D
+B.1.1.7 full genome_737204,PLpro,1412,T
+B.1.1.7 full genome_737204,nsp4,17,L
+B.1.1.7 full genome_737204,nsp6,106,del
+B.1.1.7 full genome_737204,nsp6,107,del
+B.1.1.7 full genome_737204,nsp6,108,del
+B.1.1.7 full genome_737204,RdRP,323,L
+B.1.1.7 full genome_737204,nsp13,460,R
+B.1.1.7 full genome_737204,S,69,del
+B.1.1.7 full genome_737204,S,70,del
+B.1.1.7 full genome_737204,S,144,del
+B.1.1.7 full genome_737204,S,501,Y
+B.1.1.7 full genome_737204,S,570,D
+B.1.1.7 full genome_737204,S,614,G
+B.1.1.7 full genome_737204,S,681,H
+B.1.1.7 full genome_737204,S,716,I
+B.1.1.7 full genome_737204,S,982,A
+B.1.1.7 full genome_737204,S,1118,H
+B.1.1.7 full genome_737204,ORF3a,15,F
+B.1.1.7 full genome_737204,ORF8,27,stop
+B.1.1.7 full genome_737204,ORF8,52,I
+B.1.1.7 full genome_737204,ORF8,73,C
+B.1.1.7 full genome_737204,N,3,L
+B.1.1.7 full genome_737204,N,203,K
+B.1.1.7 full genome_737204,N,204,R
+B.1.1.7 full genome_737204,N,235,F
+B.1.1.7 full genome_693400,PLpro,153,L
+B.1.1.7 full genome_693400,PLpro,183,I
+B.1.1.7 full genome_693400,PLpro,890,D
+B.1.1.7 full genome_693400,PLpro,1412,T
+B.1.1.7 full genome_693400,nsp6,106,del
+B.1.1.7 full genome_693400,nsp6,107,del
+B.1.1.7 full genome_693400,nsp6,108,del
+B.1.1.7 full genome_693400,RdRP,323,L
+B.1.1.7 full genome_693400,S,69,del
+B.1.1.7 full genome_693400,S,70,del
+B.1.1.7 full genome_693400,S,144,del
+B.1.1.7 full genome_693400,S,501,Y
+B.1.1.7 full genome_693400,S,570,D
+B.1.1.7 full genome_693400,S,614,G
+B.1.1.7 full genome_693400,S,681,H
+B.1.1.7 full genome_693400,S,716,I
+B.1.1.7 full genome_693400,S,982,A
+B.1.1.7 full genome_693400,S,1118,H
+B.1.1.7 full genome_693400,ORF3a,210,G
+B.1.1.7 full genome_693400,ORF8,27,stop
+B.1.1.7 full genome_693400,ORF8,52,I
+B.1.1.7 full genome_693400,ORF8,73,C
+B.1.1.7 full genome_693400,N,3,L
+B.1.1.7 full genome_693400,N,203,K
+B.1.1.7 full genome_693400,N,204,R
+B.1.1.7 full genome_693400,N,235,F
+B.1.1.7 full genome_723001,PLpro,183,I
+B.1.1.7 full genome_723001,PLpro,890,D
+B.1.1.7 full genome_723001,PLpro,1412,T
+B.1.1.7 full genome_723001,nsp6,106,del
+B.1.1.7 full genome_723001,nsp6,107,del
+B.1.1.7 full genome_723001,nsp6,108,del
+B.1.1.7 full genome_723001,RdRP,323,L
+B.1.1.7 full genome_723001,S,69,del
+B.1.1.7 full genome_723001,S,70,del
+B.1.1.7 full genome_723001,S,144,del
+B.1.1.7 full genome_723001,S,501,Y
+B.1.1.7 full genome_723001,S,570,D
+B.1.1.7 full genome_723001,S,614,G
+B.1.1.7 full genome_723001,S,681,H
+B.1.1.7 full genome_723001,S,716,I
+B.1.1.7 full genome_723001,S,982,A
+B.1.1.7 full genome_723001,S,1118,H
+B.1.1.7 full genome_723001,ORF8,27,stop
+B.1.1.7 full genome_723001,ORF8,52,I
+B.1.1.7 full genome_723001,ORF8,73,C
+B.1.1.7 full genome_723001,N,3,L
+B.1.1.7 full genome_723001,N,235,F
+B.1.1.7 full genome_723001,N,203,K
+B.1.1.7 full genome_723001,N,204,R
+B.1.1.7 full genome_601443,PLpro,183,I
+B.1.1.7 full genome_601443,PLpro,890,D
+B.1.1.7 full genome_601443,PLpro,1412,T
+B.1.1.7 full genome_601443,nsp6,106,del
+B.1.1.7 full genome_601443,nsp6,107,del
+B.1.1.7 full genome_601443,nsp6,108,del
+B.1.1.7 full genome_601443,RdRP,323,L
+B.1.1.7 full genome_601443,S,69,del
+B.1.1.7 full genome_601443,S,70,del
+B.1.1.7 full genome_601443,S,144,del
+B.1.1.7 full genome_601443,S,570,D
+B.1.1.7 full genome_601443,S,501,Y
+B.1.1.7 full genome_601443,S,614,G
+B.1.1.7 full genome_601443,S,681,H
+B.1.1.7 full genome_601443,S,716,I
+B.1.1.7 full genome_601443,S,982,A
+B.1.1.7 full genome_601443,S,1118,H
+B.1.1.7 full genome_601443,N,3,L
+B.1.1.7 full genome_601443,N,203,K
+B.1.1.7 full genome_601443,N,204,R
+B.1.1.7 full genome_601443,N,235,F
+B.1.1.7 full genome_601443,ORF8,27,stop
+B.1.1.7 full genome_601443,ORF8,52,I
+B.1.1.7 full genome_601443,ORF8,73,C
+B.1.1.7 Spike_601443,S,69,del
+B.1.1.7 Spike_601443,S,70,del
+B.1.1.7 Spike_601443,S,144,del
+B.1.1.7 Spike_601443,S,570,D
+B.1.1.7 Spike_601443,S,501,Y
+B.1.1.7 Spike_601443,S,614,G
+B.1.1.7 Spike_601443,S,681,H
+B.1.1.7 Spike_601443,S,716,I
+B.1.1.7 Spike_601443,S,982,A
+B.1.1.7 Spike_601443,S,1118,H
 B.1.351 full genome,_3CLpro,90,R
 B.1.351 full genome,E,71,L
 B.1.351 full genome,N,205,I
@@ -230,31 +369,87 @@ B.1.351 Spike:-242del-243del-244del,S,484,K
 B.1.351 Spike:-242del-243del-244del,S,501,Y
 B.1.351 Spike:-242del-243del-244del,S,614,G
 B.1.351 Spike:-242del-243del-244del,S,701,V
-B.1.351_2036294,nsp2,85,I
-B.1.351_2036294,PLpro,837,N
-B.1.351_2036294,PLpro,1251,I
-B.1.351_2036294,PLpro,1348,I
-B.1.351_2036294,_3CLpro,90,R
-B.1.351_2036294,_3CLpro,252,L
-B.1.351_2036294,nsp6,106,del
-B.1.351_2036294,nsp6,107,del
-B.1.351_2036294,nsp6,108,del
-B.1.351_2036294,nsp10,12,I
-B.1.351_2036294,RdRP,323,L
-B.1.351_2036294,nsp13,488,I
-B.1.351_2036294,nsp16,140,I
-B.1.351_2036294,S,80,A
-B.1.351_2036294,S,215,G
-B.1.351_2036294,S,417,N
-B.1.351_2036294,S,501,Y
-B.1.351_2036294,S,484,K
-B.1.351_2036294,S,614,G
-B.1.351_2036294,S,701,V
-B.1.351_2036294,E,71,L
-B.1.351_2036294,N,205,I
-B.1.351_2036294,ORF3a,57,H
-B.1.351_2036294,ORF3a,171,L
-B.1.351_2036294,ORF8,121,L
+B.1.351 full genome_2036294,nsp2,85,I
+B.1.351 full genome_2036294,PLpro,837,N
+B.1.351 full genome_2036294,PLpro,1251,I
+B.1.351 full genome_2036294,PLpro,1348,I
+B.1.351 full genome_2036294,_3CLpro,90,R
+B.1.351 full genome_2036294,_3CLpro,252,L
+B.1.351 full genome_2036294,nsp6,106,del
+B.1.351 full genome_2036294,nsp6,107,del
+B.1.351 full genome_2036294,nsp6,108,del
+B.1.351 full genome_2036294,nsp10,12,I
+B.1.351 full genome_2036294,RdRP,323,L
+B.1.351 full genome_2036294,nsp13,488,I
+B.1.351 full genome_2036294,nsp16,140,I
+B.1.351 full genome_2036294,S,80,A
+B.1.351 full genome_2036294,S,215,G
+B.1.351 full genome_2036294,S,417,N
+B.1.351 full genome_2036294,S,501,Y
+B.1.351 full genome_2036294,S,484,K
+B.1.351 full genome_2036294,S,614,G
+B.1.351 full genome_2036294,S,701,V
+B.1.351 full genome_2036294,E,71,L
+B.1.351 full genome_2036294,N,205,I
+B.1.351 full genome_2036294,ORF3a,57,H
+B.1.351 full genome_2036294,ORF3a,171,L
+B.1.351 full genome_2036294,ORF8,121,L
+B.1.351 full genome_768828,S,243,del
+B.1.351 full genome_768828,S,701,V
+B.1.351 full genome_768828,S,80,A
+B.1.351 full genome_768828,S,215,G
+B.1.351 full genome_768828,S,614,G
+B.1.351 full genome_768828,S,484,K
+B.1.351 full genome_768828,S,417,N
+B.1.351 full genome_768828,S,242,del
+B.1.351 full genome_768828,S,244,del
+B.1.351 full genome_768828,S,501,Y
+B.1.351 full genome_768828,E,71,L
+B.1.351 full genome_768828,N,205,I
+B.1.351 full genome_768828,ORF3a,57,H
+B.1.351 full genome_768828,ORF3a,171,L
+B.1.351 full genome_768828,nsp2,85,I
+B.1.351 full genome_768828,PLpro,837,N
+B.1.351 full genome_768828,nsp4,264,F
+B.1.351 full genome_768828,_3CLpro,90,R
+B.1.351 full genome_768828,nsp6,108,del
+B.1.351 full genome_768828,nsp6,107,del
+B.1.351 full genome_768828,nsp6,106,del
+B.1.351 full genome_768828,RdRP,323,L
+B.1.351 full genome_712096,nsp2,85,I
+B.1.351 full genome_712096,PLpro,837,N
+B.1.351 full genome_712096,nsp4,128,V
+B.1.351 full genome_712096,_3CLpro,90,R
+B.1.351 full genome_712096,nsp6,106,del
+B.1.351 full genome_712096,nsp6,107,del
+B.1.351 full genome_712096,nsp6,108,del
+B.1.351 full genome_712096,RdRP,323,L
+B.1.351 full genome_712096,S,18,F
+B.1.351 full genome_712096,S,80,A
+B.1.351 full genome_712096,S,215,G
+B.1.351 full genome_712096,S,242,del
+B.1.351 full genome_712096,S,243,del
+B.1.351 full genome_712096,S,244,del
+B.1.351 full genome_712096,S,417,N
+B.1.351 full genome_712096,S,484,K
+B.1.351 full genome_712096,S,501,Y
+B.1.351 full genome_712096,S,614,G
+B.1.351 full genome_712096,S,701,V
+B.1.351 full genome_712096,ORF3a,57,H
+B.1.351 full genome_712096,ORF3a,171,L
+B.1.351 full genome_712096,E,71,L
+B.1.351 full genome_712096,N,205,I
+B.1.351 Spike_712096,S,18,F
+B.1.351 Spike_712096,S,80,A
+B.1.351 Spike_712096,S,215,G
+B.1.351 Spike_712096,S,242,del
+B.1.351 Spike_712096,S,243,del
+B.1.351 Spike_712096,S,244,del
+B.1.351 Spike_712096,S,417,N
+B.1.351 Spike_712096,S,484,K
+B.1.351 Spike_712096,S,501,Y
+B.1.351 Spike_712096,S,614,G
+B.1.351 Spike_712096,S,701,V
 B.1.427 full genome,nsp2,85,I
 B.1.427 full genome,nsp4,395,T
 B.1.427 full genome,RdRP,323,L
@@ -289,6 +484,10 @@ B.1.429 Spike,S,13,I
 B.1.429 Spike,S,152,C
 B.1.429 Spike,S,452,R
 B.1.429 Spike,S,614,G
+B.1.429 Spike_824730,S,13,I
+B.1.429 Spike_824730,S,152,C
+B.1.429 Spike_824730,S,452,R
+B.1.429 Spike_824730,S,614,G
 B.1.525 Spike,S,52,R
 B.1.525 Spike,S,67,V
 B.1.525 Spike,S,69,del
@@ -419,6 +618,56 @@ P.1 full genome,S,614,G
 P.1 full genome,S,655,Y
 P.1 full genome,S,1027,I
 P.1 full genome,S,1176,F
+P.1 full genome_1060918,PLpro,370,L
+P.1 full genome_1060918,PLpro,977,Q
+P.1 full genome_1060918,nsp6,106,del
+P.1 full genome_1060918,nsp6,107,del
+P.1 full genome_1060918,nsp6,108,del
+P.1 full genome_1060918,RdRP,323,L
+P.1 full genome_1060918,nsp13,341,D
+P.1 full genome_1060918,S,18,F
+P.1 full genome_1060918,S,20,N
+P.1 full genome_1060918,S,26,S
+P.1 full genome_1060918,S,138,Y
+P.1 full genome_1060918,S,417,T
+P.1 full genome_1060918,S,484,K
+P.1 full genome_1060918,S,501,Y
+P.1 full genome_1060918,S,614,G
+P.1 full genome_1060918,S,655,Y
+P.1 full genome_1060918,S,1027,I
+P.1 full genome_1060918,S,1176,F
+P.1 full genome_1060918,ORF3a,253,P
+P.1 full genome_1060918,ORF8,92,K
+P.1 full genome_1060918,N,80,R
+P.1 full genome_1060918,N,203,K
+P.1 full genome_1060918,N,204,R
+P.1 full genome_1060971,PLpro,977,Q
+P.1 full genome_1060971,nsp6,106,del
+P.1 full genome_1060971,nsp6,107,del
+P.1 full genome_1060971,nsp6,108,del
+P.1 full genome_1060971,RdRP,323,L
+P.1 full genome_1060971,nsp13,341,D
+P.1 full genome_1060971,S,138,Y
+P.1 full genome_1060971,S,417,T
+P.1 full genome_1060971,S,484,K
+P.1 full genome_1060971,S,501,Y
+P.1 full genome_1060971,S,614,G
+P.1 full genome_1060971,ORF8,92,K
+P.1 full genome_1060971,N,80,R
+P.1 full genome_1060971,N,203,K
+P.1 full genome_1060971,N,204,R
+P.1 Spike_792683,S,18,F
+P.1 Spike_792683,S,20,N
+P.1 Spike_792683,S,26,S
+P.1 Spike_792683,S,138,Y
+P.1 Spike_792683,S,190,S
+P.1 Spike_792683,S,417,T
+P.1 Spike_792683,S,484,K
+P.1 Spike_792683,S,501,Y
+P.1 Spike_792683,S,614,G
+P.1 Spike_792683,S,655,Y
+P.1 Spike_792683,S,1027,I
+P.1 Spike_792683,S,1176,F
 P.2 Spike,S,484,K
 P.2 Spike,S,614,G
 P.2 Spike,S,1176,F
@@ -1951,34 +2200,6 @@ IC19 full genome,nsp15,320,L
 19A_1707038,N,13,L
 19A_1707038,ORF3a,251,V
 19A_1707038,nsp6,37,F
-B.1.1.7_1707039,S,69,del
-B.1.1.7_1707039,S,70,del
-B.1.1.7_1707039,S,144,del
-B.1.1.7_1707039,S,74,K
-B.1.1.7_1707039,S,501,Y
-B.1.1.7_1707039,S,570,D
-B.1.1.7_1707039,S,614,G
-B.1.1.7_1707039,S,681,H
-B.1.1.7_1707039,S,982,A
-B.1.1.7_1707039,S,716,I
-B.1.1.7_1707039,S,1118,H
-B.1.1.7_1707039,N,3,L
-B.1.1.7_1707039,N,203,K
-B.1.1.7_1707039,N,204,R
-B.1.1.7_1707039,N,235,F
-B.1.1.7_1707039,ORF8,27,stop
-B.1.1.7_1707039,ORF8,52,I
-B.1.1.7_1707039,ORF8,73,C
-B.1.1.7_1707039,PLpro,183,I
-B.1.1.7_1707039,PLpro,307,R
-B.1.1.7_1707039,PLpro,890,D
-B.1.1.7_1707039,PLpro,1412,T
-B.1.1.7_1707039,PLpro,1910,K
-B.1.1.7_1707039,nsp4,433,G
-B.1.1.7_1707039,nsp6,106,del
-B.1.1.7_1707039,nsp6,107,del
-B.1.1.7_1707039,nsp6,108,del
-B.1.1.7_1707039,RdRP,323,L
 B.1.1.241_1707040,S,614,G
 B.1.1.241_1707040,S,5,F
 B.1.1.241_1707040,S,477,N
@@ -1986,28 +2207,6 @@ B.1.1.241_1707040,S,3,G
 B.1.1.241_1707040,N,204,R
 B.1.1.241_1707040,N,203,K
 B.1.1.241_1707040,RdRP,323,L
-B.1.351_768828,S,243,del
-B.1.351_768828,S,701,V
-B.1.351_768828,S,80,A
-B.1.351_768828,S,215,G
-B.1.351_768828,S,614,G
-B.1.351_768828,S,484,K
-B.1.351_768828,S,417,N
-B.1.351_768828,S,242,del
-B.1.351_768828,S,244,del
-B.1.351_768828,S,501,Y
-B.1.351_768828,E,71,L
-B.1.351_768828,N,205,I
-B.1.351_768828,ORF3a,57,H
-B.1.351_768828,ORF3a,171,L
-B.1.351_768828,nsp2,85,I
-B.1.351_768828,PLpro,837,N
-B.1.351_768828,nsp4,264,F
-B.1.351_768828,_3CLpro,90,R
-B.1.351_768828,nsp6,108,del
-B.1.351_768828,nsp6,107,del
-B.1.351_768828,nsp6,106,del
-B.1.351_768828,RdRP,323,L
 B.1.1.318 Spike,S,95,I
 B.1.1.318 Spike,S,145,del
 B.1.1.318 Spike,S,484,K
@@ -2040,121 +2239,6 @@ B.1.1.519 Spike,S,681,H
 B.1.1.519 Spike,S,732,A
 SP02.2020,nsp6,37,F
 SP02.2020,ORF3a,251,V
-P.1 full genome_1060918,PLpro,370,L
-P.1 full genome_1060918,PLpro,977,Q
-P.1 full genome_1060918,nsp6,106,del
-P.1 full genome_1060918,nsp6,107,del
-P.1 full genome_1060918,nsp6,108,del
-P.1 full genome_1060918,RdRP,323,L
-P.1 full genome_1060918,nsp13,341,D
-P.1 full genome_1060918,S,18,F
-P.1 full genome_1060918,S,20,N
-P.1 full genome_1060918,S,26,S
-P.1 full genome_1060918,S,138,Y
-P.1 full genome_1060918,S,417,T
-P.1 full genome_1060918,S,484,K
-P.1 full genome_1060918,S,501,Y
-P.1 full genome_1060918,S,614,G
-P.1 full genome_1060918,S,655,Y
-P.1 full genome_1060918,S,1027,I
-P.1 full genome_1060918,S,1176,F
-P.1 full genome_1060918,ORF3a,253,P
-P.1 full genome_1060918,ORF8,92,K
-P.1 full genome_1060918,N,80,R
-P.1 full genome_1060918,N,203,K
-P.1 full genome_1060918,N,204,R
-P.1 full genome_1060971,PLpro,977,Q
-P.1 full genome_1060971,nsp6,106,del
-P.1 full genome_1060971,nsp6,107,del
-P.1 full genome_1060971,nsp6,108,del
-P.1 full genome_1060971,RdRP,323,L
-P.1 full genome_1060971,nsp13,341,D
-P.1 full genome_1060971,S,138,Y
-P.1 full genome_1060971,S,417,T
-P.1 full genome_1060971,S,484,K
-P.1 full genome_1060971,S,501,Y
-P.1 full genome_1060971,S,614,G
-P.1 full genome_1060971,ORF8,92,K
-P.1 full genome_1060971,N,80,R
-P.1 full genome_1060971,N,203,K
-P.1 full genome_1060971,N,204,R
-B.1.1.7 full genome_737204,PLpro,183,I
-B.1.1.7 full genome_737204,PLpro,890,D
-B.1.1.7 full genome_737204,PLpro,1412,T
-B.1.1.7 full genome_737204,nsp4,17,L
-B.1.1.7 full genome_737204,nsp6,106,del
-B.1.1.7 full genome_737204,nsp6,107,del
-B.1.1.7 full genome_737204,nsp6,108,del
-B.1.1.7 full genome_737204,RdRP,323,L
-B.1.1.7 full genome_737204,nsp13,460,R
-B.1.1.7 full genome_737204,S,69,del
-B.1.1.7 full genome_737204,S,70,del
-B.1.1.7 full genome_737204,S,144,del
-B.1.1.7 full genome_737204,S,501,Y
-B.1.1.7 full genome_737204,S,570,D
-B.1.1.7 full genome_737204,S,614,G
-B.1.1.7 full genome_737204,S,681,H
-B.1.1.7 full genome_737204,S,716,I
-B.1.1.7 full genome_737204,S,982,A
-B.1.1.7 full genome_737204,S,1118,H
-B.1.1.7 full genome_737204,ORF3a,15,F
-B.1.1.7 full genome_737204,ORF8,27,stop
-B.1.1.7 full genome_737204,ORF8,52,I
-B.1.1.7 full genome_737204,ORF8,73,C
-B.1.1.7 full genome_737204,N,3,L
-B.1.1.7 full genome_737204,N,203,K
-B.1.1.7 full genome_737204,N,204,R
-B.1.1.7 full genome_737204,N,235,F
-B.1.1.7 full genome_693400,PLpro,153,L
-B.1.1.7 full genome_693400,PLpro,183,I
-B.1.1.7 full genome_693400,PLpro,890,D
-B.1.1.7 full genome_693400,PLpro,1412,T
-B.1.1.7 full genome_693400,nsp6,106,del
-B.1.1.7 full genome_693400,nsp6,107,del
-B.1.1.7 full genome_693400,nsp6,108,del
-B.1.1.7 full genome_693400,RdRP,323,L
-B.1.1.7 full genome_693400,S,69,del
-B.1.1.7 full genome_693400,S,70,del
-B.1.1.7 full genome_693400,S,144,del
-B.1.1.7 full genome_693400,S,501,Y
-B.1.1.7 full genome_693400,S,570,D
-B.1.1.7 full genome_693400,S,614,G
-B.1.1.7 full genome_693400,S,681,H
-B.1.1.7 full genome_693400,S,716,I
-B.1.1.7 full genome_693400,S,982,A
-B.1.1.7 full genome_693400,S,1118,H
-B.1.1.7 full genome_693400,ORF3a,210,G
-B.1.1.7 full genome_693400,ORF8,27,stop
-B.1.1.7 full genome_693400,ORF8,52,I
-B.1.1.7 full genome_693400,ORF8,73,C
-B.1.1.7 full genome_693400,N,3,L
-B.1.1.7 full genome_693400,N,203,K
-B.1.1.7 full genome_693400,N,204,R
-B.1.1.7 full genome_693400,N,235,F
-B.1.1.7 full genome_723001,PLpro,183,I
-B.1.1.7 full genome_723001,PLpro,890,D
-B.1.1.7 full genome_723001,PLpro,1412,T
-B.1.1.7 full genome_723001,nsp6,106,del
-B.1.1.7 full genome_723001,nsp6,107,del
-B.1.1.7 full genome_723001,nsp6,108,del
-B.1.1.7 full genome_723001,RdRP,323,L
-B.1.1.7 full genome_723001,S,69,del
-B.1.1.7 full genome_723001,S,70,del
-B.1.1.7 full genome_723001,S,144,del
-B.1.1.7 full genome_723001,S,501,Y
-B.1.1.7 full genome_723001,S,570,D
-B.1.1.7 full genome_723001,S,614,G
-B.1.1.7 full genome_723001,S,681,H
-B.1.1.7 full genome_723001,S,716,I
-B.1.1.7 full genome_723001,S,982,A
-B.1.1.7 full genome_723001,S,1118,H
-B.1.1.7 full genome_723001,ORF8,27,stop
-B.1.1.7 full genome_723001,ORF8,52,I
-B.1.1.7 full genome_723001,ORF8,73,C
-B.1.1.7 full genome_723001,N,3,L
-B.1.1.7 full genome_723001,N,235,F
-B.1.1.7 full genome_723001,N,203,K
-B.1.1.7 full genome_723001,N,204,R
 hCoV-19/India/20203522,PLpro,183,I
 hCoV-19/India/20203522,PLpro,688,L
 hCoV-19/India/20203522,PLpro,890,D

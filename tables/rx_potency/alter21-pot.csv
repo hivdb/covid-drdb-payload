@@ -1,0 +1,16 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Alter21,Ad26_1st,WA1,Figure 1a,lentivirus pseudovirus,NT50,169,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_1st,S:614G,Figure 1a,lentivirus pseudovirus,NT50,142,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_1st,B.1.1.7 Spike_601443,Figure 1a,lentivirus pseudovirus,NT50,102,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_1st,B.1.429 Spike_824730,Figure 1a,lentivirus pseudovirus,NT50,80,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_1st,P.1 Spike_792683,Figure 1a,lentivirus pseudovirus,NT50,60,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_1st,B.1.351 Spike_712096,Figure 1a,lentivirus pseudovirus,NT50,51,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,WA1,Figure 1a,lentivirus pseudovirus,NT50,340,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,S:614G,Figure 1a,lentivirus pseudovirus,NT50,190,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,B.1.1.7 Spike_601443,Figure 1a,lentivirus pseudovirus,NT50,121,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,B.1.429 Spike_824730,Figure 1a,lentivirus pseudovirus,NT50,133,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,P.1 Spike_792683,Figure 1a,lentivirus pseudovirus,NT50,102,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,B.1.351 Spike_712096,Figure 1a,lentivirus pseudovirus,NT50,67,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,WA1,Extended Data Fig. 1,authentic virus,NT50,220,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,B.1.1.7 full genome_601443,Extended Data Fig. 1,authentic virus,NT50,268,25,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,B.1.351 full genome_712096,Extended Data Fig. 1,authentic virus,NT50,20,25,10000,20,NULL,2021-07-02
