@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Acevedo21,CoronaVac,1st dose,~,2021-02-22,Chile,NULL,CoronaVac,NULL
+Acevedo21,CoronaVac,2nd dose,~,2021-03-22,Chile,NULL,CoronaVac,NULL
+Acevedo21,CoronaVac,2nd dose isolation,~,2021-06-01,Chile,NULL,NULL,NULL
