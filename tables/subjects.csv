@@ -1171,11 +1171,12 @@ Tada21c,CP,Human,1
 Tada21c,Mod,Human,1
 Tang21,CP,Human,1
 Tang21,hCoV-2IG,Human,1
-Trinite21,BNT_infected,Human,1
-Trinite21,BNT_uninfected,Human,1
-Trinite21,CP_Aug20,Human,1
-Trinite21,CP_B.1.1.7,Human,1
-Trinite21,CP_Mar20,Human,1
+Trinite21,BNT_infected,Human,16
+Trinite21,BNT_uninfected,Human,16
+Trinite21,CP_Aug20,Human,16
+Trinite21,CP_B.1.1.7,Human,5
+Trinite21,CP_Mar20_early,Human,16
+Trinite21,CP_Mar20_late,Human,16
 Virtanen21,COV-11,Human,1
 Virtanen21,COV-14,Human,1
 Virtanen21,COV-17,Human,1

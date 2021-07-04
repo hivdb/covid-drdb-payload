@@ -1,7 +1,8 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Trinite21,CP_Mar20,infection,~,2020-03-01,Spain,B.1 full genome,NULL,NULL
-Trinite21,CP_Mar20,isolation,~,2020-04-18,Spain,B.1 full genome,NULL,NULL
-Trinite21,CP_Mar20,isolation,~,2020-09-13,Spain,B.1 full genome,NULL,NULL
+Trinite21,CP_Mar20_early,infection,~,2020-03-01,Spain,B.1 full genome,NULL,NULL
+Trinite21,CP_Mar20_early,isolation,~,2020-04-18,Spain,B.1 full genome,NULL,NULL
+Trinite21,CP_Mar20_late,infection,~,2020-03-01,Spain,B.1 full genome,NULL,NULL
+Trinite21,CP_Mar20_late,isolation,~,2020-09-13,Spain,B.1 full genome,NULL,NULL
 Trinite21,CP_Aug20,infection,~,2020-08-01,Spain,B.1 full genome,NULL,NULL
 Trinite21,CP_Aug20,isolation,~,2020-09-14,Spain,B.1 full genome,NULL,NULL
 Trinite21,CP_B.1.1.7,infection,~,2021-01-01,Spain,B.1.1.7 full genome,NULL,NULL
