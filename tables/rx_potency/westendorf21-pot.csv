@@ -1,0 +1,80 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Westendorf21,LY-CoV1404,WA1,Table 2,authentic virus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,WA1,Table 2,authentic virus,IC90,17,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,Wuhan-Hu-1,"Table 3A, 5",lentivirus pseudovirus,IC50,2.8,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,Wuhan-Hu-1,Table 3A,lentivirus pseudovirus,IC90,24,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404_Table3B,Wuhan-Hu-1,Table 3B,lentivirus pseudovirus,IC50,4.7,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404_Table3B,Wuhan-Hu-1,Table 3B,lentivirus pseudovirus,IC90,20.7,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,INMI1,Table 2,authentic virus,IC50,10,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,INMI1,Table 2,authentic virus,IC90,142,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,Diemen_1363454,Table 2,authentic virus,IC50,5,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,Diemen_1363454,Table 2,authentic virus,IC90,38,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,B.1.1.7 Spike,Table 3A,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,B.1.429 Spike,Table 3A,lentivirus pseudovirus,IC50,1,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,B.1.351 Spike,Table 3A,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,P.1 Spike,Table 3A,lentivirus pseudovirus,IC50,1,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,B.1.526 Spike,Table 3A,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,B.1.1.7 Spike,Table 3A,lentivirus pseudovirus,IC90,16,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,B.1.429 Spike,Table 3A,lentivirus pseudovirus,IC90,8,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,B.1.351 Spike,Table 3A,lentivirus pseudovirus,IC90,9,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,P.1 Spike,Table 3A,lentivirus pseudovirus,IC90,5,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,B.1.526 Spike,Table 3A,lentivirus pseudovirus,IC90,19,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:614G,Table 3B,lentivirus pseudovirus,IC50,2.7,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:439K+614G,Table 3B,lentivirus pseudovirus,IC50,2.3,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:453F+614G,Table 3B,lentivirus pseudovirus,IC50,2.7,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:501Y+614G,Table 3B,lentivirus pseudovirus,IC50,2.4,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:417N+614G,Table 3B,lentivirus pseudovirus,IC50,2.8,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:484K+614G,Table 3B,lentivirus pseudovirus,IC50,3,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:417N+484K+501Y+614G,Table 3B,lentivirus pseudovirus,IC50,4.2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.1.7 Spike,Table 3B,lentivirus pseudovirus,IC50,4.4,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.351 Spike,Table 3B,lentivirus pseudovirus,IC50,3.3,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,P.1 Spike,Table 3B,lentivirus pseudovirus,IC50,3.0,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.429 Spike,Table 3B,lentivirus pseudovirus,IC50,2.3,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.526 v.2 Spike,Table 3B,lentivirus pseudovirus,IC50,1.8,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.1.7 Spike+S:484K,Table 3B,lentivirus pseudovirus,IC50,7.9,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:486R,Table 3B,lentivirus pseudovirus,IC50,13.6,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:487R,Table 3B,lentivirus pseudovirus,IC50,1.3,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:452R,Table 3B,lentivirus pseudovirus,IC50,3.2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:490L,Table 3B,lentivirus pseudovirus,IC50,5.2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:494R,Table 3B,lentivirus pseudovirus,IC50,6.1,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:614G,Table 3B,lentivirus pseudovirus,IC90,10.5,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:439K+614G,Table 3B,lentivirus pseudovirus,IC90,9.8,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:453F+614G,Table 3B,lentivirus pseudovirus,IC90,9.8,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:501Y+614G,Table 3B,lentivirus pseudovirus,IC90,9.1,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:417N+614G,Table 3B,lentivirus pseudovirus,IC90,8,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:484K+614G,Table 3B,lentivirus pseudovirus,IC90,11.5,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:417N+484K+501Y+614G,Table 3B,lentivirus pseudovirus,IC90,12.7,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.1.7 Spike,Table 3B,lentivirus pseudovirus,IC90,11.5,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.351 Spike,Table 3B,lentivirus pseudovirus,IC90,8.7,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,P.1 Spike,Table 3B,lentivirus pseudovirus,IC90,12.2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.429 Spike,Table 3B,lentivirus pseudovirus,IC90,6.6,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.526 v.2 Spike,Table 3B,lentivirus pseudovirus,IC90,5.1,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,B.1.1.7 Spike+S:484K,Table 3B,lentivirus pseudovirus,IC90,22.2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:486R,Table 3B,lentivirus pseudovirus,IC90,44.8,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:487R,Table 3B,lentivirus pseudovirus,IC90,11.2,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:452R,Table 3B,lentivirus pseudovirus,IC90,10.4,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:490L,Table 3B,lentivirus pseudovirus,IC90,19.3,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404_Table3B,S:494R,Table 3B,lentivirus pseudovirus,IC90,37,1,10000,0.6,ng/ml,2021-05-04
+Westendorf21,LY-CoV1404,S:439K,Table 5,lentivirus pseudovirus,IC50,3,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:440D,"Table 5, 6",lentivirus pseudovirus,IC50,5,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:444Q,"Table 5, 6",lentivirus pseudovirus,IC50,250,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:445A,"Table 5, 6",lentivirus pseudovirus,IC50,227,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:446V,"Table 5, 6",lentivirus pseudovirus,IC50,13,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:501Y,Table 5,lentivirus pseudovirus,IC50,1,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:417E,Table 6,lentivirus pseudovirus,IC50,4,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:417N,Table 6,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:417T,Table 6,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:420N,Table 6,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:452R,Table 6,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:453F,Table 6,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:460K,Table 6,lentivirus pseudovirus,IC50,4,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:460S,Table 6,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:476S,Table 6,lentivirus pseudovirus,IC50,5,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:477N,Table 6,lentivirus pseudovirus,IC50,5,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:483A,Table 6,lentivirus pseudovirus,IC50,1,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:484D,Table 6,lentivirus pseudovirus,IC50,3,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:484K,Table 6,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:484Q,Table 6,lentivirus pseudovirus,IC50,2,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:486V,Table 6,lentivirus pseudovirus,IC50,3,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:490S,Table 6,lentivirus pseudovirus,IC50,6,1,10000,0.6,ng/ml,2021-07-05
+Westendorf21,LY-CoV1404,S:493K,Table 6,lentivirus pseudovirus,IC50,3,1,10000,0.6,ng/ml,2021-07-05
