@@ -1,13 +1,198 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
-Alter21,Ad26_2nd,WA1,P.1 Spike_792683,1,Figure 1a,=,3.3,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_1st,WA1,P.1 Spike_792683,1,Figure 1a,=,2.8,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_2nd,WA1,B.1.1.7 full genome_601443,1,Extended Data Fig. 1,=,0.8,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_2nd,WA1,B.1.351 full genome_712096,1,Extended Data Fig. 1,>,11,50,NULL,experimental,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_2nd,WA1,S:614G,1,Figure 1a,=,1.8,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_1st,WA1,S:614G,1,Figure 1a,=,1.2,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_2nd,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.8,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_1st,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.7,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_2nd,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.6,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_1st,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.1,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_2nd,WA1,B.1.351 Spike_712096,1,Figure 1a,=,5.1,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
-Alter21,Ad26_1st,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.3,50,NULL,NULL,25,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd,WA1,B.1.1.7 full genome_601443,1,Extended Data Fig. 1,=,0.8,50,NULL,NULL,25,authentic virus,2021-07-02
+Alter21,Ad26_2nd,WA1,B.1.351 full genome_712096,1,Extended Data Fig. 1,>,11,50,NULL,experimental,25,authentic virus,2021-07-02
+Alter21,Ad26_1st_17,WA1,S:614G,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_16,WA1,S:614G,1,Figure 1a,=,0.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_15,WA1,S:614G,1,Figure 1a,=,1.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_14,WA1,S:614G,1,Figure 1a,=,0.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_13,WA1,S:614G,1,Figure 1a,=,0.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_12,WA1,S:614G,1,Figure 1a,=,0.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_11,WA1,S:614G,1,Figure 1a,=,1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_10,WA1,S:614G,1,Figure 1a,=,4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_9,WA1,S:614G,1,Figure 1a,=,1.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_8,WA1,S:614G,1,Figure 1a,=,1.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_7,WA1,S:614G,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_6,WA1,S:614G,1,Figure 1a,=,1.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_5,WA1,S:614G,1,Figure 1a,=,0.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_4,WA1,S:614G,1,Figure 1a,=,0.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_3,WA1,S:614G,1,Figure 1a,=,0.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_2,WA1,S:614G,1,Figure 1a,=,1.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_1,WA1,S:614G,1,Figure 1a,=,0.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_5,WA1,S:614G,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_4,WA1,S:614G,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_3,WA1,S:614G,1,Figure 1a,=,2.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_2,WA1,S:614G,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_1,WA1,S:614G,1,Figure 1a,=,1.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_20,WA1,S:614G,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_19,WA1,S:614G,1,Figure 1a,=,2.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_18,WA1,S:614G,1,Figure 1a,=,2.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_17,WA1,S:614G,1,Figure 1a,=,1.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_16,WA1,S:614G,1,Figure 1a,=,0.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_15,WA1,S:614G,1,Figure 1a,=,0.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_14,WA1,S:614G,1,Figure 1a,=,1.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_13,WA1,S:614G,1,Figure 1a,=,1.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_12,WA1,S:614G,1,Figure 1a,=,0.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_11,WA1,S:614G,1,Figure 1a,=,7.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_10,WA1,S:614G,1,Figure 1a,=,1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_9,WA1,S:614G,1,Figure 1a,=,3.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_8,WA1,S:614G,1,Figure 1a,=,1.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_7,WA1,S:614G,1,Figure 1a,=,0.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_6,WA1,S:614G,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_19,WA1,S:614G,1,Figure 1a,=,0.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_18,WA1,S:614G,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_17,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_16,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_15,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_14,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,0.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_13,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_12,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_11,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_10,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,0.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_9,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,0.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_8,WA1,B.1.1.7 Spike_601443,1,Figure 1a,>,6.1,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_7,WA1,B.1.1.7 Spike_601443,1,Figure 1a,>,6.1,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_6,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,0.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_5,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_4,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,0.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_3,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,0.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_2,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_1,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_5,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_4,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_3,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_2,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_1,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,3.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_20,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,3.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_19,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_18,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,4.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_17,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_16,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_15,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_14,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_13,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_12,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,0.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_11,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,9.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_10,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_9,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,10.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_8,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_7,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_6,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_19,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_18,WA1,B.1.1.7 Spike_601443,1,Figure 1a,=,1.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_17,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_16,WA1,B.1.429 Spike_824730,1,Figure 1a,>,1.6,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_15,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_14,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_13,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_12,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_11,WA1,B.1.429 Spike_824730,1,Figure 1a,=,3.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_10,WA1,B.1.429 Spike_824730,1,Figure 1a,=,7.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_9,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_8,WA1,B.1.429 Spike_824730,1,Figure 1a,>,6.1,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_7,WA1,B.1.429 Spike_824730,1,Figure 1a,>,6.1,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_6,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_5,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_4,WA1,B.1.429 Spike_824730,1,Figure 1a,>,1.7,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_3,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_2,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_1,WA1,B.1.429 Spike_824730,1,Figure 1a,=,12.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_5,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_4,WA1,B.1.429 Spike_824730,1,Figure 1a,=,3.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_3,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_2,WA1,B.1.429 Spike_824730,1,Figure 1a,=,4.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_1,WA1,B.1.429 Spike_824730,1,Figure 1a,=,23.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_20,WA1,B.1.429 Spike_824730,1,Figure 1a,=,4.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_19,WA1,B.1.429 Spike_824730,1,Figure 1a,=,4.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_18,WA1,B.1.429 Spike_824730,1,Figure 1a,=,3.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_17,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_16,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_15,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_14,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_13,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_12,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_11,WA1,B.1.429 Spike_824730,1,Figure 1a,=,35.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_10,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_9,WA1,B.1.429 Spike_824730,1,Figure 1a,=,10.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_8,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_7,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_6,WA1,B.1.429 Spike_824730,1,Figure 1a,=,1.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_19,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_18,WA1,B.1.429 Spike_824730,1,Figure 1a,=,2.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_17,WA1,P.1 Spike_792683,1,Figure 1a,=,1.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_16,WA1,P.1 Spike_792683,1,Figure 1a,>,1.6,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_15,WA1,P.1 Spike_792683,1,Figure 1a,>,4,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_14,WA1,P.1 Spike_792683,1,Figure 1a,=,2.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_13,WA1,P.1 Spike_792683,1,Figure 1a,>,3.5,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_12,WA1,P.1 Spike_792683,1,Figure 1a,=,3.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_11,WA1,P.1 Spike_792683,1,Figure 1a,=,3.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_10,WA1,P.1 Spike_792683,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_9,WA1,P.1 Spike_792683,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_8,WA1,P.1 Spike_792683,1,Figure 1a,>,6.1,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_7,WA1,P.1 Spike_792683,1,Figure 1a,>,6.1,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_6,WA1,P.1 Spike_792683,1,Figure 1a,=,2.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_5,WA1,P.1 Spike_792683,1,Figure 1a,=,1.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_4,WA1,P.1 Spike_792683,1,Figure 1a,=,0.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_3,WA1,P.1 Spike_792683,1,Figure 1a,=,1.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_2,WA1,P.1 Spike_792683,1,Figure 1a,=,3.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_1,WA1,P.1 Spike_792683,1,Figure 1a,=,16.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_5,WA1,P.1 Spike_792683,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_4,WA1,P.1 Spike_792683,1,Figure 1a,=,2.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_3,WA1,P.1 Spike_792683,1,Figure 1a,=,4.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_2,WA1,P.1 Spike_792683,1,Figure 1a,=,8.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_1,WA1,P.1 Spike_792683,1,Figure 1a,=,17.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_20,WA1,P.1 Spike_792683,1,Figure 1a,=,4.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_19,WA1,P.1 Spike_792683,1,Figure 1a,=,3.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_18,WA1,P.1 Spike_792683,1,Figure 1a,=,7.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_17,WA1,P.1 Spike_792683,1,Figure 1a,=,2.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_16,WA1,P.1 Spike_792683,1,Figure 1a,=,2.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_15,WA1,P.1 Spike_792683,1,Figure 1a,=,6.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_14,WA1,P.1 Spike_792683,1,Figure 1a,=,3.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_13,WA1,P.1 Spike_792683,1,Figure 1a,=,3.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_12,WA1,P.1 Spike_792683,1,Figure 1a,=,4.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_11,WA1,P.1 Spike_792683,1,Figure 1a,=,35.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_10,WA1,P.1 Spike_792683,1,Figure 1a,=,5.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_9,WA1,P.1 Spike_792683,1,Figure 1a,=,10.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_8,WA1,P.1 Spike_792683,1,Figure 1a,=,2.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_7,WA1,P.1 Spike_792683,1,Figure 1a,=,0.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_6,WA1,P.1 Spike_792683,1,Figure 1a,=,2.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_19,WA1,P.1 Spike_792683,1,Figure 1a,=,2.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_18,WA1,P.1 Spike_792683,1,Figure 1a,=,3.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_17,WA1,B.1.351 Spike_712096,1,Figure 1a,=,1.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_16,WA1,B.1.351 Spike_712096,1,Figure 1a,=,0.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_15,WA1,B.1.351 Spike_712096,1,Figure 1a,>,4,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_14,WA1,B.1.351 Spike_712096,1,Figure 1a,=,17.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_13,WA1,B.1.351 Spike_712096,1,Figure 1a,=,0.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_12,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_11,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_10,WA1,B.1.351 Spike_712096,1,Figure 1a,=,2.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_9,WA1,B.1.351 Spike_712096,1,Figure 1a,>,19.2,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_8,WA1,B.1.351 Spike_712096,1,Figure 1a,=,2.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_7,WA1,B.1.351 Spike_712096,1,Figure 1a,>,6.1,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_6,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_5,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_4,WA1,B.1.351 Spike_712096,1,Figure 1a,>,1.7,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_3,WA1,B.1.351 Spike_712096,1,Figure 1a,>,3.7,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_2,WA1,B.1.351 Spike_712096,1,Figure 1a,=,5.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_1,WA1,B.1.351 Spike_712096,1,Figure 1a,=,14.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_5,WA1,B.1.351 Spike_712096,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_4,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_3,WA1,B.1.351 Spike_712096,1,Figure 1a,=,5.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_2,WA1,B.1.351 Spike_712096,1,Figure 1a,=,9.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_1,WA1,B.1.351 Spike_712096,1,Figure 1a,=,30.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_20,WA1,B.1.351 Spike_712096,1,Figure 1a,=,2.7,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_19,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_18,WA1,B.1.351 Spike_712096,1,Figure 1a,=,12.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_17,WA1,B.1.351 Spike_712096,1,Figure 1a,=,2.4,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_16,WA1,B.1.351 Spike_712096,1,Figure 1a,=,2.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_15,WA1,B.1.351 Spike_712096,1,Figure 1a,=,6.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_14,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_13,WA1,B.1.351 Spike_712096,1,Figure 1a,=,7.1,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_12,WA1,B.1.351 Spike_712096,1,Figure 1a,=,4.3,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_11,WA1,B.1.351 Spike_712096,1,Figure 1a,=,35.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_10,WA1,B.1.351 Spike_712096,1,Figure 1a,=,6.2,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_9,WA1,B.1.351 Spike_712096,1,Figure 1a,=,10.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_8,WA1,B.1.351 Spike_712096,1,Figure 1a,=,2.8,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_7,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.6,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_2nd_6,WA1,B.1.351 Spike_712096,1,Figure 1a,=,3.5,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_19,WA1,B.1.351 Spike_712096,1,Figure 1a,=,1.9,50,NULL,NULL,1,lentivirus pseudovirus,2021-07-02
+Alter21,Ad26_1st_18,WA1,B.1.351 Spike_712096,1,Figure 1a,>,54.2,50,NULL,experimental,1,lentivirus pseudovirus,2021-07-02
