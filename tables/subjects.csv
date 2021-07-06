@@ -18,6 +18,7 @@ Alenquer21,CP_ID_7,Human,1
 Alenquer21,CP_ID_8,Human,1
 Alenquer21,CP_ID_9,Human,1
 Alter21,Ad26.COV2.S,Human,25
+Andreano20b,PT003,Human,1
 Andreano20b,PT004,Human,1
 Andreano20b,PT005,Human,1
 Andreano20b,PT006,Human,1
@@ -31,9 +32,12 @@ Andreano20b,PT041,Human,1
 Andreano20b,PT042,Human,1
 Andreano20b,PT100,Human,1
 Andreano20b,PT101,Human,1
+Andreano20b,PT102,Human,1
+Andreano20b,PT103,Human,1
 Andreano20b,PT122,Human,1
 Andreano20b,PT188,Human,1
 Andreano20b,PT200,Human,1
+Andreano20b,PT276,Human,1
 Bates21,BNT162b2,Human,51
 Bates21,CP,Human,43
 Becker21,BNT162b2,Human,8
@@ -835,7 +839,7 @@ McCallum21b,mRNA-1273,Human,1
 Mlcochova21,AZD1222,Human,33
 Mlcochova21,BNT162b2,Human,32
 Mlcochova21,CP,Human,12
-Monin-Aldama21,BNT162b2,Human,1
+Monin21,BNT162b2,Human,16
 Moore21,Ad26_1,Human,1
 Moore21,Ad26_10,Human,1
 Moore21,Ad26_11,Human,1
