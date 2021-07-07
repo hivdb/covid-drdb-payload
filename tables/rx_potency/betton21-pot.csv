@@ -1,5 +1,5 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Betton21,CP,hCoV-19/France/GES-1973/2020,Figure 4b,authentic virus,NT50,759.6210918,107,30720,30,NULL,2021-07-06
+Betton21,CP,hCoV-19/France/GES-1973/2020,Figure 4b,authentic virus,NT50,760,107,30720,30,NULL,2021-07-06
 Betton21,CP,hCoV-19/France/CVL-SC719/2020,Figure 4b,authentic virus,NT50,1000,107,30720,30,NULL,2021-05-09
-Betton21,CP,hCoV-19/France/IDF-IPP00078/2021,Figure 4b,authentic virus,NT50,205.7940603,107,30720,30,NULL,2021-05-09
-Betton21,CP,hCoV-19/Japan/TY7-501/2021,Figure 4b,authentic virus,NT50,759.6210918,107,30720,30,NULL,2021-05-09
+Betton21,CP,hCoV-19/France/IDF-IPP00078/2021,Figure 4b,authentic virus,NT50,206,107,30720,30,NULL,2021-05-09
+Betton21,CP,hCoV-19/Japan/TY7-501/2021,Figure 4b,authentic virus,NT50,760,107,30720,30,NULL,2021-05-09
