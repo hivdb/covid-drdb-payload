@@ -1,0 +1,169 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Imai21,HPCo-010,infection,=,2020-03-01,Japan,B.1 full genome,NULL,NULL
+Imai21,HPCo-015,infection,=,2020-03-16,Japan,B.1 full genome,NULL,NULL
+Imai21,HPCo-022,infection,=,2020-03-18,Japan,B.1 full genome,NULL,NULL
+Imai21,HPCo-025,infection,=,2020-04-01,Japan,B.1 full genome,NULL,NULL
+Imai21,HPCo-029,infection,=,2020-03-29,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-001,infection,=,2020-02-08,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-002,infection,=,2020-02-03,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-003,infection,=,2020-02-14,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-004,infection,=,2020-03-29,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-005,infection,=,2020-04-01,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-006,infection,=,2020-05-23,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-001,infection,=,2020-03-25,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-002,infection,=,2020-03-23,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-003,infection,=,2020-03-28,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-005,infection,=,2020-04-03,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-006,infection,=,2020-04-24,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-007,infection,=,2020-04-04,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-008,infection,=,2020-03-29,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-009,infection,=,2020-04-11,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-001,infection,=,2020-03-05,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-001,isolation,=,2020-03-31,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-001,isolation,=,2020-05-20,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-002,infection,=,2020-03-21,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-002,isolation,=,2020-04-23,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-002,isolation,=,2020-05-07,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-004,infection,=,2020-04-16,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-005,infection,=,2020-04-01,Japan,B.1 full genome,NULL,NULL
+Imai21,EJCo-001,infection,=,2020-01-28,Japan,B.1 full genome,NULL,NULL
+Imai21,EJCo-002,infection,=,2020-02-12,Japan,B.1 full genome,NULL,NULL
+Imai21,EJCo-003,infection,=,2020-02-10,Japan,B.1 full genome,NULL,NULL
+Imai21,EJCo-004,infection,=,2020-02-20,Japan,B.1 full genome,NULL,NULL
+Imai21,HICo-002,infection,=,2020-02-03,Japan,B.1 full genome,NULL,NULL
+Imai21,HICo-002,isolation,=,2020-06-05,Japan,B.1 full genome,NULL,NULL
+Imai21,HICo-002,isolation,=,2020-07-03,Japan,B.1 full genome,NULL,NULL
+Imai21,HICo-004,infection,=,2020-02-24,Japan,B.1 full genome,NULL,NULL
+Imai21,KYCo-001,infection,=,2020-04-04,Japan,B.1 full genome,NULL,NULL
+Imai21,KYCo-002,infection,=,2020-04-09,Japan,B.1 full genome,NULL,NULL
+Imai21,NCCo-503,infection,=,2021-01-02,Japan,P.1 full genome,NULL,NULL
+Imai21,HPCo-010,isolation,=,2020-06-03,Japan,B.1 full genome,NULL,NULL
+Imai21,HPCo-015,isolation,=,2020-06-18,Japan,B.1 full genome,NULL,NULL
+Imai21,HPCo-022,isolation,=,2020-06-25,Japan,B.1 full genome,NULL,NULL
+Imai21,HPCo-025,isolation,=,2020-07-03,Japan,B.1 full genome,NULL,NULL
+Imai21,HPCo-029,isolation,=,2020-06-29,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-001,isolation,=,2020-02-29,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-002,isolation,=,2020-07-06,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-003,isolation,=,2020-03-19,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-004,isolation,=,2020-05-03,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-005,isolation,=,2020-05-18,Japan,B.1 full genome,NULL,NULL
+Imai21,FSCo-006,isolation,=,2020-07-03,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-001,isolation,=,2020-04-10,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-002,isolation,=,2020-04-14,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-003,isolation,=,2020-04-20,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-005,isolation,=,2020-07-09,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-006,isolation,=,2020-05-25,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-007,isolation,=,2020-04-28,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-008,isolation,=,2020-06-03,Japan,B.1 full genome,NULL,NULL
+Imai21,STCo-009,isolation,=,2020-07-07,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-004,isolation,=,2020-06-01,Japan,B.1 full genome,NULL,NULL
+Imai21,SUCo-005,isolation,=,2020-05-28,Japan,B.1 full genome,NULL,NULL
+Imai21,EJCo-001,isolation,=,2020-02-18,Japan,B.1 full genome,NULL,NULL
+Imai21,EJCo-002,isolation,=,2020-02-25,Japan,B.1 full genome,NULL,NULL
+Imai21,EJCo-003,isolation,=,2020-02-25,Japan,B.1 full genome,NULL,NULL
+Imai21,EJCo-004,isolation,=,2020-03-02,Japan,B.1 full genome,NULL,NULL
+Imai21,HICo-004,isolation,=,2020-05-29,Japan,B.1 full genome,NULL,NULL
+Imai21,KYCo-001,isolation,=,2020-07-09,Japan,B.1 full genome,NULL,NULL
+Imai21,KYCo-002,isolation,=,2020-06-04,Japan,B.1 full genome,NULL,NULL
+Imai21,NCCo-503,isolation,=,2021-01-22,Japan,P.1 full genome,NULL,NULL
+Imai21,1785,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,2946,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,9163,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,2955,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,8787,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,8832,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,11182,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7482,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,11462,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,1610,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,4500,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,1497,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,4719,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,4704,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7635,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7533,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,4608,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7629,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7854,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,11471,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7806,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7644,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7455,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,4605,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7683,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7602,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,9418,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7656,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7614,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7794,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,9394,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7626,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7686,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7641,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7701,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,7836,1st dose,~,2021-04-01,Japan,NULL,BNT162b2,NULL
+Imai21,1785,1st dose isolation,~,2021-04-19,Japan,NULL,NULL,NULL
+Imai21,2946,1st dose isolation,~,2021-04-19,Japan,NULL,NULL,NULL
+Imai21,9163,1st dose isolation,~,2021-04-19,Japan,NULL,NULL,NULL
+Imai21,2955,1st dose isolation,~,2021-04-19,Japan,NULL,NULL,NULL
+Imai21,8787,1st dose isolation,~,2021-04-19,Japan,NULL,NULL,NULL
+Imai21,8832,1st dose isolation,~,2021-04-19,Japan,NULL,NULL,NULL
+Imai21,11182,1st dose isolation,~,2021-04-19,Japan,NULL,NULL,NULL
+Imai21,7482,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,11462,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,1610,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,4500,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,1497,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,4719,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,4704,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7635,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7533,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,4608,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7629,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7854,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,11471,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7806,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7644,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7455,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,4605,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7683,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7602,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,9418,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7656,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7614,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7794,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,9394,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7626,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7686,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7641,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7701,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7836,2nd dose,~,2021-04-22,Japan,NULL,BNT162b2,NULL
+Imai21,7482,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,11462,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,1610,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,4500,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,1497,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,4719,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,4704,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,7635,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,7533,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,4608,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,7629,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,7854,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,11471,2nd dose isolation,~,2021-05-02,Japan,NULL,NULL,NULL
+Imai21,7806,2nd dose isolation,~,2021-05-09,Japan,NULL,NULL,NULL
+Imai21,7644,2nd dose isolation,~,2021-05-09,Japan,NULL,NULL,NULL
+Imai21,7455,2nd dose isolation,~,2021-05-09,Japan,NULL,NULL,NULL
+Imai21,4605,2nd dose isolation,~,2021-05-09,Japan,NULL,NULL,NULL
+Imai21,7683,2nd dose isolation,~,2021-05-09,Japan,NULL,NULL,NULL
+Imai21,7602,2nd dose isolation,~,2021-05-09,Japan,NULL,NULL,NULL
+Imai21,9418,2nd dose isolation,~,2021-05-09,Japan,NULL,NULL,NULL
+Imai21,7656,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
+Imai21,7614,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
+Imai21,7794,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
+Imai21,9394,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
+Imai21,7626,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
+Imai21,7686,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
+Imai21,7641,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
+Imai21,7701,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
+Imai21,7836,2nd dose isolation,~,2021-05-22,Japan,NULL,NULL,NULL
