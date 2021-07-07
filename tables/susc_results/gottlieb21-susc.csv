@@ -1,9 +1,0 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
-Gottlieb21,Bamlanivimab,Wuhan-Hu-1,S:484K,1,eTable 1,>,100,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
-Gottlieb21,Bamlanivimab,Wuhan-Hu-1,S:484Q,1,eTable 1,>,100,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
-Gottlieb21,Bamlanivimab,Wuhan-Hu-1,S:490S,1,eTable 1,>,100,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
-Gottlieb21,Bamlanivimab,Wuhan-Hu-1,S:494P,1,eTable 1,>,100,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
-Gottlieb21,Etesevimab,Wuhan-Hu-1,S:484K,1,eTable 1,=,4.4,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
-Gottlieb21,Etesevimab,Wuhan-Hu-1,S:484Q,1,eTable 1,=,1.4,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
-Gottlieb21,Etesevimab,Wuhan-Hu-1,S:490S,1,eTable 1,=,0.8,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
-Gottlieb21,Etesevimab,Wuhan-Hu-1,S:494P,1,eTable 1,=,0.5,IC50,NULL,NULL,1,vsv pseudovirus,2021-01-27
