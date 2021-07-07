@@ -2629,3 +2629,77 @@ SARS-CoV-2/UT-HP095-1N/Human/2020/Tokyo,nsp16,287,I
 SARS-CoV-2/UT-HP095-1N/Human/2020/Tokyo,S,614,G
 SARS-CoV-2/UT-HP095-1N/Human/2020/Tokyo,ORF3a,95,F
 SARS-CoV-2/UT-HP095-1N/Human/2020/Tokyo,N,234,I
+hCoV-19/England/204820464/2020,PLpro,183,I
+hCoV-19/England/204820464/2020,PLpro,890,D
+hCoV-19/England/204820464/2020,PLpro,1305,V
+hCoV-19/England/204820464/2020,PLpro,1412,T
+hCoV-19/England/204820464/2020,nsp6,106,del
+hCoV-19/England/204820464/2020,nsp6,107,del
+hCoV-19/England/204820464/2020,nsp6,108,del
+hCoV-19/England/204820464/2020,RdRP,323,L
+hCoV-19/England/204820464/2020,nsp13,460,R
+hCoV-19/England/204820464/2020,nsp14,347,G
+hCoV-19/England/204820464/2020,S,69,del
+hCoV-19/England/204820464/2020,S,70,del
+hCoV-19/England/204820464/2020,S,144,del
+hCoV-19/England/204820464/2020,S,501,Y
+hCoV-19/England/204820464/2020,S,570,D
+hCoV-19/England/204820464/2020,S,614,G
+hCoV-19/England/204820464/2020,S,681,H
+hCoV-19/England/204820464/2020,S,716,I
+hCoV-19/England/204820464/2020,S,982,A
+hCoV-19/England/204820464/2020,S,1118,H
+hCoV-19/England/204820464/2020,ORF8,27,stop
+hCoV-19/England/204820464/2020,ORF8,52,I
+hCoV-19/England/204820464/2020,ORF8,73,C
+hCoV-19/England/204820464/2020,N,3,L
+hCoV-19/England/204820464/2020,N,203,K
+hCoV-19/England/204820464/2020,N,204,R
+hCoV-19/England/204820464/2020,N,235,F
+hCoV-19/South Africa/KRISP-EC-K005321/2020,nsp2,85,I
+hCoV-19/South Africa/KRISP-EC-K005321/2020,PLpro,837,N
+hCoV-19/South Africa/KRISP-EC-K005321/2020,_3CLpro,90,R
+hCoV-19/South Africa/KRISP-EC-K005321/2020,nsp6,106,del
+hCoV-19/South Africa/KRISP-EC-K005321/2020,nsp6,107,del
+hCoV-19/South Africa/KRISP-EC-K005321/2020,nsp6,108,del
+hCoV-19/South Africa/KRISP-EC-K005321/2020,RdRP,323,L
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,80,A
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,215,G
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,242,del
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,243,del
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,244,del
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,417,N
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,484,K
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,501,Y
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,614,G
+hCoV-19/South Africa/KRISP-EC-K005321/2020,S,701,V
+hCoV-19/South Africa/KRISP-EC-K005321/2020,ORF3a,57,H
+hCoV-19/South Africa/KRISP-EC-K005321/2020,ORF3a,171,L
+hCoV-19/South Africa/KRISP-EC-K005321/2020,E,71,L
+hCoV-19/South Africa/KRISP-EC-K005321/2020,N,205,I
+P.1 full genome (Leier21),PLpro,186,A
+P.1 full genome (Leier21),PLpro,370,L
+P.1 full genome (Leier21),PLpro,977,Q
+P.1 full genome (Leier21),nsp6,106,del
+P.1 full genome (Leier21),nsp6,107,del
+P.1 full genome (Leier21),nsp6,108,del
+P.1 full genome (Leier21),RdRP,323,L
+P.1 full genome (Leier21),nsp13,341,D
+P.1 full genome (Leier21),S,18,F
+P.1 full genome (Leier21),S,20,N
+P.1 full genome (Leier21),S,26,S
+P.1 full genome (Leier21),S,138,Y
+P.1 full genome (Leier21),S,181,V
+P.1 full genome (Leier21),S,190,S
+P.1 full genome (Leier21),S,417,T
+P.1 full genome (Leier21),S,484,K
+P.1 full genome (Leier21),S,501,Y
+P.1 full genome (Leier21),S,614,G
+P.1 full genome (Leier21),S,655,Y
+P.1 full genome (Leier21),S,1027,I
+P.1 full genome (Leier21),S,1176,F
+P.1 full genome (Leier21),ORF3a,253,P
+P.1 full genome (Leier21),ORF8,92,K
+P.1 full genome (Leier21),N,80,R
+P.1 full genome (Leier21),N,203,K
+P.1 full genome (Leier21),N,204,R

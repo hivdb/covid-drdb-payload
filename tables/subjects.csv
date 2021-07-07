@@ -42,7 +42,7 @@ Bates21,BNT162b2,Human,51
 Bates21,CP,Human,43
 Becker21,BNT162b2,Human,8
 Becker21,CP,Human,6
-Betton21,CP,Human,1
+Betton21,CP,Human,107
 Brown21,BNT162b2,Human,8
 Brown21,BNT162b2_infected,Human,10
 Brown21,CP,Human,13
@@ -644,8 +644,8 @@ Kemp21,CP_2,Human,1
 Kemp21,CP_3,Human,1
 Kuzmina21,BNT162b2,Human,1
 Kuzmina21,CP,Human,1
-Leier21,infected,Human,1
-Leier21,uninfected,Human,1
+Leier21,infected,Human,10
+Leier21,uninfected,Human,20
 Li21c,CP_CSC1,Human,1
 Li21c,CP_CSC10,Human,1
 Li21c,CP_CSC11,Human,1
