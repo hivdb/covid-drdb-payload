@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Lustig21,BNT162b2,1st dose,~,2021-01-01,Israel,NULL,BNT162b2,NULL
+Lustig21,BNT162b2,2nd dose,~,2021-01-15,Israel,NULL,BNT162b2,NULL
+Lustig21,BNT162b2,2nd dose isolation,~,2021-01-28,Israel,NULL,NULL,NULL
