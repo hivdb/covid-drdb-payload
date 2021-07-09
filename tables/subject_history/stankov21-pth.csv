@@ -1,6 +1,6 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Stankov21,CP,infection,<,2020-10-22,Germany,B.1 full genome,NULL,Severe
-Stankov21,CP,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Stankov21,CP,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Stankov21,BNT_1st_dose,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
 Stankov21,BNT_1st_dose,1st dose isolation,~,2021-01-18,Germany,NULL,NULL,NULL
 Stankov21,BNT_1st_dose,2nd dose,~,2021-01-18,Germany,NULL,BNT162b2,NULL
@@ -25,3 +25,23 @@ Stankov21,BNT_P8,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
 Stankov21,BNT_P8,1st dose isolation,~,2021-01-18,Germany,NULL,NULL,NULL
 Stankov21,BNT_P8,2nd dose,~,2021-01-18,Germany,NULL,BNT162b2,NULL
 Stankov21,BNT_P8,2nd dose isolation,~,2021-02-08,Germany,NULL,NULL,NULL
+Stankov21,BNT_P9,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P9,1st dose isolation,~,2021-01-18,Germany,NULL,NULL,NULL
+Stankov21,BNT_P9,2nd dose,~,2021-01-18,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P9,2nd dose isolation,~,2021-02-08,Germany,NULL,NULL,NULL
+Stankov21,BNT_P10,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P10,1st dose isolation,~,2021-01-18,Germany,NULL,NULL,NULL
+Stankov21,BNT_P10,2nd dose,~,2021-01-18,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P10,2nd dose isolation,~,2021-02-08,Germany,NULL,NULL,NULL
+Stankov21,BNT_P11,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P11,1st dose isolation,~,2021-01-18,Germany,NULL,NULL,NULL
+Stankov21,BNT_P11,2nd dose,~,2021-01-18,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P11,2nd dose isolation,~,2021-02-08,Germany,NULL,NULL,NULL
+Stankov21,BNT_P12,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P12,1st dose isolation,~,2021-01-18,Germany,NULL,NULL,NULL
+Stankov21,BNT_P12,2nd dose,~,2021-01-18,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P12,2nd dose isolation,~,2021-02-08,Germany,NULL,NULL,NULL
+Stankov21,BNT_P13,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P13,1st dose isolation,~,2021-01-18,Germany,NULL,NULL,NULL
+Stankov21,BNT_P13,2nd dose,~,2021-01-18,Germany,NULL,BNT162b2,NULL
+Stankov21,BNT_P13,2nd dose isolation,~,2021-02-08,Germany,NULL,NULL,NULL
