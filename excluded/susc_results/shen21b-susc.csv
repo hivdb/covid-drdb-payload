@@ -1,6 +1,0 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,potency_type,resistance_level,ineffective,cumulative_count,assay_name,date_added
-Shen21b,CP_Ser_32,S:614G,B.1.351 Spike,1,Supplementary table 1,>,4.4,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-08
-Shen21b,CP_Ser_39,S:614G,B.1.351 Spike,1,Supplementary table 1,>,6.2,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-08
-Shen21b,CP_Ser_45,S:614G,B.1.351 Spike,1,Supplementary table 1,>,6,IC50,NULL,experimental,1,lentivirus pseudovirus,2021-04-08
-Shen21b,CP_Ser_51,S:614G,B.1.351 Spike,1,Supplementary table 1,>,4.8,IC50,NULL,both,1,lentivirus pseudovirus,2021-04-08
-Shen21b,NV_Ser_37,S:614G,B.1.351 Spike,1,Supplementary table 1,>,7.7,IC50,NULL,NULL,1,lentivirus pseudovirus,2021-04-08
