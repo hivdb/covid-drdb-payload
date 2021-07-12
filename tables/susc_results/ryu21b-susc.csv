@@ -1,0 +1,6 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,ordinal_number,section,fold_cmp,fold,inhibition_pcnt,resistance_level,ineffective,cumulative_count,assay,date_added
+Ryu21b,CT-P59,B.1 full genome,P.1_877769 full genome,1,Table 2,=,137.9,50,NULL,NULL,1,authentic virus,2021-07-12
+Ryu21b,CT-P59,S:614G,S:501Y,1,Table 2,=,14.9,50,NULL,NULL,1,HIV pseudovirus,2021-07-12
+Ryu21b,CT-P59,S:614G,S:417T,1,Table 2,=,0.7,50,NULL,NULL,1,HIV pseudovirus,2021-07-12
+Ryu21b,CT-P59,S:614G,P.1 Spike,1,Table 2,=,61.4,50,NULL,NULL,1,HIV pseudovirus,2021-07-12
+Ryu21b,CT-P59,Wuhan-Hu-1,S:484K,1,Table 2,=,8.7,50,NULL,NULL,1,HIV pseudovirus,2021-07-12
