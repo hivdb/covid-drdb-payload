@@ -1,24 +1,24 @@
 ﻿ref_name,rx_name,dosage,host,infection_name,gene,position,amino_acid,subject,sampling,num_subjects,num_subjects_with_mut,section,note,date_added
-Copin21,None,None,Human,NULL,S,427,N,Hospitalized,None,90,4,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,477,N,Hospitalized,None,88,3,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,501,T,Hospitalized,None,88,4,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,537,R,Hospitalized,None,88,2,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,high,Human,NULL,S,477,N,Hospitalized,None,109,5,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,high,Human,NULL,S,501,T,Hospitalized,None,109,3,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,None,None,Human,NULL,S,477,N,Nonhospitalized,None,216,6,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,None,None,Human,NULL,S,520,S,Nonhospitalized,None,216,3,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,477,N,Nonhospitalized,None,248,5,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,low,Human,NULL,S,446,V,Nonhospitalized,None,248,4,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
-Copin21,Casirivimab+Imdevimab,high,Human,NULL,S,494,P,Nonhospitalized,None,212,3,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,None,None,Human,NULL,S,427,N,Hospitalized,None,90,3,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,REGN10933+REGN10987,low,Human,NULL,S,477,N,Hospitalized,None,88,2,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,REGN10933+REGN10987,low,Human,NULL,S,501,T,Hospitalized,None,88,3,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,REGN10933+REGN10987,low,Human,NULL,S,537,R,Hospitalized,None,88,1,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,REGN10933+REGN10987,high,Human,NULL,S,477,N,Hospitalized,None,109,5,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,REGN10933+REGN10987,high,Human,NULL,S,501,T,Hospitalized,None,109,2,Figure 4B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,None,None,Human,NULL,S,477,N,Nonhospitalized,None,216,5,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,None,None,Human,NULL,S,520,S,Nonhospitalized,None,216,2,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,REGN10933+REGN10987,low,Human,NULL,S,477,N,Nonhospitalized,None,248,4,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,REGN10933+REGN10987,low,Human,NULL,S,446,V,Nonhospitalized,None,248,3,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
+Copin21,REGN10933+REGN10987,high,Human,NULL,S,494,P,Nonhospitalized,None,212,2,Figure 6B,>=2 samples from >=1 subject (uncertain how many samples sequenced per person),2021-03-13
 Copin21,None,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Prevention,2021-03-13
-Copin21,Casirivimab+Imdevimab,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Prevention,2021-03-13
+Copin21,REGN10933+REGN10987,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Prevention,2021-03-13
 Copin21,None,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Treatment,2021-03-13
-Copin21,Casirivimab+Imdevimab,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Treatment,2021-03-13
-Copin21,Casirivimab,None,Hamster,WA1,S,486,S,None,None,10,3,Figure 3,RBD/Prevention,2021-03-13
-Copin21,Casirivimab,None,Hamster,WA1,S,455,W,None,None,10,1,Figure 3,RBD/Prevention,2021-03-13
-Copin21,Casirivimab,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Treatment,2021-03-13
-Copin21,Imdevimab,None,Hamster,WA1,S,384,L,None,None,10,1,Figure 3,RBD/Prevention,2021-03-13
-Copin21,Imdevimab,None,Hamster,WA1,S,446,D,None,None,10,7,Figure 3,RBD/Prevention,2021-03-13
-Copin21,Imdevimab,None,Hamster,WA1,S,455,W,None,None,10,1,Figure 3,RBD/Prevention,2021-03-13
-Copin21,Imdevimab,None,Hamster,WA1,S,444,T,None,None,10,5,Figure 3,RBD/Treatment,2021-03-13
-Copin21,Imdevimab,None,Hamster,WA1,S,446,S,None,None,10,1,Figure 3,RBD/Treatment,2021-03-13
+Copin21,REGN10933+REGN10987,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Treatment,2021-03-13
+Copin21,REGN10933,None,Hamster,WA1,S,486,S,None,None,10,3,Figure 3,RBD/Prevention,2021-03-13
+Copin21,REGN10933,None,Hamster,WA1,S,455,W,None,None,10,1,Figure 3,RBD/Prevention,2021-03-13
+Copin21,REGN10933,None,Hamster,WA1,S,NULL,NULL,None,None,10,0,Figure 3,RBD/Treatment,2021-03-13
+Copin21,REGN10987,None,Hamster,WA1,S,384,L,None,None,10,1,Figure 3,RBD/Prevention,2021-03-13
+Copin21,REGN10987,None,Hamster,WA1,S,445,A,None,None,10,1,Figure 3,RBD/Prevention,2021-03-13
+Copin21,REGN10987,None,Hamster,WA1,S,446,D,None,None,10,8,Figure 3,RBD/Prevention,2021-03-13
+Copin21,REGN10987,None,Hamster,WA1,S,444,T,None,None,10,5,Figure 3,RBD/Treatment,2021-03-13
+Copin21,REGN10987,None,Hamster,WA1,S,446,S,None,None,10,1,Figure 3,RBD/Treatment,2021-03-13
