@@ -1026,10 +1026,11 @@ Planas21,CP55,Human,1
 Planas21,CP56,Human,1
 Planas21,CP57,Human,1
 Planas21,CP58,Human,1
-Planas21b,AZD,Human,1
-Planas21b,BNT,Human,1
-Planas21b,CP_Orleans,Human,1
-Planas21b,CP_Strasbourg,Human,1
+Planas21b,AZD,Human,12
+Planas21b,BNT,Human,16
+Planas21b,CP_Orleans,Human,56
+Planas21b,CP_Strasbourg,Human,27
+Planas21b,CP_Strasbourg_Vaccinee,Human,21
 Rees-Spear21,CP_Mild,Human,1
 Rees-Spear21,CP_Severe,Human,1
 Rondinone21,CP_01,Human,1
