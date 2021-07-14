@@ -1,0 +1,127 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Tang21,CP-1,WA1,Supplementary Table 3,HIV pseudovirus,NT50,243.1,1,NULL,20,NULL,2021-07-14
+Tang21,CP-2,WA1,Supplementary Table 3,HIV pseudovirus,NT50,369.2,1,NULL,20,NULL,2021-07-14
+Tang21,CP-3,WA1,Supplementary Table 3,HIV pseudovirus,NT50,204.9,1,NULL,20,NULL,2021-07-14
+Tang21,CP-4,WA1,Supplementary Table 3,HIV pseudovirus,NT50,268,1,NULL,20,NULL,2021-07-14
+Tang21,CP-5,WA1,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-07-14
+Tang21,CP-6,WA1,Supplementary Table 3,HIV pseudovirus,NT50,211.1,1,NULL,20,NULL,2021-07-14
+Tang21,CP-7,WA1,Supplementary Table 3,HIV pseudovirus,NT50,67,1,NULL,20,NULL,2021-07-14
+Tang21,CP-8,WA1,Supplementary Table 3,HIV pseudovirus,NT50,119.6,1,NULL,20,NULL,2021-07-14
+Tang21,CP-9,WA1,Supplementary Table 3,HIV pseudovirus,NT50,852.7,1,NULL,20,NULL,2021-07-14
+Tang21,CP-1,WA1,Supplementary Table 3,HIV pseudovirus,NT80,28,1,NULL,20,NULL,2021-07-14
+Tang21,CP-2,WA1,Supplementary Table 3,HIV pseudovirus,NT80,56.8,1,NULL,20,NULL,2021-07-14
+Tang21,CP-3,WA1,Supplementary Table 3,HIV pseudovirus,NT80,30.1,1,NULL,20,NULL,2021-07-14
+Tang21,CP-4,WA1,Supplementary Table 3,HIV pseudovirus,NT80,31.3,1,NULL,20,NULL,2021-07-14
+Tang21,CP-5,WA1,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-07-14
+Tang21,CP-6,WA1,Supplementary Table 3,HIV pseudovirus,NT80,47.2,1,NULL,20,NULL,2021-07-14
+Tang21,CP-7,WA1,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-07-14
+Tang21,CP-8,WA1,Supplementary Table 3,HIV pseudovirus,NT80,30.2,1,NULL,20,NULL,2021-07-14
+Tang21,CP-9,WA1,Supplementary Table 3,HIV pseudovirus,NT80,74.9,1,NULL,20,NULL,2021-07-14
+Tang21,CP-1,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,24.7,1,NULL,20,NULL,2021-03-22
+Tang21,CP-2,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,122.9,1,NULL,20,NULL,2021-03-22
+Tang21,CP-3,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,146.9,1,NULL,20,NULL,2021-03-22
+Tang21,CP-4,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,92.8,1,NULL,20,NULL,2021-03-22
+Tang21,CP-5,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-6,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,123.3,1,NULL,20,NULL,2021-03-22
+Tang21,CP-7,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,98.5,1,NULL,20,NULL,2021-03-22
+Tang21,CP-8,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,156.8,1,NULL,20,NULL,2021-03-22
+Tang21,CP-9,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT50,191,1,NULL,20,NULL,2021-03-22
+Tang21,CP-1,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-2,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,30,1,NULL,20,NULL,2021-03-22
+Tang21,CP-3,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,37.3,1,NULL,20,NULL,2021-03-22
+Tang21,CP-4,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-5,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-6,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,26.1,1,NULL,20,NULL,2021-03-22
+Tang21,CP-7,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,22.2,1,NULL,20,NULL,2021-03-22
+Tang21,CP-8,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,33,1,NULL,20,NULL,2021-03-22
+Tang21,CP-9,S:13I+152C+452R+614G,Supplementary Table 3,HIV pseudovirus,NT80,55.6,1,NULL,20,NULL,2021-03-22
+Tang21,CP-1,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,53.4,1,NULL,20,NULL,2021-03-22
+Tang21,CP-2,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,128.3,1,NULL,20,NULL,2021-03-22
+Tang21,CP-3,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,168.4,1,NULL,20,NULL,2021-03-22
+Tang21,CP-4,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,59.8,1,NULL,20,NULL,2021-03-22
+Tang21,CP-5,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-6,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,64.8,1,NULL,20,NULL,2021-03-22
+Tang21,CP-7,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,36.6,1,NULL,20,NULL,2021-03-22
+Tang21,CP-8,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,35.4,1,NULL,20,NULL,2021-03-22
+Tang21,CP-9,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT50,100.7,1,NULL,20,NULL,2021-03-22
+Tang21,CP-1,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-2,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,23.9,1,NULL,20,NULL,2021-03-22
+Tang21,CP-3,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,24,1,NULL,20,NULL,2021-03-22
+Tang21,CP-4,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-5,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-6,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,21.6,1,NULL,20,NULL,2021-03-22
+Tang21,CP-7,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-8,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-9,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Table 3,HIV pseudovirus,NT80,35.4,1,NULL,20,NULL,2021-03-22
+Tang21,CP-1,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,287,1,NULL,20,NULL,2021-03-22
+Tang21,CP-2,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,126,1,NULL,20,NULL,2021-03-22
+Tang21,CP-3,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,112,1,NULL,20,NULL,2021-03-22
+Tang21,CP-4,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,53.8,1,NULL,20,NULL,2021-03-22
+Tang21,CP-5,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-6,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-7,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,24.1,1,NULL,20,NULL,2021-03-22
+Tang21,CP-8,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-9,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT50,122.6,1,NULL,20,NULL,2021-03-22
+Tang21,CP-1,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,61.1,1,NULL,20,NULL,2021-03-22
+Tang21,CP-2,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,24.7,1,NULL,20,NULL,2021-03-22
+Tang21,CP-3,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,27.3,1,NULL,20,NULL,2021-03-22
+Tang21,CP-4,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-5,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-6,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-7,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-8,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-9,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Supplementary Table 3,HIV pseudovirus,NT80,25.4,1,NULL,20,NULL,2021-03-22
+Tang21,CP-1,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,107.4,1,NULL,20,NULL,2021-03-22
+Tang21,CP-2,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,25.5,1,NULL,20,NULL,2021-03-22
+Tang21,CP-3,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,47.2,1,NULL,20,NULL,2021-03-22
+Tang21,CP-4,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-5,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-6,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-7,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-8,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-9,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT50,51.7,1,NULL,20,NULL,2021-03-22
+Tang21,CP-1,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,30.6,1,NULL,20,NULL,2021-03-22
+Tang21,CP-2,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-3,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-4,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-5,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-6,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-7,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-8,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,CP-9,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Supplementary Table 3,HIV pseudovirus,NT80,20,1,NULL,20,NULL,2021-03-22
+Tang21,hCoV-2IG-1,WA1,Supplementary Table 4,authentic virus,NT50,5184.7,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-2,WA1,Supplementary Table 4,authentic virus,NT50,2260.6,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-3,WA1,Supplementary Table 4,authentic virus,NT50,4030,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-4,WA1,Supplementary Table 4,authentic virus,NT50,3580.7,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-5,WA1,Supplementary Table 4,authentic virus,NT50,1929.1,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-6,WA1,Supplementary Table 4,authentic virus,NT50,1988.8,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-1,WA1,Supplementary Table 4,authentic virus,NT90,1723.8,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-2,WA1,Supplementary Table 4,authentic virus,NT90,264.4,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-3,WA1,Supplementary Table 4,authentic virus,NT90,1504,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-4,WA1,Supplementary Table 4,authentic virus,NT90,1153.8,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-5,WA1,Supplementary Table 4,authentic virus,NT90,803.8,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-6,WA1,Supplementary Table 4,authentic virus,NT90,663.7,1,NULL,1,NULL,2021-07-14
+Tang21,hCoV-2IG-1,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT50,2324.7,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-2,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT50,1826.4,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-3,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT50,1556.8,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-4,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT50,1336.9,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-5,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT50,1674.6,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-6,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT50,708.1,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-1,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT90,730.1,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-2,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT90,405.6,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-3,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT90,463.5,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-4,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT90,298.6,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-5,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT90,370.8,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-6,hCoV-19/England/204820464/2020,Supplementary Table 4,authentic virus,NT90,50.9,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-1,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT50,1111.4,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-2,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT50,553.7,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-3,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT50,486.4,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-4,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT50,361,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-5,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT50,716,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-6,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT50,96.8,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-1,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT90,296.1,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-2,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT90,200.3,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-3,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT90,130.5,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-4,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT90,79.3,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-5,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT90,194.3,1,NULL,1,NULL,2021-03-22
+Tang21,hCoV-2IG-6,hCoV-19/South Africa/KRISP-K005325/2020,Supplementary Table 4,authentic virus,NT90,4.3,1,NULL,1,NULL,2021-03-22
