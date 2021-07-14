@@ -1,3 +1,13 @@
 ﻿ref_name,rx_name,ab_name
-Tortorici20,S2M11,S2M11
-Tortorici20,S2E12,S2E12
+Tortorici20,S2M11_S7A,S2M11
+Tortorici20,S2E12_S7B,S2E12
+Tortorici20,S2M11_S7C,S2M11
+Tortorici20,S2E12_S7D,S2E12
+Tortorici20,S2M11_S7E,S2M11
+Tortorici20,S2E12_S7F,S2E12
+Tortorici20,S2E12+S2M11,S2M11
+Tortorici20,S2E12+S2M11,S2E12
+Tortorici20,S2M11+S309,S2M11
+Tortorici20,S2M11+S309,Sotrovimab
+Tortorici20,S2E12+S309,S2E12
+Tortorici20,S2E12+S309,Sotrovimab
