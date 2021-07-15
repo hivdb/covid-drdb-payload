@@ -5716,8 +5716,10 @@ Weigang21,CP_d105_mice_10
 Weigang21,CP_d105_mice_11
 Weigang21,CP_d105_mice_12
 Weigang21,CP_d105_mice_13
-Weisblum20,COV-NY
-Weisblum20,COV47
+Weisblum20,CP_COV-NY
+Weisblum20,CP_COV-47
+Weisblum20,CP_COV-72
+Weisblum20,CP_COV-107
 West21,CP038_1.3M_exp1
 West21,CP040_1.3M_exp1
 West21,CP076_1.3M_exp1
@@ -6163,6 +6165,8 @@ Bazykin21,None
 Khatamzas21,None
 Copin21,None
 Weigang21,None
+Weisblum20,COV-NY
+Weisblum20,COV47
 Starr21b,LY-CoV555
 Greaney21b,LY-CoV016
 Starr21b,LY-CoV555+LY-CoV016
