@@ -1,0 +1,601 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Wang21f,REGN10933,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,20.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,23.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,21.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,13.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,18.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:614G,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,99.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,76.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,46.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,194.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,B.1.1.7 Spike_601443,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,43.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,111.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,B.1.351_700450 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,27.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,12.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,P.1_792681 Spike,"Figure 1C, Figure S1",HIV pseudovirus,IC50,67.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,12.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,37.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,17.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,16.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,9.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,35.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:18F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,13.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,23.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,23.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,11.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,8.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,50.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:69del+70del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,12.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,11.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,23.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,17.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,9.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:144del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,34.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,22.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,21.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,19.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,50.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:222V,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,34.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,21.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,18.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:242del+243del+244del,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,22.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,525.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:417N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,23.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,9.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:417T,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,21.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,13.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,116.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,18.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:439K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,8.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,158.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,12.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,95.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,16.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,67.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,27.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:453F,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,11.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,23.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,9.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,31.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:477N,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,8.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,27.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,27.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:478I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,23.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,48.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,19.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,37.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,21.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,23.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,40.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:484K,"Figure 1C, Figure S1",HIV pseudovirus,IC50,8.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,117.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,59.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,43.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,268.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,21.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,31.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,39.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:486L,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,12.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,34.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,9.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,29.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:494P,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,59.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,27.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,38.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,95.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,48.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,8.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,120.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1000.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,55.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:417N+484K+501Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,13.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,8.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:570D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,12.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,30.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,12.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,13.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,31.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:583D,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,30.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,17.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,13.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,66.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:655Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,25.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,21.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,11.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,46.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:681H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,9.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,8.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,16.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:716I,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,17.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,16.9,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,41.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,16.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,13.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,3.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,44.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:982A,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,10.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,7.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.0,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.7,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,35.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:1118H,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10933,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CB6,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,13.6,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2C-1F11,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,15.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1D2,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-3C8,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,14.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P22A-1D1,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,BD-368-2,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,1.3,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P5A-1B9,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,5.8,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,REGN10987,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,4.4,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,S309,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,2.2,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,P2B-1G5,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,33.5,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,4A8,S:1163Y,"Figure 1C, Figure S1",HIV pseudovirus,IC50,6.1,1,1000,0.5,ng/ml,2021-07-16
+Wang21f,CP_1,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2868,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4190,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,950,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1612,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,577,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1144,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2387,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1756,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,119,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,3082,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,474,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,750,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2250,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,687,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,184,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,431,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,235,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,325,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,127,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,314,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,5655,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1273,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,290,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,S:614G,"Figure 3C, Figure S4",HIV pseudovirus,NT50,388,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1912,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,3809,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,792,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1240,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,321,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,880,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1836,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1351,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,79,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4007,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,395,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,825,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2046,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,625,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,203,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,474,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,180,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,155,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,106,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,241,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,16399,1,100000,200,NULL,2021-07-16
+Wang21f,CP_P5,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1400,1,100000,200,NULL,2021-07-16
+Wang21f,CP_P22,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,263,1,100000,200,NULL,2021-07-16
+Wang21f,CP_ST,B.1.1.7 Spike_601443,"Figure 3C, Figure S4",HIV pseudovirus,NT50,200,1,100000,200,NULL,2021-07-16
+Wang21f,CP_1,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,104,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1612,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,257,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,645,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,86,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,159,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,331,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,165,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,71,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,511,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,88,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,115,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,200,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,200,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,200,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,B.1.351_700450 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,200,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1247,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2993,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,679,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1343,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,288,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,520,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1591,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,351,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,385,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,338,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,242,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2250,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,176,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,141,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,91,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,112,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,870,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,670,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,290,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,P.1_792681 Spike,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1666,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,797,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2993,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,792,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1343,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,214,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,715,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1038,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,516,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1927,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,431,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,682,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1250,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,382,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,203,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,776,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,328,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,203,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,190,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,224,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,5655,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,979,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,170,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,S:242del+243del+244del,"Figure 3C, Figure S4",HIV pseudovirus,NT50,200,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4301,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,9637,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2280,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2579,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1096,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1716,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4296,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,3160,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,190,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,7090,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,853,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1500,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,3150,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1374,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,406,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,733,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,540,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,813,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,381,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,627,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,9048,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2801,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,696,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,S:417N,"Figure 3C, Figure S4",HIV pseudovirus,NT50,581,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,3441,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,6704,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1805,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2257,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1096,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1373,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2625,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1931,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,166,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,6165,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,521,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1125,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2925,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1237,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,332,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,431,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,352,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,521,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,305,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,533,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4350,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1528,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,464,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,S:417T,"Figure 3C, Figure S4",HIV pseudovirus,NT50,426,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2390,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,5447,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1235,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2257,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,750,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,572,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2387,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1351,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,119,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1468,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,521,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,536,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2250,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,573,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,123,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,172,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,180,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,250,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,190,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,439,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1379,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,579,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,242,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,S:484K,"Figure 3C, Figure S4",HIV pseudovirus,NT50,504,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4301,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,5447,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1520,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2096,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,750,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1259,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2864,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2282,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,166,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4624,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,663,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1275,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2925,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1031,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,184,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,517,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,235,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,423,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,292,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,470,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,7917,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1782,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,377,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,S:486L,"Figure 3C, Figure S4",HIV pseudovirus,NT50,775,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2868,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,5447,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1140,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1935,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,692,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1259,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2864,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1596,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,154,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4932,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,711,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1125,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2250,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,962,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,313,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,431,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,258,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,325,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,165,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,470,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,8482,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1273,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,348,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,S:501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,388,1,400000,200,NULL,2021-07-16
+Wang21f,CP_1,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,4015,1,100000,60,NULL,2021-07-16
+Wang21f,CP_2,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,5028,1,100000,60,NULL,2021-07-16
+Wang21f,CP_3,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1330,1,100000,60,NULL,2021-07-16
+Wang21f,CP_4,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1935,1,100000,60,NULL,2021-07-16
+Wang21f,CP_5,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,577,1,100000,60,NULL,2021-07-16
+Wang21f,CP_6,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,602,1,100000,60,NULL,2021-07-16
+Wang21f,CP_7,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2864,1,100000,60,NULL,2021-07-16
+Wang21f,CP_8,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1463,1,100000,60,NULL,2021-07-16
+Wang21f,CP_9,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,99,1,100000,60,NULL,2021-07-16
+Wang21f,CP_10,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1813,1,100000,60,NULL,2021-07-16
+Wang21f,CP_11,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,616,1,100000,60,NULL,2021-07-16
+Wang21f,CP_12,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,469,1,100000,60,NULL,2021-07-16
+Wang21f,CP_13,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,2475,1,100000,60,NULL,2021-07-16
+Wang21f,CP_14,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,687,1,100000,60,NULL,2021-07-16
+Wang21f,CP_15,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,88,1,100000,60,NULL,2021-07-16
+Wang21f,CP_16,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,60,1,100000,60,NULL,2021-07-16
+Wang21f,CP_17,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,117,1,100000,60,NULL,2021-07-16
+Wang21f,CP_18,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,250,1,100000,60,NULL,2021-07-16
+Wang21f,CP_19,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,203,1,100000,60,NULL,2021-07-16
+Wang21f,CP_20,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,345,1,100000,60,NULL,2021-07-16
+Wang21f,CP_P2,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,1488,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P5,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,707,1,400000,200,NULL,2021-07-16
+Wang21f,CP_P22,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,93,1,400000,200,NULL,2021-07-16
+Wang21f,CP_ST,S:417N+484K+501Y,"Figure 3C, Figure S4",HIV pseudovirus,NT50,388,1,400000,200,NULL,2021-07-16
