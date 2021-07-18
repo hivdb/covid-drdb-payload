@@ -1,9 +1,3 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Liu21,CP_29,infection,<,2020-12-26,USA,B.1 full genome,NULL,NULL
-Liu21,CP_29,isolation,<,2020-12-31,USA,B.1 full genome,NULL,NULL
-Liu21,CP_37,infection,<,2020-12-26,USA,B.1 full genome,NULL,NULL
-Liu21,CP_37,isolation,<,2020-12-31,USA,B.1 full genome,NULL,NULL
-Liu21,CP_13,infection,<,2020-12-26,USA,B.1 full genome,NULL,NULL
-Liu21,CP_13,isolation,<,2020-12-31,USA,B.1 full genome,NULL,NULL
-Liu21,CP_35,infection,<,2020-12-26,USA,B.1 full genome,NULL,NULL
-Liu21,CP_35,isolation,<,2020-12-31,USA,B.1 full genome,NULL,NULL
+Liu21,CP,infection,<,2020-12-26,USA,B.1 full genome,NULL,NULL
+Liu21,CP,isolation,<,2020-12-31,USA,B.1 full genome,NULL,NULL
