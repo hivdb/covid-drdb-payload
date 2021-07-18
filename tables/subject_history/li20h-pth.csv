@@ -1,0 +1,21 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Li20h,CP_01,infection,~,2020-01-19,"Wuhan, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_02,infection,~,2020-01-19,"Wuhan, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_03,infection,~,2020-01-19,"Wuhan, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_04,infection,~,2020-01-19,"Wuhan, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_06,infection,~,2020-01-19,"Wuhan, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_07,infection,~,2020-01-19,"Wuhan, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_08,infection,~,2020-01-19,"Wuhan, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_10,infection,~,2020-01-19,"Wuhan, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_86,infection,~,2020-02-04,"Shandong, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_87,infection,~,2020-02-04,"Shandong, China",Wuhan-Hu-1,NULL,NULL
+Li20h,CP_01,isolation,=,2020-02-18,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_02,isolation,=,2020-02-18,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_03,isolation,=,2020-02-18,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_04,isolation,=,2020-02-18,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_06,isolation,=,2020-02-18,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_07,isolation,=,2020-02-18,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_08,isolation,=,2020-02-18,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_10,isolation,=,2020-02-18,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_86,isolation,=,2020-03-05,"Shandong, China",NULL,NULL,NULL
+Li20h,CP_87,isolation,=,2020-03-05,"Shandong, China",NULL,NULL,NULL
