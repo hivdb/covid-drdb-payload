@@ -1,51 +1,205 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Ferreira21,BNT162b2_1,S:614G,Figure 3E,HIV pseudovirus,NT50,8185.46731,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_2,S:614G,Figure 3E,HIV pseudovirus,NT50,7405.68469,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_3,S:614G,Figure 3E,HIV pseudovirus,NT50,4489.25126,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_4,S:614G,Figure 3E,HIV pseudovirus,NT50,3007.88252,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_5,S:614G,Figure 3E,HIV pseudovirus,NT50,1649.64807,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_6,S:614G,Figure 3E,HIV pseudovirus,NT50,670.01875,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_7,S:614G,Figure 3E,HIV pseudovirus,NT50,300.788252,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_8,S:614G,Figure 3E,HIV pseudovirus,NT50,222.754295,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_9,S:614G,Figure 3E,HIV pseudovirus,NT50,201.533769,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_10,S:614G,Figure 3E,HIV pseudovirus,NT50,67.001875,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_1,S:484K,Figure 3E,HIV pseudovirus,NT50,3674.66194,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_2,S:484K,Figure 3E,HIV pseudovirus,NT50,3007.88252,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_3,S:484K,Figure 3E,HIV pseudovirus,NT50,164.964807,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_4,S:484K,Figure 3E,HIV pseudovirus,NT50,164.964807,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_5,S:484K,Figure 3E,HIV pseudovirus,NT50,246.20924,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_6,S:484K,Figure 3E,HIV pseudovirus,NT50,406.158599,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_7,S:484K,Figure 3E,HIV pseudovirus,NT50,164.964807,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_8,S:484K,Figure 3E,HIV pseudovirus,NT50,81.8546731,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_9,S:484K,Figure 3E,HIV pseudovirus,NT50,8.18546731,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_10,S:484K,Figure 3E,HIV pseudovirus,NT50,54.8441658,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_1,S:484Q,Figure 3E,HIV pseudovirus,NT50,3007.88252,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_2,S:484Q,Figure 3E,HIV pseudovirus,NT50,3007.88252,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_3,S:484Q,Figure 3E,HIV pseudovirus,NT50,182.3348,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_4,S:484Q,Figure 3E,HIV pseudovirus,NT50,182.3348,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_5,S:484Q,Figure 3E,HIV pseudovirus,NT50,149.249555,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_6,S:484Q,Figure 3E,HIV pseudovirus,NT50,448.925126,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_7,S:484Q,Figure 3E,HIV pseudovirus,NT50,182.3348,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_8,S:484Q,Figure 3E,HIV pseudovirus,NT50,40.6158599,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_9,S:484Q,Figure 3E,HIV pseudovirus,NT50,40.6158599,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_10,S:484Q,Figure 3E,HIV pseudovirus,NT50,40.6158599,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_1,S:452R,Figure 3E,HIV pseudovirus,NT50,11052.9514,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_2,S:452R,Figure 3E,HIV pseudovirus,NT50,6061.89899,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_3,S:452R,Figure 3E,HIV pseudovirus,NT50,904.735724,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_4,S:452R,Figure 3E,HIV pseudovirus,NT50,904.735724,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_5,S:452R,Figure 3E,HIV pseudovirus,NT50,246.20924,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_6,S:452R,Figure 3E,HIV pseudovirus,NT50,606.189899,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_7,S:452R,Figure 3E,HIV pseudovirus,NT50,246.20924,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_8,S:452R,Figure 3E,HIV pseudovirus,NT50,740.568469,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_9,S:452R,Figure 3E,HIV pseudovirus,NT50,40.6158599,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_10,S:452R,Figure 3E,HIV pseudovirus,NT50,7.40568469,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_1,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,4061.58599,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_2,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,5484.41658,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_3,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,406.158599,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_4,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,406.158599,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_5,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,110.529514,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_6,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,740.568469,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_7,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,670.01875,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_8,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,36.7466194,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_9,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,27.2133877,1,100000,10,NULL,2021-05-11
-Ferreira21,BNT162b2_10,S:452R+484Q,Figure 3E,HIV pseudovirus,NT50,36.7466194,1,100000,10,NULL,2021-05-11
+Ferreira21,BNT_1st_1,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,693,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_2,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,270,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_3,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,524,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_4,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,2113,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_5,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,253,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_6,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,49,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_7,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,35,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_8,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,793,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_9,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,16374,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_10,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,3257,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_11,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,8355,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_12,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,7662,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_13,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,227,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_14,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,686,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_15,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,184,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_16,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,69,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_17,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,286,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_18,S:614G,Supplementary Figure 1A,HIV pseudovirus,NT50,1662,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_1,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,420,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_2,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,139,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_3,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,165,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_4,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,221,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_5,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,83,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_6,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,47,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_7,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,24,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_8,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,201,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_9,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,5167,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_10,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,112,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_11,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,3798,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_12,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,2958,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_13,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,260,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_14,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,700,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_15,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,89,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_16,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,57,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_17,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,169,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_18,S:484K+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,260,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_1,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,495,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_2,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,75,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_3,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,70,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_4,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,133,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_5,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,40,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_6,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,113,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_7,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,25,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_8,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,108,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_9,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,3164,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_10,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,268,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_11,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,3257,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_12,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,3195,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_13,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,278,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_14,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,382,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_15,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,143,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_16,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,38,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_17,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,180,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_18,S:484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,146,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_1,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,642,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_2,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,149,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_3,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,165,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_4,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,161,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_5,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,756,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_6,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,41,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_7,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,20,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_8,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,72,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_9,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,9198,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_10,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,405,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_11,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,12510,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_12,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,6383,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_13,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,250,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_14,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,397,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_15,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,50,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_16,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,41,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_17,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,243,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_18,S:452R+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,898,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_1,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,706,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_2,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,69,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_3,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,46,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_4,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,164,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_5,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,39,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_6,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,62,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_7,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,20,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_8,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,50,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_9,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,2260,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_10,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,524,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_11,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,4222,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_12,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,5688,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_13,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,214,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_14,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,238,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_15,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,79,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_16,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,27,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_17,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,114,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_18,S:452R+484Q+614G,Supplementary Figure 1A,HIV pseudovirus,NT50,424,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_1,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,201,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_2,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,41,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_3,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,65,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_4,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,130,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_5,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,30,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_6,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,138,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_7,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,35,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_8,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,115,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_9,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,2611,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_10,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,1270,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_11,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,20,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_12,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,20,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_13,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,149,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_14,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,165,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_15,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,41,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_16,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,20,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_17,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,35,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_1st_18,S:452R+484Q+614G+681R,Supplementary Figure 1A,HIV pseudovirus,NT50,22,1,100000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_1,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,404,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_2,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,341,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_3,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,251,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_4,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,1029,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_5,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,1199,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_6,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,982,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_7,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,593,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_8,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,1052,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_9,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,386,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_10,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,917,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_11,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,532,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_12,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,751,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_13,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,248,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_14,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,352,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_15,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,284,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_16,S:614G,Supplementary Figure 1C,HIV pseudovirus,NT50,497,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_1,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,142,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_2,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,203,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_3,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,86,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_4,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,222,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_5,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,718,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_6,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,383,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_7,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,307,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_8,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,746,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_9,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,188,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_10,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,377,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_11,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,276,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_12,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,433,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_13,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,85,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_14,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,49,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_15,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,89,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_16,S:484K+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,127,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_1,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,158,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_2,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,224,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_3,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,133,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_4,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,369,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_5,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,729,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_6,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,562,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_7,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,489,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_8,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,1110,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_9,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,226,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_10,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,457,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_11,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,516,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_12,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,366,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_13,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,267,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_14,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,131,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_15,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,182,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_16,S:484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,240,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_1,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,198,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_2,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,284,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_3,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,116,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_4,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,440,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_5,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,1005,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_6,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,869,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_7,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,355,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_8,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,1036,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_9,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,174,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_10,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,549,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_11,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,464,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_12,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,588,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_13,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,221,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_14,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,161,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_15,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,192,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_16,S:452R+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,347,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_1,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,93,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_2,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,201,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_3,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,93,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_4,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,304,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_5,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,593,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_6,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,620,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_7,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,404,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_8,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,1304,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_9,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,73,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_10,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,407,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_11,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,261,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_12,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,729,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_13,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,131,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_14,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,76,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_15,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,120,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_16,S:452R+484Q+614G,Supplementary Figure 1C,HIV pseudovirus,NT50,181,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_1,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,121,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_2,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,389,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_3,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,134,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_4,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,246,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_5,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,453,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_6,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,352,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_7,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,392,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_8,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,1294,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_9,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,137,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_10,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,446,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_11,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,282,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_12,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,467,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_13,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,75,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_14,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,142,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_15,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,160,1,10000,10,NULL,2021-07-19
+Ferreira21,BNT_2nd_16,S:452R+484Q+614G+681R,Supplementary Figure 1C,HIV pseudovirus,NT50,184,1,10000,10,NULL,2021-07-19
