@@ -1,6 +1,6 @@
-ref_name,vaccine_name,var_name,method,efficacy
-Polack20,BNT162b2,B.1 full genome,Trial,95%
-Khoury21,BNT162b2,B.1 full genome,TNCC,95%
+ref_name,vaccine_name,var_name,design,efficacy
+Polack20,BNT162b2,B.1,Trial,95%
+Khoury21,BNT162b2,B.1,TNCC,95%
 Abu-Raddad21,BNT162b2,Alpha,TNCC,90%
 Sheikh21,BNT162b2,Alpha,TNCC,92%
 Bernal21,BNT162b2,Alpha,TNCC,93%
@@ -8,20 +8,20 @@ Haas21,BNT162b2,Alpha,Cohort,97%
 Abu-Raddad21,BNT162b2,Beta,TNCC,75%
 Sheikh21,BNT162b2,Delta,TNCC,83%
 Bernal21,BNT162b2,Delta,TNCC,88%
-Khoury21,AZD1222,B.1 full genome,Trial,70%
-Voysey20,AZD1222,B.1 full genome,Trial,70%
+Khoury21,AZD1222,B.1,Trial,70%
+Voysey20,AZD1222,B.1,Trial,70%
 Emary21,AZD1222,Alpha,Trial,70%
 Bernal21,AZD1222,Alpha,TNCC,66%
 Sheikh21,AZD1222,Alpha,TNCC,81%
 Madhi21,AZD1222,Beta,Trial,10%
 Bernal21,AZD1222,Delta,TNCC,60%
 Sheikh21,AZD1222,Delta,TNCC,61%
-Khoury21,NVX-CoV2373,B.1 full genome,Trial,96%
-Heath21,NVX-CoV2373,B.1 full genome,Trial,96%
+Khoury21,NVX-CoV2373,B.1,Trial,96%
+Heath21,NVX-CoV2373,B.1,Trial,96%
 Heath21,NVX-CoV2373,Alpha,Trial,86%
 Shinde21,NVX-CoV2373,Beta,Trial,51%
-Khoury21,Ad26.COV2.S,B.1 full genome,Trial,72%
-Sadoff21,Ad26.COV2.S,B.1 full genome,Trial,72%
+Khoury21,Ad26.COV2.S,B.1,Trial,72%
+Sadoff21,Ad26.COV2.S,B.1,Trial,72%
 Sadoff21,Ad26.COV2.S,Beta,Trial,64%
-Khoury21,CoronaVac,B.1 full genome,Trial,51%
+Khoury21,CoronaVac,B.1,Trial,51%
 Ranzani21,CoronaVac,Gamma,TNCC,42%
