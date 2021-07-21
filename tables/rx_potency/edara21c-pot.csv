@@ -1,99 +1,197 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Edara21c,CP_1,WA1,Table S2,authentic virus,NT50,359,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_2,WA1,Table S2,authentic virus,NT50,479,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_3,WA1,Table S2,authentic virus,NT50,423,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_4,WA1,Table S2,authentic virus,NT50,74,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_5,WA1,Table S2,authentic virus,NT50,305,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_6,WA1,Table S2,authentic virus,NT50,1129,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_7,WA1,Table S2,authentic virus,NT50,283,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_8,WA1,Table S2,authentic virus,NT50,716,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_9,WA1,Table S2,authentic virus,NT50,1101,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_10,WA1,Table S2,authentic virus,NT50,1088,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_11,WA1,Table S2,authentic virus,NT50,975,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_12,WA1,Table S2,authentic virus,NT50,820,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_13,WA1,Table S2,authentic virus,NT50,622,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_14,WA1,Table S2,authentic virus,NT50,646,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_15,WA1,Table S2,authentic virus,NT50,169,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_16,WA1,Table S2,authentic virus,NT50,400,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_17,WA1,Table S2,authentic virus,NT50,62,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_18,WA1,Table S2,authentic virus,NT50,626,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_19,WA1,Table S2,authentic virus,NT50,3085,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_20,WA1,Table S2,authentic virus,NT50,944,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_21,WA1,Table S2,authentic virus,NT50,425,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_22,WA1,Table S2,authentic virus,NT50,423,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_23,WA1,Table S2,authentic virus,NT50,819,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_24,WA1,Table S2,authentic virus,NT50,734,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_1,B.1.617.1_1675223,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_2,B.1.617.1_1675223,Table S2,authentic virus,NT50,49,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_3,B.1.617.1_1675223,Table S2,authentic virus,NT50,105,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_4,B.1.617.1_1675223,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_5,B.1.617.1_1675223,Table S2,authentic virus,NT50,42,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_6,B.1.617.1_1675223,Table S2,authentic virus,NT50,487,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_7,B.1.617.1_1675223,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_8,B.1.617.1_1675223,Table S2,authentic virus,NT50,100,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_9,B.1.617.1_1675223,Table S2,authentic virus,NT50,300,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_10,B.1.617.1_1675223,Table S2,authentic virus,NT50,116,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_11,B.1.617.1_1675223,Table S2,authentic virus,NT50,72,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_12,B.1.617.1_1675223,Table S2,authentic virus,NT50,47,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_13,B.1.617.1_1675223,Table S2,authentic virus,NT50,119,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_14,B.1.617.1_1675223,Table S2,authentic virus,NT50,143,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_15,B.1.617.1_1675223,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_16,B.1.617.1_1675223,Table S2,authentic virus,NT50,87,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_17,B.1.617.1_1675223,Table S2,authentic virus,NT50,20,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_18,B.1.617.1_1675223,Table S2,authentic virus,NT50,80,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_19,B.1.617.1_1675223,Table S2,authentic virus,NT50,1296,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_20,B.1.617.1_1675223,Table S2,authentic virus,NT50,89,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_21,B.1.617.1_1675223,Table S2,authentic virus,NT50,67,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_22,B.1.617.1_1675223,Table S2,authentic virus,NT50,63,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_23,B.1.617.1_1675223,Table S2,authentic virus,NT50,308,1,NULL,20,NULL,2021-05-11
-Edara21c,CP_24,B.1.617.1_1675223,Table S2,authentic virus,NT50,167,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_1,WA1,Table S4,authentic virus,NT50,1237,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_2,WA1,Table S4,authentic virus,NT50,937,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_3,WA1,Table S4,authentic virus,NT50,560,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_4,WA1,Table S4,authentic virus,NT50,1859,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_5,WA1,Table S4,authentic virus,NT50,1812,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_6,WA1,Table S4,authentic virus,NT50,351,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_7,WA1,Table S4,authentic virus,NT50,916,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_8,WA1,Table S4,authentic virus,NT50,2106,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_9,WA1,Table S4,authentic virus,NT50,2331,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_10,WA1,Table S4,authentic virus,NT50,1468,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_1,B.1.617.1_1675223,Table S4,authentic virus,NT50,261,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_2,B.1.617.1_1675223,Table S4,authentic virus,NT50,148,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_3,B.1.617.1_1675223,Table S4,authentic virus,NT50,82,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_4,B.1.617.1_1675223,Table S4,authentic virus,NT50,242,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_5,B.1.617.1_1675223,Table S4,authentic virus,NT50,327,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_6,B.1.617.1_1675223,Table S4,authentic virus,NT50,55,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_7,B.1.617.1_1675223,Table S4,authentic virus,NT50,154,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_8,B.1.617.1_1675223,Table S4,authentic virus,NT50,103,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_9,B.1.617.1_1675223,Table S4,authentic virus,NT50,408,1,NULL,20,NULL,2021-05-11
-Edara21c,BNT162b2_10,B.1.617.1_1675223,Table S4,authentic virus,NT50,158,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_1,WA1,Table S3,authentic virus,NT50,956,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_2,WA1,Table S3,authentic virus,NT50,540,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_3,WA1,Table S3,authentic virus,NT50,957,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_4,WA1,Table S3,authentic virus,NT50,884,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_5,WA1,Table S3,authentic virus,NT50,505,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_6,WA1,Table S3,authentic virus,NT50,1074,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_7,WA1,Table S3,authentic virus,NT50,3593,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_8,WA1,Table S3,authentic virus,NT50,1014,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_9,WA1,Table S3,authentic virus,NT50,2322,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_10,WA1,Table S3,authentic virus,NT50,5330,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_11,WA1,Table S3,authentic virus,NT50,759,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_12,WA1,Table S3,authentic virus,NT50,1012,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_13,WA1,Table S3,authentic virus,NT50,1411,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_14,WA1,Table S3,authentic virus,NT50,2007,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_15,WA1,Table S3,authentic virus,NT50,3159,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_1,B.1.617.1_1675223,Table S3,authentic virus,NT50,173,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_2,B.1.617.1_1675223,Table S3,authentic virus,NT50,85,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_3,B.1.617.1_1675223,Table S3,authentic virus,NT50,126,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_4,B.1.617.1_1675223,Table S3,authentic virus,NT50,140,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_5,B.1.617.1_1675223,Table S3,authentic virus,NT50,117,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_6,B.1.617.1_1675223,Table S3,authentic virus,NT50,100,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_7,B.1.617.1_1675223,Table S3,authentic virus,NT50,340,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_8,B.1.617.1_1675223,Table S3,authentic virus,NT50,159,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_9,B.1.617.1_1675223,Table S3,authentic virus,NT50,175,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_10,B.1.617.1_1675223,Table S3,authentic virus,NT50,826,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_11,B.1.617.1_1675223,Table S3,authentic virus,NT50,118,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_12,B.1.617.1_1675223,Table S3,authentic virus,NT50,128,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_13,B.1.617.1_1675223,Table S3,authentic virus,NT50,186,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_14,B.1.617.1_1675223,Table S3,authentic virus,NT50,372,1,NULL,20,NULL,2021-05-11
-Edara21c,mRNA-1273_15,B.1.617.1_1675223,Table S3,authentic virus,NT50,595,1,NULL,20,NULL,2021-05-11
+Edara21c,CP_A1_1,WA1,Supplementary Table S4,authentic virus,NT50,359,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_2,WA1,Supplementary Table S4,authentic virus,NT50,479,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_3,WA1,Supplementary Table S4,authentic virus,NT50,423,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_4,WA1,Supplementary Table S4,authentic virus,NT50,74,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_5,WA1,Supplementary Table S4,authentic virus,NT50,305,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_6,WA1,Supplementary Table S4,authentic virus,NT50,1129,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_7,WA1,Supplementary Table S4,authentic virus,NT50,283,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_8,WA1,Supplementary Table S4,authentic virus,NT50,716,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_9,WA1,Supplementary Table S4,authentic virus,NT50,1101,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_10,WA1,Supplementary Table S4,authentic virus,NT50,1088,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_11,WA1,Supplementary Table S4,authentic virus,NT50,975,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_12,WA1,Supplementary Table S4,authentic virus,NT50,820,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_13,WA1,Supplementary Table S4,authentic virus,NT50,622,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_14,WA1,Supplementary Table S4,authentic virus,NT50,646,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_15,WA1,Supplementary Table S4,authentic virus,NT50,169,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_16,WA1,Supplementary Table S4,authentic virus,NT50,400,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_17,WA1,Supplementary Table S4,authentic virus,NT50,62,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_18,WA1,Supplementary Table S4,authentic virus,NT50,626,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_19,WA1,Supplementary Table S4,authentic virus,NT50,3085,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_20,WA1,Supplementary Table S4,authentic virus,NT50,944,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_21,WA1,Supplementary Table S4,authentic virus,NT50,425,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_22,WA1,Supplementary Table S4,authentic virus,NT50,423,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_23,WA1,Supplementary Table S4,authentic virus,NT50,819,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_24,WA1,Supplementary Table S4,authentic virus,NT50,734,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_1,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,18,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_2,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,49,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_3,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,105,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_4,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,15,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_5,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,42,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_6,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,487,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_7,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,15,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_8,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,100,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_9,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,300,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_10,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,116,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_11,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,72,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_12,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,47,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_13,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,119,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_14,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,143,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_15,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,15,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_16,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,87,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_17,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,15,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_18,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,80,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_19,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,1296,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_20,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,89,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_21,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,67,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_22,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,63,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_23,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,308,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A1_24,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S4,authentic virus,NT50,167,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_1,WA1,Supplementary Table S4,authentic virus,NT50,301,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_2,WA1,Supplementary Table S4,authentic virus,NT50,462,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_3,WA1,Supplementary Table S4,authentic virus,NT50,522,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_4,WA1,Supplementary Table S4,authentic virus,NT50,89,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_5,WA1,Supplementary Table S4,authentic virus,NT50,526,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_6,WA1,Supplementary Table S4,authentic virus,NT50,1109,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_7,WA1,Supplementary Table S4,authentic virus,NT50,297,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_8,WA1,Supplementary Table S4,authentic virus,NT50,600,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_9,WA1,Supplementary Table S4,authentic virus,NT50,955,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_10,WA1,Supplementary Table S4,authentic virus,NT50,2179,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_11,WA1,Supplementary Table S4,authentic virus,NT50,1553,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_12,WA1,Supplementary Table S4,authentic virus,NT50,720,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_13,WA1,Supplementary Table S4,authentic virus,NT50,785,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_14,WA1,Supplementary Table S4,authentic virus,NT50,587,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_15,WA1,Supplementary Table S4,authentic virus,NT50,166,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_16,WA1,Supplementary Table S4,authentic virus,NT50,405,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_17,WA1,Supplementary Table S4,authentic virus,NT50,81,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_18,WA1,Supplementary Table S4,authentic virus,NT50,656,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_19,WA1,Supplementary Table S4,authentic virus,NT50,1410,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_20,WA1,Supplementary Table S4,authentic virus,NT50,512,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_21,WA1,Supplementary Table S4,authentic virus,NT50,338,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_22,WA1,Supplementary Table S4,authentic virus,NT50,274,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_23,WA1,Supplementary Table S4,authentic virus,NT50,945,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_24,WA1,Supplementary Table S4,authentic virus,NT50,440,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_1,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,66,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_2,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,127,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_3,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,152,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_4,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,15,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_5,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,103,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_6,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,760,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_7,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,104,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_8,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,545,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_9,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,603,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_10,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,655,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_11,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,366,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_12,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,426,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_13,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,135,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_14,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,305,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_15,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,73,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_16,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,237,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_17,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,83,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_18,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,208,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_19,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,1313,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_20,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,143,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_21,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,253,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_22,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,70,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_23,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,721,1,10000,20,NULL,2021-07-21
+Edara21c,CP_A2_24,hCoV19/USA/PHC658/2021,Supplementary Table S4,authentic virus,NT50,246,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_1,WA1,Supplementary Table S5,authentic virus,NT50,956,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_2,WA1,Supplementary Table S5,authentic virus,NT50,540,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_3,WA1,Supplementary Table S5,authentic virus,NT50,957,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_4,WA1,Supplementary Table S5,authentic virus,NT50,884,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_5,WA1,Supplementary Table S5,authentic virus,NT50,505,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_6,WA1,Supplementary Table S5,authentic virus,NT50,1074,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_7,WA1,Supplementary Table S5,authentic virus,NT50,3593,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_8,WA1,Supplementary Table S5,authentic virus,NT50,1014,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_9,WA1,Supplementary Table S5,authentic virus,NT50,2322,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_10,WA1,Supplementary Table S5,authentic virus,NT50,5330,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_11,WA1,Supplementary Table S5,authentic virus,NT50,759,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_12,WA1,Supplementary Table S5,authentic virus,NT50,1012,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_13,WA1,Supplementary Table S5,authentic virus,NT50,1411,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_14,WA1,Supplementary Table S5,authentic virus,NT50,2007,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_15,WA1,Supplementary Table S5,authentic virus,NT50,3159,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_1,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,173,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_2,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,85,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_3,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,126,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_4,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,140,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_5,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,117,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_6,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,100,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_7,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,340,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_8,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,159,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_9,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,175,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_10,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,826,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_11,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,118,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_12,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,128,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_13,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,186,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_14,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,372,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A1_15,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S5,authentic virus,NT50,595,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_1,WA1,Supplementary Table S5,authentic virus,NT50,805,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_2,WA1,Supplementary Table S5,authentic virus,NT50,502,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_3,WA1,Supplementary Table S5,authentic virus,NT50,534,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_4,WA1,Supplementary Table S5,authentic virus,NT50,794,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_5,WA1,Supplementary Table S5,authentic virus,NT50,618,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_6,WA1,Supplementary Table S5,authentic virus,NT50,907,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_7,WA1,Supplementary Table S5,authentic virus,NT50,2091,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_8,WA1,Supplementary Table S5,authentic virus,NT50,827,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_9,WA1,Supplementary Table S5,authentic virus,NT50,1277,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_10,WA1,Supplementary Table S5,authentic virus,NT50,3597,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_11,WA1,Supplementary Table S5,authentic virus,NT50,958,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_12,WA1,Supplementary Table S5,authentic virus,NT50,786,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_13,WA1,Supplementary Table S5,authentic virus,NT50,1082,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_14,WA1,Supplementary Table S5,authentic virus,NT50,1505,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_15,WA1,Supplementary Table S5,authentic virus,NT50,2648,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_1,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,293,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_2,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,155,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_3,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,182,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_4,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,145,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_5,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,139,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_6,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,187,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_7,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,601,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_8,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,281,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_9,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,267,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_10,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,1460,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_11,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,371,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_12,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,354,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_13,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,691,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_14,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,574,1,10000,20,NULL,2021-07-21
+Edara21c,mRNA-1273_A2_15,hCoV19/USA/PHC658/2021,Supplementary Table S5,authentic virus,NT50,1364,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_1,WA1,Supplementary Table S6,authentic virus,NT50,1237,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_2,WA1,Supplementary Table S6,authentic virus,NT50,937,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_3,WA1,Supplementary Table S6,authentic virus,NT50,560,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_4,WA1,Supplementary Table S6,authentic virus,NT50,1859,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_5,WA1,Supplementary Table S6,authentic virus,NT50,1812,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_6,WA1,Supplementary Table S6,authentic virus,NT50,351,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_7,WA1,Supplementary Table S6,authentic virus,NT50,916,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_8,WA1,Supplementary Table S6,authentic virus,NT50,2106,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_9,WA1,Supplementary Table S6,authentic virus,NT50,2331,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_10,WA1,Supplementary Table S6,authentic virus,NT50,1468,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_1,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,261,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_2,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,148,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_3,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,82,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_4,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,242,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_5,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,327,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_6,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,55,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_7,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,154,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_8,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,103,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_9,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,408,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A1_10,hCoV19/USA/CA-Stanford-15_S02/2021,Supplementary Table S6,authentic virus,NT50,158,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_1,WA1,Supplementary Table S6,authentic virus,NT50,903,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_2,WA1,Supplementary Table S6,authentic virus,NT50,647,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_3,WA1,Supplementary Table S6,authentic virus,NT50,430,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_4,WA1,Supplementary Table S6,authentic virus,NT50,887,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_5,WA1,Supplementary Table S6,authentic virus,NT50,1477,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_6,WA1,Supplementary Table S6,authentic virus,NT50,389,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_7,WA1,Supplementary Table S6,authentic virus,NT50,924,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_8,WA1,Supplementary Table S6,authentic virus,NT50,578,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_9,WA1,Supplementary Table S6,authentic virus,NT50,1178,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_10,WA1,Supplementary Table S6,authentic virus,NT50,990,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_1,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,437,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_2,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,270,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_3,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,227,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_4,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,256,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_5,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,327,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_6,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,75,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_7,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,182,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_8,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,173,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_9,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,422,1,10000,20,NULL,2021-07-21
+Edara21c,BNT162b2_A2_10,hCoV19/USA/PHC658/2021,Supplementary Table S6,authentic virus,NT50,230,1,10000,20,NULL,2021-07-21
