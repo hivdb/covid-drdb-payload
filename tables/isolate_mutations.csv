@@ -14,6 +14,10 @@ EPI_ISL_852709,S,614,G
 EPI_ISL_852709,N,203,K
 EPI_ISL_852709,N,204,R
 EPI_ISL_852709,M,175,M
+SARS-CoV-2/human/ITA/Siena-1/2020,RdRP,323,L
+SARS-CoV-2/human/ITA/Siena-1/2020,S,614,G
+SARS-CoV-2/human/ITA/Siena-1/2020,N,203,K
+SARS-CoV-2/human/ITA/Siena-1/2020,N,204,R
 B.1.1.298 Spike,S,453,F
 B.1.1.298 Spike,S,614,G
 B.1.1.298 Spike,S,692,V
@@ -268,6 +272,33 @@ B.1.1.7 Spike_601443,S,681,H
 B.1.1.7 Spike_601443,S,716,I
 B.1.1.7 Spike_601443,S,982,A
 B.1.1.7 Spike_601443,S,1118,H
+hCoV-19/Italy/TUS-Siena2/2021,PLpro,183,I
+hCoV-19/Italy/TUS-Siena2/2021,PLpro,405,A
+hCoV-19/Italy/TUS-Siena2/2021,PLpro,890,D
+hCoV-19/Italy/TUS-Siena2/2021,PLpro,1412,T
+hCoV-19/Italy/TUS-Siena2/2021,nsp6,106,del
+hCoV-19/Italy/TUS-Siena2/2021,nsp6,107,del
+hCoV-19/Italy/TUS-Siena2/2021,nsp6,108,del
+hCoV-19/Italy/TUS-Siena2/2021,nsp6,260,F
+hCoV-19/Italy/TUS-Siena2/2021,RdRP,323,L
+hCoV-19/Italy/TUS-Siena2/2021,S,69,del
+hCoV-19/Italy/TUS-Siena2/2021,S,70,del
+hCoV-19/Italy/TUS-Siena2/2021,S,141,del
+hCoV-19/Italy/TUS-Siena2/2021,S,144,del
+hCoV-19/Italy/TUS-Siena2/2021,S,501,Y
+hCoV-19/Italy/TUS-Siena2/2021,S,570,D
+hCoV-19/Italy/TUS-Siena2/2021,S,614,G
+hCoV-19/Italy/TUS-Siena2/2021,S,681,H
+hCoV-19/Italy/TUS-Siena2/2021,S,716,I
+hCoV-19/Italy/TUS-Siena2/2021,S,982,A
+hCoV-19/Italy/TUS-Siena2/2021,S,1118,H
+hCoV-19/Italy/TUS-Siena2/2021,ORF8,27,stop
+hCoV-19/Italy/TUS-Siena2/2021,ORF8,52,I
+hCoV-19/Italy/TUS-Siena2/2021,ORF8,73,C
+hCoV-19/Italy/TUS-Siena2/2021,N,3,L
+hCoV-19/Italy/TUS-Siena2/2021,N,203,K
+hCoV-19/Italy/TUS-Siena2/2021,N,204,R
+hCoV-19/Italy/TUS-Siena2/2021,N,235,F
 hCoV-19/Israel/CVL-46879-ngs/2020,PLpro,183,I
 hCoV-19/Israel/CVL-46879-ngs/2020,PLpro,890,D
 hCoV-19/Israel/CVL-46879-ngs/2020,PLpro,1412,T
@@ -807,6 +838,30 @@ B.1.351_MZ202314,E,71,L
 B.1.351_MZ202314,ORF7a,93,F
 B.1.351_MZ202314,ORF8,115,L
 B.1.351_MZ202314,N,205,I
+hCoV-19/Italy/TUS-Siena7/2021,nsp2,85,I
+hCoV-19/Italy/TUS-Siena7/2021,PLpro,837,N
+hCoV-19/Italy/TUS-Siena7/2021,_3CLpro,90,R
+hCoV-19/Italy/TUS-Siena7/2021,nsp6,106,del
+hCoV-19/Italy/TUS-Siena7/2021,nsp6,107,del
+hCoV-19/Italy/TUS-Siena7/2021,nsp6,108,del
+hCoV-19/Italy/TUS-Siena7/2021,RdRP,323,L
+hCoV-19/Italy/TUS-Siena7/2021,nsp13,300,L
+hCoV-19/Italy/TUS-Siena7/2021,S,18,F
+hCoV-19/Italy/TUS-Siena7/2021,S,80,A
+hCoV-19/Italy/TUS-Siena7/2021,S,215,G
+hCoV-19/Italy/TUS-Siena7/2021,S,242,del
+hCoV-19/Italy/TUS-Siena7/2021,S,243,del
+hCoV-19/Italy/TUS-Siena7/2021,S,244,del
+hCoV-19/Italy/TUS-Siena7/2021,S,417,N
+hCoV-19/Italy/TUS-Siena7/2021,S,484,K
+hCoV-19/Italy/TUS-Siena7/2021,S,501,Y
+hCoV-19/Italy/TUS-Siena7/2021,S,614,G
+hCoV-19/Italy/TUS-Siena7/2021,S,701,V
+hCoV-19/Italy/TUS-Siena7/2021,S,943,P
+hCoV-19/Italy/TUS-Siena7/2021,ORF3a,57,H
+hCoV-19/Italy/TUS-Siena7/2021,ORF3a,171,L
+hCoV-19/Italy/TUS-Siena7/2021,E,71,L
+hCoV-19/Italy/TUS-Siena7/2021,N,205,I
 hCoV-19/Israel/CVL-2557-ngs/2020,nsp2,85,I
 hCoV-19/Israel/CVL-2557-ngs/2020,PLpro,402,L
 hCoV-19/Israel/CVL-2557-ngs/2020,PLpro,837,N
@@ -1288,6 +1343,32 @@ P.1_MZ202306,ORF8,92,K
 P.1_MZ202306,N,80,R
 P.1_MZ202306,N,203,K
 P.1_MZ202306,N,204,R
+hCoV-19/Italy/TUS-Siena12/2021,PLpro,370,L
+hCoV-19/Italy/TUS-Siena12/2021,PLpro,977,Q
+hCoV-19/Italy/TUS-Siena12/2021,nsp6,106,del
+hCoV-19/Italy/TUS-Siena12/2021,nsp6,107,del
+hCoV-19/Italy/TUS-Siena12/2021,nsp6,108,del
+hCoV-19/Italy/TUS-Siena12/2021,RdRP,323,L
+hCoV-19/Italy/TUS-Siena12/2021,nsp13,341,D
+hCoV-19/Italy/TUS-Siena12/2021,S,18,F
+hCoV-19/Italy/TUS-Siena12/2021,S,20,N
+hCoV-19/Italy/TUS-Siena12/2021,S,26,S
+hCoV-19/Italy/TUS-Siena12/2021,S,138,Y
+hCoV-19/Italy/TUS-Siena12/2021,S,190,S
+hCoV-19/Italy/TUS-Siena12/2021,S,417,T
+hCoV-19/Italy/TUS-Siena12/2021,S,484,K
+hCoV-19/Italy/TUS-Siena12/2021,S,501,Y
+hCoV-19/Italy/TUS-Siena12/2021,S,614,G
+hCoV-19/Italy/TUS-Siena12/2021,S,655,Y
+hCoV-19/Italy/TUS-Siena12/2021,S,812,S
+hCoV-19/Italy/TUS-Siena12/2021,S,813,N
+hCoV-19/Italy/TUS-Siena12/2021,S,1027,I
+hCoV-19/Italy/TUS-Siena12/2021,S,1176,F
+hCoV-19/Italy/TUS-Siena12/2021,ORF3a,253,P
+hCoV-19/Italy/TUS-Siena12/2021,ORF8,92,K
+hCoV-19/Italy/TUS-Siena12/2021,N,80,R
+hCoV-19/Italy/TUS-Siena12/2021,N,203,K
+hCoV-19/Italy/TUS-Siena12/2021,N,204,R
 P.2 Spike,S,484,K
 P.2 Spike,S,614,G
 P.2 Spike,S,1176,F
