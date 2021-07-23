@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Barouch21,Ad26_1dose_d29_1,WA1,Figure 1B,lentivirus pseudovirus,NT50,1170.23,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_2dose_d29_1,WA1,Figure 1B,lentivirus pseudovirus,NT50,41.29,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_2dose_d29_2,WA1,Figure 1B,lentivirus pseudovirus,NT50,342.64,1,10000,20,NULL,2021-07-23
@@ -79,10 +79,8 @@ Barouch21,Ad26_1dose_d29_8,hCoV-19/India/MH-NCCS-DHW50453/2021_Spike,Figure 1B,l
 Barouch21,Ad26_2dose_d29_10,hCoV-19/India/MH-NCCS-DHW50453/2021_Spike,Figure 1B,lentivirus pseudovirus,NT50,42.17,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_1dose_d29_9,hCoV-19/India/MH-NCCS-DHW50453/2021_Spike,Figure 1B,lentivirus pseudovirus,NT50,295.99,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_1dose_d29_10,hCoV-19/India/MH-NCCS-DHW50453/2021_Spike,Figure 1B,lentivirus pseudovirus,NT50,58.16,1,10000,20,NULL,2021-07-23
-Barouch21,Ad26_1dose_d29_1,"
-  hCoV-19/India/GJ-GBRC615/2021_Spike",Figure 1B,lentivirus pseudovirus,NT50,41.22,1,10000,20,NULL,2021-07-23
-Barouch21,Ad26_2dose_d29_1,"
-  hCoV-19/India/GJ-GBRC615/2021_Spike",Figure 1B,lentivirus pseudovirus,NT50,20.15,1,10000,20,NULL,2021-07-23
+Barouch21,Ad26_1dose_d29_1,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1B,lentivirus pseudovirus,NT50,41.22,1,10000,20,NULL,2021-07-23
+Barouch21,Ad26_2dose_d29_1,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1B,lentivirus pseudovirus,NT50,20.15,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_2dose_d29_2,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1B,lentivirus pseudovirus,NT50,91.27,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_2dose_d29_3,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1B,lentivirus pseudovirus,NT50,20.15,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_2dose_d29_4,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1B,lentivirus pseudovirus,NT50,20.15,1,10000,20,NULL,2021-07-23
@@ -225,10 +223,8 @@ Barouch21,Ad26_2dose_d239_7,hCoV-19/India/MH-NCCS-DHW50453/2021_Spike,Figure 1C,
 Barouch21,Ad26_2dose_d239_8,hCoV-19/India/MH-NCCS-DHW50453/2021_Spike,Figure 1C,lentivirus pseudovirus,NT50,113.46,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_1dose_d239_7,hCoV-19/India/MH-NCCS-DHW50453/2021_Spike,Figure 1C,lentivirus pseudovirus,NT50,256.79,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_1dose_d239_8,hCoV-19/India/MH-NCCS-DHW50453/2021_Spike,Figure 1C,lentivirus pseudovirus,NT50,53.72,1,10000,20,NULL,2021-07-23
-Barouch21,Ad26_1dose_d239_1,"
-  hCoV-19/India/GJ-GBRC615/2021_Spike",Figure 1C,lentivirus pseudovirus,NT50,67.81,1,10000,20,NULL,2021-07-23
-Barouch21,Ad26_2dose_d239_1,"
-  hCoV-19/India/GJ-GBRC615/2021_Spike",Figure 1C,lentivirus pseudovirus,NT50,177.19,1,10000,20,NULL,2021-07-23
+Barouch21,Ad26_1dose_d239_1,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1C,lentivirus pseudovirus,NT50,67.81,1,10000,20,NULL,2021-07-23
+Barouch21,Ad26_2dose_d239_1,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1C,lentivirus pseudovirus,NT50,177.19,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_2dose_d239_2,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1C,lentivirus pseudovirus,NT50,36.92,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_1dose_d239_2,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1C,lentivirus pseudovirus,NT50,96.58,1,10000,20,NULL,2021-07-23
 Barouch21,Ad26_2dose_d239_3,hCoV-19/India/GJ-GBRC615/2021_Spike,Figure 1C,lentivirus pseudovirus,NT50,55.76,1,10000,20,NULL,2021-07-23

@@ -1,8 +1,8 @@
-ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Barouch21,Ad26_1dose,"1st dose ",~,2020-09-01,USA,NULL,Ad26.COV2.S,NULL
-Barouch21,Ad26_1dose,1st dose isolation,~,2020-09-30,USA,NULL,Ad26.COV2.S,NULL
-Barouch21,Ad26_1dose,1st dose isolation,~,2021-04-28,USA,NULL,Ad26.COV2.S,NULL
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Barouch21,Ad26_1dose,1st dose,~,2020-09-01,USA,NULL,NULL,NULL
+Barouch21,Ad26_1dose,1st dose isolation,~,2020-09-30,USA,NULL,NULL,NULL
+Barouch21,Ad26_1dose,1st dose isolation,~,2021-04-28,USA,NULL,NULL,NULL
 Barouch21,Ad26_2dose,1st dose,~,2020-09-01,USA,NULL,Ad26.COV2.S,NULL
 Barouch21,Ad26_2dose,2nd dose,~,2020-10-27,USA,NULL,Ad26.COV2.S,NULL
-Barouch21,Ad26_2dose,2nd dose isolation,~,2020-11-25,USA,NULL,Ad26.COV2.S,NULL
-Barouch21,Ad26_2dose,2nd dose isolation,~,2021-06-23,USA,NULL,Ad26.COV2.S,NULL
+Barouch21,Ad26_2dose,2nd dose isolation,~,2020-11-25,USA,NULL,NULL,NULL
+Barouch21,Ad26_2dose,2nd dose isolation,~,2021-06-23,USA,NULL,NULL,NULL
