@@ -161,6 +161,10 @@ FDA21,Casirivimab
 FDA21,Imdevimab
 FDA21,Sotrovimab
 Focosi21b,Bamlanivimab/Etesevimab
+Ganiels21,COVA1-18
+Ganiels21,COVA2-15
+Ganiels21,COVA2-17
+Ganiels21,COVA1-16
 Gottlieb21,Bamlanivimab
 Gottlieb21,Etesevimab
 Greaney20,COV2-2082
@@ -2096,6 +2100,9 @@ Ferreira21,BNT_2nd_13
 Ferreira21,BNT_2nd_14
 Ferreira21,BNT_2nd_15
 Ferreira21,BNT_2nd_16
+Ganiels21,CP_non-hosp
+Ganiels21,CP_hosp
+Ganiels21,BNT162b2
 Garcia-Beltran21,BNT162b2
 Garcia-Beltran21,mRNA-1273
 Goel21,IHCV2020.001_CP
