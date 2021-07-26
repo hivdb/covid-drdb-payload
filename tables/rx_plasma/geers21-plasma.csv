@@ -1,0 +1,6 @@
+﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
+Geers21,BNT_naive_1dose,BNT_naive,NULL,2021-01-22,BNT_naive
+Geers21,BNT_naive_2dose,BNT_naive,NULL,2021-02-19,BNT_naive
+Geers21,CP_recovered,BNT_recovered,NULL,2020-10-02,BNT_recovered
+Geers21,BNT_recovered_1dose,BNT_recovered,NULL,2021-01-22,BNT_recovered
+Geers21,BNT_recovered_2dose,BNT_recovered,NULL,2021-02-19,BNT_recovered

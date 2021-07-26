@@ -1,0 +1,16 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2E",authentic virus,NT50,21.37,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2E",authentic virus,NT50,30.24,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2E",authentic virus,NT50,12.29,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2E",authentic virus,NT50,189.13,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2E",authentic virus,NT50,106.68,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2E",authentic virus,NT50,335.29,12,40960,10,NULL,2021-07-25
+Geers21,CP_recovered,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2F",authentic virus,NT50,111.3,13,40960,10,NULL,2021-07-25
+Geers21,CP_recovered,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2F",authentic virus,NT50,319.12,13,40960,10,NULL,2021-07-25
+Geers21,CP_recovered,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2F",authentic virus,NT50,35.68,13,40960,10,NULL,2021-07-25
+Geers21,BNT_recovered_1dose,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2F",authentic virus,NT50,1874.43,13,40960,10,NULL,2021-07-25
+Geers21,BNT_recovered_1dose,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2F",authentic virus,NT50,4593.3,13,40960,10,NULL,2021-07-25
+Geers21,BNT_recovered_1dose,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2F",authentic virus,NT50,688.45,13,40960,10,NULL,2021-07-25
+Geers21,BNT_recovered_2dose,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2F",authentic virus,NT50,2064.53,13,40960,10,NULL,2021-07-25
+Geers21,BNT_recovered_2dose,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2F",authentic virus,NT50,4486.89,13,40960,10,NULL,2021-07-25
+Geers21,BNT_recovered_2dose,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2F",authentic virus,NT50,616.73,13,40960,10,NULL,2021-07-25

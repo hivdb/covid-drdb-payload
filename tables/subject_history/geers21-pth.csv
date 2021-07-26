@@ -1,0 +1,11 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Geers21,BNT_naive,1st dose,~,2021-01-01,Netherlands,NULL,BNT162b2,NULL
+Geers21,BNT_naive,1st dose isolation,~,2021-01-22,Netherlands,NULL,NULL,NULL
+Geers21,BNT_naive,2nd dose,~,2021-01-22,Netherlands,NULL,BNT162b2,NULL
+Geers21,BNT_naive,2nd dose isolation,~,2021-02-19,Netherlands,NULL,NULL,NULL
+Geers21,BNT_recovered,infection,~,2020-09-11,Netherlands,B.1 full genome,NULL,Mild
+Geers21,BNT_recovered,isolation,~,2020-10-02,Netherlands,B.1 full genome,NULL,NULL
+Geers21,BNT_recovered,1st dose,~,2021-01-01,Netherlands,NULL,BNT162b2,NULL
+Geers21,BNT_recovered,1st dose isolation,~,2021-01-22,Netherlands,NULL,NULL,NULL
+Geers21,BNT_recovered,2nd dose,~,2021-01-22,Netherlands,NULL,BNT162b2,NULL
+Geers21,BNT_recovered,2nd dose isolation,~,2021-02-19,Netherlands,NULL,NULL,NULL
