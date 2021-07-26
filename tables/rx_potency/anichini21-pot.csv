@@ -1,5 +1,5 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Anichini21,BNT162b2,SARS-CoV-2/human/ITA/Siena-1/2020,Figure 2,authentic virus,NT50,91.03,60,1024,8,NULL,2021-07-23
-Anichini21,BNT162b2,hCoV-19/Italy/TUS-Siena2/2021,Figure 2,authentic virus,NT50,91.03,60,1024,8,NULL,2021-07-23
-Anichini21,BNT162b2,hCoV-19/Italy/TUS-Siena7/2021,Figure 2,authentic virus,NT50,81.25,60,1024,8,NULL,2021-07-23
-Anichini21,BNT162b2,hCoV-19/Italy/TUS-Siena12/2021,Figure 2,authentic virus,NT50,23.28,60,1024,8,NULL,2021-07-23
+Anichini21,BNT162b2,SARS-CoV-2/human/ITA/Siena-1/2020,Figure 2,Virus isolate,NT50,91.03,60,1024,8,NULL,2021-07-23
+Anichini21,BNT162b2,hCoV-19/Italy/TUS-Siena2/2021,Figure 2,Virus isolate,NT50,91.03,60,1024,8,NULL,2021-07-23
+Anichini21,BNT162b2,hCoV-19/Italy/TUS-Siena7/2021,Figure 2,Virus isolate,NT50,81.25,60,1024,8,NULL,2021-07-23
+Anichini21,BNT162b2,hCoV-19/Italy/TUS-Siena12/2021,Figure 2,Virus isolate,NT50,23.28,60,1024,8,NULL,2021-07-23

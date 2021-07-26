@@ -1,580 +1,580 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Liu21f,AZD1061,VIC,Table S1,lentivirus pseudovirus,IC50,7,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD8895,VIC,Table S1,lentivirus pseudovirus,IC50,3,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD7442,VIC,Table S1,lentivirus pseudovirus,IC50,2,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10987,VIC,Table S1,lentivirus pseudovirus,IC50,14,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10933,VIC,Table S1,lentivirus pseudovirus,IC50,2,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG10,VIC,Table S1,lentivirus pseudovirus,IC50,7,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG20,VIC,Table S1,lentivirus pseudovirus,IC50,2,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG30,VIC,Table S1,lentivirus pseudovirus,IC50,14,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV555,VIC,Table S1,lentivirus pseudovirus,IC50,4,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV16,VIC,Table S1,lentivirus pseudovirus,IC50,26,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,S309,VIC,Table S1,lentivirus pseudovirus,IC50,10000,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD1061,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,33,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD8895,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,2,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD7442,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,4,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10987,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,21,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10933,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,10,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG10,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,9,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG20,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,5,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG30,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,48,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV555,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,10000,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV16,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,10,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,S309,B.1.617.1 Spike:+95I-1101D,Table S1,lentivirus pseudovirus,IC50,238,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD1061,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,4,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD8895,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,1,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD7442,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,2,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10987,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,8,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10933,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,1,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG10,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,11,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG20,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,3,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG30,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,16,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV555,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,5,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV16,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,6,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,S309,B.1.1.519 Spike,Table S1,lentivirus pseudovirus,IC50,78,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD1061,VIC,Table S1,authentic virus,IC50,13,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD8895,VIC,Table S1,authentic virus,IC50,5,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD7442,VIC,Table S1,authentic virus,IC50,9,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10987,VIC,Table S1,authentic virus,IC50,32,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10933,VIC,Table S1,authentic virus,IC50,4,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG10,VIC,Table S1,authentic virus,IC50,6,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG20,VIC,Table S1,authentic virus,IC50,4,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG30,VIC,Table S1,authentic virus,IC50,7,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV555,VIC,Table S1,authentic virus,IC50,6,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV16,VIC,Table S1,authentic virus,IC50,34,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,S309,VIC,Table S1,authentic virus,IC50,40,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD1061,B.1.617.2 full genome,Table S1,authentic virus,IC50,38,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD8895,B.1.617.2 full genome,Table S1,authentic virus,IC50,3,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,AZD7442,B.1.617.2 full genome,Table S1,authentic virus,IC50,5,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10987,B.1.617.2 full genome,Table S1,authentic virus,IC50,17,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,REGN10933,B.1.617.2 full genome,Table S1,authentic virus,IC50,3,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG10,B.1.617.2 full genome,Table S1,authentic virus,IC50,26,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG20,B.1.617.2 full genome,Table S1,authentic virus,IC50,6,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,ADG30,B.1.617.2 full genome,Table S1,authentic virus,IC50,33,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV555,B.1.617.2 full genome,Table S1,authentic virus,IC50,8311,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,LY-CoV16,B.1.617.2 full genome,Table S1,authentic virus,IC50,12,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,S309,B.1.617.2 full genome,Table S1,authentic virus,IC50,113,1,10000,NULL,ng/ml,2021-06-18
-Liu21f,CP_1,VIC,Table S3,lentivirus pseudovirus,NT50,99,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_2,VIC,Table S3,lentivirus pseudovirus,NT50,1098,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_3,VIC,Table S3,lentivirus pseudovirus,NT50,677,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_4,VIC,Table S3,lentivirus pseudovirus,NT50,992,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_5,VIC,Table S3,lentivirus pseudovirus,NT50,1016,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_6,VIC,Table S3,lentivirus pseudovirus,NT50,1417,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_7,VIC,Table S3,lentivirus pseudovirus,NT50,716,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_8,VIC,Table S3,lentivirus pseudovirus,NT50,474,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_12,VIC,Table S3,lentivirus pseudovirus,NT50,585,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_13,VIC,Table S3,lentivirus pseudovirus,NT50,362,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_14,VIC,Table S3,lentivirus pseudovirus,NT50,514,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_15,VIC,Table S3,lentivirus pseudovirus,NT50,8300,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_16,VIC,Table S3,lentivirus pseudovirus,NT50,124,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_17,VIC,Table S3,lentivirus pseudovirus,NT50,1188,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_18,VIC,Table S3,lentivirus pseudovirus,NT50,480,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_19,VIC,Table S3,lentivirus pseudovirus,NT50,78,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_20,VIC,Table S3,lentivirus pseudovirus,NT50,552,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_21,VIC,Table S3,lentivirus pseudovirus,NT50,894,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_22,VIC,Table S3,lentivirus pseudovirus,NT50,1596,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_23,VIC,Table S3,lentivirus pseudovirus,NT50,661,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_24,VIC,Table S3,lentivirus pseudovirus,NT50,2976,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_25,VIC,Table S3,lentivirus pseudovirus,NT50,2609,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_26,VIC,Table S3,lentivirus pseudovirus,NT50,1677,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_27,VIC,Table S3,lentivirus pseudovirus,NT50,1664,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_28,VIC,Table S3,lentivirus pseudovirus,NT50,652,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_29,VIC,Table S3,lentivirus pseudovirus,NT50,3117,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_30,VIC,Table S3,lentivirus pseudovirus,NT50,1341,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_31,VIC,Table S3,lentivirus pseudovirus,NT50,1518,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_32,VIC,Table S3,lentivirus pseudovirus,NT50,764,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_34,VIC,Table S3,lentivirus pseudovirus,NT50,1289,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_1,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_2,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,165,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_3,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,677,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_4,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,817,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_5,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,54,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_6,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,820,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_7,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,115,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_8,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,288,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_12,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,97,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_13,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,214,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_14,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,52,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_15,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,7086,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_16,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_17,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,33,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_18,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,85,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_19,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,19,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_20,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,204,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_21,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,135,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_22,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,497,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_23,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,135,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_24,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,405,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_25,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,750,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_26,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,424,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_27,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,227,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_28,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,333,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_29,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,982,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_30,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,447,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_31,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,454,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_32,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,567,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_34,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,830,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_1,VIC,Table S3,authentic virus,NT50,61,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_2,VIC,Table S3,authentic virus,NT50,689,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_3,VIC,Table S3,authentic virus,NT50,526,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_4,VIC,Table S3,authentic virus,NT50,409,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_5,VIC,Table S3,authentic virus,NT50,369,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_6,VIC,Table S3,authentic virus,NT50,1270,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_7,VIC,Table S3,authentic virus,NT50,274,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_8,VIC,Table S3,authentic virus,NT50,633,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_9,VIC,Table S3,authentic virus,NT50,667,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_10,VIC,Table S3,authentic virus,NT50,124,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_11,VIC,Table S3,authentic virus,NT50,102,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_12,VIC,Table S3,authentic virus,NT50,339,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_13,VIC,Table S3,authentic virus,NT50,331,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_14,VIC,Table S3,authentic virus,NT50,438,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_15,VIC,Table S3,authentic virus,NT50,6397,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_16,VIC,Table S3,authentic virus,NT50,44,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_17,VIC,Table S3,authentic virus,NT50,1115,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_18,VIC,Table S3,authentic virus,NT50,242,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_19,VIC,Table S3,authentic virus,NT50,29,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_20,VIC,Table S3,authentic virus,NT50,154,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_21,VIC,Table S3,authentic virus,NT50,487,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_22,VIC,Table S3,authentic virus,NT50,438,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_23,VIC,Table S3,authentic virus,NT50,381,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_24,VIC,Table S3,authentic virus,NT50,1647,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_25,VIC,Table S3,authentic virus,NT50,913,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_26,VIC,Table S3,authentic virus,NT50,1880,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_27,VIC,Table S3,authentic virus,NT50,1464,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_28,VIC,Table S3,authentic virus,NT50,361,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_29,VIC,Table S3,authentic virus,NT50,2859,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_30,VIC,Table S3,authentic virus,NT50,1109,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_31,VIC,Table S3,authentic virus,NT50,811,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_32,VIC,Table S3,authentic virus,NT50,395,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_33,VIC,Table S3,authentic virus,NT50,1144,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_34,VIC,Table S3,authentic virus,NT50,676,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_1,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_2,B.1.617.2 full genome,Table S3,authentic virus,NT50,41,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_3,B.1.617.2 full genome,Table S3,authentic virus,NT50,231,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_4,B.1.617.2 full genome,Table S3,authentic virus,NT50,445,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_5,B.1.617.2 full genome,Table S3,authentic virus,NT50,136,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_6,B.1.617.2 full genome,Table S3,authentic virus,NT50,460,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_7,B.1.617.2 full genome,Table S3,authentic virus,NT50,124,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_8,B.1.617.2 full genome,Table S3,authentic virus,NT50,360,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_9,B.1.617.2 full genome,Table S3,authentic virus,NT50,81,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_10,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_11,B.1.617.2 full genome,Table S3,authentic virus,NT50,127,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_12,B.1.617.2 full genome,Table S3,authentic virus,NT50,95,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_13,B.1.617.2 full genome,Table S3,authentic virus,NT50,55,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_14,B.1.617.2 full genome,Table S3,authentic virus,NT50,465,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_15,B.1.617.2 full genome,Table S3,authentic virus,NT50,2916,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_16,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_17,B.1.617.2 full genome,Table S3,authentic virus,NT50,239,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_18,B.1.617.2 full genome,Table S3,authentic virus,NT50,71,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_19,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_20,B.1.617.2 full genome,Table S3,authentic virus,NT50,60,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_21,B.1.617.2 full genome,Table S3,authentic virus,NT50,76,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_22,B.1.617.2 full genome,Table S3,authentic virus,NT50,236,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_23,B.1.617.2 full genome,Table S3,authentic virus,NT50,189,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_24,B.1.617.2 full genome,Table S3,authentic virus,NT50,900,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_25,B.1.617.2 full genome,Table S3,authentic virus,NT50,747,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_26,B.1.617.2 full genome,Table S3,authentic virus,NT50,832,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_27,B.1.617.2 full genome,Table S3,authentic virus,NT50,829,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_28,B.1.617.2 full genome,Table S3,authentic virus,NT50,621,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_29,B.1.617.2 full genome,Table S3,authentic virus,NT50,1143,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_30,B.1.617.2 full genome,Table S3,authentic virus,NT50,425,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_31,B.1.617.2 full genome,Table S3,authentic virus,NT50,556,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_32,B.1.617.2 full genome,Table S3,authentic virus,NT50,317,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_33,B.1.617.2 full genome,Table S3,authentic virus,NT50,302,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_34,B.1.617.2 full genome,Table S3,authentic virus,NT50,150,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P3,VIC,Table S3,lentivirus pseudovirus,NT50,101,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P4,VIC,Table S3,lentivirus pseudovirus,NT50,22442,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P5,VIC,Table S3,lentivirus pseudovirus,NT50,1423,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P6,VIC,Table S3,lentivirus pseudovirus,NT50,655,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P7,VIC,Table S3,lentivirus pseudovirus,NT50,2073,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P8,VIC,Table S3,lentivirus pseudovirus,NT50,2459,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P9,VIC,Table S3,lentivirus pseudovirus,NT50,2046,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P10,VIC,Table S3,lentivirus pseudovirus,NT50,3019,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P11,VIC,Table S3,lentivirus pseudovirus,NT50,3243,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P14,VIC,Table S3,lentivirus pseudovirus,NT50,1444,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P15,VIC,Table S3,lentivirus pseudovirus,NT50,174,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P16,VIC,Table S3,lentivirus pseudovirus,NT50,1463,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P17,VIC,Table S3,lentivirus pseudovirus,NT50,803,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P18,VIC,Table S3,lentivirus pseudovirus,NT50,990,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P19,VIC,Table S3,lentivirus pseudovirus,NT50,575,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P20,VIC,Table S3,lentivirus pseudovirus,NT50,1647,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P22,VIC,Table S3,lentivirus pseudovirus,NT50,422,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P23,VIC,Table S3,lentivirus pseudovirus,NT50,2243,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P3,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,27,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P4,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,15436,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P5,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,107,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P6,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,69,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P7,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,1623,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P8,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,749,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P9,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,145,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P10,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,373,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P11,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,205,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P14,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,665,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P15,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,79,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P16,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,292,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P17,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,415,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P18,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,466,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P19,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,54,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P20,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,1197,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P22,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,172,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P23,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,504,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P3,VIC,Table S3,authentic virus,NT50,143,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P4,VIC,Table S3,authentic virus,NT50,88889,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P5,VIC,Table S3,authentic virus,NT50,1839,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P6,VIC,Table S3,authentic virus,NT50,562,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P7,VIC,Table S3,authentic virus,NT50,2936,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P8,VIC,Table S3,authentic virus,NT50,4696,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P9,VIC,Table S3,authentic virus,NT50,1777,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P10,VIC,Table S3,authentic virus,NT50,2484,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P11,VIC,Table S3,authentic virus,NT50,1632,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P14,VIC,Table S3,authentic virus,NT50,1555,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P15,VIC,Table S3,authentic virus,NT50,227,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P16,VIC,Table S3,authentic virus,NT50,2902,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P17,VIC,Table S3,authentic virus,NT50,3781,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P18,VIC,Table S3,authentic virus,NT50,2641,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P19,VIC,Table S3,authentic virus,NT50,775,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P20,VIC,Table S3,authentic virus,NT50,2614,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P22,VIC,Table S3,authentic virus,NT50,390,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P23,VIC,Table S3,authentic virus,NT50,864,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P3,B.1.617.2 full genome,Table S3,authentic virus,NT50,39,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P4,B.1.617.2 full genome,Table S3,authentic virus,NT50,109481,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P5,B.1.617.2 full genome,Table S3,authentic virus,NT50,384,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P6,B.1.617.2 full genome,Table S3,authentic virus,NT50,54,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P7,B.1.617.2 full genome,Table S3,authentic virus,NT50,3049,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P8,B.1.617.2 full genome,Table S3,authentic virus,NT50,535,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P9,B.1.617.2 full genome,Table S3,authentic virus,NT50,533,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P10,B.1.617.2 full genome,Table S3,authentic virus,NT50,1182,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P11,B.1.617.2 full genome,Table S3,authentic virus,NT50,532,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P14,B.1.617.2 full genome,Table S3,authentic virus,NT50,911,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P15,B.1.617.2 full genome,Table S3,authentic virus,NT50,778,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P16,B.1.617.2 full genome,Table S3,authentic virus,NT50,2016,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P17,B.1.617.2 full genome,Table S3,authentic virus,NT50,566,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P18,B.1.617.2 full genome,Table S3,authentic virus,NT50,732,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P19,B.1.617.2 full genome,Table S3,authentic virus,NT50,211,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P20,B.1.617.2 full genome,Table S3,authentic virus,NT50,1509,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P22,B.1.617.2 full genome,Table S3,authentic virus,NT50,182,1,NULL,20,NULL,2021-06-18
-Liu21f,CP_B.1.1.7_P23,B.1.617.2 full genome,Table S3,authentic virus,NT50,185,1,NULL,20,NULL,2021-06-18
-Liu21f,SA01,VIC,Table S3,lentivirus pseudovirus,NT50,586,1,NULL,20,NULL,2021-06-18
-Liu21f,SA02,VIC,Table S3,lentivirus pseudovirus,NT50,564,1,NULL,20,NULL,2021-06-18
-Liu21f,SA03,VIC,Table S3,lentivirus pseudovirus,NT50,107,1,NULL,20,NULL,2021-06-18
-Liu21f,SA04,VIC,Table S3,lentivirus pseudovirus,NT50,824,1,NULL,20,NULL,2021-06-18
-Liu21f,SA05,VIC,Table S3,lentivirus pseudovirus,NT50,166,1,NULL,20,NULL,2021-06-18
-Liu21f,SA06,VIC,Table S3,lentivirus pseudovirus,NT50,295,1,NULL,20,NULL,2021-06-18
-Liu21f,SA07,VIC,Table S3,lentivirus pseudovirus,NT50,1384,1,NULL,20,NULL,2021-06-18
-Liu21f,SA08,VIC,Table S3,lentivirus pseudovirus,NT50,360,1,NULL,20,NULL,2021-06-18
-Liu21f,SA09,VIC,Table S3,lentivirus pseudovirus,NT50,584,1,NULL,20,NULL,2021-06-18
-Liu21f,SA10,VIC,Table S3,lentivirus pseudovirus,NT50,57,1,NULL,20,NULL,2021-06-18
-Liu21f,SA11,VIC,Table S3,lentivirus pseudovirus,NT50,530,1,NULL,20,NULL,2021-06-18
-Liu21f,SA12,VIC,Table S3,lentivirus pseudovirus,NT50,1026,1,NULL,20,NULL,2021-06-18
-Liu21f,SA13,VIC,Table S3,lentivirus pseudovirus,NT50,53,1,NULL,20,NULL,2021-06-18
-Liu21f,SA14,VIC,Table S3,lentivirus pseudovirus,NT50,678,1,NULL,20,NULL,2021-06-18
-Liu21f,SA01,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,402,1,NULL,20,NULL,2021-06-18
-Liu21f,SA02,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,876,1,NULL,20,NULL,2021-06-18
-Liu21f,SA03,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,18,1,NULL,20,NULL,2021-06-18
-Liu21f,SA04,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,1231,1,NULL,20,NULL,2021-06-18
-Liu21f,SA05,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,27,1,NULL,20,NULL,2021-06-18
-Liu21f,SA06,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,121,1,NULL,20,NULL,2021-06-18
-Liu21f,SA07,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,508,1,NULL,20,NULL,2021-06-18
-Liu21f,SA08,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,239,1,NULL,20,NULL,2021-06-18
-Liu21f,SA09,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,259,1,NULL,20,NULL,2021-06-18
-Liu21f,SA10,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,98,1,NULL,20,NULL,2021-06-18
-Liu21f,SA11,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,379,1,NULL,20,NULL,2021-06-18
-Liu21f,SA12,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,1142,1,NULL,20,NULL,2021-06-18
-Liu21f,SA13,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,10,1,NULL,20,NULL,2021-06-18
-Liu21f,SA14,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,511,1,NULL,20,NULL,2021-06-18
-Liu21f,SA01,VIC,Table S3,authentic virus,NT50,379,1,NULL,20,NULL,2021-06-18
-Liu21f,SA02,VIC,Table S3,authentic virus,NT50,597,1,NULL,20,NULL,2021-06-18
-Liu21f,SA03,VIC,Table S3,authentic virus,NT50,71,1,NULL,20,NULL,2021-06-18
-Liu21f,SA04,VIC,Table S3,authentic virus,NT50,240,1,NULL,20,NULL,2021-06-18
-Liu21f,SA05,VIC,Table S3,authentic virus,NT50,67,1,NULL,20,NULL,2021-06-18
-Liu21f,SA06,VIC,Table S3,authentic virus,NT50,69,1,NULL,20,NULL,2021-06-18
-Liu21f,SA07,VIC,Table S3,authentic virus,NT50,463,1,NULL,20,NULL,2021-06-18
-Liu21f,SA08,VIC,Table S3,authentic virus,NT50,641,1,NULL,20,NULL,2021-06-18
-Liu21f,SA09,VIC,Table S3,authentic virus,NT50,888,1,NULL,20,NULL,2021-06-18
-Liu21f,SA10,VIC,Table S3,authentic virus,NT50,80,1,NULL,20,NULL,2021-06-18
-Liu21f,SA11,VIC,Table S3,authentic virus,NT50,1234,1,NULL,20,NULL,2021-06-18
-Liu21f,SA12,VIC,Table S3,authentic virus,NT50,2148,1,NULL,20,NULL,2021-06-18
-Liu21f,SA13,VIC,Table S3,authentic virus,NT50,268,1,NULL,20,NULL,2021-06-18
-Liu21f,SA14,VIC,Table S3,authentic virus,NT50,595,1,NULL,20,NULL,2021-06-18
-Liu21f,SA01,B.1.617.2 full genome,Table S3,authentic virus,NT50,214,1,NULL,20,NULL,2021-06-18
-Liu21f,SA02,B.1.617.2 full genome,Table S3,authentic virus,NT50,629,1,NULL,20,NULL,2021-06-18
-Liu21f,SA03,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,SA04,B.1.617.2 full genome,Table S3,authentic virus,NT50,293,1,NULL,20,NULL,2021-06-18
-Liu21f,SA05,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,SA06,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,SA07,B.1.617.2 full genome,Table S3,authentic virus,NT50,374,1,NULL,20,NULL,2021-06-18
-Liu21f,SA08,B.1.617.2 full genome,Table S3,authentic virus,NT50,30,1,NULL,20,NULL,2021-06-18
-Liu21f,SA09,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,SA10,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,SA11,B.1.617.2 full genome,Table S3,authentic virus,NT50,83,1,NULL,20,NULL,2021-06-18
-Liu21f,SA12,B.1.617.2 full genome,Table S3,authentic virus,NT50,390,1,NULL,20,NULL,2021-06-18
-Liu21f,SA13,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,SA14,B.1.617.2 full genome,Table S3,authentic virus,NT50,123,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-1,VIC,Table S3,lentivirus pseudovirus,NT50,274,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-2,VIC,Table S3,lentivirus pseudovirus,NT50,21,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-3,VIC,Table S3,lentivirus pseudovirus,NT50,108,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-4,VIC,Table S3,lentivirus pseudovirus,NT50,152,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-5,VIC,Table S3,lentivirus pseudovirus,NT50,56,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-6,VIC,Table S3,lentivirus pseudovirus,NT50,1751,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-7,VIC,Table S3,lentivirus pseudovirus,NT50,313,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-8,VIC,Table S3,lentivirus pseudovirus,NT50,151,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-9,VIC,Table S3,lentivirus pseudovirus,NT50,111,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-10,VIC,Table S3,lentivirus pseudovirus,NT50,107,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-11,VIC,Table S3,lentivirus pseudovirus,NT50,157,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-12,VIC,Table S3,lentivirus pseudovirus,NT50,62,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-13,VIC,Table S3,lentivirus pseudovirus,NT50,202,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-14,VIC,Table S3,lentivirus pseudovirus,NT50,121,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-15,VIC,Table S3,lentivirus pseudovirus,NT50,1555,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-16,VIC,Table S3,lentivirus pseudovirus,NT50,337,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-17,VIC,Table S3,lentivirus pseudovirus,NT50,1489,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-1,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,125,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-2,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,22,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-3,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,58,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-4,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,116,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-5,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,31,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-6,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,1039,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-7,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,12,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-8,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,100,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-9,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,107,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-10,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,19,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-11,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,82,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-12,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,48,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-13,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,87,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-14,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,39,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-15,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,2050,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-16,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,194,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-17,B.1.617.1 Spike:+95I-1101D,Table S3,lentivirus pseudovirus,NT50,364,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-1,VIC,Table S3,authentic virus,NT50,86,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-2,VIC,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-3,VIC,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-4,VIC,Table S3,authentic virus,NT50,29,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-5,VIC,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-6,VIC,Table S3,authentic virus,NT50,2505,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-7,VIC,Table S3,authentic virus,NT50,123,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-8,VIC,Table S3,authentic virus,NT50,40,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-9,VIC,Table S3,authentic virus,NT50,23,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-10,VIC,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-11,VIC,Table S3,authentic virus,NT50,123,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-12,VIC,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-13,VIC,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-14,VIC,Table S3,authentic virus,NT50,87,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-15,VIC,Table S3,authentic virus,NT50,8199,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-16,VIC,Table S3,authentic virus,NT50,828,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-17,VIC,Table S3,authentic virus,NT50,1654,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-1,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-2,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-3,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-4,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-5,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-6,B.1.617.2 full genome,Table S3,authentic virus,NT50,1311,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-7,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-8,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-9,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-10,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-11,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-12,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-13,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-14,B.1.617.2 full genome,Table S3,authentic virus,NT50,20,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-15,B.1.617.2 full genome,Table S3,authentic virus,NT50,2551,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-16,B.1.617.2 full genome,Table S3,authentic virus,NT50,333,1,NULL,20,NULL,2021-06-18
-Liu21f,P.1-17,B.1.617.2 full genome,Table S3,authentic virus,NT50,227,1,NULL,20,NULL,2021-06-18
-Liu21f,Pfizer1,VIC,Table S4,lentivirus pseudovirus,NT50,1575,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer2,VIC,Table S4,lentivirus pseudovirus,NT50,82,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer3,VIC,Table S4,lentivirus pseudovirus,NT50,1812,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer4,VIC,Table S4,lentivirus pseudovirus,NT50,4675,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer5,VIC,Table S4,lentivirus pseudovirus,NT50,3239,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer6,VIC,Table S4,lentivirus pseudovirus,NT50,1994,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer7,VIC,Table S4,lentivirus pseudovirus,NT50,1466,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer8,VIC,Table S4,lentivirus pseudovirus,NT50,3115,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer9,VIC,Table S4,lentivirus pseudovirus,NT50,888,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer10,VIC,Table S4,lentivirus pseudovirus,NT50,2315,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer11,VIC,Table S4,lentivirus pseudovirus,NT50,1418,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer12,VIC,Table S4,lentivirus pseudovirus,NT50,1643,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer13,VIC,Table S4,lentivirus pseudovirus,NT50,2744,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer14,VIC,Table S4,lentivirus pseudovirus,NT50,584,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer15,VIC,Table S4,lentivirus pseudovirus,NT50,1823,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer16,VIC,Table S4,lentivirus pseudovirus,NT50,1094,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer17,VIC,Table S4,lentivirus pseudovirus,NT50,2358,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer18,VIC,Table S4,lentivirus pseudovirus,NT50,1872,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer19,VIC,Table S4,lentivirus pseudovirus,NT50,983,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer20,VIC,Table S4,lentivirus pseudovirus,NT50,1603,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer21,VIC,Table S4,lentivirus pseudovirus,NT50,347,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer22,VIC,Table S4,lentivirus pseudovirus,NT50,678,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer23,VIC,Table S4,lentivirus pseudovirus,NT50,1149,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer24,VIC,Table S4,lentivirus pseudovirus,NT50,1082,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer25,VIC,Table S4,lentivirus pseudovirus,NT50,3496,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer1,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,790,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer2,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,10,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer3,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,686,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer4,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,3179,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer5,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,999,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer6,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,1208,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer7,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,973,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer8,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,953,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer9,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,405,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer10,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,493,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer11,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,307,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer12,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,619,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer13,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,937,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer14,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,216,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer15,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,491,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer16,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,216,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer17,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,558,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer18,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,1227,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer19,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,603,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer20,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,1156,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer21,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,34,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer22,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,455,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer23,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,297,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer24,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,558,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer25,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,2494,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer1,VIC,Table S4,authentic virus,NT50,1149,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer2,VIC,Table S4,authentic virus,NT50,10,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer3,VIC,Table S4,authentic virus,NT50,1727,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer4,VIC,Table S4,authentic virus,NT50,2234,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer5,VIC,Table S4,authentic virus,NT50,3016,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer6,VIC,Table S4,authentic virus,NT50,1521,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer7,VIC,Table S4,authentic virus,NT50,609,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer8,VIC,Table S4,authentic virus,NT50,4340,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer9,VIC,Table S4,authentic virus,NT50,1467,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer10,VIC,Table S4,authentic virus,NT50,1757,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer11,VIC,Table S4,authentic virus,NT50,860,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer12,VIC,Table S4,authentic virus,NT50,1749,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer13,VIC,Table S4,authentic virus,NT50,1851,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer14,VIC,Table S4,authentic virus,NT50,407,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer15,VIC,Table S4,authentic virus,NT50,1285,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer16,VIC,Table S4,authentic virus,NT50,1286,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer17,VIC,Table S4,authentic virus,NT50,1810,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer18,VIC,Table S4,authentic virus,NT50,1198,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer19,VIC,Table S4,authentic virus,NT50,466,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer20,VIC,Table S4,authentic virus,NT50,1539,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer21,VIC,Table S4,authentic virus,NT50,184,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer22,VIC,Table S4,authentic virus,NT50,1061,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer23,VIC,Table S4,authentic virus,NT50,1658,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer24,VIC,Table S4,authentic virus,NT50,1155,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer25,VIC,Table S4,authentic virus,NT50,8092,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer1,B.1.617.2 full genome,Table S4,authentic virus,NT50,540,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer2,B.1.617.2 full genome,Table S4,authentic virus,NT50,10,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer3,B.1.617.2 full genome,Table S4,authentic virus,NT50,644,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer4,B.1.617.2 full genome,Table S4,authentic virus,NT50,3604,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer5,B.1.617.2 full genome,Table S4,authentic virus,NT50,992,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer6,B.1.617.2 full genome,Table S4,authentic virus,NT50,875,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer7,B.1.617.2 full genome,Table S4,authentic virus,NT50,636,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer8,B.1.617.2 full genome,Table S4,authentic virus,NT50,726,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer9,B.1.617.2 full genome,Table S4,authentic virus,NT50,217,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer10,B.1.617.2 full genome,Table S4,authentic virus,NT50,338,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer11,B.1.617.2 full genome,Table S4,authentic virus,NT50,138,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer12,B.1.617.2 full genome,Table S4,authentic virus,NT50,964,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer13,B.1.617.2 full genome,Table S4,authentic virus,NT50,932,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer14,B.1.617.2 full genome,Table S4,authentic virus,NT50,177,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer15,B.1.617.2 full genome,Table S4,authentic virus,NT50,466,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer16,B.1.617.2 full genome,Table S4,authentic virus,NT50,336,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer17,B.1.617.2 full genome,Table S4,authentic virus,NT50,811,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer18,B.1.617.2 full genome,Table S4,authentic virus,NT50,474,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer19,B.1.617.2 full genome,Table S4,authentic virus,NT50,155,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer20,B.1.617.2 full genome,Table S4,authentic virus,NT50,502,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer21,B.1.617.2 full genome,Table S4,authentic virus,NT50,39,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer22,B.1.617.2 full genome,Table S4,authentic virus,NT50,586,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer23,B.1.617.2 full genome,Table S4,authentic virus,NT50,365,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer24,B.1.617.2 full genome,Table S4,authentic virus,NT50,1036,1,NULL,10,NULL,2021-06-18
-Liu21f,Pfizer25,B.1.617.2 full genome,Table S4,authentic virus,NT50,4256,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 1,VIC,Table S4,lentivirus pseudovirus,NT50,489,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 2,VIC,Table S4,lentivirus pseudovirus,NT50,440,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 3,VIC,Table S4,lentivirus pseudovirus,NT50,90,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 4,VIC,Table S4,lentivirus pseudovirus,NT50,349,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 5,VIC,Table S4,lentivirus pseudovirus,NT50,681,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 6,VIC,Table S4,lentivirus pseudovirus,NT50,169,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 7,VIC,Table S4,lentivirus pseudovirus,NT50,228,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 8,VIC,Table S4,lentivirus pseudovirus,NT50,333,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 9,VIC,Table S4,lentivirus pseudovirus,NT50,134,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 10,VIC,Table S4,lentivirus pseudovirus,NT50,93,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 11,VIC,Table S4,lentivirus pseudovirus,NT50,192,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 12,VIC,Table S4,lentivirus pseudovirus,NT50,88,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 13,VIC,Table S4,lentivirus pseudovirus,NT50,373,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 14,VIC,Table S4,lentivirus pseudovirus,NT50,188,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 15,VIC,Table S4,lentivirus pseudovirus,NT50,572,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 16,VIC,Table S4,lentivirus pseudovirus,NT50,202,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 17,VIC,Table S4,lentivirus pseudovirus,NT50,763,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 18,VIC,Table S4,lentivirus pseudovirus,NT50,233,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 19,VIC,Table S4,lentivirus pseudovirus,NT50,1031,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 20,VIC,Table S4,lentivirus pseudovirus,NT50,188,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 21,VIC,Table S4,lentivirus pseudovirus,NT50,224,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 22,VIC,Table S4,lentivirus pseudovirus,NT50,367,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 23,VIC,Table S4,lentivirus pseudovirus,NT50,96,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 24,VIC,Table S4,lentivirus pseudovirus,NT50,612,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 25,VIC,Table S4,lentivirus pseudovirus,NT50,67,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 1,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,333,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 2,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,345,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 3,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,12,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 4,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,311,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 5,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,56,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 6,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,30,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 7,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,127,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 8,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,81,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 9,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,106,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 10,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,133,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 11,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,116,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 12,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,51,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 13,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,218,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 14,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,91,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 15,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,87,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 16,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,156,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 17,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,208,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 18,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,102,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 19,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,443,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 20,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,64,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 21,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,49,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 22,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,49,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 23,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,43,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 24,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,102,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 25,B.1.617.1 Spike:+95I-1101D,Table S4,lentivirus pseudovirus,NT50,32,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 1,VIC,Table S4,authentic virus,NT50,495,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 2,VIC,Table S4,authentic virus,NT50,580,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 3,VIC,Table S4,authentic virus,NT50,253,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 4,VIC,Table S4,authentic virus,NT50,183,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 5,VIC,Table S4,authentic virus,NT50,432,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 6,VIC,Table S4,authentic virus,NT50,764,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 7,VIC,Table S4,authentic virus,NT50,133,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 8,VIC,Table S4,authentic virus,NT50,257,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 9,VIC,Table S4,authentic virus,NT50,501,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 10,VIC,Table S4,authentic virus,NT50,357,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 11,VIC,Table S4,authentic virus,NT50,334,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 12,VIC,Table S4,authentic virus,NT50,250,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 13,VIC,Table S4,authentic virus,NT50,122,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 14,VIC,Table S4,authentic virus,NT50,212,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 15,VIC,Table S4,authentic virus,NT50,789,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 16,VIC,Table S4,authentic virus,NT50,538,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 17,VIC,Table S4,authentic virus,NT50,1159,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 18,VIC,Table S4,authentic virus,NT50,353,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 19,VIC,Table S4,authentic virus,NT50,975,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 20,VIC,Table S4,authentic virus,NT50,169,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 21,VIC,Table S4,authentic virus,NT50,155,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 22,VIC,Table S4,authentic virus,NT50,152,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 23,VIC,Table S4,authentic virus,NT50,126,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 24,VIC,Table S4,authentic virus,NT50,293,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 25,VIC,Table S4,authentic virus,NT50,94,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 1,B.1.617.2 full genome,Table S4,authentic virus,NT50,235,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 2,B.1.617.2 full genome,Table S4,authentic virus,NT50,308,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 3,B.1.617.2 full genome,Table S4,authentic virus,NT50,10,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 4,B.1.617.2 full genome,Table S4,authentic virus,NT50,101,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 5,B.1.617.2 full genome,Table S4,authentic virus,NT50,121,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 6,B.1.617.2 full genome,Table S4,authentic virus,NT50,134,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 7,B.1.617.2 full genome,Table S4,authentic virus,NT50,10,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 8,B.1.617.2 full genome,Table S4,authentic virus,NT50,57,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 9,B.1.617.2 full genome,Table S4,authentic virus,NT50,194,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 10,B.1.617.2 full genome,Table S4,authentic virus,NT50,217,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 11,B.1.617.2 full genome,Table S4,authentic virus,NT50,90,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 12,B.1.617.2 full genome,Table S4,authentic virus,NT50,54,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 13,B.1.617.2 full genome,Table S4,authentic virus,NT50,26,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 14,B.1.617.2 full genome,Table S4,authentic virus,NT50,41,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 15,B.1.617.2 full genome,Table S4,authentic virus,NT50,69,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 16,B.1.617.2 full genome,Table S4,authentic virus,NT50,201,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 17,B.1.617.2 full genome,Table S4,authentic virus,NT50,184,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 18,B.1.617.2 full genome,Table S4,authentic virus,NT50,122,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 19,B.1.617.2 full genome,Table S4,authentic virus,NT50,224,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 20,B.1.617.2 full genome,Table S4,authentic virus,NT50,30,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 21,B.1.617.2 full genome,Table S4,authentic virus,NT50,29,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 22,B.1.617.2 full genome,Table S4,authentic virus,NT50,39,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 23,B.1.617.2 full genome,Table S4,authentic virus,NT50,27,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 24,B.1.617.2 full genome,Table S4,authentic virus,NT50,223,1,NULL,10,NULL,2021-06-18
-Liu21f,AstraZeneca 25,B.1.617.2 full genome,Table S4,authentic virus,NT50,10,1,NULL,10,NULL,2021-06-18
+Liu21f,AZD1061,VIC,Table S1,Pseudovirus (lentivirus),IC50,7,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD8895,VIC,Table S1,Pseudovirus (lentivirus),IC50,3,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD7442,VIC,Table S1,Pseudovirus (lentivirus),IC50,2,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10987,VIC,Table S1,Pseudovirus (lentivirus),IC50,14,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10933,VIC,Table S1,Pseudovirus (lentivirus),IC50,2,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG10,VIC,Table S1,Pseudovirus (lentivirus),IC50,7,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG20,VIC,Table S1,Pseudovirus (lentivirus),IC50,2,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG30,VIC,Table S1,Pseudovirus (lentivirus),IC50,14,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV555,VIC,Table S1,Pseudovirus (lentivirus),IC50,4,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV16,VIC,Table S1,Pseudovirus (lentivirus),IC50,26,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,S309,VIC,Table S1,Pseudovirus (lentivirus),IC50,10000,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD1061,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,33,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD8895,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,2,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD7442,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,4,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10987,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,21,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10933,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,10,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG10,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,9,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG20,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,5,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG30,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,48,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV555,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,10000,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV16,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,10,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,S309,B.1.617.1 Spike:+95I-1101D,Table S1,Pseudovirus (lentivirus),IC50,238,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD1061,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,4,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD8895,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,1,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD7442,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,2,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10987,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,8,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10933,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,1,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG10,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,11,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG20,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,3,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG30,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,16,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV555,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,5,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV16,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,6,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,S309,B.1.1.519 Spike,Table S1,Pseudovirus (lentivirus),IC50,78,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD1061,VIC,Table S1,Virus isolate,IC50,13,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD8895,VIC,Table S1,Virus isolate,IC50,5,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD7442,VIC,Table S1,Virus isolate,IC50,9,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10987,VIC,Table S1,Virus isolate,IC50,32,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10933,VIC,Table S1,Virus isolate,IC50,4,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG10,VIC,Table S1,Virus isolate,IC50,6,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG20,VIC,Table S1,Virus isolate,IC50,4,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG30,VIC,Table S1,Virus isolate,IC50,7,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV555,VIC,Table S1,Virus isolate,IC50,6,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV16,VIC,Table S1,Virus isolate,IC50,34,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,S309,VIC,Table S1,Virus isolate,IC50,40,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD1061,B.1.617.2 full genome,Table S1,Virus isolate,IC50,38,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD8895,B.1.617.2 full genome,Table S1,Virus isolate,IC50,3,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,AZD7442,B.1.617.2 full genome,Table S1,Virus isolate,IC50,5,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10987,B.1.617.2 full genome,Table S1,Virus isolate,IC50,17,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,REGN10933,B.1.617.2 full genome,Table S1,Virus isolate,IC50,3,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG10,B.1.617.2 full genome,Table S1,Virus isolate,IC50,26,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG20,B.1.617.2 full genome,Table S1,Virus isolate,IC50,6,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,ADG30,B.1.617.2 full genome,Table S1,Virus isolate,IC50,33,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV555,B.1.617.2 full genome,Table S1,Virus isolate,IC50,8311,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,LY-CoV16,B.1.617.2 full genome,Table S1,Virus isolate,IC50,12,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,S309,B.1.617.2 full genome,Table S1,Virus isolate,IC50,113,1,10000,NULL,ng/ml,2021-06-18
+Liu21f,CP_1,VIC,Table S3,Pseudovirus (lentivirus),NT50,99,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_2,VIC,Table S3,Pseudovirus (lentivirus),NT50,1098,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_3,VIC,Table S3,Pseudovirus (lentivirus),NT50,677,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_4,VIC,Table S3,Pseudovirus (lentivirus),NT50,992,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_5,VIC,Table S3,Pseudovirus (lentivirus),NT50,1016,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_6,VIC,Table S3,Pseudovirus (lentivirus),NT50,1417,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_7,VIC,Table S3,Pseudovirus (lentivirus),NT50,716,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_8,VIC,Table S3,Pseudovirus (lentivirus),NT50,474,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_12,VIC,Table S3,Pseudovirus (lentivirus),NT50,585,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_13,VIC,Table S3,Pseudovirus (lentivirus),NT50,362,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_14,VIC,Table S3,Pseudovirus (lentivirus),NT50,514,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_15,VIC,Table S3,Pseudovirus (lentivirus),NT50,8300,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_16,VIC,Table S3,Pseudovirus (lentivirus),NT50,124,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_17,VIC,Table S3,Pseudovirus (lentivirus),NT50,1188,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_18,VIC,Table S3,Pseudovirus (lentivirus),NT50,480,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_19,VIC,Table S3,Pseudovirus (lentivirus),NT50,78,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_20,VIC,Table S3,Pseudovirus (lentivirus),NT50,552,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_21,VIC,Table S3,Pseudovirus (lentivirus),NT50,894,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_22,VIC,Table S3,Pseudovirus (lentivirus),NT50,1596,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_23,VIC,Table S3,Pseudovirus (lentivirus),NT50,661,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_24,VIC,Table S3,Pseudovirus (lentivirus),NT50,2976,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_25,VIC,Table S3,Pseudovirus (lentivirus),NT50,2609,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_26,VIC,Table S3,Pseudovirus (lentivirus),NT50,1677,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_27,VIC,Table S3,Pseudovirus (lentivirus),NT50,1664,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_28,VIC,Table S3,Pseudovirus (lentivirus),NT50,652,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_29,VIC,Table S3,Pseudovirus (lentivirus),NT50,3117,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_30,VIC,Table S3,Pseudovirus (lentivirus),NT50,1341,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_31,VIC,Table S3,Pseudovirus (lentivirus),NT50,1518,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_32,VIC,Table S3,Pseudovirus (lentivirus),NT50,764,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_34,VIC,Table S3,Pseudovirus (lentivirus),NT50,1289,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_1,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_2,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,165,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_3,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,677,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_4,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,817,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_5,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,54,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_6,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,820,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_7,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,115,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_8,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,288,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_12,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,97,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_13,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,214,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_14,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,52,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_15,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,7086,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_16,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_17,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,33,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_18,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,85,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_19,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,19,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_20,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,204,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_21,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,135,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_22,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,497,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_23,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,135,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_24,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,405,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_25,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,750,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_26,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,424,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_27,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,227,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_28,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,333,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_29,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,982,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_30,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,447,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_31,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,454,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_32,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,567,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_34,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,830,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_1,VIC,Table S3,Virus isolate,NT50,61,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_2,VIC,Table S3,Virus isolate,NT50,689,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_3,VIC,Table S3,Virus isolate,NT50,526,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_4,VIC,Table S3,Virus isolate,NT50,409,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_5,VIC,Table S3,Virus isolate,NT50,369,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_6,VIC,Table S3,Virus isolate,NT50,1270,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_7,VIC,Table S3,Virus isolate,NT50,274,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_8,VIC,Table S3,Virus isolate,NT50,633,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_9,VIC,Table S3,Virus isolate,NT50,667,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_10,VIC,Table S3,Virus isolate,NT50,124,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_11,VIC,Table S3,Virus isolate,NT50,102,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_12,VIC,Table S3,Virus isolate,NT50,339,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_13,VIC,Table S3,Virus isolate,NT50,331,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_14,VIC,Table S3,Virus isolate,NT50,438,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_15,VIC,Table S3,Virus isolate,NT50,6397,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_16,VIC,Table S3,Virus isolate,NT50,44,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_17,VIC,Table S3,Virus isolate,NT50,1115,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_18,VIC,Table S3,Virus isolate,NT50,242,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_19,VIC,Table S3,Virus isolate,NT50,29,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_20,VIC,Table S3,Virus isolate,NT50,154,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_21,VIC,Table S3,Virus isolate,NT50,487,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_22,VIC,Table S3,Virus isolate,NT50,438,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_23,VIC,Table S3,Virus isolate,NT50,381,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_24,VIC,Table S3,Virus isolate,NT50,1647,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_25,VIC,Table S3,Virus isolate,NT50,913,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_26,VIC,Table S3,Virus isolate,NT50,1880,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_27,VIC,Table S3,Virus isolate,NT50,1464,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_28,VIC,Table S3,Virus isolate,NT50,361,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_29,VIC,Table S3,Virus isolate,NT50,2859,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_30,VIC,Table S3,Virus isolate,NT50,1109,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_31,VIC,Table S3,Virus isolate,NT50,811,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_32,VIC,Table S3,Virus isolate,NT50,395,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_33,VIC,Table S3,Virus isolate,NT50,1144,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_34,VIC,Table S3,Virus isolate,NT50,676,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_1,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_2,B.1.617.2 full genome,Table S3,Virus isolate,NT50,41,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_3,B.1.617.2 full genome,Table S3,Virus isolate,NT50,231,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_4,B.1.617.2 full genome,Table S3,Virus isolate,NT50,445,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_5,B.1.617.2 full genome,Table S3,Virus isolate,NT50,136,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_6,B.1.617.2 full genome,Table S3,Virus isolate,NT50,460,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_7,B.1.617.2 full genome,Table S3,Virus isolate,NT50,124,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_8,B.1.617.2 full genome,Table S3,Virus isolate,NT50,360,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_9,B.1.617.2 full genome,Table S3,Virus isolate,NT50,81,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_10,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_11,B.1.617.2 full genome,Table S3,Virus isolate,NT50,127,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_12,B.1.617.2 full genome,Table S3,Virus isolate,NT50,95,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_13,B.1.617.2 full genome,Table S3,Virus isolate,NT50,55,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_14,B.1.617.2 full genome,Table S3,Virus isolate,NT50,465,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_15,B.1.617.2 full genome,Table S3,Virus isolate,NT50,2916,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_16,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_17,B.1.617.2 full genome,Table S3,Virus isolate,NT50,239,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_18,B.1.617.2 full genome,Table S3,Virus isolate,NT50,71,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_19,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_20,B.1.617.2 full genome,Table S3,Virus isolate,NT50,60,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_21,B.1.617.2 full genome,Table S3,Virus isolate,NT50,76,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_22,B.1.617.2 full genome,Table S3,Virus isolate,NT50,236,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_23,B.1.617.2 full genome,Table S3,Virus isolate,NT50,189,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_24,B.1.617.2 full genome,Table S3,Virus isolate,NT50,900,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_25,B.1.617.2 full genome,Table S3,Virus isolate,NT50,747,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_26,B.1.617.2 full genome,Table S3,Virus isolate,NT50,832,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_27,B.1.617.2 full genome,Table S3,Virus isolate,NT50,829,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_28,B.1.617.2 full genome,Table S3,Virus isolate,NT50,621,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_29,B.1.617.2 full genome,Table S3,Virus isolate,NT50,1143,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_30,B.1.617.2 full genome,Table S3,Virus isolate,NT50,425,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_31,B.1.617.2 full genome,Table S3,Virus isolate,NT50,556,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_32,B.1.617.2 full genome,Table S3,Virus isolate,NT50,317,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_33,B.1.617.2 full genome,Table S3,Virus isolate,NT50,302,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_34,B.1.617.2 full genome,Table S3,Virus isolate,NT50,150,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P3,VIC,Table S3,Pseudovirus (lentivirus),NT50,101,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P4,VIC,Table S3,Pseudovirus (lentivirus),NT50,22442,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P5,VIC,Table S3,Pseudovirus (lentivirus),NT50,1423,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P6,VIC,Table S3,Pseudovirus (lentivirus),NT50,655,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P7,VIC,Table S3,Pseudovirus (lentivirus),NT50,2073,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P8,VIC,Table S3,Pseudovirus (lentivirus),NT50,2459,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P9,VIC,Table S3,Pseudovirus (lentivirus),NT50,2046,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P10,VIC,Table S3,Pseudovirus (lentivirus),NT50,3019,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P11,VIC,Table S3,Pseudovirus (lentivirus),NT50,3243,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P14,VIC,Table S3,Pseudovirus (lentivirus),NT50,1444,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P15,VIC,Table S3,Pseudovirus (lentivirus),NT50,174,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P16,VIC,Table S3,Pseudovirus (lentivirus),NT50,1463,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P17,VIC,Table S3,Pseudovirus (lentivirus),NT50,803,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P18,VIC,Table S3,Pseudovirus (lentivirus),NT50,990,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P19,VIC,Table S3,Pseudovirus (lentivirus),NT50,575,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P20,VIC,Table S3,Pseudovirus (lentivirus),NT50,1647,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P22,VIC,Table S3,Pseudovirus (lentivirus),NT50,422,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P23,VIC,Table S3,Pseudovirus (lentivirus),NT50,2243,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P3,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,27,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P4,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,15436,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P5,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,107,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P6,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,69,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P7,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,1623,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P8,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,749,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P9,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,145,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P10,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,373,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P11,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,205,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P14,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,665,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P15,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,79,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P16,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,292,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P17,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,415,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P18,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,466,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P19,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,54,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P20,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,1197,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P22,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,172,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P23,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,504,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P3,VIC,Table S3,Virus isolate,NT50,143,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P4,VIC,Table S3,Virus isolate,NT50,88889,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P5,VIC,Table S3,Virus isolate,NT50,1839,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P6,VIC,Table S3,Virus isolate,NT50,562,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P7,VIC,Table S3,Virus isolate,NT50,2936,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P8,VIC,Table S3,Virus isolate,NT50,4696,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P9,VIC,Table S3,Virus isolate,NT50,1777,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P10,VIC,Table S3,Virus isolate,NT50,2484,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P11,VIC,Table S3,Virus isolate,NT50,1632,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P14,VIC,Table S3,Virus isolate,NT50,1555,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P15,VIC,Table S3,Virus isolate,NT50,227,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P16,VIC,Table S3,Virus isolate,NT50,2902,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P17,VIC,Table S3,Virus isolate,NT50,3781,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P18,VIC,Table S3,Virus isolate,NT50,2641,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P19,VIC,Table S3,Virus isolate,NT50,775,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P20,VIC,Table S3,Virus isolate,NT50,2614,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P22,VIC,Table S3,Virus isolate,NT50,390,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P23,VIC,Table S3,Virus isolate,NT50,864,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P3,B.1.617.2 full genome,Table S3,Virus isolate,NT50,39,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P4,B.1.617.2 full genome,Table S3,Virus isolate,NT50,109481,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P5,B.1.617.2 full genome,Table S3,Virus isolate,NT50,384,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P6,B.1.617.2 full genome,Table S3,Virus isolate,NT50,54,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P7,B.1.617.2 full genome,Table S3,Virus isolate,NT50,3049,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P8,B.1.617.2 full genome,Table S3,Virus isolate,NT50,535,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P9,B.1.617.2 full genome,Table S3,Virus isolate,NT50,533,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P10,B.1.617.2 full genome,Table S3,Virus isolate,NT50,1182,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P11,B.1.617.2 full genome,Table S3,Virus isolate,NT50,532,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P14,B.1.617.2 full genome,Table S3,Virus isolate,NT50,911,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P15,B.1.617.2 full genome,Table S3,Virus isolate,NT50,778,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P16,B.1.617.2 full genome,Table S3,Virus isolate,NT50,2016,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P17,B.1.617.2 full genome,Table S3,Virus isolate,NT50,566,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P18,B.1.617.2 full genome,Table S3,Virus isolate,NT50,732,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P19,B.1.617.2 full genome,Table S3,Virus isolate,NT50,211,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P20,B.1.617.2 full genome,Table S3,Virus isolate,NT50,1509,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P22,B.1.617.2 full genome,Table S3,Virus isolate,NT50,182,1,NULL,20,NULL,2021-06-18
+Liu21f,CP_B.1.1.7_P23,B.1.617.2 full genome,Table S3,Virus isolate,NT50,185,1,NULL,20,NULL,2021-06-18
+Liu21f,SA01,VIC,Table S3,Pseudovirus (lentivirus),NT50,586,1,NULL,20,NULL,2021-06-18
+Liu21f,SA02,VIC,Table S3,Pseudovirus (lentivirus),NT50,564,1,NULL,20,NULL,2021-06-18
+Liu21f,SA03,VIC,Table S3,Pseudovirus (lentivirus),NT50,107,1,NULL,20,NULL,2021-06-18
+Liu21f,SA04,VIC,Table S3,Pseudovirus (lentivirus),NT50,824,1,NULL,20,NULL,2021-06-18
+Liu21f,SA05,VIC,Table S3,Pseudovirus (lentivirus),NT50,166,1,NULL,20,NULL,2021-06-18
+Liu21f,SA06,VIC,Table S3,Pseudovirus (lentivirus),NT50,295,1,NULL,20,NULL,2021-06-18
+Liu21f,SA07,VIC,Table S3,Pseudovirus (lentivirus),NT50,1384,1,NULL,20,NULL,2021-06-18
+Liu21f,SA08,VIC,Table S3,Pseudovirus (lentivirus),NT50,360,1,NULL,20,NULL,2021-06-18
+Liu21f,SA09,VIC,Table S3,Pseudovirus (lentivirus),NT50,584,1,NULL,20,NULL,2021-06-18
+Liu21f,SA10,VIC,Table S3,Pseudovirus (lentivirus),NT50,57,1,NULL,20,NULL,2021-06-18
+Liu21f,SA11,VIC,Table S3,Pseudovirus (lentivirus),NT50,530,1,NULL,20,NULL,2021-06-18
+Liu21f,SA12,VIC,Table S3,Pseudovirus (lentivirus),NT50,1026,1,NULL,20,NULL,2021-06-18
+Liu21f,SA13,VIC,Table S3,Pseudovirus (lentivirus),NT50,53,1,NULL,20,NULL,2021-06-18
+Liu21f,SA14,VIC,Table S3,Pseudovirus (lentivirus),NT50,678,1,NULL,20,NULL,2021-06-18
+Liu21f,SA01,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,402,1,NULL,20,NULL,2021-06-18
+Liu21f,SA02,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,876,1,NULL,20,NULL,2021-06-18
+Liu21f,SA03,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,18,1,NULL,20,NULL,2021-06-18
+Liu21f,SA04,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,1231,1,NULL,20,NULL,2021-06-18
+Liu21f,SA05,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,27,1,NULL,20,NULL,2021-06-18
+Liu21f,SA06,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,121,1,NULL,20,NULL,2021-06-18
+Liu21f,SA07,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,508,1,NULL,20,NULL,2021-06-18
+Liu21f,SA08,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,239,1,NULL,20,NULL,2021-06-18
+Liu21f,SA09,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,259,1,NULL,20,NULL,2021-06-18
+Liu21f,SA10,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,98,1,NULL,20,NULL,2021-06-18
+Liu21f,SA11,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,379,1,NULL,20,NULL,2021-06-18
+Liu21f,SA12,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,1142,1,NULL,20,NULL,2021-06-18
+Liu21f,SA13,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,10,1,NULL,20,NULL,2021-06-18
+Liu21f,SA14,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,511,1,NULL,20,NULL,2021-06-18
+Liu21f,SA01,VIC,Table S3,Virus isolate,NT50,379,1,NULL,20,NULL,2021-06-18
+Liu21f,SA02,VIC,Table S3,Virus isolate,NT50,597,1,NULL,20,NULL,2021-06-18
+Liu21f,SA03,VIC,Table S3,Virus isolate,NT50,71,1,NULL,20,NULL,2021-06-18
+Liu21f,SA04,VIC,Table S3,Virus isolate,NT50,240,1,NULL,20,NULL,2021-06-18
+Liu21f,SA05,VIC,Table S3,Virus isolate,NT50,67,1,NULL,20,NULL,2021-06-18
+Liu21f,SA06,VIC,Table S3,Virus isolate,NT50,69,1,NULL,20,NULL,2021-06-18
+Liu21f,SA07,VIC,Table S3,Virus isolate,NT50,463,1,NULL,20,NULL,2021-06-18
+Liu21f,SA08,VIC,Table S3,Virus isolate,NT50,641,1,NULL,20,NULL,2021-06-18
+Liu21f,SA09,VIC,Table S3,Virus isolate,NT50,888,1,NULL,20,NULL,2021-06-18
+Liu21f,SA10,VIC,Table S3,Virus isolate,NT50,80,1,NULL,20,NULL,2021-06-18
+Liu21f,SA11,VIC,Table S3,Virus isolate,NT50,1234,1,NULL,20,NULL,2021-06-18
+Liu21f,SA12,VIC,Table S3,Virus isolate,NT50,2148,1,NULL,20,NULL,2021-06-18
+Liu21f,SA13,VIC,Table S3,Virus isolate,NT50,268,1,NULL,20,NULL,2021-06-18
+Liu21f,SA14,VIC,Table S3,Virus isolate,NT50,595,1,NULL,20,NULL,2021-06-18
+Liu21f,SA01,B.1.617.2 full genome,Table S3,Virus isolate,NT50,214,1,NULL,20,NULL,2021-06-18
+Liu21f,SA02,B.1.617.2 full genome,Table S3,Virus isolate,NT50,629,1,NULL,20,NULL,2021-06-18
+Liu21f,SA03,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,SA04,B.1.617.2 full genome,Table S3,Virus isolate,NT50,293,1,NULL,20,NULL,2021-06-18
+Liu21f,SA05,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,SA06,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,SA07,B.1.617.2 full genome,Table S3,Virus isolate,NT50,374,1,NULL,20,NULL,2021-06-18
+Liu21f,SA08,B.1.617.2 full genome,Table S3,Virus isolate,NT50,30,1,NULL,20,NULL,2021-06-18
+Liu21f,SA09,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,SA10,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,SA11,B.1.617.2 full genome,Table S3,Virus isolate,NT50,83,1,NULL,20,NULL,2021-06-18
+Liu21f,SA12,B.1.617.2 full genome,Table S3,Virus isolate,NT50,390,1,NULL,20,NULL,2021-06-18
+Liu21f,SA13,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,SA14,B.1.617.2 full genome,Table S3,Virus isolate,NT50,123,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-1,VIC,Table S3,Pseudovirus (lentivirus),NT50,274,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-2,VIC,Table S3,Pseudovirus (lentivirus),NT50,21,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-3,VIC,Table S3,Pseudovirus (lentivirus),NT50,108,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-4,VIC,Table S3,Pseudovirus (lentivirus),NT50,152,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-5,VIC,Table S3,Pseudovirus (lentivirus),NT50,56,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-6,VIC,Table S3,Pseudovirus (lentivirus),NT50,1751,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-7,VIC,Table S3,Pseudovirus (lentivirus),NT50,313,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-8,VIC,Table S3,Pseudovirus (lentivirus),NT50,151,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-9,VIC,Table S3,Pseudovirus (lentivirus),NT50,111,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-10,VIC,Table S3,Pseudovirus (lentivirus),NT50,107,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-11,VIC,Table S3,Pseudovirus (lentivirus),NT50,157,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-12,VIC,Table S3,Pseudovirus (lentivirus),NT50,62,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-13,VIC,Table S3,Pseudovirus (lentivirus),NT50,202,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-14,VIC,Table S3,Pseudovirus (lentivirus),NT50,121,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-15,VIC,Table S3,Pseudovirus (lentivirus),NT50,1555,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-16,VIC,Table S3,Pseudovirus (lentivirus),NT50,337,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-17,VIC,Table S3,Pseudovirus (lentivirus),NT50,1489,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-1,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,125,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-2,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,22,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-3,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,58,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-4,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,116,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-5,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,31,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-6,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,1039,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-7,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,12,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-8,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,100,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-9,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,107,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-10,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,19,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-11,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,82,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-12,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,48,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-13,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,87,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-14,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,39,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-15,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,2050,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-16,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,194,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-17,B.1.617.1 Spike:+95I-1101D,Table S3,Pseudovirus (lentivirus),NT50,364,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-1,VIC,Table S3,Virus isolate,NT50,86,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-2,VIC,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-3,VIC,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-4,VIC,Table S3,Virus isolate,NT50,29,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-5,VIC,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-6,VIC,Table S3,Virus isolate,NT50,2505,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-7,VIC,Table S3,Virus isolate,NT50,123,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-8,VIC,Table S3,Virus isolate,NT50,40,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-9,VIC,Table S3,Virus isolate,NT50,23,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-10,VIC,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-11,VIC,Table S3,Virus isolate,NT50,123,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-12,VIC,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-13,VIC,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-14,VIC,Table S3,Virus isolate,NT50,87,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-15,VIC,Table S3,Virus isolate,NT50,8199,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-16,VIC,Table S3,Virus isolate,NT50,828,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-17,VIC,Table S3,Virus isolate,NT50,1654,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-1,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-2,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-3,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-4,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-5,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-6,B.1.617.2 full genome,Table S3,Virus isolate,NT50,1311,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-7,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-8,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-9,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-10,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-11,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-12,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-13,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-14,B.1.617.2 full genome,Table S3,Virus isolate,NT50,20,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-15,B.1.617.2 full genome,Table S3,Virus isolate,NT50,2551,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-16,B.1.617.2 full genome,Table S3,Virus isolate,NT50,333,1,NULL,20,NULL,2021-06-18
+Liu21f,P.1-17,B.1.617.2 full genome,Table S3,Virus isolate,NT50,227,1,NULL,20,NULL,2021-06-18
+Liu21f,Pfizer1,VIC,Table S4,Pseudovirus (lentivirus),NT50,1575,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer2,VIC,Table S4,Pseudovirus (lentivirus),NT50,82,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer3,VIC,Table S4,Pseudovirus (lentivirus),NT50,1812,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer4,VIC,Table S4,Pseudovirus (lentivirus),NT50,4675,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer5,VIC,Table S4,Pseudovirus (lentivirus),NT50,3239,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer6,VIC,Table S4,Pseudovirus (lentivirus),NT50,1994,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer7,VIC,Table S4,Pseudovirus (lentivirus),NT50,1466,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer8,VIC,Table S4,Pseudovirus (lentivirus),NT50,3115,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer9,VIC,Table S4,Pseudovirus (lentivirus),NT50,888,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer10,VIC,Table S4,Pseudovirus (lentivirus),NT50,2315,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer11,VIC,Table S4,Pseudovirus (lentivirus),NT50,1418,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer12,VIC,Table S4,Pseudovirus (lentivirus),NT50,1643,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer13,VIC,Table S4,Pseudovirus (lentivirus),NT50,2744,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer14,VIC,Table S4,Pseudovirus (lentivirus),NT50,584,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer15,VIC,Table S4,Pseudovirus (lentivirus),NT50,1823,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer16,VIC,Table S4,Pseudovirus (lentivirus),NT50,1094,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer17,VIC,Table S4,Pseudovirus (lentivirus),NT50,2358,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer18,VIC,Table S4,Pseudovirus (lentivirus),NT50,1872,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer19,VIC,Table S4,Pseudovirus (lentivirus),NT50,983,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer20,VIC,Table S4,Pseudovirus (lentivirus),NT50,1603,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer21,VIC,Table S4,Pseudovirus (lentivirus),NT50,347,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer22,VIC,Table S4,Pseudovirus (lentivirus),NT50,678,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer23,VIC,Table S4,Pseudovirus (lentivirus),NT50,1149,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer24,VIC,Table S4,Pseudovirus (lentivirus),NT50,1082,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer25,VIC,Table S4,Pseudovirus (lentivirus),NT50,3496,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer1,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,790,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer2,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,10,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer3,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,686,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer4,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,3179,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer5,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,999,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer6,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,1208,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer7,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,973,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer8,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,953,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer9,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,405,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer10,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,493,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer11,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,307,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer12,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,619,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer13,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,937,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer14,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,216,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer15,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,491,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer16,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,216,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer17,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,558,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer18,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,1227,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer19,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,603,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer20,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,1156,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer21,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,34,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer22,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,455,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer23,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,297,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer24,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,558,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer25,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,2494,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer1,VIC,Table S4,Virus isolate,NT50,1149,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer2,VIC,Table S4,Virus isolate,NT50,10,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer3,VIC,Table S4,Virus isolate,NT50,1727,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer4,VIC,Table S4,Virus isolate,NT50,2234,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer5,VIC,Table S4,Virus isolate,NT50,3016,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer6,VIC,Table S4,Virus isolate,NT50,1521,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer7,VIC,Table S4,Virus isolate,NT50,609,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer8,VIC,Table S4,Virus isolate,NT50,4340,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer9,VIC,Table S4,Virus isolate,NT50,1467,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer10,VIC,Table S4,Virus isolate,NT50,1757,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer11,VIC,Table S4,Virus isolate,NT50,860,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer12,VIC,Table S4,Virus isolate,NT50,1749,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer13,VIC,Table S4,Virus isolate,NT50,1851,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer14,VIC,Table S4,Virus isolate,NT50,407,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer15,VIC,Table S4,Virus isolate,NT50,1285,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer16,VIC,Table S4,Virus isolate,NT50,1286,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer17,VIC,Table S4,Virus isolate,NT50,1810,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer18,VIC,Table S4,Virus isolate,NT50,1198,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer19,VIC,Table S4,Virus isolate,NT50,466,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer20,VIC,Table S4,Virus isolate,NT50,1539,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer21,VIC,Table S4,Virus isolate,NT50,184,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer22,VIC,Table S4,Virus isolate,NT50,1061,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer23,VIC,Table S4,Virus isolate,NT50,1658,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer24,VIC,Table S4,Virus isolate,NT50,1155,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer25,VIC,Table S4,Virus isolate,NT50,8092,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer1,B.1.617.2 full genome,Table S4,Virus isolate,NT50,540,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer2,B.1.617.2 full genome,Table S4,Virus isolate,NT50,10,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer3,B.1.617.2 full genome,Table S4,Virus isolate,NT50,644,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer4,B.1.617.2 full genome,Table S4,Virus isolate,NT50,3604,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer5,B.1.617.2 full genome,Table S4,Virus isolate,NT50,992,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer6,B.1.617.2 full genome,Table S4,Virus isolate,NT50,875,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer7,B.1.617.2 full genome,Table S4,Virus isolate,NT50,636,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer8,B.1.617.2 full genome,Table S4,Virus isolate,NT50,726,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer9,B.1.617.2 full genome,Table S4,Virus isolate,NT50,217,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer10,B.1.617.2 full genome,Table S4,Virus isolate,NT50,338,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer11,B.1.617.2 full genome,Table S4,Virus isolate,NT50,138,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer12,B.1.617.2 full genome,Table S4,Virus isolate,NT50,964,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer13,B.1.617.2 full genome,Table S4,Virus isolate,NT50,932,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer14,B.1.617.2 full genome,Table S4,Virus isolate,NT50,177,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer15,B.1.617.2 full genome,Table S4,Virus isolate,NT50,466,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer16,B.1.617.2 full genome,Table S4,Virus isolate,NT50,336,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer17,B.1.617.2 full genome,Table S4,Virus isolate,NT50,811,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer18,B.1.617.2 full genome,Table S4,Virus isolate,NT50,474,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer19,B.1.617.2 full genome,Table S4,Virus isolate,NT50,155,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer20,B.1.617.2 full genome,Table S4,Virus isolate,NT50,502,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer21,B.1.617.2 full genome,Table S4,Virus isolate,NT50,39,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer22,B.1.617.2 full genome,Table S4,Virus isolate,NT50,586,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer23,B.1.617.2 full genome,Table S4,Virus isolate,NT50,365,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer24,B.1.617.2 full genome,Table S4,Virus isolate,NT50,1036,1,NULL,10,NULL,2021-06-18
+Liu21f,Pfizer25,B.1.617.2 full genome,Table S4,Virus isolate,NT50,4256,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 1,VIC,Table S4,Pseudovirus (lentivirus),NT50,489,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 2,VIC,Table S4,Pseudovirus (lentivirus),NT50,440,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 3,VIC,Table S4,Pseudovirus (lentivirus),NT50,90,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 4,VIC,Table S4,Pseudovirus (lentivirus),NT50,349,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 5,VIC,Table S4,Pseudovirus (lentivirus),NT50,681,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 6,VIC,Table S4,Pseudovirus (lentivirus),NT50,169,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 7,VIC,Table S4,Pseudovirus (lentivirus),NT50,228,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 8,VIC,Table S4,Pseudovirus (lentivirus),NT50,333,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 9,VIC,Table S4,Pseudovirus (lentivirus),NT50,134,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 10,VIC,Table S4,Pseudovirus (lentivirus),NT50,93,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 11,VIC,Table S4,Pseudovirus (lentivirus),NT50,192,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 12,VIC,Table S4,Pseudovirus (lentivirus),NT50,88,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 13,VIC,Table S4,Pseudovirus (lentivirus),NT50,373,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 14,VIC,Table S4,Pseudovirus (lentivirus),NT50,188,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 15,VIC,Table S4,Pseudovirus (lentivirus),NT50,572,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 16,VIC,Table S4,Pseudovirus (lentivirus),NT50,202,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 17,VIC,Table S4,Pseudovirus (lentivirus),NT50,763,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 18,VIC,Table S4,Pseudovirus (lentivirus),NT50,233,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 19,VIC,Table S4,Pseudovirus (lentivirus),NT50,1031,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 20,VIC,Table S4,Pseudovirus (lentivirus),NT50,188,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 21,VIC,Table S4,Pseudovirus (lentivirus),NT50,224,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 22,VIC,Table S4,Pseudovirus (lentivirus),NT50,367,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 23,VIC,Table S4,Pseudovirus (lentivirus),NT50,96,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 24,VIC,Table S4,Pseudovirus (lentivirus),NT50,612,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 25,VIC,Table S4,Pseudovirus (lentivirus),NT50,67,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 1,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,333,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 2,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,345,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 3,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,12,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 4,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,311,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 5,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,56,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 6,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,30,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 7,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,127,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 8,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,81,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 9,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,106,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 10,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,133,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 11,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,116,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 12,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,51,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 13,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,218,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 14,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,91,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 15,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,87,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 16,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,156,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 17,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,208,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 18,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,102,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 19,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,443,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 20,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,64,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 21,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,49,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 22,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,49,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 23,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,43,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 24,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,102,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 25,B.1.617.1 Spike:+95I-1101D,Table S4,Pseudovirus (lentivirus),NT50,32,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 1,VIC,Table S4,Virus isolate,NT50,495,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 2,VIC,Table S4,Virus isolate,NT50,580,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 3,VIC,Table S4,Virus isolate,NT50,253,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 4,VIC,Table S4,Virus isolate,NT50,183,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 5,VIC,Table S4,Virus isolate,NT50,432,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 6,VIC,Table S4,Virus isolate,NT50,764,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 7,VIC,Table S4,Virus isolate,NT50,133,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 8,VIC,Table S4,Virus isolate,NT50,257,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 9,VIC,Table S4,Virus isolate,NT50,501,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 10,VIC,Table S4,Virus isolate,NT50,357,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 11,VIC,Table S4,Virus isolate,NT50,334,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 12,VIC,Table S4,Virus isolate,NT50,250,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 13,VIC,Table S4,Virus isolate,NT50,122,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 14,VIC,Table S4,Virus isolate,NT50,212,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 15,VIC,Table S4,Virus isolate,NT50,789,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 16,VIC,Table S4,Virus isolate,NT50,538,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 17,VIC,Table S4,Virus isolate,NT50,1159,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 18,VIC,Table S4,Virus isolate,NT50,353,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 19,VIC,Table S4,Virus isolate,NT50,975,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 20,VIC,Table S4,Virus isolate,NT50,169,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 21,VIC,Table S4,Virus isolate,NT50,155,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 22,VIC,Table S4,Virus isolate,NT50,152,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 23,VIC,Table S4,Virus isolate,NT50,126,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 24,VIC,Table S4,Virus isolate,NT50,293,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 25,VIC,Table S4,Virus isolate,NT50,94,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 1,B.1.617.2 full genome,Table S4,Virus isolate,NT50,235,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 2,B.1.617.2 full genome,Table S4,Virus isolate,NT50,308,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 3,B.1.617.2 full genome,Table S4,Virus isolate,NT50,10,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 4,B.1.617.2 full genome,Table S4,Virus isolate,NT50,101,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 5,B.1.617.2 full genome,Table S4,Virus isolate,NT50,121,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 6,B.1.617.2 full genome,Table S4,Virus isolate,NT50,134,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 7,B.1.617.2 full genome,Table S4,Virus isolate,NT50,10,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 8,B.1.617.2 full genome,Table S4,Virus isolate,NT50,57,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 9,B.1.617.2 full genome,Table S4,Virus isolate,NT50,194,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 10,B.1.617.2 full genome,Table S4,Virus isolate,NT50,217,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 11,B.1.617.2 full genome,Table S4,Virus isolate,NT50,90,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 12,B.1.617.2 full genome,Table S4,Virus isolate,NT50,54,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 13,B.1.617.2 full genome,Table S4,Virus isolate,NT50,26,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 14,B.1.617.2 full genome,Table S4,Virus isolate,NT50,41,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 15,B.1.617.2 full genome,Table S4,Virus isolate,NT50,69,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 16,B.1.617.2 full genome,Table S4,Virus isolate,NT50,201,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 17,B.1.617.2 full genome,Table S4,Virus isolate,NT50,184,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 18,B.1.617.2 full genome,Table S4,Virus isolate,NT50,122,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 19,B.1.617.2 full genome,Table S4,Virus isolate,NT50,224,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 20,B.1.617.2 full genome,Table S4,Virus isolate,NT50,30,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 21,B.1.617.2 full genome,Table S4,Virus isolate,NT50,29,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 22,B.1.617.2 full genome,Table S4,Virus isolate,NT50,39,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 23,B.1.617.2 full genome,Table S4,Virus isolate,NT50,27,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 24,B.1.617.2 full genome,Table S4,Virus isolate,NT50,223,1,NULL,10,NULL,2021-06-18
+Liu21f,AstraZeneca 25,B.1.617.2 full genome,Table S4,Virus isolate,NT50,10,1,NULL,10,NULL,2021-06-18

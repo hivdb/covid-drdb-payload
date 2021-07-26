@@ -1,6 +1,6 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Zani21,BNT162b2,B.1 full genome,Figure 1,authentic virus,NT50,194.55,37,2048,8,NULL,2021-07-26
-Zani21,BNT162b2,B.1.1.7 full genome,Figure 1,authentic virus,NT50,445.57,37,2048,8,NULL,2021-07-26
-Zani21,BNT162b2,B.1.351 full genome,Figure 1,authentic virus,NT50,116.90,37,2048,8,NULL,2021-07-26
-Zani21,BNT162b2,B.1.525 full genome,Figure 1,authentic virus,NT50,392.29,37,2048,8,NULL,2021-07-26
-Zani21,BNT162b2,P.1 full genome,Figure 1,authentic virus,NT50,154.97,37,2048,8,NULL,2021-07-26
+Zani21,BNT162b2,B.1 full genome,Figure 1,Virus isolate,NT50,194.55,37,2048,8,NULL,2021-07-26
+Zani21,BNT162b2,B.1.1.7 full genome,Figure 1,Virus isolate,NT50,445.57,37,2048,8,NULL,2021-07-26
+Zani21,BNT162b2,B.1.351 full genome,Figure 1,Virus isolate,NT50,116.90,37,2048,8,NULL,2021-07-26
+Zani21,BNT162b2,B.1.525 full genome,Figure 1,Virus isolate,NT50,392.29,37,2048,8,NULL,2021-07-26
+Zani21,BNT162b2,P.1 full genome,Figure 1,Virus isolate,NT50,154.97,37,2048,8,NULL,2021-07-26

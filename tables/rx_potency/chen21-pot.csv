@@ -1,414 +1,414 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Chen21,CP_1,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,43.4782609,1,100000,20,NULL,2021-03-06
-Chen21,CP_2,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,183.183733,1,100000,20,NULL,2021-03-06
-Chen21,CP_3,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,97.3709834,1,100000,20,NULL,2021-03-06
-Chen21,CP_4,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,287.521564,1,100000,20,NULL,2021-03-06
-Chen21,CP_5,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,437.828371,1,100000,20,NULL,2021-03-06
-Chen21,CP_6,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,148.787383,1,100000,20,NULL,2021-03-06
-Chen21,CP_7,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,43.516101,1,100000,20,NULL,2021-03-06
-Chen21,CP_8,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,177.556818,1,100000,20,NULL,2021-03-06
-Chen21,CP_9,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,114.233493,1,100000,20,NULL,2021-03-06
-Chen21,CP_10,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,333.555704,1,100000,20,NULL,2021-03-06
-Chen21,CP_11,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,3762.22724,1,100000,20,NULL,2021-03-06
-Chen21,CP_12,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,222.96544,1,100000,20,NULL,2021-03-06
-Chen21,CP_13,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,310.655483,1,100000,20,NULL,2021-03-06
-Chen21,CP_14,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,83.5421888,1,100000,20,NULL,2021-03-06
-Chen21,CP_15,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,335.683115,1,100000,20,NULL,2021-03-06
-Chen21,CP_16,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,67.9809653,1,100000,20,NULL,2021-03-06
-Chen21,CP_17,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,128.05737,1,100000,20,NULL,2021-03-06
-Chen21,CP_18,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,109.926349,1,100000,20,NULL,2021-03-06
-Chen21,CP_19,S:614G,"Fig 2a, Source Data Fig 2a",chimeric virus,NT50,121.817517,1,100000,20,NULL,2021-03-06
-Chen21,CP_1,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,60.27728,1,100000,20,NULL,2021-03-06
-Chen21,CP_2,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,97.94319,1,100000,20,NULL,2021-03-06
-Chen21,CP_3,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,93.02326,1,100000,20,NULL,2021-03-06
-Chen21,CP_4,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,235.1834,1,100000,20,NULL,2021-03-06
-Chen21,CP_5,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,257.1355,1,100000,20,NULL,2021-03-06
-Chen21,CP_6,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,279.7203,1,100000,20,NULL,2021-03-06
-Chen21,CP_7,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,67.11409,1,100000,20,NULL,2021-03-06
-Chen21,CP_8,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,130.4121,1,100000,20,NULL,2021-03-06
-Chen21,CP_9,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,44.64286,1,100000,20,NULL,2021-03-06
-Chen21,CP_10,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,154.7269,1,100000,20,NULL,2021-03-06
-Chen21,CP_11,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,2172.024,1,100000,20,NULL,2021-03-06
-Chen21,CP_12,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,152.439,1,100000,20,NULL,2021-03-06
-Chen21,CP_13,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,152.439,1,100000,20,NULL,2021-03-06
-Chen21,CP_14,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,65.27415,1,100000,20,NULL,2021-03-06
-Chen21,CP_15,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,699.7901,1,100000,20,NULL,2021-03-06
-Chen21,CP_16,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,34.95281,1,100000,20,NULL,2021-03-06
-Chen21,CP_17,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,106.2925,1,100000,20,NULL,2021-03-06
-Chen21,CP_18,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,124.3008,1,100000,20,NULL,2021-03-06
-Chen21,CP_19,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",authentic virus,NT50,21.34472,1,100000,20,NULL,2021-03-06
-Chen21,CP_1,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,117.439812,1,100000,20,NULL,2021-03-06
-Chen21,CP_2,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,437.828371,1,100000,20,NULL,2021-03-06
-Chen21,CP_3,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,167.336011,1,100000,20,NULL,2021-03-06
-Chen21,CP_4,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,671.14094,1,100000,20,NULL,2021-03-06
-Chen21,CP_5,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,821.018062,1,100000,20,NULL,2021-03-06
-Chen21,CP_6,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,1136.23452,1,100000,20,NULL,2021-03-06
-Chen21,CP_7,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,141.703273,1,100000,20,NULL,2021-03-06
-Chen21,CP_8,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,279.955207,1,100000,20,NULL,2021-03-06
-Chen21,CP_9,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,90.4159132,1,100000,20,NULL,2021-03-06
-Chen21,CP_10,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,66.7111408,1,100000,20,NULL,2021-03-06
-Chen21,CP_11,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,2723.31155,1,100000,20,NULL,2021-03-06
-Chen21,CP_12,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,229.252636,1,100000,20,NULL,2021-03-06
-Chen21,CP_13,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,328.947368,1,100000,20,NULL,2021-03-06
-Chen21,CP_14,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,173.641257,1,100000,20,NULL,2021-03-06
-Chen21,CP_15,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,361.271676,1,100000,20,NULL,2021-03-06
-Chen21,CP_16,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,187.125749,1,100000,20,NULL,2021-03-06
-Chen21,CP_17,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,454.959054,1,100000,20,NULL,2021-03-06
-Chen21,CP_18,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,154.726907,1,100000,20,NULL,2021-03-06
-Chen21,CP_19,S:417N+614G,"Fig 2b, Source Data Fig 2b",chimeric virus,NT50,36.7647059,1,100000,20,NULL,2021-03-06
-Chen21,CP_1,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,26.8889486,1,100000,20,NULL,2021-03-06
-Chen21,CP_2,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20.8463623,1,100000,20,NULL,2021-03-06
-Chen21,CP_3,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,37.1333086,1,100000,20,NULL,2021-03-06
-Chen21,CP_4,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,42.1940928,1,100000,20,NULL,2021-03-06
-Chen21,CP_5,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,66.6666667,1,100000,20,NULL,2021-03-06
-Chen21,CP_6,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,70.6713781,1,100000,20,NULL,2021-03-06
-Chen21,CP_7,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_8,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,92.4214418,1,100000,20,NULL,2021-03-06
-Chen21,CP_9,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_10,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,36.9685767,1,100000,20,NULL,2021-03-06
-Chen21,CP_11,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,132.608407,1,100000,20,NULL,2021-03-06
-Chen21,CP_12,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_13,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_14,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,43.5350457,1,100000,20,NULL,2021-03-06
-Chen21,CP_15,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,60.1684717,1,100000,20,NULL,2021-03-06
-Chen21,CP_16,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_17,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_18,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_19,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_1,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,22.2766763,1,100000,20,NULL,2021-03-06
-Chen21,CP_2,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,43.7062937,1,100000,20,NULL,2021-03-06
-Chen21,CP_3,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,74.4601638,1,100000,20,NULL,2021-03-06
-Chen21,CP_4,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,100.190362,1,100000,20,NULL,2021-03-06
-Chen21,CP_5,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,205.549846,1,100000,20,NULL,2021-03-06
-Chen21,CP_6,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,72.3065799,1,100000,20,NULL,2021-03-06
-Chen21,CP_7,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,31.1332503,1,100000,20,NULL,2021-03-06
-Chen21,CP_8,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,68.6813187,1,100000,20,NULL,2021-03-06
-Chen21,CP_9,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_10,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,36.3636364,1,100000,20,NULL,2021-03-06
-Chen21,CP_11,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,108.01469,1,100000,20,NULL,2021-03-06
-Chen21,CP_12,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,29.489826,1,100000,20,NULL,2021-03-06
-Chen21,CP_13,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,22.296544,1,100000,20,NULL,2021-03-06
-Chen21,CP_14,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,71.787509,1,100000,20,NULL,2021-03-06
-Chen21,CP_15,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,116.441546,1,100000,20,NULL,2021-03-06
-Chen21,CP_16,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,26.0620276,1,100000,20,NULL,2021-03-06
-Chen21,CP_17,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,78.2472613,1,100000,20,NULL,2021-03-06
-Chen21,CP_18,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,46.1893764,1,100000,20,NULL,2021-03-06
-Chen21,CP_19,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",chimeric virus,NT50,15.4966682,1,100000,20,NULL,2021-03-06
-Chen21,CP_1,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_2,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,31.496063,1,100000,20,NULL,2021-03-06
-Chen21,CP_3,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,32.711809,1,100000,20,NULL,2021-03-06
-Chen21,CP_4,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,43.9174352,1,100000,20,NULL,2021-03-06
-Chen21,CP_5,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,99.1080278,1,100000,20,NULL,2021-03-06
-Chen21,CP_6,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,62.4609619,1,100000,20,NULL,2021-03-06
-Chen21,CP_7,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_8,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,66.7111408,1,100000,20,NULL,2021-03-06
-Chen21,CP_9,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_10,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,56.2113547,1,100000,20,NULL,2021-03-06
-Chen21,CP_11,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,56.4015792,1,100000,20,NULL,2021-03-06
-Chen21,CP_12,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_13,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,CP_14,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,43.7636761,1,100000,20,NULL,2021-03-06
-Chen21,CP_15,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,122.880315,1,100000,20,NULL,2021-03-06
-Chen21,CP_16,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,23.4521576,1,100000,20,NULL,2021-03-06
-Chen21,CP_17,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,38.3729854,1,100000,20,NULL,2021-03-06
-Chen21,CP_18,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,38.2262997,1,100000,20,NULL,2021-03-06
-Chen21,CP_19,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",chimeric virus,NT50,28.0504909,1,100000,20,NULL,2021-03-06
-Chen21,CP_20,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,80.90615,1,100000,20,NULL,2021-03-06
-Chen21,CP_21,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,308.928,1,100000,20,NULL,2021-03-06
-Chen21,CP_22,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,3491.62,1,100000,20,NULL,2021-03-06
-Chen21,CP_23,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,55.21811,1,100000,20,NULL,2021-03-06
-Chen21,CP_24,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,1123.722,1,100000,20,NULL,2021-03-06
-Chen21,CP_25,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,76.92308,1,100000,20,NULL,2021-03-06
-Chen21,CP_26,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,602.7728,1,100000,20,NULL,2021-03-06
-Chen21,CP_27,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,393.391,1,100000,20,NULL,2021-03-06
-Chen21,CP_28,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,106.9404,1,100000,20,NULL,2021-03-06
-Chen21,CP_29,S:614G,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,212.9472,1,100000,20,NULL,2021-03-06
-Chen21,CP_20,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,CP_21,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,137.627305,1,100000,20,NULL,2021-03-06
-Chen21,CP_22,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,1380.45279,1,100000,20,NULL,2021-03-06
-Chen21,CP_23,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,CP_24,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,567.53689,1,100000,20,NULL,2021-03-06
-Chen21,CP_25,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,CP_26,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,57.7367206,1,100000,20,NULL,2021-03-06
-Chen21,CP_27,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,71.3775874,1,100000,20,NULL,2021-03-06
-Chen21,CP_28,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,79.3650794,1,100000,20,NULL,2021-03-06
-Chen21,CP_29,P.1 Spike,"Fig 2g, Source Data Fig 2g",chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_1,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,493.096647,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_2,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,1208.89749,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_3,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,2375.86125,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_4,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,156.030582,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_5,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,898.472597,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_6,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,1159.28588,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_7,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,276.090558,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_8,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,265.60425,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_9,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,839.630563,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_10,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,706.214689,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_11,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,325.097529,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_12,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,362.976407,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_13,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,240.615977,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_14,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,384.91147,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_15,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,500.500501,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_16,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,825.082508,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_17,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,902.527076,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_18,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,411.692054,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_19,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,968.992248,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_20,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,715.307582,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_21,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,122.354093,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_22,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,589.275192,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_23,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,1205.10966,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_24,S:614G,Fig 4a and Source Data Fig 4a,chimeric virus,NT50,602.772755,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_1,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,132.590825,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_2,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,324.780773,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_3,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,1621.53397,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_4,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,96.3391137,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_5,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,416.319734,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_6,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,636.942675,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_7,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,162.601626,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_8,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,137.741047,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_9,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,433.839479,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_10,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,648.08814,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_11,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,405.844156,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_12,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,159.286397,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_13,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,131.492439,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_14,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,176.335743,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_15,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,328.299409,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_16,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,496.770989,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_17,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,307.976594,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_18,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,332.667997,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_19,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,327.439424,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_20,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,214.362272,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_21,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,66.5335995,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_22,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,197.005516,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_23,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,384.172109,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_24,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,authentic virus,NT50,261.780105,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_1,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,174.947516,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_2,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,409.50041,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_3,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,3457.81466,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_4,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,113.045444,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_5,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,718.907261,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_6,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,1518.3723,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_7,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,206.355757,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_8,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,306.748466,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_9,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,724.637681,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_10,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,1035.30386,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_11,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,484.261501,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_12,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,604.960678,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_13,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,324.569945,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_14,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,725.689405,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_15,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,953.288847,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_16,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,1411.03429,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_17,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,809.061489,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_18,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,948.766603,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_19,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,1104.11836,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_20,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,205.296654,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_21,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,124.316261,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_22,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,389.863548,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_23,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,777.000777,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_24,S:417N+614G,Fig 4b and Source Data Fig 4b,chimeric virus,NT50,814.995925,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_1,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,36.7242012,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_2,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,294.724433,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_3,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,563.697858,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_4,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,42.8265525,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_5,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,125.140783,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_6,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,305.250305,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_7,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,59.5238095,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_8,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,45.9558824,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_9,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,129.701686,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_10,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,169.836957,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_11,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,93.3706816,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_12,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,207.511932,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_13,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,58.8928151,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_14,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,159.083678,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_15,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,414.593698,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_16,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,228.466987,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_17,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,187.511719,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_18,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,221.680337,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_19,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,289.687138,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_20,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,188.21758,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_21,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,20.1694232,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_22,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,118.049817,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_23,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,199.960008,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_24,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,chimeric virus,NT50,68.6813187,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_1,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,21.724962,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_2,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,61.3120785,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_3,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,356.887937,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_4,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_5,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,96.1538462,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_6,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,103.284445,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_7,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,21.5053763,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_8,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,21.0881485,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_9,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,33.8294993,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_10,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,100.411688,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_11,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,86.5800866,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_12,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,26.3991552,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_13,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,20.2839757,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_14,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,40.7996736,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_15,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,110.253583,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_16,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,120.365912,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_17,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,98.2318271,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_18,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,73.90983,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_19,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,88.5739593,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_20,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,47.7099237,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_21,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,18.1192245,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_22,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,72.2543353,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_23,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,96.9932105,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_24,B.1.351 Spike,Fig 4d and Source Data Fig 4d,chimeric virus,NT50,26.1506276,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_1,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,148.676777,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_2,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,936.329588,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_3,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,874.890639,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_4,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,149.76786,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_5,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,205.170291,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_6,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,398.0892,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_7,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,102.6167,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_8,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,90.4159132,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_9,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,144.279325,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_10,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,317.460317,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_11,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,213.083316,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_12,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,174.794616,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_13,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,120.105693,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_14,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,201.166767,1,100000,20,NULL,2021-03-06
-Chen21,BNT162b2_15,P.1 Spike,Fig 4e and Source Data Fig 4e,chimeric virus,NT50,572.08238,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_1,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,16700.07,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_2,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,7722.008,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_3,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,5757.052,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_4,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,3517.411,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_5,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,4271.679,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_6,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,2139.953,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_7,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,4933.399,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_8,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,9578.544,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_9,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,6112.469,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_10,S:614G,Fig 3a and Source Data Fig 3a,chimeric virus,NT50,2720.348,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_1,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,7968.127,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_2,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,6557.377,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_3,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,3507.541,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_4,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,1414.627,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_5,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,1878.64,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_6,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,1942.879,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_7,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,15335.07,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_8,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,11820.33,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_9,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,4510.6,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_10,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,authentic virus,NT50,3604.903,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_1,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,23758.61,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_2,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,14936.52,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_3,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,9233.61,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_4,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,3607.504,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_5,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,7331.378,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_6,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,6131.208,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_7,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,18188.43,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_8,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,18594.27,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_9,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,13297.87,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_10,S:417N+614G,Fig 3b and Source Data Fig 3b,chimeric virus,NT50,4418.913,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_1,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,16700.07,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_2,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,7722.008,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_3,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,5757.052,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_4,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,3517.411,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_5,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,4271.679,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_6,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,2139.953,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_7,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,4933.399,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_8,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,9578.544,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_9,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,6112.469,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_10,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,chimeric virus,NT50,2720.348,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_1,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,4750.594,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_2,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,4591.368,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_3,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,3661.662,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_4,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,1564.211,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_5,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,1728.31,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_6,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,291.5452,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_7,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,407.0004,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_8,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,161.6031,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_9,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,57.87037,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_10,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,chimeric virus,NT50,3688.676,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_1,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,6082.725,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_2,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,3591.954,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_3,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,2489.42,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_4,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,1922.338,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_5,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,1931.248,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_6,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,394.3218,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_7,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,315.0599,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_8,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,265.0411,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_9,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,118.9061,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Mice_10,B.1.351 Spike,Fig 3e and Source Data Fig 3e,chimeric virus,NT50,1148.765,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_1,S:614G,Fig 3f and Source Data Fig 3f,chimeric virus,NT50,576.7013,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_2,S:614G,Fig 3f and Source Data Fig 3f,chimeric virus,NT50,587.1991,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_3,S:614G,Fig 3f and Source Data Fig 3f,chimeric virus,NT50,1066.439,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_4,S:614G,Fig 3f and Source Data Fig 3f,chimeric virus,NT50,443.8526,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_5,S:614G,Fig 3f and Source Data Fig 3f,chimeric virus,NT50,682.1282,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_6,S:614G,Fig 3f and Source Data Fig 3f,chimeric virus,NT50,1346.076,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_7,S:614G,Fig 3f and Source Data Fig 3f,chimeric virus,NT50,1140.121,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_8,S:614G,Fig 3f and Source Data Fig 3f,chimeric virus,NT50,588.5815,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_1,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,authentic virus,NT50,468.3841,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_2,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,authentic virus,NT50,317.3596,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_3,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,authentic virus,NT50,1708.234,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_4,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,authentic virus,NT50,406.5041,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_5,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,authentic virus,NT50,803.8585,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_6,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,authentic virus,NT50,683.0601,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_7,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,authentic virus,NT50,1793.079,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_8,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,authentic virus,NT50,1318.392,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_1,S:417N+614G,Fig 3g and Source Data Fig 3g,chimeric virus,NT50,914.0768,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_2,S:417N+614G,Fig 3g and Source Data Fig 3g,chimeric virus,NT50,504.0323,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_3,S:417N+614G,Fig 3g and Source Data Fig 3g,chimeric virus,NT50,1043.515,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_4,S:417N+614G,Fig 3g and Source Data Fig 3g,chimeric virus,NT50,542.5936,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_5,S:417N+614G,Fig 3g and Source Data Fig 3g,chimeric virus,NT50,431.2204,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_6,S:417N+614G,Fig 3g and Source Data Fig 3g,chimeric virus,NT50,1239.157,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_7,S:417N+614G,Fig 3g and Source Data Fig 3g,chimeric virus,NT50,817.6615,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_8,S:417N+614G,Fig 3g and Source Data Fig 3g,chimeric virus,NT50,880.2817,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_1,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_2,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_3,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_4,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_5,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,chimeric virus,NT50,50.9684,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_6,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,chimeric virus,NT50,206.441,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_7,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,chimeric virus,NT50,274.8763,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_8,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,chimeric virus,NT50,115.1278,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_1,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,54.52563,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_2,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_3,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,94.42871,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_4,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_5,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,96.43202,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_6,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,159.1343,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_7,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,143.947,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_8,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_1,B.1.351 Spike,Fig 3j and Source Data Fig 3j,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_2,B.1.351 Spike,Fig 3j and Source Data Fig 3j,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_3,B.1.351 Spike,Fig 3j and Source Data Fig 3j,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_4,B.1.351 Spike,Fig 3j and Source Data Fig 3j,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_5,B.1.351 Spike,Fig 3j and Source Data Fig 3j,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_6,B.1.351 Spike,Fig 3j and Source Data Fig 3j,chimeric virus,NT50,159.8721,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_7,B.1.351 Spike,Fig 3j and Source Data Fig 3j,chimeric virus,NT50,50,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Hamster_8,B.1.351 Spike,Fig 3j and Source Data Fig 3j,chimeric virus,NT50,208.8119,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_1,S:614G,Fig 3k and Source Data Fig 3k,chimeric virus,NT50,47.39336,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_2,S:614G,Fig 3k and Source Data Fig 3k,chimeric virus,NT50,221.5821,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_3,S:614G,Fig 3k and Source Data Fig 3k,chimeric virus,NT50,213.6296,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_4,S:614G,Fig 3k and Source Data Fig 3k,chimeric virus,NT50,280.9778,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_5,S:614G,Fig 3k and Source Data Fig 3k,chimeric virus,NT50,588.5815,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_6,S:614G,Fig 3k and Source Data Fig 3k,chimeric virus,NT50,1289.158,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_1,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,authentic virus,NT50,49.50495,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_2,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,authentic virus,NT50,65.27415,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_3,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,authentic virus,NT50,190.1502,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_4,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,authentic virus,NT50,105.8761,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_5,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,authentic virus,NT50,362.8447,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_6,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,authentic virus,NT50,499.5005,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_1,S:417N+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,96.61836,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_2,S:417N+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,251.6356,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_3,S:417N+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,374.1115,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_4,S:417N+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,394.1663,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_5,S:417N+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,1310.101,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_6,S:417N+614G,Fig 3i and Source Data Fig 3i,chimeric virus,NT50,1333.333,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_1,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_2,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_3,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_4,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,chimeric virus,NT50,37.07824,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_5,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,chimeric virus,NT50,46.04052,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_6,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,chimeric virus,NT50,24.55796,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_1,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_2,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_3,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,chimeric virus,NT50,41.08463,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_4,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,chimeric virus,NT50,34.32887,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_5,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,chimeric virus,NT50,78.00312,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_6,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_1,B.1.351 Spike,Fig 3o and Source Data Fig 3o,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_2,B.1.351 Spike,Fig 3o and Source Data Fig 3o,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_3,B.1.351 Spike,Fig 3o and Source Data Fig 3o,chimeric virus,NT50,36.04903,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_4,B.1.351 Spike,Fig 3o and Source Data Fig 3o,chimeric virus,NT50,31.7662,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_5,B.1.351 Spike,Fig 3o and Source Data Fig 3o,chimeric virus,NT50,78.67821,1,100000,20,NULL,2021-03-06
-Chen21,ChAd_Rhesus_macaques_6,B.1.351 Spike,Fig 3o and Source Data Fig 3o,chimeric virus,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_1,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,43.4782609,1,100000,20,NULL,2021-03-06
+Chen21,CP_2,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,183.183733,1,100000,20,NULL,2021-03-06
+Chen21,CP_3,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,97.3709834,1,100000,20,NULL,2021-03-06
+Chen21,CP_4,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,287.521564,1,100000,20,NULL,2021-03-06
+Chen21,CP_5,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,437.828371,1,100000,20,NULL,2021-03-06
+Chen21,CP_6,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,148.787383,1,100000,20,NULL,2021-03-06
+Chen21,CP_7,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,43.516101,1,100000,20,NULL,2021-03-06
+Chen21,CP_8,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,177.556818,1,100000,20,NULL,2021-03-06
+Chen21,CP_9,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,114.233493,1,100000,20,NULL,2021-03-06
+Chen21,CP_10,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,333.555704,1,100000,20,NULL,2021-03-06
+Chen21,CP_11,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,3762.22724,1,100000,20,NULL,2021-03-06
+Chen21,CP_12,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,222.96544,1,100000,20,NULL,2021-03-06
+Chen21,CP_13,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,310.655483,1,100000,20,NULL,2021-03-06
+Chen21,CP_14,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,83.5421888,1,100000,20,NULL,2021-03-06
+Chen21,CP_15,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,335.683115,1,100000,20,NULL,2021-03-06
+Chen21,CP_16,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,67.9809653,1,100000,20,NULL,2021-03-06
+Chen21,CP_17,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,128.05737,1,100000,20,NULL,2021-03-06
+Chen21,CP_18,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,109.926349,1,100000,20,NULL,2021-03-06
+Chen21,CP_19,S:614G,"Fig 2a, Source Data Fig 2a",SARS-CoV-2 recombinant,NT50,121.817517,1,100000,20,NULL,2021-03-06
+Chen21,CP_1,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,60.27728,1,100000,20,NULL,2021-03-06
+Chen21,CP_2,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,97.94319,1,100000,20,NULL,2021-03-06
+Chen21,CP_3,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,93.02326,1,100000,20,NULL,2021-03-06
+Chen21,CP_4,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,235.1834,1,100000,20,NULL,2021-03-06
+Chen21,CP_5,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,257.1355,1,100000,20,NULL,2021-03-06
+Chen21,CP_6,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,279.7203,1,100000,20,NULL,2021-03-06
+Chen21,CP_7,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,67.11409,1,100000,20,NULL,2021-03-06
+Chen21,CP_8,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,130.4121,1,100000,20,NULL,2021-03-06
+Chen21,CP_9,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,44.64286,1,100000,20,NULL,2021-03-06
+Chen21,CP_10,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,154.7269,1,100000,20,NULL,2021-03-06
+Chen21,CP_11,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,2172.024,1,100000,20,NULL,2021-03-06
+Chen21,CP_12,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,152.439,1,100000,20,NULL,2021-03-06
+Chen21,CP_13,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,152.439,1,100000,20,NULL,2021-03-06
+Chen21,CP_14,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,65.27415,1,100000,20,NULL,2021-03-06
+Chen21,CP_15,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,699.7901,1,100000,20,NULL,2021-03-06
+Chen21,CP_16,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,34.95281,1,100000,20,NULL,2021-03-06
+Chen21,CP_17,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,106.2925,1,100000,20,NULL,2021-03-06
+Chen21,CP_18,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,124.3008,1,100000,20,NULL,2021-03-06
+Chen21,CP_19,B.1.1.7 full genome,"Fig 2a, Source Data Fig 2a",Virus isolate,NT50,21.34472,1,100000,20,NULL,2021-03-06
+Chen21,CP_1,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,117.439812,1,100000,20,NULL,2021-03-06
+Chen21,CP_2,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,437.828371,1,100000,20,NULL,2021-03-06
+Chen21,CP_3,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,167.336011,1,100000,20,NULL,2021-03-06
+Chen21,CP_4,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,671.14094,1,100000,20,NULL,2021-03-06
+Chen21,CP_5,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,821.018062,1,100000,20,NULL,2021-03-06
+Chen21,CP_6,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,1136.23452,1,100000,20,NULL,2021-03-06
+Chen21,CP_7,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,141.703273,1,100000,20,NULL,2021-03-06
+Chen21,CP_8,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,279.955207,1,100000,20,NULL,2021-03-06
+Chen21,CP_9,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,90.4159132,1,100000,20,NULL,2021-03-06
+Chen21,CP_10,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,66.7111408,1,100000,20,NULL,2021-03-06
+Chen21,CP_11,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,2723.31155,1,100000,20,NULL,2021-03-06
+Chen21,CP_12,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,229.252636,1,100000,20,NULL,2021-03-06
+Chen21,CP_13,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,328.947368,1,100000,20,NULL,2021-03-06
+Chen21,CP_14,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,173.641257,1,100000,20,NULL,2021-03-06
+Chen21,CP_15,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,361.271676,1,100000,20,NULL,2021-03-06
+Chen21,CP_16,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,187.125749,1,100000,20,NULL,2021-03-06
+Chen21,CP_17,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,454.959054,1,100000,20,NULL,2021-03-06
+Chen21,CP_18,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,154.726907,1,100000,20,NULL,2021-03-06
+Chen21,CP_19,S:417N+614G,"Fig 2b, Source Data Fig 2b",SARS-CoV-2 recombinant,NT50,36.7647059,1,100000,20,NULL,2021-03-06
+Chen21,CP_1,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,26.8889486,1,100000,20,NULL,2021-03-06
+Chen21,CP_2,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20.8463623,1,100000,20,NULL,2021-03-06
+Chen21,CP_3,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,37.1333086,1,100000,20,NULL,2021-03-06
+Chen21,CP_4,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,42.1940928,1,100000,20,NULL,2021-03-06
+Chen21,CP_5,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,66.6666667,1,100000,20,NULL,2021-03-06
+Chen21,CP_6,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,70.6713781,1,100000,20,NULL,2021-03-06
+Chen21,CP_7,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_8,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,92.4214418,1,100000,20,NULL,2021-03-06
+Chen21,CP_9,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_10,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,36.9685767,1,100000,20,NULL,2021-03-06
+Chen21,CP_11,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,132.608407,1,100000,20,NULL,2021-03-06
+Chen21,CP_12,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_13,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_14,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,43.5350457,1,100000,20,NULL,2021-03-06
+Chen21,CP_15,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,60.1684717,1,100000,20,NULL,2021-03-06
+Chen21,CP_16,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_17,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_18,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_19,S:484K+501Y+614G,"Fig 2c, Source Data Fig 2c",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_1,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,22.2766763,1,100000,20,NULL,2021-03-06
+Chen21,CP_2,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,43.7062937,1,100000,20,NULL,2021-03-06
+Chen21,CP_3,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,74.4601638,1,100000,20,NULL,2021-03-06
+Chen21,CP_4,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,100.190362,1,100000,20,NULL,2021-03-06
+Chen21,CP_5,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,205.549846,1,100000,20,NULL,2021-03-06
+Chen21,CP_6,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,72.3065799,1,100000,20,NULL,2021-03-06
+Chen21,CP_7,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,31.1332503,1,100000,20,NULL,2021-03-06
+Chen21,CP_8,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,68.6813187,1,100000,20,NULL,2021-03-06
+Chen21,CP_9,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_10,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,36.3636364,1,100000,20,NULL,2021-03-06
+Chen21,CP_11,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,108.01469,1,100000,20,NULL,2021-03-06
+Chen21,CP_12,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,29.489826,1,100000,20,NULL,2021-03-06
+Chen21,CP_13,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,22.296544,1,100000,20,NULL,2021-03-06
+Chen21,CP_14,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,71.787509,1,100000,20,NULL,2021-03-06
+Chen21,CP_15,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,116.441546,1,100000,20,NULL,2021-03-06
+Chen21,CP_16,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,26.0620276,1,100000,20,NULL,2021-03-06
+Chen21,CP_17,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,78.2472613,1,100000,20,NULL,2021-03-06
+Chen21,CP_18,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,46.1893764,1,100000,20,NULL,2021-03-06
+Chen21,CP_19,S:417N+484K+501Y+614G,"Fig 2d, Source Data Fig 2d",SARS-CoV-2 recombinant,NT50,15.4966682,1,100000,20,NULL,2021-03-06
+Chen21,CP_1,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_2,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,31.496063,1,100000,20,NULL,2021-03-06
+Chen21,CP_3,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,32.711809,1,100000,20,NULL,2021-03-06
+Chen21,CP_4,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,43.9174352,1,100000,20,NULL,2021-03-06
+Chen21,CP_5,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,99.1080278,1,100000,20,NULL,2021-03-06
+Chen21,CP_6,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,62.4609619,1,100000,20,NULL,2021-03-06
+Chen21,CP_7,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_8,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,66.7111408,1,100000,20,NULL,2021-03-06
+Chen21,CP_9,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_10,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,56.2113547,1,100000,20,NULL,2021-03-06
+Chen21,CP_11,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,56.4015792,1,100000,20,NULL,2021-03-06
+Chen21,CP_12,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_13,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,CP_14,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,43.7636761,1,100000,20,NULL,2021-03-06
+Chen21,CP_15,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,122.880315,1,100000,20,NULL,2021-03-06
+Chen21,CP_16,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,23.4521576,1,100000,20,NULL,2021-03-06
+Chen21,CP_17,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,38.3729854,1,100000,20,NULL,2021-03-06
+Chen21,CP_18,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,38.2262997,1,100000,20,NULL,2021-03-06
+Chen21,CP_19,B.1.351 Spike,"Fig 2e, Source Data Fig 2e",SARS-CoV-2 recombinant,NT50,28.0504909,1,100000,20,NULL,2021-03-06
+Chen21,CP_20,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,80.90615,1,100000,20,NULL,2021-03-06
+Chen21,CP_21,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,308.928,1,100000,20,NULL,2021-03-06
+Chen21,CP_22,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,3491.62,1,100000,20,NULL,2021-03-06
+Chen21,CP_23,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,55.21811,1,100000,20,NULL,2021-03-06
+Chen21,CP_24,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,1123.722,1,100000,20,NULL,2021-03-06
+Chen21,CP_25,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,76.92308,1,100000,20,NULL,2021-03-06
+Chen21,CP_26,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,602.7728,1,100000,20,NULL,2021-03-06
+Chen21,CP_27,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,393.391,1,100000,20,NULL,2021-03-06
+Chen21,CP_28,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,106.9404,1,100000,20,NULL,2021-03-06
+Chen21,CP_29,S:614G,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,212.9472,1,100000,20,NULL,2021-03-06
+Chen21,CP_20,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,CP_21,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,137.627305,1,100000,20,NULL,2021-03-06
+Chen21,CP_22,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,1380.45279,1,100000,20,NULL,2021-03-06
+Chen21,CP_23,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,CP_24,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,567.53689,1,100000,20,NULL,2021-03-06
+Chen21,CP_25,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,CP_26,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,57.7367206,1,100000,20,NULL,2021-03-06
+Chen21,CP_27,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,71.3775874,1,100000,20,NULL,2021-03-06
+Chen21,CP_28,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,79.3650794,1,100000,20,NULL,2021-03-06
+Chen21,CP_29,P.1 Spike,"Fig 2g, Source Data Fig 2g",SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_1,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,493.096647,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_2,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,1208.89749,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_3,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,2375.86125,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_4,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,156.030582,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_5,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,898.472597,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_6,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,1159.28588,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_7,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,276.090558,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_8,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,265.60425,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_9,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,839.630563,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_10,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,706.214689,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_11,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,325.097529,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_12,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,362.976407,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_13,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,240.615977,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_14,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,384.91147,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_15,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,500.500501,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_16,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,825.082508,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_17,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,902.527076,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_18,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,411.692054,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_19,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,968.992248,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_20,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,715.307582,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_21,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,122.354093,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_22,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,589.275192,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_23,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,1205.10966,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_24,S:614G,Fig 4a and Source Data Fig 4a,SARS-CoV-2 recombinant,NT50,602.772755,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_1,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,132.590825,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_2,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,324.780773,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_3,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,1621.53397,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_4,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,96.3391137,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_5,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,416.319734,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_6,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,636.942675,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_7,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,162.601626,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_8,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,137.741047,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_9,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,433.839479,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_10,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,648.08814,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_11,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,405.844156,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_12,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,159.286397,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_13,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,131.492439,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_14,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,176.335743,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_15,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,328.299409,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_16,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,496.770989,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_17,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,307.976594,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_18,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,332.667997,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_19,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,327.439424,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_20,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,214.362272,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_21,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,66.5335995,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_22,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,197.005516,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_23,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,384.172109,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_24,B.1.1.7 full genome,Fig 4a and Source Data Fig 4a,Virus isolate,NT50,261.780105,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_1,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,174.947516,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_2,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,409.50041,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_3,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,3457.81466,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_4,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,113.045444,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_5,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,718.907261,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_6,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,1518.3723,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_7,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,206.355757,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_8,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,306.748466,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_9,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,724.637681,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_10,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,1035.30386,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_11,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,484.261501,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_12,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,604.960678,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_13,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,324.569945,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_14,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,725.689405,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_15,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,953.288847,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_16,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,1411.03429,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_17,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,809.061489,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_18,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,948.766603,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_19,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,1104.11836,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_20,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,205.296654,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_21,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,124.316261,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_22,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,389.863548,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_23,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,777.000777,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_24,S:417N+614G,Fig 4b and Source Data Fig 4b,SARS-CoV-2 recombinant,NT50,814.995925,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_1,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,36.7242012,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_2,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,294.724433,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_3,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,563.697858,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_4,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,42.8265525,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_5,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,125.140783,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_6,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,305.250305,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_7,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,59.5238095,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_8,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,45.9558824,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_9,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,129.701686,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_10,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,169.836957,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_11,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,93.3706816,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_12,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,207.511932,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_13,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,58.8928151,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_14,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,159.083678,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_15,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,414.593698,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_16,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,228.466987,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_17,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,187.511719,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_18,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,221.680337,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_19,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,289.687138,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_20,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,188.21758,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_21,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,20.1694232,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_22,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,118.049817,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_23,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,199.960008,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_24,S:484K+501Y+614G,Fig 4c and Source Data Fig 4c,SARS-CoV-2 recombinant,NT50,68.6813187,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_1,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,21.724962,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_2,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,61.3120785,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_3,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,356.887937,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_4,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_5,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,96.1538462,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_6,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,103.284445,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_7,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,21.5053763,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_8,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,21.0881485,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_9,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,33.8294993,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_10,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,100.411688,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_11,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,86.5800866,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_12,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,26.3991552,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_13,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,20.2839757,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_14,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,40.7996736,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_15,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,110.253583,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_16,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,120.365912,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_17,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,98.2318271,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_18,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,73.90983,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_19,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,88.5739593,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_20,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,47.7099237,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_21,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,18.1192245,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_22,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,72.2543353,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_23,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,96.9932105,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_24,B.1.351 Spike,Fig 4d and Source Data Fig 4d,SARS-CoV-2 recombinant,NT50,26.1506276,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_1,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,148.676777,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_2,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,936.329588,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_3,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,874.890639,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_4,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,149.76786,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_5,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,205.170291,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_6,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,398.0892,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_7,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,102.6167,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_8,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,90.4159132,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_9,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,144.279325,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_10,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,317.460317,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_11,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,213.083316,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_12,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,174.794616,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_13,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,120.105693,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_14,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,201.166767,1,100000,20,NULL,2021-03-06
+Chen21,BNT162b2_15,P.1 Spike,Fig 4e and Source Data Fig 4e,SARS-CoV-2 recombinant,NT50,572.08238,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_1,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,16700.07,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_2,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,7722.008,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_3,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,5757.052,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_4,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,3517.411,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_5,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,4271.679,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_6,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,2139.953,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_7,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,4933.399,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_8,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,9578.544,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_9,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,6112.469,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_10,S:614G,Fig 3a and Source Data Fig 3a,SARS-CoV-2 recombinant,NT50,2720.348,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_1,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,7968.127,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_2,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,6557.377,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_3,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,3507.541,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_4,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,1414.627,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_5,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,1878.64,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_6,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,1942.879,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_7,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,15335.07,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_8,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,11820.33,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_9,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,4510.6,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_10,B.1.1.7 full genome,Fig 3a and Source Data Fig 3a,Virus isolate,NT50,3604.903,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_1,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,23758.61,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_2,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,14936.52,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_3,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,9233.61,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_4,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,3607.504,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_5,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,7331.378,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_6,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,6131.208,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_7,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,18188.43,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_8,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,18594.27,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_9,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,13297.87,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_10,S:417N+614G,Fig 3b and Source Data Fig 3b,SARS-CoV-2 recombinant,NT50,4418.913,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_1,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,16700.07,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_2,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,7722.008,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_3,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,5757.052,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_4,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,3517.411,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_5,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,4271.679,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_6,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,2139.953,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_7,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,4933.399,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_8,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,9578.544,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_9,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,6112.469,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_10,S:484K+501Y+614G,Fig 3c and Source Data Fig 3c,SARS-CoV-2 recombinant,NT50,2720.348,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_1,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,4750.594,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_2,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,4591.368,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_3,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,3661.662,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_4,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,1564.211,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_5,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,1728.31,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_6,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,291.5452,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_7,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,407.0004,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_8,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,161.6031,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_9,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,57.87037,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_10,S:417N+484K+501Y+614G,Fig 3d and Source Data Fig 3d,SARS-CoV-2 recombinant,NT50,3688.676,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_1,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,6082.725,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_2,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,3591.954,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_3,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,2489.42,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_4,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,1922.338,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_5,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,1931.248,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_6,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,394.3218,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_7,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,315.0599,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_8,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,265.0411,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_9,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,118.9061,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Mice_10,B.1.351 Spike,Fig 3e and Source Data Fig 3e,SARS-CoV-2 recombinant,NT50,1148.765,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_1,S:614G,Fig 3f and Source Data Fig 3f,SARS-CoV-2 recombinant,NT50,576.7013,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_2,S:614G,Fig 3f and Source Data Fig 3f,SARS-CoV-2 recombinant,NT50,587.1991,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_3,S:614G,Fig 3f and Source Data Fig 3f,SARS-CoV-2 recombinant,NT50,1066.439,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_4,S:614G,Fig 3f and Source Data Fig 3f,SARS-CoV-2 recombinant,NT50,443.8526,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_5,S:614G,Fig 3f and Source Data Fig 3f,SARS-CoV-2 recombinant,NT50,682.1282,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_6,S:614G,Fig 3f and Source Data Fig 3f,SARS-CoV-2 recombinant,NT50,1346.076,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_7,S:614G,Fig 3f and Source Data Fig 3f,SARS-CoV-2 recombinant,NT50,1140.121,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_8,S:614G,Fig 3f and Source Data Fig 3f,SARS-CoV-2 recombinant,NT50,588.5815,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_1,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,Virus isolate,NT50,468.3841,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_2,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,Virus isolate,NT50,317.3596,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_3,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,Virus isolate,NT50,1708.234,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_4,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,Virus isolate,NT50,406.5041,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_5,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,Virus isolate,NT50,803.8585,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_6,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,Virus isolate,NT50,683.0601,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_7,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,Virus isolate,NT50,1793.079,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_8,B.1.1.7 full genome,Fig 3f and Source Data Fig 3f,Virus isolate,NT50,1318.392,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_1,S:417N+614G,Fig 3g and Source Data Fig 3g,SARS-CoV-2 recombinant,NT50,914.0768,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_2,S:417N+614G,Fig 3g and Source Data Fig 3g,SARS-CoV-2 recombinant,NT50,504.0323,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_3,S:417N+614G,Fig 3g and Source Data Fig 3g,SARS-CoV-2 recombinant,NT50,1043.515,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_4,S:417N+614G,Fig 3g and Source Data Fig 3g,SARS-CoV-2 recombinant,NT50,542.5936,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_5,S:417N+614G,Fig 3g and Source Data Fig 3g,SARS-CoV-2 recombinant,NT50,431.2204,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_6,S:417N+614G,Fig 3g and Source Data Fig 3g,SARS-CoV-2 recombinant,NT50,1239.157,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_7,S:417N+614G,Fig 3g and Source Data Fig 3g,SARS-CoV-2 recombinant,NT50,817.6615,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_8,S:417N+614G,Fig 3g and Source Data Fig 3g,SARS-CoV-2 recombinant,NT50,880.2817,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_1,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_2,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_3,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_4,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_5,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,SARS-CoV-2 recombinant,NT50,50.9684,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_6,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,SARS-CoV-2 recombinant,NT50,206.441,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_7,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,SARS-CoV-2 recombinant,NT50,274.8763,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_8,S:484K+501Y+614G,Fig 3h and Source Data Fig 3h,SARS-CoV-2 recombinant,NT50,115.1278,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_1,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,54.52563,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_2,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_3,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,94.42871,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_4,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_5,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,96.43202,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_6,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,159.1343,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_7,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,143.947,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_8,S:417N+484K+501Y+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_1,B.1.351 Spike,Fig 3j and Source Data Fig 3j,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_2,B.1.351 Spike,Fig 3j and Source Data Fig 3j,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_3,B.1.351 Spike,Fig 3j and Source Data Fig 3j,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_4,B.1.351 Spike,Fig 3j and Source Data Fig 3j,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_5,B.1.351 Spike,Fig 3j and Source Data Fig 3j,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_6,B.1.351 Spike,Fig 3j and Source Data Fig 3j,SARS-CoV-2 recombinant,NT50,159.8721,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_7,B.1.351 Spike,Fig 3j and Source Data Fig 3j,SARS-CoV-2 recombinant,NT50,50,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Hamster_8,B.1.351 Spike,Fig 3j and Source Data Fig 3j,SARS-CoV-2 recombinant,NT50,208.8119,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_1,S:614G,Fig 3k and Source Data Fig 3k,SARS-CoV-2 recombinant,NT50,47.39336,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_2,S:614G,Fig 3k and Source Data Fig 3k,SARS-CoV-2 recombinant,NT50,221.5821,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_3,S:614G,Fig 3k and Source Data Fig 3k,SARS-CoV-2 recombinant,NT50,213.6296,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_4,S:614G,Fig 3k and Source Data Fig 3k,SARS-CoV-2 recombinant,NT50,280.9778,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_5,S:614G,Fig 3k and Source Data Fig 3k,SARS-CoV-2 recombinant,NT50,588.5815,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_6,S:614G,Fig 3k and Source Data Fig 3k,SARS-CoV-2 recombinant,NT50,1289.158,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_1,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,Virus isolate,NT50,49.50495,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_2,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,Virus isolate,NT50,65.27415,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_3,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,Virus isolate,NT50,190.1502,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_4,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,Virus isolate,NT50,105.8761,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_5,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,Virus isolate,NT50,362.8447,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_6,B.1.1.7 full genome,Fig 3k and Source Data Fig 3k,Virus isolate,NT50,499.5005,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_1,S:417N+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,96.61836,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_2,S:417N+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,251.6356,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_3,S:417N+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,374.1115,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_4,S:417N+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,394.1663,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_5,S:417N+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,1310.101,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_6,S:417N+614G,Fig 3i and Source Data Fig 3i,SARS-CoV-2 recombinant,NT50,1333.333,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_1,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_2,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_3,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_4,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,SARS-CoV-2 recombinant,NT50,37.07824,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_5,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,SARS-CoV-2 recombinant,NT50,46.04052,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_6,S:484K+501Y+614G,Fig 3m and Source Data Fig 3m,SARS-CoV-2 recombinant,NT50,24.55796,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_1,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_2,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_3,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,SARS-CoV-2 recombinant,NT50,41.08463,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_4,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,SARS-CoV-2 recombinant,NT50,34.32887,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_5,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,SARS-CoV-2 recombinant,NT50,78.00312,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_6,S:417N+484K+501Y+614G,Fig 3n and Source Data Fig 3n,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_1,B.1.351 Spike,Fig 3o and Source Data Fig 3o,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_2,B.1.351 Spike,Fig 3o and Source Data Fig 3o,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_3,B.1.351 Spike,Fig 3o and Source Data Fig 3o,SARS-CoV-2 recombinant,NT50,36.04903,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_4,B.1.351 Spike,Fig 3o and Source Data Fig 3o,SARS-CoV-2 recombinant,NT50,31.7662,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_5,B.1.351 Spike,Fig 3o and Source Data Fig 3o,SARS-CoV-2 recombinant,NT50,78.67821,1,100000,20,NULL,2021-03-06
+Chen21,ChAd_Rhesus_macaques_6,B.1.351 Spike,Fig 3o and Source Data Fig 3o,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2021-03-06

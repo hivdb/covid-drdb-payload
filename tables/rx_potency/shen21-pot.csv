@@ -1,755 +1,755 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Shen21,B38,S:614G,Table 1,lentivirus pseudovirus,IC50,2100,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:614G,Table 1,lentivirus pseudovirus,IC50,6,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:614G,Table 1,lentivirus pseudovirus,IC50,5.8,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:614G,Table 1,lentivirus pseudovirus,IC50,9.4,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:614G,Table 1,lentivirus pseudovirus,IC50,11,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:614G,Table 1,lentivirus pseudovirus,IC50,8.1,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:614G,Table 1,lentivirus pseudovirus,IC50,140,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:614G,Table 1,lentivirus pseudovirus,IC50,2100,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:614G,Table 1,lentivirus pseudovirus,IC50,71,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:614G,Table 1,lentivirus pseudovirus,IC50,48,1,50000,NULL,ng/ml,2021-06-28
-Shen21,B38,S:614G,Table 1,lentivirus pseudovirus,IC80,12000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:614G,Table 1,lentivirus pseudovirus,IC80,31,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:614G,Table 1,lentivirus pseudovirus,IC80,28,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:614G,Table 1,lentivirus pseudovirus,IC80,36,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:614G,Table 1,lentivirus pseudovirus,IC80,68,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:614G,Table 1,lentivirus pseudovirus,IC80,40,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:614G,Table 1,lentivirus pseudovirus,IC80,540,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:614G,Table 1,lentivirus pseudovirus,IC80,18000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:614G,Table 1,lentivirus pseudovirus,IC80,1200,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:614G,Table 1,lentivirus pseudovirus,IC80,690,1,50000,NULL,ng/ml,2021-06-28
-Shen21,B38,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,30000,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA1-18,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,11,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA2-15,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,50,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1041,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,15,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1042,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,52,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1043,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,10,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1047,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,170,1,50000,NULL,ng/ml,2021-01-28
-Shen21,H4,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,9900,1,50000,NULL,ng/ml,2021-01-28
-Shen21,P2B-2F6,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,75,1,50000,NULL,ng/ml,2021-01-28
-Shen21,S309,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC50,9200,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,160,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,950,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,39,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,130,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,50,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,640,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,2200,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,B.1.1.7 Spike,Table 1,lentivirus pseudovirus,IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,B38,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,4700,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA1-18,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,32,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA2-15,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,84,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1041,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,10,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1042,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,12,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1043,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,15,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1047,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,72,1,50000,NULL,ng/ml,2021-01-28
-Shen21,H4,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,3700,1,50000,NULL,ng/ml,2021-01-28
-Shen21,P2B-2F6,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,43,1,50000,NULL,ng/ml,2021-01-28
-Shen21,S309,S:501Y+614G,Table 1,lentivirus pseudovirus,IC50,150,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,190,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,930,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,34,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,60,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,58,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,430,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,46000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,930,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:501Y+614G,Table 1,lentivirus pseudovirus,IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,B38,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,1500,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA1-18,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,4.2,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA2-15,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,5.1,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1041,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,7,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1042,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,9.5,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1043,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,7.7,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1047,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,100,1,50000,NULL,ng/ml,2021-01-28
-Shen21,H4,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,2500,1,50000,NULL,ng/ml,2021-01-28
-Shen21,P2B-2F6,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,100,1,50000,NULL,ng/ml,2021-01-28
-Shen21,S309,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC50,18,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,9900,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,26,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,26,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,29,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,53,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,33,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,500,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,26000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,1100,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:69del+70del+614G,Table 1,lentivirus pseudovirus,IC80,18000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,B38,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,2500,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA1-18,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,26,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA2-15,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,51,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1041,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,4.4,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1042,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,6.1,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1043,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,7.4,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1047,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,49,1,50000,NULL,ng/ml,2021-01-28
-Shen21,H4,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,3100,1,50000,NULL,ng/ml,2021-01-28
-Shen21,P2B-2F6,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,33,1,50000,NULL,ng/ml,2021-01-28
-Shen21,S309,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC50,110,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,40000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,180,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,11600,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,25,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,39,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,35,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,280,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,30000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,1000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:69del+70del+501Y+614G,Table 1,lentivirus pseudovirus,IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,B38,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,1200,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA1-18,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,8.3,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA2-15,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,5.5,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1041,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,4.6,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1042,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,4,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1043,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,11,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1047,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,48,1,50000,NULL,ng/ml,2021-01-28
-Shen21,H4,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,640,1,50000,NULL,ng/ml,2021-01-28
-Shen21,P2B-2F6,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,94,1,50000,NULL,ng/ml,2021-01-28
-Shen21,S309,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC50,98,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,15000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,43,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,30,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,27,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,30,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,50,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,240,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,5700,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,1300,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:69del+70del+453F+614G,Table 1,lentivirus pseudovirus,IC80,11000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,B38,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,1300,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA1-18,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,6.1,1,50000,NULL,ng/ml,2021-01-28
-Shen21,COVA2-15,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,11,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1041,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,7.5,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1042,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,6.3,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1043,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,17,1,50000,NULL,ng/ml,2021-01-28
-Shen21,DH1047,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,16,1,50000,NULL,ng/ml,2021-01-28
-Shen21,H4,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,3600,1,50000,NULL,ng/ml,2021-01-28
-Shen21,P2B-2F6,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,150,1,50000,NULL,ng/ml,2021-01-28
-Shen21,S309,S:439K+614G,Table 1,lentivirus pseudovirus,IC50,46,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,19000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,49,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,100,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,35,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,70,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,59,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,330,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,42000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,1600,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:439K+614G,Table 1,lentivirus pseudovirus,IC80,380,1,50000,NULL,ng/ml,2021-06-28
-Shen21,Mod_Ser_1,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,179,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_13,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,67,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_30,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,206,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_38,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,29,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_46,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,43,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_5,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,41,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_67,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,23,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_71,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,61,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_76,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,35,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_85,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,33,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_92,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,42,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_20,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,444,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_21,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1458,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_22,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,971,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_24,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,781,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_36,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1590,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_37,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1432,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_39,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,806,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_40,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,941,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_41,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,3970,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_47,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1627,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_49,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1185,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_54,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,820,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_57,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,4174,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_58,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,521,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_63,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,677,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_65,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1815,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_66,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,273,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_68,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,457,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_69,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,4998,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_73,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,535,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_74,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,2184,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_77,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,248,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_8,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1616,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_81,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,972,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_83,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,2221,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_84,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,477,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_88,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,602,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_91,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,698,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_94,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,759,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_10,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,928,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_11,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,517,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_18,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,961,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_25,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,5268,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_28,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,97,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_29,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1037,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_31,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1136,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_34,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,109,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_35,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,865,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_4,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,4367,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_42,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,247,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_43,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,366,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_45,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,78,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_48,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,20,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_56,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,5761,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_59,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,3032,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_61,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,184,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_62,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,254,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_7,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,346,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_70,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,620,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_72,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,380,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_75,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,188,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_78,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,279,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_80,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,367,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_86,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1246,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_9,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,63,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_90,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,2726,1,1562500,20,NULL,2021-01-28
-Shen21,NVV_Ser_93,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,726,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_12,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,924,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_16,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,2183,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_26,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,107,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_3,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,325,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_32,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,89,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_44,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,120,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_50,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,4428,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_51,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,241,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_52,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,886,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_53,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,130,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_55,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,237,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_6,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1235,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_82,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,1402,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_87,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,20927,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_89,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT50,50,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_14,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,2833,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_15,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,355,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_17,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,1604,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_19,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,424,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_2,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,4994,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_23,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,269,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_27,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,1224,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_33,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,2093,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_60,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,1231,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_64,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,2467,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_79,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,2054,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_12,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,411,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_16,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,4267,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_26,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,166,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_3,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,523,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_32,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,95,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_44,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,50,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_50,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,3131,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_51,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,227,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_52,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,995,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_53,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,73,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_55,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,412,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_6,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,897,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_82,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,589,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_87,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,4343,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_89,S:501Y+614G,Table S1,lentivirus pseudovirus,NT50,62,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_14,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,3222,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_15,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,488,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_17,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,1887,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_19,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,876,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_2,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,7422,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_23,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,751,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_27,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,2471,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_33,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,3960,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_60,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,2896,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_64,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,3937,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_79,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,4695,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_12,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,1244,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_16,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,5893,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_26,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,217,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_3,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,1975,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_32,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,416,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_44,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,162,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_50,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,4329,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_51,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,222,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_52,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,1370,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_53,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,194,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_55,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,676,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_6,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,1486,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_82,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,1313,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_87,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,16608,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_89,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT50,127,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_14,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,2847,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_15,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,410,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_17,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,1403,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_19,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,610,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_2,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,7313,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_23,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,151,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_27,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,1804,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_33,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,3255,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_60,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,1261,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_64,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,5884,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_79,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,2647,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_12,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,2185,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_16,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,7441,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_26,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,197,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_3,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,1455,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_32,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,225,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_44,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,128,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_50,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,6432,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_51,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,238,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_52,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,1516,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_53,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,195,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_55,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,459,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_6,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,923,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_82,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,1755,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_87,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,21193,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_89,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT50,101,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_14,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,1572,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_15,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,278,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_17,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,938,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_19,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,742,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_2,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,4508,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_23,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,205,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_27,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,1365,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_33,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,1944,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_60,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,890,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_64,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,2865,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_79,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,2663,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_12,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,183,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_16,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,4908,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_26,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,103,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_3,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,716,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_32,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,160,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_44,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,115,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_50,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,737,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_51,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,151,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_52,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,994,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_53,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,101,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_55,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,518,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_6,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,901,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_82,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,343,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_87,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,8702,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_89,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT50,78,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_14,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,1312,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_15,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,143,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_17,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,867,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_19,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,548,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_2,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,6677,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_23,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,147,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_27,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,1603,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_33,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,1401,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_60,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,1059,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_64,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,4566,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_79,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,2707,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_12,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,688,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_16,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,4346,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_26,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,145,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_3,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,736,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_32,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,88,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_44,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,90,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_50,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,2782,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_51,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,179,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_52,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,822,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_53,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,119,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_55,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,371,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_6,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,1321,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_82,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,1085,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_87,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,6025,1,1562500,20,NULL,2021-01-28
-Shen21,CP_Ser_89,S:439K+614G,Table S1,lentivirus pseudovirus,NT50,78,1,1562500,20,NULL,2021-01-28
-Shen21,Mod_Ser_1,S:614G,Table S1,lentivirus pseudovirus,NT50,402,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_13,S:614G,Table S1,lentivirus pseudovirus,NT50,187,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_30,S:614G,Table S1,lentivirus pseudovirus,NT50,280,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_38,S:614G,Table S1,lentivirus pseudovirus,NT50,196,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_46,S:614G,Table S1,lentivirus pseudovirus,NT50,164,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_5,S:614G,Table S1,lentivirus pseudovirus,NT50,178,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_67,S:614G,Table S1,lentivirus pseudovirus,NT50,94,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_71,S:614G,Table S1,lentivirus pseudovirus,NT50,319,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_76,S:614G,Table S1,lentivirus pseudovirus,NT50,124,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_85,S:614G,Table S1,lentivirus pseudovirus,NT50,105,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_92,S:614G,Table S1,lentivirus pseudovirus,NT50,93,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_20,S:614G,Table S1,lentivirus pseudovirus,NT50,926,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_21,S:614G,Table S1,lentivirus pseudovirus,NT50,2299,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_22,S:614G,Table S1,lentivirus pseudovirus,NT50,1248,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_24,S:614G,Table S1,lentivirus pseudovirus,NT50,1587,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_36,S:614G,Table S1,lentivirus pseudovirus,NT50,4148,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_37,S:614G,Table S1,lentivirus pseudovirus,NT50,1758,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_39,S:614G,Table S1,lentivirus pseudovirus,NT50,2216,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_40,S:614G,Table S1,lentivirus pseudovirus,NT50,2453,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_41,S:614G,Table S1,lentivirus pseudovirus,NT50,4654,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_47,S:614G,Table S1,lentivirus pseudovirus,NT50,1743,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_49,S:614G,Table S1,lentivirus pseudovirus,NT50,2528,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_54,S:614G,Table S1,lentivirus pseudovirus,NT50,3005,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_57,S:614G,Table S1,lentivirus pseudovirus,NT50,1500,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_58,S:614G,Table S1,lentivirus pseudovirus,NT50,875,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_63,S:614G,Table S1,lentivirus pseudovirus,NT50,5834,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_65,S:614G,Table S1,lentivirus pseudovirus,NT50,3572,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_66,S:614G,Table S1,lentivirus pseudovirus,NT50,444,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_68,S:614G,Table S1,lentivirus pseudovirus,NT50,1750,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_69,S:614G,Table S1,lentivirus pseudovirus,NT50,2340,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_73,S:614G,Table S1,lentivirus pseudovirus,NT50,1134,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_74,S:614G,Table S1,lentivirus pseudovirus,NT50,1795,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_77,S:614G,Table S1,lentivirus pseudovirus,NT50,443,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_8,S:614G,Table S1,lentivirus pseudovirus,NT50,1999,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_81,S:614G,Table S1,lentivirus pseudovirus,NT50,1927,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_83,S:614G,Table S1,lentivirus pseudovirus,NT50,4667,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_84,S:614G,Table S1,lentivirus pseudovirus,NT50,1204,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_88,S:614G,Table S1,lentivirus pseudovirus,NT50,1023,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_91,S:614G,Table S1,lentivirus pseudovirus,NT50,1230,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_94,S:614G,Table S1,lentivirus pseudovirus,NT50,1993,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_14,S:614G,Table S1,lentivirus pseudovirus,NT50,1598,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_15,S:614G,Table S1,lentivirus pseudovirus,NT50,204,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_17,S:614G,Table S1,lentivirus pseudovirus,NT50,1149,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_19,S:614G,Table S1,lentivirus pseudovirus,NT50,534,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_2,S:614G,Table S1,lentivirus pseudovirus,NT50,3831,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_23,S:614G,Table S1,lentivirus pseudovirus,NT50,201,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_27,S:614G,Table S1,lentivirus pseudovirus,NT50,1753,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_33,S:614G,Table S1,lentivirus pseudovirus,NT50,1538,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_60,S:614G,Table S1,lentivirus pseudovirus,NT50,883,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_64,S:614G,Table S1,lentivirus pseudovirus,NT50,2763,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_79,S:614G,Table S1,lentivirus pseudovirus,NT50,2349,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_10,S:614G,Table S1,lentivirus pseudovirus,NT50,2886,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_11,S:614G,Table S1,lentivirus pseudovirus,NT50,982,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_18,S:614G,Table S1,lentivirus pseudovirus,NT50,1830,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_25,S:614G,Table S1,lentivirus pseudovirus,NT50,4501,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_28,S:614G,Table S1,lentivirus pseudovirus,NT50,285,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_29,S:614G,Table S1,lentivirus pseudovirus,NT50,3464,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_31,S:614G,Table S1,lentivirus pseudovirus,NT50,1191,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_34,S:614G,Table S1,lentivirus pseudovirus,NT50,470,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_35,S:614G,Table S1,lentivirus pseudovirus,NT50,1786,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_4,S:614G,Table S1,lentivirus pseudovirus,NT50,10107,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_42,S:614G,Table S1,lentivirus pseudovirus,NT50,967,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_43,S:614G,Table S1,lentivirus pseudovirus,NT50,756,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_45,S:614G,Table S1,lentivirus pseudovirus,NT50,203,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_48,S:614G,Table S1,lentivirus pseudovirus,NT50,465,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_56,S:614G,Table S1,lentivirus pseudovirus,NT50,6200,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_59,S:614G,Table S1,lentivirus pseudovirus,NT50,8757,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_61,S:614G,Table S1,lentivirus pseudovirus,NT50,471,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_62,S:614G,Table S1,lentivirus pseudovirus,NT50,454,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_7,S:614G,Table S1,lentivirus pseudovirus,NT50,1502,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_70,S:614G,Table S1,lentivirus pseudovirus,NT50,667,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_72,S:614G,Table S1,lentivirus pseudovirus,NT50,420,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_75,S:614G,Table S1,lentivirus pseudovirus,NT50,410,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_78,S:614G,Table S1,lentivirus pseudovirus,NT50,912,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_80,S:614G,Table S1,lentivirus pseudovirus,NT50,571,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_86,S:614G,Table S1,lentivirus pseudovirus,NT50,1850,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_9,S:614G,Table S1,lentivirus pseudovirus,NT50,231,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_90,S:614G,Table S1,lentivirus pseudovirus,NT50,2460,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_93,S:614G,Table S1,lentivirus pseudovirus,NT50,1293,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_12,S:614G,Table S1,lentivirus pseudovirus,NT50,1326,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_16,S:614G,Table S1,lentivirus pseudovirus,NT50,4353,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_26,S:614G,Table S1,lentivirus pseudovirus,NT50,191,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_3,S:614G,Table S1,lentivirus pseudovirus,NT50,1238,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_32,S:614G,Table S1,lentivirus pseudovirus,NT50,455,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_44,S:614G,Table S1,lentivirus pseudovirus,NT50,180,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_50,S:614G,Table S1,lentivirus pseudovirus,NT50,4291,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_51,S:614G,Table S1,lentivirus pseudovirus,NT50,200,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_52,S:614G,Table S1,lentivirus pseudovirus,NT50,1105,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_53,S:614G,Table S1,lentivirus pseudovirus,NT50,214,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_55,S:614G,Table S1,lentivirus pseudovirus,NT50,306,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_6,S:614G,Table S1,lentivirus pseudovirus,NT50,1974,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_82,S:614G,Table S1,lentivirus pseudovirus,NT50,1463,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_87,S:614G,Table S1,lentivirus pseudovirus,NT50,14986,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_89,S:614G,Table S1,lentivirus pseudovirus,NT50,95,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_1,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,58,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_13,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,29,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_30,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,42,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_38,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,20,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_46,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,20,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_5,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,20,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_67,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,20,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_71,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,26,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_76,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,20,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_85,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,20,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_92,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,20,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_20,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,159,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_21,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,346,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_22,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,284,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_24,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,178,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_36,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,427,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_37,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,287,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_39,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,228,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_40,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,193,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_41,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,730,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_47,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,620,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_49,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,257,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_54,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,240,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_57,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,263,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_58,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,178,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_63,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,190,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_65,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,317,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_66,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,103,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_68,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,146,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_69,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,400,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_73,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,155,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_74,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,316,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_77,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,82,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_8,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,420,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_81,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,327,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_83,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,620,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_84,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,132,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_88,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,186,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_91,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,221,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_94,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,191,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_10,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,219,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_11,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,147,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_18,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,233,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_25,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,1097,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_28,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,32,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_29,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,242,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_31,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,258,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_34,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,37,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_35,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,180,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_4,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,976,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_42,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,66,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_43,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,136,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_45,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,26,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_48,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,20,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_56,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,757,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_59,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,683,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_61,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,40,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_62,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,102,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_7,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,76,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_70,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,166,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_72,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,112,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_75,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,45,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_78,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,119,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_80,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,134,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_86,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,254,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_9,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,25,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_90,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,381,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_93,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,207,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_12,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,155,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_16,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,702,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_26,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,36,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_3,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,90,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_32,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,26,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_44,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,27,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_50,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,712,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_51,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,81,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_52,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,195,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_53,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,34,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_55,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,106,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_6,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,385,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_82,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,365,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_87,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,921,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_89,B.1.1.7 Spike,Table S1,lentivirus pseudovirus,NT80,25,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_14,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,426,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_15,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,85,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_17,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,347,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_19,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,105,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_2,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,1098,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_23,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,42,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_27,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,247,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_33,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,598,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_60,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,233,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_64,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,772,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_79,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,656,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_12,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,128,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_16,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,813,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_26,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,45,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_3,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,107,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_32,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,30,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_44,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,22,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_50,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,534,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_51,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,60,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_52,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,194,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_53,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,24,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_55,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,132,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_6,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,296,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_82,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,153,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_87,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,824,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_89,S:501Y+614G,Table S1,lentivirus pseudovirus,NT80,27,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_14,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,724,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_15,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,122,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_17,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,616,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_19,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,224,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_2,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,2564,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_23,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,134,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_27,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,617,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_33,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,1002,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_60,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,499,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_64,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,1180,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_79,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,956,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_12,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,301,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_16,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,1546,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_26,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,60,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_3,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,342,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_32,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,72,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_44,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,41,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_50,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,977,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_51,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,106,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_52,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,326,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_53,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,46,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_55,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,178,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_6,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,531,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_82,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,380,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_87,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,2813,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_89,S:69del+70del+614G,Table S1,lentivirus pseudovirus,NT80,40,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_14,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,475,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_15,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,89,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_17,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,604,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_19,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,116,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_2,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,1928,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_23,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,36,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_27,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,407,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_33,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,585,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_60,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,289,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_64,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,1377,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_79,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,819,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_12,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,266,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_16,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,1857,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_26,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,46,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_3,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,287,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_32,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,48,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_44,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,32,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_50,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,1299,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_51,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,70,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_52,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,319,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_53,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,43,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_55,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,155,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_6,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,294,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_82,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,219,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_87,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,2255,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_89,S:69del+70del+501Y+614G,Table S1,lentivirus pseudovirus,NT80,34,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_14,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,441,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_15,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,46,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_17,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,219,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_19,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,171,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_2,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,1293,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_23,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,43,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_27,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,351,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_33,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,631,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_60,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,234,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_64,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,866,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_79,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,750,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_12,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,58,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_16,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,1175,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_26,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,37,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_3,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,166,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_32,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,33,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_44,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,30,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_50,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,187,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_51,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,53,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_52,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,215,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_53,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,28,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_55,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,149,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_6,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,242,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_82,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,122,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_87,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,987,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_89,S:69del+70del+453F+614G,Table S1,lentivirus pseudovirus,NT80,31,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_14,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,551,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_15,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,52,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_17,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,178,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_19,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,115,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_2,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,1308,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_23,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,40,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_27,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,604,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_33,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,481,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_60,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,334,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_64,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,1207,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_79,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,678,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_12,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,151,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_16,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,705,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_26,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,40,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_3,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,192,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_32,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,26,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_44,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,30,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_50,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,523,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_51,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,85,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_52,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,185,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_53,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,32,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_55,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,110,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_6,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,301,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_82,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,263,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_87,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,522,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_89,S:439K+614G,Table S1,lentivirus pseudovirus,NT80,28,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_1,S:614G,Table S1,lentivirus pseudovirus,NT80,76,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_13,S:614G,Table S1,lentivirus pseudovirus,NT80,53,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_30,S:614G,Table S1,lentivirus pseudovirus,NT80,38,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_38,S:614G,Table S1,lentivirus pseudovirus,NT80,39,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_46,S:614G,Table S1,lentivirus pseudovirus,NT80,39,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_5,S:614G,Table S1,lentivirus pseudovirus,NT80,38,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_67,S:614G,Table S1,lentivirus pseudovirus,NT80,21,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_71,S:614G,Table S1,lentivirus pseudovirus,NT80,61,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_76,S:614G,Table S1,lentivirus pseudovirus,NT80,30,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_85,S:614G,Table S1,lentivirus pseudovirus,NT80,35,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_92,S:614G,Table S1,lentivirus pseudovirus,NT80,29,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_20,S:614G,Table S1,lentivirus pseudovirus,NT80,217,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_21,S:614G,Table S1,lentivirus pseudovirus,NT80,779,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_22,S:614G,Table S1,lentivirus pseudovirus,NT80,443,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_24,S:614G,Table S1,lentivirus pseudovirus,NT80,370,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_36,S:614G,Table S1,lentivirus pseudovirus,NT80,787,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_37,S:614G,Table S1,lentivirus pseudovirus,NT80,357,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_39,S:614G,Table S1,lentivirus pseudovirus,NT80,443,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_40,S:614G,Table S1,lentivirus pseudovirus,NT80,333,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_41,S:614G,Table S1,lentivirus pseudovirus,NT80,991,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_47,S:614G,Table S1,lentivirus pseudovirus,NT80,685,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_49,S:614G,Table S1,lentivirus pseudovirus,NT80,623,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_54,S:614G,Table S1,lentivirus pseudovirus,NT80,775,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_57,S:614G,Table S1,lentivirus pseudovirus,NT80,389,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_58,S:614G,Table S1,lentivirus pseudovirus,NT80,234,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_63,S:614G,Table S1,lentivirus pseudovirus,NT80,435,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_65,S:614G,Table S1,lentivirus pseudovirus,NT80,518,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_66,S:614G,Table S1,lentivirus pseudovirus,NT80,163,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_68,S:614G,Table S1,lentivirus pseudovirus,NT80,475,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_69,S:614G,Table S1,lentivirus pseudovirus,NT80,653,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_73,S:614G,Table S1,lentivirus pseudovirus,NT80,220,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_74,S:614G,Table S1,lentivirus pseudovirus,NT80,537,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_77,S:614G,Table S1,lentivirus pseudovirus,NT80,128,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_8,S:614G,Table S1,lentivirus pseudovirus,NT80,679,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_81,S:614G,Table S1,lentivirus pseudovirus,NT80,686,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_83,S:614G,Table S1,lentivirus pseudovirus,NT80,799,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_84,S:614G,Table S1,lentivirus pseudovirus,NT80,231,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_88,S:614G,Table S1,lentivirus pseudovirus,NT80,321,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_91,S:614G,Table S1,lentivirus pseudovirus,NT80,470,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_94,S:614G,Table S1,lentivirus pseudovirus,NT80,337,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_14,S:614G,Table S1,lentivirus pseudovirus,NT80,539,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_15,S:614G,Table S1,lentivirus pseudovirus,NT80,55,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_17,S:614G,Table S1,lentivirus pseudovirus,NT80,250,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_19,S:614G,Table S1,lentivirus pseudovirus,NT80,144,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_2,S:614G,Table S1,lentivirus pseudovirus,NT80,1051,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_23,S:614G,Table S1,lentivirus pseudovirus,NT80,59,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_27,S:614G,Table S1,lentivirus pseudovirus,NT80,485,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_33,S:614G,Table S1,lentivirus pseudovirus,NT80,453,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_60,S:614G,Table S1,lentivirus pseudovirus,NT80,242,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_64,S:614G,Table S1,lentivirus pseudovirus,NT80,874,1,1562500,20,NULL,2021-06-28
-Shen21,Mod_Ser_79,S:614G,Table S1,lentivirus pseudovirus,NT80,800,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_10,S:614G,Table S1,lentivirus pseudovirus,NT80,716,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_11,S:614G,Table S1,lentivirus pseudovirus,NT80,233,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_18,S:614G,Table S1,lentivirus pseudovirus,NT80,362,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_25,S:614G,Table S1,lentivirus pseudovirus,NT80,976,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_28,S:614G,Table S1,lentivirus pseudovirus,NT80,59,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_29,S:614G,Table S1,lentivirus pseudovirus,NT80,745,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_31,S:614G,Table S1,lentivirus pseudovirus,NT80,291,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_34,S:614G,Table S1,lentivirus pseudovirus,NT80,105,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_35,S:614G,Table S1,lentivirus pseudovirus,NT80,540,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_4,S:614G,Table S1,lentivirus pseudovirus,NT80,1679,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_42,S:614G,Table S1,lentivirus pseudovirus,NT80,185,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_43,S:614G,Table S1,lentivirus pseudovirus,NT80,184,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_45,S:614G,Table S1,lentivirus pseudovirus,NT80,43,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_48,S:614G,Table S1,lentivirus pseudovirus,NT80,42,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_56,S:614G,Table S1,lentivirus pseudovirus,NT80,1170,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_59,S:614G,Table S1,lentivirus pseudovirus,NT80,1098,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_61,S:614G,Table S1,lentivirus pseudovirus,NT80,105,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_62,S:614G,Table S1,lentivirus pseudovirus,NT80,147,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_7,S:614G,Table S1,lentivirus pseudovirus,NT80,297,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_70,S:614G,Table S1,lentivirus pseudovirus,NT80,182,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_72,S:614G,Table S1,lentivirus pseudovirus,NT80,162,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_75,S:614G,Table S1,lentivirus pseudovirus,NT80,116,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_78,S:614G,Table S1,lentivirus pseudovirus,NT80,183,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_80,S:614G,Table S1,lentivirus pseudovirus,NT80,173,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_86,S:614G,Table S1,lentivirus pseudovirus,NT80,542,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_9,S:614G,Table S1,lentivirus pseudovirus,NT80,45,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_90,S:614G,Table S1,lentivirus pseudovirus,NT80,689,1,1562500,20,NULL,2021-06-28
-Shen21,NVV_Ser_93,S:614G,Table S1,lentivirus pseudovirus,NT80,393,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_12,S:614G,Table S1,lentivirus pseudovirus,NT80,291,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_16,S:614G,Table S1,lentivirus pseudovirus,NT80,1050,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_26,S:614G,Table S1,lentivirus pseudovirus,NT80,44,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_3,S:614G,Table S1,lentivirus pseudovirus,NT80,300,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_32,S:614G,Table S1,lentivirus pseudovirus,NT80,49,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_44,S:614G,Table S1,lentivirus pseudovirus,NT80,42,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_50,S:614G,Table S1,lentivirus pseudovirus,NT80,1217,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_51,S:614G,Table S1,lentivirus pseudovirus,NT80,60,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_52,S:614G,Table S1,lentivirus pseudovirus,NT80,218,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_53,S:614G,Table S1,lentivirus pseudovirus,NT80,43,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_55,S:614G,Table S1,lentivirus pseudovirus,NT80,137,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_6,S:614G,Table S1,lentivirus pseudovirus,NT80,569,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_82,S:614G,Table S1,lentivirus pseudovirus,NT80,501,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_87,S:614G,Table S1,lentivirus pseudovirus,NT80,2653,1,1562500,20,NULL,2021-06-28
-Shen21,CP_Ser_89,S:614G,Table S1,lentivirus pseudovirus,NT80,35,1,1562500,20,NULL,2021-06-28
+Shen21,B38,S:614G,Table 1,Pseudovirus (lentivirus),IC50,2100,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA1-18,S:614G,Table 1,Pseudovirus (lentivirus),IC50,6,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA2-15,S:614G,Table 1,Pseudovirus (lentivirus),IC50,5.8,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1041,S:614G,Table 1,Pseudovirus (lentivirus),IC50,9.4,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1042,S:614G,Table 1,Pseudovirus (lentivirus),IC50,11,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1043,S:614G,Table 1,Pseudovirus (lentivirus),IC50,8.1,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1047,S:614G,Table 1,Pseudovirus (lentivirus),IC50,140,1,50000,NULL,ng/ml,2021-06-28
+Shen21,H4,S:614G,Table 1,Pseudovirus (lentivirus),IC50,2100,1,50000,NULL,ng/ml,2021-06-28
+Shen21,P2B-2F6,S:614G,Table 1,Pseudovirus (lentivirus),IC50,71,1,50000,NULL,ng/ml,2021-06-28
+Shen21,S309,S:614G,Table 1,Pseudovirus (lentivirus),IC50,48,1,50000,NULL,ng/ml,2021-06-28
+Shen21,B38,S:614G,Table 1,Pseudovirus (lentivirus),IC80,12000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA1-18,S:614G,Table 1,Pseudovirus (lentivirus),IC80,31,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA2-15,S:614G,Table 1,Pseudovirus (lentivirus),IC80,28,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1041,S:614G,Table 1,Pseudovirus (lentivirus),IC80,36,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1042,S:614G,Table 1,Pseudovirus (lentivirus),IC80,68,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1043,S:614G,Table 1,Pseudovirus (lentivirus),IC80,40,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1047,S:614G,Table 1,Pseudovirus (lentivirus),IC80,540,1,50000,NULL,ng/ml,2021-06-28
+Shen21,H4,S:614G,Table 1,Pseudovirus (lentivirus),IC80,18000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,P2B-2F6,S:614G,Table 1,Pseudovirus (lentivirus),IC80,1200,1,50000,NULL,ng/ml,2021-06-28
+Shen21,S309,S:614G,Table 1,Pseudovirus (lentivirus),IC80,690,1,50000,NULL,ng/ml,2021-06-28
+Shen21,B38,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,30000,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA1-18,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,11,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA2-15,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,50,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1041,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,15,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1042,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,52,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1043,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,10,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1047,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,170,1,50000,NULL,ng/ml,2021-01-28
+Shen21,H4,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,9900,1,50000,NULL,ng/ml,2021-01-28
+Shen21,P2B-2F6,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,75,1,50000,NULL,ng/ml,2021-01-28
+Shen21,S309,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,9200,1,50000,NULL,ng/ml,2021-01-28
+Shen21,B38,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA1-18,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,160,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA2-15,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,950,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1041,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,39,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1042,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,130,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1043,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,50,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1047,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,640,1,50000,NULL,ng/ml,2021-06-28
+Shen21,H4,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,P2B-2F6,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,2200,1,50000,NULL,ng/ml,2021-06-28
+Shen21,S309,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,B38,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,4700,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA1-18,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,32,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA2-15,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,84,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1041,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,10,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1042,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,12,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1043,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,15,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1047,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,72,1,50000,NULL,ng/ml,2021-01-28
+Shen21,H4,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,3700,1,50000,NULL,ng/ml,2021-01-28
+Shen21,P2B-2F6,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,43,1,50000,NULL,ng/ml,2021-01-28
+Shen21,S309,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,150,1,50000,NULL,ng/ml,2021-01-28
+Shen21,B38,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA1-18,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,190,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA2-15,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,930,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1041,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,34,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1042,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,60,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1043,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,58,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1047,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,430,1,50000,NULL,ng/ml,2021-06-28
+Shen21,H4,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,46000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,P2B-2F6,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,930,1,50000,NULL,ng/ml,2021-06-28
+Shen21,S309,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,B38,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,1500,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA1-18,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,4.2,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA2-15,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,5.1,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1041,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,7,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1042,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,9.5,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1043,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,7.7,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1047,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,100,1,50000,NULL,ng/ml,2021-01-28
+Shen21,H4,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,2500,1,50000,NULL,ng/ml,2021-01-28
+Shen21,P2B-2F6,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,100,1,50000,NULL,ng/ml,2021-01-28
+Shen21,S309,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,18,1,50000,NULL,ng/ml,2021-01-28
+Shen21,B38,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,9900,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA1-18,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,26,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA2-15,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,26,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1041,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,29,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1042,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,53,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1043,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,33,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1047,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,500,1,50000,NULL,ng/ml,2021-06-28
+Shen21,H4,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,26000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,P2B-2F6,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,1100,1,50000,NULL,ng/ml,2021-06-28
+Shen21,S309,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,18000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,B38,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,2500,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA1-18,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,26,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA2-15,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,51,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1041,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,4.4,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1042,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,6.1,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1043,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,7.4,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1047,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,49,1,50000,NULL,ng/ml,2021-01-28
+Shen21,H4,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,3100,1,50000,NULL,ng/ml,2021-01-28
+Shen21,P2B-2F6,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,33,1,50000,NULL,ng/ml,2021-01-28
+Shen21,S309,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,110,1,50000,NULL,ng/ml,2021-01-28
+Shen21,B38,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,40000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA1-18,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,180,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA2-15,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,11600,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1041,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,25,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1042,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,39,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1043,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,35,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1047,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,280,1,50000,NULL,ng/ml,2021-06-28
+Shen21,H4,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,30000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,P2B-2F6,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,1000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,S309,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,B38,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,1200,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA1-18,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,8.3,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA2-15,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,5.5,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1041,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,4.6,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1042,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,4,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1043,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,11,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1047,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,48,1,50000,NULL,ng/ml,2021-01-28
+Shen21,H4,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,640,1,50000,NULL,ng/ml,2021-01-28
+Shen21,P2B-2F6,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,94,1,50000,NULL,ng/ml,2021-01-28
+Shen21,S309,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,98,1,50000,NULL,ng/ml,2021-01-28
+Shen21,B38,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,15000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA1-18,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,43,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA2-15,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,30,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1041,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,27,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1042,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,30,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1043,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,50,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1047,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,240,1,50000,NULL,ng/ml,2021-06-28
+Shen21,H4,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,5700,1,50000,NULL,ng/ml,2021-06-28
+Shen21,P2B-2F6,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,1300,1,50000,NULL,ng/ml,2021-06-28
+Shen21,S309,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,11000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,B38,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,1300,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA1-18,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,6.1,1,50000,NULL,ng/ml,2021-01-28
+Shen21,COVA2-15,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,11,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1041,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,7.5,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1042,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,6.3,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1043,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,17,1,50000,NULL,ng/ml,2021-01-28
+Shen21,DH1047,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,16,1,50000,NULL,ng/ml,2021-01-28
+Shen21,H4,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,3600,1,50000,NULL,ng/ml,2021-01-28
+Shen21,P2B-2F6,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,150,1,50000,NULL,ng/ml,2021-01-28
+Shen21,S309,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,46,1,50000,NULL,ng/ml,2021-01-28
+Shen21,B38,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,19000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA1-18,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,49,1,50000,NULL,ng/ml,2021-06-28
+Shen21,COVA2-15,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,100,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1041,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,35,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1042,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,70,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1043,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,59,1,50000,NULL,ng/ml,2021-06-28
+Shen21,DH1047,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,330,1,50000,NULL,ng/ml,2021-06-28
+Shen21,H4,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,42000,1,50000,NULL,ng/ml,2021-06-28
+Shen21,P2B-2F6,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,1600,1,50000,NULL,ng/ml,2021-06-28
+Shen21,S309,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,380,1,50000,NULL,ng/ml,2021-06-28
+Shen21,Mod_Ser_1,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,179,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_13,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,67,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_30,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,206,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_38,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,29,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_46,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,43,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_5,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,41,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_67,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,23,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_71,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,61,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_76,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,35,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_85,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,33,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_92,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,42,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_20,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,444,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_21,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1458,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_22,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,971,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_24,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,781,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_36,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1590,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_37,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1432,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_39,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,806,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_40,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,941,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_41,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,3970,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_47,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1627,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_49,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1185,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_54,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,820,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_57,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,4174,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_58,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,521,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_63,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,677,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_65,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1815,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_66,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,273,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_68,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,457,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_69,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,4998,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_73,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,535,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_74,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,2184,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_77,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,248,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_8,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1616,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_81,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,972,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_83,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,2221,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_84,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,477,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_88,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,602,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_91,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,698,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_94,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,759,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_10,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,928,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_11,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,517,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_18,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,961,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_25,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,5268,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_28,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,97,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_29,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1037,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_31,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1136,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_34,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,109,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_35,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,865,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_4,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,4367,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_42,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,247,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_43,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,366,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_45,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,78,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_48,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,20,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_56,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,5761,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_59,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,3032,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_61,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,184,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_62,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,254,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_7,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,346,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_70,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,620,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_72,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,380,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_75,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,188,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_78,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,279,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_80,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,367,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_86,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1246,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_9,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,63,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_90,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,2726,1,1562500,20,NULL,2021-01-28
+Shen21,NVV_Ser_93,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,726,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_12,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,924,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_16,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,2183,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_26,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,107,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_3,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,325,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_32,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,89,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_44,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,120,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_50,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,4428,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_51,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,241,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_52,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,886,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_53,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,130,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_55,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,237,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_6,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1235,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_82,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,1402,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_87,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,20927,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_89,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,50,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_14,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,2833,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_15,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,355,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_17,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1604,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_19,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,424,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_2,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,4994,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_23,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,269,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_27,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1224,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_33,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,2093,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_60,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1231,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_64,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,2467,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_79,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,2054,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_12,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,411,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_16,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,4267,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_26,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,166,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_3,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,523,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_32,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,95,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_44,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,50,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_50,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,3131,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_51,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,227,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_52,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,995,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_53,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,73,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_55,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,412,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_6,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,897,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_82,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,589,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_87,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,4343,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_89,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,62,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_14,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,3222,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_15,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,488,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_17,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,1887,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_19,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,876,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_2,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,7422,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_23,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,751,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_27,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,2471,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_33,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,3960,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_60,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,2896,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_64,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,3937,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_79,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,4695,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_12,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,1244,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_16,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,5893,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_26,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,217,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_3,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,1975,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_32,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,416,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_44,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,162,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_50,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,4329,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_51,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,222,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_52,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,1370,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_53,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,194,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_55,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,676,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_6,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,1486,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_82,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,1313,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_87,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,16608,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_89,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT50,127,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_14,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,2847,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_15,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,410,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_17,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1403,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_19,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,610,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_2,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,7313,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_23,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,151,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_27,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1804,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_33,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,3255,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_60,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1261,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_64,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,5884,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_79,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,2647,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_12,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,2185,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_16,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,7441,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_26,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,197,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_3,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1455,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_32,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,225,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_44,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,128,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_50,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,6432,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_51,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,238,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_52,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1516,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_53,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,195,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_55,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,459,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_6,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,923,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_82,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,1755,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_87,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,21193,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_89,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT50,101,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_14,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,1572,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_15,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,278,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_17,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,938,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_19,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,742,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_2,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,4508,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_23,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,205,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_27,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,1365,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_33,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,1944,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_60,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,890,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_64,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,2865,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_79,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,2663,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_12,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,183,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_16,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,4908,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_26,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,103,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_3,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,716,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_32,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,160,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_44,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,115,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_50,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,737,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_51,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,151,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_52,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,994,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_53,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,101,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_55,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,518,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_6,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,901,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_82,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,343,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_87,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,8702,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_89,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT50,78,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_14,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,1312,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_15,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,143,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_17,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,867,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_19,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,548,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_2,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,6677,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_23,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,147,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_27,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,1603,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_33,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,1401,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_60,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,1059,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_64,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,4566,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_79,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,2707,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_12,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,688,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_16,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,4346,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_26,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,145,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_3,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,736,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_32,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,88,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_44,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,90,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_50,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,2782,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_51,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,179,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_52,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,822,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_53,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,119,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_55,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,371,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_6,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,1321,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_82,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,1085,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_87,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,6025,1,1562500,20,NULL,2021-01-28
+Shen21,CP_Ser_89,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT50,78,1,1562500,20,NULL,2021-01-28
+Shen21,Mod_Ser_1,S:614G,Table S1,Pseudovirus (lentivirus),NT50,402,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_13,S:614G,Table S1,Pseudovirus (lentivirus),NT50,187,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_30,S:614G,Table S1,Pseudovirus (lentivirus),NT50,280,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_38,S:614G,Table S1,Pseudovirus (lentivirus),NT50,196,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_46,S:614G,Table S1,Pseudovirus (lentivirus),NT50,164,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_5,S:614G,Table S1,Pseudovirus (lentivirus),NT50,178,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_67,S:614G,Table S1,Pseudovirus (lentivirus),NT50,94,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_71,S:614G,Table S1,Pseudovirus (lentivirus),NT50,319,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_76,S:614G,Table S1,Pseudovirus (lentivirus),NT50,124,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_85,S:614G,Table S1,Pseudovirus (lentivirus),NT50,105,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_92,S:614G,Table S1,Pseudovirus (lentivirus),NT50,93,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_20,S:614G,Table S1,Pseudovirus (lentivirus),NT50,926,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_21,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2299,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_22,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1248,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_24,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1587,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_36,S:614G,Table S1,Pseudovirus (lentivirus),NT50,4148,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_37,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1758,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_39,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2216,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_40,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2453,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_41,S:614G,Table S1,Pseudovirus (lentivirus),NT50,4654,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_47,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1743,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_49,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2528,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_54,S:614G,Table S1,Pseudovirus (lentivirus),NT50,3005,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_57,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1500,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_58,S:614G,Table S1,Pseudovirus (lentivirus),NT50,875,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_63,S:614G,Table S1,Pseudovirus (lentivirus),NT50,5834,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_65,S:614G,Table S1,Pseudovirus (lentivirus),NT50,3572,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_66,S:614G,Table S1,Pseudovirus (lentivirus),NT50,444,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_68,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1750,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_69,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2340,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_73,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1134,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_74,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1795,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_77,S:614G,Table S1,Pseudovirus (lentivirus),NT50,443,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_8,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1999,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_81,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1927,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_83,S:614G,Table S1,Pseudovirus (lentivirus),NT50,4667,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_84,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1204,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_88,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1023,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_91,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1230,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_94,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1993,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_14,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1598,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_15,S:614G,Table S1,Pseudovirus (lentivirus),NT50,204,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_17,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1149,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_19,S:614G,Table S1,Pseudovirus (lentivirus),NT50,534,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_2,S:614G,Table S1,Pseudovirus (lentivirus),NT50,3831,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_23,S:614G,Table S1,Pseudovirus (lentivirus),NT50,201,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_27,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1753,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_33,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1538,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_60,S:614G,Table S1,Pseudovirus (lentivirus),NT50,883,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_64,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2763,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_79,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2349,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_10,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2886,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_11,S:614G,Table S1,Pseudovirus (lentivirus),NT50,982,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_18,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1830,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_25,S:614G,Table S1,Pseudovirus (lentivirus),NT50,4501,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_28,S:614G,Table S1,Pseudovirus (lentivirus),NT50,285,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_29,S:614G,Table S1,Pseudovirus (lentivirus),NT50,3464,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_31,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1191,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_34,S:614G,Table S1,Pseudovirus (lentivirus),NT50,470,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_35,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1786,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_4,S:614G,Table S1,Pseudovirus (lentivirus),NT50,10107,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_42,S:614G,Table S1,Pseudovirus (lentivirus),NT50,967,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_43,S:614G,Table S1,Pseudovirus (lentivirus),NT50,756,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_45,S:614G,Table S1,Pseudovirus (lentivirus),NT50,203,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_48,S:614G,Table S1,Pseudovirus (lentivirus),NT50,465,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_56,S:614G,Table S1,Pseudovirus (lentivirus),NT50,6200,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_59,S:614G,Table S1,Pseudovirus (lentivirus),NT50,8757,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_61,S:614G,Table S1,Pseudovirus (lentivirus),NT50,471,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_62,S:614G,Table S1,Pseudovirus (lentivirus),NT50,454,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_7,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1502,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_70,S:614G,Table S1,Pseudovirus (lentivirus),NT50,667,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_72,S:614G,Table S1,Pseudovirus (lentivirus),NT50,420,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_75,S:614G,Table S1,Pseudovirus (lentivirus),NT50,410,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_78,S:614G,Table S1,Pseudovirus (lentivirus),NT50,912,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_80,S:614G,Table S1,Pseudovirus (lentivirus),NT50,571,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_86,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1850,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_9,S:614G,Table S1,Pseudovirus (lentivirus),NT50,231,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_90,S:614G,Table S1,Pseudovirus (lentivirus),NT50,2460,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_93,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1293,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_12,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1326,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_16,S:614G,Table S1,Pseudovirus (lentivirus),NT50,4353,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_26,S:614G,Table S1,Pseudovirus (lentivirus),NT50,191,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_3,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1238,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_32,S:614G,Table S1,Pseudovirus (lentivirus),NT50,455,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_44,S:614G,Table S1,Pseudovirus (lentivirus),NT50,180,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_50,S:614G,Table S1,Pseudovirus (lentivirus),NT50,4291,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_51,S:614G,Table S1,Pseudovirus (lentivirus),NT50,200,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_52,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1105,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_53,S:614G,Table S1,Pseudovirus (lentivirus),NT50,214,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_55,S:614G,Table S1,Pseudovirus (lentivirus),NT50,306,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_6,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1974,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_82,S:614G,Table S1,Pseudovirus (lentivirus),NT50,1463,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_87,S:614G,Table S1,Pseudovirus (lentivirus),NT50,14986,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_89,S:614G,Table S1,Pseudovirus (lentivirus),NT50,95,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_1,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,58,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_13,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,29,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_30,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,42,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_38,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,20,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_46,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,20,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_5,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,20,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_67,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,20,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_71,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,26,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_76,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,20,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_85,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,20,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_92,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,20,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_20,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,159,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_21,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,346,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_22,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,284,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_24,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,178,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_36,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,427,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_37,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,287,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_39,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,228,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_40,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,193,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_41,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,730,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_47,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,620,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_49,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,257,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_54,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,240,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_57,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,263,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_58,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,178,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_63,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,190,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_65,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,317,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_66,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,103,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_68,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,146,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_69,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,400,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_73,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,155,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_74,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,316,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_77,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,82,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_8,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,420,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_81,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,327,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_83,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,620,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_84,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,132,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_88,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,186,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_91,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,221,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_94,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,191,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_10,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,219,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_11,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,147,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_18,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,233,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_25,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,1097,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_28,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,32,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_29,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,242,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_31,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,258,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_34,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,37,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_35,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,180,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_4,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,976,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_42,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,66,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_43,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,136,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_45,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,26,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_48,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,20,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_56,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,757,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_59,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,683,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_61,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,40,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_62,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,102,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_7,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,76,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_70,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,166,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_72,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,112,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_75,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,45,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_78,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,119,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_80,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,134,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_86,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,254,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_9,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,25,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_90,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,381,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_93,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,207,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_12,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,155,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_16,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,702,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_26,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,36,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_3,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,90,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_32,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,26,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_44,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,27,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_50,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,712,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_51,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,81,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_52,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,195,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_53,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,34,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_55,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,106,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_6,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,385,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_82,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,365,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_87,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,921,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_89,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT80,25,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_14,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,426,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_15,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,85,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_17,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,347,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_19,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,105,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_2,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,1098,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_23,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,42,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_27,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,247,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_33,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,598,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_60,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,233,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_64,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,772,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_79,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,656,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_12,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,128,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_16,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,813,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_26,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,45,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_3,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,107,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_32,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,30,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_44,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,22,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_50,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,534,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_51,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,60,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_52,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,194,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_53,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,24,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_55,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,132,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_6,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,296,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_82,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,153,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_87,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,824,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_89,S:501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,27,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_14,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,724,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_15,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,122,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_17,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,616,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_19,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,224,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_2,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,2564,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_23,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,134,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_27,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,617,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_33,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,1002,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_60,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,499,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_64,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,1180,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_79,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,956,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_12,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,301,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_16,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,1546,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_26,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,60,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_3,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,342,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_32,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,72,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_44,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,41,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_50,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,977,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_51,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,106,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_52,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,326,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_53,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,46,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_55,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,178,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_6,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,531,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_82,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,380,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_87,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,2813,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_89,S:69del+70del+614G,Table S1,Pseudovirus (lentivirus),NT80,40,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_14,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,475,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_15,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,89,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_17,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,604,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_19,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,116,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_2,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,1928,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_23,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,36,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_27,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,407,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_33,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,585,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_60,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,289,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_64,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,1377,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_79,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,819,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_12,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,266,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_16,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,1857,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_26,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,46,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_3,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,287,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_32,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,48,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_44,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,32,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_50,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,1299,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_51,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,70,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_52,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,319,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_53,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,43,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_55,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,155,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_6,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,294,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_82,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,219,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_87,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,2255,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_89,S:69del+70del+501Y+614G,Table S1,Pseudovirus (lentivirus),NT80,34,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_14,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,441,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_15,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,46,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_17,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,219,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_19,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,171,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_2,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,1293,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_23,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,43,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_27,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,351,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_33,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,631,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_60,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,234,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_64,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,866,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_79,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,750,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_12,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,58,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_16,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,1175,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_26,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,37,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_3,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,166,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_32,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,33,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_44,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,30,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_50,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,187,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_51,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,53,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_52,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,215,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_53,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,28,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_55,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,149,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_6,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,242,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_82,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,122,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_87,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,987,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_89,S:69del+70del+453F+614G,Table S1,Pseudovirus (lentivirus),NT80,31,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_14,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,551,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_15,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,52,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_17,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,178,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_19,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,115,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_2,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,1308,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_23,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,40,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_27,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,604,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_33,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,481,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_60,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,334,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_64,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,1207,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_79,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,678,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_12,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,151,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_16,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,705,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_26,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,40,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_3,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,192,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_32,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,26,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_44,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,30,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_50,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,523,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_51,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,85,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_52,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,185,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_53,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,32,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_55,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,110,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_6,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,301,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_82,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,263,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_87,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,522,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_89,S:439K+614G,Table S1,Pseudovirus (lentivirus),NT80,28,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_1,S:614G,Table S1,Pseudovirus (lentivirus),NT80,76,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_13,S:614G,Table S1,Pseudovirus (lentivirus),NT80,53,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_30,S:614G,Table S1,Pseudovirus (lentivirus),NT80,38,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_38,S:614G,Table S1,Pseudovirus (lentivirus),NT80,39,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_46,S:614G,Table S1,Pseudovirus (lentivirus),NT80,39,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_5,S:614G,Table S1,Pseudovirus (lentivirus),NT80,38,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_67,S:614G,Table S1,Pseudovirus (lentivirus),NT80,21,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_71,S:614G,Table S1,Pseudovirus (lentivirus),NT80,61,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_76,S:614G,Table S1,Pseudovirus (lentivirus),NT80,30,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_85,S:614G,Table S1,Pseudovirus (lentivirus),NT80,35,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_92,S:614G,Table S1,Pseudovirus (lentivirus),NT80,29,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_20,S:614G,Table S1,Pseudovirus (lentivirus),NT80,217,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_21,S:614G,Table S1,Pseudovirus (lentivirus),NT80,779,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_22,S:614G,Table S1,Pseudovirus (lentivirus),NT80,443,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_24,S:614G,Table S1,Pseudovirus (lentivirus),NT80,370,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_36,S:614G,Table S1,Pseudovirus (lentivirus),NT80,787,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_37,S:614G,Table S1,Pseudovirus (lentivirus),NT80,357,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_39,S:614G,Table S1,Pseudovirus (lentivirus),NT80,443,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_40,S:614G,Table S1,Pseudovirus (lentivirus),NT80,333,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_41,S:614G,Table S1,Pseudovirus (lentivirus),NT80,991,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_47,S:614G,Table S1,Pseudovirus (lentivirus),NT80,685,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_49,S:614G,Table S1,Pseudovirus (lentivirus),NT80,623,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_54,S:614G,Table S1,Pseudovirus (lentivirus),NT80,775,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_57,S:614G,Table S1,Pseudovirus (lentivirus),NT80,389,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_58,S:614G,Table S1,Pseudovirus (lentivirus),NT80,234,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_63,S:614G,Table S1,Pseudovirus (lentivirus),NT80,435,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_65,S:614G,Table S1,Pseudovirus (lentivirus),NT80,518,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_66,S:614G,Table S1,Pseudovirus (lentivirus),NT80,163,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_68,S:614G,Table S1,Pseudovirus (lentivirus),NT80,475,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_69,S:614G,Table S1,Pseudovirus (lentivirus),NT80,653,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_73,S:614G,Table S1,Pseudovirus (lentivirus),NT80,220,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_74,S:614G,Table S1,Pseudovirus (lentivirus),NT80,537,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_77,S:614G,Table S1,Pseudovirus (lentivirus),NT80,128,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_8,S:614G,Table S1,Pseudovirus (lentivirus),NT80,679,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_81,S:614G,Table S1,Pseudovirus (lentivirus),NT80,686,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_83,S:614G,Table S1,Pseudovirus (lentivirus),NT80,799,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_84,S:614G,Table S1,Pseudovirus (lentivirus),NT80,231,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_88,S:614G,Table S1,Pseudovirus (lentivirus),NT80,321,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_91,S:614G,Table S1,Pseudovirus (lentivirus),NT80,470,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_94,S:614G,Table S1,Pseudovirus (lentivirus),NT80,337,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_14,S:614G,Table S1,Pseudovirus (lentivirus),NT80,539,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_15,S:614G,Table S1,Pseudovirus (lentivirus),NT80,55,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_17,S:614G,Table S1,Pseudovirus (lentivirus),NT80,250,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_19,S:614G,Table S1,Pseudovirus (lentivirus),NT80,144,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_2,S:614G,Table S1,Pseudovirus (lentivirus),NT80,1051,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_23,S:614G,Table S1,Pseudovirus (lentivirus),NT80,59,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_27,S:614G,Table S1,Pseudovirus (lentivirus),NT80,485,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_33,S:614G,Table S1,Pseudovirus (lentivirus),NT80,453,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_60,S:614G,Table S1,Pseudovirus (lentivirus),NT80,242,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_64,S:614G,Table S1,Pseudovirus (lentivirus),NT80,874,1,1562500,20,NULL,2021-06-28
+Shen21,Mod_Ser_79,S:614G,Table S1,Pseudovirus (lentivirus),NT80,800,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_10,S:614G,Table S1,Pseudovirus (lentivirus),NT80,716,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_11,S:614G,Table S1,Pseudovirus (lentivirus),NT80,233,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_18,S:614G,Table S1,Pseudovirus (lentivirus),NT80,362,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_25,S:614G,Table S1,Pseudovirus (lentivirus),NT80,976,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_28,S:614G,Table S1,Pseudovirus (lentivirus),NT80,59,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_29,S:614G,Table S1,Pseudovirus (lentivirus),NT80,745,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_31,S:614G,Table S1,Pseudovirus (lentivirus),NT80,291,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_34,S:614G,Table S1,Pseudovirus (lentivirus),NT80,105,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_35,S:614G,Table S1,Pseudovirus (lentivirus),NT80,540,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_4,S:614G,Table S1,Pseudovirus (lentivirus),NT80,1679,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_42,S:614G,Table S1,Pseudovirus (lentivirus),NT80,185,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_43,S:614G,Table S1,Pseudovirus (lentivirus),NT80,184,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_45,S:614G,Table S1,Pseudovirus (lentivirus),NT80,43,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_48,S:614G,Table S1,Pseudovirus (lentivirus),NT80,42,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_56,S:614G,Table S1,Pseudovirus (lentivirus),NT80,1170,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_59,S:614G,Table S1,Pseudovirus (lentivirus),NT80,1098,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_61,S:614G,Table S1,Pseudovirus (lentivirus),NT80,105,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_62,S:614G,Table S1,Pseudovirus (lentivirus),NT80,147,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_7,S:614G,Table S1,Pseudovirus (lentivirus),NT80,297,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_70,S:614G,Table S1,Pseudovirus (lentivirus),NT80,182,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_72,S:614G,Table S1,Pseudovirus (lentivirus),NT80,162,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_75,S:614G,Table S1,Pseudovirus (lentivirus),NT80,116,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_78,S:614G,Table S1,Pseudovirus (lentivirus),NT80,183,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_80,S:614G,Table S1,Pseudovirus (lentivirus),NT80,173,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_86,S:614G,Table S1,Pseudovirus (lentivirus),NT80,542,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_9,S:614G,Table S1,Pseudovirus (lentivirus),NT80,45,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_90,S:614G,Table S1,Pseudovirus (lentivirus),NT80,689,1,1562500,20,NULL,2021-06-28
+Shen21,NVV_Ser_93,S:614G,Table S1,Pseudovirus (lentivirus),NT80,393,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_12,S:614G,Table S1,Pseudovirus (lentivirus),NT80,291,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_16,S:614G,Table S1,Pseudovirus (lentivirus),NT80,1050,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_26,S:614G,Table S1,Pseudovirus (lentivirus),NT80,44,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_3,S:614G,Table S1,Pseudovirus (lentivirus),NT80,300,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_32,S:614G,Table S1,Pseudovirus (lentivirus),NT80,49,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_44,S:614G,Table S1,Pseudovirus (lentivirus),NT80,42,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_50,S:614G,Table S1,Pseudovirus (lentivirus),NT80,1217,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_51,S:614G,Table S1,Pseudovirus (lentivirus),NT80,60,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_52,S:614G,Table S1,Pseudovirus (lentivirus),NT80,218,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_53,S:614G,Table S1,Pseudovirus (lentivirus),NT80,43,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_55,S:614G,Table S1,Pseudovirus (lentivirus),NT80,137,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_6,S:614G,Table S1,Pseudovirus (lentivirus),NT80,569,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_82,S:614G,Table S1,Pseudovirus (lentivirus),NT80,501,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_87,S:614G,Table S1,Pseudovirus (lentivirus),NT80,2653,1,1562500,20,NULL,2021-06-28
+Shen21,CP_Ser_89,S:614G,Table S1,Pseudovirus (lentivirus),NT80,35,1,1562500,20,NULL,2021-06-28

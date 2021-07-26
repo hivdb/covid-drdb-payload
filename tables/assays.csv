@@ -1,8 +1,9 @@
 assay_name,virus_type
-pseudovirus,pseudovirus
-vsv pseudovirus,pseudovirus
-lentivirus pseudovirus,pseudovirus
-HIV pseudovirus,pseudovirus
-authentic virus,live-virus
-chimeric virus,live-virus
-MLV pseudovirus,pseudovirus
+Pseudovirus,pseudovirus
+Pseudovirus (VSV),pseudovirus
+Pseudovirus (lentivirus),pseudovirus
+Pseudovirus (HIV),pseudovirus
+Virus isolate,live-virus
+SARS-CoV-2 recombinant,live-virus
+Pseudovirus (MLV),pseudovirus
+VSV chimeric virus,chimeric-virus

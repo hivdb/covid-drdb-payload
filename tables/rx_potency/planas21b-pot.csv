@@ -1,471 +1,471 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Planas21b,Bamlanivimab,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.15293848,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Bamlanivimab,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.15293848,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Bamlanivimab,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Bamlanivimab,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Etesevimab,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,1.15451937,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Etesevimab,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,39.3412132,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Etesevimab,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.94991912,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Etesevimab,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Casirivimab,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Casirivimab,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Casirivimab,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,398.298525,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Casirivimab,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Imdevimab,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Imdevimab,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Imdevimab,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,Imdevimab,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-109,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,1.21071021,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-109,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,0.49675741,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-109,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,242.760921,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-109,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,1.43720191,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-98,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,4.12328974,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-98,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,64.1784212,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-98,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-98,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,1.37525706,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-85,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,129.313862,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-85,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,12.2875689,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-85,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,1309.27031,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-85,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-48,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,8.1711388,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-48,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,885.868322,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-48,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,RBD-48,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,4.07873956,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,NTD-18,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,2352.69295,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,NTD-18,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,470.601779,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,NTD-18,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,NTD-18,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",authentic virus,IC50,319.539835,1,10000,0.1,ng/ml,2021-07-13
-Planas21b,CP_Orleans_G1_1,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1233.11847,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_2,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1383.17654,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_3,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,624.559456,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_4,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,3623.10724,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_5,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,72.9889949,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_6,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1537.86571,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_7,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,45.7000515,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_8,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,843.388761,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_9,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1471.41969,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_10,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1190.29597,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_11,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,474.943508,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_12,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1070.56776,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_13,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,587.109621,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_14,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1484.47516,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_15,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_16,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,144.108102,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_17,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2636.08122,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_18,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,700.576101,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_19,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1969.4722,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_20,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,3786.71866,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_21,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2544.56358,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_22,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,4681.06467,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_23,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,12815.3381,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_24,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,652.769716,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_25,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_1,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2659.47038,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_2,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,843.388761,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_3,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,700.576101,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_4,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1635.97764,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_5,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,5068.4636,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_6,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,873.722037,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_7,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,778.925854,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_8,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,4400.3345,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_9,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1787.08588,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_10,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,835.963046,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_11,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,613.628338,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_12,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,4064.04362,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_13,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,523.415267,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_14,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,613.628338,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_15,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,300.008302,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_16,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1335.15637,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_17,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1015.30363,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_18,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_19,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,17927.5462,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_20,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,82.599094,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_21,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,208.845278,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_22,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2456.22319,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_23,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,370.864167,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_24,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,4361.63502,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_25,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,44.113026,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_26,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1006.37438,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_27,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_28,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,921.279718,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_29,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2659.47038,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_30,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2612.89776,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_31,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1277.46874,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_32,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,706.792103,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_33,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2636.08122,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_34,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_35,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,104.849411,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_36,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,226.129046,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_37,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2040.30614,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_38,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,3820.31708,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_39,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_40,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_41,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_42,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,145.38527,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_43,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,310.798385,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_44,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,5113.38322,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_45,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,194.595906,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_46,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_47,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,300.008302,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_48,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,772.07546,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_49,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1755.79046,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_50,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2350.07443,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_51,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,74.2907056,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_52,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,91.8366608,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_53,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1771.35128,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_54,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,103.926252,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_55,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1190.29597,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_56,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1621.58976,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_1,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,72.9889949,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_2,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,128.472811,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_3,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,114.532752,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_4,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1679.91178,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_5,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_6,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,556.802244,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_7,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_8,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,430.960558,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_9,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,310.798385,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_10,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1986.92679,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_11,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,427.166115,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_12,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1233.11847,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_13,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_14,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1244.04707,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_15,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_16,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_17,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,208.845278,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_18,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,182.92571,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_19,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,394.5204,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_20,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,954.414416,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_21,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,78.3344329,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_22,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,103.926252,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_23,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,224.140316,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_24,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,3258.63734,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G1_25,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_1,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,652.769716,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_2,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,146.67523,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_3,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,212.567762,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_4,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,608.231681,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_5,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,806.94066,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_6,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,364.365941,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_7,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,201.594732,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_8,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,921.279718,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_9,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,921.279718,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_10,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,163.078827,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_11,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,269.831391,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_12,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1787.08588,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_13,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,71.0801398,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_14,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,587.109621,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_15,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,210.700415,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_16,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,289.589914,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_17,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,160.222992,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_18,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_19,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,4361.63502,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_20,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,33.8428577,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_21,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,387.611563,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_22,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,454.41823,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_23,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,198.064408,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_24,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1179.82771,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_25,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_26,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,528.059374,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_27,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_28,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,230.159598,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_29,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,216.358768,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_30,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,571.755152,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_31,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,532.739338,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_32,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,330.623214,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_33,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,505.238627,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_34,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_35,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,113.526614,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_36,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,71.7115323,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_37,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,89.4339916,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_38,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1510.93463,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_39,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_40,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_41,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_42,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,137.88029,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_43,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,34.7517067,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_44,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1118.92344,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_45,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,64.4982902,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_46,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_47,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,87.8678246,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_48,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,297.369828,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_49,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,408.7097,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_50,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,310.798385,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_51,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,38.2983945,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_52,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,71.7115323,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_53,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,442.533992,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_54,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,24.8416819,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_55,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,163.078827,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Orleans_G2_56,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",authentic virus,NT50,374.154733,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_1,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_2,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,42.977981,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_3,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,101.525372,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_4,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,175.871526,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_5,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,48.6549809,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_6,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,58.0903988,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_7,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,239.827386,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_8,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,36.6413901,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_9,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,64.6081148,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_10,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,163.834588,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_11,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,487.301988,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_12,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,90.4769992,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_13,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,726.089155,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_14,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,133.624183,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_15,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,146.005491,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_16,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,7737.43611,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_17,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,185.475645,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_18,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_19,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1730.44989,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_20,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,504.883239,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_21,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,169.745536,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_22,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_23,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,793.366899,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_24,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,58.0903988,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_25,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,652.834112,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_26,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,327.044173,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_27,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,56.5661317,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_1,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_2,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_3,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,31.797433,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_4,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,32.9446449,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_5,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_6,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_7,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_8,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_9,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_10,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_11,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,96.26731,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_12,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_13,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,315.652509,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_14,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,42.977981,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_15,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,60.7220494,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_16,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,851.655622,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_17,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_18,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_19,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,310.106351,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_20,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,88.8881776,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_21,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,35.6799358,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_22,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_23,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,107.069543,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_24,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_25,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,125.586921,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_26,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,61.2626408,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G1_27,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.4784466,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G2,B.1 full genome,Figure 2a,authentic virus,NT50,70.282673,26,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_G2,B.1.351 full genome,Figure 2a,authentic virus,NT50,28.2132336,26,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_1,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,110927.422,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_2,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,8489.89791,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_3,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,50855.8333,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_4,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,8874.42313,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_5,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2706.53796,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_6,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,12990.5912,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_7,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,8414.72597,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_8,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,6281.03078,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_9,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,5548.16828,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_10,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,31235.0988,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_11,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,44523.3865,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_12,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,40747.3776,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_13,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,41110.14,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_14,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,7302.01128,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_15,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25027.1025,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_16,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,152599.062,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_17,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,8121.21133,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_18,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,8193.42919,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_19,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,36634.8954,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_20,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,18680.6816,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_21,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,22303.1071,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_1,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,11372.573,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_2,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2588.9238,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_3,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,7366.5713,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_4,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,3174.20813,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_5,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,832.675558,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_6,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,5122.2645,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_7,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,3347.47974,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_8,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1048.42031,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_9,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2187.65237,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_10,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,7907.47342,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_11,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,7109.68943,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_12,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,685.152083,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_13,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,2187.58589,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_14,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1197.4374,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_15,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,8716.81768,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_16,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,14066.5943,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_17,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,5121.90131,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_18,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,1676.83658,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_19,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,11073.0399,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_20,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,25.1301132,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G1_21,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",authentic virus,NT50,4899.77284,1,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G2,B.1 full genome,Figure 2a,authentic virus,NT50,3524.39195,21,100000,30,NULL,2021-07-13
-Planas21b,CP_Strasbourg_infect_G2,B.1.351 full genome,Figure 2a,authentic virus,NT50,1042.16767,21,100000,30,NULL,2021-07-13
-Planas21b,BNT_1st_W3,B.1 full genome,Figure 2b,authentic virus,NT50,48.1233324,16,10000,30,NULL,2021-07-13
-Planas21b,BNT_1st_W3,B.1.1.7 full genome,Figure 2b,authentic virus,NT50,12.761008,16,10000,30,NULL,2021-07-13
-Planas21b,BNT_1st_W3,B.1.351 full genome,Figure 2b,authentic virus,NT50,7.22481402,16,10000,30,NULL,2021-07-13
-Planas21b,BNT_1st_W3,B.1.617.2_2029113 full genome,Figure 2b,authentic virus,NT50,7.22481402,16,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_1,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,24.8106539,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_2,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,360.054478,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_3,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,997.914525,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_4,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,301.860985,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_5,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,4183.76993,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_6,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1800.54466,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_7,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,2372.69458,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_8,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,903.268022,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_9,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,740.066602,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_10,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,467.245039,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_11,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,245.431571,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_12,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,190.583225,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_13,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1172.17679,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_14,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,328.414434,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_15,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1172.17679,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_16,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,328.414434,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_1,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,10.0425421,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_2,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,249.222983,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_3,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1119.49955,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_4,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,277.454475,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_5,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1842.43549,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_6,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1532.85237,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_7,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1580.577,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_8,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1028.97513,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_9,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,805.167167,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_10,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,3427.82128,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_11,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,341.246567,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_12,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,504.467295,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_13,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1706.49089,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_14,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,394.742781,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_15,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1974.01241,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_16,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1236.79248,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_1,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,24.8106539,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_2,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,46.5151922,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_3,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,80.7724233,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_4,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,34.4962814,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_5,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,247.321092,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_6,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,251.141693,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_7,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,297.268794,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_8,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,77.1418629,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_9,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,24.8106539,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_10,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,690.731758,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_11,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,57.6498674,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_12,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.44774701,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_13,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,52.5843035,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_14,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,86.5407592,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_15,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,52.5843035,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_16,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,86.5407592,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_1,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.44774701,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_2,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,92.7218488,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_3,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,520.173643,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_4,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,129.911286,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_5,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,717.720712,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_6,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,508.351073,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_7,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,553.068592,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_8,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,196.516942,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_9,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,277.454475,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_10,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1387.48218,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_11,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,109.752036,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_12,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,128.91877,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_13,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,823.892701,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_14,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,210.551135,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_15,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1509.53319,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W8_16,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,882.738437,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_1,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.21788402,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_2,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,82.6364857,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_3,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,324.850922,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_4,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,317.439942,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_5,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,5297.66423,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_6,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,669.325706,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_7,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1571.71073,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_8,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,367.386935,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_9,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,399.816168,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_10,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,2952.88996,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_11,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,139.407875,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_12,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,2952.88996,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_13,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,552.252751,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_1,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.21788402,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_2,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,116.806797,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_3,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,519.301985,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_4,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,307.825444,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_5,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,2776.70254,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_6,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,1645.93959,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_7,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,3164.51586,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_8,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,960.758432,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_9,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,335.000113,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_10,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,5945.46349,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_11,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,106.509749,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_12,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,2512.51403,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_13,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,459.177268,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_1,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.21788402,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_2,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.21788402,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_3,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,15.3364255,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_4,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,17.8863122,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_5,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,74.201496,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_6,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,79.5193232,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_7,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,135.185544,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_8,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,13.5607761,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_9,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.21788402,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_10,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,255.942975,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_11,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,8.2259832,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_12,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,167.667392,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_13,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,56.2564867,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_1,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.21788402,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_2,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,25.674459,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_3,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,163.842315,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_4,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,94.178064,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_5,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,722.829442,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_6,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,259.910388,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_7,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,287.239724,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_8,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,66.1167312,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_9,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,154.066484,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_10,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,762.808323,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_11,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,83.2741398,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_12,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,587.299439,1,10000,30,NULL,2021-07-13
-Planas21b,BNT_2nd_W16_13,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",authentic virus,NT50,231.593382,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_1,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,64.1142134,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_2,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,121.385631,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_3,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,62.171804,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_4,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,36.5709205,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_5,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,69.7741825,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_6,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,97.8698501,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_7,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,79.5193232,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_8,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,35.7369226,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_9,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,58.0140861,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_10,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.79485838,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_11,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,11.2751738,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_12,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,46.7751402,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_1,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,39.1918628,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_2,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,108.160774,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_3,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,58.9128572,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_4,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,47.4997943,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_5,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,175.582931,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_6,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,128.098214,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_7,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,206.35608,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_8,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,17.6129781,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_9,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,67.6585252,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_10,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27338932,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_11,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27338932,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_12,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,45.7068387,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_1,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_2,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,18.4444828,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_3,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_4,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_5,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,36.0117384,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_6,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_7,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_8,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_9,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_10,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_11,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_12,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_1,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_2,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,116.803736,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_3,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_4,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,10.2021335,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_5,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_6,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,9.74212103,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_7,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,14.7573987,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_8,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_9,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,8.1001343,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_10,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_11,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_1st_W10_12,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",authentic virus,NT50,7.27332579,1,10000,30,NULL,2021-07-13
-Planas21b,AZD_2nd_W16,B.1 full genome,Figure 2c,authentic virus,NT50,1097.22678,20,10000,30,NULL,2021-07-13
-Planas21b,AZD_2nd_W16,B.1.1.7 full genome,Figure 2c,authentic virus,NT50,1339.00349,20,10000,30,NULL,2021-07-13
-Planas21b,AZD_2nd_W16,B.1.351 full genome,Figure 2c,authentic virus,NT50,141.854318,20,10000,30,NULL,2021-07-13
-Planas21b,AZD_2nd_W16,B.1.617.2_2029113 full genome,Figure 2c,authentic virus,NT50,272.20194,20,10000,30,NULL,2021-07-13
+Planas21b,Bamlanivimab,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.15293848,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Bamlanivimab,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.15293848,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Bamlanivimab,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Bamlanivimab,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Etesevimab,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,1.15451937,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Etesevimab,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,39.3412132,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Etesevimab,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.94991912,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Etesevimab,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Casirivimab,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Casirivimab,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Casirivimab,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,398.298525,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Casirivimab,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Imdevimab,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Imdevimab,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Imdevimab,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,Imdevimab,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.1,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-109,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,1.21071021,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-109,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,0.49675741,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-109,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,242.760921,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-109,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,1.43720191,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-98,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,4.12328974,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-98,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,64.1784212,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-98,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-98,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,1.37525706,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-85,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,129.313862,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-85,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,12.2875689,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-85,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,1309.27031,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-85,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-48,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,8.1711388,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-48,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,885.868322,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-48,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,RBD-48,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,4.07873956,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,NTD-18,B.1 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,2352.69295,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,NTD-18,B.1.1.7 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,470.601779,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,NTD-18,B.1.351 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,10000,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,NTD-18,B.1.617.2_2029113 full genome,"Fig.1, Extended Data Fig.5, 2021.05.26.445838 Figure 3a",Virus isolate,IC50,319.539835,1,10000,0.1,ng/ml,2021-07-13
+Planas21b,CP_Orleans_G1_1,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1233.11847,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_2,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1383.17654,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_3,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,624.559456,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_4,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,3623.10724,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_5,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,72.9889949,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_6,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1537.86571,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_7,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,45.7000515,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_8,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,843.388761,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_9,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1471.41969,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_10,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1190.29597,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_11,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,474.943508,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_12,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1070.56776,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_13,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,587.109621,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_14,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1484.47516,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_15,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_16,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,144.108102,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_17,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2636.08122,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_18,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,700.576101,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_19,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1969.4722,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_20,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,3786.71866,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_21,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2544.56358,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_22,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,4681.06467,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_23,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,12815.3381,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_24,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,652.769716,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_25,B.1 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_1,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2659.47038,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_2,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,843.388761,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_3,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,700.576101,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_4,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1635.97764,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_5,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,5068.4636,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_6,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,873.722037,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_7,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,778.925854,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_8,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,4400.3345,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_9,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1787.08588,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_10,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,835.963046,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_11,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,613.628338,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_12,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,4064.04362,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_13,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,523.415267,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_14,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,613.628338,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_15,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,300.008302,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_16,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1335.15637,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_17,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1015.30363,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_18,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_19,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,17927.5462,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_20,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,82.599094,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_21,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,208.845278,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_22,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2456.22319,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_23,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,370.864167,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_24,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,4361.63502,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_25,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,44.113026,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_26,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1006.37438,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_27,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_28,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,921.279718,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_29,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2659.47038,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_30,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2612.89776,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_31,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1277.46874,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_32,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,706.792103,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_33,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2636.08122,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_34,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_35,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,104.849411,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_36,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,226.129046,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_37,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2040.30614,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_38,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,3820.31708,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_39,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_40,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_41,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_42,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,145.38527,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_43,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,310.798385,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_44,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,5113.38322,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_45,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,194.595906,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_46,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_47,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,300.008302,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_48,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,772.07546,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_49,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1755.79046,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_50,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2350.07443,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_51,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,74.2907056,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_52,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,91.8366608,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_53,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1771.35128,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_54,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,103.926252,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_55,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1190.29597,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_56,B.1.1.7 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1621.58976,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_1,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,72.9889949,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_2,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,128.472811,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_3,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,114.532752,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_4,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1679.91178,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_5,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_6,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,556.802244,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_7,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_8,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,430.960558,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_9,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,310.798385,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_10,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1986.92679,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_11,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,427.166115,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_12,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1233.11847,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_13,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_14,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1244.04707,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_15,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_16,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_17,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,208.845278,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_18,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,182.92571,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_19,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,394.5204,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_20,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,954.414416,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_21,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,78.3344329,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_22,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,103.926252,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_23,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,224.140316,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_24,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,3258.63734,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G1_25,B.1.351 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_1,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,652.769716,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_2,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,146.67523,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_3,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,212.567762,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_4,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,608.231681,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_5,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,806.94066,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_6,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,364.365941,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_7,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,201.594732,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_8,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,921.279718,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_9,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,921.279718,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_10,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,163.078827,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_11,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,269.831391,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_12,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1787.08588,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_13,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,71.0801398,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_14,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,587.109621,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_15,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,210.700415,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_16,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,289.589914,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_17,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,160.222992,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_18,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_19,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,4361.63502,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_20,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,33.8428577,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_21,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,387.611563,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_22,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,454.41823,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_23,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,198.064408,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_24,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1179.82771,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_25,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_26,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,528.059374,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_27,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_28,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,230.159598,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_29,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,216.358768,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_30,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,571.755152,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_31,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,532.739338,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_32,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,330.623214,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_33,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,505.238627,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_34,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_35,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,113.526614,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_36,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,71.7115323,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_37,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,89.4339916,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_38,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1510.93463,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_39,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_40,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_41,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_42,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,137.88029,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_43,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,34.7517067,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_44,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1118.92344,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_45,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,64.4982902,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_46,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_47,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,87.8678246,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_48,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,297.369828,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_49,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,408.7097,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_50,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,310.798385,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_51,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,38.2983945,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_52,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,71.7115323,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_53,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,442.533992,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_54,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,24.8416819,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_55,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,163.078827,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Orleans_G2_56,B.1.617.2_2029113 full genome,"Extended Data Fig.7, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,374.154733,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_1,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_2,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,42.977981,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_3,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,101.525372,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_4,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,175.871526,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_5,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,48.6549809,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_6,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,58.0903988,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_7,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,239.827386,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_8,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,36.6413901,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_9,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,64.6081148,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_10,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,163.834588,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_11,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,487.301988,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_12,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,90.4769992,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_13,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,726.089155,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_14,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,133.624183,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_15,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,146.005491,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_16,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,7737.43611,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_17,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,185.475645,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_18,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_19,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1730.44989,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_20,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,504.883239,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_21,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,169.745536,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_22,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_23,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,793.366899,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_24,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,58.0903988,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_25,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,652.834112,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_26,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,327.044173,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_27,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,56.5661317,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_1,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_2,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_3,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,31.797433,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_4,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,32.9446449,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_5,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_6,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_7,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_8,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_9,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_10,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_11,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,96.26731,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_12,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_13,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,315.652509,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_14,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,42.977981,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_15,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,60.7220494,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_16,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,851.655622,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_17,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_18,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_19,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,310.106351,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_20,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,88.8881776,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_21,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,35.6799358,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_22,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_23,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,107.069543,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_24,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_25,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,125.586921,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_26,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,61.2626408,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G1_27,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.4784466,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G2,B.1 full genome,Figure 2a,Virus isolate,NT50,70.282673,26,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_G2,B.1.351 full genome,Figure 2a,Virus isolate,NT50,28.2132336,26,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_1,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,110927.422,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_2,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,8489.89791,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_3,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,50855.8333,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_4,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,8874.42313,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_5,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2706.53796,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_6,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,12990.5912,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_7,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,8414.72597,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_8,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,6281.03078,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_9,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,5548.16828,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_10,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,31235.0988,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_11,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,44523.3865,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_12,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,40747.3776,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_13,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,41110.14,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_14,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,7302.01128,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_15,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25027.1025,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_16,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,152599.062,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_17,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,8121.21133,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_18,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,8193.42919,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_19,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,36634.8954,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_20,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,18680.6816,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_21,B.1.1.7 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,22303.1071,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_1,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,11372.573,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_2,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2588.9238,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_3,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,7366.5713,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_4,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,3174.20813,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_5,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,832.675558,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_6,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,5122.2645,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_7,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,3347.47974,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_8,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1048.42031,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_9,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2187.65237,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_10,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,7907.47342,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_11,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,7109.68943,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_12,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,685.152083,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_13,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,2187.58589,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_14,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1197.4374,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_15,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,8716.81768,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_16,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,14066.5943,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_17,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,5121.90131,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_18,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,1676.83658,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_19,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,11073.0399,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_20,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,25.1301132,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G1_21,B.1.617.2_2029113 full genome,"Figure 2a, 2021.05.26.445838 Figure 4a",Virus isolate,NT50,4899.77284,1,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G2,B.1 full genome,Figure 2a,Virus isolate,NT50,3524.39195,21,100000,30,NULL,2021-07-13
+Planas21b,CP_Strasbourg_infect_G2,B.1.351 full genome,Figure 2a,Virus isolate,NT50,1042.16767,21,100000,30,NULL,2021-07-13
+Planas21b,BNT_1st_W3,B.1 full genome,Figure 2b,Virus isolate,NT50,48.1233324,16,10000,30,NULL,2021-07-13
+Planas21b,BNT_1st_W3,B.1.1.7 full genome,Figure 2b,Virus isolate,NT50,12.761008,16,10000,30,NULL,2021-07-13
+Planas21b,BNT_1st_W3,B.1.351 full genome,Figure 2b,Virus isolate,NT50,7.22481402,16,10000,30,NULL,2021-07-13
+Planas21b,BNT_1st_W3,B.1.617.2_2029113 full genome,Figure 2b,Virus isolate,NT50,7.22481402,16,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_1,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,24.8106539,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_2,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,360.054478,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_3,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,997.914525,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_4,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,301.860985,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_5,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,4183.76993,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_6,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1800.54466,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_7,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,2372.69458,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_8,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,903.268022,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_9,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,740.066602,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_10,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,467.245039,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_11,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,245.431571,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_12,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,190.583225,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_13,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1172.17679,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_14,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,328.414434,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_15,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1172.17679,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_16,B.1 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,328.414434,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_1,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,10.0425421,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_2,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,249.222983,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_3,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1119.49955,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_4,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,277.454475,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_5,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1842.43549,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_6,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1532.85237,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_7,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1580.577,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_8,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1028.97513,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_9,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,805.167167,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_10,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,3427.82128,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_11,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,341.246567,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_12,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,504.467295,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_13,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1706.49089,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_14,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,394.742781,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_15,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1974.01241,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_16,B.1.1.7 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1236.79248,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_1,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,24.8106539,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_2,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,46.5151922,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_3,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,80.7724233,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_4,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,34.4962814,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_5,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,247.321092,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_6,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,251.141693,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_7,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,297.268794,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_8,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,77.1418629,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_9,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,24.8106539,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_10,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,690.731758,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_11,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,57.6498674,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_12,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.44774701,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_13,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,52.5843035,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_14,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,86.5407592,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_15,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,52.5843035,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_16,B.1.351 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,86.5407592,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_1,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.44774701,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_2,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,92.7218488,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_3,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,520.173643,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_4,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,129.911286,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_5,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,717.720712,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_6,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,508.351073,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_7,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,553.068592,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_8,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,196.516942,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_9,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,277.454475,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_10,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1387.48218,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_11,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,109.752036,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_12,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,128.91877,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_13,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,823.892701,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_14,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,210.551135,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_15,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1509.53319,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W8_16,B.1.617.2_2029113 full genome,"Figure 2b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,882.738437,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_1,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.21788402,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_2,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,82.6364857,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_3,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,324.850922,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_4,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,317.439942,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_5,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,5297.66423,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_6,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,669.325706,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_7,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1571.71073,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_8,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,367.386935,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_9,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,399.816168,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_10,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,2952.88996,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_11,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,139.407875,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_12,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,2952.88996,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_13,B.1 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,552.252751,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_1,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.21788402,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_2,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,116.806797,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_3,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,519.301985,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_4,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,307.825444,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_5,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,2776.70254,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_6,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,1645.93959,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_7,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,3164.51586,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_8,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,960.758432,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_9,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,335.000113,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_10,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,5945.46349,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_11,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,106.509749,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_12,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,2512.51403,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_13,B.1.1.7 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,459.177268,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_1,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.21788402,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_2,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.21788402,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_3,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,15.3364255,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_4,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,17.8863122,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_5,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,74.201496,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_6,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,79.5193232,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_7,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,135.185544,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_8,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,13.5607761,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_9,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.21788402,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_10,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,255.942975,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_11,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,8.2259832,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_12,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,167.667392,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_13,B.1.351 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,56.2564867,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_1,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.21788402,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_2,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,25.674459,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_3,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,163.842315,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_4,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,94.178064,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_5,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,722.829442,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_6,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,259.910388,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_7,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,287.239724,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_8,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,66.1167312,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_9,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,154.066484,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_10,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,762.808323,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_11,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,83.2741398,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_12,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,587.299439,1,10000,30,NULL,2021-07-13
+Planas21b,BNT_2nd_W16_13,B.1.617.2_2029113 full genome,"Extended Data Fig. 7b, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,231.593382,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_1,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,64.1142134,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_2,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,121.385631,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_3,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,62.171804,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_4,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,36.5709205,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_5,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,69.7741825,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_6,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,97.8698501,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_7,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,79.5193232,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_8,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,35.7369226,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_9,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,58.0140861,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_10,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.79485838,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_11,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,11.2751738,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_12,B.1 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,46.7751402,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_1,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,39.1918628,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_2,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,108.160774,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_3,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,58.9128572,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_4,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,47.4997943,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_5,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,175.582931,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_6,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,128.098214,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_7,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,206.35608,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_8,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,17.6129781,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_9,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,67.6585252,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_10,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27338932,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_11,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27338932,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_12,B.1.1.7 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,45.7068387,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_1,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_2,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,18.4444828,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_3,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_4,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_5,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,36.0117384,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_6,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_7,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_8,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_9,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_10,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_11,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_12,B.1.351 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_1,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_2,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,116.803736,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_3,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_4,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,10.2021335,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_5,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_6,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,9.74212103,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_7,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,14.7573987,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_8,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_9,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,8.1001343,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_10,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_11,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_1st_W10_12,B.1.617.2_2029113 full genome,"Figure 2c, 2021.05.26.445838 Figure 4c",Virus isolate,NT50,7.27332579,1,10000,30,NULL,2021-07-13
+Planas21b,AZD_2nd_W16,B.1 full genome,Figure 2c,Virus isolate,NT50,1097.22678,20,10000,30,NULL,2021-07-13
+Planas21b,AZD_2nd_W16,B.1.1.7 full genome,Figure 2c,Virus isolate,NT50,1339.00349,20,10000,30,NULL,2021-07-13
+Planas21b,AZD_2nd_W16,B.1.351 full genome,Figure 2c,Virus isolate,NT50,141.854318,20,10000,30,NULL,2021-07-13
+Planas21b,AZD_2nd_W16,B.1.617.2_2029113 full genome,Figure 2c,Virus isolate,NT50,272.20194,20,10000,30,NULL,2021-07-13

@@ -1,49 +1,49 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Yao21,Etesevimab,Wuhan-Hu-1,Figure 3; Table 1,MLV pseudovirus,IC50,100.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,Wuhan-Hu-1,Figure 3; Table 1,MLV pseudovirus,IC50,6.4,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,Wuhan-Hu-1,Figure 3; Table 1,MLV pseudovirus,IC50,6.4,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:69del+70del+439K,Figure 3; Table 1,MLV pseudovirus,IC50,65.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:69del+70del+439K,Figure 3; Table 1,MLV pseudovirus,IC50,15.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:69del+70del+439K,Figure 3; Table 1,MLV pseudovirus,IC50,22.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:69del+70del+453F,Figure 3; Table 1,MLV pseudovirus,IC50,300.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:69del+70del+453F,Figure 3; Table 1,MLV pseudovirus,IC50,1600.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:69del+70del+453F,Figure 3; Table 1,MLV pseudovirus,IC50,15.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:69del+70del+453F+486L+501T+1229I,Figure 3; Table 1,MLV pseudovirus,IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:69del+70del+453F+486L+501T+1229I,Figure 3; Table 1,MLV pseudovirus,IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:69del+70del+453F+486L+501T+1229I,Figure 3; Table 1,MLV pseudovirus,IC50,20.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:69del+70del+501Y,Figure 3; Table 1,MLV pseudovirus,IC50,2200.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:69del+70del+501Y,Figure 3; Table 1,MLV pseudovirus,IC50,25.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:69del+70del+501Y,Figure 3; Table 1,MLV pseudovirus,IC50,16.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:501Y,Figure 3; Table 1,MLV pseudovirus,IC50,2000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:501Y,Figure 3; Table 1,MLV pseudovirus,IC50,9.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:501Y,Figure 3; Table 1,MLV pseudovirus,IC50,100.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:417N+484K+501Y,Figure 3; Table 1,MLV pseudovirus,IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:417N+484K+501Y,Figure 3; Table 1,MLV pseudovirus,IC50,1700.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:417N+484K+501Y,Figure 3; Table 1,MLV pseudovirus,IC50,10.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:453F+498H,Figure 3; Table 1,MLV pseudovirus,IC50,180.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:453F+498H,Figure 3; Table 1,MLV pseudovirus,IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:453F+498H,Figure 3; Table 1,MLV pseudovirus,IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,Wuhan-Hu-1,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,Wuhan-Hu-1,Table 1,MLV pseudovirus,IC90,45.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,Wuhan-Hu-1,Table 1,MLV pseudovirus,IC90,1500.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:69del+70del+439K,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:69del+70del+439K,Table 1,MLV pseudovirus,IC90,100.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:69del+70del+439K,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:69del+70del+453F,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:69del+70del+453F,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:69del+70del+453F,Table 1,MLV pseudovirus,IC90,1500.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:69del+70del+453F+486L+501T+1229I,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:69del+70del+453F+486L+501T+1229I,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:69del+70del+453F+486L+501T+1229I,Table 1,MLV pseudovirus,IC90,2500.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:69del+70del+501Y,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:69del+70del+501Y,Table 1,MLV pseudovirus,IC90,1500.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:69del+70del+501Y,Table 1,MLV pseudovirus,IC90,3500.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:501Y,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:501Y,Table 1,MLV pseudovirus,IC90,110.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:501Y,Table 1,MLV pseudovirus,IC90,3000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:417N+484K+501Y,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:417N+484K+501Y,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:417N+484K+501Y,Table 1,MLV pseudovirus,IC90,60.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Etesevimab,S:453F+498H,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Casirivimab,S:453F+498H,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
-Yao21,Imdevimab,S:453F+498H,Table 1,MLV pseudovirus,IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,Wuhan-Hu-1,Figure 3; Table 1,Pseudovirus (MLV),IC50,100.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,Wuhan-Hu-1,Figure 3; Table 1,Pseudovirus (MLV),IC50,6.4,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,Wuhan-Hu-1,Figure 3; Table 1,Pseudovirus (MLV),IC50,6.4,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:69del+70del+439K,Figure 3; Table 1,Pseudovirus (MLV),IC50,65.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:69del+70del+439K,Figure 3; Table 1,Pseudovirus (MLV),IC50,15.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:69del+70del+439K,Figure 3; Table 1,Pseudovirus (MLV),IC50,22.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:69del+70del+453F,Figure 3; Table 1,Pseudovirus (MLV),IC50,300.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:69del+70del+453F,Figure 3; Table 1,Pseudovirus (MLV),IC50,1600.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:69del+70del+453F,Figure 3; Table 1,Pseudovirus (MLV),IC50,15.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:69del+70del+453F+486L+501T+1229I,Figure 3; Table 1,Pseudovirus (MLV),IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:69del+70del+453F+486L+501T+1229I,Figure 3; Table 1,Pseudovirus (MLV),IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:69del+70del+453F+486L+501T+1229I,Figure 3; Table 1,Pseudovirus (MLV),IC50,20.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:69del+70del+501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,2200.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:69del+70del+501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,25.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:69del+70del+501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,16.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,2000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,9.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,100.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:417N+484K+501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:417N+484K+501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,1700.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:417N+484K+501Y,Figure 3; Table 1,Pseudovirus (MLV),IC50,10.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:453F+498H,Figure 3; Table 1,Pseudovirus (MLV),IC50,180.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:453F+498H,Figure 3; Table 1,Pseudovirus (MLV),IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:453F+498H,Figure 3; Table 1,Pseudovirus (MLV),IC50,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,Wuhan-Hu-1,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,Wuhan-Hu-1,Table 1,Pseudovirus (MLV),IC90,45.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,Wuhan-Hu-1,Table 1,Pseudovirus (MLV),IC90,1500.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:69del+70del+439K,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:69del+70del+439K,Table 1,Pseudovirus (MLV),IC90,100.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:69del+70del+439K,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:69del+70del+453F,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:69del+70del+453F,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:69del+70del+453F,Table 1,Pseudovirus (MLV),IC90,1500.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:69del+70del+453F+486L+501T+1229I,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:69del+70del+453F+486L+501T+1229I,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:69del+70del+453F+486L+501T+1229I,Table 1,Pseudovirus (MLV),IC90,2500.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:69del+70del+501Y,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:69del+70del+501Y,Table 1,Pseudovirus (MLV),IC90,1500.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:69del+70del+501Y,Table 1,Pseudovirus (MLV),IC90,3500.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:501Y,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:501Y,Table 1,Pseudovirus (MLV),IC90,110.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:501Y,Table 1,Pseudovirus (MLV),IC90,3000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:417N+484K+501Y,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:417N+484K+501Y,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:417N+484K+501Y,Table 1,Pseudovirus (MLV),IC90,60.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Etesevimab,S:453F+498H,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Casirivimab,S:453F+498H,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05
+Yao21,Imdevimab,S:453F+498H,Table 1,Pseudovirus (MLV),IC90,4000.0,1,4000.0,6.4,ng/ml,2021-07-05

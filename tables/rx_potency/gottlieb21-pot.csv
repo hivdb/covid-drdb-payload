@@ -1,11 +1,11 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Gottlieb21,Bamlanivimab,Wuhan-Hu-1,eTable 1,vsv pseudovirus,IC50,10,1,1000,NULL,ng/ml,2021-07-07
-Gottlieb21,Bamlanivimab,S:484K,eTable 1,vsv pseudovirus,IC50,1000,1,1000,NULL,ng/ml,2021-01-27
-Gottlieb21,Bamlanivimab,S:484Q,eTable 1,vsv pseudovirus,IC50,1000,1,1000,NULL,ng/ml,2021-01-27
-Gottlieb21,Bamlanivimab,S:490S,eTable 1,vsv pseudovirus,IC50,1000,1,1000,NULL,ng/ml,2021-01-27
-Gottlieb21,Bamlanivimab,S:494P,eTable 1,vsv pseudovirus,IC50,1000,1,1000,NULL,ng/ml,2021-01-27
-Gottlieb21,Etesevimab,Wuhan-Hu-1,eTable 1,vsv pseudovirus,IC50,130,1,1000,NULL,ng/ml,2021-07-07
-Gottlieb21,Etesevimab,S:484K,eTable 1,vsv pseudovirus,IC50,570,1,1000,NULL,ng/ml,2021-01-27
-Gottlieb21,Etesevimab,S:484Q,eTable 1,vsv pseudovirus,IC50,170,1,1000,NULL,ng/ml,2021-01-27
-Gottlieb21,Etesevimab,S:490S,eTable 1,vsv pseudovirus,IC50,100,1,1000,NULL,ng/ml,2021-01-27
-Gottlieb21,Etesevimab,S:494P,eTable 1,vsv pseudovirus,IC50,70,1,1000,NULL,ng/ml,2021-01-27
+Gottlieb21,Bamlanivimab,Wuhan-Hu-1,eTable 1,Pseudovirus (VSV),IC50,10,1,1000,NULL,ng/ml,2021-07-07
+Gottlieb21,Bamlanivimab,S:484K,eTable 1,Pseudovirus (VSV),IC50,1000,1,1000,NULL,ng/ml,2021-01-27
+Gottlieb21,Bamlanivimab,S:484Q,eTable 1,Pseudovirus (VSV),IC50,1000,1,1000,NULL,ng/ml,2021-01-27
+Gottlieb21,Bamlanivimab,S:490S,eTable 1,Pseudovirus (VSV),IC50,1000,1,1000,NULL,ng/ml,2021-01-27
+Gottlieb21,Bamlanivimab,S:494P,eTable 1,Pseudovirus (VSV),IC50,1000,1,1000,NULL,ng/ml,2021-01-27
+Gottlieb21,Etesevimab,Wuhan-Hu-1,eTable 1,Pseudovirus (VSV),IC50,130,1,1000,NULL,ng/ml,2021-07-07
+Gottlieb21,Etesevimab,S:484K,eTable 1,Pseudovirus (VSV),IC50,570,1,1000,NULL,ng/ml,2021-01-27
+Gottlieb21,Etesevimab,S:484Q,eTable 1,Pseudovirus (VSV),IC50,170,1,1000,NULL,ng/ml,2021-01-27
+Gottlieb21,Etesevimab,S:490S,eTable 1,Pseudovirus (VSV),IC50,100,1,1000,NULL,ng/ml,2021-01-27
+Gottlieb21,Etesevimab,S:494P,eTable 1,Pseudovirus (VSV),IC50,70,1,1000,NULL,ng/ml,2021-01-27

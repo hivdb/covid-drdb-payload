@@ -1,7 +1,7 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Vanhove21,XAV-19,hCoV-19/France/UN-FRA-WGS157/2020,Figure 3A,authentic virus,IC50,1991,1,50000,49,ng/ml,2021-07-06
-Vanhove21,XAV-19,hCoV-19/France/UK-4_2021/2021,Figure 3A,authentic virus,IC50,1991,1,50000,49,ng/ml,2021-05-01
-Vanhove21,XAV-19,hCoV-19/France/ZA-1/2021,Figure 3A,authentic virus,IC50,3205,1,50000,49,ng/ml,2021-05-01
-Vanhove21,BAM,hCoV-19/France/UN-FRA-WGS157/2020,Figure 3B,authentic virus,IC50,106,1,50000,49,ng/ml,2021-07-06
-Vanhove21,BAM,hCoV-19/France/UK-4_2021/2021,Figure 3B,authentic virus,IC50,139,1,50000,49,ng/ml,2021-05-01
-Vanhove21,BAM,hCoV-19/France/ZA-1/2021,Figure 3B,authentic virus,IC50,50000,1,50000,49,ng/ml,2021-05-01
+Vanhove21,XAV-19,hCoV-19/France/UN-FRA-WGS157/2020,Figure 3A,Virus isolate,IC50,1991,1,50000,49,ng/ml,2021-07-06
+Vanhove21,XAV-19,hCoV-19/France/UK-4_2021/2021,Figure 3A,Virus isolate,IC50,1991,1,50000,49,ng/ml,2021-05-01
+Vanhove21,XAV-19,hCoV-19/France/ZA-1/2021,Figure 3A,Virus isolate,IC50,3205,1,50000,49,ng/ml,2021-05-01
+Vanhove21,BAM,hCoV-19/France/UN-FRA-WGS157/2020,Figure 3B,Virus isolate,IC50,106,1,50000,49,ng/ml,2021-07-06
+Vanhove21,BAM,hCoV-19/France/UK-4_2021/2021,Figure 3B,Virus isolate,IC50,139,1,50000,49,ng/ml,2021-05-01
+Vanhove21,BAM,hCoV-19/France/ZA-1/2021,Figure 3B,Virus isolate,IC50,50000,1,50000,49,ng/ml,2021-05-01

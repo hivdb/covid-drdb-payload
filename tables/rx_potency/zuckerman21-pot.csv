@@ -1,4 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Zuckerman21,BNT162b2,B.1.1.50 full genome_745046,Figure 3,authentic virus,NT50,512,18,1280,10,NULL,2021-06-27
-Zuckerman21,BNT162b2,B.1.1.7 full genome_737204,Figure 3,authentic virus,NT50,276,18,1280,10,NULL,2021-03-30
-Zuckerman21,BNT162b2,B.1.1.50 full genome_745038,Figure 3,authentic virus,NT50,299,18,1280,10,NULL,2021-03-30
+Zuckerman21,BNT162b2,B.1.1.50 full genome_745046,Figure 3,Virus isolate,NT50,512,18,1280,10,NULL,2021-06-27
+Zuckerman21,BNT162b2,B.1.1.7 full genome_737204,Figure 3,Virus isolate,NT50,276,18,1280,10,NULL,2021-03-30
+Zuckerman21,BNT162b2,B.1.1.50 full genome_745038,Figure 3,Virus isolate,NT50,299,18,1280,10,NULL,2021-03-30

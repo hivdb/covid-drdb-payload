@@ -1,95 +1,95 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Greaney21,subject_B_d26_201106,S:456K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1149.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_B_d26_201106,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,341.4,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_B_d113_201106,S:456K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1159.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_B_d113_201106,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,221.9,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d32_201106,S:456K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,12570.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d32_201106,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,212.2,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d104_201106,S:456K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,2882.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d104_201106,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,136.6,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_G_d18,S:446V+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1269.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_G_d94,S:446V+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,214.8,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d26,S:446V+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,88.3,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d26,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,20.1,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d26,S:485R+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,68.4,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d102,S:446V+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,241.9,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d102,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,30.4,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d102,S:485R+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,197.3,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_B_d26,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,83.4,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_B_d113,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,94.4,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d32,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,249.2,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d104,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,219.5,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_G_d94_201119,S:446V+456V+484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,264.5,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_G_d94_201119,S:456V+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,449.4,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_G_d94_201119,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,578.8,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_K_d29_201119,S:456V+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,787.3,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_K_d29_201119,S:456A+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1279.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_K_d103_201119,S:456V+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,503.4,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_K_d103_201119,S:456A+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,331.3,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_G_d18_201119,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,4034.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d32_201119,S:456A+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,8572.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_K_d29_201221,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,120.1,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_K_d103_201221,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,112.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_E_d28,S:494P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,540.6,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_E_d28,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,959.2,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_E_d104,S:494P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,123.6,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_E_d104,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,579.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d26_201221,S:494P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,138.1,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d102_201221,S:494P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,163.5,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_J_d15,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1259.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_J_d15,S:384L+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1100.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_J_d121,S:484P+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,431.7,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_J_d121,S:384L+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,748.8,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_A_d21,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,11540.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_A_d21,S:384L+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,13290.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_A_d120,S:484Q+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,3042.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_A_d120,S:384L+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1253.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_B_d26_201224,S:484K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,121.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_I_d26_201224,S:484K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,40.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_G_d18_201224,S:484K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,25440.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d32_210115,S:484K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,74.8,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_C_d104_210115,S:484K+614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,65.0,1,NULL,40.0,NULL,2021-01-27
-Greaney21,subject_B_d26_201106,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1666.9,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_B_d113_201106,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,439.0,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_C_d32_201106,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,8936.6,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_C_d104_201106,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1798.9,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_G_d18,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,41220.1,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_G_d94,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,538.2,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_I_d26,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,374.0,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_I_d102,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,596.3,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_B_d26,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1079.1,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_B_d113,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,445.4,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_C_d32,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,8960.6,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_C_d104,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1820.8,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_G_d94_201119,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,319.6,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_K_d29_201119,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,660.5,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_K_d103_201119,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,345.7,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_G_d18_201119,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,22104.3,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_C_d32_201119,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,7457.1,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_K_d29_201221,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,181.5,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_K_d103_201221,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,212.5,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_E_d28,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,961.5,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_E_d104,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,320.5,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_I_d26_201221,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,192.5,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_I_d102_201221,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,505.8,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_J_d15,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1177.4,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_J_d121,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,696.9,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_A_d21,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,13401.2,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_A_d120,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1867.1,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_B_d26_201224,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1547.5,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_I_d26_201224,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,236.4,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_G_d18_201224,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,31525.9,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_C_d32_210115,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,8605.9,1,NULL,40.0,NULL,2021-07-14
-Greaney21,subject_C_d104_210115,S:614G,Figure 5; git.io/JCEvr,HIV pseudovirus,NT50,1548.0,1,NULL,40.0,NULL,2021-07-14
-Greaney21,CB6,S:456A+614G,git.io/JCEvr,HIV pseudovirus,IC50,456.2,1,1000,NULL,ng/ml,2021-01-27
-Greaney21,CB6,S:456K+614G,git.io/JCEvr,HIV pseudovirus,IC50,1000,1,1000,NULL,ng/ml,2021-01-27
-Greaney21,COV2-2165,S:456A+614G,git.io/JCEvr,HIV pseudovirus,IC50,1000,1,1000,NULL,ng/ml,2021-01-27
-Greaney21,COV2-2165,S:456K+614G,git.io/JCEvr,HIV pseudovirus,IC50,1000,1,1000,NULL,ng/ml,2021-01-27
-Greaney21,COV2-2082,S:456A+614G,git.io/JCEvr,HIV pseudovirus,IC50,140.9,1,1000,NULL,ng/ml,2021-01-27
-Greaney21,COV2-2082,S:456K+614G,git.io/JCEvr,HIV pseudovirus,IC50,166.7,1,1000,NULL,ng/ml,2021-01-27
-Greaney21,COV2-2832,S:456A+614G,git.io/JCEvr,HIV pseudovirus,IC50,6.685,1,1000,NULL,ng/ml,2021-01-27
-Greaney21,COV2-2832,S:456K+614G,git.io/JCEvr,HIV pseudovirus,IC50,9.223,1,1000,NULL,ng/ml,2021-01-27
-Greaney21,CB6,S:614G,git.io/JCEvr,HIV pseudovirus,IC50,30.68,1,1000,NULL,ng/ml,2021-07-14
-Greaney21,COV2-2165,S:614G,git.io/JCEvr,HIV pseudovirus,IC50,100.5,1,1000,NULL,ng/ml,2021-07-14
-Greaney21,COV2-2082,S:614G,git.io/JCEvr,HIV pseudovirus,IC50,91.01,1,1000,NULL,ng/ml,2021-07-14
-Greaney21,COV2-2832,S:614G,git.io/JCEvr,HIV pseudovirus,IC50,2.727,1,1000,NULL,ng/ml,2021-07-14
+Greaney21,subject_B_d26_201106,S:456K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1149.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_B_d26_201106,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,341.4,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_B_d113_201106,S:456K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1159.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_B_d113_201106,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,221.9,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d32_201106,S:456K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,12570.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d32_201106,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,212.2,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d104_201106,S:456K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,2882.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d104_201106,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,136.6,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_G_d18,S:446V+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1269.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_G_d94,S:446V+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,214.8,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d26,S:446V+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,88.3,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d26,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,20.1,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d26,S:485R+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,68.4,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d102,S:446V+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,241.9,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d102,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,30.4,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d102,S:485R+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,197.3,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_B_d26,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,83.4,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_B_d113,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,94.4,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d32,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,249.2,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d104,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,219.5,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_G_d94_201119,S:446V+456V+484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,264.5,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_G_d94_201119,S:456V+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,449.4,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_G_d94_201119,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,578.8,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_K_d29_201119,S:456V+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,787.3,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_K_d29_201119,S:456A+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1279.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_K_d103_201119,S:456V+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,503.4,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_K_d103_201119,S:456A+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,331.3,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_G_d18_201119,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,4034.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d32_201119,S:456A+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,8572.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_K_d29_201221,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,120.1,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_K_d103_201221,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,112.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_E_d28,S:494P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,540.6,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_E_d28,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,959.2,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_E_d104,S:494P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,123.6,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_E_d104,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,579.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d26_201221,S:494P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,138.1,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d102_201221,S:494P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,163.5,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_J_d15,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1259.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_J_d15,S:384L+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1100.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_J_d121,S:484P+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,431.7,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_J_d121,S:384L+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,748.8,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_A_d21,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,11540.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_A_d21,S:384L+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,13290.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_A_d120,S:484Q+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,3042.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_A_d120,S:384L+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1253.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_B_d26_201224,S:484K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,121.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_I_d26_201224,S:484K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,40.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_G_d18_201224,S:484K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,25440.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d32_210115,S:484K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,74.8,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_C_d104_210115,S:484K+614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,65.0,1,NULL,40.0,NULL,2021-01-27
+Greaney21,subject_B_d26_201106,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1666.9,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_B_d113_201106,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,439.0,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_C_d32_201106,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,8936.6,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_C_d104_201106,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1798.9,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_G_d18,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,41220.1,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_G_d94,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,538.2,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_I_d26,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,374.0,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_I_d102,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,596.3,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_B_d26,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1079.1,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_B_d113,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,445.4,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_C_d32,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,8960.6,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_C_d104,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1820.8,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_G_d94_201119,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,319.6,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_K_d29_201119,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,660.5,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_K_d103_201119,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,345.7,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_G_d18_201119,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,22104.3,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_C_d32_201119,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,7457.1,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_K_d29_201221,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,181.5,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_K_d103_201221,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,212.5,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_E_d28,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,961.5,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_E_d104,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,320.5,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_I_d26_201221,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,192.5,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_I_d102_201221,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,505.8,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_J_d15,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1177.4,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_J_d121,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,696.9,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_A_d21,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,13401.2,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_A_d120,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1867.1,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_B_d26_201224,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1547.5,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_I_d26_201224,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,236.4,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_G_d18_201224,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,31525.9,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_C_d32_210115,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,8605.9,1,NULL,40.0,NULL,2021-07-14
+Greaney21,subject_C_d104_210115,S:614G,Figure 5; git.io/JCEvr,Pseudovirus (HIV),NT50,1548.0,1,NULL,40.0,NULL,2021-07-14
+Greaney21,CB6,S:456A+614G,git.io/JCEvr,Pseudovirus (HIV),IC50,456.2,1,1000,NULL,ng/ml,2021-01-27
+Greaney21,CB6,S:456K+614G,git.io/JCEvr,Pseudovirus (HIV),IC50,1000,1,1000,NULL,ng/ml,2021-01-27
+Greaney21,COV2-2165,S:456A+614G,git.io/JCEvr,Pseudovirus (HIV),IC50,1000,1,1000,NULL,ng/ml,2021-01-27
+Greaney21,COV2-2165,S:456K+614G,git.io/JCEvr,Pseudovirus (HIV),IC50,1000,1,1000,NULL,ng/ml,2021-01-27
+Greaney21,COV2-2082,S:456A+614G,git.io/JCEvr,Pseudovirus (HIV),IC50,140.9,1,1000,NULL,ng/ml,2021-01-27
+Greaney21,COV2-2082,S:456K+614G,git.io/JCEvr,Pseudovirus (HIV),IC50,166.7,1,1000,NULL,ng/ml,2021-01-27
+Greaney21,COV2-2832,S:456A+614G,git.io/JCEvr,Pseudovirus (HIV),IC50,6.685,1,1000,NULL,ng/ml,2021-01-27
+Greaney21,COV2-2832,S:456K+614G,git.io/JCEvr,Pseudovirus (HIV),IC50,9.223,1,1000,NULL,ng/ml,2021-01-27
+Greaney21,CB6,S:614G,git.io/JCEvr,Pseudovirus (HIV),IC50,30.68,1,1000,NULL,ng/ml,2021-07-14
+Greaney21,COV2-2165,S:614G,git.io/JCEvr,Pseudovirus (HIV),IC50,100.5,1,1000,NULL,ng/ml,2021-07-14
+Greaney21,COV2-2082,S:614G,git.io/JCEvr,Pseudovirus (HIV),IC50,91.01,1,1000,NULL,ng/ml,2021-07-14
+Greaney21,COV2-2832,S:614G,git.io/JCEvr,Pseudovirus (HIV),IC50,2.727,1,1000,NULL,ng/ml,2021-07-14

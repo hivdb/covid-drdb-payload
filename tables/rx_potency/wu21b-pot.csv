@@ -1,78 +1,78 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Wu21b,mRNA-1273_mice_01,S:614G,Figure 3b,vsv pseudovirus,NT50,25252,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_02,S:614G,Figure 3b,vsv pseudovirus,NT50,18381,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_03,S:614G,Figure 3b,vsv pseudovirus,NT50,18381,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_04,S:614G,Figure 3b,vsv pseudovirus,NT50,16534,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_05,S:614G,Figure 3b,vsv pseudovirus,NT50,25252,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_06,S:614G,Figure 3b,vsv pseudovirus,NT50,14874,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_07,S:614G,Figure 3b,vsv pseudovirus,NT50,9739,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_08,S:614G,Figure 3b,vsv pseudovirus,NT50,9739,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_01,S:614G,Figure 3c,vsv pseudovirus,NT50,18381,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_02,S:614G,Figure 3c,vsv pseudovirus,NT50,6377,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_03,S:614G,Figure 3c,vsv pseudovirus,NT50,5160,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_04,S:614G,Figure 3c,vsv pseudovirus,NT50,4175,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_05,S:614G,Figure 3c,vsv pseudovirus,NT50,2459,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_06,S:614G,Figure 3c,vsv pseudovirus,NT50,1790,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_07,S:614G,Figure 3c,vsv pseudovirus,NT50,767,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_08,S:614G,Figure 3c,vsv pseudovirus,NT50,559,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_01,S:614G,Figure 3d,vsv pseudovirus,NT50,38566,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_02,S:614G,Figure 3d,vsv pseudovirus,NT50,22715,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_03,S:614G,Figure 3d,vsv pseudovirus,NT50,18381,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_04,S:614G,Figure 3d,vsv pseudovirus,NT50,14874,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_05,S:614G,Figure 3d,vsv pseudovirus,NT50,14874,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_06,S:614G,Figure 3d,vsv pseudovirus,NT50,14874,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_07,S:614G,Figure 3d,vsv pseudovirus,NT50,8760,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_08,S:614G,Figure 3d,vsv pseudovirus,NT50,8760,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_01,B.1.351 Spike,Figure 3b,vsv pseudovirus,NT50,13379,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273_mice_02,B.1.351 Spike,Figure 3b,vsv pseudovirus,NT50,20434,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273_mice_03,B.1.351 Spike,Figure 3b,vsv pseudovirus,NT50,13379,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273_mice_04,B.1.351 Spike,Figure 3b,vsv pseudovirus,NT50,12035,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273_mice_05,B.1.351 Spike,Figure 3b,vsv pseudovirus,NT50,5160,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273_mice_06,B.1.351 Spike,Figure 3b,vsv pseudovirus,NT50,5160,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273_mice_07,B.1.351 Spike,Figure 3b,vsv pseudovirus,NT50,4175,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273_mice_08,B.1.351 Spike,Figure 3b,vsv pseudovirus,NT50,4175,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.351_mice_01,B.1.351 Spike,Figure 3c,vsv pseudovirus,NT50,47661,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.351_mice_02,B.1.351 Spike,Figure 3c,vsv pseudovirus,NT50,18381,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.351_mice_03,B.1.351 Spike,Figure 3c,vsv pseudovirus,NT50,7880,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.351_mice_04,B.1.351 Spike,Figure 3c,vsv pseudovirus,NT50,6377,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.351_mice_05,B.1.351 Spike,Figure 3c,vsv pseudovirus,NT50,13379,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.351_mice_06,B.1.351 Spike,Figure 3c,vsv pseudovirus,NT50,10826,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.351_mice_07,B.1.351 Spike,Figure 3c,vsv pseudovirus,NT50,12035,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.351_mice_08,B.1.351 Spike,Figure 3c,vsv pseudovirus,NT50,3379,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.211_mice_01,B.1.351 Spike,Figure 3d,vsv pseudovirus,NT50,65477,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.211_mice_02,B.1.351 Spike,Figure 3d,vsv pseudovirus,NT50,18381,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.211_mice_03,B.1.351 Spike,Figure 3d,vsv pseudovirus,NT50,18381,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.211_mice_04,B.1.351 Spike,Figure 3d,vsv pseudovirus,NT50,25252,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.211_mice_05,B.1.351 Spike,Figure 3d,vsv pseudovirus,NT50,13379,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.211_mice_06,B.1.351 Spike,Figure 3d,vsv pseudovirus,NT50,13379,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.211_mice_07,B.1.351 Spike,Figure 3d,vsv pseudovirus,NT50,12035,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273.211_mice_08,B.1.351 Spike,Figure 3d,vsv pseudovirus,NT50,12035,1,NULL,20,NULL,2021-05-01
-Wu21b,mRNA-1273_mice_gmt,S:614G,"Figure 3a, 4",vsv pseudovirus,NT50,16749,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_gmt,S:614G,"Figure 3a, 4",vsv pseudovirus,NT50,2733,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_gmt,S:614G,"Figure 3a, 4",vsv pseudovirus,NT50,14832,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_gmt,B.1.429 Spike,Figure 4,vsv pseudovirus,NT50,6874,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_gmt,B.1.429 Spike,Figure 4,vsv pseudovirus,NT50,1821,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_gmt,B.1.429 Spike,Figure 4,vsv pseudovirus,NT50,4089,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_gmt,P.1 Spike,Figure 4,vsv pseudovirus,NT50,8293,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.351_mice_gmt,P.1 Spike,Figure 4,vsv pseudovirus,NT50,3230,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273.211_mice_gmt,P.1 Spike,Figure 4,vsv pseudovirus,NT50,10620,8,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_01,S:614G,Figure 6c,vsv pseudovirus,NT50,23101,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_02,S:614G,Figure 6c,vsv pseudovirus,NT50,16876,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_03,S:614G,Figure 6c,vsv pseudovirus,NT50,4329,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_04,S:614G,Figure 6c,vsv pseudovirus,NT50,4329,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_05,S:614G,Figure 6c,vsv pseudovirus,NT50,1874,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_01,S:614G,Figure 6c,vsv pseudovirus,NT50,73053,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_02,S:614G,Figure 6c,vsv pseudovirus,NT50,90063,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_03,S:614G,Figure 6c,vsv pseudovirus,NT50,25650,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_04,S:614G,Figure 6c,vsv pseudovirus,NT50,11103,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_05,S:614G,Figure 6c,vsv pseudovirus,NT50,13689,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_01,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,2848,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_02,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,1688,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_03,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,1110,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_04,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,658,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_2nd_05,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,351,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_01,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,65793,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_02,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,11103,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_03,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,25650,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_04,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,11103,1,NULL,20,NULL,2021-07-01
-Wu21b,mRNA-1273_mice_3rd_05,B.1.351 Spike,Figure 6c,vsv pseudovirus,NT50,5337,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_01,S:614G,Figure 3b,Pseudovirus (VSV),NT50,25252,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_02,S:614G,Figure 3b,Pseudovirus (VSV),NT50,18381,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_03,S:614G,Figure 3b,Pseudovirus (VSV),NT50,18381,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_04,S:614G,Figure 3b,Pseudovirus (VSV),NT50,16534,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_05,S:614G,Figure 3b,Pseudovirus (VSV),NT50,25252,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_06,S:614G,Figure 3b,Pseudovirus (VSV),NT50,14874,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_07,S:614G,Figure 3b,Pseudovirus (VSV),NT50,9739,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_08,S:614G,Figure 3b,Pseudovirus (VSV),NT50,9739,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_01,S:614G,Figure 3c,Pseudovirus (VSV),NT50,18381,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_02,S:614G,Figure 3c,Pseudovirus (VSV),NT50,6377,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_03,S:614G,Figure 3c,Pseudovirus (VSV),NT50,5160,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_04,S:614G,Figure 3c,Pseudovirus (VSV),NT50,4175,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_05,S:614G,Figure 3c,Pseudovirus (VSV),NT50,2459,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_06,S:614G,Figure 3c,Pseudovirus (VSV),NT50,1790,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_07,S:614G,Figure 3c,Pseudovirus (VSV),NT50,767,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_08,S:614G,Figure 3c,Pseudovirus (VSV),NT50,559,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_01,S:614G,Figure 3d,Pseudovirus (VSV),NT50,38566,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_02,S:614G,Figure 3d,Pseudovirus (VSV),NT50,22715,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_03,S:614G,Figure 3d,Pseudovirus (VSV),NT50,18381,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_04,S:614G,Figure 3d,Pseudovirus (VSV),NT50,14874,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_05,S:614G,Figure 3d,Pseudovirus (VSV),NT50,14874,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_06,S:614G,Figure 3d,Pseudovirus (VSV),NT50,14874,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_07,S:614G,Figure 3d,Pseudovirus (VSV),NT50,8760,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_08,S:614G,Figure 3d,Pseudovirus (VSV),NT50,8760,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_01,B.1.351 Spike,Figure 3b,Pseudovirus (VSV),NT50,13379,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273_mice_02,B.1.351 Spike,Figure 3b,Pseudovirus (VSV),NT50,20434,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273_mice_03,B.1.351 Spike,Figure 3b,Pseudovirus (VSV),NT50,13379,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273_mice_04,B.1.351 Spike,Figure 3b,Pseudovirus (VSV),NT50,12035,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273_mice_05,B.1.351 Spike,Figure 3b,Pseudovirus (VSV),NT50,5160,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273_mice_06,B.1.351 Spike,Figure 3b,Pseudovirus (VSV),NT50,5160,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273_mice_07,B.1.351 Spike,Figure 3b,Pseudovirus (VSV),NT50,4175,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273_mice_08,B.1.351 Spike,Figure 3b,Pseudovirus (VSV),NT50,4175,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.351_mice_01,B.1.351 Spike,Figure 3c,Pseudovirus (VSV),NT50,47661,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.351_mice_02,B.1.351 Spike,Figure 3c,Pseudovirus (VSV),NT50,18381,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.351_mice_03,B.1.351 Spike,Figure 3c,Pseudovirus (VSV),NT50,7880,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.351_mice_04,B.1.351 Spike,Figure 3c,Pseudovirus (VSV),NT50,6377,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.351_mice_05,B.1.351 Spike,Figure 3c,Pseudovirus (VSV),NT50,13379,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.351_mice_06,B.1.351 Spike,Figure 3c,Pseudovirus (VSV),NT50,10826,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.351_mice_07,B.1.351 Spike,Figure 3c,Pseudovirus (VSV),NT50,12035,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.351_mice_08,B.1.351 Spike,Figure 3c,Pseudovirus (VSV),NT50,3379,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.211_mice_01,B.1.351 Spike,Figure 3d,Pseudovirus (VSV),NT50,65477,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.211_mice_02,B.1.351 Spike,Figure 3d,Pseudovirus (VSV),NT50,18381,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.211_mice_03,B.1.351 Spike,Figure 3d,Pseudovirus (VSV),NT50,18381,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.211_mice_04,B.1.351 Spike,Figure 3d,Pseudovirus (VSV),NT50,25252,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.211_mice_05,B.1.351 Spike,Figure 3d,Pseudovirus (VSV),NT50,13379,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.211_mice_06,B.1.351 Spike,Figure 3d,Pseudovirus (VSV),NT50,13379,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.211_mice_07,B.1.351 Spike,Figure 3d,Pseudovirus (VSV),NT50,12035,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273.211_mice_08,B.1.351 Spike,Figure 3d,Pseudovirus (VSV),NT50,12035,1,NULL,20,NULL,2021-05-01
+Wu21b,mRNA-1273_mice_gmt,S:614G,"Figure 3a, 4",Pseudovirus (VSV),NT50,16749,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_gmt,S:614G,"Figure 3a, 4",Pseudovirus (VSV),NT50,2733,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_gmt,S:614G,"Figure 3a, 4",Pseudovirus (VSV),NT50,14832,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_gmt,B.1.429 Spike,Figure 4,Pseudovirus (VSV),NT50,6874,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_gmt,B.1.429 Spike,Figure 4,Pseudovirus (VSV),NT50,1821,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_gmt,B.1.429 Spike,Figure 4,Pseudovirus (VSV),NT50,4089,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_gmt,P.1 Spike,Figure 4,Pseudovirus (VSV),NT50,8293,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.351_mice_gmt,P.1 Spike,Figure 4,Pseudovirus (VSV),NT50,3230,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273.211_mice_gmt,P.1 Spike,Figure 4,Pseudovirus (VSV),NT50,10620,8,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_01,S:614G,Figure 6c,Pseudovirus (VSV),NT50,23101,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_02,S:614G,Figure 6c,Pseudovirus (VSV),NT50,16876,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_03,S:614G,Figure 6c,Pseudovirus (VSV),NT50,4329,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_04,S:614G,Figure 6c,Pseudovirus (VSV),NT50,4329,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_05,S:614G,Figure 6c,Pseudovirus (VSV),NT50,1874,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_01,S:614G,Figure 6c,Pseudovirus (VSV),NT50,73053,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_02,S:614G,Figure 6c,Pseudovirus (VSV),NT50,90063,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_03,S:614G,Figure 6c,Pseudovirus (VSV),NT50,25650,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_04,S:614G,Figure 6c,Pseudovirus (VSV),NT50,11103,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_05,S:614G,Figure 6c,Pseudovirus (VSV),NT50,13689,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_01,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,2848,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_02,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,1688,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_03,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,1110,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_04,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,658,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_2nd_05,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,351,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_01,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,65793,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_02,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,11103,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_03,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,25650,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_04,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,11103,1,NULL,20,NULL,2021-07-01
+Wu21b,mRNA-1273_mice_3rd_05,B.1.351 Spike,Figure 6c,Pseudovirus (VSV),NT50,5337,1,NULL,20,NULL,2021-07-01
