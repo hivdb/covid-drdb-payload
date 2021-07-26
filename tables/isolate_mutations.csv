@@ -1012,6 +1012,28 @@ B.1.429_MZ467319,ORF3a,57,H
 B.1.429_MZ467319,ORF8,100,L
 B.1.429_MZ467319,N,205,I
 B.1.429_MZ467319,N,234,I
+B.1.525 full genome,PLpro,1189,I
+B.1.525 full genome,nsp6,106,del
+B.1.525 full genome,nsp6,107,del
+B.1.525 full genome,nsp6,108,del
+B.1.525 full genome,RdRP,323,F
+B.1.525 full genome,S,52,R
+B.1.525 full genome,S,67,V
+B.1.525 full genome,S,69,del
+B.1.525 full genome,S,70,del
+B.1.525 full genome,S,144,del
+B.1.525 full genome,S,145,del
+B.1.525 full genome,S,484,K
+B.1.525 full genome,S,614,G
+B.1.525 full genome,S,677,H
+B.1.525 full genome,S,888,L
+B.1.525 full genome,E,21,F
+B.1.525 full genome,M,82,T
+B.1.525 full genome,ORF6,2,del
+B.1.525 full genome,ORF6,3,del
+B.1.525 full genome,N,3,del
+B.1.525 full genome,N,12,G
+B.1.525 full genome,N,205,I
 B.1.525 Spike,S,52,R
 B.1.525 Spike,S,67,V
 B.1.525 Spike,S,69,del
