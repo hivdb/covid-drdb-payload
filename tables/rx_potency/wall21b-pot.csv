@@ -1,11 +1,11 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Wall21b,AZD_2nd,Wuhan-Hu-1,Figure 1A,Virus isolate,NT50,491.060601,63,2560,40,NULL,2021-07-02
-Wall21b,AZD_2nd,B.1 full genome,Figure 1A,Virus isolate,NT50,102.160995,63,2560,40,NULL,2021-07-02
-Wall21b,AZD_2nd,B.1.1.7 full genome,Figure 1A,Virus isolate,NT50,116.765286,63,2560,40,NULL,2021-07-02
-Wall21b,AZD_2nd,B.1.351 full genome,Figure 1A,Virus isolate,NT50,48.9914447,63,2560,40,NULL,2021-07-02
-Wall21b,AZD_2nd,B.1.617.2 full genome,Figure 1A,Virus isolate,NT50,48.9914447,63,2560,40,NULL,2021-07-02
-Wall21b,AZD_1st,Wuhan-Hu-1,Figure 1C,Virus isolate,NT50,147.525653,50,2560,40,NULL,2021-07-02
-Wall21b,AZD_1st,B.1 full genome,Figure 1C,Virus isolate,NT50,83.6064343,50,2560,40,NULL,2021-07-02
-Wall21b,AZD_1st,B.1.1.7 full genome,Figure 1C,Virus isolate,NT50,20.5554385,50,2560,40,NULL,2021-07-02
-Wall21b,AZD_1st,B.1.351 full genome,Figure 1C,Virus isolate,NT50,5.22540214,50,2560,40,NULL,2021-07-02
-Wall21b,AZD_1st,B.1.617.2 full genome,Figure 1C,Virus isolate,NT50,5.22540214,50,2560,40,NULL,2021-07-02
+Wall21b,AZD_2nd,Wuhan-Hu-1,Figure 1A,Virus isolate,NT50,491,63,2560,40,NULL,2021-07-02
+Wall21b,AZD_2nd,B.1 full genome,Figure 1A,Virus isolate,NT50,102,63,2560,40,NULL,2021-07-02
+Wall21b,AZD_2nd,B.1.1.7 full genome,Figure 1A,Virus isolate,NT50,117,63,2560,40,NULL,2021-07-02
+Wall21b,AZD_2nd,B.1.351 full genome,Figure 1A,Virus isolate,NT50,49,63,2560,40,NULL,2021-07-02
+Wall21b,AZD_2nd,B.1.617.2 full genome,Figure 1A,Virus isolate,NT50,49,63,2560,40,NULL,2021-07-02
+Wall21b,AZD_1st,Wuhan-Hu-1,Figure 1C,Virus isolate,NT50,148,50,2560,40,NULL,2021-07-02
+Wall21b,AZD_1st,B.1 full genome,Figure 1C,Virus isolate,NT50,84,50,2560,40,NULL,2021-07-02
+Wall21b,AZD_1st,B.1.1.7 full genome,Figure 1C,Virus isolate,NT50,21,50,2560,40,NULL,2021-07-02
+Wall21b,AZD_1st,B.1.351 full genome,Figure 1C,Virus isolate,NT50,5,50,2560,40,NULL,2021-07-02
+Wall21b,AZD_1st,B.1.617.2 full genome,Figure 1C,Virus isolate,NT50,5,50,2560,40,NULL,2021-07-02

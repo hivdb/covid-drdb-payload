@@ -1,42 +1,42 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Madhi21,AZD1222_1,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1651.21325,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_2,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,583.792042,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_1,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1651,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_2,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,584,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_3,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,400,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_4,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,583.792042,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_5,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,2192.56158,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_6,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1814.90004,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_7,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1814.90004,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_8,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1131.37085,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_9,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1131.37085,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_10,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,483.235778,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_11,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,483.235778,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_12,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,363.92379,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_13,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,363.92379,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_14,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,439.652489,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_15,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,439.652489,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_16,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,117.061991,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_17,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,274.070197,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_18,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,226.862504,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_19,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,206.401656,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_20,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,206.401656,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_21,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,141.421356,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_22,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,128.66649,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_23,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,72.9740053,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_24,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,66.3924414,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_25,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,66.3924414,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_1,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,301.239111,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_2,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,155.440628,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_3,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,128.66649,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_4,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,301.239111,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_5,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,80.2080076,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_6,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,106.504109,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_7,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,106.504109,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_8,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,88.1591255,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_9,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,88.1591255,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_10,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,72.9740053,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_11,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,72.9740053,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_12,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,72.9740053,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_13,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,72.9740053,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_4,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,584,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_5,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,2193,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_6,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1815,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_7,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1815,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_8,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1131,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_9,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,1131,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_10,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,483,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_11,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,483,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_12,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,364,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_13,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,364,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_14,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,440,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_15,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,440,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_16,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,117,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_17,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,274,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_18,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,227,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_19,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,206,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_20,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,206,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_21,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,141,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_22,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,129,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_23,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,73,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_24,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,66,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_25,S:614G,Fig2b,Pseudovirus (lentivirus),NT50,66,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_1,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,301,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_2,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,155,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_3,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,129,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_4,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,301,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_5,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,80,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_6,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,107,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_7,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,107,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_8,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,88,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_9,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,88,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_10,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,73,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_11,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,73,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_12,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,73,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_13,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,73,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_14,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_15,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_16,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
@@ -46,16 +46,16 @@ Madhi21,AZD1222_19,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,
 Madhi21,AZD1222_20,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_21,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_22,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_23,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,66.3924414,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_23,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,66,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_24,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_25,B.1.351 RBD,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_1,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,155.440628,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_2,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,88.1591255,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_3,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,72.9740053,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_4,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,88.1591255,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_1,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,155,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_2,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,88,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_3,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,73,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_4,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,88,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_5,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_6,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,54.9565611,1,NULL,50,NULL,2021-03-17
-Madhi21,AZD1222_7,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,54.9565611,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_6,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,55,1,NULL,50,NULL,2021-03-17
+Madhi21,AZD1222_7,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,55,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_8,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_9,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17
 Madhi21,AZD1222_10,B.1.351 Spike,Fig2b,Pseudovirus (lentivirus),NT50,50,1,NULL,50,NULL,2021-03-17

@@ -1,117 +1,117 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Greaney21c,M03_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1783.44084,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,262.872902,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,1180.83224,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,1801.08139,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,388.71885,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1046.38193,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1795.06147,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,386.590974,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,1734.84687,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,2185.092,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,367.269372,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1594.267,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1549.9507,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,321.900647,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,824.376229,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,1807.88572,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,138.01639,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,917.086253,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1845.06273,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,285.874054,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,1033.9062,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,2680.02028,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,287.649326,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1202.36894,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,2020.21885,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,261.700866,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,2081.21754,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,2268.56082,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,470.933545,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1686.6548,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,2719.82195,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,536.298039,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,2054.47145,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,3379.35905,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,665.100871,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,2433.13917,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1389.85481,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,340.474108,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,1248.14385,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,1796.0678,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,372.701316,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1043.52217,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,388.701467,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,108.239203,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,319.531846,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,494.615776,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,29.5813735,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,364.956032,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,684.770654,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,1729.00288,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:384R,Data file S3,Pseudovirus (HIV),NT50,1487.61317,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,75.7236175,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:417N,Data file S3,Pseudovirus (HIV),NT50,1235.17286,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:446V,Data file S3,Pseudovirus (HIV),NT50,1386.78928,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:484P,Data file S3,Pseudovirus (HIV),NT50,174.965365,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,88.672714,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant C_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1660.1941,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,306.13491,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,313.234895,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:384R,Data file S3,Pseudovirus (HIV),NT50,678.150962,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,27.6201527,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:417N,Data file S3,Pseudovirus (HIV),NT50,390.872241,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:446V,Data file S3,Pseudovirus (HIV),NT50,366.038639,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:484P,Data file S3,Pseudovirus (HIV),NT50,297.85727,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,29.7650106,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant E_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,608.122409,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,279.803596,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,374.84591,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:384R,Data file S3,Pseudovirus (HIV),NT50,389.301188,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,72.7396297,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:417N,Data file S3,Pseudovirus (HIV),NT50,453.302337,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:446V,Data file S3,Pseudovirus (HIV),NT50,238.945627,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:484P,Data file S3,Pseudovirus (HIV),NT50,724.544974,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,146.812676,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant G_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,518.939952,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant I_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,192.588531,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant I_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,326.244034,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant I_210312,S:384R,Data file S3,Pseudovirus (HIV),NT50,673.858259,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1783,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,263,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,1181,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,1801,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,389,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1046,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1795,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,387,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,1735,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,2185,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,367,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1594,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1550,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,322,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,824,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,1808,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,138,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,917,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1845,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,286,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,1034,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,2680,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,288,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1202,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,2020,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,262,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,2081,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,2269,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,471,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1687,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,2720,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,536,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,2054,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,3379,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,665,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,2433,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,1390,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,340,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,1248,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,1796,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,373,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,1044,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210308,S:614G,Data file S3,Pseudovirus (HIV),NT50,389,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210308,S:484P,Data file S3,Pseudovirus (HIV),NT50,108,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210308,S:446V,Data file S3,Pseudovirus (HIV),NT50,320,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210308,S:417N,Data file S3,Pseudovirus (HIV),NT50,495,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210308,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,30,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210308,S:384R,Data file S3,Pseudovirus (HIV),NT50,365,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,685,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,1729,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:384R,Data file S3,Pseudovirus (HIV),NT50,1488,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,76,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:417N,Data file S3,Pseudovirus (HIV),NT50,1235,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:446V,Data file S3,Pseudovirus (HIV),NT50,1387,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:484P,Data file S3,Pseudovirus (HIV),NT50,175,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,89,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant C_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1660,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,306,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,313,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:384R,Data file S3,Pseudovirus (HIV),NT50,678,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,28,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:417N,Data file S3,Pseudovirus (HIV),NT50,391,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:446V,Data file S3,Pseudovirus (HIV),NT50,366,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:484P,Data file S3,Pseudovirus (HIV),NT50,298,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,30,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant E_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,608,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,280,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,375,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:384R,Data file S3,Pseudovirus (HIV),NT50,389,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,73,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:417N,Data file S3,Pseudovirus (HIV),NT50,453,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:446V,Data file S3,Pseudovirus (HIV),NT50,239,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:484P,Data file S3,Pseudovirus (HIV),NT50,725,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,147,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant G_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,519,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant I_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,193,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant I_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,326,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant I_210312,S:384R,Data file S3,Pseudovirus (HIV),NT50,674,1,NULL,25,NULL,2021-06-30
 Greaney21c,participant I_210312,S:417N+446V+484K,Data file S3,Pseudovirus (HIV),NT50,25,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant I_210312,S:417N,Data file S3,Pseudovirus (HIV),NT50,432.972904,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant I_210312,S:446V,Data file S3,Pseudovirus (HIV),NT50,283.278107,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant I_210312,S:484P,Data file S3,Pseudovirus (HIV),NT50,64.6766049,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant I_210312,S:417N,Data file S3,Pseudovirus (HIV),NT50,433,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant I_210312,S:446V,Data file S3,Pseudovirus (HIV),NT50,283,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant I_210312,S:484P,Data file S3,Pseudovirus (HIV),NT50,65,1,NULL,25,NULL,2021-06-30
 Greaney21c,participant I_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,25,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant I_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,836.818348,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,679.046286,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,230.760488,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,597.191758,1,NULL,25,NULL,2021-06-30
-Greaney21c,M03_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1505.95309,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,690.963271,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,422.887386,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,733.523715,1,NULL,25,NULL,2021-06-30
-Greaney21c,M05_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,2085.90588,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,602.795194,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,603.822171,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,543.965577,1,NULL,25,NULL,2021-06-30
-Greaney21c,M06_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1413.25088,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,677.432391,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,332.351135,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,490.046604,1,NULL,25,NULL,2021-06-30
-Greaney21c,M11_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1911.64746,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,276.261982,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,551.216246,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1542.62685,1,NULL,25,NULL,2021-06-30
-Greaney21c,M12_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,763.595698,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,671.970033,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,837.485029,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,2587.10153,1,NULL,25,NULL,2021-06-30
-Greaney21c,M14_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,1410.73986,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,566.525886,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,452.616017,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1318.17505,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant A_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,743.912663,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,392.047104,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,71.0048876,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,755.997863,1,NULL,25,NULL,2021-06-30
-Greaney21c,participant B_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,165.792731,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant I_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,837,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,679,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,231,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,597,1,NULL,25,NULL,2021-06-30
+Greaney21c,M03_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1506,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,691,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,423,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,734,1,NULL,25,NULL,2021-06-30
+Greaney21c,M05_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,2086,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,603,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,604,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,544,1,NULL,25,NULL,2021-06-30
+Greaney21c,M06_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1413,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,677,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,332,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,490,1,NULL,25,NULL,2021-06-30
+Greaney21c,M11_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1912,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,276,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,551,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1543,1,NULL,25,NULL,2021-06-30
+Greaney21c,M12_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,764,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,672,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,837,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,2587,1,NULL,25,NULL,2021-06-30
+Greaney21c,M14_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,1411,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,567,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,453,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,1318,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant A_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,744,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210312,S:456A,Data file S3,Pseudovirus (HIV),NT50,392,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210312,S:484K,Data file S3,Pseudovirus (HIV),NT50,71,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210312,S:614G,Data file S3,Pseudovirus (HIV),NT50,756,1,NULL,25,NULL,2021-06-30
+Greaney21c,participant B_210312,S:452R,Data file S3,Pseudovirus (HIV),NT50,166,1,NULL,25,NULL,2021-06-30

@@ -206,21 +206,21 @@ Marot21,CP_I12,B.1.351 full genome,Preprint 2021.03.05.434089 Table S2,Virus iso
 Marot21,CP_I13,B.1.351 full genome,Preprint 2021.03.05.434089 Table S2,Virus isolate,NT100,5,1,320,4,NULL,2021-03-08
 Marot21,CP_I14,B.1.351 full genome,Preprint 2021.03.05.434089 Table S2,Virus isolate,NT100,10,1,320,4,NULL,2021-03-08
 Marot21,CP_I15,B.1.351 full genome,Preprint 2021.03.05.434089 Table S2,Virus isolate,NT100,20,1,320,4,NULL,2021-03-08
-Marot21,BNT_1st,B.1 full genome,Table S1,Virus isolate,NT50,5.38,29,320,4,NULL,2021-07-14
-Marot21,BNT_1st,B.1 full genome,Table S1,Virus isolate,NT90,4.9,29,320,4,NULL,2021-07-14
-Marot21,BNT_1st,B.1.1.7 full genome,Table S1,Virus isolate,NT50,3.46,29,320,4,NULL,2021-07-14
-Marot21,BNT_1st,B.1.1.7 full genome,Table S1,Virus isolate,NT90,2.89,29,320,4,NULL,2021-07-14
-Marot21,BNT_1st,B.1.351 full genome,Table S1,Virus isolate,NT50,1.47,29,320,4,NULL,2021-07-14
-Marot21,BNT_1st,B.1.351 full genome,Table S1,Virus isolate,NT90,1.39,29,320,4,NULL,2021-07-14
-Marot21,BNT_2nd,B.1 full genome,Table S1,Virus isolate,NT50,174.2,29,320,4,NULL,2021-07-14
-Marot21,BNT_2nd,B.1 full genome,Table S1,Virus isolate,NT90,157.9,29,320,4,NULL,2021-07-14
-Marot21,BNT_2nd,B.1.1.7 full genome,Table S1,Virus isolate,NT50,72.34,29,320,4,NULL,2021-07-14
-Marot21,BNT_2nd,B.1.1.7 full genome,Table S1,Virus isolate,NT90,55.89,29,320,4,NULL,2021-07-14
-Marot21,BNT_2nd,B.1.351 full genome,Table S1,Virus isolate,NT50,40.55,29,320,4,NULL,2021-07-14
-Marot21,BNT_2nd,B.1.351 full genome,Table S1,Virus isolate,NT90,31.99,29,320,4,NULL,2021-07-14
-Marot21,CP,B.1 full genome,Table S1,Virus isolate,NT50,35.4,15,320,4,NULL,2021-07-14
-Marot21,CP,B.1 full genome,Table S1,Virus isolate,NT90,30.88,15,320,4,NULL,2021-07-14
-Marot21,CP,B.1.1.7 full genome,Table S1,Virus isolate,NT50,28.11,15,320,4,NULL,2021-07-14
-Marot21,CP,B.1.1.7 full genome,Table S1,Virus isolate,NT90,20.04,15,320,4,NULL,2021-07-14
-Marot21,CP,B.1.351 full genome,Table S1,Virus isolate,NT50,4.94,15,320,4,NULL,2021-07-14
-Marot21,CP,B.1.351 full genome,Table S1,Virus isolate,NT90,4.43,15,320,4,NULL,2021-07-14
+Marot21,BNT_1st,B.1 full genome,Table S1,Virus isolate,NT50,5,29,320,4,NULL,2021-07-14
+Marot21,BNT_1st,B.1 full genome,Table S1,Virus isolate,NT90,5,29,320,4,NULL,2021-07-14
+Marot21,BNT_1st,B.1.1.7 full genome,Table S1,Virus isolate,NT50,3,29,320,4,NULL,2021-07-14
+Marot21,BNT_1st,B.1.1.7 full genome,Table S1,Virus isolate,NT90,3,29,320,4,NULL,2021-07-14
+Marot21,BNT_1st,B.1.351 full genome,Table S1,Virus isolate,NT50,1,29,320,4,NULL,2021-07-14
+Marot21,BNT_1st,B.1.351 full genome,Table S1,Virus isolate,NT90,1,29,320,4,NULL,2021-07-14
+Marot21,BNT_2nd,B.1 full genome,Table S1,Virus isolate,NT50,174,29,320,4,NULL,2021-07-14
+Marot21,BNT_2nd,B.1 full genome,Table S1,Virus isolate,NT90,158,29,320,4,NULL,2021-07-14
+Marot21,BNT_2nd,B.1.1.7 full genome,Table S1,Virus isolate,NT50,72,29,320,4,NULL,2021-07-14
+Marot21,BNT_2nd,B.1.1.7 full genome,Table S1,Virus isolate,NT90,56,29,320,4,NULL,2021-07-14
+Marot21,BNT_2nd,B.1.351 full genome,Table S1,Virus isolate,NT50,41,29,320,4,NULL,2021-07-14
+Marot21,BNT_2nd,B.1.351 full genome,Table S1,Virus isolate,NT90,32,29,320,4,NULL,2021-07-14
+Marot21,CP,B.1 full genome,Table S1,Virus isolate,NT50,35,15,320,4,NULL,2021-07-14
+Marot21,CP,B.1 full genome,Table S1,Virus isolate,NT90,31,15,320,4,NULL,2021-07-14
+Marot21,CP,B.1.1.7 full genome,Table S1,Virus isolate,NT50,28,15,320,4,NULL,2021-07-14
+Marot21,CP,B.1.1.7 full genome,Table S1,Virus isolate,NT90,20,15,320,4,NULL,2021-07-14
+Marot21,CP,B.1.351 full genome,Table S1,Virus isolate,NT50,5,15,320,4,NULL,2021-07-14
+Marot21,CP,B.1.351 full genome,Table S1,Virus isolate,NT90,4,15,320,4,NULL,2021-07-14

@@ -1,8 +1,8 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Kuzmina21,CP_01,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,79.36,1,128000,1,NULL,2021-07-07
+Kuzmina21,CP_01,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,79,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_02,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,250,1,128000,1,NULL,2021-07-07
-Kuzmina21,CP_03,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,833.3,1,128000,1,NULL,2021-07-07
-Kuzmina21,CP_04,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,833.3,1,128000,1,NULL,2021-07-07
+Kuzmina21,CP_03,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,833,1,128000,1,NULL,2021-07-07
+Kuzmina21,CP_04,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,833,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_05,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,10000,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_06,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,10000,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_07,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,10000,1,128000,1,NULL,2021-07-07
@@ -11,10 +11,10 @@ Kuzmina21,CP_09,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,25000,1,12800
 Kuzmina21,CP_10,Wuhan-Hu-1,Figure 2A,Pseudovirus (lentivirus),NT50,10000,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_01,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,200,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_02,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,125,1,128000,1,NULL,2021-07-07
-Kuzmina21,CP_03,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,666.7,1,128000,1,NULL,2021-07-07
+Kuzmina21,CP_03,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,667,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_04,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,2000,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_05,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,5000,1,128000,1,NULL,2021-07-07
-Kuzmina21,CP_06,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,8333.3,1,128000,1,NULL,2021-07-07
+Kuzmina21,CP_06,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,8333,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_07,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,10000,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_08,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,12500,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_09,B.1.1.7 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,13000,1,128000,1,NULL,2021-07-07
@@ -27,13 +27,13 @@ Kuzmina21,CP_05,B.1.351 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,125,1,1280
 Kuzmina21,CP_06,B.1.351 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,1250,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_07,B.1.351 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,1000,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_08,B.1.351 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,1450,1,128000,1,NULL,2021-07-07
-Kuzmina21,CP_09,B.1.351 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,6666.7,1,128000,1,NULL,2021-07-07
+Kuzmina21,CP_09,B.1.351 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,6667,1,128000,1,NULL,2021-07-07
 Kuzmina21,CP_10,B.1.351 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,2000,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_01,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,50000,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_02,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,64000,1,128000,1,NULL,2021-07-07
-Kuzmina21,BNT_03,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,83333.3,1,128000,1,NULL,2021-07-07
-Kuzmina21,BNT_04,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,83333.3,1,128000,1,NULL,2021-07-07
-Kuzmina21,BNT_05,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,83333.3,1,128000,1,NULL,2021-07-07
+Kuzmina21,BNT_03,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,83333,1,128000,1,NULL,2021-07-07
+Kuzmina21,BNT_04,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,83333,1,128000,1,NULL,2021-07-07
+Kuzmina21,BNT_05,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,83333,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_06,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,100000,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_07,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,100000,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_08,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,100000,1,128000,1,NULL,2021-07-07
@@ -41,7 +41,7 @@ Kuzmina21,BNT_09,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,128000,1,128
 Kuzmina21,BNT_10,Wuhan-Hu-1,Figure 2B,Pseudovirus (lentivirus),NT50,200000,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_01,B.1.1.7 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,112500,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_02,B.1.1.7 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,80000,1,128000,1,NULL,2021-07-07
-Kuzmina21,BNT_03,B.1.1.7 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,33333.3,1,128000,1,NULL,2021-07-07
+Kuzmina21,BNT_03,B.1.1.7 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,33333,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_04,B.1.1.7 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,100000,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_05,B.1.1.7 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,100000,1,128000,1,NULL,2021-07-07
 Kuzmina21,BNT_06,B.1.1.7 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,120000,1,128000,1,NULL,2021-07-07

@@ -1,85 +1,85 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Brown21,CP_1,IC19 full genome,Figure 4A,Virus isolate,NT50,455.462149,1,1280,10,NULL,2021-03-16
-Brown21,CP_2,IC19 full genome,Figure 4A,Virus isolate,NT50,118.33581,1,1280,10,NULL,2021-03-16
-Brown21,CP_3,IC19 full genome,Figure 4A,Virus isolate,NT50,90.3751368,1,1280,10,NULL,2021-03-16
-Brown21,CP_4,IC19 full genome,Figure 4A,Virus isolate,NT50,63.0898276,1,1280,10,NULL,2021-03-16
-Brown21,CP_5,IC19 full genome,Figure 4A,Virus isolate,NT50,63.0898276,1,1280,10,NULL,2021-03-16
-Brown21,CP_6,IC19 full genome,Figure 4A,Virus isolate,NT50,33.6358566,1,1280,10,NULL,2021-03-16
-Brown21,CP_7,IC19 full genome,Figure 4A,Virus isolate,NT50,33.6358566,1,1280,10,NULL,2021-03-16
-Brown21,CP_8,IC19 full genome,Figure 4A,Virus isolate,NT50,17.1448797,1,1280,10,NULL,2021-03-16
-Brown21,CP_1,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,253.984168,1,1280,10,NULL,2021-03-16
-Brown21,CP_2,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,148.139954,1,1280,10,NULL,2021-03-16
-Brown21,CP_3,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,98.8715573,1,1280,10,NULL,2021-03-16
-Brown21,CP_4,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,98.8715573,1,1280,10,NULL,2021-03-16
-Brown21,CP_5,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,78.9796778,1,1280,10,NULL,2021-03-16
-Brown21,CP_6,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,65.9888475,1,1280,10,NULL,2021-03-16
-Brown21,CP_7,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,55.1347907,1,1280,10,NULL,2021-03-16
-Brown21,CP_8,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,44.0422718,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_1,IC19 full genome,Figure 4A,Virus isolate,NT50,193.972171,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_2,IC19 full genome,Figure 4A,Virus isolate,NT50,72.1926445,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_3,IC19 full genome,Figure 4A,Virus isolate,NT50,72.1926445,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_4,IC19 full genome,Figure 4A,Virus isolate,NT50,35.1814468,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_5,IC19 full genome,Figure 4A,Virus isolate,NT50,35.1814468,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_6,IC19 full genome,Figure 4A,Virus isolate,NT50,25.6882945,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_7,IC19 full genome,Figure 4A,Virus isolate,NT50,17.9326984,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_8,IC19 full genome,Figure 4A,Virus isolate,NT50,25.6882945,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_1,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,253.984168,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_2,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,90.3751368,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_3,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,135.409707,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_4,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,162.067007,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_5,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,118.33581,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_6,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,94.5279351,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_7,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,94.5279351,1,1280,10,NULL,2021-03-16
-Brown21,CP_B.1.1.7_8,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,57.6682714,1,1280,10,NULL,2021-03-16
-Brown21,CP_9,S:614G,Figure 4B,Pseudovirus (HIV),NT50,596.375112,1,1280,15,NULL,2021-03-16
-Brown21,CP_10,S:614G,Figure 4B,Pseudovirus (HIV),NT50,162.067007,1,1280,15,NULL,2021-03-16
-Brown21,CP_11,S:614G,Figure 4B,Pseudovirus (HIV),NT50,118.33581,1,1280,15,NULL,2021-03-16
-Brown21,CP_12,S:614G,Figure 4B,Pseudovirus (HIV),NT50,82.608847,1,1280,15,NULL,2021-03-16
-Brown21,CP_13,S:614G,Figure 4B,Pseudovirus (HIV),NT50,40.2575468,1,1280,15,NULL,2021-03-16
-Brown21,CP_9,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,713.779918,1,1280,15,NULL,2021-03-16
-Brown21,CP_10,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,141.631874,1,1280,15,NULL,2021-03-16
-Brown21,CP_11,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,141.631874,1,1280,15,NULL,2021-03-16
-Brown21,CP_12,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,108.16675,1,1280,15,NULL,2021-03-16
-Brown21,CP_13,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,60.3181672,1,1280,15,NULL,2021-03-16
-Brown21,CP_B.1.1.7_9,S:614G,Figure 4B,Pseudovirus (HIV),NT50,52.7126108,1,1280,15,NULL,2021-03-16
-Brown21,CP_B.1.1.7_10,S:614G,Figure 4B,Pseudovirus (HIV),NT50,48.1828095,1,1280,15,NULL,2021-03-16
-Brown21,CP_B.1.1.7_11,S:614G,Figure 4B,Pseudovirus (HIV),NT50,17.1448797,1,1280,15,NULL,2021-03-16
-Brown21,CP_B.1.1.7_9,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,212.208039,1,1280,15,NULL,2021-03-16
-Brown21,CP_B.1.1.7_10,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,118.33581,1,1280,15,NULL,2021-03-16
-Brown21,CP_B.1.1.7_11,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,26.8686889,1,1280,15,NULL,2021-03-16
-Brown21,BNT_infected_1,IC19 full genome,Figure 4C,Virus isolate,NT50,10416.7633,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_2,IC19 full genome,Figure 4C,Virus isolate,NT50,2330.01839,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_3,IC19 full genome,Figure 4C,Virus isolate,NT50,1946.76951,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_4,IC19 full genome,Figure 4C,Virus isolate,NT50,1531.98595,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_5,IC19 full genome,Figure 4C,Virus isolate,NT50,948.713936,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_1,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,1726.96947,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_2,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,948.713936,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_3,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,948.713936,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_4,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,948.713936,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_5,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,623.77895,1,5120,10,NULL,2021-03-16
-Brown21,BNT_1,IC19 full genome,Figure 4C,Virus isolate,NT50,44.7067858,1,5120,10,NULL,2021-03-16
-Brown21,BNT_2,IC19 full genome,Figure 4C,Virus isolate,NT50,31.2092851,1,5120,10,NULL,2021-03-16
-Brown21,BNT_3,IC19 full genome,Figure 4C,Virus isolate,NT50,26.075882,1,5120,10,NULL,2021-03-16
-Brown21,BNT_4,IC19 full genome,Figure 4C,Virus isolate,NT50,19.3269942,1,5120,10,NULL,2021-03-16
-Brown21,BNT_5,IC19 full genome,Figure 4C,Virus isolate,NT50,4.87327305,1,5120,10,NULL,2021-03-16
-Brown21,BNT_1,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,31.2092851,1,5120,10,NULL,2021-03-16
-Brown21,BNT_2,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,50.396842,1,5120,10,NULL,2021-03-16
-Brown21,BNT_3,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,37.3532706,1,5120,10,NULL,2021-03-16
-Brown21,BNT_4,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,31.2092851,1,5120,10,NULL,2021-03-16
-Brown21,BNT_5,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,4.87327305,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_6,S:614G,Figure 4D,Pseudovirus (HIV),NT50,2207.87832,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_7,S:614G,Figure 4D,Pseudovirus (HIV),NT50,1591.90093,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_8,S:614G,Figure 4D,Pseudovirus (HIV),NT50,1507.43821,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_9,S:614G,Figure 4D,Pseudovirus (HIV),NT50,1029.20978,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_10,S:614G,Figure 4D,Pseudovirus (HIV),NT50,1029.20978,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_6,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,2207.87832,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_7,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,2090.73321,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_8,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,1507.43821,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_9,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,1507.43821,1,5120,10,NULL,2021-03-16
-Brown21,BNT_infected_10,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,1029.20978,1,5120,10,NULL,2021-03-16
-Brown21,BNT_6,S:614G,Figure 4D,Pseudovirus (HIV),NT50,189.903029,1,5120,10,NULL,2021-03-16
-Brown21,BNT_7,S:614G,Figure 4D,Pseudovirus (HIV),NT50,71.1794445,1,5120,10,NULL,2021-03-16
-Brown21,BNT_8,S:614G,Figure 4D,Pseudovirus (HIV),NT50,71.1794445,1,5120,10,NULL,2021-03-16
-Brown21,BNT_6,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,71.1794445,1,5120,10,NULL,2021-03-16
-Brown21,BNT_7,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,71.1794445,1,5120,10,NULL,2021-03-16
-Brown21,BNT_8,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,122.777775,1,5120,10,NULL,2021-03-16
+Brown21,CP_1,IC19 full genome,Figure 4A,Virus isolate,NT50,455,1,1280,10,NULL,2021-03-16
+Brown21,CP_2,IC19 full genome,Figure 4A,Virus isolate,NT50,118,1,1280,10,NULL,2021-03-16
+Brown21,CP_3,IC19 full genome,Figure 4A,Virus isolate,NT50,90,1,1280,10,NULL,2021-03-16
+Brown21,CP_4,IC19 full genome,Figure 4A,Virus isolate,NT50,63,1,1280,10,NULL,2021-03-16
+Brown21,CP_5,IC19 full genome,Figure 4A,Virus isolate,NT50,63,1,1280,10,NULL,2021-03-16
+Brown21,CP_6,IC19 full genome,Figure 4A,Virus isolate,NT50,34,1,1280,10,NULL,2021-03-16
+Brown21,CP_7,IC19 full genome,Figure 4A,Virus isolate,NT50,34,1,1280,10,NULL,2021-03-16
+Brown21,CP_8,IC19 full genome,Figure 4A,Virus isolate,NT50,17,1,1280,10,NULL,2021-03-16
+Brown21,CP_1,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,254,1,1280,10,NULL,2021-03-16
+Brown21,CP_2,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,148,1,1280,10,NULL,2021-03-16
+Brown21,CP_3,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,99,1,1280,10,NULL,2021-03-16
+Brown21,CP_4,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,99,1,1280,10,NULL,2021-03-16
+Brown21,CP_5,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,79,1,1280,10,NULL,2021-03-16
+Brown21,CP_6,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,66,1,1280,10,NULL,2021-03-16
+Brown21,CP_7,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,55,1,1280,10,NULL,2021-03-16
+Brown21,CP_8,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,44,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_1,IC19 full genome,Figure 4A,Virus isolate,NT50,194,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_2,IC19 full genome,Figure 4A,Virus isolate,NT50,72,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_3,IC19 full genome,Figure 4A,Virus isolate,NT50,72,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_4,IC19 full genome,Figure 4A,Virus isolate,NT50,35,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_5,IC19 full genome,Figure 4A,Virus isolate,NT50,35,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_6,IC19 full genome,Figure 4A,Virus isolate,NT50,26,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_7,IC19 full genome,Figure 4A,Virus isolate,NT50,18,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_8,IC19 full genome,Figure 4A,Virus isolate,NT50,26,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_1,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,254,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_2,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,90,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_3,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,135,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_4,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,162,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_5,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,118,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_6,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,95,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_7,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,95,1,1280,10,NULL,2021-03-16
+Brown21,CP_B.1.1.7_8,B.1.1.7 full genome_693400,Figure 4A,Virus isolate,NT50,58,1,1280,10,NULL,2021-03-16
+Brown21,CP_9,S:614G,Figure 4B,Pseudovirus (HIV),NT50,596,1,1280,15,NULL,2021-03-16
+Brown21,CP_10,S:614G,Figure 4B,Pseudovirus (HIV),NT50,162,1,1280,15,NULL,2021-03-16
+Brown21,CP_11,S:614G,Figure 4B,Pseudovirus (HIV),NT50,118,1,1280,15,NULL,2021-03-16
+Brown21,CP_12,S:614G,Figure 4B,Pseudovirus (HIV),NT50,83,1,1280,15,NULL,2021-03-16
+Brown21,CP_13,S:614G,Figure 4B,Pseudovirus (HIV),NT50,40,1,1280,15,NULL,2021-03-16
+Brown21,CP_9,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,714,1,1280,15,NULL,2021-03-16
+Brown21,CP_10,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,142,1,1280,15,NULL,2021-03-16
+Brown21,CP_11,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,142,1,1280,15,NULL,2021-03-16
+Brown21,CP_12,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,108,1,1280,15,NULL,2021-03-16
+Brown21,CP_13,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,60,1,1280,15,NULL,2021-03-16
+Brown21,CP_B.1.1.7_9,S:614G,Figure 4B,Pseudovirus (HIV),NT50,53,1,1280,15,NULL,2021-03-16
+Brown21,CP_B.1.1.7_10,S:614G,Figure 4B,Pseudovirus (HIV),NT50,48,1,1280,15,NULL,2021-03-16
+Brown21,CP_B.1.1.7_11,S:614G,Figure 4B,Pseudovirus (HIV),NT50,17,1,1280,15,NULL,2021-03-16
+Brown21,CP_B.1.1.7_9,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,212,1,1280,15,NULL,2021-03-16
+Brown21,CP_B.1.1.7_10,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,118,1,1280,15,NULL,2021-03-16
+Brown21,CP_B.1.1.7_11,B.1.1.7 Spike,Figure 4B,Pseudovirus (HIV),NT50,27,1,1280,15,NULL,2021-03-16
+Brown21,BNT_infected_1,IC19 full genome,Figure 4C,Virus isolate,NT50,10417,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_2,IC19 full genome,Figure 4C,Virus isolate,NT50,2330,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_3,IC19 full genome,Figure 4C,Virus isolate,NT50,1947,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_4,IC19 full genome,Figure 4C,Virus isolate,NT50,1532,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_5,IC19 full genome,Figure 4C,Virus isolate,NT50,949,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_1,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,1727,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_2,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,949,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_3,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,949,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_4,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,949,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_5,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,624,1,5120,10,NULL,2021-03-16
+Brown21,BNT_1,IC19 full genome,Figure 4C,Virus isolate,NT50,45,1,5120,10,NULL,2021-03-16
+Brown21,BNT_2,IC19 full genome,Figure 4C,Virus isolate,NT50,31,1,5120,10,NULL,2021-03-16
+Brown21,BNT_3,IC19 full genome,Figure 4C,Virus isolate,NT50,26,1,5120,10,NULL,2021-03-16
+Brown21,BNT_4,IC19 full genome,Figure 4C,Virus isolate,NT50,19,1,5120,10,NULL,2021-03-16
+Brown21,BNT_5,IC19 full genome,Figure 4C,Virus isolate,NT50,5,1,5120,10,NULL,2021-03-16
+Brown21,BNT_1,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,31,1,5120,10,NULL,2021-03-16
+Brown21,BNT_2,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,50,1,5120,10,NULL,2021-03-16
+Brown21,BNT_3,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,37,1,5120,10,NULL,2021-03-16
+Brown21,BNT_4,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,31,1,5120,10,NULL,2021-03-16
+Brown21,BNT_5,B.1.1.7 full genome_723001,Figure 4C,Virus isolate,NT50,5,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_6,S:614G,Figure 4D,Pseudovirus (HIV),NT50,2208,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_7,S:614G,Figure 4D,Pseudovirus (HIV),NT50,1592,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_8,S:614G,Figure 4D,Pseudovirus (HIV),NT50,1507,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_9,S:614G,Figure 4D,Pseudovirus (HIV),NT50,1029,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_10,S:614G,Figure 4D,Pseudovirus (HIV),NT50,1029,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_6,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,2208,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_7,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,2091,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_8,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,1507,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_9,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,1507,1,5120,10,NULL,2021-03-16
+Brown21,BNT_infected_10,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,1029,1,5120,10,NULL,2021-03-16
+Brown21,BNT_6,S:614G,Figure 4D,Pseudovirus (HIV),NT50,190,1,5120,10,NULL,2021-03-16
+Brown21,BNT_7,S:614G,Figure 4D,Pseudovirus (HIV),NT50,71,1,5120,10,NULL,2021-03-16
+Brown21,BNT_8,S:614G,Figure 4D,Pseudovirus (HIV),NT50,71,1,5120,10,NULL,2021-03-16
+Brown21,BNT_6,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,71,1,5120,10,NULL,2021-03-16
+Brown21,BNT_7,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,71,1,5120,10,NULL,2021-03-16
+Brown21,BNT_8,B.1.1.7 Spike,Figure 4D,Pseudovirus (HIV),NT50,123,1,5120,10,NULL,2021-03-16
