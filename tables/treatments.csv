@@ -27,6 +27,10 @@ Baum20,REGN10934
 Baum20,REGN10933/10987
 Baum20,REGN10989/10934
 Baum20,REGN10989/10987
+Caniels21,COVA1-18
+Caniels21,COVA2-15
+Caniels21,COVA2-17
+Caniels21,COVA1-16
 Cathcart21,Vir-7831
 Cathcart21,Vir-7832
 Chen21,COV2-2196
@@ -161,10 +165,6 @@ FDA21,Casirivimab
 FDA21,Imdevimab
 FDA21,Sotrovimab
 Focosi21b,Bamlanivimab/Etesevimab
-Ganiels21,COVA1-18
-Ganiels21,COVA2-15
-Ganiels21,COVA2-17
-Ganiels21,COVA1-16
 Gottlieb21,Bamlanivimab
 Gottlieb21,Etesevimab
 Greaney20,COV2-2082
@@ -1234,6 +1234,9 @@ Brown21,BNT_5
 Brown21,BNT_6
 Brown21,BNT_7
 Brown21,BNT_8
+Caniels21,CP_non-hosp
+Caniels21,CP_hosp
+Caniels21,BNT162b2
 Cele21,CP_B.1.1.117_01
 Cele21,CP_B.1.1.117_02
 Cele21,CP_B.1.1.117_03
@@ -2167,9 +2170,6 @@ Ferreira21,BNT_2nd_13
 Ferreira21,BNT_2nd_14
 Ferreira21,BNT_2nd_15
 Ferreira21,BNT_2nd_16
-Ganiels21,CP_non-hosp
-Ganiels21,CP_hosp
-Ganiels21,BNT162b2
 Garcia-Beltran21,BNT162b2
 Garcia-Beltran21,mRNA-1273
 Geers21,BNT_naive_1dose

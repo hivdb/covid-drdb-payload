@@ -1,8 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Ganiels21,CP_non-hosp,infection,<,2021-01-31,Netherlands,B.1 full genome,NULL,Mild
-Ganiels21,CP_non-hosp,isolation,~,2021-01-31,Netherlands,B.1 full genome,NULL,NULL
-Ganiels21,CP_hosp,infection,<,2021-01-31,Netherlands,B.1 full genome,NULL,Severe
-Ganiels21,CP_hosp,isolation,~,2021-01-31,Netherlands,B.1 full genome,NULL,NULL
-Ganiels21,BNT162b2,1st dose,~,2021-01-01,Netherlands,NULL,BNT162b2,NULL
-Ganiels21,BNT162b2,2nd dose,~,2021-01-21,Netherlands,NULL,BNT162b2,NULL
-Ganiels21,BNT162b2,2nd dose isolation,~,2021-02-18,Netherlands,NULL,NULL,NULL
