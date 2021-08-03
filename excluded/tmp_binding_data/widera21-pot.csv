@@ -1,0 +1,19 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Widera21,Bamlanivimab,FFM1,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab,FFM1,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Imdevimab,FFM1,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab + Imdevimab,FFM1,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Bamlanivimab,FFM7,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab,FFM7,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Imdevimab,FFM7,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab + Imdevimab,FFM7,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Bamlanivimab,B.1.1.7_MW822594 full genome,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab,B.1.1.7_MW822594 full genome,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Imdevimab,B.1.1.7_MW822594 full genome,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab + Imdevimab,B.1.1.7_MW822594 full genome,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab,B.1.351_MW822592 full genome,Table 1,Virus isolate,NT50,20,1,1280,20,NULL,2021-07-09
+Widera21,Imdevimab,B.1.351_MW822592 full genome,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab + Imdevimab,B.1.351_MW822592 full genome,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab,P.2_MW822593 full genome,Table 1,Virus isolate,NT50,320,1,1280,20,NULL,2021-07-09
+Widera21,Imdevimab,P.2_MW822593 full genome,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
+Widera21,Casirivimab + Imdevimab,P.2_MW822593 full genome,Table 1,Virus isolate,NT50,1280,1,1280,20,NULL,2021-07-09
