@@ -4372,41 +4372,45 @@ B.1_MZ467989,ORF3a,171,L
 B.1_MZ467989,ORF8,106,D
 B.1_MZ467989,N,3,Y
 B.1_MZ467989,N,205,I
-B.1.258 full genome,PLpro,2501,T
-B.1.258 full genome,RdRP,314,L
-B.1.258 full genome,nsp13,1213,Y
-B.1.258 full genome,S,439,K
-B.1.258 full genome,S,614,G
-B.1.160 full genome,nsp4,3087,I
-B.1.160 full genome,RdRP,176,S
-B.1.160 full genome,RdRP,314,L
-B.1.160 full genome,RdRP,767,L
-B.1.160 full genome,nsp13,1141,R
-B.1.160 full genome,nsp13,1184,D
-B.1.160 full genome,S,477,N
-B.1.160 full genome,S,614,G
-B.1.160 full genome,ORF3a,57,H
-B.1.160 full genome,N,234,I
-B.1.160 full genome,N,376,T
-B.1.621 full genome,PLpro,237,A
-B.1.621 full genome,PLpro,720,I
-B.1.621 full genome,nsp4,492,I
-B.1.621 full genome,nsp6,160,R
-B.1.621 full genome,RdRP,323,L
-B.1.621 full genome,nsp13,419,S
-B.1.621 full genome,S,95,I
-B.1.621 full genome,S,144,S
-B.1.621 full genome,S,145,N
-B.1.621 full genome,S,346,K
-B.1.621 full genome,S,484,K
-B.1.621 full genome,S,501,Y
-B.1.621 full genome,S,614,G
-B.1.621 full genome,S,681,H
-B.1.621 full genome,S,950,N
-B.1.621 full genome,ORF3a,57,H
-B.1.621 full genome,ORF3a,256,del
-B.1.621 full genome,ORF3a,257,del
-B.1.621 full genome,ORF8,11,K
-B.1.621 full genome,ORF8,38,S
-B.1.621 full genome,ORF8,67,F
-B.1.621 full genome,N,205,I
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,75,V
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,76,I
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,246,N
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,247,del
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,248,del
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,249,del
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,250,del
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,251,del
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,252,del
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,253,del
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,452,Q
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,490,S
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,614,G
+S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,S,859,N
+S:75V+76I+452Q+490S+614G+859N,S,75,V
+S:75V+76I+452Q+490S+614G+859N,S,76,I
+S:75V+76I+452Q+490S+614G+859N,S,452,Q
+S:75V+76I+452Q+490S+614G+859N,S,490,S
+S:75V+76I+452Q+490S+614G+859N,S,614,G
+S:75V+76I+452Q+490S+614G+859N,S,859,N
+S:75V+614G,S,75,V
+S:75V+614G,S,614,G
+S:76I+614G,S,76,I
+S:76I+614G,S,614,G
+S:75V+76I+614G,S,75,V
+S:75V+76I+614G,S,76,I
+S:75V+76I+614G,S,614,G
+S:246N+247del+248del+249del+250del+251del+252del+253del,S,246,N
+S:246N+247del+248del+249del+250del+251del+252del+253del,S,247,del
+S:246N+247del+248del+249del+250del+251del+252del+253del,S,248,del
+S:246N+247del+248del+249del+250del+251del+252del+253del,S,249,del
+S:246N+247del+248del+249del+250del+251del+252del+253del,S,250,del
+S:246N+247del+248del+249del+250del+251del+252del+253del,S,251,del
+S:246N+247del+248del+249del+250del+251del+252del+253del,S,252,del
+S:246N+247del+248del+249del+250del+251del+252del+253del,S,253,del
+S:452Q+614G,S,452,Q
+S:452Q+614G,S,614,G
+S:452Q+490S+614G,S,452,Q
+S:452Q+490S+614G,S,490,S
+S:452Q+490S+614G,S,614,G
+S:614G+859N,S,614,G
+S:614G+859N,S,859,N
