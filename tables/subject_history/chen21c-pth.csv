@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Chen21c,CoronaVac,1st dose,~,2021-11-25,China,NULL,CoronaVac,NULL
+Chen21c,CoronaVac,2nd dose,~,2020-12-15,China,NULL,CoronaVac,NULL
+Chen21c,CoronaVac,2nd dose isolation,~,2020-12-31,China,NULL,NULL,NULL
