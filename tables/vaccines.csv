@@ -2,15 +2,16 @@ vaccine_name,vaccine_type,developer,developer_country,priority
 BNT162b2,mRNA,BioNTech,Germany,1
 mRNA-1273,mRNA,"Moderna, NIAID and BARDA",United States,2
 AZD1222,Viral vector,Oxford University and AstraZeneca,United Kingdom,3
-BBIBP-CorV,Inactivated virus,Sinopharm Beijing,China,4
-BBV152,Inactivated virus,Bharat Biotech,India,5
-CoronaVac,Inactivated virus,Sinovac Biotech,China,6
-NVX-CoV2373,Protein subunit,Novavax,United States,7
-MVC-COV1901,Protein subunit,Medigen Vaccine Biologics and Dynavax Technologies,Taiwan,8
-ZF2001,Protein subunit,Anhui Zhifei Longcom and Chinese Academy of Sciences,China,9
-Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,10
-Ad26.COV2.S,Viral vector,Janssen Vaccines,Netherlands,11
-mRNA-1273.211,mRNA,Moderna,United States,12
-mRNA-1273.351,mRNA,Moderna,United States,13
-mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,14
-ChAd-SARS-CoV-2,Viral vector,,,15
+AZD1222 + BNT162b2,Mixed,,,4
+BBIBP-CorV,Inactivated virus,Sinopharm Beijing,China,5
+BBV152,Inactivated virus,Bharat Biotech,India,6
+CoronaVac,Inactivated virus,Sinovac Biotech,China,7
+NVX-CoV2373,Protein subunit,Novavax,United States,8
+MVC-COV1901,Protein subunit,Medigen Vaccine Biologics and Dynavax Technologies,Taiwan,9
+ZF2001,Protein subunit,Anhui Zhifei Longcom and Chinese Academy of Sciences,China,10
+Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,11
+Ad26.COV2.S,Viral vector,Janssen Vaccines,Netherlands,12
+mRNA-1273.211,mRNA,Moderna,United States,13
+mRNA-1273.351,mRNA,Moderna,United States,14
+mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,15
+ChAd-SARS-CoV-2,Viral vector,"BioNTech, Oxford University and AstraZeneca",United Kingdom,16
