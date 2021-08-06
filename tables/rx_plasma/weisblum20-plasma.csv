@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
-Weisblum20,CP_COV-NY,COV-NY,NULL,2020-05-08,CP
-Weisblum20,CP_COV-47,COV47,NULL,2020-05-08,CP
-Weisblum20,CP_COV-72,COV-72,NULL,2020-05-08,CP
-Weisblum20,CP_COV-107,COV-107,NULL,2020-05-08,CP
+﻿ref_name,rx_name,subject_name,collection_date,cumulative_group
+Weisblum20,CP_COV-NY,COV-NY,2020-05-08,CP
+Weisblum20,CP_COV-47,COV47,2020-05-08,CP
+Weisblum20,CP_COV-72,COV-72,2020-05-08,CP
+Weisblum20,CP_COV-107,COV-107,2020-05-08,CP

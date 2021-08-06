@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,subject_name,titer,collection_date,cumulative_group
-Leier21,CP,infected,NULL,2021-01-01,CP
-Leier21,BNT_2nd_uninfected,uninfected,NULL,2021-02-09,BNT_uninfected
-Leier21,BNT_2nd_infected,infected,NULL,2021-02-09,BNT_infected
+﻿ref_name,rx_name,subject_name,collection_date,cumulative_group
+Leier21,CP,infected,2021-01-01,CP
+Leier21,BNT_2nd_uninfected,uninfected,2021-02-09,BNT_uninfected
+Leier21,BNT_2nd_infected,infected,2021-02-09,BNT_infected
