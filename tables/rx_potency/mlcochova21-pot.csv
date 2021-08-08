@@ -3,12 +3,12 @@ Mlcochova21,CP,B.1 full genome,Figure 1f,Virus isolate,NT50,124,12,1280,5,NULL,2
 Mlcochova21,CP,B.1.1.7 full genome,Figure 1f,Virus isolate,NT50,54,12,1280,5,NULL,2021-06-27
 Mlcochova21,CP,B.1.351 full genome,Figure 1f,Virus isolate,NT50,15,12,1280,5,NULL,2021-06-27
 Mlcochova21,CP,B.1.617.2 full genome,Figure 1f,Virus isolate,NT50,20,12,1280,5,NULL,2021-06-27
-Mlcochova21,ChAdOx-1,B.1 full genome,Figure 4a,Virus isolate,NT50,295,10,100000,0.1,NULL,2021-06-27
-Mlcochova21,ChAdOx-1,B.1.1.7 full genome,Figure 4a,Virus isolate,NT50,92,10,100000,0.1,NULL,2021-06-27
-Mlcochova21,ChAdOx-1,B.1.617.2 full genome,Figure 4a,Virus isolate,NT50,34,10,100000,0.1,NULL,2021-06-27
-Mlcochova21,BNT162b2,B.1 full genome,Figure 4a,Virus isolate,NT50,4232,10,100000,0.1,NULL,2021-06-27
-Mlcochova21,BNT162b2,B.1.1.7 full genome,Figure 4a,Virus isolate,NT50,801,10,100000,0.1,NULL,2021-06-27
-Mlcochova21,BNT162b2,B.1.617.2 full genome,Figure 4a,Virus isolate,NT50,574,10,100000,0.1,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1 full genome,Figure 4a,Virus isolate,NT50,295,10,100000,1,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1.1.7 full genome,Figure 4a,Virus isolate,NT50,92,10,100000,1,NULL,2021-06-27
+Mlcochova21,ChAdOx-1,B.1.617.2 full genome,Figure 4a,Virus isolate,NT50,34,10,100000,1,NULL,2021-06-27
+Mlcochova21,BNT162b2,B.1 full genome,Figure 4a,Virus isolate,NT50,4232,10,100000,1,NULL,2021-06-27
+Mlcochova21,BNT162b2,B.1.1.7 full genome,Figure 4a,Virus isolate,NT50,801,10,100000,1,NULL,2021-06-27
+Mlcochova21,BNT162b2,B.1.617.2 full genome,Figure 4a,Virus isolate,NT50,574,10,100000,1,NULL,2021-06-27
 Mlcochova21,ChAdOx-1,S:614G,"Figure 4b, Extended Data Table 3",Pseudovirus (HIV),NT50,2625,33,1000000,10,NULL,2021-06-27
 Mlcochova21,ChAdOx-1,B.1.617.1 Spike,"Figure 4b, Extended Data Table 3",Pseudovirus (HIV),NT50,464,33,1000000,10,NULL,2021-06-27
 Mlcochova21,ChAdOx-1,B.1.617.2 Spike,"Figure 4b, Extended Data Table 3",Pseudovirus (HIV),NT50,654,33,1000000,10,NULL,2021-06-27
