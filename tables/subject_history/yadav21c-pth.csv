@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Yadav21c,AZD1222,1st dose,~,2021-01-01,India,NULL,AZD1222,NULL
+Yadav21c,AZD1222,2nd dose,~,2021-02-26,India,NULL,AZD1222,NULL
+Yadav21c,AZD1222,2nd dose isolation,~,2021-03-26,India,NULL,NULL,NULL
+Yadav21c,AZD1222_recovered,infection,~,2021-01-01,India,NULL,NULL,NULL
+Yadav21c,AZD1222_recovered,1st dose,~,2021-01-01,India,NULL,AZD1222,NULL
+Yadav21c,AZD1222_recovered,2nd dose,~,2021-02-26,India,NULL,AZD1222,NULL
+Yadav21c,AZD1222_recovered,2nd dose isolation,~,2021-03-26,India,NULL,NULL,NULL

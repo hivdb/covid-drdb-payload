@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yadav21c,AZD1222,B.1 full genome,Figure 1A,Virus isolate,NT50,83,43,44,1633,NULL,2021-08-07
+Yadav21c,AZD1222,B.1.617.1 full genome,Figure 1B,Virus isolate,NT50,44,43,44,1633,NULL,2021-08-07
+Yadav21c,AZD1222_recovered,B.1 full genome,Figure 1A,Virus isolate,NT50,1633,18,44,1633,NULL,2021-08-07
+Yadav21c,AZD1222_recovered,B.1.617.1 full genome,Figure 1B,Virus isolate,NT50,715,18,44,1633,NULL,2021-08-07
