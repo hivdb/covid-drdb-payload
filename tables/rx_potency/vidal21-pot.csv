@@ -1,5 +1,5 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Vidal21,CP_early,B.1 full genome,Figure 4A,Pseudovirus (lentivirus),NT50,617,21,617,173,NULL,2021-08-08
-Vidal21,CP_early,S:614G,Figure 4A,Pseudovirus (lentivirus),NT50,880,21,617,173,NULL,2021-08-08
-Vidal21,CP_early,B.1.1.7 Spike,Figure 4A,Pseudovirus (lentivirus),NT50,472,21,617,173,NULL,2021-08-08
-Vidal21,CP_early,B.1.351 Spike,Figure 4A,Pseudovirus (lentivirus),NT50,173,21,617,173,NULL,2021-08-08
+Vidal21,CP_early,Wuhan-Hu-1,Figure 4A,Pseudovirus (lentivirus),NT50,617,21,10000,20,NULL,2021-08-08
+Vidal21,CP_early,S:614G,Figure 4A,Pseudovirus (lentivirus),NT50,880,21,10000,20,NULL,2021-08-08
+Vidal21,CP_early,B.1.1.7 Spike,Figure 4A,Pseudovirus (lentivirus),NT50,472,21,10000,20,NULL,2021-08-08
+Vidal21,CP_early,B.1.351 Spike,Figure 4A,Pseudovirus (lentivirus),NT50,173,21,10000,20,NULL,2021-08-08
