@@ -1,0 +1,6 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhang21d,BBIBP-CorV_V3,Wuhan-Hu-1 Spike,Figure 2,Pseudovirus,NT50,65,470,10000,3,NULL,2021-08-06
+Zhang21d,BBIBP-CorV_V3,B.1.1.7 Spike,Figure 2,Pseudovirus,NT50,32,470,10000,3,NULL,2021-08-06
+Zhang21d,BBIBP-CorV_V3,P.1 Spike,Figure 2,Pseudovirus,NT50,32,470,10000,3,NULL,2021-08-06
+Zhang21d,BBIBP-CorV_V3,B.1.526 Spike,Figure 2,Pseudovirus,NT50,16,470,10000,3,NULL,2021-08-06
+Zhang21d,BBIBP-CorV_V3,B.1.351 Spike,Figure 2,Pseudovirus,NT50,13,470,10000,3,NULL,2021-08-06
