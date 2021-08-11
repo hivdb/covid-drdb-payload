@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccinne_name,severity
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Dupont21,CP_Fig3D_1,infection,~,2021-01-01,UK,B.1.1.7 full genome,NULL,NULL
 Dupont21,CP_Fig3D_1,isolation,~,2021-03-01,UK,B.1.1.7 full genome,NULL,NULL
 Dupont21,CP_Fig3D_2,infection,~,2021-01-01,UK,B.1.1.7 full genome,NULL,NULL
