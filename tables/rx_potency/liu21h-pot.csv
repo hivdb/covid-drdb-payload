@@ -1,0 +1,81 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Liu21h,CP_group1_6,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,246,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_24,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,263,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_91,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,262,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_99,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,129,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_123,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,294,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_124,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,354,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_128,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,194,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_143,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,422,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_29,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,262,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_41,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,194,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_48,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,354,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_72,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,245,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_92,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,129,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_133,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,294,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_146,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,422,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_222,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,263,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_6,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,182,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_24,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,158,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_91,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,163,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_99,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,94,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_123,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,273,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_124,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,227,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_128,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,167,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_143,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,454,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_29,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,163,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_41,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,167,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_48,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,227,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_72,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,182,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_92,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,94,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_133,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,273,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_146,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,454,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_222,B.1.1.7 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,158,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_6,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,119,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_24,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,108,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_91,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,125,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_99,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,74,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_123,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,85,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_124,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,114,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_128,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,79,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_143,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,138,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_29,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,125,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_41,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,79,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_48,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,114,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_72,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,119,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_92,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,74,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_133,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,85,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_146,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,138,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_222,B.1.351 Spike:-18F+241del-244del-246I,Extended Data Fig 1,Pseudovirus (VSV),NT50,108,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_6,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,174,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_24,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,171,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_91,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,158,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_99,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,94,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_123,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,244,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_124,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,309,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_128,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,167,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_143,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,338,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_29,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,158,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_41,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,167,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_48,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,309,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_72,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,174,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_92,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,94,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_133,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,244,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_146,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,338,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_222,P.1 Spike,Extended Data Fig 1,Pseudovirus (VSV),NT50,171,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_6,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,188,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_24,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,180,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_91,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,278,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_99,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,166,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_123,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,170,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_124,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,183,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_128,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,214,1,800,1,NULL,2021-08-13
+Liu21h,CP_group1_143,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,218,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_29,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,278,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_41,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,215,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_48,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,183,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_72,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,189,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_92,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,166,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_133,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,170,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_146,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,218,1,800,1,NULL,2021-08-13
+Liu21h,CP_group2_222,B.1.525 Spike:+144del-145del,Extended Data Fig 1,Pseudovirus (VSV),NT50,180,1,800,1,NULL,2021-08-13
