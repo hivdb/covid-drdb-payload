@@ -1,4 +1,8 @@
-ref_name,subject_name,subject_species,birth_year,num_subjects
+﻿ref_name,subject_name,subject_species,birth_year,num_subjects
+Abe21,Resident_Moderna,Human,NULL,1
+Abe21,Resident_Pfizer,Human,NULL,1
+Abe21,Staff_Moderna,Human,NULL,1
+Abe21,Staff_Pfizer,Human,NULL,1
 Acevedo21,CoronaVac,Human,NULL,1
 Alenquer21,BNT,Human,NULL,1
 Alenquer21,CP_ID_10,Human,NULL,1
