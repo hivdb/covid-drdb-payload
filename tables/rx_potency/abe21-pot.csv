@@ -14,4 +14,8 @@ Abe21,Staff_Moderna,B.1.351 Spike,Figure 4,Pseudovirus (HIV),NT50,376,34,100000,
 Abe21,Staff_Pfizer,S:614G,Figure 4,Pseudovirus (HIV),NT50,365,44,100000,3,NULL,2021-08-13
 Abe21,Staff_Pfizer,B.1.1.7 Spike,Figure 4,Pseudovirus (HIV),NT50,375,44,100000,3,NULL,2021-08-13
 Abe21,Staff_Pfizer,P.1 Spike,Figure 4,Pseudovirus (HIV),NT50,380,44,100000,3,NULL,2021-08-13
+<<<<<<< HEAD
 Abe21,Staff_Pfizer,B.1.351 Spike,Figure 4,Pseudovirus (HIV),NT50,390,44,100000,3,NULL,2021-08-13
+=======
+Abe21,Staff_Pfizer,B.1.351 Spike,Figure 4,Pseudovirus (HIV),NT50,390,44,100000,3,NULL,2021-08-13
+>>>>>>> 88f762a... Abe21
