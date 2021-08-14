@@ -10,4 +10,8 @@ Abe21,Staff_Moderna,2nd dose,~,2021-01-29,Canada,NULL,mRNA-1273,NULL
 Abe21,Staff_Moderna,isolation,~,2021-02-26,Canada,NULL,NULL,NULL
 Abe21,Staff_Pfizer,1st dose,~,2021-01-01,Canada,NULL,BNT162b2,NULL
 Abe21,Staff_Pfizer,2nd dose,~,2021-01-29,Canada,NULL,BNT162b2,NULL
+<<<<<<< HEAD
 Abe21,Staff_Pfizer,isolation,~,2021-02-26,Canada,NULL,NULL,NULL
+=======
+Abe21,Staff_Pfizer,isolation,~,2021-02-26,Canada,NULL,NULL,NULL
+>>>>>>> 88f762a... Abe21
