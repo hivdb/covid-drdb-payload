@@ -1,0 +1,17 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Abe21,Resident_Moderna,S:614G,Figure 4,Pseudovirus (HIV),NT50,1853,111,100000,3,NULL,2021-08-13
+Abe21,Resident_Moderna,B.1.1.7 Spike,Figure 4,Pseudovirus (HIV),NT50,1391,111,100000,3,NULL,2021-08-13
+Abe21,Resident_Moderna,P.1 Spike,Figure 4,Pseudovirus (HIV),NT50,858,111,100000,3,NULL,2021-08-13
+Abe21,Resident_Moderna,B.1.351 Spike,Figure 4,Pseudovirus (HIV),NT50,349,111,100000,3,NULL,2021-08-13
+Abe21,Resident_Pfizer,S:614G,Figure 4,Pseudovirus (HIV),NT50,469,87,100000,3,NULL,2021-08-13
+Abe21,Resident_Pfizer,B.1.1.7 Spike,Figure 4,Pseudovirus (HIV),NT50,283,87,100000,3,NULL,2021-08-13
+Abe21,Resident_Pfizer,P.1 Spike,Figure 4,Pseudovirus (HIV),NT50,162,87,100000,3,NULL,2021-08-13
+Abe21,Resident_Pfizer,B.1.351 Spike,Figure 4,Pseudovirus (HIV),NT50,59,87,100000,3,NULL,2021-08-13
+Abe21,Staff_Moderna,S:614G,Figure 4,Pseudovirus (HIV),NT50,348,34,100000,3,NULL,2021-08-13
+Abe21,Staff_Moderna,B.1.1.7 Spike,Figure 4,Pseudovirus (HIV),NT50,361,34,100000,3,NULL,2021-08-13
+Abe21,Staff_Moderna,P.1 Spike,Figure 4,Pseudovirus (HIV),NT50,367,34,100000,3,NULL,2021-08-13
+Abe21,Staff_Moderna,B.1.351 Spike,Figure 4,Pseudovirus (HIV),NT50,376,34,100000,3,NULL,2021-08-13
+Abe21,Staff_Pfizer,S:614G,Figure 4,Pseudovirus (HIV),NT50,365,44,100000,3,NULL,2021-08-13
+Abe21,Staff_Pfizer,B.1.1.7 Spike,Figure 4,Pseudovirus (HIV),NT50,375,44,100000,3,NULL,2021-08-13
+Abe21,Staff_Pfizer,P.1 Spike,Figure 4,Pseudovirus (HIV),NT50,380,44,100000,3,NULL,2021-08-13
+Abe21,Staff_Pfizer,B.1.351 Spike,Figure 4,Pseudovirus (HIV),NT50,390,44,100000,3,NULL,2021-08-13
