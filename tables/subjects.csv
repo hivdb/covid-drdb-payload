@@ -277,7 +277,7 @@ Deng21,mRNA-1273_6,Human,NULL,1
 Deng21,mRNA-1273_7,Human,NULL,1
 Deng21,mRNA-1273_8,Human,NULL,1
 Deng21,mRNA-1273_9,Human,NULL,1
-Diez21,CP,Human,NULL,1
+Diez21,CP,Human,NULL,3
 Dupont21,CP_Fig2C_1,Human,NULL,1
 Dupont21,CP_Fig2C_10,Human,NULL,1
 Dupont21,CP_Fig2C_11,Human,NULL,1
@@ -1153,10 +1153,10 @@ Moyo-Gwete21,CP_B.1.351,Human,NULL,1
 Muecksch21b,CP_SF4,Human,NULL,1
 Muik21,BNT162b2_d29,Human,NULL,1
 Muik21,BNT162b2_d43,Human,NULL,1
-Pannus21,Infected_Resident,Human,NULL,1
-Pannus21,Infected_Staff,Human,NULL,1
-Pannus21,Naive_Resident,Human,NULL,1
-Pannus21,Naive_Staff,Human,NULL,1
+Pannus21,Infected_Resident,Human,NULL,19
+Pannus21,Infected_Staff,Human,NULL,20
+Pannus21,Naive_Resident,Human,NULL,21
+Pannus21,Naive_Staff,Human,NULL,20
 Pegu21,mRNA-1273,Human,NULL,1
 Planas21,BNT01,Human,NULL,1
 Planas21,BNT02,Human,NULL,1
@@ -1239,8 +1239,8 @@ Planas21b,CP_Strasbourg,Human,NULL,1
 Planas21b,CP_Strasbourg_Vaccinee,Human,NULL,1
 Rees-Spear21,CP_Mild,Human,NULL,1
 Rees-Spear21,CP_Severe,Human,NULL,1
-Riou21,CP_wave1,Human,NULL,1
-Riou21,CP_wave2,Human,NULL,1
+Riou21,CP_wave1,Human,NULL,18
+Riou21,CP_wave2,Human,NULL,19
 Rondinone21,CP_01,Human,NULL,1
 Rondinone21,CP_02,Human,NULL,1
 Rondinone21,CP_03,Human,NULL,1
@@ -1254,7 +1254,7 @@ Rondinone21,CP_10,Human,NULL,1
 Rondinone21,CP_11,Human,NULL,1
 Rondinone21,CP_12,Human,NULL,1
 Sahin20,Subject_PSV,Human,NULL,1
-Sahin21,BNT,Human,NULL,1
+Sahin21,BNT,Human,NULL,5
 Sapkal21,BBV152,Human,NULL,1
 Sapkal21,CP,Human,NULL,1
 Sapkal21b,BBV152,Human,NULL,1
