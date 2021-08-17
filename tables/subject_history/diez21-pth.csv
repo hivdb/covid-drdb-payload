@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Diez21,CP,infection,~,2021-01-01,USA,B.1 full genome,NULL,NULL
+Diez21,CP,isolation,~,2021-01-01,USA,B.1 full genome,NULL,NULL
