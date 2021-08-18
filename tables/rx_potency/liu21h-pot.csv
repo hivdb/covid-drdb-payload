@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Liu21h,CP_group1_6,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,246,1,800,1,NULL,2021-08-13
 Liu21h,CP_group1_24,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,263,1,800,1,NULL,2021-08-13
 Liu21h,CP_group1_91,S:614G,Extended Data Fig 1,Pseudovirus (VSV),NT50,262,1,800,1,NULL,2021-08-13

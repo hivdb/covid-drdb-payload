@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Riou21,CP_wave1,infection,~,2020-06-11,South Africa,B.1 full genome,NULL,Hospitalized
+Riou21,CP_wave1,isolation,~,2020-06-16,South Africa,B.1 full genome,NULL,NULL
+Riou21,CP_wave2,infection,~,2020-12-30,South Africa,B.1.351 full genome,NULL,Hospitalized
+Riou21,CP_wave2,isolation,~,2021-01-07,South Africa,B.1.351 full genome,NULL,NULL

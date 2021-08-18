@@ -1,0 +1,9 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Pannus21,Naive_Staff,Wuhan-Hu-1,Supplemental Table 1,Virus isolate,NT50,222,19,25600,50,NULL,2021-08-16
+Pannus21,Naive_Staff,B.1.351 full genome,Supplemental Table 1,Virus isolate,NT50,30,19,25600,50,NULL,2021-08-16
+Pannus21,Naive_Resident,Wuhan-Hu-1,Supplemental Table 1,Virus isolate,NT50,71,20,25600,50,NULL,2021-08-16
+Pannus21,Naive_Resident,B.1.351 full genome,Supplemental Table 1,Virus isolate,NT50,25,20,25600,50,NULL,2021-08-16
+Pannus21,Infected_Staff,Wuhan-Hu-1,Supplemental Table 1,Virus isolate,NT50,5126,21,25600,50,NULL,2021-08-16
+Pannus21,Infected_Staff,B.1.351 full genome,Supplemental Table 1,Virus isolate,NT50,637,21,25600,50,NULL,2021-08-16
+Pannus21,Infected_Resident,Wuhan-Hu-1,Supplemental Table 1,Virus isolate,NT50,4617,20,25600,50,NULL,2021-08-16
+Pannus21,Infected_Resident,B.1.351 full genome,Supplemental Table 1,Virus isolate,NT50,1282,20,25600,50,NULL,2021-08-16

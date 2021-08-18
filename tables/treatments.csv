@@ -642,6 +642,10 @@ Zhou21b,175H+222L
 Zhou21c,REGN10933
 Zhou21c,REGN10987
 Zhou21c,REGN10933+REGN10987
+Abe21,Resident_Moderna
+Abe21,Resident_Pfizer
+Abe21,Staff_Moderna
+Abe21,Staff_Pfizer
 Acevedo21,CoronaVac_F1_1
 Acevedo21,CoronaVac_F1_2
 Acevedo21,CoronaVac_F1_3
@@ -1839,6 +1843,7 @@ deSouza21,PiCoV-35_2D
 deSouza21,PiCoV-36_2D
 deSouza21,PiCoV-37_2D
 deSouza21,PiCoV-38_2D
+Diez21,CP
 Dupont21,CP_Fig3D_1
 Dupont21,CP_Fig3D_2
 Dupont21,CP_Fig3D_3
@@ -4443,6 +4448,10 @@ Muik21,BNT162b2_Y_3W:37
 Muik21,BNT162b2_Y_1M:38
 Muik21,BNT162b2_Y_1M:39
 Muik21,BNT162b2_Y_3W:40
+Pannus21,Naive_Staff
+Pannus21,Naive_Resident
+Pannus21,Infected_Staff
+Pannus21,Infected_Resident
 Pegu21,mRNA-1273_d29_1
 Pegu21,mRNA-1273_d29_2
 Pegu21,mRNA-1273_d29_3
@@ -5177,6 +5186,8 @@ Rees-Spear21,CP_Mild_G2_15
 Rees-Spear21,CP_Mild_G2_16
 Rees-Spear21,CP_Mild_G2_17
 Rees-Spear21,CP_Mild_G2_18
+Riou21,CP_wave1
+Riou21,CP_wave2
 Rondinone21,CP_01
 Rondinone21,CP_02
 Rondinone21,CP_03
@@ -5190,6 +5201,8 @@ Rondinone21,CP_10
 Rondinone21,CP_11
 Rondinone21,CP_12
 Sahin20,BNT162b2
+Sahin21,BNT_Fig4d
+Sahin21,BNT_Fig1b
 Sapkal21,CP_01
 Sapkal21,CP_02
 Sapkal21,CP_03

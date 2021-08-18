@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Sahin21,BNT_Fig4d,Wuhan-Hu-1,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,2326,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:321L,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,741,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:341I,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,1123,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:348T,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,1540,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:354D,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,2174,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:359N,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,1795,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:367F,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,741,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:378R,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,1795,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:408I,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,1360,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:409E,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,1624,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:435S,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,935,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:439K,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,624,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:458R,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,2250,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:472V,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,752,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:476S,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,4907,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:477N,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,695,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:483A,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,806,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:508H,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,624,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:519P,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,822,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig4d,S:614G,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,822,5,10000,90,NULL,2021-08-16
+Sahin21,BNT_Fig1b,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,7727,12,1000,10,NULL,2021-08-16
+Sahin21,BNT_Fig1b,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,7130,12,1000,10,NULL,2021-08-16
+Sahin21,BNT_Fig1b,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,1121,12,1000,10,NULL,2021-08-16
+Sahin21,BNT_Fig1b,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,902,12,1000,10,NULL,2021-08-16
