@@ -1,8 +1,8 @@
 ﻿ref_name,subject_name,subject_species,birth_year,num_subjects
-Abe21,Resident_Moderna,Human,1933,111
-Abe21,Resident_Pfizer,Human,1933,87
-Abe21,Staff_Moderna,Human,1974,34
-Abe21,Staff_Pfizer,Human,1974,44
+Abe21,Resident_Moderna,Human,NULL,111
+Abe21,Resident_Pfizer,Human,NULL,87
+Abe21,Staff_Moderna,Human,NULL,34
+Abe21,Staff_Pfizer,Human,NULL,44
 Acevedo21,CoronaVac,Human,NULL,1
 Alenquer21,BNT,Human,NULL,1
 Alenquer21,CP_ID_10,Human,NULL,1
