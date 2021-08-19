@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Zhao21,CoronaVac_Regimen1,1st dose,~,2021-01-01,China,NULL,CoronaVac,NULL
+Zhao21,CoronaVac_Regimen1,2nd dose,~,2021-01-29,China,NULL,CoronaVac,NULL
+Zhao21,CoronaVac_Regimen1,3rd dose,~,2021-03-05,China,NULL,CoronaVac,NULL
+Zhao21,CoronaVac_Regimen1,isolation,~,2021-03-19,China,NULL,NULL,NULL
+Zhao21,CoronaVac_Regimen2,1st dose,~,2021-01-01,China,NULL,CoronaVac,NULL
+Zhao21,CoronaVac_Regimen2,2nd dose,~,2021-01-29,China,NULL,CoronaVac,NULL
+Zhao21,CoronaVac_Regimen2,3rd dose,~,2021-05-22,China,NULL,CoronaVac,NULL
+Zhao21,CoronaVac_Regimen2,isolation,~,2021-06-26,China,NULL,NULL,NULL
