@@ -1517,9 +1517,9 @@ Trinite21,CP_Mar20_early,Human,NULL,1
 Trinite21,CP_Mar20_late,Human,NULL,1
 Turner21,BNT_infected,Human,NULL,1
 Turner21,BNT_uninfected,Human,NULL,1
-Vacharathit21,CP_2020,Human,NULL,30
-Vacharathit21,CP_2021,Human,NULL,30
-Vacharathit21,CoronaVac,Human,NULL,60
+Vacharathit21,CP_2020,Human,1972,30
+Vacharathit21,CP_2021,Human,1975,30
+Vacharathit21,CoronaVac,Human,1961,60
 Vidal21,CP,Human,NULL,1
 Virtanen21,COV-04,Human,NULL,1
 Virtanen21,COV-05,Human,NULL,1
