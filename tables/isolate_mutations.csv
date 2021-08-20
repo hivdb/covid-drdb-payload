@@ -3583,12 +3583,12 @@ hCoV-19/India/2020Q111,nsp2,198,I
 B.1 full genome,RdRP,323,L
 B.1 full genome,S,614,G
 B.1 Spike,S,614,G
-B.1_EHC-083E_454690 full genome,RdRP,323,L
-B.1_EHC-083E_454690 full genome,S,614,G
-B.1_EHC-083E_454690 full genome,ORF3a,57,Q
-B.1_EHC-083E_454690 full genome,ORF8,66,del
-B.1_EHC-083E_454690 full genome,ORF8,67,del
-B.1_EHC-083E_454690 full genome,ORF8,68,E
+A_EHC-083E_454690 full genome,RdRP,323,L
+A_EHC-083E_454690 full genome,S,614,G
+A_EHC-083E_454690 full genome,ORF3a,57,Q
+A_EHC-083E_454690 full genome,ORF8,66,del
+A_EHC-083E_454690 full genome,ORF8,67,del
+A_EHC-083E_454690 full genome,ORF8,68,E
 hCoV-19/Israel/CVL-45526-ngs/2020,nsp2,129,L
 hCoV-19/Israel/CVL-45526-ngs/2020,nsp6,190,F
 hCoV-19/Israel/CVL-45526-ngs/2020,RdRP,323,L
