@@ -1517,6 +1517,9 @@ Trinite21,CP_Mar20_early,Human,NULL,1
 Trinite21,CP_Mar20_late,Human,NULL,1
 Turner21,BNT_infected,Human,NULL,1
 Turner21,BNT_uninfected,Human,NULL,1
+Vacharathit21,CP_2020,Human,NULL,30
+Vacharathit21,CP_2021,Human,NULL,30
+Vacharathit21,CoronaVac,Human,NULL,60
 Vidal21,CP,Human,NULL,1
 Virtanen21,COV-04,Human,NULL,1
 Virtanen21,COV-05,Human,NULL,1
@@ -1839,6 +1842,8 @@ Wu21,Mod,Human,NULL,1
 Wu21b,mRNA-1273.211_mice,Human,NULL,1
 Wu21b,mRNA-1273.351_mice,Human,NULL,1
 Wu21b,mRNA-1273_mice,Human,NULL,1
+Wu21c,mRNA-1273,Human,1967,20
+Wu21c,mRNA-1273.351,Human,1957,20
 Xie21,BNT162b2,Human,NULL,1
 Yadav21,BBV152,Human,NULL,1
 Yadav21b,BBV152,Human,NULL,1
@@ -1851,6 +1856,8 @@ Zhang21c,CP,Human,NULL,1
 Zhang21c,CP_B.1.1.7,Human,NULL,1
 Zhang21c,CP_B.1.351,Human,NULL,1
 Zhang21d,BBIBP-CorV,Human,NULL,1
+Zhao21,CoronaVac_Regimen1,Human,NULL,16
+Zhao21,CoronaVac_Regimen2,Human,NULL,12
 Zhou21b,AZD1222_14d,Human,NULL,1
 Zhou21b,AZD1222_28d,Human,NULL,1
 Zhou21b,BNT162b2_1,Human,NULL,1
