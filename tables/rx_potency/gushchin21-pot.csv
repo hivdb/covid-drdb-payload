@@ -1,0 +1,34 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gushchin21,Sputnik_T1,hCoV-19/Russia/Moscow_PMVL-1/2020,Figure 3,Virus isolate,NT50,81,27,NULL,20,NULL,2021-08-23
+Gushchin21,Sputnik_T1,hCoV-19/Netherlands/NoordHolland_20432/2020,Figure 3,Virus isolate,NT50,81,27,NULL,20,NULL,2021-08-23
+Gushchin21,Sputnik_T1,hCoV-19/Russia/MOW-PMVL-43/2021,Figure 3,Virus isolate,NT50,81,27,NULL,20,NULL,2021-08-23
+Gushchin21,Sputnik_T1,hCoV-19/Russia/MOW-PMVL-31/2020,Figure 3,Virus isolate,NT50,81,27,NULL,20,NULL,2021-08-23
+Gushchin21,Sputnik_T1,hCoV-19/Russia/SPE-RII-27029S/2021,Figure 3,Virus isolate,NT50,20,27,NULL,20,NULL,2021-08-23
+Gushchin21,Sputnik_T2,hCoV-19/Russia/Moscow_PMVL-1/2020,Figure 3,Virus isolate,NT50,117,16,NULL,20,NULL,2021-08-23
+Gushchin21,Sputnik_T2,P.1 full genome,Figure 3,Virus isolate,NT50,20,16,NULL,20,NULL,2021-08-23
+Gushchin21,Sputnik_T2,B.1.617.2 Spike:+142D,Figure 3,Virus isolate,NT50,48,16,NULL,20,NULL,2021-08-23
+Gushchin21,Sputnik_T2,S:19R+142D+156G+157del+158del+452R+484Q+614G+681R+950N,Figure 3,Virus isolate,NT50,61,16,NULL,20,NULL,2021-08-23
+Gushchin21,S003,Wuhan-Hu-1,Table S4,Pseudovirus (lentivirus),NT50,237.3,1,NULL,20,NULL,2021-08-23
+Gushchin21,S004,Wuhan-Hu-1,Table S4,Pseudovirus (lentivirus),NT50,89.63,1,NULL,20,NULL,2021-08-23
+Gushchin21,S005,Wuhan-Hu-1,Table S4,Pseudovirus (lentivirus),NT50,110.6,1,NULL,20,NULL,2021-08-23
+Gushchin21,S006,Wuhan-Hu-1,Table S4,Pseudovirus (lentivirus),NT50,526.8,1,NULL,20,NULL,2021-08-23
+Gushchin21,S008,Wuhan-Hu-1,Table S4,Pseudovirus (lentivirus),NT50,310.4,1,NULL,20,NULL,2021-08-23
+Gushchin21,S010,Wuhan-Hu-1,Table S4,Pseudovirus (lentivirus),NT50,234.5,1,NULL,20,NULL,2021-08-23
+Gushchin21,S012,Wuhan-Hu-1,Table S4,Pseudovirus (lentivirus),NT50,239,1,NULL,20,NULL,2021-08-23
+Gushchin21,S013,Wuhan-Hu-1,Table S4,Pseudovirus (lentivirus),NT50,289.6,1,NULL,20,NULL,2021-08-23
+Gushchin21,S003,S:69del+70del+124I+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S4,Pseudovirus (lentivirus),NT50,272.3,1,NULL,20,NULL,2021-08-23
+Gushchin21,S004,S:69del+70del+124I+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S4,Pseudovirus (lentivirus),NT50,197.5,1,NULL,20,NULL,2021-08-23
+Gushchin21,S005,S:69del+70del+124I+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S4,Pseudovirus (lentivirus),NT50,211.7,1,NULL,20,NULL,2021-08-23
+Gushchin21,S006,S:69del+70del+124I+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S4,Pseudovirus (lentivirus),NT50,172,1,NULL,20,NULL,2021-08-23
+Gushchin21,S008,S:69del+70del+124I+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S4,Pseudovirus (lentivirus),NT50,144.2,1,NULL,20,NULL,2021-08-23
+Gushchin21,S010,S:69del+70del+124I+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S4,Pseudovirus (lentivirus),NT50,152.9,1,NULL,20,NULL,2021-08-23
+Gushchin21,S012,S:69del+70del+124I+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S4,Pseudovirus (lentivirus),NT50,111.4,1,NULL,20,NULL,2021-08-23
+Gushchin21,S013,S:69del+70del+124I+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S4,Pseudovirus (lentivirus),NT50,161.3,1,NULL,20,NULL,2021-08-23
+Gushchin21,S003,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S4,Pseudovirus (lentivirus),NT50,47.95,1,NULL,20,NULL,2021-08-23
+Gushchin21,S004,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S4,Pseudovirus (lentivirus),NT50,59.94,1,NULL,20,NULL,2021-08-23
+Gushchin21,S005,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S4,Pseudovirus (lentivirus),NT50,35.47,1,NULL,20,NULL,2021-08-23
+Gushchin21,S006,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S4,Pseudovirus (lentivirus),NT50,132.4,1,NULL,20,NULL,2021-08-23
+Gushchin21,S008,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S4,Pseudovirus (lentivirus),NT50,56.87,1,NULL,20,NULL,2021-08-23
+Gushchin21,S010,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S4,Pseudovirus (lentivirus),NT50,36.97,1,NULL,20,NULL,2021-08-23
+Gushchin21,S012,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S4,Pseudovirus (lentivirus),NT50,68.15,1,NULL,20,NULL,2021-08-23
+Gushchin21,S013,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S4,Pseudovirus (lentivirus),NT50,34.83,1,NULL,20,NULL,2021-08-23
