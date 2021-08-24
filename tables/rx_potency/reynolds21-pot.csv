@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Reynolds21,Plasma_naive,Wuhan-Hu-1,Figure 1G,Virus isolate,NT50,50,20,20480,50,NULL,2021-08-24
+Reynolds21,CP,Wuhan-Hu-1,Figure 1G,Virus isolate,NT50,879,24,20480,50,NULL,2021-08-24
+Reynolds21,BNT162b2,Wuhan-Hu-1,Figure 1G,Virus isolate,NT50,421,20,20480,50,NULL,2021-08-24
+Reynolds21,BNT162b2_infected,Wuhan-Hu-1,Figure 1G,Virus isolate,NT50,25118,24,20480,50,NULL,2021-08-24
+Reynolds21,Plasma_naive,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,50,20,20480,50,NULL,2021-08-24
+Reynolds21,CP,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,56,24,20480,50,NULL,2021-08-24
+Reynolds21,BNT162b2,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,58,20,20480,50,NULL,2021-08-24
+Reynolds21,BNT162b2_infected,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,1679,24,20480,50,NULL,2021-08-24
+Reynolds21,Plasma_naive,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,20,20480,50,NULL,2021-08-24
+Reynolds21,CP,B.1.351 full genome,Figure 2A,Virus isolate,NT50,104,24,20480,50,NULL,2021-08-24
+Reynolds21,BNT162b2,B.1.351 full genome,Figure 2A,Virus isolate,NT50,100,20,20480,50,NULL,2021-08-24
+Reynolds21,BNT162b2_infected,B.1.351 full genome,Figure 2A,Virus isolate,NT50,5309,24,20480,50,NULL,2021-08-24

@@ -1248,6 +1248,8 @@ Planas21b,CP_Strasbourg,Human,NULL,1
 Planas21b,CP_Strasbourg_Vaccinee,Human,NULL,1
 Rees-Spear21,CP_Mild,Human,NULL,1
 Rees-Spear21,CP_Severe,Human,NULL,1
+Reynolds21,BNT162b2,Human,1978,20
+Reynolds21,BNT162b2_infected,Human,1978,24
 Riou21,CP_wave1,Human,NULL,18
 Riou21,CP_wave2,Human,NULL,19
 Rondinone21,CP_01,Human,NULL,1
