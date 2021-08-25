@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yadav21d,BBV152,hCoV-19/India/un-NIV_P1_20203524/2020,Figure 1a,Virus isolate,NT50,552,42,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152_recovered,hCoV-19/India/un-NIV_P1_20203524/2020,Figure 1a,Virus isolate,NT50,1160,14,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152_breakthrough,hCoV-19/India/un-NIV_P1_20203524/2020,Figure 1a,Virus isolate,NT50,1600,30,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,Figure 1b,Virus isolate,NT50,523,42,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152_recovered,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,Figure 1b,Virus isolate,NT50,523,14,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152_breakthrough,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,Figure 1b,Virus isolate,NT50,1380,30,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152,hCoV-19/India/TN-ICMR-MCL_3687_4681_Iso/2021,Figure 1c,Virus isolate,NT50,459,42,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152_recovered,hCoV-19/India/TN-ICMR-MCL_3687_4681_Iso/2021,Figure 1c,Virus isolate,NT50,383,14,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152_breakthrough,hCoV-19/India/TN-ICMR-MCL_3687_4681_Iso/2021,Figure 1c,Virus isolate,NT50,1061,30,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152,hCoV-19/India/MH-ICMR-202356035_isolate/2021,Figure 1d,Virus isolate,NT50,389,42,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152_recovered,hCoV-19/India/MH-ICMR-202356035_isolate/2021,Figure 1d,Virus isolate,NT50,341,14,NULL,100,NULL,2021-08-25
+Yadav21d,BBV152_breakthrough,hCoV-19/India/MH-ICMR-202356035_isolate/2021,Figure 1d,Virus isolate,NT50,659,30,NULL,100,NULL,2021-08-25
