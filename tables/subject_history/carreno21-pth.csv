@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Carreno21,mRNA_VP,1st dose,~,2021-04-25,USA,NULL,mRNA,NULL
+Carreno21,mRNA_VP,2nd dose,~,2021-05-21,USA,NULL,mRNA,NULL
+Carreno21,mRNA_VP,2nd dose isolation,~,2021-05-30,USA,NULL,NULL,NULL
