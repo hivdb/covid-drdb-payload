@@ -136,12 +136,12 @@ Chen21,ChAd_Mice_6,Human,NULL,1
 Chen21,ChAd_Mice_7,Human,NULL,1
 Chen21,ChAd_Mice_8,Human,NULL,1
 Chen21,ChAd_Mice_9,Human,NULL,1
-Chen21,ChAd_Rhesus_macaques_1,Human,NULL,1
-Chen21,ChAd_Rhesus_macaques_2,Human,NULL,1
-Chen21,ChAd_Rhesus_macaques_3,Human,NULL,1
-Chen21,ChAd_Rhesus_macaques_4,Human,NULL,1
-Chen21,ChAd_Rhesus_macaques_5,Human,NULL,1
-Chen21,ChAd_Rhesus_macaques_6,Human,NULL,1
+Chen21,ChAd_Rhesus_macaques_1,Macaque,NULL,1
+Chen21,ChAd_Rhesus_macaques_2,Macaque,NULL,1
+Chen21,ChAd_Rhesus_macaques_3,Macaque,NULL,1
+Chen21,ChAd_Rhesus_macaques_4,Macaque,NULL,1
+Chen21,ChAd_Rhesus_macaques_5,Macaque,NULL,1
+Chen21,ChAd_Rhesus_macaques_6,Macaque,NULL,1
 Chen21b,Patient,Human,NULL,1
 Chen21c,CoronaVac,Human,NULL,1
 Choi21,mRNA-1273,Human,NULL,1
@@ -1865,6 +1865,7 @@ Yadav21b,CP,Human,NULL,1
 Yadav21c,AZD1222,Human,NULL,1
 Yadav21c,AZD1222_recovered,Human,NULL,1
 Yi21,CP,Human,NULL,1
+Yu21b,Ad26.COV2.S,Macaque,NULL,1
 Zani21,BNT162b2,Human,NULL,1
 Zhang21c,CP,Human,NULL,1
 Zhang21c,CP_B.1.1.7,Human,NULL,1
@@ -1917,8 +1918,8 @@ Zhou21c,BNT162b2,Human,NULL,1
 Zhou21c,CP,Human,NULL,1
 Zhou21c,mRNA-1273,Human,NULL,1
 Zou21,CP,Human,NULL,1
-Zou21,CP_Macaque_d28,Human,NULL,1
-Zou21,CP_Macaque_d35,Human,NULL,1
+Zou21,CP_Macaque_d28,Macaque,NULL,1
+Zou21,CP_Macaque_d35,Macaque,NULL,1
 Zou21,CP_Mouse,Human,NULL,1
 Zuckerman21,BNT162b2,Human,NULL,1
 deSouza21,CP_BD0129,Human,NULL,1
