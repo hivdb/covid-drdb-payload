@@ -1,0 +1,14 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Wilson21,CP_IgG,SARS-CoV-2/UT-NCGM02/Human/2020/Tokyo,Figure 1a,Virus isolate,NT50,1887,10,NULL,20,NULL,2021-08-25
+Wilson21,CP_IgG,S:614G,Figure 1a,Virus isolate,NT50,1643,10,NULL,20,NULL,2021-08-25
+Wilson21,CP_IgG,hCoV-19/Japan/QHN001/2020,Figure 1a,Virus isolate,NT50,1347,10,NULL,20,NULL,2021-08-25
+Wilson21,CP_IgG,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Figure 1a,Virus isolate,NT50,1220,10,NULL,20,NULL,2021-08-25
+Wilson21,CP_IgG,hCoV-19/Japan/TY7-501/2021,Figure 1a,Virus isolate,NT50,574,10,NULL,20,NULL,2021-08-25
+Wilson21,CP_IgG,S:5F+95I+253G+484K+614G+701V,Figure 1a,Virus isolate,NT50,1709,10,NULL,20,NULL,2021-08-25
+Wilson21,CP_IgG,hCoV-19/USA/CA-Stanford-15_S02/2021,Figure 1a,Virus isolate,NT50,1000,10,NULL,20,NULL,2021-08-25
+Wilson21,CP_IgG,S:157L+367F+613H+681R,Figure 1a,Virus isolate,NT50,2302,10,NULL,20,NULL,2021-08-25
+Wilson21,CP,SARS-CoV-2/UT-NCGM02/Human/2020/Tokyo,Figure 1c,Virus isolate,NT50,84,10,NULL,20,NULL,2021-08-25
+Wilson21,CP,hCoV-19/Japan/QHN001/2020,Figure 1c,Virus isolate,NT50,184,10,NULL,20,NULL,2021-08-25
+Wilson21,CP,hCoV-19/Japan/TY7-501/2021,Figure 1c,Virus isolate,NT50,110,10,NULL,20,NULL,2021-08-25
+Wilson21,CP,hCoV-19/USA/CA-Stanford-15_S02/2021,Figure 1c,Virus isolate,NT50,43,10,NULL,20,NULL,2021-08-25
+Wilson21,CP,hCoV-19/USA/WI-UW-5250/2021,Figure 1c,Virus isolate,NT50,27,10,NULL,20,NULL,2021-08-25
