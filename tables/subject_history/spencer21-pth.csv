@@ -1,0 +1,17 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Spencer21,AZD1222_1dose,1st dose,~,2021-02-14,UK,NULL,AZD1222,NULL
+Spencer21,AZD1222_1dose,1st dose isolation,~,2021-03-02,UK,NULL,NULL,NULL
+Spencer21,AZD2816_1dose,1st dose,~,2021-02-14,UK,NULL,AZD2816,NULL
+Spencer21,AZD2816_1dose,1st dose isolation,~,2021-03-02,UK,NULL,NULL,NULL
+Spencer21,AZD1222_2816_1dose,1st dose,~,2021-02-14,UK,NULL,AZD1222 + AZD2816,NULL
+Spencer21,AZD1222_2816_1dose,1st dose isolation,~,2021-03-02,UK,NULL,NULL,NULL
+Spencer21,AZD1222_2816_2dose,1st dose,~,2021-02-14,UK,NULL,AZD1222,NULL
+Spencer21,AZD1222_2816_2dose,2nd dose,~,2021-03-14,UK,NULL,AZD2816,NULL
+Spencer21,AZD1222_2816_2dose,2nd dose isolation,~,2021-04-30,UK,NULL,NULL,NULL
+Spencer21,AZD1222_2dose,1st dose,~,2021-02-14,UK,NULL,AZD1222,NULL
+Spencer21,AZD1222_2dose,2nd dose,~,2021-03-14,UK,NULL,AZD1222,NULL
+Spencer21,AZD1222_2dose,2nd dose isolation,~,2021-04-30,UK,NULL,NULL,NULL
+Spencer21,AZD1222_2dose_AZD2816,1st dose,~,2021-02-14,UK,NULL,AZD1222,NULL
+Spencer21,AZD1222_2dose_AZD2816,2nd dose,~,2021-03-14,UK,NULL,AZD1222,NULL
+Spencer21,AZD1222_2dose_AZD2816,3rd dose,~,2021-04-11,UK,NULL,AZD2816,NULL
+Spencer21,AZD1222_2dose_AZD2816,3rd dose isolation,~,2021-04-30,UK,NULL,NULL,NULL
