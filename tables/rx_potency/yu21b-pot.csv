@@ -1,7 +1,7 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Yu21b,Ad26.COV2.S,Wuhan-Hu-1,Figure 1a,Pseudovirus (CMV),NT50,679,12,NULL,50,NULL,2021-08-25
-Yu21b,Ad26.COV2.S,S:614G,Figure 1a,Pseudovirus (CMV),NT50,575,12,NULL,50,NULL,2021-08-25
-Yu21b,Ad26.COV2.S,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 1a,Pseudovirus (CMV),NT50,159,12,NULL,50,NULL,2021-08-25
+Yu21b,Ad26.COV2.S,Wuhan-Hu-1,Figure 1a,Pseudovirus (lentivirus),NT50,679,12,NULL,50,NULL,2021-08-25
+Yu21b,Ad26.COV2.S,S:614G,Figure 1a,Pseudovirus (lentivirus),NT50,575,12,NULL,50,NULL,2021-08-25
+Yu21b,Ad26.COV2.S,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 1a,Pseudovirus (lentivirus),NT50,159,12,NULL,50,NULL,2021-08-25
 Yu21b,Ad26.COV2.S,WA1,Extended Data Fig. 1,SARS-CoV-2 recombinant,NT50,1046,12,NULL,20,NULL,2021-08-25
 Yu21b,Ad26.COV2.S,S:69del+70del+145del+501Y+570D+614G+681H+716I+982A+1118H,Extended Data Fig. 1,SARS-CoV-2 recombinant,NT50,2358,12,NULL,20,NULL,2021-08-25
 Yu21b,Ad26.COV2.S,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Extended Data Fig. 1,SARS-CoV-2 recombinant,NT50,37,12,NULL,20,NULL,2021-08-25
