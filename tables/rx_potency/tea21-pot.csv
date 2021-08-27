@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Tea21,CP_first_wave,hCoV-19/Australia/NSW2713/2020,Figure 5H,Virus isolate,NT50,160,31,2560,20,NULL,2021-08-27
+Tea21,CP_first_wave,hCoV-19/Australia/NSW712/2020,Figure 5H,Virus isolate,NT50,80,31,2560,20,NULL,2021-08-27
+Tea21,CP_second_wave,hCoV-19/Australia/NSW2713/2020,Figure 5H,Virus isolate,NT50,80,17,2560,20,NULL,2021-08-27
+Tea21,CP_second_wave,hCoV-19/Australia/NSW712/2020,Figure 5H,Virus isolate,NT50,80,17,2560,20,NULL,2021-08-27
+Tea21,CP_first_wave,hCoV-19/Australia/NSW3878/2021,Figure 5K,Virus isolate,NT50,40,31,2560,20,NULL,2021-08-27
+Tea21,CP_second_wave,hCoV-19/Australia/NSW3878/2021,Figure 5K,Virus isolate,NT50,20,17,2560,20,NULL,2021-08-27
+Tea21,CP_first_wave,hCoV-19/Australia/NSW4318/2021,Figure 5L,Virus isolate,NT50,1,31,2560,20,NULL,2021-08-27
+Tea21,CP_second_wave,hCoV-19/Australia/NSW4318/2021,Figure 5L,Virus isolate,NT50,1,17,2560,20,NULL,2021-08-27
+Tea21,CP_first_wave,hCoV-19/Australia/NSW-R0099/2021,Figure 5L,Virus isolate,NT50,40,31,2560,20,NULL,2021-08-27
+Tea21,CP_second_wave,hCoV-19/Australia/NSW-R0099/2021,Figure 5L,Virus isolate,NT50,1,17,2560,20,NULL,2021-08-27

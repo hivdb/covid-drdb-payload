@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Tea21,CP_first_wave,infection,~,2021-07-05,Australia,hCoV-19/Australia/NSW2713/2020,NULL,NULL
+Tea21,CP_first_wave,isolation,~,2021-10-31,Australia,NULL,NULL,NULL
+Tea21,CP_second_wave,infection,~,2021-09-30,Australia,hCoV-19/Australia/NSW712/2020,NULL,NULL
+Tea21,CP_second_wave,isolation,~,2021-10-31,Australia,NULL,NULL,NULL

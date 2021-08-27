@@ -1537,6 +1537,8 @@ Tada21e,mRNA-1273_later_7,Human,NULL,1
 Tada21e,mRNA-1273_later_8,Human,NULL,1
 Tang21,CP,Human,NULL,1
 Tang21,hCoV-2IG,Human,NULL,1
+Tea21,CP_first_wave,Human,1973,31
+Tea21,CP_second_wave,Human,1977,17
 Trinite21,BNT_infected,Human,NULL,1
 Trinite21,BNT_uninfected,Human,NULL,1
 Trinite21,CP_Aug20,Human,NULL,1
