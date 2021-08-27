@@ -1,0 +1,697 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Barros-Martins21,AZD_1dose_1,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_2,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_3,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_4,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_5,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_6,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_7,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_8,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_9,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_10,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_11,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_12,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_13,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_14,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_15,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_16,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_17,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_18,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_19,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_20,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_21,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_22,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_23,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_24,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_25,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_26,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_27,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_28,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_29,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_30,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_31,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_32,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_33,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_1,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_2,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_3,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_4,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_5,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_6,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_7,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_8,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_9,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_10,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_11,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_12,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_13,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_14,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_15,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_16,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_17,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_18,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_19,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_20,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_21,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_22,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_23,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_24,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_25,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_26,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_27,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_28,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_29,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_30,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_31,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_32,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_33,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_34,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_35,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_36,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_37,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_38,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_39,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_40,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_41,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_42,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_43,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_44,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_45,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_46,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_47,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_48,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_49,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_50,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_51,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_52,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_53,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_54,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_55,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_56,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_57,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_58,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_59,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_60,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_61,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_62,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_63,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_64,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_65,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_66,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_67,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_68,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_69,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_70,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_71,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_72,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_73,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_74,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_75,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_76,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_77,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_78,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_79,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_80,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_81,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_82,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_83,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_84,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_85,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_86,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_87,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_34,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_35,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_36,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,43740,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_37,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_38,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_39,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_40,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,14580,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_41,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,14580,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_42,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,43740,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_43,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,14580,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_44,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_45,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,14580,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_46,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_47,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_48,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_49,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_50,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_51,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_52,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_53,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_54,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_55,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,14580,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_56,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_57,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_58,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_59,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_60,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_61,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_62,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_63,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_64,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_65,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_66,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_67,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,43740,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_68,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_69,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_70,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_71,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_72,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_73,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,14580,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_74,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,43740,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_75,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_76,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_77,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_78,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_79,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,14580,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_80,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_81,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_82,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_83,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_84,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_85,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_86,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_87,Wuhan-Hu-1,Figure 1d,sVNT (ACE2 blocking assay),NT50,14580,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_1,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_2,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_3,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_4,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_5,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_6,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_7,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_8,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_9,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_10,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_11,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_12,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_13,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_14,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_15,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_16,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_17,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_18,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_19,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_20,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_21,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_22,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_23,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_24,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_25,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_26,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_27,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_28,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_29,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_30,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_31,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_32,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_33,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_1,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_2,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_3,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_4,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_5,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_6,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_7,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_8,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_9,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_10,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_11,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_12,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_13,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_14,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_15,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_16,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_17,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_18,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_19,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_20,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_21,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_22,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_23,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_24,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_25,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_26,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_27,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_28,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_29,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_30,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_31,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_32,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_33,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_34,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_35,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_36,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_37,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_38,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_39,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_40,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_41,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_42,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_43,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_44,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_45,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_46,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_47,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_48,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_49,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_50,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_51,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_52,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_53,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_54,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_55,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_56,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_57,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_58,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_59,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_60,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_61,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_62,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_63,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_64,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_65,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_66,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_67,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_68,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_69,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_70,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_71,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_72,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_73,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_74,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_75,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_76,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_77,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_78,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_79,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_80,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_81,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_82,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_83,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_84,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_85,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_86,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_87,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_34,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_35,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_36,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_37,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_38,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_39,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_40,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_41,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_42,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_43,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_44,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_45,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_46,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_47,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_48,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_49,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_50,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_51,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_52,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_53,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_54,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_55,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_56,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_57,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_58,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_59,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_60,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_61,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_62,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_63,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_64,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_65,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_66,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_67,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_68,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_69,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_70,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_71,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_72,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_73,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_74,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,4860,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_75,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_76,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_77,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_78,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_79,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1620,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_80,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_81,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_82,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_83,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_84,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_85,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_86,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_87,B.1.1.7 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_1,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_2,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_3,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_4,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_5,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_6,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_7,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_8,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_9,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_10,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_11,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_12,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_13,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_14,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_15,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_16,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_17,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_18,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_19,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_20,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_21,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_22,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_23,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_24,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_25,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_26,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_27,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_28,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_29,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_30,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_31,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_32,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_33,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_1,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_2,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_3,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_4,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_5,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_6,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_7,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_8,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_9,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_10,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_11,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_12,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_13,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_14,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_15,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_16,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_17,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_18,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_19,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_20,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_21,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_22,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_23,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_24,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_25,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_26,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_27,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_28,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_29,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_30,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_31,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_32,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_33,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_34,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_35,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_36,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_37,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_38,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_39,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_40,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_41,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_42,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_43,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_44,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_45,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_46,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_47,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_48,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_49,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_50,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_51,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_52,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_53,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_54,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_55,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_56,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_57,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_58,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_59,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_60,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_61,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_62,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_63,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_64,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_65,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_66,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_67,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_68,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_69,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_70,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_71,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_72,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_73,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_74,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_75,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_76,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_77,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_78,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_79,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_80,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_81,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_82,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_83,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_84,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_85,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_86,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_87,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_34,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_35,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_36,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_37,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_38,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_39,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_40,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_41,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_42,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_43,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_44,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_45,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_46,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_47,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_48,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_49,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_50,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_51,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_52,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_53,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_54,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_55,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_56,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_57,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_58,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_59,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_60,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_61,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_62,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_63,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_64,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_65,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_66,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_67,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_68,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_69,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_70,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_71,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_72,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_73,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_74,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_75,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_76,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_77,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_78,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_79,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_80,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_81,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_82,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_83,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_84,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_85,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_86,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_87,B.1.351 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_1,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_2,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_3,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_4,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_5,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_6,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_7,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_8,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_9,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_10,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_11,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_12,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_13,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_14,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_15,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_16,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_17,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_18,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_19,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_20,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_21,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_22,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_23,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_24,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_25,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_26,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_27,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_28,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_29,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_30,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_31,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_32,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_33,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_1,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_2,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_3,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_4,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_5,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_6,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_7,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_8,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_9,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_10,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_11,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_12,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_13,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_14,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_15,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_16,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_17,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_18,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_19,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_20,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_21,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_22,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_23,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_24,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_25,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_26,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_27,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_28,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_29,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_30,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_31,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_32,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_2dose_33,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_34,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_35,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_36,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_37,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_38,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_39,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_40,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_41,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_42,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_43,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_44,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_45,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_46,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_47,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_48,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_49,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_50,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_51,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_52,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_53,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_54,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_55,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_56,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_57,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_58,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_59,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_60,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_61,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_62,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_63,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_64,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_65,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_66,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_67,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_68,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_69,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_70,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_71,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_72,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_73,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_74,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_75,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_76,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_77,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_78,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_79,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_80,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_81,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_82,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_83,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_84,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_85,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_86,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_1dose_87,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_34,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_35,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_36,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_37,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_38,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_39,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_40,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_41,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_42,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_43,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_44,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_45,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_46,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_47,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_48,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_49,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_50,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_51,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_52,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_53,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_54,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_55,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_56,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_57,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_58,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_59,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_60,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_61,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_62,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_63,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_64,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,540,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_65,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_66,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_67,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_68,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_69,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_70,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_71,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_72,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_73,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_74,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_75,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_76,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_77,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_78,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_79,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_80,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_81,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_82,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_83,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_84,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_85,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,60,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_86,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
+Barros-Martins21,AZD_BNT_87,P.1 Spike,Figure 1d,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
