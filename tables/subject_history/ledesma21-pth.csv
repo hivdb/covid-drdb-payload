@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Ledesma21,SPV,1st dose,~,2021-03-01,Argentina,NULL,Sputnik V,NULL
+Ledesma21,SPV,2nd dose,~,2021-04-01,Argentina,NULL,Sputnik V,NULL
+Ledesma21,SPV,2nd dose isolation,~,2021-05-13,Argentina,NULL,NULL,NULL
+Ledesma21,SPV,2nd dose isolation,~,2021-07-30,Argentina,NULL,NULL,NULL
