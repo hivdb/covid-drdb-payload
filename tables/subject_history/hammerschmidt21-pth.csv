@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Hammerschmidt21,AZD,1st dose,~,2021-02-16,Germany,NULL,AZD1222,NULL
+Hammerschmidt21,AZD,2nd dose,~,2021-05-02,Germany,NULL,AZD1222,NULL
+Hammerschmidt21,AZD,2nd dose isolation,~,2021-05-18,Germany,NULL,NULL,NULL
+Hammerschmidt21,AZD_BNT,1st dose,~,2021-02-16,Germany,NULL,AZD1222,NULL
+Hammerschmidt21,AZD_BNT,2nd dose,~,2021-05-02,Germany,NULL,BNT162b2,NULL
+Hammerschmidt21,AZD_BNT,2nd dose isolation,~,2021-05-18,Germany,NULL,NULL,NULL
+Hammerschmidt21,BNT,1st dose,~,2021-01-06,Germany,NULL,BNT162b2,NULL
+Hammerschmidt21,BNT,2nd dose,~,2021-01-27,Germany,NULL,BNT162b2,NULL
+Hammerschmidt21,BNT,2nd dose isolation,~,2021-05-18,Germany,NULL,NULL,NULL
