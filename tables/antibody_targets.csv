@@ -99,7 +99,7 @@ BG7-15,7M6G,RBD,RBD Core Cluster I,structure
 BG7-20,7M6H,RBD,RBM Class I,structure
 BRII-196,NULL,RBD,NULL,author
 BRII-196,7CDI,RBD,RBM Class I,structure
-BRII-198,NULL,RBD,NULL,author
+BRII-198,NULL,RBD,RBD Core Cluster II,author
 Bamlanivimab,7KMG,RBD,RBM Class II,structure
 C002,7K8S,RBD,RBM Class II,structure
 C032,7R8M,RBD,RBD Core Cluster I,structure
@@ -217,7 +217,7 @@ CV3-1,NULL,RBD,NULL,author
 CV30,6XE1,RBD,RBM Class I,structure
 CV38-142,7LM8,RBD,RBD Core Cluster II,structure
 Casirivimab,6XDG,RBD,RBM Class I,structure
-Cilgavimab,NULL,RBD,RBM Class II,author
+Cilgavimab,NULL,RBD,NULL,author
 Cilgavimab,7L7E,RBD,RBM Class II,structure
 CoV2-06,NULL,RBD,NULL,author
 CoV2-14,NULL,RBD,NULL,author
