@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Annavajhala21,CP,S:614G,S:5F+95I+253G+484K+614G+701V,Figure 3b,Pseudovirus (VSV),NT50,=,4.1,NULL,NULL,20,2021-08-30
+Annavajhala21,CP,WA1,hCoV-19/USA/NY-NP-DOH1/2021,Figure 3b,Virus isolate,NT50,=,2.6,NULL,NULL,20,2021-08-30
+Annavajhala21,mRNA-1273,S:614G,S:5F+95I+253G+484K+614G+701V,Figure 3b,Pseudovirus (VSV),NT50,=,3.3,NULL,NULL,12,2021-08-30
+Annavajhala21,mRNA-1273,WA1,hCoV-19/USA/NY-NP-DOH1/2021,Figure 3b,Virus isolate,NT50,=,2,NULL,NULL,12,2021-08-30
+Annavajhala21,BNT162b2,S:614G,S:5F+95I+253G+484K+614G+701V,Figure 3b,Pseudovirus (VSV),NT50,=,3.6,NULL,NULL,10,2021-08-30
+Annavajhala21,BNT162b2,WA1,hCoV-19/USA/NY-NP-DOH1/2021,Figure 3b,Virus isolate,NT50,=,1.8,NULL,NULL,10,2021-08-30
