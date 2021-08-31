@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Wilhelm21,CP,infection,~,2020-08-01,Germany,B.1 full genome,NULL,NULL
+Wilhelm21,CP,isolation,~,2020-08-31,Germany,B.1 full genome,NULL,NULL
+Wilhelm21,BNT162b2,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
+Wilhelm21,BNT162b2,2nd dose,~,2021-01-15,Germany,NULL,BNT162b2,NULL
+Wilhelm21,BNT162b2,2nd dose isolation,~,2021-01-31,Germany,NULL,NULL,NULL
+Wilhelm21,mRNA-1273,1st dose,~,2021-01-01,Germany,NULL,mRNA-1273,NULL
+Wilhelm21,mRNA-1273,2nd dose,~,2021-01-15,Germany,NULL,mRNA-1273,NULL
+Wilhelm21,mRNA-1273,2nd dose isolation,~,2021-01-31,Germany,NULL,NULL,NULL
