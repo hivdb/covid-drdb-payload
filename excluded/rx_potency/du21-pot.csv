@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Du21,CB6,Wuhan-Hu-1,Figure 2d,Virus isolate,IC50,470,1,10000,10,ng/ml,2021-08-31
+Du21,h11B11,Wuhan-Hu-1,Figure 2d,Virus isolate,IC50,660,1,10000,10,ng/ml,2021-08-31
+Du21,CB6 + h11B11,Wuhan-Hu-1,Figure 2d,Virus isolate,IC50,60,1,10000,10,ng/ml,2021-08-31

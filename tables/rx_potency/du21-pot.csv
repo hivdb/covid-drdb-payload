@@ -1,0 +1,39 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Du21,h11B11,Wuhan-Hu-1,Figure 2b,Pseudovirus (VSV),IC50,950,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:614G,Figure 2b,Pseudovirus (VSV),IC50,610,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,B.1.1.7 Spike,Figure 2b,Pseudovirus (VSV),IC50,560,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,B.1.351 Spike,Figure 2b,Pseudovirus (VSV),IC50,1590,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:338L,Figure 2c,Pseudovirus (VSV),IC50,1410,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:348T,Figure 2c,Pseudovirus (VSV),IC50,1450,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:354D,Figure 2c,Pseudovirus (VSV),IC50,4720,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:354K,Figure 2c,Pseudovirus (VSV),IC50,4200,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:367F,Figure 2c,Pseudovirus (VSV),IC50,4080,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:408I,Figure 2c,Pseudovirus (VSV),IC50,830,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:409E,Figure 2c,Pseudovirus (VSV),IC50,2410,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:414E,Figure 2c,Pseudovirus (VSV),IC50,1700,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:446V,Figure 2c,Pseudovirus (VSV),IC50,3570,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:452R,Figure 2c,Pseudovirus (VSV),IC50,2190,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:458N,Figure 2c,Pseudovirus (VSV),IC50,1100,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:458R,Figure 2c,Pseudovirus (VSV),IC50,860,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:468T,Figure 2c,Pseudovirus (VSV),IC50,2430,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:475V,Figure 2c,Pseudovirus (VSV),IC50,1910,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:478I,Figure 2c,Pseudovirus (VSV),IC50,3170,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:483A,Figure 2c,Pseudovirus (VSV),IC50,2480,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:483I,Figure 2c,Pseudovirus (VSV),IC50,1150,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:484K,Figure 2c,Pseudovirus (VSV),IC50,1400,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:501Y,Figure 2c,Pseudovirus (VSV),IC50,1630,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:508H,Figure 2c,Pseudovirus (VSV),IC50,1050,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:519P,Figure 2c,Pseudovirus (VSV),IC50,1770,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:519Q,Figure 2c,Pseudovirus (VSV),IC50,1370,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:520S,Figure 2c,Pseudovirus (VSV),IC50,1740,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:615L,Figure 2c,Pseudovirus (VSV),IC50,2640,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:1263L,Figure 2c,Pseudovirus (VSV),IC50,1470,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:69del+70del+614G,Figure 2c,Pseudovirus (VSV),IC50,1240,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:262S+614G,Figure 2c,Pseudovirus (VSV),IC50,1090,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:341I+614G,Figure 2c,Pseudovirus (VSV),IC50,1190,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:321L+614G,Figure 2c,Pseudovirus (VSV),IC50,1130,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:417N+614G,Figure 2c,Pseudovirus (VSV),IC50,880,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:439K+614G,Figure 2c,Pseudovirus (VSV),IC50,2430,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:452F+614G,Figure 2c,Pseudovirus (VSV),IC50,1220,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:477N+614G,Figure 2c,Pseudovirus (VSV),IC50,1350,1,100000,0.1,ng/ml,2021-08-31
+Du21,h11B11,S:486L+614G,Figure 2c,Pseudovirus (VSV),IC50,1150,1,100000,0.1,ng/ml,2021-08-31
