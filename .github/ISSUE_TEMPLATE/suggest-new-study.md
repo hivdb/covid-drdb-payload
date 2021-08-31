@@ -18,7 +18,7 @@ Important: first check this list to see if we have already have the paper: https
 **What topic studied by this paper should be add to our database? Please describe.**
 A clear and concise description of what the topic is. Ex. This paper contains neutralization results of [...] variants for vaccine [...].
 
-**Which tables/figures should we look for the data to be entered?**
+**Which tables/figures contain the data?**
 Ex. Table 1, Supp. Figure 3
 
 **Additional information can help us entering this study faster. Attach files if necessary.**
