@@ -120,7 +120,8 @@ C1A-B12,7KFV,RBD,RBM Class I,structure
 C1A-B3,7KFW,RBD,RBM Class I,structure
 C1A-C2,7KFX,RBD,RBM Class I,structure
 C1A-F10,7KFY,RBD,RBM Class I,structure
-C548,7R8O,RBD,RBM Class I,structure
+C548,7R8O,RBD,RBM Class II,structure
+C549,NULL,RBD,RBM Class II,author
 C601,NULL,RBD,NULL,author
 C602,NULL,RBD,NULL,author
 C603,NULL,RBD,NULL,author
