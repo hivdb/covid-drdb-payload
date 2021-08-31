@@ -7,7 +7,7 @@ assignees: KaimingTao
 
 ---
 
-Important: first check this list to see if we have already have the paper: https://github.com/hivdb/covid-drdb-payload/blob/master/tables/articles.csv
+Important: check this list to see if we already have the paper: https://github.com/hivdb/covid-drdb-payload/blob/master/tables/articles.csv
 
 **What's the identifier of this new study? Please provide. (Just need one)**
 - DOI: [...]
