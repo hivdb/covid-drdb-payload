@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+McCallum21c,BNT162b2,1st dose,~,2021-04-01,USA,NULL,BNT162b2,NULL
+McCallum21c,BNT162b2,2nd dose,~,2021-04-15,USA,NULL,BNT162b2,NULL
+McCallum21c,BNT162b2,2nd dose isolation,~,2021-05-04,USA,NULL,NULL,NULL
+McCallum21c,mRNA-1273,1st dose,~,2021-04-01,USA,NULL,mRNA-1273,NULL
+McCallum21c,mRNA-1273,2nd dose,~,2021-04-15,USA,NULL,mRNA-1273,NULL
+McCallum21c,mRNA-1273,2nd dose isolation,~,2021-05-04,USA,NULL,NULL,NULL
+McCallum21c,Ad26.COV2.S,1st dose,~,2021-04-10,USA,NULL,Ad26.COV2.S,NULL
+McCallum21c,Ad26.COV2.S,1st dose isolation,~,2021-04-30,USA,NULL,NULL,NULL
