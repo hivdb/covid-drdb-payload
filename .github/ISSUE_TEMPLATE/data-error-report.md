@@ -1,6 +1,6 @@
 ---
 name: Data error report
-about: Create a report to help us improve
+about: Report a data-related error
 title: "[BUG]"
 labels: bug
 assignees: KaimingTao, philiptzou
