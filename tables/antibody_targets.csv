@@ -53,7 +53,7 @@ ab_name,pdb_id,target,class,source
 4-19,NULL,NTD,NTD,author
 4-20,NULL,RBD,NULL,author
 4-8,7LQV,NTD,NTD,structure
-47D11,7AKD,RBD,RBD Core Cluster II,structure
+47D11,7AKD,RBD,RBD Core Cluster I,structure
 4A8,7C2L,NTD,NTD,structure
 4E5,NULL,RBD,NULL,author
 5-24,7L2F,NTD,NTD,structure
@@ -91,11 +91,11 @@ BD-629,7CH5,RBD,RBM Class I,structure
 BD1-24,7M6I,RBD,RBM Class II,structure
 BD23,NULL,RBD,NULL,author
 BD23,7BYR,RBD,RBM Class III,structure
-BG1-22,7M6F,RBD,RBD Core Cluster II,structure
+BG1-22,7M6F,RBD,RBD Class I,structure
 BG1-24,7M6I,RBD,RBM Class II,structure
-BG10-19,7M6E,RBD,RBD Core Cluster I,structure
+BG10-19,7M6E,RBD,RBM Class I,structure
 BG4-25,7M6D,RBD,RBM Class I,structure
-BG7-15,7M6G,RBD,RBD Core Cluster I,structure
+BG7-15,7M6G,RBD,RBM Class II,structure
 BG7-20,7M6H,RBD,RBM Class I,structure
 BRII-196,NULL,RBD,NULL,author
 BRII-196,7CDI,RBD,RBM Class I,structure
@@ -193,8 +193,8 @@ COVOX-384,NULL,RBD,NULL,author
 COVOX-384,7BEP,RBD,RBM Class I,structure
 COVOX-40,NULL,RBD,NULL,author
 COVOX-40,7ND6,RBD,RBM Class II,structure
-COVOX-45,7BEL,RBD,RBD Core Class I,structure
-COVOX-75,7BEO,RBD,RBD Core Class I,structure
+COVOX-45,7BEL,RBD,RBD Core Cluster I,structure
+COVOX-75,7BEO,RBD,RBD Core Cluster I,structure
 COVOX-88,7BEL,RBD,RBM Class I,structure
 CQ012,NULL,NULL,NULL,author
 CQ016,NULL,NULL,NULL,author
@@ -213,10 +213,10 @@ CV07-250,6XKQ,RBD,RBM Class I,structure
 CV07-270,6XKP,RBD,RBM Class II,structure
 CV1,NULL,NTD,NTD,author
 CV2-75,NULL,RBD,NULL,author
-CV2-75,7M3I,RBD,RBD Core Cluster I,structure
+CV2-75,7M3I,RBD,RBD Core Cluster II,structure
 CV3-1,NULL,RBD,NULL,author
 CV30,6XE1,RBD,RBM Class I,structure
-CV38-142,7LM8,RBD,RBD Core Cluster II,structure
+CV38-142,7LM8,RBD,RBD Core Cluster I,structure
 Casirivimab,6XDG,RBD,RBM Class I,structure
 Cilgavimab,NULL,RBD,NULL,author
 Cilgavimab,7L7E,RBD,RBM Class II,structure
@@ -251,7 +251,7 @@ H11-D4,6Z43,RBD,RBM Class I,structure
 H11-H4,6ZHD,RBD,RBM Class I,structure
 H20,NULL,S,NULL,author
 H4,7L58,RBD,RBM Class I,structure
-HB27,7CYP,RBD,RBD Core Cluster II,structure
+HB27,7CYP,RBD,RBM Class I,structure
 Huo_C1,7OAP,RBD,RBD Core Cluster II,structure
 Huo_C5,7OAN,RBD,RBM Class II,structure
 Huo_F2,7OAY,RBD,RBD Core Cluster II,structure
@@ -266,7 +266,8 @@ JMB2002,NULL,RBD,NULL,author
 LKLH,NULL,RBD,NULL,author
 LY-CoV481,7KMI,RBD,RBM Class I,structure
 LY-CoV488,7KMH,RBD,RBM Class I,structure
-LY3853113,7MMO,RBD,RBD Core Cluster II,structure
+LY3853113,NULL,RBD,NULL,author
+LY3853113,7MMO,RBD,RBM Class II,structure
 MR17,7C8W,RBD,RBM Class I,structure
 MR17-K99Y,7CAN,RBD,RBM Class I,structure
 MW01,7DJZ,RBD,RBM Class I,structure
@@ -278,7 +279,7 @@ NM1226,7NKT,RBD,RBD Core Cluster II,structure
 NM1230,7B27,NTD,NULL,structure
 Nanosota-1C,7KM5,RBD,RBM Class II,structure
 Nb105,7MDW,RBD,RBD Core Cluster II,structure
-Nb17,7ME7,RBD,RBD Core Cluster II,structure
+Nb17,7ME7,RBD,RBD Class II,structure
 Nb21,7N9A,RBD,RBM Class I,structure
 Nb34,7N9E,RBD,RBM Class II,structure
 Nb36,7MEJ,RBD,RBD Core Cluster I,structure
@@ -411,7 +412,7 @@ SARS2-55,NULL,RBD,NULL,author
 SARS2-58,NULL,RBD,NULL,author
 SARS2-66,NULL,RBD,NULL,author
 SARS2-71,NULL,RBD,NULL,author
-SR31,7D2Z,RBD,RBD Core Cluster I,structure
+SR31,7D2Z,RBD,RBD Core Cluster II,structure
 SR4,7C8V,RBD,RBM Class I,structure
 STE90-C11,7B3O,RBD,RBM Class I,structure
 Sb14,7MFU,RBD,NULL,structure
@@ -425,9 +426,9 @@ Tixagevimab,NULL,RBD,RBM Class I,author
 Tixagevimab,7L7D,RBD,RBM Class I,structure
 Ty1,6ZXN,RBD,RBM Class II,structure
 VHH E,7KN5,RBD,RBM Class II,structure
-VHH U,7KN5,RBD,RBD Core Cluster I,structure
-VHH V,7KN6,RBD,RBD Core Cluster I,structure
-VHH W,7KN7,RBD,RBD Core Cluster I,structure
+VHH U,7KN5,RBD,RBD Core Cluster II,structure
+VHH V,7KN6,RBD,RBD Core Cluster II,structure
+VHH W,7KN7,RBD,RBD Core Cluster II,structure
 VHH-72,6WAQ,RBD,RBD Core Cluster II,structure
 Vir-7832,NULL,RBD,NULL,author
 WNb-10,7LX5,RBD,RBD Core Cluster II,structure
