@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Fernandez21,CoronaVac_age1,S:614G,Figure 1,Virus isolate,NT50,88,19,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age1,B.1.1.7 full genome_1167921,Figure 1,Virus isolate,NT50,25,19,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age1,P.1 full genome_1321471,Figure 1,Virus isolate,NT50,12,19,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age2,S:614G,Figure 1,Virus isolate,NT50,71,14,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age2,B.1.1.7 full genome_1167921,Figure 1,Virus isolate,NT50,14,14,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age2,P.1 full genome_1321471,Figure 1,Virus isolate,NT50,9,14,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age3,S:614G,Figure 1,Virus isolate,NT50,57,11,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age3,B.1.1.7 full genome_1167921,Figure 1,Virus isolate,NT50,15,11,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age3,P.1 full genome_1321471,Figure 1,Virus isolate,NT50,8,11,10000,1,NULL,2021-09-04
