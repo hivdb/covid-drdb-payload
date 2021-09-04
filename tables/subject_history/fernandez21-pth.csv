@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Fernandez21,CoronaVac_age1,1st dose,~,2021-01-01,Chile,NULL,CoronaVac,NULL
+Fernandez21,CoronaVac_age1,2nd dose,~,2021-01-29,Chile,NULL,CoronaVac,NULL
+Fernandez21,CoronaVac_age1,2nd dose isolation,~,2021-03-30,Chile,NULL,NULL,NULL
+Fernandez21,CoronaVac_age2,1st dose,~,2021-01-01,Chile,NULL,CoronaVac,NULL
+Fernandez21,CoronaVac_age2,2nd dose,~,2021-01-29,Chile,NULL,CoronaVac,NULL
+Fernandez21,CoronaVac_age2,2nd dose isolation,~,2021-03-30,Chile,NULL,NULL,NULL
+Fernandez21,CoronaVac_age3,1st dose,~,2021-01-01,Chile,NULL,CoronaVac,NULL
+Fernandez21,CoronaVac_age3,2nd dose,~,2021-01-29,Chile,NULL,CoronaVac,NULL
+Fernandez21,CoronaVac_age3,2nd dose isolation,~,2021-03-30,Chile,NULL,NULL,NULL
