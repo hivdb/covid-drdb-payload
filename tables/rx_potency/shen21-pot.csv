@@ -9,16 +9,6 @@ Shen21,DH1047,S:614G,Table 1,Pseudovirus (lentivirus),IC50,140,1,50000,NULL,ng/m
 Shen21,H4,S:614G,Table 1,Pseudovirus (lentivirus),IC50,2100,1,50000,NULL,ng/ml,2021-06-28
 Shen21,P2B-2F6,S:614G,Table 1,Pseudovirus (lentivirus),IC50,71,1,50000,NULL,ng/ml,2021-06-28
 Shen21,S309,S:614G,Table 1,Pseudovirus (lentivirus),IC50,48,1,50000,NULL,ng/ml,2021-06-28
-Shen21,B38,S:614G,Table 1,Pseudovirus (lentivirus),IC80,12000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:614G,Table 1,Pseudovirus (lentivirus),IC80,31,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:614G,Table 1,Pseudovirus (lentivirus),IC80,28,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:614G,Table 1,Pseudovirus (lentivirus),IC80,36,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:614G,Table 1,Pseudovirus (lentivirus),IC80,68,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:614G,Table 1,Pseudovirus (lentivirus),IC80,40,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:614G,Table 1,Pseudovirus (lentivirus),IC80,540,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:614G,Table 1,Pseudovirus (lentivirus),IC80,18000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:614G,Table 1,Pseudovirus (lentivirus),IC80,1200,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:614G,Table 1,Pseudovirus (lentivirus),IC80,690,1,50000,NULL,ng/ml,2021-06-28
 Shen21,B38,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,30000,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA1-18,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,11,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA2-15,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,50,1,50000,NULL,ng/ml,2021-01-28
@@ -29,16 +19,6 @@ Shen21,DH1047,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,170,1,50000,NU
 Shen21,H4,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,9900,1,50000,NULL,ng/ml,2021-01-28
 Shen21,P2B-2F6,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,75,1,50000,NULL,ng/ml,2021-01-28
 Shen21,S309,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC50,9200,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,160,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,950,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,39,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,130,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,50,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,640,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,2200,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
 Shen21,B38,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,4700,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA1-18,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,32,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA2-15,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,84,1,50000,NULL,ng/ml,2021-01-28
@@ -49,16 +29,6 @@ Shen21,DH1047,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,72,1,50000,NULL,
 Shen21,H4,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,3700,1,50000,NULL,ng/ml,2021-01-28
 Shen21,P2B-2F6,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,43,1,50000,NULL,ng/ml,2021-01-28
 Shen21,S309,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,150,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,190,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,930,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,34,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,60,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,58,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,430,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,46000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,930,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
 Shen21,B38,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,1500,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA1-18,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,4.2,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA2-15,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,5.1,1,50000,NULL,ng/ml,2021-01-28
@@ -69,16 +39,6 @@ Shen21,DH1047,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,100,1,500
 Shen21,H4,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,2500,1,50000,NULL,ng/ml,2021-01-28
 Shen21,P2B-2F6,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,100,1,50000,NULL,ng/ml,2021-01-28
 Shen21,S309,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC50,18,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,9900,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,26,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,26,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,29,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,53,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,33,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,500,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,26000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,1100,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:69del+70del+614G,Table 1,Pseudovirus (lentivirus),IC80,18000,1,50000,NULL,ng/ml,2021-06-28
 Shen21,B38,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,2500,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA1-18,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,26,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA2-15,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,51,1,50000,NULL,ng/ml,2021-01-28
@@ -89,16 +49,6 @@ Shen21,DH1047,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,49,1
 Shen21,H4,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,3100,1,50000,NULL,ng/ml,2021-01-28
 Shen21,P2B-2F6,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,33,1,50000,NULL,ng/ml,2021-01-28
 Shen21,S309,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC50,110,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,40000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,180,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,11600,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,25,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,39,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,35,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,280,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,30000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,1000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:69del+70del+501Y+614G,Table 1,Pseudovirus (lentivirus),IC80,50000,1,50000,NULL,ng/ml,2021-06-28
 Shen21,B38,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,1200,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA1-18,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,8.3,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA2-15,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,5.5,1,50000,NULL,ng/ml,2021-01-28
@@ -109,16 +59,6 @@ Shen21,DH1047,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,48,1
 Shen21,H4,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,640,1,50000,NULL,ng/ml,2021-01-28
 Shen21,P2B-2F6,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,94,1,50000,NULL,ng/ml,2021-01-28
 Shen21,S309,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC50,98,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,15000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,43,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,30,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,27,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,30,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,50,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,240,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,5700,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,1300,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:69del+70del+453F+614G,Table 1,Pseudovirus (lentivirus),IC80,11000,1,50000,NULL,ng/ml,2021-06-28
 Shen21,B38,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,1300,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA1-18,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,6.1,1,50000,NULL,ng/ml,2021-01-28
 Shen21,COVA2-15,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,11,1,50000,NULL,ng/ml,2021-01-28
@@ -129,16 +69,6 @@ Shen21,DH1047,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,16,1,50000,NULL,
 Shen21,H4,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,3600,1,50000,NULL,ng/ml,2021-01-28
 Shen21,P2B-2F6,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,150,1,50000,NULL,ng/ml,2021-01-28
 Shen21,S309,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC50,46,1,50000,NULL,ng/ml,2021-01-28
-Shen21,B38,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,19000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA1-18,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,49,1,50000,NULL,ng/ml,2021-06-28
-Shen21,COVA2-15,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,100,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1041,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,35,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1042,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,70,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1043,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,59,1,50000,NULL,ng/ml,2021-06-28
-Shen21,DH1047,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,330,1,50000,NULL,ng/ml,2021-06-28
-Shen21,H4,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,42000,1,50000,NULL,ng/ml,2021-06-28
-Shen21,P2B-2F6,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,1600,1,50000,NULL,ng/ml,2021-06-28
-Shen21,S309,S:439K+614G,Table 1,Pseudovirus (lentivirus),IC80,380,1,50000,NULL,ng/ml,2021-06-28
 Shen21,Mod_Ser_1,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,179,1,1562500,20,NULL,2021-01-28
 Shen21,Mod_Ser_13,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,67,1,1562500,20,NULL,2021-01-28
 Shen21,Mod_Ser_30,B.1.1.7 Spike,Table S1,Pseudovirus (lentivirus),NT50,206,1,1562500,20,NULL,2021-01-28
