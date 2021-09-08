@@ -1,19 +1,19 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Zhao21,CoronaVac_Regimen1,Wuhan-Hu-1,Figure 2a,Pseudovirus (VSV),NT50,605,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen1,S:614G,Figure 2a,Pseudovirus (VSV),NT50,543,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen1,B.1.1.7 Spike,Figure 2a,Pseudovirus (VSV),NT50,560,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen1,B.1.351 Spike,Figure 2a,Pseudovirus (VSV),NT50,171,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen1,P.1 Spike,Figure 2a,Pseudovirus (VSV),NT50,218,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen1,S:142D+154K+157del+158del+222V+452R+478K+614G+681R+950N,Figure 2a,Pseudovirus (VSV),NT50,389,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen1,S:13I+152C+452R+614G,Figure 2a,Pseudovirus (VSV),NT50,168,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen1,S:52R+67V+69del+70del+144del+484K+614G+677H+888L,Figure 2a,Pseudovirus (VSV),NT50,163,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen1,B.1.617.1 Spike,Figure 2a,Pseudovirus (VSV),NT50,377,16,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,Wuhan-Hu-1,Figure 2b,Pseudovirus (VSV),NT50,1268,12,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,S:614G,Figure 2b,Pseudovirus (VSV),NT50,2243,12,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,B.1.1.7 Spike,Figure 2b,Pseudovirus (VSV),NT50,1945,12,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,B.1.351 Spike,Figure 2b,Pseudovirus (VSV),NT50,1000,12,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,P.1 Spike,Figure 2b,Pseudovirus (VSV),NT50,1395,12,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,S:142D+154K+157del+158del+222V+452R+478K+614G+681R+950N,Figure 2b,Pseudovirus (VSV),NT50,1885,12,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,S:13I+152C+452R+614G,Figure 2b,Pseudovirus (VSV),NT50,939,12,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,S:52R+67V+69del+70del+144del+484K+614G+677H+888L,Figure 2b,Pseudovirus (VSV),NT50,751,12,10240,20,NULL,2021-08-18
-Zhao21,CoronaVac_Regimen2,B.1.617.1 Spike,Figure 2b,Pseudovirus (VSV),NT50,1351,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,Wuhan-Hu-1,Figure S2I,Pseudovirus (VSV),NT50,605,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,S:614G,Figure S2I,Pseudovirus (VSV),NT50,543,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,B.1.1.7 Spike,Figure S2I,Pseudovirus (VSV),NT50,560,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,B.1.351 Spike,Figure S2I,Pseudovirus (VSV),NT50,171,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,P.1 Spike,Figure S2I,Pseudovirus (VSV),NT50,218,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,S:142D+154K+157del+158del+222V+452R+478K+614G+681R+950N,Figure S2I,Pseudovirus (VSV),NT50,389,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,S:13I+152C+452R+614G,Figure S2I,Pseudovirus (VSV),NT50,168,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,S:52R+67V+69del+70del+144del+484K+614G+677H+888L,Figure S2I,Pseudovirus (VSV),NT50,163,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen1,B.1.617.1 Spike,Figure S2I,Pseudovirus (VSV),NT50,377,16,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,Wuhan-Hu-1,Figure S2J,Pseudovirus (VSV),NT50,1268,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,S:614G,Figure S2J,Pseudovirus (VSV),NT50,2243,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,B.1.1.7 Spike,Figure S2J,Pseudovirus (VSV),NT50,1945,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,B.1.351 Spike,Figure S2J,Pseudovirus (VSV),NT50,1000,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,P.1 Spike,Figure S2J,Pseudovirus (VSV),NT50,1395,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,S:142D+154K+157del+158del+222V+452R+478K+614G+681R+950N,Figure S2J,Pseudovirus (VSV),NT50,1885,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,S:13I+152C+452R+614G,Figure S2J,Pseudovirus (VSV),NT50,939,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,S:52R+67V+69del+70del+144del+484K+614G+677H+888L,Figure S2J,Pseudovirus (VSV),NT50,751,12,10240,20,NULL,2021-08-18
+Zhao21,CoronaVac_Regimen2,B.1.617.1 Spike,Figure S2J,Pseudovirus (VSV),NT50,1351,12,10240,20,NULL,2021-08-18
