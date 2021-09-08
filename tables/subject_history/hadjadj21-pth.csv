@@ -1,0 +1,16 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Hadjadj21,BNT,1st dose,~,2021-01-01,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT,2nd dose,~,2021-01-31,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT,2nd dose isolation,~,2021-04-30,France,NULL,NULL,NULL
+Hadjadj21,BNT_RTX,1st dose,~,2021-01-01,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT_RTX,2nd dose,~,2021-01-31,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT_RTX,2nd dose isolation,~,2021-04-30,France,NULL,NULL,NULL
+Hadjadj21,BNT_MTX,1st dose,~,2021-01-01,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT_MTX,2nd dose,~,2021-01-31,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT_MTX,2nd dose isolation,~,2021-04-30,France,NULL,NULL,NULL
+Hadjadj21,BNT_cDMARDs,1st dose,~,2021-01-01,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT_cDMARDs,2nd dose,~,2021-01-31,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT_cDMARDs,2nd dose isolation,~,2021-04-30,France,NULL,NULL,NULL
+Hadjadj21,BNT_other_Rx,1st dose,~,2021-01-01,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT_other_Rx,2nd dose,~,2021-01-31,France,NULL,BNT162b2,NULL
+Hadjadj21,BNT_other_Rx,2nd dose isolation,~,2021-04-30,France,NULL,NULL,NULL
