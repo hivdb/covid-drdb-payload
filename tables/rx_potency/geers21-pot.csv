@@ -1,10 +1,10 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2E",Virus isolate,NT50,21,12,40960,10,NULL,2021-07-25
-Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2E",Virus isolate,NT50,30,12,40960,10,NULL,2021-07-25
-Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2E",Virus isolate,NT50,12,12,40960,10,NULL,2021-07-25
-Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2E",Virus isolate,NT50,189,12,40960,10,NULL,2021-07-25
-Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2E",Virus isolate,NT50,107,12,40960,10,NULL,2021-07-25
-Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2E",Virus isolate,NT50,335,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2F",Virus isolate,NT50,21,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2F",Virus isolate,NT50,30,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_1dose,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2F",Virus isolate,NT50,12,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2F",Virus isolate,NT50,189,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2F",Virus isolate,NT50,107,12,40960,10,NULL,2021-07-25
+Geers21,BNT_naive_2dose,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2F",Virus isolate,NT50,335,12,40960,10,NULL,2021-07-25
 Geers21,CP_recovered,hCoV-19/Netherlands/ZH-EMC-2498/2020,"Table S3, Figure 2F",Virus isolate,NT50,111,13,40960,10,NULL,2021-07-25
 Geers21,CP_recovered,hCoV-19/Netherlands/ZH-EMC-1148/2020,"Table S3, Figure 2F",Virus isolate,NT50,319,13,40960,10,NULL,2021-07-25
 Geers21,CP_recovered,hCoV-19/Netherlands/ZH-EMC-1461/2021,"Table S3, Figure 2F",Virus isolate,NT50,36,13,40960,10,NULL,2021-07-25
