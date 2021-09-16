@@ -116,75 +116,32 @@ Stamatatos21,CP_O,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3A/B and Figu
 Stamatatos21,BNT_O_1st_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3A/B and Figure S4,Pseudovirus (lentivirus),NT50,2360,1,43740,20,NULL,2021-03-30
 Stamatatos21,CP_O,B.1.351 Spike:-18F-244del-246I,Fig 3A/C and Figure S4,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_O_1st_dose,B.1.351 Spike:-18F-244del-246I,Fig 3A/C and Figure S4,Pseudovirus (lentivirus),NT50,1081,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_A,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_A_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,300,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_B,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_B_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,346,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_C,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_C_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,572,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_D,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_D_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,123,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_E,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_E_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,84,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_F,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_F_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,226,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_G,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_G_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,376,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_H,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,Mod_H_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,187,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_I,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,Mod_I_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,97,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_J,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,Mod_J_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,5101,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_K,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,Mod_K_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,1000,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_L,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_L_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_M,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_M_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_N,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,63,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_N_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,346,1,43740,20,NULL,2021-03-30
-Stamatatos21,CP_O,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_O_1st_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,187,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_1_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,376,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_1_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,285,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_1_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,53,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_2_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,196,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_2_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,41,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_2_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_3_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,93,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_3_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,53,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_3_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_4_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,300,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_4_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,73,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_4_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,27,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_5_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,93,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_5_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,35,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_5_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,31,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_6_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,459,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_6_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,55,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_6_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,84,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_7_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,187,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_7_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,71,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_7_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,20,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_8_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,459,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_8_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,170,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_8_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,73,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_9_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,327,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_9_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,61,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_9_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,46,1,43740,20,NULL,2021-03-30
 Stamatatos21,Mod_10_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,702,1,43740,20,NULL,2021-03-30
 Stamatatos21,Mod_10_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,170,1,43740,20,NULL,2021-03-30
-Stamatatos21,Mod_10_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,73,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_11_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,376,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_11_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,163,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_11_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,81,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_12_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,609,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_12_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,260,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_12_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,41,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_13_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,163,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_13_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,40,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_13_2nd_dose,SARS-CoV Spike,Fig 3 and Figure S6,Pseudovirus (lentivirus),NT50,23,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_A_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3,Pseudovirus (lentivirus),NT50,14046,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_A_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3,Pseudovirus (lentivirus),NT50,1166,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_B_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3,Pseudovirus (lentivirus),NT50,1078,1,43740,20,NULL,2021-03-30
@@ -213,20 +170,6 @@ Stamatatos21,BNT_N_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3,P
 Stamatatos21,BNT_N_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3,Pseudovirus (lentivirus),NT50,1166,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_O_2nd_dose,B.1.351 Spike:-18F-242del-243del-244del-246I,Fig 3,Pseudovirus (lentivirus),NT50,1459,1,43740,20,NULL,2021-03-30
 Stamatatos21,BNT_O_2nd_dose,B.1.351 Spike:-18F-244del-246I,Fig 3,Pseudovirus (lentivirus),NT50,631,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_A_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,196,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_B_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,609,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_C_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,2656,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_D_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,327,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_E_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,111,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_F_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,609,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_G_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,756,1,43740,20,NULL,2021-03-30
-Stamatatos21,Mod_H_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,498,1,43740,20,NULL,2021-03-30
-Stamatatos21,Mod_I_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,226,1,43740,20,NULL,2021-03-30
-Stamatatos21,Mod_K_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,658,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_L_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,71,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_M_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,18,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_N_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,398,1,43740,20,NULL,2021-03-30
-Stamatatos21,BNT_O_2nd_dose,SARS-CoV Spike,Fig 3A/D and Figure S8,Pseudovirus (lentivirus),NT50,187,1,43740,20,NULL,2021-03-30
 Stamatatos21,CV30,Wuhan-Hu-1,Figure 1A,Pseudovirus (lentivirus),IC50,62,1,5000,2,ng/ml,2021-06-29
 Stamatatos21,CV3-1,Wuhan-Hu-1,Figure 1B,Pseudovirus (lentivirus),IC50,5,1,5000,2,ng/ml,2021-06-29
 Stamatatos21,CV2-75,Wuhan-Hu-1,Figure 1C,Pseudovirus (lentivirus),IC50,4809,1,50000,69,ng/ml,2021-06-29

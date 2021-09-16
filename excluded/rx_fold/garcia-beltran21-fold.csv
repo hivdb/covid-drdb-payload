@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Garcia-Beltran21,BNT162b2,Wuhan-Hu-1,SARS-CoV Spike,Figure 4C,Pseudovirus (lentivirus),NT50,=,43.8,NULL,NULL,30,2021-02-18
+Garcia-Beltran21,BNT162b2,Wuhan-Hu-1,WIV1 Spike,Figure 4C,Pseudovirus (lentivirus),NT50,=,44.3,NULL,NULL,30,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,SARS-CoV Spike,Figure 4D,Pseudovirus (lentivirus),NT50,=,33.5,NULL,NULL,35,2021-02-18
+Garcia-Beltran21,mRNA-1273,Wuhan-Hu-1,WIV1 Spike,Figure 4D,Pseudovirus (lentivirus),NT50,=,26.5,NULL,NULL,35,2021-02-18
