@@ -6,15 +6,15 @@ FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,B.1.351 Spike,BAM Table 3,Pseudovirus (VSV),
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,P.1 Spike,BAM Table 3,Pseudovirus (VSV),IC50,>,2360,NULL,NULL,1,2021-03-18
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,B.1.427/9 Spike,BAM Table 3,Pseudovirus (VSV),IC50,>,1020,NULL,NULL,1,2021-03-18
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,B.1.526 Spike,BAM Table 3,Pseudovirus (VSV),IC50,>,2360,NULL,NULL,1,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:484D,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
-FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:484Q,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
-FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:493R,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
-FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:417N,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
-FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:420D,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
-FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:460K,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
-FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:460S,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
-FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:460T,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
-FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:460Y,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,5,NULL,NULL,1,2021-09-20
+FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:484D,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
+FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:484Q,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
+FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:493R,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
+FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:417N,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
+FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:420D,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
+FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:460K,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
+FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:460S,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
+FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:460T,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
+FDA21,Etesevimab,Wuhan-Hu-1 Spike,S:460Y,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
 FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1 Spike,S:484D,BAM+ETE page 27,Pseudovirus (VSV),IC50,=,145,NULL,NULL,1,2021-09-20
 FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1 Spike,S:484K,BAM+ETE page 27,Pseudovirus (VSV),IC50,=,24,NULL,NULL,1,2021-09-20
 FDA21,Bamlanivimab+Etesevimab,Wuhan-Hu-1 Spike,S:484Q,BAM+ETE page 27,Pseudovirus (VSV),IC50,=,17,NULL,NULL,1,2021-09-20
