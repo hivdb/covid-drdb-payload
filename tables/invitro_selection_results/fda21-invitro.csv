@@ -1,15 +1,16 @@
 ﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-FDA21,Bamlanivimab,S,484,D,BAM page 21,2021-03-20
-FDA21,Bamlanivimab,S,484,K,BAM page 21,2021-03-20
-FDA21,Bamlanivimab,S,484,Q,BAM page 21,2021-03-20
-FDA21,Bamlanivimab,S,490,S,BAM page 21,2021-03-20
-FDA21,Bamlanivimab,S,493,R,BAM page 21,2021-03-20
-FDA21,Bamlanivimab,S,494,P,BAM page 21,2021-03-20
-FDA21,Bamlanivimab,S,417,N,BAM + ETE page 26,2021-03-20
-FDA21,Bamlanivimab,S,420,N,BAM + ETE page 26,2021-03-20
-FDA21,Bamlanivimab,S,460,K,BAM + ETE page 26,2021-03-20
-FDA21,Bamlanivimab,S,460,S,BAM + ETE page 26,2021-03-20
-FDA21,Bamlanivimab,S,460,T,BAM + ETE page 26,2021-03-20
+FDA21,Bamlanivimab,S,484,D,BAM + ETE page 27,2021-03-20
+FDA21,Bamlanivimab,S,484,K,BAM + ETE page 27,2021-03-20
+FDA21,Bamlanivimab,S,484,Q,BAM + ETE page 27,2021-03-20
+FDA21,Bamlanivimab,S,490,S,BAM + ETE page 27,2021-03-20
+FDA21,Bamlanivimab,S,493,R,BAM + ETE page 27,2021-03-20
+FDA21,Bamlanivimab,S,494,P,BAM + ETE page 27,2021-03-20
+FDA21,Etesevimab,S,417,N,BAM + ETE page 27,2021-03-20
+FDA21,Etesevimab,S,420,N,BAM + ETE page 27,2021-03-20
+FDA21,Etesevimab,S,460,K,BAM + ETE page 27,2021-03-20
+FDA21,Etesevimab,S,460,S,BAM + ETE page 27,2021-03-20
+FDA21,Etesevimab,S,460,T,BAM + ETE page 27,2021-03-20
+FDA21,Etesevimab,S,460,Y,BAM + ETE page 27,2021-03-20
 FDA21,Casirivimab,S,417,E,CAS + IMD page 23,2021-03-20
 FDA21,Casirivimab,S,417,N,CAS + IMD page 23,2021-03-20
 FDA21,Casirivimab,S,417,R,CAS + IMD page 23,2021-03-20
