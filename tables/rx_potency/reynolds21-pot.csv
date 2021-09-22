@@ -1,13 +1,211 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Reynolds21,Plasma_naive,Wuhan-Hu-1,Figure 1G,Virus isolate,NT50,50,20,20480,50,NULL,2021-08-24
 Reynolds21,CP,Wuhan-Hu-1,Figure 1G,Virus isolate,NT50,879,24,20480,50,NULL,2021-08-24
 Reynolds21,BNT162b2,Wuhan-Hu-1,Figure 1G,Virus isolate,NT50,421,20,20480,50,NULL,2021-08-24
 Reynolds21,BNT162b2_infected,Wuhan-Hu-1,Figure 1G,Virus isolate,NT50,25118,24,20480,50,NULL,2021-08-24
-Reynolds21,Plasma_naive,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,50,20,20480,50,NULL,2021-08-24
-Reynolds21,CP,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,56,24,20480,50,NULL,2021-08-24
-Reynolds21,BNT162b2,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,58,20,20480,50,NULL,2021-08-24
-Reynolds21,BNT162b2_infected,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,1679,24,20480,50,NULL,2021-08-24
-Reynolds21,Plasma_naive,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,20,20480,50,NULL,2021-08-24
 Reynolds21,CP,B.1.351 full genome,Figure 2A,Virus isolate,NT50,104,24,20480,50,NULL,2021-08-24
 Reynolds21,BNT162b2,B.1.351 full genome,Figure 2A,Virus isolate,NT50,100,20,20480,50,NULL,2021-08-24
 Reynolds21,BNT162b2_infected,B.1.351 full genome,Figure 2A,Virus isolate,NT50,5309,24,20480,50,NULL,2021-08-24
+Reynolds21,CP_1,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,157,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_2,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,210,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_3,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,808,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_4,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,245,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_5,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,294,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_6,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,1290,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_7,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,757,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_8,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,1639,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_9,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,2059,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_10,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,1276,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_11,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,250,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_12,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,362,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_13,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,1235,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_14,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,882,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_15,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,421,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_16,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,474,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_17,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_18,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,5192,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_19,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,741,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_20,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,73,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_21,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,169,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_22,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,324,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_23,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_24,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,1847,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_1,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_2,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_3,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,54,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_4,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_5,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_6,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,52,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_7,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,85,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_8,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_9,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,65,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_10,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,62,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_11,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_12,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_13,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,89,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_14,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,57,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_15,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_16,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_17,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_18,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,67,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_19,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_20,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_21,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_22,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_23,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_24,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,78,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_1,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,258,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_2,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,285,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_3,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,382,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_4,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,86,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_5,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,122,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_6,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,1470,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_7,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,203,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_8,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,111,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_9,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,219,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_10,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,1929,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_11,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,741,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_12,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,571,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_13,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,179,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_14,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,307,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_15,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,435,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_16,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,79,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_17,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,84,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_18,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,506,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_19,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,104,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_20,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,79,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_1,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_2,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_3,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_4,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_5,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_6,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_7,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_8,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_9,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_10,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,80,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_11,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,180,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_12,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_13,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_14,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_15,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_16,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_17,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_18,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_19,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_20,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_1,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,8023,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_2,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,11119,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_3,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,11119,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_4,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,27733,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_5,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,6179,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_6,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,14437,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_7,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,33367,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_8,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,5603,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_9,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,69169,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_10,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,45251,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_11,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,29283,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_12,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,19157,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_13,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,55040,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_14,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,18341,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_15,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,34101,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_16,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,70690,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_17,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,9653,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_18,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,558,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_19,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,20009,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_20,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,3288,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_21,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,29603,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_22,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,6741,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_23,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,2105,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_24,Wuhan-Hu-1,Figure 2B,Virus isolate,NT50,33732,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_1,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,506,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_2,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,901,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_3,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,1222,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_4,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,2296,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_5,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,2321,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_6,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,1519,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_7,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,3548,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_8,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,901,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_9,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,4657,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_10,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,2105,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_11,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,2588,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_12,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,1552,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_13,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,2398,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_14,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,2616,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_15,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,2082,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_16,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,2175,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_17,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,835,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_18,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,52,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_19,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,1072,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_20,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,577,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_21,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,799,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_22,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,1108,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_23,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,83,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_24,B.1.1.7 full genome,Figure 2B,Virus isolate,NT50,1304,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_25,B.1.351 full genome,Figure 2A,Virus isolate,NT50,214,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_26,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_27,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_28,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_29,B.1.351 full genome,Figure 2A,Virus isolate,NT50,188,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_30,B.1.351 full genome,Figure 2A,Virus isolate,NT50,304,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_31,B.1.351 full genome,Figure 2A,Virus isolate,NT50,260,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_32,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_33,B.1.351 full genome,Figure 2A,Virus isolate,NT50,143,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_34,B.1.351 full genome,Figure 2A,Virus isolate,NT50,152,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_35,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_36,B.1.351 full genome,Figure 2A,Virus isolate,NT50,152,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_37,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_38,B.1.351 full genome,Figure 2A,Virus isolate,NT50,67,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_39,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_40,B.1.351 full genome,Figure 2A,Virus isolate,NT50,262,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_41,B.1.351 full genome,Figure 2A,Virus isolate,NT50,53,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_42,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_43,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_44,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_45,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_46,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_47,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,CP_48,B.1.351 full genome,Figure 2A,Virus isolate,NT50,76,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_21,B.1.351 full genome,Figure 2A,Virus isolate,NT50,134,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_22,B.1.351 full genome,Figure 2A,Virus isolate,NT50,62,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_23,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_24,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_25,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_26,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_27,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_28,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_29,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_30,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_31,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_32,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_33,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_34,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_35,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_36,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_37,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_38,B.1.351 full genome,Figure 2A,Virus isolate,NT50,103,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_39,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_40,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_25,B.1.351 full genome,Figure 2A,Virus isolate,NT50,5475,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_26,B.1.351 full genome,Figure 2A,Virus isolate,NT50,5639,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_27,B.1.351 full genome,Figure 2A,Virus isolate,NT50,4589,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_28,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10984,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_29,B.1.351 full genome,Figure 2A,Virus isolate,NT50,8596,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_30,B.1.351 full genome,Figure 2A,Virus isolate,NT50,4500,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_31,B.1.351 full genome,Figure 2A,Virus isolate,NT50,20375,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_32,B.1.351 full genome,Figure 2A,Virus isolate,NT50,7065,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_33,B.1.351 full genome,Figure 2A,Virus isolate,NT50,19591,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_34,B.1.351 full genome,Figure 2A,Virus isolate,NT50,4867,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_35,B.1.351 full genome,Figure 2A,Virus isolate,NT50,2054,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_36,B.1.351 full genome,Figure 2A,Virus isolate,NT50,4500,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_37,B.1.351 full genome,Figure 2A,Virus isolate,NT50,3556,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_38,B.1.351 full genome,Figure 2A,Virus isolate,NT50,5013,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_39,B.1.351 full genome,Figure 2A,Virus isolate,NT50,4243,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_40,B.1.351 full genome,Figure 2A,Virus isolate,NT50,4726,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_41,B.1.351 full genome,Figure 2A,Virus isolate,NT50,2221,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_42,B.1.351 full genome,Figure 2A,Virus isolate,NT50,50,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_43,B.1.351 full genome,Figure 2A,Virus isolate,NT50,2136,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_44,B.1.351 full genome,Figure 2A,Virus isolate,NT50,1576,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_45,B.1.351 full genome,Figure 2A,Virus isolate,NT50,1258,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_46,B.1.351 full genome,Figure 2A,Virus isolate,NT50,1516,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_47,B.1.351 full genome,Figure 2A,Virus isolate,NT50,224,1,100000,50,NULL,2021-09-21
+Reynolds21,BNT162b2_infected_48,B.1.351 full genome,Figure 2A,Virus isolate,NT50,5639,1,100000,50,NULL,2021-09-21
