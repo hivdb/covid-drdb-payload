@@ -1,7 +1,40 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Yu21b,Ad26.COV2.S,Wuhan-Hu-1,Figure 1a,Pseudovirus (lentivirus),NT50,679,12,NULL,50,NULL,2021-08-25
-Yu21b,Ad26.COV2.S,S:614G,Figure 1a,Pseudovirus (lentivirus),NT50,575,12,NULL,50,NULL,2021-08-25
-Yu21b,Ad26.COV2.S,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 1a,Pseudovirus (lentivirus),NT50,159,12,NULL,50,NULL,2021-08-25
 Yu21b,Ad26.COV2.S,WA1,Extended Data Fig. 1,SARS-CoV-2 recombinant,NT50,1046,12,NULL,20,NULL,2021-08-25
 Yu21b,Ad26.COV2.S,S:69del+70del+145del+501Y+570D+614G+681H+716I+982A+1118H,Extended Data Fig. 1,SARS-CoV-2 recombinant,NT50,2358,12,NULL,20,NULL,2021-08-25
 Yu21b,Ad26.COV2.S,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Extended Data Fig. 1,SARS-CoV-2 recombinant,NT50,37,12,NULL,20,NULL,2021-08-25
+Yu21b,Ad26.COV2.S_1,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,1203,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_2,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,331,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_3,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,479,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_4,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,859,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_5,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,599,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_6,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,339,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_7,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,2154,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_8,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,932,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_9,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,258,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_10,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,299,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_11,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,787,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_12,Wuhan-Hu-1,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,1654,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_1,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,1330,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_2,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,769,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_3,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,450,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_4,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,918,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_5,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,522,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_6,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,710,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_7,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,742,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_8,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,494,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_9,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,381,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_10,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,286,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_11,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,600,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_12,S:614G,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,456,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_1,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,158,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_2,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,152,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_3,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,81,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_4,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,201,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_5,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,140,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_6,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,222,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_7,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,388,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_8,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,371,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_9,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,116,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_10,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,146,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_11,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,352,1,NULL,50,NULL,2021-09-23
+Yu21b,Ad26.COV2.S_12,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,"Figure 1a right bottom, 41586_2021_3732_MOESM3_ESM.xlsx",Pseudovirus (lentivirus),NT50,111,1,NULL,50,NULL,2021-09-23
