@@ -1,0 +1,26 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Schmitz21,3A11,S:614G,Table S1,SARS-CoV-2 recombinant,IC50,120.5,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,3A11,B.1.1.7 Spike,Table S1,SARS-CoV-2 recombinant,IC50,419,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,3A11,B.1.351 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,3A11,P.1 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,3A11,B.1.617.2 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2B06,S:614G,Table S1,SARS-CoV-2 recombinant,IC50,88.9,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2B06,B.1.1.7 Spike,Table S1,SARS-CoV-2 recombinant,IC50,87.7,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2B06,B.1.351 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2B06,P.1 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2B06,B.1.617.2 Spike,Table S1,SARS-CoV-2 recombinant,IC50,24.6,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1B12,S:614G,Table S1,SARS-CoV-2 recombinant,IC50,254.5,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1B12,B.1.1.7 Spike,Table S1,SARS-CoV-2 recombinant,IC50,283,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1B12,B.1.351 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1B12,P.1 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1B12,B.1.617.2 Spike,Table S1,SARS-CoV-2 recombinant,IC50,138,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1H09,S:614G,Table S1,SARS-CoV-2 recombinant,IC50,31,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1H09,B.1.1.7 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1H09,B.1.351 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1H09,P.1 Spike,Table S1,SARS-CoV-2 recombinant,IC50,10000,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,1H09,B.1.617.2 Spike,Table S1,SARS-CoV-2 recombinant,IC50,7.8,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2C08,S:614G,Table S1,SARS-CoV-2 recombinant,IC50,3.7,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2C08,B.1.1.7 Spike,Table S1,SARS-CoV-2 recombinant,IC50,4.7,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2C08,B.1.351 Spike,Table S1,SARS-CoV-2 recombinant,IC50,5,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2C08,P.1 Spike,Table S1,SARS-CoV-2 recombinant,IC50,4.9,1,10000,0.1,ng/ml,2021-09-24
+Schmitz21,2C08,B.1.617.2 Spike,Table S1,SARS-CoV-2 recombinant,IC50,0.3,1,10000,0.1,ng/ml,2021-09-24

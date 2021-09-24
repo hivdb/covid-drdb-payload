@@ -20,6 +20,7 @@ ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,vi
 19B2,NULL,NULL,NULL,New York Blood Center,CP,5000,FALSE,2021-04-27
 1B07,NULL,NULL,NULL,Washington University School of Medicine,Immunized mice,5000,FALSE,2021-01-27
 1B10,NULL,NULL,NULL,Washington University School of Medicine,,5000,FALSE,2021-04-27
+1B12,NULL,NULL,NULL,Washington University School of Medicine,CP,5000,FALSE,2021-09-24
 1E07,NULL,NULL,NULL,Washington University School of Medicine,,5000,FALSE,2021-04-27
 1E2,NULL,NULL,NULL,Chinese Academy of Medical Sciences,Phage display library,5000,FALSE,2021-04-27
 1E2-FC,NULL,NULL,NULL,Chinese Academy of Medical Sciences,Phage display library,5000,FALSE,2021-04-27
@@ -27,6 +28,7 @@ ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,vi
 1F8-Fc,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 1F8-IgG,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 1F9,NULL,NULL,NULL,,,5000,FALSE,2021-05-03
+1H09,NULL,NULL,NULL,Washington University School of Medicine,CP,5000,FALSE,2021-09-24
 2-15,NULL,NULL,NULL,Columbia University,CP,5000,FALSE,2021-01-27
 2-17,NULL,NULL,NULL,Columbia University,CP,5000,FALSE,2021-01-27
 2-30,NULL,NULL,NULL,,,5000,FALSE,2021-02-05
@@ -65,9 +67,11 @@ ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,vi
 28D9,NULL,NULL,NULL,Utrecht University,Transgenic mice,5000,FALSE,2021-04-27
 29G2,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 2B04,NULL,NULL,NULL,Washington University School of Medicine,Immunized mice,5000,FALSE,2021-01-27
+2B06,NULL,NULL,NULL,Washington University School of Medicine,CP,5000,FALSE,2021-09-24
 2B11,NULL,NULL,NULL,,,5000,FALSE,2021-08-19
 2C02,NULL,NULL,NULL,,,5000,FALSE,2021-03-25
 2C03,NULL,NULL,NULL,,,5000,FALSE,2021-03-25
+2C08,NULL,NULL,NULL,Washington University School of Medicine,CP,5000,FALSE,2021-09-24
 2E06,NULL,NULL,NULL,,,5000,FALSE,2021-03-25
 2F2,NULL,NULL,NULL,Chinese Academy of Medical Sciences,Phage display library,5000,FALSE,2021-04-27
 2F2-Fc,NULL,NULL,NULL,Chinese Academy of Medical Sciences,Phage display library,5000,FALSE,2021-04-27
@@ -91,6 +95,7 @@ ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,vi
 38D4,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 3A1-Fc,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 3A1-IgG,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
+3A11,NULL,NULL,NULL,Washington University School of Medicine,CP,5000,FALSE,2021-09-24
 3A2,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 3A3,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 3B11-Fc,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
