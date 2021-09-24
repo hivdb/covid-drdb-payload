@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Neumann21,CP_B.1.1.7,infection,~,2021-02-01,Germany,B.1.1.7 full genome,NULL,NULL
+Neumann21,CP_B.1.1.7,isolation,~,2021-03-08,Germany,B.1.1.7 full genome,NULL,NULL
+Neumann21,BNT162b2,1st dose,~,2021-02-01,Germany,NULL,BNT162b2,NULL
+Neumann21,BNT162b2,1st dose isolation,~,2021-02-20,Germany,NULL,NULL,NULL
+Neumann21,BNT162b2,2nd dose,~,2021-02-20,Germany,NULL,BNT162b2,NULL
+Neumann21,BNT162b2,2nd dose isolation,~,2021-03-22,Germany,NULL,NULL,NULL
+Neumann21,mRNA-1273,1st dose,~,2021-02-01,Germany,NULL,mRNA-1273,NULL
+Neumann21,mRNA-1273,1st dose isolation,~,2021-03-01,Germany,NULL,NULL,NULL
+Neumann21,mRNA-1273,2nd dose,~,2021-03-01,Germany,NULL,mRNA-1273,NULL
+Neumann21,mRNA-1273,2nd dose isolation,~,2021-03-22,Germany,NULL,NULL,NULL
+Neumann21,AZD1222,1st dose,~,2021-02-01,Germany,NULL,AZD1222,NULL
+Neumann21,AZD1222,1st dose isolation,~,2021-02-27,Germany,NULL,NULL,NULL
