@@ -219,7 +219,7 @@ CV3-1,NULL,RBD,NULL,author
 CV30,6XE1,RBD,RBM Class I,structure
 CV38-142,7LM8,RBD,RBD Core Cluster I,structure
 Casirivimab,6XDG,RBD,RBM Class I,structure
-Cilgavimab,NULL,RBD,NULL,author
+Cilgavimab,NULL,RBD,RBM Class II,author
 Cilgavimab,7L7E,RBD,RBM Class II,structure
 CoV2-06,NULL,RBD,NULL,author
 CoV2-14,NULL,RBD,NULL,author
@@ -424,7 +424,7 @@ Sb45,7N0G,RBD,RBM Class I,structure
 Sb68,7MFU,RBD,RBD Core Cluster II,structure
 Sotrovimab,6WPS,RBD,RBD Core Cluster I,structure
 Tixagevimab,NULL,RBD,RBM Class I,author
-Tixagevimab,7L7D,RBD,RBM Class I,structure
+Tixagevimab,7L7E,RBD,RBM Class I,structure
 Ty1,6ZXN,RBD,RBM Class II,structure
 VHH E,7KN5,RBD,RBM Class II,structure
 VHH U,7KN5,RBD,RBD Core Cluster II,structure
