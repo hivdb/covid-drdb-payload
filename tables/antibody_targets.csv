@@ -286,7 +286,32 @@ Nb34,7N9E,RBD,RBM Class II,structure
 Nb36,7MEJ,RBD,RBD Core Cluster I,structure
 Nb6,7KKK,RBD,RBM Class II,structure
 Nb95,7N9C,RBD,RBD Core Cluster I,structure
+P003_017,NULL,RBD,RBM Class II,author
+P003_027,NULL,NTD,NULL,author
+P008_003,NULL,RBD,RBM Class II,author
+P008_007,NULL,NTD,NULL,author
+P008_015,NULL,RBD,RBD Core Cluster I,author
+P008_018,NULL,RBD,RBM Class II,author
+P008_038,NULL,RBD,RBD Core Cluster I,author
+P008_039,NULL,NTD,NULL,author
+P008_042,NULL,RBD,RBM Class II,author
+P008_047,NULL,RBD,RBM Class II,author
+P008_051,NULL,NTD,NULL,author
+P008_052,NULL,NTD,NULL,author
 P008_056,7NTC,NTD,NTD,structure
+P008_060,NULL,S2,NULL,author
+P008_067,NULL,RBD,RBM Class II,author
+P008_081,NULL,RBD,RBM Class II,author
+P008_083,NULL,RBD,RBM Class II,author
+P008_087,NULL,RBD,RBD Core Cluster I,author
+P008_090,NULL,RBD,RBM Class II,author
+P008_096,NULL,RBD,RBD Core Cluster I,author
+P008_108,NULL,RBD,RBM Class II,author
+P054_003,NULL,RBD,RBM Class I,author
+P054_004,NULL,RBD,RBD Core Cluster II,author
+P054_021,NULL,NTD,NULL,author
+P054_022,NULL,RBD,RBM Class II,author
+P054_027,NULL,RBD,RBD Core Cluster II,author
 P17,7CWM,RBD,RBM Class I,structure
 P22A-1D1,NULL,RBD,RBM Class I,author
 P22A-1D1,7CHS,RBD,RBM Class I,structure

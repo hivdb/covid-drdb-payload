@@ -1669,6 +1669,8 @@ S:141del+142del+143del+144del+490L,S,142,del
 S:141del+142del+143del+144del+490L,S,143,del
 S:141del+142del+143del+144del+490L,S,144,del
 S:144del,S,144,del
+S:144del+614G,S,144,del
+S:144del+614G,S,614,G
 S:145del,S,145,del
 S:145del+408I,S,145,del
 S:145del+408I,S,408,I

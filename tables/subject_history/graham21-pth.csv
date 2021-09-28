@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Graham21,P008,infection,~,2020-04-01,UK,B.1 full genome,NULL,NULL
+Graham21,P008,isolation,~,2020-06-01,UK,NULL,NULL,NULL
+Graham21,P054,infection,~,2020-04-01,UK,B.1 full genome,NULL,NULL
+Graham21,P054,isolation,~,2020-05-19,UK,NULL,NULL,NULL

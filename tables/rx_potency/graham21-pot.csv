@@ -1,0 +1,189 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Graham21,P054_004,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,178,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_004,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1068,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_004,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2490,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_004,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,3201,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_004,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,11737,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_004,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,3201,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_004,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,9603,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_027,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,846,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_027,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,21145,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_027,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,6766,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_027,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10573,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_027,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,84581,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_027,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,100000,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_027,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,100000,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_003,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_003,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_003,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_003,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_003,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,59,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_003,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,49,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_003,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,148,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_017,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,169,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_017,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,169,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_017,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,4219,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_017,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,169,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_017,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,338,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_017,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,30883,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_017,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,45734,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_003,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,47,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_003,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,47,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_003,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,425,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_003,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,94,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_003,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,47,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_003,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,189,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_003,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,27673,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_018,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,11,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_018,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,11,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_018,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,11,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_018,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,11,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_018,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,54,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_018,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,11,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_018,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,43,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_042,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_042,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_042,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_042,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_042,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_042,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,3,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_042,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,4,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_047,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,14,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_047,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,14,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_047,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,27,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_047,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,14,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_047,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,96,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_047,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,41,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_047,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,123,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_067,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_067,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,21,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_067,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_067,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,21,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_067,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,42,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_067,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_067,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,42,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_081,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,15,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_081,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,15,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_081,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,15,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_081,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,15,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_081,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,102,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_081,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,261,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_081,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1482,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_083,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_083,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_083,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_083,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_083,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,3,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_083,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,7,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_083,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,7,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_090,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_090,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_090,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,6,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_090,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,4,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_090,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_090,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,8,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_090,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,12,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_108,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,3,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_108,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_108,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_108,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,3,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_108,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,3,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_108,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_108,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,6,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_022,Wuhan-Hu-1,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,453,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_022,S:614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,453,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_022,S:501Y,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,453,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_022,S:69del+70del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,453,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_022,S:144del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,906,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_022,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,2266,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_022,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,39425,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_015,Wuhan-Hu-1,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,4,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_015,S:614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,20,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_015,S:501Y,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,8,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_015,S:69del+70del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,20,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_015,S:144del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,39,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_015,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,10,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_015,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,13401,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_038,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_038,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,29,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_038,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,19,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_038,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,29,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_038,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,58,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_038,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,29,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_038,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,145,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_087,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_087,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,230,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_087,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,157,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_087,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,230,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_087,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1612,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_087,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,461,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_087,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2073,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_096,Wuhan-Hu-1,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,399,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_096,S:614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,2795,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_096,S:501Y,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,1198,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_096,S:69del+70del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,2795,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_096,S:144del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,11179,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_096,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,2795,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_096,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,8384,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_039,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,6,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_039,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,2839,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_039,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,44,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_039,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,1420,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_039,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,28394,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_039,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,28394,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_039,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,11358,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_051,Wuhan-Hu-1,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,129,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_051,S:614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,2454,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_051,S:501Y,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,258,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_051,S:69del+70del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,2454,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_051,S:144del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,36809,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_051,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,12270,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_051,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,17178,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_052,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,48,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_052,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,5098,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_052,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,289,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_052,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,5098,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_052,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,35688,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_052,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,40786,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_052,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,20393,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_027,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,8318,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_027,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,520,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_027,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,8318,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_027,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,8318,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_027,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,10397,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_027,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,64981,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P003_027,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,64981,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_007,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,27,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_007,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,27,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_007,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,457,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_007,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,27,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_007,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,32718,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_007,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,32718,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_007,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,32718,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_021,Wuhan-Hu-1,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,19,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_021,S:614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,19,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_021,S:501Y,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,152,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_021,S:69del+70del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,19,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_021,S:144del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,35767,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_021,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,35767,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P054_021,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),IC50,35767,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_060,Wuhan-Hu-1,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,44,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_060,S:614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,44,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_060,S:501Y,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,349,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_060,S:69del+70del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,44,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_060,S:144del+614G,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,82150,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_060,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,82150,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008_060,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Supplementary Figure S4 ",Pseudovirus (HIV),IC50,82150,1,100000,0.1,ng/ml,2021-09-27
+Graham21,P008,Wuhan-Hu-1,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,492,1,1000000,20,NULL,2021-09-27
+Graham21,P008,S:614G,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,492,1,1000000,20,NULL,2021-09-27
+Graham21,P008,S:501Y,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,492,1,1000000,20,NULL,2021-09-27
+Graham21,P008,S:69del+70del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,492,1,1000000,20,NULL,2021-09-27
+Graham21,P008,S:144del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,246,1,1000000,20,NULL,2021-09-27
+Graham21,P008,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,62,1,1000000,20,NULL,2021-09-27
+Graham21,P054,Wuhan-Hu-1,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,1943,1,1000000,20,NULL,2021-09-27
+Graham21,P054,S:614G,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,971,1,1000000,20,NULL,2021-09-27
+Graham21,P054,S:501Y,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,3886,1,1000000,20,NULL,2021-09-27
+Graham21,P054,S:69del+70del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,971,1,1000000,20,NULL,2021-09-27
+Graham21,P054,S:144del+614G,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,324,1,1000000,20,NULL,2021-09-27
+Graham21,P054,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,971,1,1000000,20,NULL,2021-09-27
+Graham21,P054,S:69del+70del+144del+484K+501Y+570D+614G+681H+716I+982A+1118H,"Figure S5, Figure 6",Pseudovirus (HIV),NT50,121,1,1000000,20,NULL,2021-09-27
