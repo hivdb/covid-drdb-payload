@@ -1,8 +1,8 @@
 ref_name,control_iso_name,iso_name
 Alenquer21,S:614G,Wuhan-Hu-1
-Alenquer21,S:614G,B.1.1.7 Spike
-Alenquer21,S:614G,B.1.351 Spike
-Alenquer21,S:614G,P.1 Spike
+Alenquer21,S:614G,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H
+Alenquer21,S:614G,S:80A+215G+417N+484K+501Y+614G+701V
+Alenquer21,S:614G,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I
 Alenquer21,S:614G,S:501Y
 Alenquer21,S:614G,S:69del+70del+501Y
 Alenquer21,S:614G,S:69del+70del+501Y+681H
@@ -21,3 +21,6 @@ Alenquer21,S:614G,S:477N
 Alenquer21,S:614G,S:675H
 Alenquer21,S:614G,S:839Y
 Alenquer21,S:614G,S:936Y
+Alenquer21,S:614G,S:494P+501Y
+Alenquer21,S:614G,S:484K+494P
+Alenquer21,S:614G,S:484K+494P+501Y

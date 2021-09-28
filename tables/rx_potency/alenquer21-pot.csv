@@ -16,9 +16,9 @@ Alenquer21,CP_ID_20,S:614G,Table S2,Pseudovirus (lentivirus),NT50,641,1,NULL,30,
 Alenquer21,CP_ID_21,S:614G,Table S2,Pseudovirus (lentivirus),NT50,1668,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_22,S:614G,Table S2,Pseudovirus (lentivirus),NT50,684,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_5,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,57,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_5,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,84,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_5,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_5,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_5,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,84,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_5,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_5,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_5,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,32,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_5,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,120,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_5,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,64,1,NULL,30,NULL,2021-04-25
@@ -38,9 +38,9 @@ Alenquer21,CP_ID_5,S:675H,Table S2,Pseudovirus (lentivirus),NT50,62,1,NULL,30,NU
 Alenquer21,CP_ID_5,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,53,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_5,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,60,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_6,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,71,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_6,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,70,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_6,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_6,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_6,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,70,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_6,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_6,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_6,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,73,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_6,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,77,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_6,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,103,1,NULL,30,NULL,2021-04-25
@@ -60,11 +60,11 @@ Alenquer21,CP_ID_6,S:675H,Table S2,Pseudovirus (lentivirus),NT50,82,1,NULL,30,NU
 Alenquer21,CP_ID_6,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,67,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_6,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,60,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_7,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,87,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_7,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_7,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_7,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_7,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_7,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_7,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_7,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_7,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,28,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_7,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_7,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,114,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_7,S:484K,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_7,S:417N+484K+501Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
@@ -82,10 +82,10 @@ Alenquer21,CP_ID_7,S:675H,Table S2,Pseudovirus (lentivirus),NT50,69,1,NULL,30,NU
 Alenquer21,CP_ID_7,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,49,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_7,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,97,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_8,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,53,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_8,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_8,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_8,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_8,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,28,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_8,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_8,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_8,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_8,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_8,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,68,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_8,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,141,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_8,S:484K,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
@@ -101,34 +101,34 @@ Alenquer21,CP_ID_8,S:439K,Table S2,Pseudovirus (lentivirus),NT50,56,1,NULL,30,NU
 Alenquer21,CP_ID_8,S:69del+70del+453F,Table S2,Pseudovirus (lentivirus),NT50,115,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_8,S:477N,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_8,S:675H,Table S2,Pseudovirus (lentivirus),NT50,45,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_8,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,29,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_8,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_8,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,43,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,76,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_12,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_12,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_12,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_12,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_12,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_12,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_12,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,25,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_12,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,26,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_12,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_12,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:484K,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:417N+484K+501Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:452R,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:494P,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:5F+1208H,Table S2,Pseudovirus (lentivirus),NT50,78,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_12,S:18F+222V,Table S2,Pseudovirus (lentivirus),NT50,27,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_12,S:18F+222V,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:49Y,Table S2,Pseudovirus (lentivirus),NT50,32,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:215G,Table S2,Pseudovirus (lentivirus),NT50,120,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:69del+70del+439K,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_12,S:439K,Table S2,Pseudovirus (lentivirus),NT50,20,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_12,S:439K,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:69del+70del+453F,Table S2,Pseudovirus (lentivirus),NT50,150,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:477N,Table S2,Pseudovirus (lentivirus),NT50,17,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:675H,Table S2,Pseudovirus (lentivirus),NT50,34,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,34,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_12,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,68,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_9,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,924,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_9,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,123,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_9,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_9,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,28,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_9,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,123,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_9,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_9,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_9,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,149,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_9,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,235,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_9,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,153,1,NULL,30,NULL,2021-04-25
@@ -148,14 +148,14 @@ Alenquer21,CP_ID_9,S:675H,Table S2,Pseudovirus (lentivirus),NT50,584,1,NULL,30,N
 Alenquer21,CP_ID_9,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,270,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_9,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,406,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,854,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_10,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,527,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_10,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,41,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_10,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,19,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_10,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,527,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_10,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,41,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_10,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,339,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,492,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,520,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,S:484K,Table S2,Pseudovirus (lentivirus),NT50,504,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_10,S:417N+484K+501Y,Table S2,Pseudovirus (lentivirus),NT50,29,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_10,S:417N+484K+501Y,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,S:452R,Table S2,Pseudovirus (lentivirus),NT50,177,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,S:494P,Table S2,Pseudovirus (lentivirus),NT50,154,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,S:5F+1208H,Table S2,Pseudovirus (lentivirus),NT50,1973,1,NULL,30,NULL,2021-04-25
@@ -170,9 +170,9 @@ Alenquer21,CP_ID_10,S:675H,Table S2,Pseudovirus (lentivirus),NT50,500,1,NULL,30,
 Alenquer21,CP_ID_10,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,496,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_10,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,631,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_11,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,117,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_11,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,53,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_11,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_11,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_11,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,53,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_11,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_11,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_11,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,42,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_11,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,69,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_11,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,130,1,NULL,30,NULL,2021-04-25
@@ -192,9 +192,9 @@ Alenquer21,CP_ID_11,S:675H,Table S2,Pseudovirus (lentivirus),NT50,116,1,NULL,30,
 Alenquer21,CP_ID_11,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,35,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_11,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,91,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_13,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,946,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_13,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,241,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_13,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,339,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_13,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,161,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_13,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,241,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_13,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,339,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_13,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,161,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_13,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,192,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_13,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,333,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_13,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,572,1,NULL,30,NULL,2021-04-25
@@ -214,9 +214,9 @@ Alenquer21,CP_ID_13,S:675H,Table S2,Pseudovirus (lentivirus),NT50,1032,1,NULL,30
 Alenquer21,CP_ID_13,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,520,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_13,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,570,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_14,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,769,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_14,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,283,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_14,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,40,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_14,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,27,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_14,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,283,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_14,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,40,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_14,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_14,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,217,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_14,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,159,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_14,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,226,1,NULL,30,NULL,2021-04-25
@@ -236,9 +236,9 @@ Alenquer21,CP_ID_14,S:675H,Table S2,Pseudovirus (lentivirus),NT50,603,1,NULL,30,
 Alenquer21,CP_ID_14,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,331,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_14,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,1082,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_15,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,1248,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_15,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,663,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_15,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,226,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_15,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,137,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_15,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,663,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_15,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,226,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_15,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,137,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_15,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,613,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_15,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,504,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_15,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,984,1,NULL,30,NULL,2021-04-25
@@ -258,9 +258,9 @@ Alenquer21,CP_ID_15,S:675H,Table S2,Pseudovirus (lentivirus),NT50,987,1,NULL,30,
 Alenquer21,CP_ID_15,S:839Y,Table S2,Pseudovirus (lentivirus),NT50,475,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_15,S:936Y,Table S2,Pseudovirus (lentivirus),NT50,357,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_16,Wuhan-Hu-1,Table S2,Pseudovirus (lentivirus),NT50,263,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_16,B.1.1.7 Spike,Table S2,Pseudovirus (lentivirus),NT50,217,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_16,B.1.351 Spike,Table S2,Pseudovirus (lentivirus),NT50,66,1,NULL,30,NULL,2021-04-25
-Alenquer21,CP_ID_16,P.1 Spike,Table S2,Pseudovirus (lentivirus),NT50,32,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_16,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (lentivirus),NT50,217,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_16,S:80A+215G+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (lentivirus),NT50,66,1,NULL,30,NULL,2021-04-25
+Alenquer21,CP_ID_16,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (lentivirus),NT50,32,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_16,S:501Y,Table S2,Pseudovirus (lentivirus),NT50,93,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_16,S:69del+70del+501Y,Table S2,Pseudovirus (lentivirus),NT50,162,1,NULL,30,NULL,2021-04-25
 Alenquer21,CP_ID_16,S:69del+70del+501Y+681H,Table S2,Pseudovirus (lentivirus),NT50,315,1,NULL,30,NULL,2021-04-25
@@ -301,33 +301,224 @@ Alenquer21,BNT_2nd_7,S:614G,Table S3,Pseudovirus (lentivirus),NT50,36,1,NULL,30,
 Alenquer21,BNT_2nd_8,S:614G,Table S3,Pseudovirus (lentivirus),NT50,290,1,NULL,30,NULL,2021-04-25
 Alenquer21,BNT_2nd_9,S:614G,Table S3,Pseudovirus (lentivirus),NT50,291,1,NULL,30,NULL,2021-04-25
 Alenquer21,BNT_2nd_10,S:614G,Table S3,Pseudovirus (lentivirus),NT50,72,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_1,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,224,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_2,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,92,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_3,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,75,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_4,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,458,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_5,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,277,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_6,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,279,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_7,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,71,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_8,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,381,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_9,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,310,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_10,B.1.1.7 Spike,Table S3,Pseudovirus (lentivirus),NT50,61,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_1,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,79,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_2,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_3,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,43,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_4,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,185,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_5,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,122,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_6,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,116,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_7,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_8,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,40,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_9,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,71,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_10,B.1.351 Spike,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_1,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,131,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_2,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,33,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_3,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,46,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_4,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,203,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_5,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,117,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_6,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,125,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_7,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,35,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_8,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,33,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_9,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,83,1,NULL,30,NULL,2021-04-25
-Alenquer21,BNT_2nd_10,P.1 Spike,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_1,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,224,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_2,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,92,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_3,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,75,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_4,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,458,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_5,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,277,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_6,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,279,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_7,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,71,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_8,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,381,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_9,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,310,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_10,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,61,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_1,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,79,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_2,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_3,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,43,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_4,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,185,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_5,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,122,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_6,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,116,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_7,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_8,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,40,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_9,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,71,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_10,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_1,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,131,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_2,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,33,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_3,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,46,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_4,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,203,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_5,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,117,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_6,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,125,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_7,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,35,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_8,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,33,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_9,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,83,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_2nd_10,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-04-25
+Alenquer21,BNT_1st_1,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_2,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_3,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_4,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_5,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_6,S:614G,Table S3,Pseudovirus (lentivirus),NT50,40,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_7,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_8,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_9,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_10,S:614G,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_1,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_2,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_3,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_4,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_5,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_6,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,31,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_7,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_8,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_9,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_10,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_1,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_2,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_3,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_4,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_5,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_6,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_7,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_8,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_9,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_10,S:80A+215G+417N+484K+501Y+614G+701V,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_1,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_2,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_3,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_4,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_5,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_6,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_7,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_8,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_9,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_1st_10,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S3,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_5_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,39,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_6_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,64,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_7_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,80,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_8_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,89,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_9_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,226,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_10_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,448,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_11_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,77,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_13_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,491,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_14_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,211,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_15_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,579,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_16_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,503,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_19_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,1214,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_20_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,1324,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_21_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,822,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_22_2,S:614G,Table S5,Pseudovirus (lentivirus),NT50,1332,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_5_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_6_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_7_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_8_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_9_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,86,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_10_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,459,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_11_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,55,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_13_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,206,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_14_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,86,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_15_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,459,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_16_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,55,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_19_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,206,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_20_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,168,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_21_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,329,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_22_2,S:494P,Table S5,Pseudovirus (lentivirus),NT50,84,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_5_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_6_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_7_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_8_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_9_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,67,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_10_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,317,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_11_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_13_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,112,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_14_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,70,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_15_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,405,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_16_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,71,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_19_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,374,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_20_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,139,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_21_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,342,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_22_2,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,130,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_5_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_6_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_7_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_8_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_9_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,73,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_10_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,284,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_11_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_13_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,49,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_14_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,243,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_15_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,277,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_16_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_19_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,340,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_20_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,56,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_21_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,415,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_22_2,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,250,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_5_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_9_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_10_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,154,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_11_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_13_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,77,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_14_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,39,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_15_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,106,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_19_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,313,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_20_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,68,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_21_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,322,1,NULL,30,NULL,2021-09-28
+Alenquer21,CP_ID_22_2,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,113,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_A_1st,S:614G,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_B_1st,S:614G,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_1st,S:614G,Table S5,Pseudovirus (lentivirus),NT50,336,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_1st,S:614G,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_1st,S:614G,Table S5,Pseudovirus (lentivirus),NT50,60,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_1st,S:614G,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_1st,S:614G,Table S5,Pseudovirus (lentivirus),NT50,219,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_1st,S:614G,Table S5,Pseudovirus (lentivirus),NT50,91,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_A_1st,S:494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_B_1st,S:494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_1st,S:494P,Table S5,Pseudovirus (lentivirus),NT50,278,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_1st,S:494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_1st,S:494P,Table S5,Pseudovirus (lentivirus),NT50,105,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_1st,S:494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_1st,S:494P,Table S5,Pseudovirus (lentivirus),NT50,395,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_1st,S:494P,Table S5,Pseudovirus (lentivirus),NT50,37,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_A_1st,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_B_1st,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_1st,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,142,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_1st,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_1st,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,102,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_1st,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_1st,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,332,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_1st,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,51,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_A_1st,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_B_1st,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_1st,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,284,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_1st,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_1st,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,52,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_1st,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_1st,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,233,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_1st,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,123,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_A_1st,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_B_1st,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_1st,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,70,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_1st,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_1st,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,44,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_1st,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_1st,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,74,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_1st,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,49,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_2nd,S:614G,Table S5,Pseudovirus (lentivirus),NT50,631,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_2nd,S:614G,Table S5,Pseudovirus (lentivirus),NT50,263,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_2nd,S:614G,Table S5,Pseudovirus (lentivirus),NT50,191,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_2nd,S:614G,Table S5,Pseudovirus (lentivirus),NT50,119,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_2nd,S:614G,Table S5,Pseudovirus (lentivirus),NT50,858,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_2nd,S:614G,Table S5,Pseudovirus (lentivirus),NT50,301,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_N_2nd,S:614G,Table S5,Pseudovirus (lentivirus),NT50,97,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_O_2nd,S:614G,Table S5,Pseudovirus (lentivirus),NT50,259,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_2nd,S:494P,Table S5,Pseudovirus (lentivirus),NT50,715,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_2nd,S:494P,Table S5,Pseudovirus (lentivirus),NT50,192,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_2nd,S:494P,Table S5,Pseudovirus (lentivirus),NT50,206,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_2nd,S:494P,Table S5,Pseudovirus (lentivirus),NT50,140,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_2nd,S:494P,Table S5,Pseudovirus (lentivirus),NT50,389,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_2nd,S:494P,Table S5,Pseudovirus (lentivirus),NT50,270,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_N_2nd,S:494P,Table S5,Pseudovirus (lentivirus),NT50,106,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_O_2nd,S:494P,Table S5,Pseudovirus (lentivirus),NT50,142,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_2nd,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,495,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_2nd,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,122,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_2nd,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,154,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_2nd,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,109,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_2nd,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,221,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_2nd,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,264,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_N_2nd,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,77,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_O_2nd,S:494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,126,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_2nd,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,282,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_2nd,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,128,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_2nd,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,63,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_2nd,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,69,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_2nd,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,138,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_2nd,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,111,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_N_2nd,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,34,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_O_2nd,S:484K+494P,Table S5,Pseudovirus (lentivirus),NT50,77,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_H_2nd,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,210,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_I_2nd,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,43,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_J_2nd,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,78,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_K_2nd,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,52,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_L_2nd,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,118,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_M_2nd,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,170,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_N_2nd,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,30,1,NULL,30,NULL,2021-09-28
+Alenquer21,BNT_O_2nd,S:484K+494P+501Y,Table S5,Pseudovirus (lentivirus),NT50,79,1,NULL,30,NULL,2021-09-28
