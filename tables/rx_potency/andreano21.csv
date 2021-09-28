@@ -1,0 +1,100 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Andreano21,PT003,Wuhan-Hu-1,Table 1,Virus isolate,NT50,15,1,20480,10,NULL,2021-07-06
+Andreano21,PT004,Wuhan-Hu-1,Table 1,Virus isolate,NT50,120,1,20480,10,NULL,2021-07-06
+Andreano21,PT005,Wuhan-Hu-1,Table 1,Virus isolate,NT50,80,1,20480,10,NULL,2021-07-06
+Andreano21,PT006,Wuhan-Hu-1,Table 1,Virus isolate,NT50,120,1,20480,10,NULL,2021-07-06
+Andreano21,PT008,Wuhan-Hu-1,Table 1,Virus isolate,NT50,120,1,20480,10,NULL,2021-07-06
+Andreano21,PT009,Wuhan-Hu-1,Table 1,Virus isolate,NT50,640,1,20480,10,NULL,2021-07-06
+Andreano21,PT010,Wuhan-Hu-1,Table 1,Virus isolate,NT50,15,1,20480,10,NULL,2021-07-06
+Andreano21,PT012,Wuhan-Hu-1,Table 1,Virus isolate,NT50,120,1,20480,10,NULL,2021-07-06
+Andreano21,PT014,Wuhan-Hu-1,Table 1,Virus isolate,NT50,120,1,20480,10,NULL,2021-07-06
+Andreano21,PT015,Wuhan-Hu-1,Table 1,Virus isolate,NT50,640,1,20480,10,NULL,2021-07-06
+Andreano21,PT041,Wuhan-Hu-1,Table 1,Virus isolate,NT50,40,1,20480,10,NULL,2021-07-06
+Andreano21,PT042,Wuhan-Hu-1,Table 1,Virus isolate,NT50,960,1,20480,10,NULL,2021-07-06
+Andreano21,PT100,Wuhan-Hu-1,Table 1,Virus isolate,NT50,80,1,20480,10,NULL,2021-07-06
+Andreano21,PT101,Wuhan-Hu-1,Table 1,Virus isolate,NT50,20,1,20480,10,NULL,2021-07-06
+Andreano21,PT102,Wuhan-Hu-1,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-07-06
+Andreano21,PT103,Wuhan-Hu-1,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-07-06
+Andreano21,PT122,Wuhan-Hu-1,Table 1,Virus isolate,NT50,640,1,20480,10,NULL,2021-07-06
+Andreano21,PT188,Wuhan-Hu-1,Table 1,Virus isolate,NT50,10240,1,20480,10,NULL,2021-07-06
+Andreano21,PT200,Wuhan-Hu-1,Table 1,Virus isolate,NT50,60,1,20480,10,NULL,2021-07-06
+Andreano21,PT276,Wuhan-Hu-1,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-07-06
+Andreano21,PT003,B.1 full genome,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-07-06
+Andreano21,PT004,B.1 full genome,Table 1,Virus isolate,NT50,60,1,20480,10,NULL,2021-07-06
+Andreano21,PT005,B.1 full genome,Table 1,Virus isolate,NT50,30,1,20480,10,NULL,2021-07-06
+Andreano21,PT006,B.1 full genome,Table 1,Virus isolate,NT50,20,1,20480,10,NULL,2021-07-06
+Andreano21,PT008,B.1 full genome,Table 1,Virus isolate,NT50,80,1,20480,10,NULL,2021-07-06
+Andreano21,PT009,B.1 full genome,Table 1,Virus isolate,NT50,320,1,20480,10,NULL,2021-07-06
+Andreano21,PT010,B.1 full genome,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-07-06
+Andreano21,PT012,B.1 full genome,Table 1,Virus isolate,NT50,80,1,20480,10,NULL,2021-07-06
+Andreano21,PT014,B.1 full genome,Table 1,Virus isolate,NT50,40,1,20480,10,NULL,2021-07-06
+Andreano21,PT015,B.1 full genome,Table 1,Virus isolate,NT50,320,1,20480,10,NULL,2021-07-06
+Andreano21,PT041,B.1 full genome,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-07-06
+Andreano21,PT042,B.1 full genome,Table 1,Virus isolate,NT50,320,1,20480,10,NULL,2021-07-06
+Andreano21,PT100,B.1 full genome,Table 1,Virus isolate,NT50,30,1,20480,10,NULL,2021-07-06
+Andreano21,PT101,B.1 full genome,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-07-06
+Andreano21,PT102,B.1 full genome,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-07-06
+Andreano21,PT103,B.1 full genome,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-07-06
+Andreano21,PT122,B.1 full genome,Table 1,Virus isolate,NT50,480,1,20480,10,NULL,2021-07-06
+Andreano21,PT188,B.1 full genome,Table 1,Virus isolate,NT50,10240,1,20480,10,NULL,2021-07-06
+Andreano21,PT200,B.1 full genome,Table 1,Virus isolate,NT50,30,1,20480,10,NULL,2021-07-06
+Andreano21,PT276,B.1 full genome,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-07-06
+Andreano21,PT003,PT188_EM,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-01-27
+Andreano21,PT004,PT188_EM,Table 1,Virus isolate,NT50,20,1,20480,10,NULL,2021-01-27
+Andreano21,PT005,PT188_EM,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-01-27
+Andreano21,PT006,PT188_EM,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-01-27
+Andreano21,PT008,PT188_EM,Table 1,Virus isolate,NT50,40,1,20480,10,NULL,2021-01-27
+Andreano21,PT009,PT188_EM,Table 1,Virus isolate,NT50,120,1,20480,10,NULL,2021-01-27
+Andreano21,PT010,PT188_EM,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-01-27
+Andreano21,PT012,PT188_EM,Table 1,Virus isolate,NT50,15,1,20480,10,NULL,2021-01-27
+Andreano21,PT014,PT188_EM,Table 1,Virus isolate,NT50,20,1,20480,10,NULL,2021-01-27
+Andreano21,PT015,PT188_EM,Table 1,Virus isolate,NT50,160,1,20480,10,NULL,2021-01-27
+Andreano21,PT041,PT188_EM,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-01-27
+Andreano21,PT042,PT188_EM,Table 1,Virus isolate,NT50,60,1,20480,10,NULL,2021-01-27
+Andreano21,PT100,PT188_EM,Table 1,Virus isolate,NT50,40,1,20480,10,NULL,2021-01-27
+Andreano21,PT101,PT188_EM,Table 1,Virus isolate,NT50,10,1,20480,10,NULL,2021-01-27
+Andreano21,PT102,PT188_EM,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-01-27
+Andreano21,PT103,PT188_EM,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-01-27
+Andreano21,PT122,PT188_EM,Table 1,Virus isolate,NT50,320,1,20480,10,NULL,2021-01-27
+Andreano21,PT188,PT188_EM,Table 1,Virus isolate,NT50,40,1,20480,10,NULL,2021-01-27
+Andreano21,PT200,PT188_EM,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-01-27
+Andreano21,PT276,PT188_EM,Table 1,Virus isolate,NT50,5,1,20480,10,NULL,2021-01-27
+Andreano21,J08,Wuhan-Hu-1,Table 2,Virus isolate,IC100,3.9,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,I14,Wuhan-Hu-1,Table 2,Virus isolate,IC100,11,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,F05,Wuhan-Hu-1,Table 2,Virus isolate,IC100,3.9,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,G12,Wuhan-Hu-1,Table 2,Virus isolate,IC100,39.4,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,C14,Wuhan-Hu-1,Table 2,Virus isolate,IC100,157.5,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,B07,Wuhan-Hu-1,Table 2,Virus isolate,IC100,99.2,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,I21,Wuhan-Hu-1,Table 2,Virus isolate,IC100,99.2,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,J13,Wuhan-Hu-1,Table 2,Virus isolate,IC100,396.8,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,D14,Wuhan-Hu-1,Table 2,Virus isolate,IC100,396.8,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,H20,Wuhan-Hu-1,Table 2,Virus isolate,IC100,492.2,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,I15,Wuhan-Hu-1,Table 2,Virus isolate,IC100,310,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,F10,Wuhan-Hu-1,Table 2,Virus isolate,IC100,155,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,F20,Wuhan-Hu-1,Table 2,Virus isolate,IC100,246.1,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,J08,B.1 full genome,Table 2,Virus isolate,IC100,7.8,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,I14,B.1 full genome,Table 2,Virus isolate,IC100,19.7,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,F05,B.1 full genome,Table 2,Virus isolate,IC100,4.9,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,G12,B.1 full genome,Table 2,Virus isolate,IC100,39.4,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,C14,B.1 full genome,Table 2,Virus isolate,IC100,78.7,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,B07,B.1 full genome,Table 2,Virus isolate,IC100,49.6,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,I21,B.1 full genome,Table 2,Virus isolate,IC100,198.4,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,J13,B.1 full genome,Table 2,Virus isolate,IC100,500,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,D14,B.1 full genome,Table 2,Virus isolate,IC100,250,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,H20,B.1 full genome,Table 2,Virus isolate,IC100,310,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,I15,B.1 full genome,Table 2,Virus isolate,IC100,155,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,F10,B.1 full genome,Table 2,Virus isolate,IC100,195.3,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,F20,B.1 full genome,Table 2,Virus isolate,IC100,155,1,1000,NULL,ng/ml,2021-07-06
+Andreano21,J08,PT188_EM,Table 2,Virus isolate,IC100,22.1,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,I14,PT188_EM,Table 2,Virus isolate,IC100,176.8,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,F05,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,G12,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,C14,PT188_EM,Table 2,Virus isolate,IC100,88.4,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,B07,PT188_EM,Table 2,Virus isolate,IC100,250,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,I21,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,J13,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,D14,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,H20,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,I15,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,F10,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
+Andreano21,F20,PT188_EM,Table 2,Virus isolate,IC100,1000,1,1000,NULL,ng/ml,2021-01-27
