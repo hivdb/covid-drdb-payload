@@ -1,6 +1,16 @@
 ref_name,control_iso_name,iso_name
-Ryu21b,B.1 full genome,P.1_877769 full genome
-Ryu21b,S:614G,P.1 Spike
+Ryu21b,B.1 full genome,hCoV-19/Japan/TY7-503/2021
+Ryu21b,Wuhan-Hu-1,hCoV-19/South Korea/KDCA5439/2021
+Ryu21b,Wuhan-Hu-1,hCoV-19/South Korea/KDCA1792/2020
+Ryu21b,Wuhan-Hu-1,hCoV-19/South Korea/KDCA1793/2020
+Ryu21b,Wuhan-Hu-1,hCoV-19/South Korea/KDCA2950/2021
+Ryu21b,S:614G,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F
+Ryu21b,S:614G,S:452R+478K+681R
+Ryu21b,S:614G,S:13I+152C+452R
 Ryu21b,S:614G,S:417T
 Ryu21b,Wuhan-Hu-1,S:484K
 Ryu21b,S:614G,S:501Y
+Ryu21b,Wuhan-Hu-1,S:452R
+Ryu21b,S:614G,S:478K
+Ryu21b,Wuhan-Hu-1,S:681H
+Ryu21b,S:614G,S:452R+484Q+681R
