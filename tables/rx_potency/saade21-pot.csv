@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Saade21,CP,hCoV-19/France/ARA-isl135/2020,Figure 1A,Virus isolate,NT50,160,34,2560,20,NULL,2021-05-13
+Saade21,CP,hCoV-19/France/ARA-isl137/2020,Figure 1A,Virus isolate,NT50,238,34,2560,20,NULL,2021-05-13
+Saade21,BNT162b2,hCoV-19/France/ARA-isl137/2020,Figure 1B,Virus isolate,NT50,320,30,2560,20,NULL,2021-09-28
+Saade21,CP_Severe,hCoV-19/France/ARA-isl135/2020,Figure 1C,Virus isolate,NT50,499,25,1280,20,NULL,2021-05-13
+Saade21,CP_Severe,hCoV-19/France/ARA-isl136/2020,Figure 1C,Virus isolate,NT50,246,25,1280,20,NULL,2021-05-13
+Saade21,CP_Severe,hCoV-19/France/PAC-NRC2933/2020,Figure 1C,Virus isolate,NT50,327,25,1280,20,NULL,2021-05-13
+Saade21,CP_Mild,hCoV-19/France/ARA-isl135/2020,Figure 1C,Virus isolate,NT50,81,29,1280,20,NULL,2021-05-13
+Saade21,CP_Mild,hCoV-19/France/ARA-isl136/2020,Figure 1C,Virus isolate,NT50,40,29,1280,20,NULL,2021-05-13
+Saade21,CP_Mild,hCoV-19/France/PAC-NRC2933/2020,Figure 1C,Virus isolate,NT50,40,29,1280,20,NULL,2021-05-13
+Saade21,BNT162b2,hCoV-19/France/ARA-isl135/2020,Figure 1C,Virus isolate,NT50,194,30,1280,20,NULL,2021-05-13
+Saade21,BNT162b2,hCoV-19/France/ARA-isl136/2020,Figure 1C,Virus isolate,NT50,121,30,1280,20,NULL,2021-05-13
+Saade21,BNT162b2,hCoV-19/France/PAC-NRC2933/2020,Figure 1C,Virus isolate,NT50,41,30,1280,20,NULL,2021-05-13

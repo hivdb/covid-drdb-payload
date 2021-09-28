@@ -584,10 +584,6 @@ Goel21,IHCV2020.039,Human,NULL,1
 Goel21,IHCV2020.040,Human,NULL,1
 Goel21,IHCV2020.041,Human,NULL,1
 Goel21,IHCV2020.042,Human,NULL,1
-Gonzalez21,BNT162b2,Human,NULL,30
-Gonzalez21,CP,Human,NULL,34
-Gonzalez21,CP_Mild,Human,NULL,29
-Gonzalez21,CP_Severe,Human,NULL,25
 Graham21,P008,Human,29,1
 Graham21,P054,Human,62,1
 Greaney21,Subject_A,Human,NULL,1
@@ -1275,6 +1271,10 @@ Rondinone21,CP_09,Human,NULL,1
 Rondinone21,CP_10,Human,NULL,1
 Rondinone21,CP_11,Human,NULL,1
 Rondinone21,CP_12,Human,NULL,1
+Saade21,BNT162b2,Human,NULL,30
+Saade21,CP,Human,NULL,34
+Saade21,CP_Mild,Human,NULL,29
+Saade21,CP_Severe,Human,NULL,25
 Sahin20,Subject_PSV,Human,NULL,5
 Sahin21,BNT_Fig1b,Human,NULL,12
 Sahin21,BNT_Fig4d,Human,NULL,5

@@ -133,34 +133,34 @@ B.1.1.7 Spike+S:484K+494P,S,681,H
 B.1.1.7 Spike+S:484K+494P,S,716,I
 B.1.1.7 Spike+S:484K+494P,S,982,A
 B.1.1.7 Spike+S:484K+494P,S,1118,H
-B.1.1.7 full genome_1707039,S,69,del
-B.1.1.7 full genome_1707039,S,70,del
-B.1.1.7 full genome_1707039,S,144,del
-B.1.1.7 full genome_1707039,S,74,K
-B.1.1.7 full genome_1707039,S,501,Y
-B.1.1.7 full genome_1707039,S,570,D
-B.1.1.7 full genome_1707039,S,614,G
-B.1.1.7 full genome_1707039,S,681,H
-B.1.1.7 full genome_1707039,S,982,A
-B.1.1.7 full genome_1707039,S,716,I
-B.1.1.7 full genome_1707039,S,1118,H
-B.1.1.7 full genome_1707039,N,3,L
-B.1.1.7 full genome_1707039,N,203,K
-B.1.1.7 full genome_1707039,N,204,R
-B.1.1.7 full genome_1707039,N,235,F
-B.1.1.7 full genome_1707039,ORF8,27,stop
-B.1.1.7 full genome_1707039,ORF8,52,I
-B.1.1.7 full genome_1707039,ORF8,73,C
-B.1.1.7 full genome_1707039,PLpro,183,I
-B.1.1.7 full genome_1707039,PLpro,307,R
-B.1.1.7 full genome_1707039,PLpro,890,D
-B.1.1.7 full genome_1707039,PLpro,1412,T
-B.1.1.7 full genome_1707039,PLpro,1910,K
-B.1.1.7 full genome_1707039,nsp4,433,G
-B.1.1.7 full genome_1707039,nsp6,106,del
-B.1.1.7 full genome_1707039,nsp6,107,del
-B.1.1.7 full genome_1707039,nsp6,108,del
-B.1.1.7 full genome_1707039,RdRP,323,L
+hCoV-19/France/ARA-isl136/2020,S,69,del
+hCoV-19/France/ARA-isl136/2020,S,70,del
+hCoV-19/France/ARA-isl136/2020,S,144,del
+hCoV-19/France/ARA-isl136/2020,S,74,K
+hCoV-19/France/ARA-isl136/2020,S,501,Y
+hCoV-19/France/ARA-isl136/2020,S,570,D
+hCoV-19/France/ARA-isl136/2020,S,614,G
+hCoV-19/France/ARA-isl136/2020,S,681,H
+hCoV-19/France/ARA-isl136/2020,S,982,A
+hCoV-19/France/ARA-isl136/2020,S,716,I
+hCoV-19/France/ARA-isl136/2020,S,1118,H
+hCoV-19/France/ARA-isl136/2020,N,3,L
+hCoV-19/France/ARA-isl136/2020,N,203,K
+hCoV-19/France/ARA-isl136/2020,N,204,R
+hCoV-19/France/ARA-isl136/2020,N,235,F
+hCoV-19/France/ARA-isl136/2020,ORF8,27,stop
+hCoV-19/France/ARA-isl136/2020,ORF8,52,I
+hCoV-19/France/ARA-isl136/2020,ORF8,73,C
+hCoV-19/France/ARA-isl136/2020,PLpro,183,I
+hCoV-19/France/ARA-isl136/2020,PLpro,307,R
+hCoV-19/France/ARA-isl136/2020,PLpro,890,D
+hCoV-19/France/ARA-isl136/2020,PLpro,1412,T
+hCoV-19/France/ARA-isl136/2020,PLpro,1910,K
+hCoV-19/France/ARA-isl136/2020,nsp4,433,G
+hCoV-19/France/ARA-isl136/2020,nsp6,106,del
+hCoV-19/France/ARA-isl136/2020,nsp6,107,del
+hCoV-19/France/ARA-isl136/2020,nsp6,108,del
+hCoV-19/France/ARA-isl136/2020,RdRP,323,L
 B.1.1.7 full genome_737204,PLpro,183,I
 B.1.1.7 full genome_737204,PLpro,890,D
 B.1.1.7 full genome_737204,PLpro,1412,T
@@ -790,28 +790,28 @@ B.1.351 full genome_2036294,N,205,I
 B.1.351 full genome_2036294,ORF3a,57,H
 B.1.351 full genome_2036294,ORF3a,171,L
 B.1.351 full genome_2036294,ORF8,121,L
-B.1.351 full genome_768828,S,243,del
-B.1.351 full genome_768828,S,701,V
-B.1.351 full genome_768828,S,80,A
-B.1.351 full genome_768828,S,215,G
-B.1.351 full genome_768828,S,614,G
-B.1.351 full genome_768828,S,484,K
-B.1.351 full genome_768828,S,417,N
-B.1.351 full genome_768828,S,242,del
-B.1.351 full genome_768828,S,244,del
-B.1.351 full genome_768828,S,501,Y
-B.1.351 full genome_768828,E,71,L
-B.1.351 full genome_768828,N,205,I
-B.1.351 full genome_768828,ORF3a,57,H
-B.1.351 full genome_768828,ORF3a,171,L
-B.1.351 full genome_768828,nsp2,85,I
-B.1.351 full genome_768828,PLpro,837,N
-B.1.351 full genome_768828,nsp4,264,F
-B.1.351 full genome_768828,_3CLpro,90,R
-B.1.351 full genome_768828,nsp6,108,del
-B.1.351 full genome_768828,nsp6,107,del
-B.1.351 full genome_768828,nsp6,106,del
-B.1.351 full genome_768828,RdRP,323,L
+hCoV-19/France/PAC-NRC2933/2020,S,243,del
+hCoV-19/France/PAC-NRC2933/2020,S,701,V
+hCoV-19/France/PAC-NRC2933/2020,S,80,A
+hCoV-19/France/PAC-NRC2933/2020,S,215,G
+hCoV-19/France/PAC-NRC2933/2020,S,614,G
+hCoV-19/France/PAC-NRC2933/2020,S,484,K
+hCoV-19/France/PAC-NRC2933/2020,S,417,N
+hCoV-19/France/PAC-NRC2933/2020,S,242,del
+hCoV-19/France/PAC-NRC2933/2020,S,244,del
+hCoV-19/France/PAC-NRC2933/2020,S,501,Y
+hCoV-19/France/PAC-NRC2933/2020,E,71,L
+hCoV-19/France/PAC-NRC2933/2020,N,205,I
+hCoV-19/France/PAC-NRC2933/2020,ORF3a,57,H
+hCoV-19/France/PAC-NRC2933/2020,ORF3a,171,L
+hCoV-19/France/PAC-NRC2933/2020,nsp2,85,I
+hCoV-19/France/PAC-NRC2933/2020,PLpro,837,N
+hCoV-19/France/PAC-NRC2933/2020,nsp4,264,F
+hCoV-19/France/PAC-NRC2933/2020,_3CLpro,90,R
+hCoV-19/France/PAC-NRC2933/2020,nsp6,108,del
+hCoV-19/France/PAC-NRC2933/2020,nsp6,107,del
+hCoV-19/France/PAC-NRC2933/2020,nsp6,106,del
+hCoV-19/France/PAC-NRC2933/2020,RdRP,323,L
 B.1.351 full genome_712096,nsp2,85,I
 B.1.351 full genome_712096,PLpro,837,N
 B.1.351 full genome_712096,nsp4,128,V
@@ -3049,19 +3049,19 @@ IC19 full genome,nsp15,320,L
 20E.EU1,S,222,V
 20E.EU1,ORF10,30,L
 20E.EU1,N,220,V
-19A_1707038,S,215,H
-19A_1707038,S,484,D
-19A_1707038,S,686,G
-19A_1707038,N,13,L
-19A_1707038,ORF3a,251,V
-19A_1707038,nsp6,37,F
-B.1.1.241_1707040,S,614,G
-B.1.1.241_1707040,S,5,F
-B.1.1.241_1707040,S,477,N
-B.1.1.241_1707040,S,3,G
-B.1.1.241_1707040,N,204,R
-B.1.1.241_1707040,N,203,K
-B.1.1.241_1707040,RdRP,323,L
+hCoV-19/France/ARA-isl135/2020,S,215,H
+hCoV-19/France/ARA-isl135/2020,S,484,D
+hCoV-19/France/ARA-isl135/2020,S,686,G
+hCoV-19/France/ARA-isl135/2020,N,13,L
+hCoV-19/France/ARA-isl135/2020,ORF3a,251,V
+hCoV-19/France/ARA-isl135/2020,nsp6,37,F
+hCoV-19/France/ARA-isl137/2020,S,614,G
+hCoV-19/France/ARA-isl137/2020,S,5,F
+hCoV-19/France/ARA-isl137/2020,S,477,N
+hCoV-19/France/ARA-isl137/2020,S,3,G
+hCoV-19/France/ARA-isl137/2020,N,204,R
+hCoV-19/France/ARA-isl137/2020,N,203,K
+hCoV-19/France/ARA-isl137/2020,RdRP,323,L
 B.1.1.318 Spike,S,95,I
 B.1.1.318 Spike,S,145,del
 B.1.1.318 Spike,S,484,K
