@@ -11,5 +11,7 @@ Sapkal21c,AZD_infect_2nd,infection,<,2020-12-31,India,B.1 full genome,NULL,NULL
 Sapkal21c,AZD_infect_2nd,1st dose,~,2021-01-16,India,B.1 full genome,AZD1222,NULL
 Sapkal21c,AZD_infect_2nd,2nd dose,~,2021-02-01,India,B.1 full genome,AZD1222,NULL
 Sapkal21c,AZD_infect_2nd,2nd dose isolation,~,2021-03-01,India,B.1 full genome,NULL,NULL
-Sapkal21c,CP_2nd_wave,infection,~,2021-05-01,India,B.1.617.2 full genome,NULL,NULL
-Sapkal21c,CP_2nd_wave,isolation,~,2021-05-01,India,B.1.617.2 full genome,NULL,NULL
+Sapkal21c,AZD_Breakthrough,1st dose,~,2021-01-16,India,NULL,AZD1222,NULL
+Sapkal21c,AZD_Breakthrough,2nd dose,~,2021-02-01,India,NULL,AZD1222,NULL
+Sapkal21c,AZD_Breakthrough,infection,~,2021-05-01,India,B.1.617.2 full genome,NULL,NULL
+Sapkal21c,AZD_Breakthrough,isolation,~,2021-05-01,India,B.1.617.2 full genome,NULL,NULL
