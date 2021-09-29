@@ -1,8 +1,11 @@
 var_name,gene,position,amino_acid
+B.1.1.298,nsp1,85,W
 B.1.1.298,nsp1,85,del
+B.1.1.298,PLpro,1263,del
 B.1.1.298,PLpro,1264,del
 B.1.1.298,RdRP,323,L
 B.1.1.298,RdRP,739,I
+B.1.1.298,S,69,S
 B.1.1.298,S,69,del
 B.1.1.298,S,70,del
 B.1.1.298,S,453,F
@@ -14,15 +17,15 @@ B.1.1.298,N,204,R
 Alpha,PLpro,183,I
 Alpha,PLpro,890,D
 Alpha,PLpro,1412,T
-Alpha,nsp6,106,K
+Alpha,nsp6,106,del
 Alpha,nsp6,107,del
 Alpha,nsp6,108,del
-Alpha,nsp6,109,del
 Alpha,RdRP,323,L
+Alpha,S,69,S
 Alpha,S,69,del
 Alpha,S,70,del
+Alpha,S,144,L
 Alpha,S,144,del
-Alpha,S,145,del
 Alpha,S,501,Y
 Alpha,S,570,D
 Alpha,S,614,G
@@ -40,15 +43,15 @@ Alpha,N,235,F
 Alpha/E484K,PLpro,183,I
 Alpha/E484K,PLpro,890,D
 Alpha/E484K,PLpro,1412,T
-Alpha/E484K,nsp6,106,K
+Alpha/E484K,nsp6,106,del
 Alpha/E484K,nsp6,107,del
 Alpha/E484K,nsp6,108,del
-Alpha/E484K,nsp6,109,del
 Alpha/E484K,RdRP,323,L
+Alpha/E484K,S,69,S
 Alpha/E484K,S,69,del
 Alpha/E484K,S,70,del
+Alpha/E484K,S,144,L
 Alpha/E484K,S,144,del
-Alpha/E484K,S,145,del
 Alpha/E484K,S,484,K
 Alpha/E484K,S,501,Y
 Alpha/E484K,S,570,D
@@ -67,10 +70,9 @@ Alpha/E484K,N,235,F
 Beta,nsp2,85,I
 Beta,PLpro,837,N
 Beta,_3CLpro,90,R
-Beta,nsp6,106,K
+Beta,nsp6,106,del
 Beta,nsp6,107,del
 Beta,nsp6,108,del
-Beta,nsp6,109,del
 Beta,RdRP,323,L
 Beta,S,80,A
 Beta,S,215,G
@@ -86,10 +88,9 @@ Beta,N,205,I
 Beta w/o K417N,nsp2,85,I
 Beta w/o K417N,PLpro,837,N
 Beta w/o K417N,_3CLpro,90,R
-Beta w/o K417N,nsp6,106,K
+Beta w/o K417N,nsp6,106,del
 Beta w/o K417N,nsp6,107,del
 Beta w/o K417N,nsp6,108,del
-Beta w/o K417N,nsp6,109,del
 Beta w/o K417N,RdRP,323,L
 Beta w/o K417N,S,80,A
 Beta w/o K417N,S,215,G
@@ -124,35 +125,35 @@ Epsilon/E484K,S,614,G
 Epsilon/E484K,ORF3a,57,H
 Epsilon/E484K,N,205,I
 Eta,PLpro,1189,I
-Eta,nsp6,106,K
+Eta,nsp6,106,del
 Eta,nsp6,107,del
 Eta,nsp6,108,del
-Eta,nsp6,109,del
 Eta,RdRP,323,F
 Eta,S,52,R
 Eta,S,67,V
+Eta,S,69,S
 Eta,S,69,del
 Eta,S,70,del
+Eta,S,144,L
 Eta,S,144,del
-Eta,S,145,del
 Eta,S,484,K
 Eta,S,614,G
 Eta,S,677,H
 Eta,S,888,L
 Eta,E,21,F
 Eta,M,82,T
-Eta,ORF6,2,H
+Eta,ORF6,2,del
 Eta,ORF6,3,del
 Eta,N,2,Y
+Eta,N,3,I
 Eta,N,3,del
 Eta,N,12,G
 Eta,N,205,I
 Iota,nsp2,85,I
 Iota,nsp4,438,P
-Iota,nsp6,106,K
+Iota,nsp6,106,del
 Iota,nsp6,107,del
 Iota,nsp6,108,del
-Iota,nsp6,109,del
 Iota,RdRP,323,L
 Iota,nsp13,88,H
 Iota,S,5,F
@@ -164,10 +165,9 @@ Iota,ORF3a,57,H
 Iota,ORF8,11,I
 Iota w/o E484K,nsp2,85,I
 Iota w/o E484K,nsp4,438,P
-Iota w/o E484K,nsp6,106,K
+Iota w/o E484K,nsp6,106,del
 Iota w/o E484K,nsp6,107,del
 Iota w/o E484K,nsp6,108,del
-Iota w/o E484K,nsp6,109,del
 Iota w/o E484K,RdRP,323,L
 Iota w/o E484K,nsp13,88,H
 Iota w/o E484K,S,5,F
@@ -194,15 +194,14 @@ B.1.1.318,PLpro,1693,N
 B.1.1.318,nsp4,173,I
 B.1.1.318,nsp4,446,V
 B.1.1.318,_3CLpro,21,I
-B.1.1.318,nsp6,106,K
+B.1.1.318,nsp6,106,del
 B.1.1.318,nsp6,107,del
 B.1.1.318,nsp6,108,del
-B.1.1.318,nsp6,109,del
 B.1.1.318,RdRP,323,L
 B.1.1.318,nsp15,320,M
 B.1.1.318,S,95,I
+B.1.1.318,S,144,L
 B.1.1.318,S,144,del
-B.1.1.318,S,145,del
 B.1.1.318,S,484,K
 B.1.1.318,S,614,G
 B.1.1.318,S,681,H
@@ -214,6 +213,7 @@ B.1.1.318,ORF8,106,stop
 B.1.1.318,N,203,K
 B.1.1.318,N,204,R
 B.1.1.318,N,208,G
+B.1.1.318,N,209,E
 B.1.1.318,N,209,del
 A.27/A222V,nsp2,106,L
 A.27/A222V,nsp4,217,G
@@ -232,27 +232,26 @@ A.27/A222V,ORF3a,257,del
 A.27/A222V,ORF3a,258,del
 A.27/A222V,ORF3a,259,del
 A.27/A222V,ORF8,84,S
-A.27/A222V,ORF8,119,I
+A.27/A222V,ORF8,119,del
 A.27/A222V,ORF8,120,del
-A.27/A222V,ORF8,121,del
 A.27/A222V,N,202,N
-B.1.617,nsp1,17,del
-B.1.617,PLpro,880,del
 B.1.617,PLpro,994,D
 B.1.617,RdRP,323,L
-B.1.617,nsp13,430,del
+B.1.617,nsp13,206,del
+B.1.617,nsp14,21,del
 B.1.617,nsp15,255,V
 B.1.617,nsp16,186,R
 B.1.617,S,452,R
 B.1.617,S,484,Q
 B.1.617,S,614,G
+B.1.617,S,681,del
 B.1.617,ORF3a,26,L
-B.1.617,ORF3a,96,del
 B.1.617,M,82,S
 B.1.617,ORF8,93,S
 B.1.617,ORF8,106,Q
+B.1.617,ORF8,121,del
+B.1.617,N,204,E
 B.1.617,N,204,del
-B.1.617,N,215,del
 Kappa,PLpro,749,I
 Kappa,nsp6,77,A
 Kappa,RdRP,323,L
@@ -270,7 +269,9 @@ Delta,RdRP,323,L
 Delta,RdRP,671,S
 Delta,nsp13,77,L
 Delta,S,19,R
+Delta,S,142,D
 Delta,S,156,G
+Delta,S,157,E
 Delta,S,157,del
 Delta,S,158,del
 Delta,S,452,R
@@ -282,9 +283,8 @@ Delta,ORF3a,26,L
 Delta,M,82,T
 Delta,ORF7a,82,A
 Delta,ORF7a,120,I
-Delta,ORF8,119,I
+Delta,ORF8,119,del
 Delta,ORF8,120,del
-Delta,ORF8,121,del
 Delta,N,63,G
 Delta,N,203,M
 Delta,N,377,Y
@@ -311,9 +311,8 @@ Delta/K417N,M,82,T
 Delta/K417N,ORF7a,82,A
 Delta/K417N,ORF7a,120,I
 Delta/K417N,ORF7b,40,I
-Delta/K417N,ORF8,119,I
+Delta/K417N,ORF8,119,del
 Delta/K417N,ORF8,120,del
-Delta/K417N,ORF8,121,del
 Delta/K417N,N,63,G
 Delta/K417N,N,203,M
 Delta/K417N,N,215,C
@@ -338,8 +337,6 @@ B.1.618,PLpro,697,F
 B.1.618,RdRP,269,N
 B.1.618,RdRP,323,L
 B.1.618,nsp13,277,C
-B.1.618,S,145,del
-B.1.618,S,146,del
 B.1.618,S,484,K
 B.1.618,S,614,G
 B.1.618,ORF3a,151,I
@@ -348,13 +345,11 @@ B.1.618,ORF8,29,L
 B.1.618,N,18,S
 B.1.618,N,119,S
 B.1.618,N,217,S
-B.1.618,N,234,I
 Gamma,PLpro,370,L
 Gamma,PLpro,977,Q
-Gamma,nsp6,106,K
+Gamma,nsp6,106,del
 Gamma,nsp6,107,del
 Gamma,nsp6,108,del
-Gamma,nsp6,109,del
 Gamma,RdRP,323,L
 Gamma,nsp13,341,D
 Gamma,S,18,F
@@ -439,14 +434,14 @@ Lambda,PLpro,1569,V
 Lambda,nsp4,438,P
 Lambda,nsp4,492,I
 Lambda,_3CLpro,15,S
-Lambda,nsp6,106,K
+Lambda,nsp6,106,del
 Lambda,nsp6,107,del
 Lambda,nsp6,108,del
-Lambda,nsp6,109,del
 Lambda,RdRP,323,L
 Lambda,S,75,V
 Lambda,S,76,I
 Lambda,S,246,N
+Lambda,S,247,I
 Lambda,S,247,del
 Lambda,S,248,del
 Lambda,S,249,del
@@ -503,10 +498,9 @@ R.2,N,203,K
 R.2,N,204,R
 B.1.619,PLpro,1305,V
 B.1.619,PLpro,1789,K
-B.1.619,nsp6,106,K
+B.1.619,nsp6,106,del
 B.1.619,nsp6,107,del
 B.1.619,nsp6,108,del
-B.1.619,nsp6,109,del
 B.1.619,nsp6,183,I
 B.1.619,RdRP,323,L
 B.1.619,S,210,T
@@ -526,6 +520,7 @@ B.1.177,S,222,V
 B.1.177,S,614,G
 B.1.177,N,220,V
 B.1.177,ORF10,30,L
+B.1.177.31,S,614,G
 B.1.258.24,PLpro,1683,T
 B.1.258.24,RdRP,323,L
 B.1.258.24,nsp13,290,Y
@@ -544,7 +539,6 @@ B.1.427,ORF3a,57,H
 B.1.427,N,205,I
 B.1.1.345,PLpro,1323,C
 B.1.1.345,RdRP,323,L
-B.1.1.345,nsp14,504,S
 B.1.1.345,S,484,K
 B.1.1.345,S,614,G
 B.1.1.345,ORF3a,78,Y
@@ -612,6 +606,7 @@ Mu,S,614,G
 Mu,S,681,H
 Mu,S,950,N
 Mu,ORF3a,57,H
+Mu,ORF3a,256,del
 Mu,ORF3a,257,del
 Mu,ORF8,11,K
 Mu,ORF8,38,S
