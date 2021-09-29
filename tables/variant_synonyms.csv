@@ -2,8 +2,11 @@
 Alpha,B.1.1.7
 Alpha/E484K,B.1.1.7/E484K
 Beta,B.1.351
+Beta w/o K417N,B.1.351 w/o K417N
 Epsilon,B.1.427/9
 Epsilon,B.1.427/B.1.429
+Epsilon,B.1.427
+Epsilon,B.1.429
 Epsilon/E484K,B.1.429/E484K
 Eta,B.1.525
 Iota,B.1.526
