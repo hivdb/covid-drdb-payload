@@ -4680,55 +4680,55 @@ MZ315141,ORF8,120,del
 MZ315141,N,63,G
 MZ315141,N,203,M
 MZ315141,N,377,Y
-B.1.1.7 full genome_1167921,PLpro,183,I
-B.1.1.7 full genome_1167921,PLpro,890,D
-B.1.1.7 full genome_1167921,PLpro,1412,T
-B.1.1.7 full genome_1167921,PLpro,1460,V
-B.1.1.7 full genome_1167921,nsp6,106,del
-B.1.1.7 full genome_1167921,nsp6,107,del
-B.1.1.7 full genome_1167921,nsp6,108,del
-B.1.1.7 full genome_1167921,RdRP,323,L
-B.1.1.7 full genome_1167921,nsp13,460,R
-B.1.1.7 full genome_1167921,nsp14,347,G
-B.1.1.7 full genome_1167921,S,69,del
-B.1.1.7 full genome_1167921,S,70,del
-B.1.1.7 full genome_1167921,S,144,del
-B.1.1.7 full genome_1167921,S,501,Y
-B.1.1.7 full genome_1167921,S,570,D
-B.1.1.7 full genome_1167921,S,614,G
-B.1.1.7 full genome_1167921,S,681,H
-B.1.1.7 full genome_1167921,S,716,I
-B.1.1.7 full genome_1167921,S,982,A
-B.1.1.7 full genome_1167921,S,1118,H
-B.1.1.7 full genome_1167921,ORF6,21,I
-B.1.1.7 full genome_1167921,ORF8,52,I
-B.1.1.7 full genome_1167921,ORF8,73,C
-B.1.1.7 full genome_1167921,N,3,L
-B.1.1.7 full genome_1167921,N,203,K
-B.1.1.7 full genome_1167921,N,204,R
-B.1.1.7 full genome_1167921,N,235,F
-P.1 full genome_1321471,PLpro,370,L
-P.1 full genome_1321471,PLpro,977,Q
-P.1 full genome_1321471,nsp6,106,del
-P.1 full genome_1321471,nsp6,107,del
-P.1 full genome_1321471,nsp6,108,del
-P.1 full genome_1321471,RdRP,323,L
-P.1 full genome_1321471,nsp13,341,D
-P.1 full genome_1321471,S,18,F
-P.1 full genome_1321471,S,20,N
-P.1 full genome_1321471,S,26,S
-P.1 full genome_1321471,S,138,Y
-P.1 full genome_1321471,S,190,S
-P.1 full genome_1321471,S,417,T
-P.1 full genome_1321471,S,484,K
-P.1 full genome_1321471,S,501,Y
-P.1 full genome_1321471,S,614,G
-P.1 full genome_1321471,S,655,Y
-P.1 full genome_1321471,S,692,F
-P.1 full genome_1321471,S,1027,I
-P.1 full genome_1321471,S,1176,F
-P.1 full genome_1321471,ORF3a,253,P
-P.1 full genome_1321471,ORF8,92,K
-P.1 full genome_1321471,N,80,R
-P.1 full genome_1321471,N,203,K
-P.1 full genome_1321471,N,204,R
+hCoV-19/Chile/RM-266418/2020,PLpro,183,I
+hCoV-19/Chile/RM-266418/2020,PLpro,890,D
+hCoV-19/Chile/RM-266418/2020,PLpro,1412,T
+hCoV-19/Chile/RM-266418/2020,PLpro,1460,V
+hCoV-19/Chile/RM-266418/2020,nsp6,106,del
+hCoV-19/Chile/RM-266418/2020,nsp6,107,del
+hCoV-19/Chile/RM-266418/2020,nsp6,108,del
+hCoV-19/Chile/RM-266418/2020,RdRP,323,L
+hCoV-19/Chile/RM-266418/2020,nsp13,460,R
+hCoV-19/Chile/RM-266418/2020,nsp14,347,G
+hCoV-19/Chile/RM-266418/2020,S,69,del
+hCoV-19/Chile/RM-266418/2020,S,70,del
+hCoV-19/Chile/RM-266418/2020,S,144,del
+hCoV-19/Chile/RM-266418/2020,S,501,Y
+hCoV-19/Chile/RM-266418/2020,S,570,D
+hCoV-19/Chile/RM-266418/2020,S,614,G
+hCoV-19/Chile/RM-266418/2020,S,681,H
+hCoV-19/Chile/RM-266418/2020,S,716,I
+hCoV-19/Chile/RM-266418/2020,S,982,A
+hCoV-19/Chile/RM-266418/2020,S,1118,H
+hCoV-19/Chile/RM-266418/2020,ORF6,21,I
+hCoV-19/Chile/RM-266418/2020,ORF8,52,I
+hCoV-19/Chile/RM-266418/2020,ORF8,73,C
+hCoV-19/Chile/RM-266418/2020,N,3,L
+hCoV-19/Chile/RM-266418/2020,N,203,K
+hCoV-19/Chile/RM-266418/2020,N,204,R
+hCoV-19/Chile/RM-266418/2020,N,235,F
+hCoV-19/Chile/VS-42090/2021,PLpro,370,L
+hCoV-19/Chile/VS-42090/2021,PLpro,977,Q
+hCoV-19/Chile/VS-42090/2021,nsp6,106,del
+hCoV-19/Chile/VS-42090/2021,nsp6,107,del
+hCoV-19/Chile/VS-42090/2021,nsp6,108,del
+hCoV-19/Chile/VS-42090/2021,RdRP,323,L
+hCoV-19/Chile/VS-42090/2021,nsp13,341,D
+hCoV-19/Chile/VS-42090/2021,S,18,F
+hCoV-19/Chile/VS-42090/2021,S,20,N
+hCoV-19/Chile/VS-42090/2021,S,26,S
+hCoV-19/Chile/VS-42090/2021,S,138,Y
+hCoV-19/Chile/VS-42090/2021,S,190,S
+hCoV-19/Chile/VS-42090/2021,S,417,T
+hCoV-19/Chile/VS-42090/2021,S,484,K
+hCoV-19/Chile/VS-42090/2021,S,501,Y
+hCoV-19/Chile/VS-42090/2021,S,614,G
+hCoV-19/Chile/VS-42090/2021,S,655,Y
+hCoV-19/Chile/VS-42090/2021,S,692,F
+hCoV-19/Chile/VS-42090/2021,S,1027,I
+hCoV-19/Chile/VS-42090/2021,S,1176,F
+hCoV-19/Chile/VS-42090/2021,ORF3a,253,P
+hCoV-19/Chile/VS-42090/2021,ORF8,92,K
+hCoV-19/Chile/VS-42090/2021,N,80,R
+hCoV-19/Chile/VS-42090/2021,N,203,K
+hCoV-19/Chile/VS-42090/2021,N,204,R

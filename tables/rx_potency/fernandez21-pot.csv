@@ -1,10 +1,142 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Fernandez21,CoronaVac_age1,S:614G,Figure 1,Virus isolate,NT50,88,19,10000,1,NULL,2021-09-04
-Fernandez21,CoronaVac_age1,B.1.1.7 full genome_1167921,Figure 1,Virus isolate,NT50,25,19,10000,1,NULL,2021-09-04
-Fernandez21,CoronaVac_age1,P.1 full genome_1321471,Figure 1,Virus isolate,NT50,12,19,10000,1,NULL,2021-09-04
-Fernandez21,CoronaVac_age2,S:614G,Figure 1,Virus isolate,NT50,71,14,10000,1,NULL,2021-09-04
-Fernandez21,CoronaVac_age2,B.1.1.7 full genome_1167921,Figure 1,Virus isolate,NT50,14,14,10000,1,NULL,2021-09-04
-Fernandez21,CoronaVac_age2,P.1 full genome_1321471,Figure 1,Virus isolate,NT50,9,14,10000,1,NULL,2021-09-04
-Fernandez21,CoronaVac_age3,S:614G,Figure 1,Virus isolate,NT50,57,11,10000,1,NULL,2021-09-04
-Fernandez21,CoronaVac_age3,B.1.1.7 full genome_1167921,Figure 1,Virus isolate,NT50,15,11,10000,1,NULL,2021-09-04
-Fernandez21,CoronaVac_age3,P.1 full genome_1321471,Figure 1,Virus isolate,NT50,8,11,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age1,B.1 full genome,Figure 1,Virus isolate,NT50,88,19,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age1,hCoV-19/Chile/RM-266418/2020,Figure 1,Virus isolate,NT50,25,19,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age1,hCoV-19/Chile/VS-42090/2021,Figure 1,Virus isolate,NT50,12,19,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age2,B.1 full genome,Figure 1,Virus isolate,NT50,71,14,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age2,hCoV-19/Chile/RM-266418/2020,Figure 1,Virus isolate,NT50,14,14,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age2,hCoV-19/Chile/VS-42090/2021,Figure 1,Virus isolate,NT50,9,14,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age3,B.1 full genome,Figure 1,Virus isolate,NT50,57,11,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age3,hCoV-19/Chile/RM-266418/2020,Figure 1,Virus isolate,NT50,15,11,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age3,hCoV-19/Chile/VS-42090/2021,Figure 1,Virus isolate,NT50,8,11,10000,1,NULL,2021-09-04
+Fernandez21,CoronaVac_age1_1,B.1 full genome,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_2,B.1 full genome,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_3,B.1 full genome,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_4,B.1 full genome,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_5,B.1 full genome,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_6,B.1 full genome,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_7,B.1 full genome,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_8,B.1 full genome,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_9,B.1 full genome,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_10,B.1 full genome,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_11,B.1 full genome,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_12,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_13,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_14,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_15,B.1 full genome,Figure 1B,Virus isolate,NT50,1280,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_16,B.1 full genome,Figure 1B,Virus isolate,NT50,1280,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_17,B.1 full genome,Figure 1B,Virus isolate,NT50,640,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_18,B.1 full genome,Figure 1B,Virus isolate,NT50,640,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_19,B.1 full genome,Figure 1B,Virus isolate,NT50,640,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_20,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_21,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_22,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_23,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_24,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_25,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_26,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_27,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_28,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_29,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_30,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_31,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_32,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_33,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,640,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_34,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,320,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_35,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_36,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,640,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_37,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_38,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_39,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_40,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_41,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_42,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_43,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_44,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_45,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_46,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_47,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_48,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_49,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_50,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_51,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_52,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_53,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_54,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,157,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_55,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,157,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_56,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,157,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age1_57,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_1,B.1 full genome,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_2,B.1 full genome,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_3,B.1 full genome,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_4,B.1 full genome,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_5,B.1 full genome,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_6,B.1 full genome,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_7,B.1 full genome,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_8,B.1 full genome,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_9,B.1 full genome,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_10,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_11,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_12,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_13,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_14,B.1 full genome,Figure 1B,Virus isolate,NT50,320,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_15,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_16,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_17,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_18,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_19,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_20,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_21,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_22,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_23,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_24,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_25,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_26,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_27,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,320,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_28,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_29,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_30,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_31,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_32,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_33,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_34,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_35,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_36,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_37,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_38,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_39,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_40,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_41,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age2_42,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_1,B.1 full genome,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_2,B.1 full genome,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_3,B.1 full genome,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_4,B.1 full genome,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_5,B.1 full genome,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_6,B.1 full genome,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_7,B.1 full genome,Figure 1B,Virus isolate,NT50,80,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_8,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_9,B.1 full genome,Figure 1B,Virus isolate,NT50,160,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_10,B.1 full genome,Figure 1B,Virus isolate,NT50,320,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_11,B.1 full genome,Figure 1B,Virus isolate,NT50,320,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_12,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,1280,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_13,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_14,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_15,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_16,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_17,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_18,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_19,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_20,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_21,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_22,hCoV-19/Chile/RM-266418/2020,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_23,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_24,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_25,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_26,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_27,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_28,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_29,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,5,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_30,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,10,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_31,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_32,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,20,1,10000,1,NULL,2021-09-27
+Fernandez21,CoronaVac_age3_33,hCoV-19/Chile/VS-42090/2021,Figure 1B,Virus isolate,NT50,40,1,10000,1,NULL,2021-09-27
