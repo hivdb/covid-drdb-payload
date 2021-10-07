@@ -307,3 +307,23 @@ Tada21,REGN10933 + REGN10987,B.1.351 Spike,Table 3,Pseudovirus (HIV),IC50,15.45,
 Tada21,REGN10933 + REGN10987,P.1 Spike,Table 3,Pseudovirus (HIV),IC50,26.66,1,2000,NULL,ng/ml,2021-06-28
 Tada21,REGN10933 + REGN10987,Mink Cluster 5 Spike,Table 3,Pseudovirus (HIV),IC50,27.44,1,2000,NULL,ng/ml,2021-06-28
 Tada21,REGN10933 + REGN10987,S:501Y+614G+677H,Table 3,Pseudovirus (HIV),IC50,8.05,1,2000,NULL,ng/ml,2021-06-28
+Tada21,CP_fig2D_1,S:614G,Figure 2D,Pseudovirus (HIV),NT50,133,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_2,S:614G,Figure 2D,Pseudovirus (HIV),NT50,237,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_3,S:614G,Figure 2D,Pseudovirus (HIV),NT50,342,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_4,S:614G,Figure 2D,Pseudovirus (HIV),NT50,239,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_5,S:614G,Figure 2D,Pseudovirus (HIV),NT50,340,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_6,S:614G,Figure 2D,Pseudovirus (HIV),NT50,276,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_7,S:614G,Figure 2D,Pseudovirus (HIV),NT50,365,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_8,S:614G,Figure 2D,Pseudovirus (HIV),NT50,380,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_9,S:614G,Figure 2D,Pseudovirus (HIV),NT50,430,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_10,S:614G,Figure 2D,Pseudovirus (HIV),NT50,492,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_11,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,139,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_12,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,111,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_13,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,100,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_14,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,143,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_15,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,133,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_16,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,230,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_17,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,245,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_18,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,266,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_19,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,278,1,600,20,NULL,2021-10-07
+Tada21,CP_fig2D_20,P.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,303,1,600,20,NULL,2021-10-07
