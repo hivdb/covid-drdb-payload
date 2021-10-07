@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Collier21b,BNT,1st dose,~,2021-02-10,UK,NULL,BNT162b2,NULL
+Collier21b,BNT,1st dose isolation,~,2021-04-04,UK,NULL,NULL,NULL
+Collier21b,BNT,2nd dose,~,2021-04-04,UK,NULL,BNT162b2,NULL
+Collier21b,BNT,2nd dose isolation,~,2021-04-25,UK,NULL,NULL,NULL

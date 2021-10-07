@@ -2355,6 +2355,10 @@ Collier21,CP_Vaccinee_Figure1_24
 Collier21,CP_Vaccinee_Figure1_25
 Collier21,CP_Vaccinee_Figure1_26
 Collier21,CP_Vaccinee_Figure1_27
+Collier21b,BNT_1dose_lt80
+Collier21b,BNT_1dose_gt80
+Collier21b,BNT_2dose_lt80
+Collier21b,BNT_2dose_gt80
 Corbett21,mRNA_100ug_2_1
 Corbett21,mRNA_100ug_2_2
 Corbett21,mRNA_100ug_2_3

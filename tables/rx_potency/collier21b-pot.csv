@@ -1,0 +1,17 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Collier21b,BNT_1dose_lt80,S:614G,Figure 1d,Pseudovirus (lentivirus),NT50,99,80,10000,20,NULL,2021-10-07
+Collier21b,BNT_1dose_gt80,S:614G,Figure 1d,Pseudovirus (lentivirus),NT50,41,60,10000,20,NULL,2021-10-07
+Collier21b,BNT_1dose_lt80,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 1d,Pseudovirus (lentivirus),NT50,73,80,10000,20,NULL,2021-10-07
+Collier21b,BNT_1dose_gt80,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 1d,Pseudovirus (lentivirus),NT50,30,60,10000,20,NULL,2021-10-07
+Collier21b,BNT_1dose_lt80,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Figure 1d,Pseudovirus (lentivirus),NT50,33,80,10000,20,NULL,2021-10-07
+Collier21b,BNT_1dose_gt80,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Figure 1d,Pseudovirus (lentivirus),NT50,22,60,10000,20,NULL,2021-10-07
+Collier21b,BNT_1dose_lt80,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Figure 1d,Pseudovirus (lentivirus),NT50,31,80,10000,20,NULL,2021-10-07
+Collier21b,BNT_1dose_gt80,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Figure 1d,Pseudovirus (lentivirus),NT50,23,60,10000,20,NULL,2021-10-07
+Collier21b,BNT_2dose_lt80,S:614G,Figure 1f,Pseudovirus (lentivirus),NT50,4319,27,100000,20,NULL,2021-10-07
+Collier21b,BNT_2dose_gt80,S:614G,Figure 1f,Pseudovirus (lentivirus),NT50,899,37,100000,20,NULL,2021-10-07
+Collier21b,BNT_2dose_lt80,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 1f,Pseudovirus (lentivirus),NT50,5126,27,100000,20,NULL,2021-10-07
+Collier21b,BNT_2dose_gt80,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 1f,Pseudovirus (lentivirus),NT50,737,37,100000,20,NULL,2021-10-07
+Collier21b,BNT_2dose_lt80,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Figure 1f,Pseudovirus (lentivirus),NT50,8347,27,100000,20,NULL,2021-10-07
+Collier21b,BNT_2dose_gt80,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,Figure 1f,Pseudovirus (lentivirus),NT50,1632,37,100000,20,NULL,2021-10-07
+Collier21b,BNT_2dose_lt80,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Figure 1f,Pseudovirus (lentivirus),NT50,9110,27,100000,20,NULL,2021-10-07
+Collier21b,BNT_2dose_gt80,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Figure 1f,Pseudovirus (lentivirus),NT50,2001,37,100000,20,NULL,2021-10-07
