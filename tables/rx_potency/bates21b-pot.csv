@@ -1,0 +1,3 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Bates21b,BNT,WA1,Figure 2,Virus isolate,NT50,393,50,5120,20,NULL,2021-10-07
+Bates21b,BNT,hCoV-19/Japan/TY7-503/2021,Figure 2,Virus isolate,NT50,91,50,5120,20,NULL,2021-10-07
