@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Vicenti21,CP,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,38,20,12000,1,NULL,2021-10-07
+Vicenti21,CP,hCoV-19/Italy/LOM-UniMI34/2021,Figure 1,Virus isolate,NT50,66,20,12000,1,NULL,2021-10-07
+Vicenti21,CP_1dose,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,1706,20,12000,1,NULL,2021-10-07
+Vicenti21,CP_1dose,hCoV-19/Italy/LOM-UniMI34/2021,Figure 1,Virus isolate,NT50,4087,20,12000,1,NULL,2021-10-07
+Vicenti21,VP_2dose,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,190,15,12000,1,NULL,2021-10-07
+Vicenti21,VP_2dose,hCoV-19/Italy/LOM-UniMI34/2021,Figure 1,Virus isolate,NT50,288,15,12000,1,NULL,2021-10-07
