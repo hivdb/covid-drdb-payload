@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Suthar21,BNT162b2_d42,WA1,Figure 3a,Virus isolate,NT50,302,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d210,WA1,Figure 3a,Virus isolate,NT50,43,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d42,hCoV-19/USA/MD-HP01542/2021,Figure 3a,Virus isolate,NT50,59,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d210,hCoV-19/USA/MD-HP01542/2021,Figure 3a,Virus isolate,NT50,26,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d42,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,175,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d210,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,25,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d42,hCoV-19/Japan/TY7-503/2021,Figure 3a,Virus isolate,NT50,155,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d210,hCoV-19/Japan/TY7-503/2021,Figure 3a,Virus isolate,NT50,44,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d42,hCoV-19/USA/WI-UW-4340/2021,Figure 3a,Virus isolate,NT50,130,17,1000,15,NULL,2021-10-07
+Suthar21,BNT162b2_d210,hCoV-19/USA/WI-UW-4340/2021,Figure 3a,Virus isolate,NT50,32,17,1000,15,NULL,2021-10-07
