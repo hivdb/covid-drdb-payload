@@ -5218,3 +5218,22 @@ hCoV-19/USA/MA-JLL-D128/2020,E,30,I,NULL,NULL
 hCoV-19/USA/MA-JLL-D128/2020,M,2,V,NULL,NULL
 hCoV-19/USA/MA-JLL-D128/2020,ORF7a,83,L,NULL,NULL
 hCoV-19/USA/MA-JLL-D128/2020,ORF7a,94,K,NULL,NULL
+Hospitalized placebo samples,S,427,N,3,91
+Hospitalized low dose samples,S,477,N,2,88
+Hospitalized low dose samples,S,501,T,3,88
+Hospitalized low dose samples,S,537,R,1,88
+Hospitalized high dose samples,S,477,N,5,93
+Hospitalized high dose samples,S,501,T,2,93
+Non-hospitalized placebo samples,S,477,N,5,243
+Non-hospitalized placebo samples,S,520,S,2,243
+Non-hospitalized low dose samples,S,446,V,3,247
+Non-hospitalized low dose samples,S,477,N,4,247
+Non-hospitalized high dose samples,S,494,P,2,238
+REGN10987 prevention low dose hamster samples,S,446,D,5,5
+REGN10933 prevention high dose hamster samples,S,455,W,1,5
+REGN10933 prevention high dose hamster samples,S,486,S,3,5
+REGN10987 prevention high dose hamster samples,S,384,L,1,5
+REGN10987 prevention high dose hamster samples,S,445,A,1,5
+REGN10987 prevention high dose hamster samples,S,446,D,3,5
+REGN10987 treatment high dose hamster samples,S,444,T,5,5
+REGN10987 treatment low dose hamster samples,S,446,S,1,5

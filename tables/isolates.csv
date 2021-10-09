@@ -795,3 +795,23 @@ hCoV-19/USA/MA-JLL-D25/2020,B.1.486,FALSE,593479,NULL,TRUE
 hCoV-19/USA/MA-JLL-D143/2020,NULL,FALSE,593556,NULL,TRUE
 hCoV-19/USA/MA-JLL-D81/2020,NULL,FALSE,593553,NULL,TRUE
 hCoV-19/USA/MA-JLL-D128/2020,NULL,FALSE,593554,NULL,TRUE
+Hospitalized placebo samples,NULL,FALSE,NULL,NULL,FALSE
+Hospitalized low dose samples,NULL,FALSE,NULL,NULL,FALSE
+Hospitalized high dose samples,NULL,FALSE,NULL,NULL,FALSE
+Non-hospitalized placebo samples,NULL,FALSE,NULL,NULL,FALSE
+Non-hospitalized low dose samples,NULL,FALSE,NULL,NULL,FALSE
+Non-hospitalized high dose samples,NULL,FALSE,NULL,NULL,FALSE
+Placebo prevention hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGEN-COV prevention low dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGN10933 prevention low dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGN10987 prevention low dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGEN-COV prevention high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGN10933 prevention high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGN10987 prevention high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+Placebo treatment hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGEN-COV treatment low dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGN10933 treatment low dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGN10987 treatment low dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGEN-COV treatment high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGN10933 treatment high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+REGN10987 treatment high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
