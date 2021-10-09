@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Focosi21b,VA-CF,infection,=,2021-04-24,Italy,SARS-CoV-2/human/ITA/VA-Cf 26Apr2021/2021,NULL,Hospitalized
+Focosi21b,VA-CF,isolation,=,2021-05-03,Italy,SARS-CoV-2/human/ITA/VA-CF 08May2021/2021,NULL,NULL

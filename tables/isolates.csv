@@ -815,3 +815,5 @@ REGN10987 treatment low dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
 REGEN-COV treatment high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
 REGN10933 treatment high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
 REGN10987 treatment high dose hamster samples,NULL,FALSE,NULL,NULL,FALSE
+SARS-CoV-2/human/ITA/VA-Cf 26Apr2021/2021,Alpha,FALSE,NULL,MZ157261.1,TRUE
+SARS-CoV-2/human/ITA/VA-CF 08May2021/2021,Alpha,FALSE,NULL,MZ157275.1,TRUE
