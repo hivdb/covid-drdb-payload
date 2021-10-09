@@ -6,3 +6,9 @@ Stanevich21,Patient S,isolation,=,2021-01-11,Russia,hCoV-19/Russia/SPE-RII-22612
 Stanevich21,Patient S,isolation,=,2021-01-19,Russia,hCoV-19/Russia/SPE-RII-23680S/2021,NULL,NULL
 Stanevich21,Patient S,isolation,=,2021-01-22,Russia,hCoV-19/Russia/SPE-RII-24160S/2021,NULL,NULL
 Stanevich21,Patient S,isolation,=,2021-02-19,Russia,hCoV-19/Russia/SPE-RII-27064S/2021,NULL,NULL
+Stanevich21,Donor 1,infection,<,2020-12-11,Russia,Wuhan-Hu-1,NULL,NULL
+Stanevich21,Donor 1,isolation,<,2021-01-11,Russia,NULL,NULL,NULL
+Stanevich21,Donor 2,infection,<,2020-12-15,Russia,Wuhan-Hu-1,NULL,NULL
+Stanevich21,Donor 2,isolation,<,2021-01-15,Russia,NULL,NULL,NULL
+Stanevich21,Donor 3,infection,<,2020-12-18,Russia,Wuhan-Hu-1,NULL,NULL
+Stanevich21,Donor 3,isolation,<,2021-01-18,Russia,NULL,NULL,NULL
