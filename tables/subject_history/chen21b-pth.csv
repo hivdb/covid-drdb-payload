@@ -1,8 +1,7 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Chen21b,Patient,infection,~,2020-04-20,USA,B.1 full genome,NULL,Severe
-Chen21b,Patient,isolation,~,2020-04-20,USA,B.1 full genome,NULL,NULL
-Chen21b,Patient,isolation,~,2020-04-27,USA,B.1 full genome,NULL,NULL
-Chen21b,Patient,isolation,~,2020-05-11,USA,B.1 full genome,NULL,NULL
-Chen21b,Patient,isolation,~,2020-05-17,USA,B.1 full genome,NULL,NULL
-Chen21b,Patient,isolation,~,2020-05-24,USA,B.1 full genome,NULL,NULL
-Chen21b,Patient,isolation,~,2020-05-31,USA,B.1 full genome,NULL,NULL
+Chen21b,Patient_TA,infection,=,2020-04-30,USA,hCoV-19/USA/NJ-NYGC-NJ-BioR-276/2020,NULL,Severe
+Chen21b,Patient_TA,isolation,=,2020-05-07,USA,hCoV-19/USA/NJ-NYGC-ICU-TA-113-496/2020,NULL,NULL
+Chen21b,Patient_TA,isolation,=,2020-05-21,USA,hCoV-19/USA/NJ-NYGC-ICU-TA-436-496/2020,NULL,NULL
+Chen21b,Patient_TA,isolation,=,2020-05-27,USA,hCoV-19/USA/NJ-NYGC-ICU-TA-523-496-Ampliseq/2020,NULL,NULL
+Chen21b,Donor,infection,<,2020-04-01,USA,B.1 full genome,NULL,NULL
+Chen21b,Donor,isolation,<,2020-04-29,USA,NULL,NULL,NULL
