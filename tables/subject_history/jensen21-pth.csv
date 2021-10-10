@@ -1,0 +1,19 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Jensen21,Patient 1,infection,~,2020-06-04,Germany,Pt1_d1,NULL,Hospitalized
+Jensen21,Patient 1,isolation,~,2020-06-15,Germany,Pt1_d12,NULL,NULL
+Jensen21,Patient 1,isolation,~,2020-06-17,Germany,Pt1_d14,NULL,NULL
+Jensen21,Patient 1,isolation,~,2020-06-19,Germany,Pt1_d16,NULL,NULL
+Jensen21,Patient 2,infection,~,2020-10-07,Germany,Pt2_d1,NULL,Hospitalized
+Jensen21,Patient 2,isolation,~,2020-10-15,Germany,Pt2_d9,NULL,NULL
+Jensen21,Patient 3,infection,~,2020-11-15,Germany,Pt3_d1,NULL,Hospitalized
+Jensen21,Patient 3,isolation,~,2021-02-03,Germany,Pt3_d81,NULL,NULL
+Jensen21,Patient 4,infection,~,2020-12-28,Germany,Pt4_d1,NULL,Hospitalized
+Jensen21,Patient 4,isolation,~,2021-01-15,Germany,Pt4_d19,NULL,NULL
+Jensen21,Patient 5,infection,~,2020-11-28,Germany,Pt5_d1,NULL,Hospitalized
+Jensen21,Patient 5,isolation,~,2021-01-15,Germany,Pt5_d49,NULL,NULL
+Jensen21,Patient 5,isolation,~,2021-01-17,Germany,Pt5_d51,NULL,NULL
+Jensen21,Patient 5,isolation,~,2021-01-18,Germany,Pt5_d52,NULL,NULL
+Jensen21,Patient 6,infection,~,2020-12-27,Germany,Pt6_d1,NULL,Hospitalized
+Jensen21,Patient 6,isolation,~,2021-01-15,Germany,Pt6_d20,NULL,NULL
+Jensen21,Donor,infection,<,2020-06-01,Germany,Wuhan-Hu-1,NULL,NULL
+Jensen21,Donor,isolation,<,2020-06-19,Germany,NULL,NULL,NULL

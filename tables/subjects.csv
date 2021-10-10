@@ -870,6 +870,13 @@ Jangra21,CP_P6,Human,NULL,1
 Jangra21,CP_P7,Human,NULL,1
 Jangra21,CP_P8,Human,NULL,1
 Jangra21,CP_P9,Human,NULL,1
+Jensen21,Donor,Human,NULL,1
+Jensen21,Patient 1,Human,1948,1
+Jensen21,Patient 2,Human,1978,1
+Jensen21,Patient 3,Human,1958,1
+Jensen21,Patient 4,Human,1952,1
+Jensen21,Patient 5,Human,1952,1
+Jensen21,Patient 6,Human,1955,1
 Jongeneelen21,Ad26.COV2.S,Human,NULL,8
 Keeton21,VP,Human,1973,19
 Keeton21,VP_1st_wave_infected,Human,1986,20

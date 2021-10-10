@@ -1,0 +1,17 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
+Jensen21,Patient 1,Bamlanivimab,~,2020-06-05,~,2020-06-05,700,mg
+Jensen21,Patient 1,Donor_CP,~,2020-06-19,~,2020-06-19,3,unit
+Jensen21,Patient 1,Donor_CP,~,2020-06-21,~,2020-06-21,2,unit
+Jensen21,Patient 2,Bamlanivimab,~,2020-10-09,~,2020-10-09,700,mg
+Jensen21,Patient 2,Donor_CP,~,2020-10-24,~,2020-10-24,2,unit
+Jensen21,Patient 3,Donor_CP,~,2021-01-10,~,2021-01-10,2,unit
+Jensen21,Patient 3,Donor_CP,~,2021-01-12,~,2021-01-12,1,unit
+Jensen21,Patient 3,Bamlanivimab,~,2021-01-29,~,2021-01-29,700,mg
+Jensen21,Patient 3,Donor_CP,~,2021-02-25,~,2021-02-25,2,unit
+Jensen21,Patient 4,Bamlanivimab,~,2020-12-29,~,2020-12-29,700,mg
+Jensen21,Patient 5,Bamlanivimab,~,2021-01-11,~,2021-01-11,700,mg
+Jensen21,Patient 5,Donor_CP,~,2021-01-22,~,2021-01-22,2,unit
+Jensen21,Patient 5,Donor_CP,~,2021-01-25,~,2021-01-25,1,unit
+Jensen21,Patient 5,Imdevimab+Casirivimab,~,2021-02-06,~,2021-02-06,NULL,NULL
+Jensen21,Patient 6,Donor_CP,~,2020-12-27,~,2020-12-27,2,unit
+Jensen21,Patient 6,Bamlanivimab,~,2021-01-12,~,2021-01-12,700,mg
