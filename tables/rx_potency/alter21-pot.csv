@@ -1,7 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Alter21,Ad26_2nd,WA1,Extended Data Fig. 1,Virus isolate,NT50,220,25,10000,20,NULL,2021-07-02
-Alter21,Ad26_2nd,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,268,25,10000,20,NULL,2021-07-02
-Alter21,Ad26_2nd,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,20,25,10000,20,NULL,2021-07-02
 Alter21,Ad26_1st_1,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,945,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_1st_2,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,336,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_1st_3,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,71,1,10000,20,NULL,2021-07-02
@@ -236,3 +233,36 @@ Alter21,Ad26_2nd_17,B.1.351 Spike_712096,Figure 1a,Pseudovirus (lentivirus),NT50
 Alter21,Ad26_2nd_18,B.1.351 Spike_712096,Figure 1a,Pseudovirus (lentivirus),NT50,47,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_2nd_19,B.1.351 Spike_712096,Figure 1a,Pseudovirus (lentivirus),NT50,320,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_2nd_20,B.1.351 Spike_712096,Figure 1a,Pseudovirus (lentivirus),NT50,35,1,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,WA1,Extended Data Fig. 1,Virus isolate,NT50,220,15,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,268,15,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,20,15,10000,20,NULL,2021-07-02
+Alter21,Ad26_2nd_high dose_high dose_1,WA1,Extended Data Fig. 1,Virus isolate,NT50,146,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_2,WA1,Extended Data Fig. 1,Virus isolate,NT50,318,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_3,WA1,Extended Data Fig. 1,Virus isolate,NT50,2328,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_4,WA1,Extended Data Fig. 1,Virus isolate,NT50,2747,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_5,WA1,Extended Data Fig. 1,Virus isolate,NT50,50,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_6,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,3544,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_7,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,321,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_8,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,717,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_9,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,293,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_10,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,348,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_11,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,38,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_12,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,46,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_13,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,170,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_14,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_high dose_high dose_15,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_1,WA1,Extended Data Fig. 1,Virus isolate,NT50,9586,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_2,WA1,Extended Data Fig. 1,Virus isolate,NT50,644,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_3,WA1,Extended Data Fig. 1,Virus isolate,NT50,71,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_4,WA1,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_5,WA1,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_6,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,110,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_7,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,1264,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_8,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,219,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_9,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_10,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_11,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,103,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_12,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,22,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_13,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_14,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
+Alter21,Ad26_2nd_low dose_low dose_15,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,19,1,10000,20,NULL,2021-10-13
