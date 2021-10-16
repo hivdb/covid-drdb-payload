@@ -599,11 +599,11 @@ Acevedo21,CoronaVac_F4_72,S:75V+76I+246del+247del+248del+249del+250del+251del+25
 Acevedo21,CoronaVac_F4_73,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+452Q+490S+614G+859N,"10.1101/2021.06.28.21259673, Figure 2A",Pseudovirus (HIV),NT50,22,1,8748,4,NULL,2021-07-02
 Acevedo21,CoronaVac_F4_74,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+452Q+490S+614G+859N,"10.1101/2021.06.28.21259673, Figure 2A",Pseudovirus (HIV),NT50,7,1,8748,4,NULL,2021-07-02
 Acevedo21,CoronaVac_F4_75,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+452Q+490S+614G+859N,"10.1101/2021.06.28.21259673, Figure 2A",Pseudovirus (HIV),NT50,22,1,8748,4,NULL,2021-07-02
-Acevedo21,BNT162b2,Wuhan-Hu-1,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,1212,75,21870,10,NULL,2021-08-26
-Acevedo21,BNT162b2,S:614G,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,1014,75,21870,10,NULL,2021-08-26
-Acevedo21,BNT162b2,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,737,75,21870,10,NULL,2021-08-26
-Acevedo21,BNT162b2,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,730.5,75,21870,10,NULL,2021-08-26
-Acevedo21,BNT162b2,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+452Q+490S+614G+859N,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,640.6,75,21870,10,NULL,2021-08-26
+Acevedo21,BNT162b2,Wuhan-Hu-1,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,1212,58,21870,10,NULL,2021-08-26
+Acevedo21,BNT162b2,S:614G,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,1014,58,21870,10,NULL,2021-08-26
+Acevedo21,BNT162b2,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,737,58,21870,10,NULL,2021-08-26
+Acevedo21,BNT162b2,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,730.5,58,21870,10,NULL,2021-08-26
+Acevedo21,BNT162b2,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+452Q+490S+614G+859N,"Figure 1b, Supplementary table 3",Pseudovirus (HIV),NT50,640.6,58,21870,10,NULL,2021-08-26
 Acevedo21,BNT_1,Wuhan-Hu-1,Supplementary Figure 1b,Pseudovirus (HIV),NT50,481,1,10000,10,NULL,2021-09-15
 Acevedo21,BNT_2,Wuhan-Hu-1,Supplementary Figure 1b,Pseudovirus (HIV),NT50,932,1,10000,10,NULL,2021-09-15
 Acevedo21,BNT_3,Wuhan-Hu-1,Supplementary Figure 1b,Pseudovirus (HIV),NT50,787,1,10000,10,NULL,2021-09-15
