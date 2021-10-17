@@ -2000,8 +2000,6 @@ Becker21,Vac16_1
 Becker21,Vac16_2
 Becker21,Vac21_1
 Becker21,Vac21_2
-Behrens21,AZD1222
-Behrens21,AZD1222_BNT
 Behrens21,AZD1222_1
 Behrens21,AZD1222_2
 Behrens21,AZD1222_3
@@ -3421,9 +3419,6 @@ Faulkner21,CP_D614G_14_M3
 Faulkner21,CP_D614G_15_M3
 Faulkner21,CP_D614G_16_M3
 Faulkner21,CP_D614G_17_M3
-Fernandez21,CoronaVac_age1
-Fernandez21,CoronaVac_age2
-Fernandez21,CoronaVac_age3
 Fernandez21,CoronaVac_age1_1
 Fernandez21,CoronaVac_age1_2
 Fernandez21,CoronaVac_age1_3
@@ -5108,9 +5103,6 @@ Ledesma21,SPV_120d_G4_Point_3
 Ledesma21,SPV_120d_G4_Point_2
 Ledesma21,SPV_120d_G4_Point_1
 Ledesma21,SPV_120d_G4_Point_0
-Leier21,CP
-Leier21,BNT_2nd_uninfected
-Leier21,BNT_2nd_infected
 Leier21,BNT_2nd_infected_1
 Leier21,BNT_2nd_infected_10
 Leier21,BNT_2nd_infected_11
@@ -5278,7 +5270,6 @@ Li20h,CP_08
 Li20h,CP_10
 Li20h,CP_86
 Li20h,CP_87
-Li21c,CP
 Li21c,CP_NH1.1
 Li21c,CP_NH1.2
 Li21c,CP_NH1.3
@@ -6552,12 +6543,6 @@ Muik21,BNT162b2_Y_3W:37
 Muik21,BNT162b2_Y_1M:38
 Muik21,BNT162b2_Y_1M:39
 Muik21,BNT162b2_Y_3W:40
-Neumann21,CP_B.1.1.7
-Neumann21,BNT_1dose
-Neumann21,BNT_2dose
-Neumann21,mRNA-1273_1dose
-Neumann21,mRNA-1273_2dose
-Neumann21,AZD1222_1dose
 Neumann21,AZD1222_1dose_1
 Neumann21,AZD1222_1dose_10
 Neumann21,AZD1222_1dose_11
@@ -7436,7 +7421,6 @@ Saade21,CP
 Saade21,CP_Severe
 Saade21,CP_Mild
 Saade21,BNT162b2
-Sahin20,BNT162b2
 Sahin20,BNT162b2_1_50ug
 Sahin20,BNT162b2_2_50ug
 Sahin20,BNT162b2_3_30ug
@@ -7527,8 +7511,6 @@ Sahin20,BNT162b2_87_50ug
 Sahin20,BNT162b2_88_30ug
 Sahin20,BNT162b2_89_30ug
 Sahin20,BNT162b2_90_10ug
-Sahin21,BNT_Fig4d
-Sahin21,BNT_Fig1b
 Sahin21,BNT_Fig1b_43_G2_8
 Sahin21,BNT_Fig1b_43_G2_7
 Sahin21,BNT_Fig1b_43_G2_2
@@ -8109,12 +8091,6 @@ Skelly21,BNT_525_2nd
 Skelly21,BNT_528_2nd
 Skelly21,BNT_529_2nd
 Skelly21,BNT_567_2nd
-Spencer21,AZD1222_1dose
-Spencer21,AZD2816_1dose
-Spencer21,AZD1222_2816_1dose
-Spencer21,AZD1222_2816_2dose
-Spencer21,AZD1222_2dose
-Spencer21,AZD1222_2dose_AZD2816
 Spencer21,AZD1222_1dose_1
 Spencer21,AZD1222_1dose_10
 Spencer21,AZD1222_1dose_11
@@ -8411,7 +8387,6 @@ Supasa21,BNT162b2_24
 Supasa21,BNT162b2_25
 Suthar21,BNT162b2_d42
 Suthar21,BNT162b2_d210
-Tada21,CP
 Tada21,CP_1
 Tada21,CP_2
 Tada21,CP_3
@@ -8692,7 +8667,6 @@ Trinite21,BNT_uninfected_13
 Trinite21,BNT_uninfected_14
 Trinite21,BNT_uninfected_15
 Trinite21,BNT_uninfected_16
-Trombetta21,CP
 Trombetta21,CP_1
 Trombetta21,CP_2
 Trombetta21,CP_3
@@ -8992,7 +8966,6 @@ Vacharathit21,CP_2021
 Vicenti21,CP
 Vicenti21,CP_1dose
 Vicenti21,VP_2dose
-Vidal21,CP_early
 Vidal21,CP_early_1
 Vidal21,CP_early_10
 Vidal21,CP_early_11

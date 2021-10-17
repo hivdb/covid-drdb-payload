@@ -1,22 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Sahin20,BNT162b2,Wuhan-Hu-1,Extended Data Table 5,Pseudovirus (VSV),NT50,2948,5,NULL,40,NULL,2021-06-28
-Sahin20,BNT162b2,S:321L,Extended Data Table 5,Pseudovirus (VSV),NT50,1898,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:341I,Extended Data Table 5,Pseudovirus (VSV),NT50,1561,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:348T,Extended Data Table 5,Pseudovirus (VSV),NT50,3302,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:354D,Extended Data Table 5,Pseudovirus (VSV),NT50,2411,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:359N,Extended Data Table 5,Pseudovirus (VSV),NT50,4563,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:367F,Extended Data Table 5,Pseudovirus (VSV),NT50,7668,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:378R,Extended Data Table 5,Pseudovirus (VSV),NT50,3280,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:408I,Extended Data Table 5,Pseudovirus (VSV),NT50,5879,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:409E,Extended Data Table 5,Pseudovirus (VSV),NT50,2872,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:435S,Extended Data Table 5,Pseudovirus (VSV),NT50,3776,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:458R,Extended Data Table 5,Pseudovirus (VSV),NT50,3711,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:472V,Extended Data Table 5,Pseudovirus (VSV),NT50,2055,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:476S,Extended Data Table 5,Pseudovirus (VSV),NT50,2641,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:483A,Extended Data Table 5,Pseudovirus (VSV),NT50,3824,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:508H,Extended Data Table 5,Pseudovirus (VSV),NT50,1916,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:519P,Extended Data Table 5,Pseudovirus (VSV),NT50,5352,5,NULL,40,NULL,2021-01-27
-Sahin20,BNT162b2,S:614G,Extended Data Table 5,Pseudovirus (VSV),NT50,3822,5,NULL,40,NULL,2021-01-27
 Sahin20,BNT162b2_1_50ug,Wuhan-Hu-1,Figure 2C,Pseudovirus (VSV),NT50,3884,1,NULL,40,NULL,2021-09-29
 Sahin20,BNT162b2_2_50ug,Wuhan-Hu-1,Figure 2C,Pseudovirus (VSV),NT50,1400,1,NULL,40,NULL,2021-09-29
 Sahin20,BNT162b2_3_30ug,Wuhan-Hu-1,Figure 2C,Pseudovirus (VSV),NT50,6515,1,NULL,40,NULL,2021-09-29

@@ -1,16 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Neumann21,CP_B.1.1.7,B.1 full genome,Figure 5,Virus isolate,NT50,18,11,1000,1,NULL,2021-09-24
-Neumann21,CP_B.1.1.7,B.1.1.7 full genome,Figure 5,Virus isolate,NT50,82,11,1000,1,NULL,2021-09-24
-Neumann21,BNT_1dose,B.1 full genome,Figure 5,Virus isolate,NT50,3,11,1000,1,NULL,2021-09-24
-Neumann21,BNT_1dose,B.1.1.7 full genome,Figure 5,Virus isolate,NT50,2,11,1000,1,NULL,2021-09-24
-Neumann21,BNT_2dose,B.1 full genome,Figure 5,Virus isolate,NT50,131,11,1000,1,NULL,2021-09-24
-Neumann21,BNT_2dose,B.1.1.7 full genome,Figure 5,Virus isolate,NT50,158,11,1000,1,NULL,2021-09-24
-Neumann21,mRNA-1273_1dose,B.1 full genome,Figure 5,Virus isolate,NT50,17,11,1000,1,NULL,2021-09-24
-Neumann21,mRNA-1273_1dose,B.1.1.7 full genome,Figure 5,Virus isolate,NT50,9,11,1000,1,NULL,2021-09-24
-Neumann21,mRNA-1273_2dose,B.1 full genome,Figure 5,Virus isolate,NT50,188,11,1000,1,NULL,2021-09-24
-Neumann21,mRNA-1273_2dose,B.1.1.7 full genome,Figure 5,Virus isolate,NT50,217,11,1000,1,NULL,2021-09-24
-Neumann21,AZD1222_1dose,B.1 full genome,Figure 5,Virus isolate,NT50,2,11,1000,1,NULL,2021-09-24
-Neumann21,AZD1222_1dose,B.1.1.7 full genome,Figure 5,Virus isolate,NT50,2,11,1000,1,NULL,2021-09-24
 Neumann21,CP_B.1.1.7_1,B.1 full genome,Figure 5,Virus isolate,NT50,3,1,1000,1,NULL,2021-10-06
 Neumann21,CP_B.1.1.7_2,B.1 full genome,Figure 5,Virus isolate,NT50,10,1,1000,1,NULL,2021-10-06
 Neumann21,CP_B.1.1.7_3,B.1 full genome,Figure 5,Virus isolate,NT50,19,1,1000,1,NULL,2021-10-06

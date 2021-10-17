@@ -1,16 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Leier21,BNT_2nd_uninfected,WA1,Figure 2,Virus isolate,NT50,579,20,5120,20,NULL,2021-07-07
-Leier21,CP,WA1,Figure 2,Virus isolate,NT50,37,10,5120,20,NULL,2021-07-07
-Leier21,BNT_2nd_infected,WA1,Figure 2,Virus isolate,NT50,1939,10,5120,20,NULL,2021-07-07
-Leier21,BNT_2nd_uninfected,hCoV-19/England/204820464/2020,Figure 2,Virus isolate,NT50,224,20,5120,20,NULL,2021-05-01
-Leier21,CP,hCoV-19/England/204820464/2020,Figure 2,Virus isolate,NT50,24,10,5120,20,NULL,2021-05-01
-Leier21,BNT_2nd_infected,hCoV-19/England/204820464/2020,Figure 2,Virus isolate,NT50,1059,10,5120,20,NULL,2021-05-01
-Leier21,BNT_2nd_uninfected,hCoV-19/South Africa/KRISP-EC-K005321/2020,Figure 2,Virus isolate,NT50,52,20,5120,20,NULL,2021-05-01
-Leier21,CP,hCoV-19/South Africa/KRISP-EC-K005321/2020,Figure 2,Virus isolate,NT50,20,10,5120,20,NULL,2021-05-01
-Leier21,BNT_2nd_infected,hCoV-19/South Africa/KRISP-EC-K005321/2020,Figure 2,Virus isolate,NT50,316,10,5120,20,NULL,2021-05-01
-Leier21,BNT_2nd_uninfected,P.1 full genome (Leier21),Figure 2,Virus isolate,NT50,173,20,5120,20,NULL,2021-05-01
-Leier21,CP,P.1 full genome (Leier21),Figure 2,Virus isolate,NT50,31,10,5120,20,NULL,2021-05-01
-Leier21,BNT_2nd_infected,P.1 full genome (Leier21),Figure 2,Virus isolate,NT50,750,10,5120,20,NULL,2021-05-01
 Leier21,BNT_2nd_uninfected_1,WA1,Figure 2A,Virus isolate,NT50,46,1,5120,20,NULL,2021-09-29
 Leier21,BNT_2nd_uninfected_2,WA1,Figure 2A,Virus isolate,NT50,58,1,5120,20,NULL,2021-09-29
 Leier21,BNT_2nd_uninfected_3,WA1,Figure 2A,Virus isolate,NT50,107,1,5120,20,NULL,2021-09-29

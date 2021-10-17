@@ -1,8 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Trombetta21,CP,INMI1,Figure 1C,Virus isolate,NT50,173,42,NULL,10,NULL,2021-08-25
-Trombetta21,CP,England/MIG457/2020,Figure 1C,Virus isolate,NT50,87,42,NULL,10,NULL,2021-08-25
-Trombetta21,CP,P.1 full genome,Figure 1C,Virus isolate,NT50,49,42,NULL,10,NULL,2021-08-25
-Trombetta21,CP,hCoV-19/Netherlands/NoordHolland_10159/2021,Figure 1C,Virus isolate,NT50,24,42,NULL,10,NULL,2021-08-25
 Trombetta21,CP_1,INMI1,Figure 1C,Virus isolate,NT50,112,1,NULL,10,NULL,2021-10-07
 Trombetta21,CP_2,INMI1,Figure 1C,Virus isolate,NT50,112,1,NULL,10,NULL,2021-10-07
 Trombetta21,CP_3,INMI1,Figure 1C,Virus isolate,NT50,1286,1,NULL,10,NULL,2021-10-07
