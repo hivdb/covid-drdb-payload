@@ -1,0 +1,21 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Tada21c,CP01,Wuhan-Hu-1,Figure 2A,Pseudovirus (HIV),NT50,404,1,NULL,20,NULL,2021-07-04
+Tada21c,CP02,Wuhan-Hu-1,Figure 2A,Pseudovirus (HIV),NT50,367,1,NULL,20,NULL,2021-07-04
+Tada21c,CP03,Wuhan-Hu-1,Figure 2A,Pseudovirus (HIV),NT50,298,1,NULL,20,NULL,2021-07-04
+Tada21c,CP04,Wuhan-Hu-1,Figure 2A,Pseudovirus (HIV),NT50,433,1,NULL,20,NULL,2021-07-04
+Tada21c,CP05,Wuhan-Hu-1,Figure 2A,Pseudovirus (HIV),NT50,244,1,NULL,20,NULL,2021-07-04
+Tada21c,CP06,Wuhan-Hu-1,Figure 2A,Pseudovirus (HIV),NT50,111,1,NULL,20,NULL,2021-07-04
+Tada21c,CP07,Wuhan-Hu-1,Figure 2A,Pseudovirus (HIV),NT50,192,1,NULL,20,NULL,2021-07-04
+Tada21c,CP08,Wuhan-Hu-1,Figure 2A,Pseudovirus (HIV),NT50,190,1,NULL,20,NULL,2021-07-04
+Tada21c,BNT01,Wuhan-Hu-1,Figure 2B,Pseudovirus (HIV),NT50,1230,1,NULL,20,NULL,2021-07-04
+Tada21c,BNT02,Wuhan-Hu-1,Figure 2B,Pseudovirus (HIV),NT50,1644,1,NULL,20,NULL,2021-07-04
+Tada21c,BNT03,Wuhan-Hu-1,Figure 2B,Pseudovirus (HIV),NT50,1529,1,NULL,20,NULL,2021-07-04
+Tada21c,BNT04,Wuhan-Hu-1,Figure 2B,Pseudovirus (HIV),NT50,854,1,NULL,20,NULL,2021-07-04
+Tada21c,BNT05,Wuhan-Hu-1,Figure 2B,Pseudovirus (HIV),NT50,1095,1,NULL,20,NULL,2021-07-04
+Tada21c,BNT06,Wuhan-Hu-1,Figure 2B,Pseudovirus (HIV),NT50,1868,1,NULL,20,NULL,2021-07-04
+Tada21c,Mod01,Wuhan-Hu-1,Figure 2C,Pseudovirus (HIV),NT50,1606,1,NULL,20,NULL,2021-07-04
+Tada21c,Mod02,Wuhan-Hu-1,Figure 2C,Pseudovirus (HIV),NT50,1325,1,NULL,20,NULL,2021-07-04
+Tada21c,Mod03,Wuhan-Hu-1,Figure 2C,Pseudovirus (HIV),NT50,1451,1,NULL,20,NULL,2021-07-04
+Tada21c,REGN10933,Wuhan-Hu-1,Figure 3D,Pseudovirus (HIV),IC50,1.3,1,50000,0.00512,ng/ml,2021-07-04
+Tada21c,REGN10987,Wuhan-Hu-1,Figure 3D,Pseudovirus (HIV),IC50,28.0,1,50000,0.00512,ng/ml,2021-07-04
+Tada21c,REGN-COV2,Wuhan-Hu-1,Figure 3D,Pseudovirus (HIV),IC50,2.2,1,50000,0.00512,ng/ml,2021-07-04
