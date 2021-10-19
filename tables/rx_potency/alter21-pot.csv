@@ -1,23 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Alter21,Ad26_1st_1,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,945,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_2,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,336,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_3,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,71,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_4,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,33,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_5,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,161,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_6,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,163,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_7,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,116,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_8,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,115,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_9,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,365,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_10,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,325,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_11,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,342,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_12,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,209,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_13,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,67,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_14,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,447,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_15,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,76,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_16,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,30,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_17,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,200,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_18,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,1030,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_1st_19,WA1,Figure 1a,Pseudovirus (lentivirus),NT50,102,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_1st_1,S:614G,Figure 1a,Pseudovirus (lentivirus),NT50,1276,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_1st_2,S:614G,Figure 1a,Pseudovirus (lentivirus),NT50,291,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_1st_3,S:614G,Figure 1a,Pseudovirus (lentivirus),NT50,95,1,10000,20,NULL,2021-07-02
@@ -233,9 +214,6 @@ Alter21,Ad26_2nd_17,B.1.351 Spike_712096,Figure 1a,Pseudovirus (lentivirus),NT50
 Alter21,Ad26_2nd_18,B.1.351 Spike_712096,Figure 1a,Pseudovirus (lentivirus),NT50,47,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_2nd_19,B.1.351 Spike_712096,Figure 1a,Pseudovirus (lentivirus),NT50,320,1,10000,20,NULL,2021-07-02
 Alter21,Ad26_2nd_20,B.1.351 Spike_712096,Figure 1a,Pseudovirus (lentivirus),NT50,35,1,10000,20,NULL,2021-07-02
-Alter21,Ad26_2nd,WA1,Extended Data Fig. 1,Virus isolate,NT50,220,15,10000,20,NULL,2021-07-02
-Alter21,Ad26_2nd,B.1.1.7 full genome_601443,Extended Data Fig. 1,Virus isolate,NT50,268,15,10000,20,NULL,2021-07-02
-Alter21,Ad26_2nd,B.1.351 full genome_712096,Extended Data Fig. 1,Virus isolate,NT50,20,15,10000,20,NULL,2021-07-02
 Alter21,Ad26_2nd_high dose_high dose_1,WA1,Extended Data Fig. 1,Virus isolate,NT50,146,1,10000,20,NULL,2021-10-13
 Alter21,Ad26_2nd_high dose_high dose_2,WA1,Extended Data Fig. 1,Virus isolate,NT50,318,1,10000,20,NULL,2021-10-13
 Alter21,Ad26_2nd_high dose_high dose_3,WA1,Extended Data Fig. 1,Virus isolate,NT50,2328,1,10000,20,NULL,2021-10-13

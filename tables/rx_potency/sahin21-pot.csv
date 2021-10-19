@@ -1,40 +1,40 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Sahin21,BNT_Fig1b_43_G2_8,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,43,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_7,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,74,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_2,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,81,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_11,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,97,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_6,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,126,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_10,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,138,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_1,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,150,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_5,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,164,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_29_G2_9,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,180,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_0,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,214,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_4,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,234,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G2_3,B.1.1.298 Spike,Fig. 1b,Pseudovirus (VSV),NT50,619,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_3,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,9,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_10,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,9,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_8,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,11,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_29_G3_2,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,12,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_7,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,25,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_6,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,33,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_0,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,36,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_1,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,36,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_11,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,36,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_9,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,40,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_5,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,52,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G3_4,B.1.351 Spike,Fig. 1b,Pseudovirus (VSV),NT50,364,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_29_G4_3,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,9,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_8,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,9,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_11,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,9,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_7,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,13,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_6,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,30,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_2,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,36,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_10,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,47,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_1,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,52,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_5,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,52,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_9,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,62,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_0,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,68,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G4_4,B.1.351 Spike:-18F-246I,Fig. 1b,Pseudovirus (VSV),NT50,435,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_8,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,43,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_7,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,74,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_2,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,81,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_11,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,97,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_6,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,126,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_10,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,138,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_1,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,150,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_5,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,164,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_29_G2_9,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,180,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_0,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,214,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_4,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,234,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G2_3,B.1.1.298 Spike,Fig. 1b,Virus isolate,NT50,619,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_3,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,9,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_10,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,9,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_8,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,11,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_29_G3_2,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,12,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_7,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,25,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_6,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,33,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_0,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,36,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_1,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,36,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_11,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,36,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_9,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,40,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_5,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,52,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G3_4,B.1.351 Spike,Fig. 1b,Virus isolate,NT50,364,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_29_G4_3,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,9,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_8,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,9,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_11,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,9,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_7,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,13,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_6,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,30,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_2,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,36,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_10,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,47,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_1,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,52,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_5,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,52,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_9,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,62,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_0,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,68,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G4_4,B.1.351 Spike:-18F-246I,Fig. 1b,Virus isolate,NT50,435,1,1000,10,NULL,2021-10-06
 Sahin21,BNT_FIG4D_1_G2_12,S:321L,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,499,1,10000,100,NULL,2021-10-06
 Sahin21,BNT_FIG4D_10_G2_13,S:321L,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,681,1,10000,100,NULL,2021-10-06
 Sahin21,BNT_FIG4D_10_G2_14,S:321L,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,774,1,10000,100,NULL,2021-10-06
@@ -135,15 +135,15 @@ Sahin21,BNT_FIG4D_10_G1_13,Wuhan-Hu-1,Extended Data Fig. 4d,Pseudovirus (VSV),NT
 Sahin21,BNT_FIG4D_10_G1_14,Wuhan-Hu-1,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,1580,1,10000,100,NULL,2021-10-06
 Sahin21,BNT_FIG4D_30_G1_15,Wuhan-Hu-1,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,2078,1,10000,100,NULL,2021-10-06
 Sahin21,BNT_FIG4D_30_G1_16,Wuhan-Hu-1,Extended Data Fig. 4d,Pseudovirus (VSV),NT50,2541,1,10000,100,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G19_6,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,47,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G19_4,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,81,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_9,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,97,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_3,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,126,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_8,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,138,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_11,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,138,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_0,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,150,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_2,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,150,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_29_G1_10,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,180,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_1,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,214,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_7,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,256,1,1000,10,NULL,2021-10-06
-Sahin21,BNT_Fig1b_43_G1_5,Wuhan-Hu-1,Fig. 1b,Pseudovirus (VSV),NT50,567,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G19_6,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,47,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G19_4,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,81,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_9,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,97,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_3,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,126,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_8,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,138,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_11,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,138,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_0,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,150,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_2,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,150,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_29_G1_10,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,180,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_1,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,214,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_7,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,256,1,1000,10,NULL,2021-10-06
+Sahin21,BNT_Fig1b_43_G1_5,Wuhan-Hu-1,Fig. 1b,Virus isolate,NT50,567,1,1000,10,NULL,2021-10-06
