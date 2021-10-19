@@ -7269,9 +7269,6 @@ Rees-Spear21,CP_Mild_G2_15
 Rees-Spear21,CP_Mild_G2_16
 Rees-Spear21,CP_Mild_G2_17
 Rees-Spear21,CP_Mild_G2_18
-Reynolds21,CP
-Reynolds21,BNT162b2
-Reynolds21,BNT162b2_infected
 Reynolds21,CP_1
 Reynolds21,CP_2
 Reynolds21,CP_3
@@ -8248,6 +8245,12 @@ Spencer21,AZD2816_1dose_6
 Spencer21,AZD2816_1dose_7
 Spencer21,AZD2816_1dose_8
 Spencer21,AZD2816_1dose_9
+Spencer21,AZD1222_1dose
+Spencer21,AZD2816_1dose
+Spencer21,AZD1222_2816_1dose
+Spencer21,AZD1222_2816_2dose
+Spencer21,AZD1222_2dose
+Spencer21,AZD1222_2dose_AZD2816
 Stamatatos21,CP_A
 Stamatatos21,CP_B
 Stamatatos21,CP_C
