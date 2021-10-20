@@ -1,0 +1,16 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chen21d,COV2-2196,S:614G,Figure 2K,Virus isolate,IC50,3,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2196,B.1.1.7 full genome,Figure 2K,Virus isolate,IC50,9,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2196,P.1 full genome,Figure 2K,Virus isolate,IC50,24,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2196,B.1.1.298 full genome,Figure 2K,Virus isolate,IC50,5,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2196,B.1.429 full genome,Figure 2K,Virus isolate,IC50,9,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2531,S:614G,Figure 2K,Virus isolate,IC50,85,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2531,B.1.1.7 full genome,Figure 2K,Virus isolate,IC50,469,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2531,P.1 full genome,Figure 2K,Virus isolate,IC50,206,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2531,B.1.1.298 full genome,Figure 2K,Virus isolate,IC50,114,1,10000,1,ng/ml,2021-10-20
+Chen21d,COV2-2531,B.1.429 full genome,Figure 2K,Virus isolate,IC50,249,1,10000,1,ng/ml,2021-10-20
+Chen21d,C126,S:614G,Figure 2K,Virus isolate,IC50,522,1,10000,1,ng/ml,2021-10-20
+Chen21d,C126,B.1.1.7 full genome,Figure 2K,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-10-20
+Chen21d,C126,P.1 full genome,Figure 2K,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-10-20
+Chen21d,C126,B.1.1.298 full genome,Figure 2K,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-10-20
+Chen21d,C126,B.1.429 full genome,Figure 2K,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-10-20

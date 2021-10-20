@@ -26,6 +26,19 @@ B.1.1.298 Spike:+69del+70del,S,453,F,NULL,NULL
 B.1.1.298 Spike:+69del+70del,S,614,G,NULL,NULL
 B.1.1.298 Spike:+69del+70del,S,692,V,NULL,NULL
 B.1.1.298 Spike:+69del+70del,S,1229,I,NULL,NULL
+B.1.1.298 full genome,nsp1,85,del,NULL,NULL
+B.1.1.298 full genome,PLpro,1263,del,NULL,NULL
+B.1.1.298 full genome,PLpro,1264,del,NULL,NULL
+B.1.1.298 full genome,RdRP,323,L,NULL,NULL
+B.1.1.298 full genome,RdRP,739,I,NULL,NULL
+B.1.1.298 full genome,S,69,del,NULL,NULL
+B.1.1.298 full genome,S,70,del,NULL,NULL
+B.1.1.298 full genome,S,453,F,NULL,NULL
+B.1.1.298 full genome,S,614,G,NULL,NULL
+B.1.1.298 full genome,ORF3a,182,Y,NULL,NULL
+B.1.1.298 full genome,N,194,L,NULL,NULL
+B.1.1.298 full genome,N,203,K,NULL,NULL
+B.1.1.298 full genome,N,204,R,NULL,NULL
 B.1.1.7 full genome,N,3,L,NULL,NULL
 B.1.1.7 full genome,N,235,F,NULL,NULL
 B.1.1.7 full genome,nsp6,106,del,NULL,NULL
