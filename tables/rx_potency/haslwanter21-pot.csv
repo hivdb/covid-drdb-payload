@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Haslwanter21,ADI-56443,S:64R+261R+372T+655Y,Fig 3A,VSV chimeric virus,IC50,3.82,1,150000,1.5,ng/ml,2021-10-20
+Haslwanter21,ADI-56443,S:64R+261R+372T+490S+655Y,Fig 3A,VSV chimeric virus,IC50,9702.95,1,150000,1.5,ng/ml,2021-10-20
+Haslwanter21,ADI-56479,S:64R+261R+372T+655Y,Fig 3C,VSV chimeric virus,IC50,27.95,1,150000,1.5,ng/ml,2021-10-20
+Haslwanter21,ADI-56479,S:64R+145D+261R+372T+655Y,Fig 3C,VSV chimeric virus,IC50,27948.63,1,150000,1.5,ng/ml,2021-10-20
+Haslwanter21,ADI-56479,S:64R+150E+261R+372T+655Y,Fig 3C,VSV chimeric virus,IC50,31653.23,1,150000,1.5,ng/ml,2021-10-20
+Haslwanter21,ADI-56479,S:64R+152R+261R+372T+655Y,Fig 3C,VSV chimeric virus,IC50,13522.17,1,150000,1.5,ng/ml,2021-10-20
+Haslwanter21,CP,S:64R+261R+372T+655Y,Figure 4B,VSV chimeric virus,NT50,7581,12,1000000,10,NULL,2021-10-20
+Haslwanter21,CP,S:64R+145D+261R+372T+655Y,Figure 4B,VSV chimeric virus,NT50,2072,12,1000000,10,NULL,2021-10-20
+Haslwanter21,CP,S:64R+150E+261R+372T+655Y,Figure 4B,VSV chimeric virus,NT50,476,12,1000000,10,NULL,2021-10-20
+Haslwanter21,CP,S:64R+152R+261R+372T+655Y,Figure 4B,VSV chimeric virus,NT50,527,12,1000000,10,NULL,2021-10-20
