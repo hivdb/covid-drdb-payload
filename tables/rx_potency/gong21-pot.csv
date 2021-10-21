@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gong21,BNT_infected,S:614G,Table S2,Pseudovirus (HIV),NT50,3852,5,10000,50,NULL,2021-10-21
+Gong21,BNT_infected,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Table S2,Pseudovirus (HIV),NT50,2492,5,10000,50,NULL,2021-10-21
+Gong21,BNT_infected,S:18F+80A+215G+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Table S2,Pseudovirus (HIV),NT50,1211,5,10000,50,NULL,2021-10-21
+Gong21,BNT_infected,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Table S2,Pseudovirus (HIV),NT50,4445,5,10000,50,NULL,2021-10-21
+Gong21,BNT_infected,S:5F+95I+253G+484K+614G+701V,Table S2,Pseudovirus (HIV),NT50,1686,5,10000,50,NULL,2021-10-21
+Gong21,BNT_infected,S:13I+152C+452R+614G,Table S2,Pseudovirus (HIV),NT50,2591,5,10000,50,NULL,2021-10-21
+Gong21,BNT_infected,S:452R+484Q+614G,Table S2,Pseudovirus (HIV),NT50,2795,5,10000,50,NULL,2021-10-21
+Gong21,BNT_infected,S:154K+452R+484Q+614G+681R,Table S2,Pseudovirus (HIV),NT50,2489,5,10000,50,NULL,2021-10-21
+Gong21,BNT_infected,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Table S2,Pseudovirus (HIV),NT50,601,5,10000,50,NULL,2021-10-21
