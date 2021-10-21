@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gidari21,BNT_2dose,20E.EU1,Figure 2A,Virus isolate,NT50,80,90,640,10,NULL,2021-10-21
+Gidari21,BNT_2dose,P.1 full genome,Figure 2A,Virus isolate,NT50,20,90,640,10,NULL,2021-10-21
+Gidari21,BNT_2dose,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,80,90,640,10,NULL,2021-10-21
+Gidari21,CP,20E.EU1,Figure 2A,Virus isolate,NT50,160,90,640,10,NULL,2021-10-21
+Gidari21,CP,P.1 full genome,Figure 2A,Virus isolate,NT50,20,90,640,10,NULL,2021-10-21
+Gidari21,CP,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,80,90,640,10,NULL,2021-10-21
+Gidari21,CP_high_titer_gt_160,20E.EU1,Figure 2A,Virus isolate,NT50,160,64,640,10,NULL,2021-10-21
+Gidari21,CP_high_titer_gt_160,P.1 full genome,Figure 2A,Virus isolate,NT50,40,64,640,10,NULL,2021-10-21
+Gidari21,CP_high_titer_gt_160,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,160,64,640,10,NULL,2021-10-21
+Gidari21,CP_Gamma_infection,20E.EU1,Figure 2A,Virus isolate,NT50,20,25,640,10,NULL,2021-10-21
+Gidari21,CP_Gamma_infection,P.1 full genome,Figure 2A,Virus isolate,NT50,40,25,640,10,NULL,2021-10-21
+Gidari21,CP_Gamma_infection,B.1.1.7 full genome,Figure 2A,Virus isolate,NT50,20,25,640,10,NULL,2021-10-21
