@@ -2,6 +2,9 @@ var_name,as_wildtype,consensus_availability
 B.1.1.298,FALSE,TRUE
 Alpha,FALSE,TRUE
 Alpha/E484K,FALSE,TRUE
+Alpha/E484A,FALSE,TRUE
+Alpha/Q493R,FALSE,TRUE
+Alpha/S494P,FALSE,TRUE
 Beta,FALSE,TRUE
 Beta w/o K417N,FALSE,TRUE
 Epsilon,FALSE,TRUE
