@@ -1,0 +1,29 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Miyakawa21b,BNT_2dose,S:614G,Figure 1A,hiVNT,NT50,261,19,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose,B.1.621 Spike,Figure 1A,hiVNT,NT50,56,19,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,102,19,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose,B.1.351 Spike,Figure 1A,hiVNT,NT50,29,19,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose,P.1 Spike,Figure 1A,hiVNT,NT50,69,19,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,157,19,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose,C.37 Spike,Figure 1A,hiVNT,NT50,151,19,1000,20,NULL,2021-10-21
+Miyakawa21b,Casirivimab,S:614G,Figure 1C,Pseudovirus,IC50,89,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Casirivimab,B.1.621 Spike,Figure 1C,Pseudovirus,IC50,554,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Casirivimab,B.1.1.7 Spike,Figure 1C,Pseudovirus,IC50,77,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Casirivimab,B.1.351 Spike,Figure 1C,Pseudovirus,IC50,1096,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Casirivimab,P.1 Spike,Figure 1C,Pseudovirus,IC50,1479,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Casirivimab,B.1.617.2 Spike,Figure 1C,Pseudovirus,IC50,84,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Casirivimab,C.37 Spike,Figure 1C,Pseudovirus,IC50,83,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Imdevimab,S:614G,Figure 1C,Pseudovirus,IC50,65,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Imdevimab,B.1.621 Spike,Figure 1C,Pseudovirus,IC50,64,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Imdevimab,B.1.1.7 Spike,Figure 1C,Pseudovirus,IC50,20,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Imdevimab,B.1.351 Spike,Figure 1C,Pseudovirus,IC50,56,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Imdevimab,P.1 Spike,Figure 1C,Pseudovirus,IC50,20,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Imdevimab,B.1.617.2 Spike,Figure 1C,Pseudovirus,IC50,96,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,Imdevimab,C.37 Spike,Figure 1C,Pseudovirus,IC50,119,1,1000000,0.01,ng/ml,2021-10-21
+Miyakawa21b,BNT_2dose_recovered,S:614G,Supplementary Figure S2,hiVNT,NT50,1226,6,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose_recovered,B.1.621 Spike,Supplementary Figure S2,hiVNT,NT50,293,6,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose_recovered,B.1.1.7 Spike,Supplementary Figure S2,hiVNT,NT50,893,6,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose_recovered,B.1.351 Spike,Supplementary Figure S2,hiVNT,NT50,400,6,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose_recovered,P.1 Spike,Supplementary Figure S2,hiVNT,NT50,1441,6,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose_recovered,B.1.617.2 Spike,Supplementary Figure S2,hiVNT,NT50,479,6,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose_recovered,C.37 Spike,Supplementary Figure S2,hiVNT,NT50,429,6,1000,20,NULL,2021-10-21

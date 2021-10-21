@@ -1189,6 +1189,8 @@ McCallum21c,mRNA-1273,Human,NULL,15
 Messali21,BNT,Human,NULL,37
 Miyakawa21,BNT_infected,Human,NULL,6
 Miyakawa21,BNT_naive,Human,NULL,105
+Miyakawa21b,BNT_2dose,Human,NULL,19
+Miyakawa21b,BNT_2dose_recovered,Human,NULL,6
 Mlcochova21,AZD1222,Human,NULL,33
 Mlcochova21,BNT162b2,Human,NULL,32
 Mlcochova21,CP,Human,NULL,12
