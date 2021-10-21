@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Liu21k,BNT_2dose,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Liu21k,BNT_2dose,2nd dose,~,2021-01-21,USA,NULL,BNT162b2,NULL
+Liu21k,BNT_2dose,2nd dose isolation,~,2021-02-10,USA,NULL,NULL,NULL
