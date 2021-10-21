@@ -5,16 +5,17 @@ AZD1222,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,3
 AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,4
 AZD1222 + AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,5
 AZD1222 + BNT162b2,Mixed,,,2,6
-BBIBP-CorV,Inactivated virus,Sinopharm Beijing,China,2,7
-BBV152,Inactivated virus,Bharat Biotech,India,2,8
-CoronaVac,Inactivated virus,Sinovac Biotech,China,2,9
-NVX-CoV2373,Protein subunit,Novavax,United States,2,10
-MVC-COV1901,Protein subunit,Medigen Vaccine Biologics and Dynavax Technologies,Taiwan,2,11
-ZF2001,Protein subunit,Anhui Zhifei Longcom and Chinese Academy of Sciences,China,3,12
-Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,13
-Ad26.COV2.S,Viral vector,Janssen Vaccines,Netherlands,1,14
-mRNA-1273.211,mRNA,Moderna,United States,2,15
-mRNA-1273.351,mRNA,Moderna,United States,2,16
-mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,2,17
-BBV154,Viral vector,"Bharat Biotech, Washington University",India,2,18
-mRNA,mRNA,BioNTech or Moderna,,2,19
+AZD1222 + mRNA-1273,Mixed,,,2,7
+BBIBP-CorV,Inactivated virus,Sinopharm Beijing,China,2,8
+BBV152,Inactivated virus,Bharat Biotech,India,2,9
+CoronaVac,Inactivated virus,Sinovac Biotech,China,2,10
+NVX-CoV2373,Protein subunit,Novavax,United States,2,11
+MVC-COV1901,Protein subunit,Medigen Vaccine Biologics and Dynavax Technologies,Taiwan,2,12
+ZF2001,Protein subunit,Anhui Zhifei Longcom and Chinese Academy of Sciences,China,3,13
+Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,14
+Ad26.COV2.S,Viral vector,Janssen Vaccines,Netherlands,1,15
+mRNA-1273.211,mRNA,Moderna,United States,2,16
+mRNA-1273.351,mRNA,Moderna,United States,2,17
+mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,2,18
+BBV154,Viral vector,"Bharat Biotech, Washington University",India,2,19
+mRNA,mRNA,BioNTech or Moderna,,2,20

@@ -545,6 +545,14 @@ Edara21c,mRNA-1273_7,Human,NULL,1
 Edara21c,mRNA-1273_8,Human,NULL,1
 Edara21c,mRNA-1273_9,Human,NULL,1
 Emary21,AZD1222,Human,NULL,49
+Fabricius21,AZD1222_2dose,Human,1968,11
+Fabricius21,AZD1222_BNT,Human,1977,23
+Fabricius21,AZD1222_mRNA,Human,1988,23
+Fabricius21,BNT_2dose,Human,1970,23
+Fabricius21,BNT_infected,Human,1975,25
+Fabricius21,BNT_naive,Human,1974,15
+Fabricius21,CP,Human,1989,20
+Fabricius21,mRNA_2dose,Human,1976,23
 Falsey21,BNT162b2_55Yr,Human,39,11
 Falsey21,BNT162b2_65Yr,Human,39,12
 Faulkner21,CP_B.1.1.7,Human,NULL,29

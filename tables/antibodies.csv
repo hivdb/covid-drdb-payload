@@ -1,6 +1,4 @@
 ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,visibility,date_added
-C126,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-10-20
-COV2-2531,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-10-20
 0304-3H3,NULL,NULL,NULL,Beijing Institute of Biotechnology,CP,5000,FALSE,2021-04-27
 1-20,NULL,NULL,NULL,Columbia University,CP,5000,FALSE,2021-01-27
 1-57,NULL,NULL,NULL,Columbia University,CP,5000,FALSE,2021-01-27
@@ -215,6 +213,7 @@ C105,NULL,NULL,NULL,Rockefeller University,CP,5000,FALSE,2021-04-07
 C110,NULL,NULL,NULL,Rockefeller University,CP,5000,FALSE,2021-04-07
 C119,NULL,NULL,NULL,Rockefeller University,CP,5000,FALSE,2021-01-27
 C121,NULL,NULL,NULL,Rockefeller University,CP,5000,FALSE,2021-01-27
+C126,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-10-20
 C12C9,NULL,NULL,NULL,,,5000,FALSE,2021-08-19
 C132,NULL,NULL,1.3,Rockefeller University,CP,5000,FALSE,2021-05-26
 C135,NULL,Phase 2,NULL,Rockefeller University,CP,9,TRUE,2021-01-27
@@ -274,6 +273,7 @@ COV2-2479,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021
 COV2-2489,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-02-19
 COV2-2490,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-08-19
 COV2-2499,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-01-27
+COV2-2531,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-10-20
 COV2-2676,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-02-19
 COV2-2677,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-03-25
 COV2-2832,NULL,NULL,NULL,Vanderbilt University Medical Center,CP,5000,FALSE,2021-01-27
