@@ -1,0 +1,17 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Moriyama21,REGN10933,hCoV-19/Japan/TY-WK-521/2020,Figure 3A,Virus isolate,IC50,941,1,100000,1,ng/ml,2021-10-21
+Moriyama21,REGN10933,hCoV-19/Japan/QHN002/2020,Figure 3A,Virus isolate,IC50,941,1,100000,1,ng/ml,2021-10-21
+Moriyama21,C002,hCoV-19/Japan/TY-WK-521/2020,Figure 3B,Virus isolate,IC50,1971,1,100000,1,ng/ml,2021-10-21
+Moriyama21,C002,hCoV-19/Japan/QHN002/2020,Figure 3B,Virus isolate,IC50,3208,1,100000,1,ng/ml,2021-10-21
+Moriyama21,REGN10987,hCoV-19/Japan/TY-WK-521/2020,Figure 3C,Virus isolate,IC50,2581,1,100000,1,ng/ml,2021-10-21
+Moriyama21,REGN10987,hCoV-19/Japan/QHN002/2020,Figure 3C,Virus isolate,IC50,590,1,100000,1,ng/ml,2021-10-21
+Moriyama21,COVA1-16,hCoV-19/Japan/TY-WK-521/2020,Figure 3D,Virus isolate,IC50,55262,1,100000,1,ng/ml,2021-10-21
+Moriyama21,COVA1-16,hCoV-19/Japan/QHN002/2020,Figure 3D,Virus isolate,IC50,100000,1,100000,1,ng/ml,2021-10-21
+Moriyama21,REGN10933,hCoV-19/Japan/TY7-503/2021,Figure 3E,Virus isolate,IC50,100000,1,100000,1,ng/ml,2021-10-21
+Moriyama21,C002,hCoV-19/Japan/TY7-503/2021,Figure 3F,Virus isolate,IC50,100000,1,100000,1,ng/ml,2021-10-21
+Moriyama21,REGN10987,hCoV-19/Japan/TY7-503/2021,Figure 3G,Virus isolate,IC50,136,1,100000,1,ng/ml,2021-10-21
+Moriyama21,COVA1-16,hCoV-19/Japan/TY7-503/2021,Figure 3H,Virus isolate,IC50,6629,1,100000,1,ng/ml,2021-10-21
+Moriyama21,REGN10933,hCoV-19/Japan/TY8-612-P0,Figure 3I,Virus isolate,IC50,100000,1,100000,1,ng/ml,2021-10-21
+Moriyama21,C002,hCoV-19/Japan/TY8-612-P0,Figure 3J,Virus isolate,IC50,100000,1,100000,1,ng/ml,2021-10-21
+Moriyama21,REGN10987,hCoV-19/Japan/TY8-612-P0,Figure 3K,Virus isolate,IC50,352,1,100000,1,ng/ml,2021-10-21
+Moriyama21,COVA1-16,hCoV-19/Japan/TY8-612-P0,Figure 3L,Virus isolate,IC50,3645,1,100000,1,ng/ml,2021-10-21
