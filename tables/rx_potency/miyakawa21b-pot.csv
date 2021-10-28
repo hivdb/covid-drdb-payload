@@ -1,11 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Miyakawa21b,BNT_2dose,S:614G,Figure 1A,hiVNT,NT50,261,19,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose,B.1.621 Spike,Figure 1A,hiVNT,NT50,56,19,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,102,19,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose,B.1.351 Spike,Figure 1A,hiVNT,NT50,29,19,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose,P.1 Spike,Figure 1A,hiVNT,NT50,69,19,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,157,19,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose,C.37 Spike,Figure 1A,hiVNT,NT50,151,19,1000,20,NULL,2021-10-21
 Miyakawa21b,Casirivimab,S:614G,Figure 1C,Pseudovirus,IC50,89,1,1000000,0.01,ng/ml,2021-10-21
 Miyakawa21b,Casirivimab,B.1.621 Spike,Figure 1C,Pseudovirus,IC50,554,1,1000000,0.01,ng/ml,2021-10-21
 Miyakawa21b,Casirivimab,B.1.1.7 Spike,Figure 1C,Pseudovirus,IC50,77,1,1000000,0.01,ng/ml,2021-10-21
@@ -20,10 +13,178 @@ Miyakawa21b,Imdevimab,B.1.351 Spike,Figure 1C,Pseudovirus,IC50,56,1,1000000,0.01
 Miyakawa21b,Imdevimab,P.1 Spike,Figure 1C,Pseudovirus,IC50,20,1,1000000,0.01,ng/ml,2021-10-21
 Miyakawa21b,Imdevimab,B.1.617.2 Spike,Figure 1C,Pseudovirus,IC50,96,1,1000000,0.01,ng/ml,2021-10-21
 Miyakawa21b,Imdevimab,C.37 Spike,Figure 1C,Pseudovirus,IC50,119,1,1000000,0.01,ng/ml,2021-10-21
-Miyakawa21b,BNT_2dose_recovered,S:614G,Supplementary Figure S2,hiVNT,NT50,1226,6,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose_recovered,B.1.621 Spike,Supplementary Figure S2,hiVNT,NT50,293,6,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose_recovered,B.1.1.7 Spike,Supplementary Figure S2,hiVNT,NT50,893,6,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose_recovered,B.1.351 Spike,Supplementary Figure S2,hiVNT,NT50,400,6,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose_recovered,P.1 Spike,Supplementary Figure S2,hiVNT,NT50,1441,6,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose_recovered,B.1.617.2 Spike,Supplementary Figure S2,hiVNT,NT50,479,6,1000,20,NULL,2021-10-21
-Miyakawa21b,BNT_2dose_recovered,C.37 Spike,Supplementary Figure S2,hiVNT,NT50,429,6,1000,20,NULL,2021-10-21
+Miyakawa21b,BNT_2dose_1,S:614G,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_2,S:614G,Figure 1A,hiVNT,NT50,153,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_3,S:614G,Figure 1A,hiVNT,NT50,457,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_4,S:614G,Figure 1A,hiVNT,NT50,551,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_5,S:614G,Figure 1A,hiVNT,NT50,70,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_6,S:614G,Figure 1A,hiVNT,NT50,1040,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_7,S:614G,Figure 1A,hiVNT,NT50,766,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_8,S:614G,Figure 1A,hiVNT,NT50,58,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_9,S:614G,Figure 1A,hiVNT,NT50,339,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_10,S:614G,Figure 1A,hiVNT,NT50,56,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_11,S:614G,Figure 1A,hiVNT,NT50,94,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_12,S:614G,Figure 1A,hiVNT,NT50,748,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_13,S:614G,Figure 1A,hiVNT,NT50,110,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_14,S:614G,Figure 1A,hiVNT,NT50,79,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_15,S:614G,Figure 1A,hiVNT,NT50,1357,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_16,S:614G,Figure 1A,hiVNT,NT50,294,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_17,S:614G,Figure 1A,hiVNT,NT50,191,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_18,S:614G,Figure 1A,hiVNT,NT50,260,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_19,S:614G,Figure 1A,hiVNT,NT50,1544,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_20,B.1.621 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_21,B.1.621 Spike,Figure 1A,hiVNT,NT50,65,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_22,B.1.621 Spike,Figure 1A,hiVNT,NT50,63,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_23,B.1.621 Spike,Figure 1A,hiVNT,NT50,55,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_24,B.1.621 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_25,B.1.621 Spike,Figure 1A,hiVNT,NT50,203,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_26,B.1.621 Spike,Figure 1A,hiVNT,NT50,124,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_27,B.1.621 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_28,B.1.621 Spike,Figure 1A,hiVNT,NT50,62,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_29,B.1.621 Spike,Figure 1A,hiVNT,NT50,24,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_30,B.1.621 Spike,Figure 1A,hiVNT,NT50,43,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_31,B.1.621 Spike,Figure 1A,hiVNT,NT50,19,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_32,B.1.621 Spike,Figure 1A,hiVNT,NT50,22,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_33,B.1.621 Spike,Figure 1A,hiVNT,NT50,37,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_34,B.1.621 Spike,Figure 1A,hiVNT,NT50,72,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_35,B.1.621 Spike,Figure 1A,hiVNT,NT50,94,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_36,B.1.621 Spike,Figure 1A,hiVNT,NT50,44,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_37,B.1.621 Spike,Figure 1A,hiVNT,NT50,103,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_38,B.1.621 Spike,Figure 1A,hiVNT,NT50,162,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_39,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_40,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,65,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_41,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,185,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_42,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,191,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_43,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,55,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_44,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,298,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_45,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,240,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_46,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,32,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_47,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,123,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_48,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,19,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_49,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,53,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_50,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,80,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_51,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,43,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_52,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,57,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_53,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,172,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_54,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,125,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_55,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,101,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_56,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,175,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_57,B.1.1.7 Spike,Figure 1A,hiVNT,NT50,432,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_58,B.1.351 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_59,B.1.351 Spike,Figure 1A,hiVNT,NT50,19,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_60,B.1.351 Spike,Figure 1A,hiVNT,NT50,23,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_61,B.1.351 Spike,Figure 1A,hiVNT,NT50,53,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_62,B.1.351 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_63,B.1.351 Spike,Figure 1A,hiVNT,NT50,175,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_64,B.1.351 Spike,Figure 1A,hiVNT,NT50,153,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_65,B.1.351 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_66,B.1.351 Spike,Figure 1A,hiVNT,NT50,61,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_67,B.1.351 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_68,B.1.351 Spike,Figure 1A,hiVNT,NT50,28,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_69,B.1.351 Spike,Figure 1A,hiVNT,NT50,19,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_70,B.1.351 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_71,B.1.351 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_72,B.1.351 Spike,Figure 1A,hiVNT,NT50,58,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_73,B.1.351 Spike,Figure 1A,hiVNT,NT50,45,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_74,B.1.351 Spike,Figure 1A,hiVNT,NT50,36,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_75,B.1.351 Spike,Figure 1A,hiVNT,NT50,59,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_76,B.1.351 Spike,Figure 1A,hiVNT,NT50,158,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_77,P.1 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_78,P.1 Spike,Figure 1A,hiVNT,NT50,54,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_79,P.1 Spike,Figure 1A,hiVNT,NT50,53,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_80,P.1 Spike,Figure 1A,hiVNT,NT50,112,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_81,P.1 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_82,P.1 Spike,Figure 1A,hiVNT,NT50,214,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_83,P.1 Spike,Figure 1A,hiVNT,NT50,256,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_84,P.1 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_85,P.1 Spike,Figure 1A,hiVNT,NT50,160,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_86,P.1 Spike,Figure 1A,hiVNT,NT50,19,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_87,P.1 Spike,Figure 1A,hiVNT,NT50,37,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_88,P.1 Spike,Figure 1A,hiVNT,NT50,68,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_89,P.1 Spike,Figure 1A,hiVNT,NT50,43,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_90,P.1 Spike,Figure 1A,hiVNT,NT50,44,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_91,P.1 Spike,Figure 1A,hiVNT,NT50,105,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_92,P.1 Spike,Figure 1A,hiVNT,NT50,68,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_93,P.1 Spike,Figure 1A,hiVNT,NT50,71,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_94,P.1 Spike,Figure 1A,hiVNT,NT50,102,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_95,P.1 Spike,Figure 1A,hiVNT,NT50,337,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_96,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_97,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,60,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_98,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,429,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_99,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,166,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_100,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,39,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_101,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,168,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_102,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,374,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_103,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,42,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_104,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,107,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_105,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,39,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_106,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,41,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_107,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,164,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_108,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,59,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_109,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,156,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_110,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,454,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_111,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,198,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_112,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,74,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_113,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,1165,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_114,B.1.617.2 Spike,Figure 1A,hiVNT,NT50,766,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_115,C.37 Spike,Figure 1A,hiVNT,NT50,9,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_116,C.37 Spike,Figure 1A,hiVNT,NT50,85,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_117,C.37 Spike,Figure 1A,hiVNT,NT50,145,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_118,C.37 Spike,Figure 1A,hiVNT,NT50,191,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_119,C.37 Spike,Figure 1A,hiVNT,NT50,80,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_120,C.37 Spike,Figure 1A,hiVNT,NT50,392,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_121,C.37 Spike,Figure 1A,hiVNT,NT50,337,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_122,C.37 Spike,Figure 1A,hiVNT,NT50,53,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_123,C.37 Spike,Figure 1A,hiVNT,NT50,162,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_124,C.37 Spike,Figure 1A,hiVNT,NT50,33,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_125,C.37 Spike,Figure 1A,hiVNT,NT50,46,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_126,C.37 Spike,Figure 1A,hiVNT,NT50,150,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_127,C.37 Spike,Figure 1A,hiVNT,NT50,60,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_128,C.37 Spike,Figure 1A,hiVNT,NT50,143,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_129,C.37 Spike,Figure 1A,hiVNT,NT50,269,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_130,C.37 Spike,Figure 1A,hiVNT,NT50,262,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_131,C.37 Spike,Figure 1A,hiVNT,NT50,172,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_132,C.37 Spike,Figure 1A,hiVNT,NT50,636,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_133,C.37 Spike,Figure 1A,hiVNT,NT50,657,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_134,S:614G,Supplementary Figure S2,hiVNT,NT50,1424,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_135,S:614G,Supplementary Figure S2,hiVNT,NT50,968,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_136,S:614G,Supplementary Figure S2,hiVNT,NT50,1016,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_137,S:614G,Supplementary Figure S2,hiVNT,NT50,915,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_138,S:614G,Supplementary Figure S2,hiVNT,NT50,4616,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_139,S:614G,Supplementary Figure S2,hiVNT,NT50,3655,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_140,B.1.621 Spike,Supplementary Figure S2,hiVNT,NT50,952,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_141,B.1.621 Spike,Supplementary Figure S2,hiVNT,NT50,151,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_142,B.1.621 Spike,Supplementary Figure S2,hiVNT,NT50,92,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_143,B.1.621 Spike,Supplementary Figure S2,hiVNT,NT50,67,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_144,B.1.621 Spike,Supplementary Figure S2,hiVNT,NT50,484,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_145,B.1.621 Spike,Supplementary Figure S2,hiVNT,NT50,432,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_146,B.1.1.7 Spike,Supplementary Figure S2,hiVNT,NT50,1155,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_147,B.1.1.7 Spike,Supplementary Figure S2,hiVNT,NT50,392,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_148,B.1.1.7 Spike,Supplementary Figure S2,hiVNT,NT50,626,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_149,B.1.1.7 Spike,Supplementary Figure S2,hiVNT,NT50,454,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_150,B.1.1.7 Spike,Supplementary Figure S2,hiVNT,NT50,1647,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_151,B.1.1.7 Spike,Supplementary Figure S2,hiVNT,NT50,3318,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_152,B.1.351 Spike,Supplementary Figure S2,hiVNT,NT50,937,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_153,B.1.351 Spike,Supplementary Figure S2,hiVNT,NT50,204,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_154,B.1.351 Spike,Supplementary Figure S2,hiVNT,NT50,188,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_155,B.1.351 Spike,Supplementary Figure S2,hiVNT,NT50,95,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_156,B.1.351 Spike,Supplementary Figure S2,hiVNT,NT50,707,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_157,B.1.351 Spike,Supplementary Figure S2,hiVNT,NT50,592,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_158,P.1 Spike,Supplementary Figure S2,hiVNT,NT50,2200,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_159,P.1 Spike,Supplementary Figure S2,hiVNT,NT50,516,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_160,P.1 Spike,Supplementary Figure S2,hiVNT,NT50,326,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_161,P.1 Spike,Supplementary Figure S2,hiVNT,NT50,673,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_162,P.1 Spike,Supplementary Figure S2,hiVNT,NT50,3805,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_163,P.1 Spike,Supplementary Figure S2,hiVNT,NT50,3510,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_164,B.1.617.2 Spike,Supplementary Figure S2,hiVNT,NT50,945,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_165,B.1.617.2 Spike,Supplementary Figure S2,hiVNT,NT50,232,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_166,B.1.617.2 Spike,Supplementary Figure S2,hiVNT,NT50,211,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_167,B.1.617.2 Spike,Supplementary Figure S2,hiVNT,NT50,164,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_168,B.1.617.2 Spike,Supplementary Figure S2,hiVNT,NT50,730,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_169,B.1.617.2 Spike,Supplementary Figure S2,hiVNT,NT50,718,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_170,C.37 Spike,Supplementary Figure S2,hiVNT,NT50,1155,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_171,C.37 Spike,Supplementary Figure S2,hiVNT,NT50,229,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_172,C.37 Spike,Supplementary Figure S2,hiVNT,NT50,168,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_173,C.37 Spike,Supplementary Figure S2,hiVNT,NT50,256,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_174,C.37 Spike,Supplementary Figure S2,hiVNT,NT50,636,1,1000,20,NULL,2021-10-28
+Miyakawa21b,BNT_2dose_recovered_175,C.37 Spike,Supplementary Figure S2,hiVNT,NT50,597,1,1000,20,NULL,2021-10-28
