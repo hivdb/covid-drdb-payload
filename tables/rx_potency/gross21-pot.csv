@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gross21,ChAdOx1_BNT162b2,B.1.1.7 Spike,Figure 2F,Pseudovirus (VSV),NT50,1214,26,32768,20,NULL,2021-08-06
+Gross21,ChAdOx1_BNT162b2,B.1.351 Spike,Figure 2F,Pseudovirus (VSV),NT50,791,26,32768,20,NULL,2021-08-06
+Gross21,ChAdOx1_BNT162b2,B.1.617 Spike,Figure 2F,Pseudovirus (VSV),NT50,1214,26,32768,20,NULL,2021-08-06
+Gross21,BNT162b2_2x,B.1.1.7 Spike,Figure 2F,Pseudovirus (VSV),NT50,361,12,32768,20,NULL,2021-08-06
+Gross21,BNT162b2_2x,B.1.351 Spike,Figure 2F,Pseudovirus (VSV),NT50,153,12,32768,20,NULL,2021-08-06
+Gross21,BNT162b2_2x,B.1.617 Spike,Figure 2F,Pseudovirus (VSV),NT50,1052,12,32768,20,NULL,2021-08-06
