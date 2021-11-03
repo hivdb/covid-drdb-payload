@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Parry21,BNT162b2,1st dose,~,2021-01-01,Finland,NULL,BNT162b2,NULL
+Parry21,BNT162b2,2nd dose,~,2021-01-21,Finland,NULL,BNT162b2,NULL
+Parry21,BNT162b2,2nd dose isolation,~,2021-02-04,Finland,NULL,NULL,NULL
