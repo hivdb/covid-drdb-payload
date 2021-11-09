@@ -1,0 +1,6 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Torres21,J08,S:614G,Figure 1F,Pseudovirus (lentivirus),IC50,22,1,10000,0.5,ng/ml,2021-11-09
+Torres21,J08,B.1.1.7 Spike,Figure 1F,Pseudovirus (lentivirus),IC50,77,1,10000,0.5,ng/ml,2021-11-09
+Torres21,J08,B.1.351 Spike,Figure 1F,Pseudovirus (lentivirus),IC50,499,1,10000,0.5,ng/ml,2021-11-09
+Torres21,J08,P.1 Spike,Figure 1F,Pseudovirus (lentivirus),IC50,147,1,10000,0.5,ng/ml,2021-11-09
+Torres21,J08,B.1.617.2 Spike,Figure 1F,Pseudovirus (lentivirus),IC50,226,1,10000,0.5,ng/ml,2021-11-09
