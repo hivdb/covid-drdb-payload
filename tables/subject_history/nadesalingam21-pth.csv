@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Nadesalingam21,Vaccinee,1st dose,~,2021-04-01,UK,NULL,BNT162b2 or AZD1222,NULL
+Nadesalingam21,Vaccinee,1st dose isolation,~,2021-04-30,UK,NULL,NULL,NULL
+Nadesalingam21,Infected,infection,~,2020-12-31,UK,B.1 full genome,NULL,NULL
+Nadesalingam21,Infected,1st dose,~,2021-04-01,UK,NULL,BNT162b2 or AZD1222,NULL
+Nadesalingam21,Infected,1st dose isolation,~,2021-04-30,UK,NULL,NULL,NULL

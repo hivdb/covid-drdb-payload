@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Nadesalingam21,Immunodeficient,S:614G,Appendix Figure,Pseudovirus,NT50,1.8,91,10000,1,NULL,2021-11-09
+Nadesalingam21,Uninfected_vac,S:614G,Appendix Figure,Pseudovirus,NT50,8.1,94,10000,1,NULL,2021-11-09
+Nadesalingam21,Infected_vac,S:614G,Appendix Figure,Pseudovirus,NT50,1365,48,10000,1,NULL,2021-11-09
+Nadesalingam21,Immunodeficient,B.1.1.7 Spike,Appendix Figure,Pseudovirus,NT50,1.3,91,10000,1,NULL,2021-11-09
+Nadesalingam21,Uninfected_vac,B.1.1.7 Spike,Appendix Figure,Pseudovirus,NT50,8,94,10000,1,NULL,2021-11-09
+Nadesalingam21,Infected_vac,B.1.1.7 Spike,Appendix Figure,Pseudovirus,NT50,1407,48,10000,1,NULL,2021-11-09
+Nadesalingam21,Immunodeficient,B.1.351 Spike,Appendix Figure,Pseudovirus,NT50,1.1,91,10000,1,NULL,2021-11-09
+Nadesalingam21,Uninfected_vac,B.1.351 Spike,Appendix Figure,Pseudovirus,NT50,1.5,94,10000,1,NULL,2021-11-09
+Nadesalingam21,Infected_vac,B.1.351 Spike,Appendix Figure,Pseudovirus,NT50,414,48,10000,1,NULL,2021-11-09
+Nadesalingam21,Immunodeficient,P.1 Spike,Appendix Figure,Pseudovirus,NT50,1,91,10000,1,NULL,2021-11-09
+Nadesalingam21,Uninfected_vac,P.1 Spike,Appendix Figure,Pseudovirus,NT50,1.6,94,10000,1,NULL,2021-11-09
+Nadesalingam21,Infected_vac,P.1 Spike,Appendix Figure,Pseudovirus,NT50,279,48,10000,1,NULL,2021-11-09
