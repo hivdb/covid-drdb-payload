@@ -1,0 +1,15 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ren21,CP_Group1,S:614G,Figure 3A,Pseudovirus (MLV),NT50,2965,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group1,S:154K+452R+484Q+614G+681R,Figure 3A,Pseudovirus (lentivirus),NT50,1626,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group1,S:154K,Figure 3A,Pseudovirus (lentivirus),NT50,2741,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group1,S:452R,Figure 3A,Pseudovirus (lentivirus),NT50,1650,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group1,S:484Q,Figure 3A,Pseudovirus (lentivirus),NT50,1173,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group1,S:452R+484Q,Figure 3A,Pseudovirus (lentivirus),NT50,848,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group1,S:681R,Figure 3A,Pseudovirus (lentivirus),NT50,1594,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group2,S:614G,Figure 3B,Pseudovirus (lentivirus),NT50,2810,10,100000,10,NULL,2021-11-09
+Ren21,CP_Group2,S:452R+478K+681R,Figure 3B,Pseudovirus (lentivirus),NT50,951,10,100000,10,NULL,2021-11-09
+Ren21,CP_Group2,S:478K,Figure 3B,Pseudovirus (lentivirus),NT50,1434,10,100000,10,NULL,2021-11-09
+Ren21,CP_Group3,S:614G,Figure 3C,Pseudovirus (lentivirus),NT50,2599,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group3,S:145del+146del+484K+614G,Figure 3C,Pseudovirus (lentivirus),NT50,797,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group3,S:145del+146del,Figure 3C,Pseudovirus (lentivirus),NT50,1545,9,100000,10,NULL,2021-11-09
+Ren21,CP_Group3,S:484K,Figure 3C,Pseudovirus (lentivirus),NT50,1127,9,100000,10,NULL,2021-11-09
