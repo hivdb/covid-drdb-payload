@@ -28,6 +28,10 @@ Arora21,Casirivimab
 Arora21,Imdevimab
 Arora21,Bamlanivimab
 Arora21,Etesevimab
+Arora21b,Casirivimab
+Arora21b,Imdevimab
+Arora21b,Bamlanivimab
+Arora21b,Etesevimab
 Baum20,REGN10989_Table1
 Baum20,REGN10987_Table1
 Baum20,REGN10933_Table1
@@ -1657,6 +1661,8 @@ Arora21,BNT_ID4872
 Arora21,BNT_ID4874
 Arora21,BNT_ID4876
 Arora21,BNT_ID4877
+Arora21b,CP
+Arora21b,BNT
 Arunachalam21,BNT_0
 Arunachalam21,BNT_1
 Arunachalam21,BNT_10
