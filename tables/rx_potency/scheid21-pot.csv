@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Scheid21,BG10-19,S:614G,Figure S2G,Pseudovirus (lentivirus),IC50,2,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG1-22,S:614G,Figure S2G,Pseudovirus (lentivirus),IC50,27,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG4-25,S:614G,Figure S2G,Pseudovirus (lentivirus),IC50,6,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG7-15,S:614G,Figure S2G,Pseudovirus (lentivirus),IC50,3,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG10-19,B.1.1.7 Spike,Figure S2G,Pseudovirus (lentivirus),IC50,1,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG1-22,B.1.1.7 Spike,Figure S2G,Pseudovirus (lentivirus),IC50,19,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG4-25,B.1.1.7 Spike,Figure S2G,Pseudovirus (lentivirus),IC50,6,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG7-15,B.1.1.7 Spike,Figure S2G,Pseudovirus (lentivirus),IC50,1,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG10-19,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC50,4,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG1-22,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC50,414,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG4-25,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC50,87,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG7-15,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC50,2,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG10-19,S:614G,Figure S2G,Pseudovirus (lentivirus),IC80,6,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG1-22,S:614G,Figure S2G,Pseudovirus (lentivirus),IC80,107,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG4-25,S:614G,Figure S2G,Pseudovirus (lentivirus),IC80,15,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG7-15,S:614G,Figure S2G,Pseudovirus (lentivirus),IC80,11,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG10-19,B.1.1.7 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,3,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG1-22,B.1.1.7 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,65,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG4-25,B.1.1.7 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,14,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG7-15,B.1.1.7 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,4,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG10-19,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,9,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG1-22,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,1679,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG4-25,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,336,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG7-15,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,4,1,10000,0.1,ng/ml,2021-11-10
