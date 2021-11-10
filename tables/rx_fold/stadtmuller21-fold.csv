@@ -1,0 +1,3 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Stadtmuller21,BNT162b2,hCoV-19/Germany/SN-RKI-I-178035/2021,hCoV-19/Germany/SN-RKI-I-038776/2021,Fig 5B,Virus isolate,NT50,=,1,NULL,NULL,7,2021-11-09
+Stadtmuller21,BNT162b2,hCoV-19/Germany/SN-RKI-I-178035/2021,hCoV-19/Germany/SN-UKDD-91348010S+/2021,Fig 5B,Virus isolate,NT50,=,3.2,NULL,NULL,7,2021-11-09
