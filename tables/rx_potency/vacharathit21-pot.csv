@@ -1,13 +1,13 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Vacharathit21,CoronaVac,Wuhan-Hu-1,Table 1,Virus isolate,NT50,640,60,100000,20,NULL,2021-08-18
-Vacharathit21,CoronaVac,B.1.1.7 full genome,Table 1,Virus isolate,NT50,40,60,100000,20,NULL,2021-08-18
-Vacharathit21,CoronaVac,B.1.351 full genome,Table 1,Virus isolate,NT50,20,60,100000,20,NULL,2021-08-18
-Vacharathit21,CoronaVac,B.1.617.2 full genome,Table 1,Virus isolate,NT50,10,60,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2020,Wuhan-Hu-1,Table 1,Virus isolate,NT50,2560,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2020,B.1.1.7 full genome,Table 1,Virus isolate,NT50,320,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2020,B.1.351 full genome,Table 1,Virus isolate,NT50,320,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2020,B.1.617.2 full genome,Table 1,Virus isolate,NT50,80,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2021,Wuhan-Hu-1,Table 1,Virus isolate,NT50,1280,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2021,B.1.1.7 full genome,Table 1,Virus isolate,NT50,640,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2021,B.1.351 full genome,Table 1,Virus isolate,NT50,480,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2021,B.1.617.2 full genome,Table 1,Virus isolate,NT50,160,30,100000,20,NULL,2021-08-18
+Vacharathit21,CoronaVac,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,640,60,100000,20,NULL,2021-08-18
+Vacharathit21,CoronaVac,B.1.1.7 full genome,Supplementary Table 2,Virus isolate,NT50,40,60,100000,20,NULL,2021-08-18
+Vacharathit21,CoronaVac,B.1.351 full genome,Supplementary Table 2,Virus isolate,NT50,20,60,100000,20,NULL,2021-08-18
+Vacharathit21,CoronaVac,B.1.617.2 full genome,Supplementary Table 2,Virus isolate,NT50,10,60,100000,20,NULL,2021-08-18
+Vacharathit21,CP_2020,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,2560,30,100000,20,NULL,2021-08-18
+Vacharathit21,CP_2020,B.1.1.7 full genome,Supplementary Table 2,Virus isolate,NT50,320,30,100000,20,NULL,2021-08-18
+Vacharathit21,CP_2020,B.1.351 full genome,Supplementary Table 2,Virus isolate,NT50,320,30,100000,20,NULL,2021-08-18
+Vacharathit21,CP_2020,B.1.617.2 full genome,Supplementary Table 2,Virus isolate,NT50,80,30,100000,20,NULL,2021-08-18
+Vacharathit21,CP_2021,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,1280,30,100000,20,NULL,2021-08-18
+Vacharathit21,CP_2021,B.1.1.7 full genome,Supplementary Table 2,Virus isolate,NT50,640,30,100000,20,NULL,2021-08-18
+Vacharathit21,CP_2021,B.1.351 full genome,Supplementary Table 2,Virus isolate,NT50,480,30,100000,20,NULL,2021-08-18
+Vacharathit21,CP_2021,B.1.617.2 full genome,Supplementary Table 2,Virus isolate,NT50,160,30,100000,20,NULL,2021-08-18
