@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Greaney21d,Early_infection,infection,~,2020-03-15,USA,B.1 full genome,NULL,NULL
+Greaney21d,Early_infection,isolation,~,2020-04-16,USA,NULL,NULL,NULL
+Greaney21d,Early_infection,isolation,~,2020-06-23,USA,NULL,NULL,NULL
+Greaney21d,B.1.351_infection,infection,~,2021-01-01,USA,B.1.351 full genome,NULL,NULL
+Greaney21d,B.1.351_infection,isolation,~,2021-02-02,USA,NULL,NULL,NULL
