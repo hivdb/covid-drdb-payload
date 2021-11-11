@@ -1,4 +1,4 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Stadtmuller21,BNT162b2,1st dose,~,2021-09-01,Germany,NULL,BNT162b2,NULL
-Stadtmuller21,BNT162b2,2nd dose,~,2021-09-21,Germany,NULL,BNT162b2,NULL
-Stadtmuller21,BNT162b2,2nd dose isolation,~,2021-10-05,Germany,NULL,NULL,NULL
+Stadtmueller21,BNT162b2,1st dose,~,2021-09-01,Germany,NULL,BNT162b2,NULL
+Stadtmueller21,BNT162b2,2nd dose,~,2021-09-21,Germany,NULL,BNT162b2,NULL
+Stadtmueller21,BNT162b2,2nd dose isolation,~,2021-10-05,Germany,NULL,NULL,NULL
