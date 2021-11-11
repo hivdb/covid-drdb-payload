@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Xie21b,VP,1st dose,~,2021-07-01,China,NULL,Inactivated,NULL
+Xie21b,VP,2nd dose,~,2021-08-01,China,NULL,Inactivated,NULL
+Xie21b,VP,2nd dose isolation,~,2021-09-01,China,NULL,NULL,NULL

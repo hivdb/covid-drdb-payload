@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Xie21b,VP,S:614G,Figure 1N,Pseudovirus,NT50,100,8,10000,10,NULL,2021-11-11
+Xie21b,VP,S:95I+144TS+145N+346K+484K+501Y+681H+950N,Figure 1N,Pseudovirus,NT50,46,8,10000,10,NULL,2021-11-11
+Xie21b,VP,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 1N,Pseudovirus,NT50,66,8,10000,10,NULL,2021-11-11
