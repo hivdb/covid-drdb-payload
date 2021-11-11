@@ -1,0 +1,17 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Haveri21,CP_Severe_lt60,hCoV-19/Finland/1/2020,Table 4,Virus isolate,NT50,27,22,NULL,6,NULL,2021-11-11
+Haveri21,CP_Severe_lt60,hCoV-19/Finland/THL-202102301/2021,Table 4,Virus isolate,NT50,21,22,NULL,6,NULL,2021-11-11
+Haveri21,CP_Severe_lt60,hCoV-19/Finland/THL-202101018/2021,Table 4,Virus isolate,NT50,8.1,22,NULL,6,NULL,2021-11-11
+Haveri21,CP_Severe_lt60,hCoV-19/Finland/THL-202117309/2021,Table 4,Virus isolate,NT50,10,22,NULL,6,NULL,2021-11-11
+Haveri21,CP_Severe_gt60,hCoV-19/Finland/1/2020,Table 4,Virus isolate,NT50,52,17,NULL,6,NULL,2021-11-11
+Haveri21,CP_Severe_gt60,hCoV-19/Finland/THL-202102301/2021,Table 4,Virus isolate,NT50,30,17,NULL,6,NULL,2021-11-11
+Haveri21,CP_Severe_gt60,hCoV-19/Finland/THL-202101018/2021,Table 4,Virus isolate,NT50,8,17,NULL,6,NULL,2021-11-11
+Haveri21,CP_Severe_gt60,hCoV-19/Finland/THL-202117309/2021,Table 4,Virus isolate,NT50,15,17,NULL,6,NULL,2021-11-11
+Haveri21,CP_Mild_lt60,hCoV-19/Finland/1/2020,Table 4,Virus isolate,NT50,15,22,NULL,6,NULL,2021-11-11
+Haveri21,CP_Mild_lt60,hCoV-19/Finland/THL-202102301/2021,Table 4,Virus isolate,NT50,8,22,NULL,6,NULL,2021-11-11
+Haveri21,CP_Mild_lt60,hCoV-19/Finland/THL-202101018/2021,Table 4,Virus isolate,NT50,3.6,22,NULL,6,NULL,2021-11-11
+Haveri21,CP_Mild_lt60,hCoV-19/Finland/THL-202117309/2021,Table 4,Virus isolate,NT50,4,22,NULL,6,NULL,2021-11-11
+Haveri21,CP_Mild_gt60,hCoV-19/Finland/1/2020,Table 4,Virus isolate,NT50,19,17,NULL,6,NULL,2021-11-11
+Haveri21,CP_Mild_gt60,hCoV-19/Finland/THL-202102301/2021,Table 4,Virus isolate,NT50,8.5,17,NULL,6,NULL,2021-11-11
+Haveri21,CP_Mild_gt60,hCoV-19/Finland/THL-202101018/2021,Table 4,Virus isolate,NT50,4.2,17,NULL,6,NULL,2021-11-11
+Haveri21,CP_Mild_gt60,hCoV-19/Finland/THL-202117309/2021,Table 4,Virus isolate,NT50,5.6,17,NULL,6,NULL,2021-11-11
