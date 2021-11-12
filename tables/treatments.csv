@@ -6622,6 +6622,12 @@ Kimura21,VP_051_3
 Kimura21,VP_056_3
 Kimura21,VP_057_3
 Kimura21,VP_078_3
+Kitchin21,Ad26.COV2.S_2m
+Kitchin21,Ad26.COV2.S_4m
+Kitchin21,Ad26.COV2.S_6m
+Kitchin21,Ad26.COV2.S_BTI_2m
+Kitchin21,Ad26.COV2.S_BTI_4m
+Kitchin21,Ad26.COV2.S_BTI_6m
 Kuzmina21,CP_01
 Kuzmina21,CP_02
 Kuzmina21,CP_03
@@ -10906,6 +10912,8 @@ Neumann21,mRNA-1273_2dose_8
 Neumann21,mRNA-1273_2dose_9
 Nguyen21,CP_first_wave
 Nguyen21,CP_second_wave
+Nguyen21,CP_first_wave_PV
+Nguyen21,CP_second_wave_PV
 Pannus21,Infected_Staff_1
 Pannus21,Infected_Staff_2
 Pannus21,Infected_Staff_3

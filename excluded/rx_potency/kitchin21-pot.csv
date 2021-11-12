@@ -1,0 +1,7 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Kitchin21,Ad26.COV2.S_2m,SARS-COV,Figure S2A,Pseudovirus (lentivirus),NT50,28,13,100000,20,NULL,2021-11-12
+Kitchin21,Ad26.COV2.S_4m,SARS-COV,Figure S2A,Pseudovirus (lentivirus),NT50,21,13,100000,20,NULL,2021-11-12
+Kitchin21,Ad26.COV2.S_6m,SARS-COV,Figure S2A,Pseudovirus (lentivirus),NT50,20,13,100000,20,NULL,2021-11-12
+Kitchin21,Ad26.COV2.S_BTI_2m,SARS-COV,Figure S2B,Pseudovirus (lentivirus),NT50,20,6,100000,20,NULL,2021-11-12
+Kitchin21,Ad26.COV2.S_BTI_4m,SARS-COV,Figure S2B,Pseudovirus (lentivirus),NT50,20,6,100000,20,NULL,2021-11-12
+Kitchin21,Ad26.COV2.S_BTI_6m,SARS-COV,Figure S2B,Pseudovirus (lentivirus),NT50,176,6,100000,20,NULL,2021-11-12

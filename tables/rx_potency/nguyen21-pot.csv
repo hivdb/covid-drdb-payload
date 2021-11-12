@@ -2,12 +2,12 @@
 Nguyen21,CP_first_wave,Wuhan-Hu-1,Figure 1A,Virus isolate,NT50,115,20,100000,10,NULL,2021-11-12
 Nguyen21,CP_first_wave,B.1.1.7 full genome,Figure 1A,Virus isolate,NT50,80,20,100000,10,NULL,2021-11-12
 Nguyen21,CP_first_wave,B.1.351 full genome,Figure 1A,Virus isolate,NT50,18,20,100000,10,NULL,2021-11-12
-Nguyen21,CP_first_wave,Wuhan-Hu-1,Figure 1B,Pseudovirus,NT50,370,20,100000,10,NULL,2021-11-12
-Nguyen21,CP_first_wave,B.1.1.7 Spike,Figure 1B,Pseudovirus,NT50,176,20,100000,10,NULL,2021-11-12
+Nguyen21,CP_first_wave_PV,Wuhan-Hu-1,Figure 1B,Pseudovirus,NT50,370,20,100000,10,NULL,2021-11-12
+Nguyen21,CP_first_wave_PV,B.1.1.7 Spike,Figure 1B,Pseudovirus,NT50,176,20,100000,10,NULL,2021-11-12
 Nguyen21,CP_first_wave,B.1.351 Spike,Figure 1B,Pseudovirus,NT50,53,20,100000,10,NULL,2021-11-12
 Nguyen21,CP_second_wave,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,108,55,100000,10,NULL,2021-11-12
 Nguyen21,CP_second_wave,B.1.1.7 full genome,Figure 1D,Virus isolate,NT50,275,55,100000,10,NULL,2021-11-12
 Nguyen21,CP_second_wave,B.1.351 full genome,Figure 1D,Virus isolate,NT50,24,55,100000,10,NULL,2021-11-12
-Nguyen21,CP_second_wave,Wuhan-Hu-1,Figure 1E,Pseudovirus,NT50,548,55,100000,10,NULL,2021-11-12
-Nguyen21,CP_second_wave,B.1.1.7 Spike,Figure 1E,Pseudovirus,NT50,1258,55,100000,10,NULL,2021-11-12
-Nguyen21,CP_second_wave,B.1.351 Spike,Figure 1E,Pseudovirus,NT50,126,55,100000,10,NULL,2021-11-12
+Nguyen21,CP_second_wave_PV,Wuhan-Hu-1,Figure 1E,Pseudovirus,NT50,548,55,100000,10,NULL,2021-11-12
+Nguyen21,CP_second_wave_PV,B.1.1.7 Spike,Figure 1E,Pseudovirus,NT50,1258,55,100000,10,NULL,2021-11-12
+Nguyen21,CP_second_wave_PV,B.1.351 Spike,Figure 1E,Pseudovirus,NT50,126,55,100000,10,NULL,2021-11-12
