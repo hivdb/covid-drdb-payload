@@ -1,0 +1,7 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Nguyen21,CP_first_wave,Wuhan-Hu-1,Figure 1C,HAT,NT50,286,20,100000,10,NULL,2021-11-12
+Nguyen21,CP_first_wave,B.1.1.7 full genome,Figure 1C,HAT,NT50,185,20,100000,10,NULL,2021-11-12
+Nguyen21,CP_first_wave,B.1.351 full genome,Figure 1C,HAT,NT50,74,20,100000,10,NULL,2021-11-12
+Nguyen21,CP_second_wave,Wuhan-Hu-1,Figure 1F,HAT,NT50,899,55,100000,10,NULL,2021-11-12
+Nguyen21,CP_second_wave,B.1.1.7 full genome,Figure 1F,HAT,NT50,699,55,100000,10,NULL,2021-11-12
+Nguyen21,CP_second_wave,B.1.351 full genome,Figure 1F,HAT,NT50,258,55,100000,10,NULL,2021-11-12
