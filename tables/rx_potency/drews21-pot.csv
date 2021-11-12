@@ -1,0 +1,73 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Drews21,CP_CIHR002290,S:614G,Table 1,Pseudovirus (lentivirus),NT50,161.68,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002377,S:614G,Table 1,Pseudovirus (lentivirus),NT50,150.29,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000491,S:614G,Table 1,Pseudovirus (lentivirus),NT50,1050.53,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000496,S:614G,Table 1,Pseudovirus (lentivirus),NT50,2430.13,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000503,S:614G,Table 1,Pseudovirus (lentivirus),NT50,975.61,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002076,S:614G,Table 1,Pseudovirus (lentivirus),NT50,7917.66,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002309,S:614G,Table 1,Pseudovirus (lentivirus),NT50,1762.11,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002774,S:614G,Table 1,Pseudovirus (lentivirus),NT50,1267.43,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002290,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),NT50,157.80,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002377,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),NT50,85.32,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000491,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),NT50,638.57,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000496,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),NT50,2293.58,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000503,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),NT50,410.00,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002076,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),NT50,2539.66,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002309,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),NT50,481.23,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002774,B.1.1.7 Spike,Table 1,Pseudovirus (lentivirus),NT50,723.59,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002290,B.1.351 Spike,Table 1,Pseudovirus (lentivirus),NT50,1,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002377,B.1.351 Spike,Table 1,Pseudovirus (lentivirus),NT50,1,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000491,B.1.351 Spike,Table 1,Pseudovirus (lentivirus),NT50,98.72,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000496,B.1.351 Spike,Table 1,Pseudovirus (lentivirus),NT50,116.8,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000503,B.1.351 Spike,Table 1,Pseudovirus (lentivirus),NT50,234.03,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002076,B.1.351 Spike,Table 1,Pseudovirus (lentivirus),NT50,396.35,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002309,B.1.351 Spike,Table 1,Pseudovirus (lentivirus),NT50,118.67,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002774,B.1.351 Spike,Table 1,Pseudovirus (lentivirus),NT50,263.02,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002290,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,1,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002377,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,1,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000491,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,109.33,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000496,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,129.38,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR000503,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,260.69,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002076,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,712.25,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002309,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,369.14,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002774,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,378.93,1,NULL,25,NULL,2021-11-11
+Drews21,CP_CIHR002290,Wuhan-Hu-1,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002377,Wuhan-Hu-1,Table 2,Pseudovirus (lentivirus),NT50,40,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000491,Wuhan-Hu-1,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000496,Wuhan-Hu-1,Table 2,Pseudovirus (lentivirus),NT50,320,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000503,Wuhan-Hu-1,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002076,Wuhan-Hu-1,Table 2,Pseudovirus (lentivirus),NT50,640,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002309,Wuhan-Hu-1,Table 2,Pseudovirus (lentivirus),NT50,640,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002774,Wuhan-Hu-1,Table 2,Pseudovirus (lentivirus),NT50,640,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002290,B.1.1.7 full genome,Table 2,Pseudovirus (lentivirus),NT50,40,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002377,B.1.1.7 full genome,Table 2,Pseudovirus (lentivirus),NT50,40,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000491,B.1.1.7 full genome,Table 2,Pseudovirus (lentivirus),NT50,320,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000496,B.1.1.7 full genome,Table 2,Pseudovirus (lentivirus),NT50,320,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000503,B.1.1.7 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002076,B.1.1.7 full genome,Table 2,Pseudovirus (lentivirus),NT50,640,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002309,B.1.1.7 full genome,Table 2,Pseudovirus (lentivirus),NT50,320,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002774,B.1.1.7 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002290,B.1.351 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002377,B.1.351 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000491,B.1.351 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000496,B.1.351 full genome,Table 2,Pseudovirus (lentivirus),NT50,40,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000503,B.1.351 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002076,B.1.351 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002309,B.1.351 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002774,B.1.351 full genome,Table 2,Pseudovirus (lentivirus),NT50,80,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002290,P.1 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002377,P.1 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000491,P.1 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000496,P.1 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000503,P.1 full genome,Table 2,Pseudovirus (lentivirus),NT50,80,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002076,P.1 full genome,Table 2,Pseudovirus (lentivirus),NT50,320,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002309,P.1 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002774,P.1 full genome,Table 2,Pseudovirus (lentivirus),NT50,40,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002290,B.1.617.2 full genome,Table 2,Pseudovirus (lentivirus),NT50,20,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002377,B.1.617.2 full genome,Table 2,Pseudovirus (lentivirus),NT50,40,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000491,B.1.617.2 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000496,B.1.617.2 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR000503,B.1.617.2 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002076,B.1.617.2 full genome,Table 2,Pseudovirus (lentivirus),NT50,640,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002309,B.1.617.2 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
+Drews21,CP_CIHR002774,B.1.617.2 full genome,Table 2,Pseudovirus (lentivirus),NT50,160,1,NULL,20,NULL,2021-11-11
