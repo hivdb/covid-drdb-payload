@@ -1,0 +1,22 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cele21b,CP_first_wave,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,941,9,100000,10,NULL,2021-11-16
+Cele21b,CP_first_wave,CELE21b_D190,Figure 1E,Virus isolate,NT50,101,9,100000,10,NULL,2021-11-16
+Cele21b,CP_first_wave,CELE21b_D20,Figure 1F,Virus isolate,NT50,511,9,100000,10,NULL,2021-11-16
+Cele21b,BNT,S:614G,Figure 1G,Virus isolate,NT50,274,12,100000,20,NULL,2021-11-16
+Cele21b,BNT,CELE21b_D190,Figure 1G,Virus isolate,NT50,55,12,100000,20,NULL,2021-11-16
+Cele21b,CP_first_wave_F2B,S:614G,Figure 2B,Virus isolate,NT50,447,8,1000,20,NULL,2021-11-16
+Cele21b,CP_first_wave_F2B,B.1.351 full genome,Figure 2B,Virus isolate,NT50,62,8,1000,20,NULL,2021-11-16
+Cele21b,CP_first_wave_F2C,S:614G,Figure 2C,Virus isolate,NT50,660,8,1000,20,NULL,2021-11-16
+Cele21b,CP_first_wave_F2C,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,328,8,1000,20,NULL,2021-11-16
+Cele21b,CP_first_wave_F2D,S:614G,Figure 2D,Virus isolate,NT50,519,8,1000,20,NULL,2021-11-16
+Cele21b,CP_first_wave_F2D,CELE21b_D190,Figure 2D,Virus isolate,NT50,59,8,1000,20,NULL,2021-11-16
+Cele21b,CP_Beta_F2E,B.1.351 full genome,Figure 2E,Virus isolate,NT50,1158,9,10000,20,NULL,2021-11-16
+Cele21b,CP_Beta_F2E,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,93,9,10000,20,NULL,2021-11-16
+Cele21b,CP_Beta_F2F,B.1.351 full genome,Figure 2F,Virus isolate,NT50,967,9,10000,20,NULL,2021-11-16
+Cele21b,CP_Beta_F2F,CELE21b_D190,Figure 2F,Virus isolate,NT50,369,9,10000,20,NULL,2021-11-16
+Cele21b,CP_Delta_F2G,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,2283,10,100000,20,NULL,2021-11-16
+Cele21b,CP_Delta_F2G,B.1.351 full genome,Figure 2G,Virus isolate,NT50,68,10,100000,20,NULL,2021-11-16
+Cele21b,CP_Delta_F2H,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,2283,10,100000,20,NULL,2021-11-16
+Cele21b,CP_Delta_F2H,CELE21b_D190,Figure 2H,Virus isolate,NT50,84,10,100000,20,NULL,2021-11-16
+Cele21b,CP_Delta,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Pseudovirus (lentivirus),NT50,13636,10,100000,50,NULL,2021-11-16
+Cele21b,CP_Delta,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Pseudovirus (lentivirus),NT50,523,10,100000,50,NULL,2021-11-16

@@ -1,0 +1,18 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Cele21b,Patient_adv_HIV,infection,=,2020-09-04,South Africa,S:614G,NULL,NULL
+Cele21b,Patient_adv_HIV,isolation,=,2020-09-30,South Africa,CELE21b_D0,NULL,NULL
+Cele21b,Patient_adv_HIV,isolation,=,2020-10-06,South Africa,Africa/KRISP-AHRI-K008646-D7/2020,NULL,NULL
+Cele21b,Patient_adv_HIV,isolation,=,2020-10-20,South Africa,CELE21b_D20,NULL,NULL
+Cele21b,Patient_adv_HIV,isolation,=,2020-11-03,South Africa,CELE21b_D34,NULL,NULL
+Cele21b,Patient_adv_HIV,isolation,=,2020-12-10,South Africa,CELE21b_D71,NULL,NULL
+Cele21b,Patient_adv_HIV,isolation,=,2021-01-14,South Africa,CELE21b_D106,NULL,NULL
+Cele21b,Patient_adv_HIV,isolation,=,2021-04-08,South Africa,CELE21b_D190,NULL,NULL
+Cele21b,CP_first_wave,infection,~,2020-09-01,South Africa,B.1 full genome,NULL,NULL
+Cele21b,CP_first_wave,isolation,~,2020-09-30,South Africa,B.1 full genome,NULL,NULL
+Cele21b,CP_Beta,infection,~,2021-03-01,South Africa,B.1.351 full genome,NULL,NULL
+Cele21b,CP_Beta,isolation,~,2021-03-31,South Africa,B.1.351 full genome,NULL,NULL
+Cele21b,CP_Delta,infection,~,2021-07-01,South Africa,B.1.617.2 full genome,NULL,NULL
+Cele21b,CP_Delta,isolation,~,2021-07-31,South Africa,B.1.617.2 full genome,NULL,NULL
+Cele21b,BNT,1st dose,~,2021-01-01,South Africa,NULL,BNT162b2,NULL
+Cele21b,BNT,2nd dose,~,2021-01-21,South Africa,NULL,BNT162b2,NULL
+Cele21b,BNT,2nd dose isolation,~,2021-04-08,South Africa,NULL,NULL,NULL
