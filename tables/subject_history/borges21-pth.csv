@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Borges21,Patient,infection,=,2020-06-10,Portugal,hCoV-19/Portugal/PT1525a/2020,NULL,NULL
+Borges21,Patient,isolation,=,2020-06-16,Portugal,hCoV-19/Portugal/PT1525a/2020,NULL,NULL
+Borges21,Patient,isolation,=,2020-11-26,Portugal,hCoV-19/Portugal/PT1525b/2020,NULL,NULL
