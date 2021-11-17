@@ -23,3 +23,44 @@ Scheid21,BG10-19,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,9,1,1000
 Scheid21,BG1-22,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,1679,1,10000,0.1,ng/ml,2021-11-10
 Scheid21,BG4-25,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,336,1,10000,0.1,ng/ml,2021-11-10
 Scheid21,BG7-15,B.1.351 Spike,Figure S2G,Pseudovirus (lentivirus),IC80,4,1,10000,0.1,ng/ml,2021-11-10
+Scheid21,BG10-19_7C,Wuhan-Hu-1,Figure 7C,Pseudovirus (lentivirus),IC50,15,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG10-19_7C,S:683G,Figure 7C,Pseudovirus (lentivirus),IC50,7,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG10-19_7C,S:439K,Figure 7C,Pseudovirus (lentivirus),IC50,9,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG10-19_7C,S:453F,Figure 7C,Pseudovirus (lentivirus),IC50,7,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG10-19_7C,S:501Y,Figure 7C,Pseudovirus (lentivirus),IC50,11,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG10-19_7C,S:417N+484K+501Y,Figure 7C,Pseudovirus (lentivirus),IC50,5,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG10-19_7C,S:614G,Figure 7C,Pseudovirus (lentivirus),IC50,34,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG10-19_7C,S:346S,Figure 7C,Pseudovirus (lentivirus),IC50,13,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:493R,Figure 7D,Pseudovirus (lentivirus),IC50,14,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:455R,Figure 7D,Pseudovirus (lentivirus),IC50,123,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:475V,Figure 7D,Pseudovirus (lentivirus),IC50,14,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:614G,Figure 7D,Pseudovirus (lentivirus),IC50,8,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:417N+484K+501Y,Figure 7D,Pseudovirus (lentivirus),IC50,2456,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:439K,Figure 7D,Pseudovirus (lentivirus),IC50,18,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:453F,Figure 7D,Pseudovirus (lentivirus),IC50,20,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:683G,Figure 7D,Pseudovirus (lentivirus),IC50,8,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,Wuhan-Hu-1,Figure 7D,Pseudovirus (lentivirus),IC50,32,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-22_7D,S:501Y,Figure 7D,Pseudovirus (lentivirus),IC50,27,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,S:614G,Figure 7E,Pseudovirus (lentivirus),IC50,5,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,S:455R,Figure 7E,Pseudovirus (lentivirus),IC50,9921,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,S:475V,Figure 7E,Pseudovirus (lentivirus),IC50,4,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,S:417N+484K+501Y,Figure 7E,Pseudovirus (lentivirus),IC50,315,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,S:439K,Figure 7E,Pseudovirus (lentivirus),IC50,12,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,S:453F,Figure 7E,Pseudovirus (lentivirus),IC50,11,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,S:683G,Figure 7E,Pseudovirus (lentivirus),IC50,6,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,Wuhan-Hu-1,Figure 7E,Pseudovirus (lentivirus),IC50,17,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG4-25_7E,S:501Y,Figure 7E,Pseudovirus (lentivirus),IC50,24,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-15_7F,S:439K,Figure 7F,Pseudovirus (lentivirus),IC50,49,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-15_7F,S:445E,Figure 7F,Pseudovirus (lentivirus),IC50,10000,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-15_7F,S:444Q,Figure 7F,Pseudovirus (lentivirus),IC50,10000,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-15_7F,Wuhan-Hu-1,Figure 7F,Pseudovirus (lentivirus),IC50,13,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-20_7G,S:484K+683G,Figure 7G,Pseudovirus (lentivirus),IC50,10000,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-20_7G,S:614G,Figure 7G,Pseudovirus (lentivirus),IC50,3,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-20_7G,S:417N+484K+501Y,Figure 7G,Pseudovirus (lentivirus),IC50,10000,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-20_7G,S:501Y,Figure 7G,Pseudovirus (lentivirus),IC50,11,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-20_7G,Wuhan-Hu-1,Figure 7G,Pseudovirus (lentivirus),IC50,12,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-20_7G,S:439K,Figure 7G,Pseudovirus (lentivirus),IC50,8,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-20_7G,S:683G,Figure 7G,Pseudovirus (lentivirus),IC50,3,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG7-20_7G,S:453F,Figure 7G,Pseudovirus (lentivirus),IC50,8,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-24_7H,S:484K+683G,Figure 7H,Pseudovirus (lentivirus),IC50,10000,1,10000,0.01,ng/ml,2021-11-15
+Scheid21,BG1-24_7H,S:683G,Figure 7H,Pseudovirus (lentivirus),IC50,2,1,10000,0.01,ng/ml,2021-11-15
