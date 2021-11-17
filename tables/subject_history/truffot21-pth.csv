@@ -1,0 +1,16 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Truffot21,Patient,1st dose,~,2021-03-12,France,NULL,BNT162b2,NULL
+Truffot21,Patient,infection,~,2021-03-29,France,B.1.1.7 full genome,NULL,NULL
+Truffot21,Patient,isolation,~,2021-04-04,France,B.1.1.7 full genome,NULL,NULL
+Truffot21,Patient,isolation,~,2021-04-07,France,S:69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-04-11,France,S:69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-04-12,France,S:69del+70del+144del+484Q+493R+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-04-16,France,S:69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-04-18,France,S:69del+70del+144del+484Q+493R+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-05-04,France,S:69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-05-10,France,S:69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-05-16,France,S:69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-05-23,France,S:69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Patient,isolation,~,2021-05-25,France,S:69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Truffot21,Donor,infection,<,2021-04-01,France,NULL,NULL,NULL
+Truffot21,Donor,isolation,<,2021-04-01,France,NULL,NULL,NULL
