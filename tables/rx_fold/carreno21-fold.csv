@@ -1,8 +1,0 @@
-﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
-Carreno21,mRNA_VP,WA1,S:95I+253G,Figure 1B,Virus isolate,NT50,=,1.4,NULL,NULL,30,2021-08-24
-Carreno21,mRNA_VP,WA1,S:95I+253G+477N,Figure 1B,Virus isolate,NT50,=,2.3,NULL,NULL,30,2021-08-24
-Carreno21,mRNA_VP,WA1,S:95I+253G+484K,Figure 1B,Virus isolate,NT50,=,1.8,NULL,NULL,30,2021-08-24
-Carreno21,mRNA_VP,WA1,S:69del+70del+144del+154Q+484K+501Y,Figure 1B,Virus isolate,NT50,=,3.8,NULL,NULL,30,2021-08-24
-Carreno21,mRNA_VP,WA1,S:142D+156del+157del+158G+452R+478K,Figure 1B,Virus isolate,NT50,=,3,NULL,NULL,30,2021-08-24
-Carreno21,mRNA_VP,WA1,S:80A+215G+242del+243del+244del+417N+484K+501Y,Figure 1B,Virus isolate,NT50,=,4.2,NULL,NULL,30,2021-08-24
-Carreno21,mRNA_VP,WA1,S:63del+64del+65del+66del+67del+68del+69del+70del+71del+72del+73del+74del+75del+246del+247del+248del+249del+250del+251del+252del+253N+452Q+471Q+490S,Figure 1B,Virus isolate,NT50,=,4.6,NULL,NULL,30,2021-08-24
