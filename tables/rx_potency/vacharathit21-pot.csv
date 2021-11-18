@@ -1,13 +1,351 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Vacharathit21,CoronaVac,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,640,60,100000,20,NULL,2021-08-18
-Vacharathit21,CoronaVac,B.1.1.7 full genome,Supplementary Table 2,Virus isolate,NT50,40,60,100000,20,NULL,2021-08-18
-Vacharathit21,CoronaVac,B.1.351 full genome,Supplementary Table 2,Virus isolate,NT50,20,60,100000,20,NULL,2021-08-18
-Vacharathit21,CoronaVac,B.1.617.2 full genome,Supplementary Table 2,Virus isolate,NT50,10,60,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2020,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,2560,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2020,B.1.1.7 full genome,Supplementary Table 2,Virus isolate,NT50,320,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2020,B.1.351 full genome,Supplementary Table 2,Virus isolate,NT50,320,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2020,B.1.617.2 full genome,Supplementary Table 2,Virus isolate,NT50,80,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2021,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,1280,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2021,B.1.1.7 full genome,Supplementary Table 2,Virus isolate,NT50,640,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2021,B.1.351 full genome,Supplementary Table 2,Virus isolate,NT50,480,30,100000,20,NULL,2021-08-18
-Vacharathit21,CP_2021,B.1.617.2 full genome,Supplementary Table 2,Virus isolate,NT50,160,30,100000,20,NULL,2021-08-18
+Vacharathit21,CoronaVac_1,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_2,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_3,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_4,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_5,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_6,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_7,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_8,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_9,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_10,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_11,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_12,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_13,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_14,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_15,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_16,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_17,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_18,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_19,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_20,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_21,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_22,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_23,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_24,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_25,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_26,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_27,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_28,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_29,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_30,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_31,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_32,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_33,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_34,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_35,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_36,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_37,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_38,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_39,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_40,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_41,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_42,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_43,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_1,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,20480,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_2,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,20480,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_3,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,10240,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_4,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,10240,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_5,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_6,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_7,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_8,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_9,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_10,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_11,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_12,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_13,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_14,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_15,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_16,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_17,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_18,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_19,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_20,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_21,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_22,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_23,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_24,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_25,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_26,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_27,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_1,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,10240,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_2,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_3,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_4,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_5,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_6,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_7,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_8,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_9,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_10,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_11,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_12,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_13,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_14,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_15,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_16,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_17,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_18,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_19,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_20,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_21,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_22,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_23,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_24,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_25,Wuhan-Hu-1,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_44,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_45,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_46,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_47,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_48,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_49,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_50,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_51,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_52,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_53,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_54,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_55,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_56,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_57,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_58,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_59,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_60,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_61,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_62,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_63,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_64,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_65,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_66,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_67,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_68,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_69,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_70,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_71,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_72,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_73,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_74,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_75,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_76,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_77,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_78,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_79,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_28,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_29,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_30,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_31,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_32,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_33,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_34,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_35,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_36,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_37,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_38,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_39,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_40,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_41,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_42,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_43,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_44,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_45,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_46,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_47,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_48,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_49,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_50,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_51,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_52,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_26,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_27,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_28,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_29,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_30,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_31,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_32,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_33,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_34,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_35,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_36,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_37,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_38,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_39,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_40,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_41,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_42,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_43,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_44,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_45,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_46,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_47,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_48,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_49,B.1.1.7 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_80,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_81,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_82,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_83,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_84,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_85,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_86,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_87,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_88,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_89,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_90,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_91,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_92,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_93,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_94,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_95,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_96,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_97,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_98,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_99,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_100,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_101,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_102,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_103,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_104,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_105,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_106,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_107,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_108,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_109,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_110,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_111,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_112,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_53,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,5120,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_54,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_55,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,2560,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_56,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_57,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_58,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_59,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_60,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_61,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_62,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_63,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_64,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_65,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_66,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_67,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_68,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_69,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_70,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_71,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_72,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_73,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_74,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_75,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_76,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_77,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_78,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_79,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_80,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_81,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_50,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10240,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_51,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_52,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_53,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_54,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_55,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_56,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_57,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_58,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_59,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_60,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_61,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_62,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_63,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_64,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_65,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_66,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_67,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_68,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_69,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_70,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_71,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_72,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_73,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_74,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_75,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_76,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_77,B.1.351 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_113,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_114,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_115,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_116,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_117,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_118,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_119,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_120,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_121,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_122,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_123,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_124,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_125,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_126,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_127,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_128,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_129,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_130,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_131,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_132,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_133,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_134,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_135,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_136,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_137,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_138,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_139,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_140,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_141,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CoronaVac_142,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_82,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,1280,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_83,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_84,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_85,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_86,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_87,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_88,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_89,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_90,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_91,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_92,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_93,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_94,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_95,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_96,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_97,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_98,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_99,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_100,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_101,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_102,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_103,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_104,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_105,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2020_106,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_78,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,640,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_79,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_80,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_81,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_82,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_83,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_84,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_85,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_86,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_87,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,320,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_88,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_89,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_90,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_91,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,160,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_92,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_93,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_94,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_95,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_96,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_97,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_98,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,40,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_99,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_100,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,20,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_101,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
+Vacharathit21,CP_2021_102,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,10,1,100000,20,NULL,2021-11-18
