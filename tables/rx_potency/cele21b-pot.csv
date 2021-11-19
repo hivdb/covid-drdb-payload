@@ -1,22 +1,205 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Cele21b,CP_first_wave,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,941,9,100000,10,NULL,2021-11-16
-Cele21b,CP_first_wave,CELE21b_D190,Figure 1E,Virus isolate,NT50,101,9,100000,10,NULL,2021-11-16
-Cele21b,CP_first_wave,CELE21b_D20,Figure 1F,Virus isolate,NT50,511,9,100000,10,NULL,2021-11-16
-Cele21b,BNT,S:614G,Figure 1G,Virus isolate,NT50,274,12,100000,20,NULL,2021-11-16
-Cele21b,BNT,CELE21b_D190,Figure 1G,Virus isolate,NT50,55,12,100000,20,NULL,2021-11-16
-Cele21b,CP_first_wave_F2B,S:614G,Figure 2B,Virus isolate,NT50,447,8,1000,20,NULL,2021-11-16
-Cele21b,CP_first_wave_F2B,B.1.351 full genome,Figure 2B,Virus isolate,NT50,62,8,1000,20,NULL,2021-11-16
-Cele21b,CP_first_wave_F2C,S:614G,Figure 2C,Virus isolate,NT50,660,8,1000,20,NULL,2021-11-16
-Cele21b,CP_first_wave_F2C,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,328,8,1000,20,NULL,2021-11-16
-Cele21b,CP_first_wave_F2D,S:614G,Figure 2D,Virus isolate,NT50,519,8,1000,20,NULL,2021-11-16
-Cele21b,CP_first_wave_F2D,CELE21b_D190,Figure 2D,Virus isolate,NT50,59,8,1000,20,NULL,2021-11-16
-Cele21b,CP_Beta_F2E,B.1.351 full genome,Figure 2E,Virus isolate,NT50,1158,9,10000,20,NULL,2021-11-16
-Cele21b,CP_Beta_F2E,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,93,9,10000,20,NULL,2021-11-16
-Cele21b,CP_Beta_F2F,B.1.351 full genome,Figure 2F,Virus isolate,NT50,967,9,10000,20,NULL,2021-11-16
-Cele21b,CP_Beta_F2F,CELE21b_D190,Figure 2F,Virus isolate,NT50,369,9,10000,20,NULL,2021-11-16
-Cele21b,CP_Delta_F2G,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,2283,10,100000,20,NULL,2021-11-16
-Cele21b,CP_Delta_F2G,B.1.351 full genome,Figure 2G,Virus isolate,NT50,68,10,100000,20,NULL,2021-11-16
-Cele21b,CP_Delta_F2H,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,2283,10,100000,20,NULL,2021-11-16
-Cele21b,CP_Delta_F2H,CELE21b_D190,Figure 2H,Virus isolate,NT50,84,10,100000,20,NULL,2021-11-16
-Cele21b,CP_Delta,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Pseudovirus (lentivirus),NT50,523,10,100000,50,NULL,2021-11-16
-Cele21b,CP_Delta,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Pseudovirus (lentivirus),NT50,13636,10,100000,50,NULL,2021-11-16
+Cele21b,CP_first_wave_F1E_1,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,113,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_2,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,257,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_3,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,276,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_4,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,282,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_5,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,434,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_6,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,738,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_7,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,1090,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_8,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,9311,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_9,Africa/KRISP-AHRI-K008646-D7/2020,Figure 1E,Virus isolate,NT50,80742,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_1,CELE21b_D190,Figure 1E,Virus isolate,NT50,40,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_2,CELE21b_D190,Figure 1E,Virus isolate,NT50,26,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_3,CELE21b_D190,Figure 1E,Virus isolate,NT50,74,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_4,CELE21b_D190,Figure 1E,Virus isolate,NT50,91,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_5,CELE21b_D190,Figure 1E,Virus isolate,NT50,85,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_6,CELE21b_D190,Figure 1E,Virus isolate,NT50,129,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_7,CELE21b_D190,Figure 1E,Virus isolate,NT50,121,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_8,CELE21b_D190,Figure 1E,Virus isolate,NT50,109,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1E_9,CELE21b_D190,Figure 1E,Virus isolate,NT50,1015,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_1,CELE21b_D20,Figure 1F,Virus isolate,NT50,84,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_2,CELE21b_D20,Figure 1F,Virus isolate,NT50,94,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_3,CELE21b_D20,Figure 1F,Virus isolate,NT50,116,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_4,CELE21b_D20,Figure 1F,Virus isolate,NT50,120,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_5,CELE21b_D20,Figure 1F,Virus isolate,NT50,172,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_6,CELE21b_D20,Figure 1F,Virus isolate,NT50,320,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_7,CELE21b_D20,Figure 1F,Virus isolate,NT50,482,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_8,CELE21b_D20,Figure 1F,Virus isolate,NT50,17926,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_9,CELE21b_D20,Figure 1F,Virus isolate,NT50,44544,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_1,CELE21b_D190,Figure 1F,Virus isolate,NT50,41,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_2,CELE21b_D190,Figure 1F,Virus isolate,NT50,91,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_3,CELE21b_D190,Figure 1F,Virus isolate,NT50,26,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_4,CELE21b_D190,Figure 1F,Virus isolate,NT50,75,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_5,CELE21b_D190,Figure 1F,Virus isolate,NT50,85,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_6,CELE21b_D190,Figure 1F,Virus isolate,NT50,130,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_7,CELE21b_D190,Figure 1F,Virus isolate,NT50,121,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_8,CELE21b_D190,Figure 1F,Virus isolate,NT50,110,1,100000,10,NULL,2021-11-19
+Cele21b,CP_first_wave_F1F_9,CELE21b_D190,Figure 1F,Virus isolate,NT50,1018,1,100000,10,NULL,2021-11-19
+Cele21b,BNT_1,S:614G,Figure 1G,Virus isolate,NT50,33,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_2,S:614G,Figure 1G,Virus isolate,NT50,102,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_3,S:614G,Figure 1G,Virus isolate,NT50,106,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_4,S:614G,Figure 1G,Virus isolate,NT50,137,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_5,S:614G,Figure 1G,Virus isolate,NT50,145,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_6,S:614G,Figure 1G,Virus isolate,NT50,181,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_7,S:614G,Figure 1G,Virus isolate,NT50,392,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_8,S:614G,Figure 1G,Virus isolate,NT50,419,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_9,S:614G,Figure 1G,Virus isolate,NT50,476,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_10,S:614G,Figure 1G,Virus isolate,NT50,624,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_11,S:614G,Figure 1G,Virus isolate,NT50,743,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_12,S:614G,Figure 1G,Virus isolate,NT50,4062,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_1,CELE21b_D190,Figure 1G,Virus isolate,NT50,7,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_2,CELE21b_D190,Figure 1G,Virus isolate,NT50,38,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_3,CELE21b_D190,Figure 1G,Virus isolate,NT50,46,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_4,CELE21b_D190,Figure 1G,Virus isolate,NT50,45,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_5,CELE21b_D190,Figure 1G,Virus isolate,NT50,39,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_6,CELE21b_D190,Figure 1G,Virus isolate,NT50,28,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_7,CELE21b_D190,Figure 1G,Virus isolate,NT50,79,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_8,CELE21b_D190,Figure 1G,Virus isolate,NT50,14,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_9,CELE21b_D190,Figure 1G,Virus isolate,NT50,148,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_10,CELE21b_D190,Figure 1G,Virus isolate,NT50,131,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_11,CELE21b_D190,Figure 1G,Virus isolate,NT50,85,1,100000,20,NULL,2021-11-19
+Cele21b,BNT_12,CELE21b_D190,Figure 1G,Virus isolate,NT50,837,1,100000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_1,S:614G,Figure 2B,Virus isolate,NT50,453,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_2,S:614G,Figure 2B,Virus isolate,NT50,135,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_3,S:614G,Figure 2B,Virus isolate,NT50,301,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_4,S:614G,Figure 2B,Virus isolate,NT50,1000,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_5,S:614G,Figure 2B,Virus isolate,NT50,910,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_6,S:614G,Figure 2B,Virus isolate,NT50,628,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_7,S:614G,Figure 2B,Virus isolate,NT50,236,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_8,S:614G,Figure 2B,Virus isolate,NT50,617,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_1,B.1.351 full genome,Figure 2B,Virus isolate,NT50,147,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_2,B.1.351 full genome,Figure 2B,Virus isolate,NT50,42,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_3,B.1.351 full genome,Figure 2B,Virus isolate,NT50,76,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_4,B.1.351 full genome,Figure 2B,Virus isolate,NT50,71,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_5,B.1.351 full genome,Figure 2B,Virus isolate,NT50,35,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_6,B.1.351 full genome,Figure 2B,Virus isolate,NT50,53,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_7,B.1.351 full genome,Figure 2B,Virus isolate,NT50,24,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2B_8,B.1.351 full genome,Figure 2B,Virus isolate,NT50,159,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_1,S:614G,Figure 2C,Virus isolate,NT50,239,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_2,S:614G,Figure 2C,Virus isolate,NT50,333,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_3,S:614G,Figure 2C,Virus isolate,NT50,403,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_4,S:614G,Figure 2C,Virus isolate,NT50,567,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_5,S:614G,Figure 2C,Virus isolate,NT50,673,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_6,S:614G,Figure 2C,Virus isolate,NT50,849,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_7,S:614G,Figure 2C,Virus isolate,NT50,929,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_8,S:614G,Figure 2C,Virus isolate,NT50,1421,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_9,S:614G,Figure 2C,Virus isolate,NT50,1694,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_1,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,155,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_2,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,136,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_3,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,166,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_4,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,346,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_5,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,465,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_6,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,302,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_7,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,124,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_8,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,1047,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2C_9,B.1.617.2 full genome,Figure 2C,Virus isolate,NT50,1750,1,10000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_1,S:614G,Figure 2D,Virus isolate,NT50,1709,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_2,S:614G,Figure 2D,Virus isolate,NT50,455,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_3,S:614G,Figure 2D,Virus isolate,NT50,136,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_4,S:614G,Figure 2D,Virus isolate,NT50,302,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_5,S:614G,Figure 2D,Virus isolate,NT50,1004,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_6,S:614G,Figure 2D,Virus isolate,NT50,914,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_7,S:614G,Figure 2D,Virus isolate,NT50,630,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_8,S:614G,Figure 2D,Virus isolate,NT50,237,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_9,S:614G,Figure 2D,Virus isolate,NT50,619,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_1,CELE21b_D190,Figure 2D,Virus isolate,NT50,520,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_2,CELE21b_D190,Figure 2D,Virus isolate,NT50,90,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_3,CELE21b_D190,Figure 2D,Virus isolate,NT50,33,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_4,CELE21b_D190,Figure 2D,Virus isolate,NT50,39,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_5,CELE21b_D190,Figure 2D,Virus isolate,NT50,28,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_6,CELE21b_D190,Figure 2D,Virus isolate,NT50,59,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_7,CELE21b_D190,Figure 2D,Virus isolate,NT50,43,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_8,CELE21b_D190,Figure 2D,Virus isolate,NT50,19,1,1000,20,NULL,2021-11-19
+Cele21b,CP_first_wave_F2D_9,CELE21b_D190,Figure 2D,Virus isolate,NT50,102,1,1000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_1,B.1.351 full genome,Figure 2E,Virus isolate,NT50,615,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_2,B.1.351 full genome,Figure 2E,Virus isolate,NT50,789,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_3,B.1.351 full genome,Figure 2E,Virus isolate,NT50,864,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_4,B.1.351 full genome,Figure 2E,Virus isolate,NT50,990,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_5,B.1.351 full genome,Figure 2E,Virus isolate,NT50,1431,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_6,B.1.351 full genome,Figure 2E,Virus isolate,NT50,1562,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_7,B.1.351 full genome,Figure 2E,Virus isolate,NT50,1731,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_8,B.1.351 full genome,Figure 2E,Virus isolate,NT50,1979,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_1,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,33,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_2,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,84,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_3,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,248,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_4,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,45,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_5,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,127,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_6,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,84,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_7,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,124,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2E_8,B.1.617.2 full genome,Figure 2E,Virus isolate,NT50,136,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_1,B.1.351 full genome,Figure 2F,Virus isolate,NT50,1303,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_2,B.1.351 full genome,Figure 2F,Virus isolate,NT50,271,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_3,B.1.351 full genome,Figure 2F,Virus isolate,NT50,697,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_4,B.1.351 full genome,Figure 2F,Virus isolate,NT50,860,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_5,B.1.351 full genome,Figure 2F,Virus isolate,NT50,866,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_6,B.1.351 full genome,Figure 2F,Virus isolate,NT50,1249,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_7,B.1.351 full genome,Figure 2F,Virus isolate,NT50,1430,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_8,B.1.351 full genome,Figure 2F,Virus isolate,NT50,1362,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_9,B.1.351 full genome,Figure 2F,Virus isolate,NT50,1522,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_1,CELE21b_D190,Figure 2F,Virus isolate,NT50,403,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_2,CELE21b_D190,Figure 2F,Virus isolate,NT50,209,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_3,CELE21b_D190,Figure 2F,Virus isolate,NT50,345,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_4,CELE21b_D190,Figure 2F,Virus isolate,NT50,270,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_5,CELE21b_D190,Figure 2F,Virus isolate,NT50,227,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_6,CELE21b_D190,Figure 2F,Virus isolate,NT50,462,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_7,CELE21b_D190,Figure 2F,Virus isolate,NT50,374,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_8,CELE21b_D190,Figure 2F,Virus isolate,NT50,835,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Beta_F2F_9,CELE21b_D190,Figure 2F,Virus isolate,NT50,462,1,10000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_1,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,1242,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_2,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,3583,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_3,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,433,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_4,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,1799,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_5,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,2754,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_6,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,3698,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_7,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,2007,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_8,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,24872,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_9,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,412,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_10,B.1.617.2 full genome,Figure 2G,Virus isolate,NT50,5315,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_1,B.1.351 full genome,Figure 2G,Virus isolate,NT50,449,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_2,B.1.351 full genome,Figure 2G,Virus isolate,NT50,203,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_3,B.1.351 full genome,Figure 2G,Virus isolate,NT50,22,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_4,B.1.351 full genome,Figure 2G,Virus isolate,NT50,48,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_5,B.1.351 full genome,Figure 2G,Virus isolate,NT50,63,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_6,B.1.351 full genome,Figure 2G,Virus isolate,NT50,145,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_7,B.1.351 full genome,Figure 2G,Virus isolate,NT50,39,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_8,B.1.351 full genome,Figure 2G,Virus isolate,NT50,184,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_9,B.1.351 full genome,Figure 2G,Virus isolate,NT50,6,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2G_10,B.1.351 full genome,Figure 2G,Virus isolate,NT50,54,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_1,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,408,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_2,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,426,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_3,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,1223,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_4,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,1790,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_5,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,1983,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_6,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,2729,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_7,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,3681,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_8,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,3585,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_9,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,5289,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_10,B.1.617.2 full genome,Figure 2H,Virus isolate,NT50,24887,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_1,CELE21b_D190,Figure 2H,Virus isolate,NT50,2,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_2,CELE21b_D190,Figure 2H,Virus isolate,NT50,44,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_3,CELE21b_D190,Figure 2H,Virus isolate,NT50,975,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_4,CELE21b_D190,Figure 2H,Virus isolate,NT50,87,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_5,CELE21b_D190,Figure 2H,Virus isolate,NT50,36,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_6,CELE21b_D190,Figure 2H,Virus isolate,NT50,80,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_7,CELE21b_D190,Figure 2H,Virus isolate,NT50,117,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_8,CELE21b_D190,Figure 2H,Virus isolate,NT50,193,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_9,CELE21b_D190,Figure 2H,Virus isolate,NT50,97,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_F2H_10,CELE21b_D190,Figure 2H,Virus isolate,NT50,310,1,100000,20,NULL,2021-11-19
+Cele21b,CP_Delta_1,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,27715,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_2,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,6594,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_3,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,5192,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_4,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,13533,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_5,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,7841,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_6,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,28646,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_7,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,54399,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_8,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,21442,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_9,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Figure 2I,Virus isolate,NT50,14334,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_1,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,434,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_2,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,420,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_3,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,50,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_4,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,157,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_5,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,92,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_6,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,29845,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_7,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,555,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_8,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,16399,1,100000,50,NULL,2021-11-19
+Cele21b,CP_Delta_9,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,Figure 2I,Virus isolate,NT50,177,1,100000,50,NULL,2021-11-19
