@@ -1,0 +1,11 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Payne21,BNT_Long,1st dose,~,2020-12-04,UK,NULL,BNT162b2,NULL
+Payne21,BNT_Long,1st dose isolation,~,2021-01-01,UK,NULL,NULL,NULL
+Payne21,BNT_Long,1st dose isolation,~,2021-02-12,UK,NULL,NULL,NULL
+Payne21,BNT_Long,2nd dose,~,2021-02-26,UK,NULL,BNT162b2,NULL
+Payne21,BNT_Long,2nd dose isolation,~,2021-03-26,UK,NULL,NULL,NULL
+Payne21,BNT_Short,1st dose,~,2020-12-04,UK,NULL,BNT162b2,NULL
+Payne21,BNT_Short,2nd dose,~,2021-12-25,UK,NULL,BNT162b2,NULL
+Payne21,BNT_Short,2nd dose isolation,~,2021-01-01,UK,NULL,NULL,NULL
+Payne21,BNT_Short,2nd dose isolation,~,2021-01-22,UK,NULL,NULL,NULL
+Payne21,BNT_Short,2nd dose isolation,~,2021-03-26,UK,NULL,NULL,NULL
