@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
+Baang21,Patient,Remdesivir,~,2020-06-03,~,2020-06-12,NULL,NULL
+Baang21,Patient,Donor_CP,~,2020-06-04,~,2020-06-04,NULL,NULL
+Baang21,Patient,Remdesivir,~,2020-09-03,~,2020-09-12,NULL,NULL
+Baang21,Patient,Donor_CP,~,2020-09-03,~,2020-09-03,NULL,NULL
