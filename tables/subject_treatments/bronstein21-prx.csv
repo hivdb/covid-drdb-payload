@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
+Bronstein21,Patient 1,Bamlanivimab,=,2021-01-22,=,2021-01-22,700,mg
+Bronstein21,Patient 1,Donor_CP,=,2021-01-29,=,2021-01-29,NULL,NULL
+Bronstein21,Patient 1,Donor_IVIG,=,2021-02-08,=,2021-02-12,NULL,NULL
+Bronstein21,Patient 1,Donor_CP,=,2021-02-12,=,2021-02-12,NULL,NULL
+Bronstein21,Patient 1,Remdesivir,=,2021-02-23,=,2021-02-27,NULL,NULL
+Bronstein21,Patient 2,Bamlanivimab,~,2021-03-03,=,2021-03-03,700,mg

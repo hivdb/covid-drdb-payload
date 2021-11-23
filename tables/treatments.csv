@@ -51,6 +51,7 @@ Bloom21,2B04
 Bloom21,2C02
 Bloom21,2C03
 Bloom21,2E06
+Bronstein21,Bamlanivimab
 Caniels21,COVA1-18
 Caniels21,COVA2-15
 Caniels21,COVA2-17
@@ -2401,6 +2402,8 @@ Behrens21,AZD1222_BNT_53
 Behrens21,AZD1222_BNT_54
 Behrens21,AZD1222_BNT_55
 Betton21,CP
+Bronstein21,Donor_CP
+Bronstein21,Donor_IVIG
 Brown21,CP_1
 Brown21,CP_2
 Brown21,CP_3
@@ -16500,9 +16503,6 @@ Zou21,CP_17
 Zou21,CP_18
 Zuckerman21,BNT162b2
 Zuckerman21b,BNT162b2
-Khatamzas21,None
-Weigang21,None
-Jensen21,None
 Kemp21,Remdesivir
 Weigang21,Ivermectin
 Weigang21,Remdesivir
@@ -16510,5 +16510,6 @@ Nussenblatt21,Remdesivir
 Borges21,Remdesivir
 Truffot21,Remdesivir
 Baang21,Remdesivir
+Bronstein21,Remdesivir
 Weisblum20,COV-NY
 Weisblum20,COV47
