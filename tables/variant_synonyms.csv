@@ -26,6 +26,8 @@ Iota w/o E484K,B.1.526 w/o E484K
 Iota/S477N w/o E484K,B.1.526/S477N w/o E484K
 Kappa,B.1.617.1
 Delta,B.1.617.2
+Delta,AY.4
+Delta,AY.4.2
 Gamma,P.1
 Zeta,P.2
 Theta,P.3
@@ -36,6 +38,7 @@ Delta/K417N,AY.1
 Delta/K417N,Delta plus
 Delta/E484Q,B.1.617.2/E484Q
 Delta/Q613H,B.1.617.2/Q613H
+Delta/E484K,B.1.617.2/E484K
 A,WA1
 Mu,B.1.621
 B.1.177,20E.EU1
