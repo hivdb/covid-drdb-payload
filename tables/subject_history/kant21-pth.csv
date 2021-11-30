@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Kant21,Covishield,1st dose,~,2021-05-01,India,NULL,AZD1222,NULL
+Kant21,Covishield,2nd dose,~,2021-06-01,India,NULL,AZD1222,NULL
+Kant21,Covishield,2nd dose isolation,~,2021-06-15,India,NULL,NULL,NULL
+Kant21,Covaxin,1st dose,~,2021-05-01,India,NULL,BBV152,NULL
+Kant21,Covaxin,2nd dose,~,2021-06-01,India,NULL,BBV152,NULL
+Kant21,Covaxin,2nd dose isolation,~,2021-06-15,India,NULL,NULL,NULL
+Kant21,Covishield_vovaxin,1st dose,~,2021-05-01,India,NULL,AZD1222,NULL
+Kant21,Covishield_vovaxin,2nd dose,~,2021-06-13,India,NULL,BBV152,NULL
+Kant21,Covishield_vovaxin,2nd dose isolation,~,2021-06-28,India,NULL,NULL,NULL

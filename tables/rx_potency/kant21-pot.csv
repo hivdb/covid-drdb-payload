@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Kant21,Covishield_2dose,hCoV-19/India/2020770,Figure 4d,Virus isolate,NT50,162,40,10000,20,NULL,2021-11-29
+Kant21,Covaxin_2dose,hCoV-19/India/2020770,Figure 4d,Virus isolate,NT50,157,40,10000,20,NULL,2021-11-29
+Kant21,Covishield_vovaxin,hCoV-19/India/2020770,Figure 4d,Virus isolate,NT50,539,18,10000,20,NULL,2021-11-29
+Kant21,Covishield_2dose,hCoV-19/India/20203522,Figure 4e,Virus isolate,NT50,123,40,10000,20,NULL,2021-11-29
+Kant21,Covaxin_2dose,hCoV-19/India/20203522,Figure 4e,Virus isolate,NT50,122,40,10000,20,NULL,2021-11-29
+Kant21,Covishield_vovaxin,hCoV-19/India/20203522,Figure 4e,Virus isolate,NT50,396,18,10000,20,NULL,2021-11-29
+Kant21,Covishield_2dose,hCoV-19/India/DL-ICMR-210562284_P3/2021,Figure 4f,Virus isolate,NT50,48,40,10000,20,NULL,2021-11-29
+Kant21,Covaxin_2dose,hCoV-19/India/DL-ICMR-210562284_P3/2021,Figure 4f,Virus isolate,NT50,52,40,10000,20,NULL,2021-11-29
+Kant21,Covishield_vovaxin,hCoV-19/India/DL-ICMR-210562284_P3/2021,Figure 4f,Virus isolate,NT50,151,18,10000,20,NULL,2021-11-29
+Kant21,Covishield_2dose,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,Figure 4g,Virus isolate,NT50,52,40,10000,20,NULL,2021-11-29
+Kant21,Covaxin_2dose,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,Figure 4g,Virus isolate,NT50,54,40,10000,20,NULL,2021-11-29
+Kant21,Covishield_vovaxin,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,Figure 4g,Virus isolate,NT50,241,18,10000,20,NULL,2021-11-29
