@@ -17,9 +17,10 @@ Ad26.COV2.S,Viral vector,Janssen Vaccines,Netherlands,1,15
 mRNA-1273.211,mRNA,Moderna,United States,2,16
 mRNA-1273.351,mRNA,Moderna,United States,2,17
 mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,2,18
-BBV154,Viral vector,"Bharat Biotech, Washington University",India,2,19
-INO-4800,DNA,Inovio Pharmaceuticals,United States,2,20
-mRNA,mRNA,BioNTech or Moderna,,2,21
-BNT162b2 or AZD1222,Mixed,,,2,22
-AZD1222 + BBV152,Mixed,,,2,23
-Inactivated,Inactivated virus,,,2,24
+mRNA-1273 + mRNA-1273.211,mRNA,Moderna,United States,2,19
+BBV154,Viral vector,"Bharat Biotech, Washington University",India,2,20
+INO-4800,DNA,Inovio Pharmaceuticals,United States,2,21
+mRNA,mRNA,BioNTech or Moderna,,2,22
+BNT162b2 or AZD1222,Mixed,,,2,23
+AZD1222 + BBV152,Mixed,,,2,24
+Inactivated,Inactivated virus,,,2,25

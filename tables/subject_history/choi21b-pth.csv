@@ -1,0 +1,29 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Choi21b,mRNA-1273_2dose_booster,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_booster,2nd dose,~,2021-01-21,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_booster,2nd dose isolation,~,2021-02-21,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_booster,2nd dose isolation,~,2021-07-21,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_booster,3rd dose,~,2021-07-21,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_booster,3rd dose isolation,~,2021-08-04,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_booster,3rd dose isolation,~,2021-08-19,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_211,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_211,2nd dose,~,2021-01-21,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_211,2nd dose isolation,~,2021-02-21,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_211,2nd dose isolation,~,2021-07-21,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_211,3rd dose,~,2021-07-21,USA,NULL,mRNA-1273.211,NULL
+Choi21b,mRNA-1273_2dose_211,3rd dose isolation,~,2021-08-04,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_211,3rd dose isolation,~,2021-08-19,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_351_50ug,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_351_50ug,2nd dose,~,2021-01-21,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_351_50ug,2nd dose isolation,~,2021-02-21,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_351_50ug,2nd dose isolation,~,2021-07-21,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_351_50ug,3rd dose,~,2021-07-21,USA,NULL,mRNA-1273.351,NULL
+Choi21b,mRNA-1273_2dose_351_50ug,3rd dose isolation,~,2021-08-04,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_351_50ug,3rd dose isolation,~,2021-08-19,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_351_20ug,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_351_20ug,2nd dose,~,2021-01-21,USA,NULL,mRNA-1273,NULL
+Choi21b,mRNA-1273_2dose_351_20ug,2nd dose isolation,~,2021-02-21,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_351_20ug,2nd dose isolation,~,2021-07-21,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_351_20ug,3rd dose,~,2021-07-21,USA,NULL,mRNA-1273.351,NULL
+Choi21b,mRNA-1273_2dose_351_20ug,2nd dose isolation,~,2021-08-04,USA,NULL,NULL,NULL
+Choi21b,mRNA-1273_2dose_351_20ug,2nd dose isolation,~,2021-08-19,USA,NULL,NULL,NULL

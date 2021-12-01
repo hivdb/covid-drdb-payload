@@ -191,6 +191,10 @@ Cho21,VP_C019,Human,2000,1
 Cho21,VP_C030,Human,2001,1
 Choi20,MA-JLL,Human,1975,1
 Choi21,mRNA-1273,Human,NULL,8
+Choi21b,mRNA-1273_2dose_211,Human,NULL,20
+Choi21b,mRNA-1273_2dose_351_20ug,Human,NULL,20
+Choi21b,mRNA-1273_2dose_351_50ug,Human,NULL,20
+Choi21b,mRNA-1273_2dose_booster,Human,NULL,20
 Choudhary21,ACTIV-2/A5401 trial,Human,NULL,111
 Collier21,BNT162b2_1ds,Human,NULL,37
 Collier21,BNT162b2_2ds,Human,NULL,21
