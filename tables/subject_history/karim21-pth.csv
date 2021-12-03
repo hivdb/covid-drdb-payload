@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Karim21,Patient,infection,~,2020-09-01,South Africa,B.1 full genome,NULL,NULL
+Karim21,Patient,isolation,~,2020-09-01,South Africa,Karim_S1,NULL,NULL
+Karim21,Patient,isolation,~,2020-09-07,South Africa,Karim_S2,NULL,NULL
+Karim21,Patient,isolation,~,2020-09-21,South Africa,Karim_S3,NULL,NULL
+Karim21,Patient,isolation,~,2020-10-05,South Africa,Karim_S4,NULL,NULL
+Karim21,Patient,isolation,~,2020-11-12,South Africa,Karim_S5,NULL,NULL
+Karim21,Patient,isolation,~,2020-12-17,South Africa,Karim_S6,NULL,NULL
+Karim21,Patient,isolation,~,2021-03-10,South Africa,Karim_S7,NULL,NULL
