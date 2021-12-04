@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
+Williamson21,Patient,IVIG,~,2021-02-07,~,2021-02-07,NULL,NULL
+Williamson21,Patient,Remdesivir,~,2021-02-03,~,2021-02-19,NULL,NULL
+Williamson21,Patient,Casirivimab/Imdevimab,~,2021-03-24,~,2021-03-24,NULL,NULL

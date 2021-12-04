@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Williamson21,Patient,infection,~,2020-07-01,UK,hCoV-19/England/BRIS-12BD43/2020,NULL,NULL
+Williamson21,Patient,isolation,~,2020-07-01,UK,hCoV-19/England/BRIS-12BD43/2020,NULL,NULL
+Williamson21,Patient,isolation,~,2020-08-27,UK,Williamson21_D58,NULL,NULL
+Williamson21,Patient,isolation,~,2020-12-01,UK,Williamson21_D155,NULL,NULL
+Williamson21,Patient,isolation,~,2020-12-02,UK,Williamson21_D155b,NULL,NULL
+Williamson21,Patient,isolation,~,2021-02-07,UK,Williamson21_D222,NULL,NULL
+Williamson21,Patient,isolation,~,2021-02-13,UK,Williamson21_D227,NULL,NULL
+Williamson21,Patient,isolation,~,2021-03-20,UK,Williamson21_D263,NULL,NULL
+Williamson21,Patient,isolation,~,2021-03-23,UK,hCoV-19/England/BRIS-25F5A7/2021,NULL,NULL
+Williamson21,Patient,isolation,~,2021-03-28,UK,Williamson21_D271,NULL,NULL
+Williamson21,Patient,isolation,~,2021-04-16,UK,Williamson21_D290,NULL,NULL
