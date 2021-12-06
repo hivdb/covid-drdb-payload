@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Mendes-Correa21,Patient,infection,<,2020-09-09,Brazil,hCoV-19/Brazil/SP-CD5723/2020,NULL,NULL
+Mendes-Correa21,Patient,isolation,=,2020-09-15,Brazil,hCoV-19/Brazil/SP-CD5723/2020,NULL,NULL
+Mendes-Correa21,Patient,isolation,=,2020-11-25,Brazil,hCoV-19/Brazil/SP-CD7741/2020,NULL,NULL
+Mendes-Correa21,Patient,isolation,=,2021-01-21,Brazil,hCoV-19/Brazil/SP-CD7742/2021,NULL,NULL
+Mendes-Correa21,Patient,isolation,=,2021-02-25,Brazil,hCoV-19/Brazil/SP-CD5722/2021,NULL,NULL
+Mendes-Correa21,Patient,isolation,=,2021-03-24,Brazil,hCoV-19/Brazil/SP-CD7743/2021,NULL,NULL
+Mendes-Correa21,Donor,infection,<,2020-09-09,Brazil,B.1 full genome,NULL,NULL
+Mendes-Correa21,Donor,isolation,<,2020-09-09,Brazil,NULL,NULL,NULL
