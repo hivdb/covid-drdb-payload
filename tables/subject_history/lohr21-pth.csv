@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Lohr21,Patient,infection,<,2021-01-20,Germany,B.1.1.7 full genome,NULL,NULL
+Lohr21,Patient,isolation,=,2021-01-22,Germany,B.1.1.7 full genome,NULL,NULL
+Lohr21,Patient,isolation,=,2021-02-03,Germany,S:69del+70del+145del+484K+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Lohr21,Patient,isolation,~,2021-02-04,Germany,S:69del+70del+144del+493R+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Lohr21,Patient,isolation,~,2021-02-05,Germany,S:69del+70del+144del+494P+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
+Lohr21,Patient,isolation,=,2021-02-09,Germany,S:69del+70del+145del+484K+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL

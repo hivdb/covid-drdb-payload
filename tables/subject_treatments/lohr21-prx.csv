@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
+Lohr21,Patient,Bamlanivimab,=,2021-01-27,=,2021-01-27,700,mg
+Lohr21,Patient,Remdesivir,=,2021-02-05,=,2021-02-05,200,mg
+Lohr21,Patient,Remdesivir,=,2021-02-06,=,2021-02-09,100,mg
