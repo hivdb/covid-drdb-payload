@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Pommeret21,Patient,infection,~,2021-01-01,France,NULL,NULL,NULL
+Pommeret21,Patient,isolation,~,2021-01-14,France,S:484D+493R,NULL,NULL
+Pommeret21,Donor,isolation,~,2021-01-01,France,NULL,NULL,NULL
