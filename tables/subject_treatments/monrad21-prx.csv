@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
+Monrad21,Patient,Remdesivir,~,2020-05-25,~,2020-06-03,NULL,NULL
+Monrad21,Patient,Remdesivir,~,2020-06-30,~,2020-07-04,NULL,NULL
+Monrad21,Patient,Donor_CP,~,2020-07-10,~,2020-07-10,NULL,NULL
+Monrad21,Patient,Donor_CP,~,2020-09-05,~,2020-09-05,300,ml
+Monrad21,Patient,Donor_CP,~,2020-09-06,~,2020-09-06,300,ml
