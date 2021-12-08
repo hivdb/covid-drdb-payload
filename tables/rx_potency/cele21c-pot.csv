@@ -1,0 +1,29 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cele21c,BNT_infected_01,B.1 full genome,Figure 1,Virus isolate,NT50,88849,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_02,B.1 full genome,Figure 1,Virus isolate,NT50,37703,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_03,B.1 full genome,Figure 1,Virus isolate,NT50,15081,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_04,B.1 full genome,Figure 1,Virus isolate,NT50,9680,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_05,B.1 full genome,Figure 1,Virus isolate,NT50,6592,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_01,B.1 full genome,Figure 1,Virus isolate,NT50,1009,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_06,B.1 full genome,Figure 1,Virus isolate,NT50,870,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_02,B.1 full genome,Figure 1,Virus isolate,NT50,448,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_03,B.1 full genome,Figure 1,Virus isolate,NT50,416,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_04,B.1 full genome,Figure 1,Virus isolate,NT50,201,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_05,B.1 full genome,Figure 1,Virus isolate,NT50,184,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_06,B.1 full genome,Figure 1,Virus isolate,NT50,182,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_07,B.1 full genome,Figure 1,Virus isolate,NT50,154,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_08,B.1 full genome,Figure 1,Virus isolate,NT50,76,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_01,Omicron_P2,Figure 1,Virus isolate,NT50,1595,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_02,Omicron_P2,Figure 1,Virus isolate,NT50,648,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_03,Omicron_P2,Figure 1,Virus isolate,NT50,496,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_04,Omicron_P2,Figure 1,Virus isolate,NT50,468,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_05,Omicron_P2,Figure 1,Virus isolate,NT50,353,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_01,Omicron_P2,Figure 1,Virus isolate,NT50,43,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_infected_06,Omicron_P2,Figure 1,Virus isolate,NT50,1,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_02,Omicron_P2,Figure 1,Virus isolate,NT50,16,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_03,Omicron_P2,Figure 1,Virus isolate,NT50,24,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_04,Omicron_P2,Figure 1,Virus isolate,NT50,15,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_05,Omicron_P2,Figure 1,Virus isolate,NT50,11,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_06,Omicron_P2,Figure 1,Virus isolate,NT50,5,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_07,Omicron_P2,Figure 1,Virus isolate,NT50,1,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_08,Omicron_P2,Figure 1,Virus isolate,NT50,1,1,100000,25,NULL,2021-12-07
