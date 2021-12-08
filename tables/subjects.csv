@@ -94,8 +94,8 @@ Cele21b,CP_Beta,Human,NULL,9
 Cele21b,CP_Delta,Human,NULL,10
 Cele21b,CP_first_wave,Human,NULL,9
 Cele21b,Patient_adv_HIV,Human,NULL,1
-Cele21c,BNT,Human,NULL,6
-Cele21c,BNT_infected,Human,NULL,6
+Cele21c,BNT,Human,1967,6
+Cele21c,BNT_infected,Human,1964,6
 Chen21,BNT162b2_1,Human,NULL,1
 Chen21,BNT162b2_10,Human,NULL,1
 Chen21,BNT162b2_11,Human,NULL,1
