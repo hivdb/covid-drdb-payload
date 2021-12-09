@@ -23,6 +23,7 @@ INO-4800,DNA,Inovio Pharmaceuticals,United States,2,21
 KCONVAC,Inactivated virus,"Shenzhen Kangtai Biological Products ",China,3,22
 Convidecia,Viral vector,CanSino Biologics,China,1,23
 mRNA,mRNA,BioNTech or Moderna,,2,24
-BNT162b2 or AZD1222,Mixed,,,2,25
-AZD1222 + BBV152,Mixed,,,2,26
-Inactivated,Inactivated virus,,,2,27
+BNT162b2 + mRNA-1273,mRNA,BioNTech and Moderna,,3,25
+BNT162b2 or AZD1222,Mixed,,,2,26
+AZD1222 + BBV152,Mixed,,,2,27
+Inactivated,Inactivated virus,,,2,28

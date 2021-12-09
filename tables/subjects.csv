@@ -1991,6 +1991,14 @@ Widera21,mRNA-1273,Human,NULL,10
 Wilhelm21,BNT162b2,Human,NULL,8
 Wilhelm21,CP,Human,NULL,10
 Wilhelm21,mRNA-1273,Human,NULL,10
+Wilhelm21b,BNT_2dose_6m,Human,1970,15
+Wilhelm21b,BNT_2dose_BNT_0.5m,Human,1983,12
+Wilhelm21b,BNT_2dose_BNT_3m,Human,1978,20
+Wilhelm21b,BNT_2dose_infection,Human,1933,20
+Wilhelm21b,ChAd_1dose_BNT_5m,Human,1993,14
+Wilhelm21b,Chad_1dose_BNT_2dose_0.5m,Human,1992,9
+Wilhelm21b,MOD_2dose_6m,Human,1978,19
+Wilhelm21b,MOD_2dose_BNT_0.5m,Human,1973,8
 Williamson21,Patient,Human,1940,1
 Wilson21,CP,Human,NULL,10
 Wu21,Mod,Human,NULL,8

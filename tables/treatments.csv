@@ -785,6 +785,7 @@ Wibmer21,CA1
 Wibmer21,CC12.1
 Wibmer21,LY-CoV016
 Wibmer21,P2B-2F6
+Wilhelm21b,Casirivimab/Imdevimab
 Williamson21,Casirivimab/Imdevimab
 Yao21,Etesevimab
 Yao21,Casirivimab
@@ -16343,6 +16344,14 @@ Widera21,CP_20
 Wilhelm21,CP
 Wilhelm21,BNT162b2
 Wilhelm21,mRNA-1273
+Wilhelm21b,BNT_2dose_6m
+Wilhelm21b,BNT_2dose_BNT_0.5m
+Wilhelm21b,BNT_2dose_BNT_3m
+Wilhelm21b,BNT_2dose_infection
+Wilhelm21b,MOD_2dose_6m
+Wilhelm21b,MOD_2dose_BNT_0.5m
+Wilhelm21b,ChAd_1dose_BNT_5m
+Wilhelm21b,Chad_1dose_BNT_2dose_0.5m
 Wilson21,CP_IgG_S20
 Wilson21,CP_IgG_S24
 Wilson21,CP_IgG_S144
