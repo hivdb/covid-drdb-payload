@@ -88,7 +88,6 @@ BD-236,7CHB,RBD,RBM Class I,structure
 BD-368-2,7CHC,RBD,RBM Class II,structure
 BD-508,7E86,RBD,RBM Class I,structure
 BD-515,7E88,RBD,RBM Class I,structure
-BD-604,7CH4,RBD,RBM Class I,structure
 BD-623,7E7Y,RBD,RBM Class I,structure
 BD-629,7CH5,RBD,RBM Class I,structure
 BD1-24,7M6I,RBD,RBM Class II,structure
@@ -275,6 +274,8 @@ DH1043,7LJR,RBD,RBM Class I,structure
 DH1047,7LD1,RBD,RBD Core Cluster II,structure
 DH1050,7LCN,NTD,NTD,structure
 DH1052,7LAB,NTD,NTD,structure
+DXP-604,NULL,RBD,RBM Class I,author
+DXP-604,7CH4,RBD,RBM Class I,structure
 EY6A,6ZER,RBD,RBD Core Cluster II,structure
 Etesevimab,7C01,RBD,RBM Class I,structure
 F05,NULL,RBD,NULL,author
