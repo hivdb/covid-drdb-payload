@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Zhang21g,CP,infection,~,2020-09-01,China,B.1 full genome,NULL,NULL
+Zhang21g,CP,isolation,~,2020-10-31,China,NULL,NULL,NULL
+Zhang21g,CP_1M,infection,~,2020-10-01,China,B.1 full genome,NULL,NULL
+Zhang21g,CP_1M,isolation,~,2020-10-31,China,NULL,NULL,NULL
+Zhang21g,CP_3M,infection,~,2020-08-01,China,B.1 full genome,NULL,NULL
+Zhang21g,CP_3M,isolation,~,2020-10-31,China,NULL,NULL,NULL
