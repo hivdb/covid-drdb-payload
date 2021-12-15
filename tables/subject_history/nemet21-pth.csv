@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Nemet21,BNT_2dose,1st dose,~,2021-04-27,Israel,NULL,BNT162b2,NULL
+Nemet21,BNT_2dose,2nd dose,~,2021-05-18,Israel,NULL,BNT162b2,NULL
+Nemet21,BNT_2dose,2nd dose isolation,~,2021-10-31,Israel,NULL,NULL,NULL
+Nemet21,BNT_3dose,1st dose,~,2021-04-27,Israel,NULL,BNT162b2,NULL
+Nemet21,BNT_3dose,2nd dose,~,2021-05-18,Israel,NULL,BNT162b2,NULL
+Nemet21,BNT_3dose,3rd dose,~,2021-10-06,Israel,NULL,BNT162b2,NULL
+Nemet21,BNT_3dose,3rd dose isolation,~,2021-10-31,Israel,NULL,NULL,NULL
