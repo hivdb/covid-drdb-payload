@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Payne21,BNT_Long_1dose_4w,VIC,Figure 2A,Virus isolate,NT50,60,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_1dose_10w,VIC,Figure 2A,Virus isolate,NT50,18,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_2dose_4w,VIC,Figure 2A,Virus isolate,NT50,523,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_1dose_4w,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_1dose_10w,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_2dose_4w,B.1.351 full genome,Figure 2A,Virus isolate,NT50,204,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_1dose_4w,P.1 full genome,Figure 2A,Virus isolate,NT50,82,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_1dose_10w,P.1 full genome,Figure 2A,Virus isolate,NT50,27,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_2dose_4w,P.1 full genome,Figure 2A,Virus isolate,NT50,428,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_1dose_4w,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,14,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_1dose_10w,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_2dose_4w,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,498,20,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_1w,VIC,Figure 5A,Virus isolate,NT50,1105,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_4w,VIC,Figure 5A,Virus isolate,NT50,260,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_13w,VIC,Figure 5A,Virus isolate,NT50,91,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_1w,B.1.351 full genome,Figure 5A,Virus isolate,NT50,146,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_4w,B.1.351 full genome,Figure 5A,Virus isolate,NT50,52,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_13w,B.1.351 full genome,Figure 5A,Virus isolate,NT50,25,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_1w,P.1 full genome,Figure 5A,Virus isolate,NT50,421,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_4w,P.1 full genome,Figure 5A,Virus isolate,NT50,227,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_13w,P.1 full genome,Figure 5A,Virus isolate,NT50,86,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_1w,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,442,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_4w,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,218,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Short_2dose_13w,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,75,19,10000,10,NULL,2021-11-22

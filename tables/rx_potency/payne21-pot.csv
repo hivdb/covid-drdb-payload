@@ -1,25 +1,496 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Payne21,BNT_Long_1dose_4w,VIC,Figure 2A,Virus isolate,NT50,60,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_1dose_10w,VIC,Figure 2A,Virus isolate,NT50,18,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_2dose_4w,VIC,Figure 2A,Virus isolate,NT50,523,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_1dose_4w,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_1dose_10w,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_2dose_4w,B.1.351 full genome,Figure 2A,Virus isolate,NT50,204,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_1dose_4w,P.1 full genome,Figure 2A,Virus isolate,NT50,82,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_1dose_10w,P.1 full genome,Figure 2A,Virus isolate,NT50,27,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_2dose_4w,P.1 full genome,Figure 2A,Virus isolate,NT50,428,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_1dose_4w,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,14,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_1dose_10w,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Long_2dose_4w,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,498,20,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_1w,VIC,Figure 5A,Virus isolate,NT50,1105,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_4w,VIC,Figure 5A,Virus isolate,NT50,260,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_13w,VIC,Figure 5A,Virus isolate,NT50,91,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_1w,B.1.351 full genome,Figure 5A,Virus isolate,NT50,146,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_4w,B.1.351 full genome,Figure 5A,Virus isolate,NT50,52,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_13w,B.1.351 full genome,Figure 5A,Virus isolate,NT50,25,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_1w,P.1 full genome,Figure 5A,Virus isolate,NT50,421,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_4w,P.1 full genome,Figure 5A,Virus isolate,NT50,227,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_13w,P.1 full genome,Figure 5A,Virus isolate,NT50,86,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_1w,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,442,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_4w,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,218,19,10000,10,NULL,2021-11-22
-Payne21,BNT_Short_2dose_13w,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,75,19,10000,10,NULL,2021-11-22
+Payne21,BNT_Long_1dose_4w_1,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_2,VIC,Figure 2A,Virus isolate,NT50,147,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_3,VIC,Figure 2A,Virus isolate,NT50,169,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_4,VIC,Figure 2A,Virus isolate,NT50,71,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_5,VIC,Figure 2A,Virus isolate,NT50,92,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_6,VIC,Figure 2A,Virus isolate,NT50,115,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_7,VIC,Figure 2A,Virus isolate,NT50,100,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_8,VIC,Figure 2A,Virus isolate,NT50,143,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_9,VIC,Figure 2A,Virus isolate,NT50,307,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_10,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_11,VIC,Figure 2A,Virus isolate,NT50,66,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_12,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_13,VIC,Figure 2A,Virus isolate,NT50,56,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_14,VIC,Figure 2A,Virus isolate,NT50,47,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_15,VIC,Figure 2A,Virus isolate,NT50,59,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_16,VIC,Figure 2A,Virus isolate,NT50,182,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_17,VIC,Figure 2A,Virus isolate,NT50,88,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_18,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_19,VIC,Figure 2A,Virus isolate,NT50,58,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_20,VIC,Figure 2A,Virus isolate,NT50,39,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_1,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_2,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_3,VIC,Figure 2A,Virus isolate,NT50,35,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_4,VIC,Figure 2A,Virus isolate,NT50,44,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_5,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_6,VIC,Figure 2A,Virus isolate,NT50,46,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_7,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_8,VIC,Figure 2A,Virus isolate,NT50,41,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_9,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_10,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_11,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_12,VIC,Figure 2A,Virus isolate,NT50,37,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_13,VIC,Figure 2A,Virus isolate,NT50,38,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_14,VIC,Figure 2A,Virus isolate,NT50,23,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_15,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_16,VIC,Figure 2A,Virus isolate,NT50,33,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_17,VIC,Figure 2A,Virus isolate,NT50,48,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_18,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_19,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_20,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_1,VIC,Figure 2A,Virus isolate,NT50,1080,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_2,VIC,Figure 2A,Virus isolate,NT50,807,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_3,VIC,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_4,VIC,Figure 2A,Virus isolate,NT50,358,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_5,VIC,Figure 2A,Virus isolate,NT50,1080,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_6,VIC,Figure 2A,Virus isolate,NT50,747,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_7,VIC,Figure 2A,Virus isolate,NT50,263,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_8,VIC,Figure 2A,Virus isolate,NT50,245,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_9,VIC,Figure 2A,Virus isolate,NT50,567,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_10,VIC,Figure 2A,Virus isolate,NT50,730,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_11,VIC,Figure 2A,Virus isolate,NT50,747,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_12,VIC,Figure 2A,Virus isolate,NT50,646,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_13,VIC,Figure 2A,Virus isolate,NT50,571,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_14,VIC,Figure 2A,Virus isolate,NT50,878,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_15,VIC,Figure 2A,Virus isolate,NT50,475,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_16,VIC,Figure 2A,Virus isolate,NT50,825,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_17,VIC,Figure 2A,Virus isolate,NT50,2671,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_18,VIC,Figure 2A,Virus isolate,NT50,479,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_19,VIC,Figure 2A,Virus isolate,NT50,501,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_20,VIC,Figure 2A,Virus isolate,NT50,533,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_21,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_22,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_23,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_24,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_25,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_26,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_27,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_28,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_29,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_30,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_31,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_32,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_33,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_34,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_35,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_36,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_37,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_38,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_39,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_40,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_21,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_22,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_23,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_24,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_25,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_26,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_27,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_28,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_29,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_30,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_31,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_32,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_33,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_34,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_35,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_36,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_37,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_38,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_39,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_40,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_21,B.1.351 full genome,Figure 2A,Virus isolate,NT50,339,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_22,B.1.351 full genome,Figure 2A,Virus isolate,NT50,420,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_23,B.1.351 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_24,B.1.351 full genome,Figure 2A,Virus isolate,NT50,86,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_25,B.1.351 full genome,Figure 2A,Virus isolate,NT50,242,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_26,B.1.351 full genome,Figure 2A,Virus isolate,NT50,219,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_27,B.1.351 full genome,Figure 2A,Virus isolate,NT50,149,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_28,B.1.351 full genome,Figure 2A,Virus isolate,NT50,43,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_29,B.1.351 full genome,Figure 2A,Virus isolate,NT50,249,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_30,B.1.351 full genome,Figure 2A,Virus isolate,NT50,703,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_31,B.1.351 full genome,Figure 2A,Virus isolate,NT50,282,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_32,B.1.351 full genome,Figure 2A,Virus isolate,NT50,314,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_33,B.1.351 full genome,Figure 2A,Virus isolate,NT50,125,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_34,B.1.351 full genome,Figure 2A,Virus isolate,NT50,309,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_35,B.1.351 full genome,Figure 2A,Virus isolate,NT50,227,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_36,B.1.351 full genome,Figure 2A,Virus isolate,NT50,355,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_37,B.1.351 full genome,Figure 2A,Virus isolate,NT50,471,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_38,B.1.351 full genome,Figure 2A,Virus isolate,NT50,156,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_39,B.1.351 full genome,Figure 2A,Virus isolate,NT50,380,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_40,B.1.351 full genome,Figure 2A,Virus isolate,NT50,259,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_41,P.1 full genome,Figure 2A,Virus isolate,NT50,23,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_42,P.1 full genome,Figure 2A,Virus isolate,NT50,247,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_43,P.1 full genome,Figure 2A,Virus isolate,NT50,273,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_44,P.1 full genome,Figure 2A,Virus isolate,NT50,98,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_45,P.1 full genome,Figure 2A,Virus isolate,NT50,132,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_46,P.1 full genome,Figure 2A,Virus isolate,NT50,288,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_47,P.1 full genome,Figure 2A,Virus isolate,NT50,72,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_48,P.1 full genome,Figure 2A,Virus isolate,NT50,139,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_49,P.1 full genome,Figure 2A,Virus isolate,NT50,199,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_50,P.1 full genome,Figure 2A,Virus isolate,NT50,38,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_51,P.1 full genome,Figure 2A,Virus isolate,NT50,97,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_52,P.1 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_53,P.1 full genome,Figure 2A,Virus isolate,NT50,66,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_54,P.1 full genome,Figure 2A,Virus isolate,NT50,76,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_55,P.1 full genome,Figure 2A,Virus isolate,NT50,50,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_56,P.1 full genome,Figure 2A,Virus isolate,NT50,109,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_57,P.1 full genome,Figure 2A,Virus isolate,NT50,93,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_58,P.1 full genome,Figure 2A,Virus isolate,NT50,50,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_59,P.1 full genome,Figure 2A,Virus isolate,NT50,41,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_60,P.1 full genome,Figure 2A,Virus isolate,NT50,86,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_41,P.1 full genome,Figure 2A,Virus isolate,NT50,24,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_42,P.1 full genome,Figure 2A,Virus isolate,NT50,46,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_43,P.1 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_44,P.1 full genome,Figure 2A,Virus isolate,NT50,54,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_45,P.1 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_46,P.1 full genome,Figure 2A,Virus isolate,NT50,43,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_47,P.1 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_48,P.1 full genome,Figure 2A,Virus isolate,NT50,76,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_49,P.1 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_50,P.1 full genome,Figure 2A,Virus isolate,NT50,20,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_51,P.1 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_52,P.1 full genome,Figure 2A,Virus isolate,NT50,54,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_53,P.1 full genome,Figure 2A,Virus isolate,NT50,56,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_54,P.1 full genome,Figure 2A,Virus isolate,NT50,41,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_55,P.1 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_56,P.1 full genome,Figure 2A,Virus isolate,NT50,48,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_57,P.1 full genome,Figure 2A,Virus isolate,NT50,66,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_58,P.1 full genome,Figure 2A,Virus isolate,NT50,30,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_59,P.1 full genome,Figure 2A,Virus isolate,NT50,27,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_60,P.1 full genome,Figure 2A,Virus isolate,NT50,33,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_41,P.1 full genome,Figure 2A,Virus isolate,NT50,1327,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_42,P.1 full genome,Figure 2A,Virus isolate,NT50,793,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_43,P.1 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_44,P.1 full genome,Figure 2A,Virus isolate,NT50,456,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_45,P.1 full genome,Figure 2A,Virus isolate,NT50,557,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_46,P.1 full genome,Figure 2A,Virus isolate,NT50,1070,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_47,P.1 full genome,Figure 2A,Virus isolate,NT50,279,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_48,P.1 full genome,Figure 2A,Virus isolate,NT50,129,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_49,P.1 full genome,Figure 2A,Virus isolate,NT50,478,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_50,P.1 full genome,Figure 2A,Virus isolate,NT50,597,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_51,P.1 full genome,Figure 2A,Virus isolate,NT50,616,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_52,P.1 full genome,Figure 2A,Virus isolate,NT50,1277,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_53,P.1 full genome,Figure 2A,Virus isolate,NT50,209,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_54,P.1 full genome,Figure 2A,Virus isolate,NT50,718,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_55,P.1 full genome,Figure 2A,Virus isolate,NT50,439,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_56,P.1 full genome,Figure 2A,Virus isolate,NT50,436,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_57,P.1 full genome,Figure 2A,Virus isolate,NT50,954,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_58,P.1 full genome,Figure 2A,Virus isolate,NT50,241,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_59,P.1 full genome,Figure 2A,Virus isolate,NT50,718,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_60,P.1 full genome,Figure 2A,Virus isolate,NT50,344,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_61,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_62,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_63,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,69,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_64,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,32,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_65,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_66,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_67,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_68,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_69,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,106,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_70,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_71,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_72,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_73,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_74,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_75,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_76,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_77,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_78,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_79,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,20,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_4w_80,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_61,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_62,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_63,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_64,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_65,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_66,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_67,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_68,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_69,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_70,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_71,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_72,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_73,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_74,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_75,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_76,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_77,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_78,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_79,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_1dose_10w_80,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_61,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,1549,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_62,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,1380,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_63,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_64,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,513,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_65,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,878,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_66,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,764,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_67,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,324,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_68,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,116,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_69,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,725,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_70,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,681,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_71,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,871,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_72,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,567,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_73,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,278,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_74,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,858,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_75,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,603,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_76,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,919,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_77,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,825,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_78,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,414,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_79,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,571,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Long_2dose_4w_80,B.1.617.2 full genome,Figure 2A,Virus isolate,NT50,464,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_1,VIC,Figure 5A,Virus isolate,NT50,8067,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_2,VIC,Figure 5A,Virus isolate,NT50,1055,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_3,VIC,Figure 5A,Virus isolate,NT50,183,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_4,VIC,Figure 5A,Virus isolate,NT50,464,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_5,VIC,Figure 5A,Virus isolate,NT50,1193,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_6,VIC,Figure 5A,Virus isolate,NT50,1806,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_7,VIC,Figure 5A,Virus isolate,NT50,1278,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_8,VIC,Figure 5A,Virus isolate,NT50,1848,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_9,VIC,Figure 5A,Virus isolate,NT50,1738,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_10,VIC,Figure 5A,Virus isolate,NT50,858,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_11,VIC,Figure 5A,Virus isolate,NT50,1457,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_12,VIC,Figure 5A,Virus isolate,NT50,607,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_13,VIC,Figure 5A,Virus isolate,NT50,1514,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_14,VIC,Figure 5A,Virus isolate,NT50,2222,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_15,VIC,Figure 5A,Virus isolate,NT50,1278,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_16,VIC,Figure 5A,Virus isolate,NT50,2997,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_17,VIC,Figure 5A,Virus isolate,NT50,404,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_18,VIC,Figure 5A,Virus isolate,NT50,1725,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_19,VIC,Figure 5A,Virus isolate,NT50,1537,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_20,VIC,Figure 5A,Virus isolate,NT50,1647,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_21,VIC,Figure 5A,Virus isolate,NT50,1751,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_22,VIC,Figure 5A,Virus isolate,NT50,4332,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_23,VIC,Figure 5A,Virus isolate,NT50,1148,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_24,VIC,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_25,VIC,Figure 5A,Virus isolate,NT50,1148,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_1,VIC,Figure 5A,Virus isolate,NT50,329,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_2,VIC,Figure 5A,Virus isolate,NT50,79,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_3,VIC,Figure 5A,Virus isolate,NT50,261,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_4,VIC,Figure 5A,Virus isolate,NT50,858,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_5,VIC,Figure 5A,Virus isolate,NT50,372,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_6,VIC,Figure 5A,Virus isolate,NT50,703,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_7,VIC,Figure 5A,Virus isolate,NT50,186,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_8,VIC,Figure 5A,Virus isolate,NT50,464,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_9,VIC,Figure 5A,Virus isolate,NT50,242,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_10,VIC,Figure 5A,Virus isolate,NT50,494,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_11,VIC,Figure 5A,Virus isolate,NT50,247,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_12,VIC,Figure 5A,Virus isolate,NT50,242,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_13,VIC,Figure 5A,Virus isolate,NT50,395,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_14,VIC,Figure 5A,Virus isolate,NT50,247,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_15,VIC,Figure 5A,Virus isolate,NT50,134,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_16,VIC,Figure 5A,Virus isolate,NT50,115,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_17,VIC,Figure 5A,Virus isolate,NT50,122,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_18,VIC,Figure 5A,Virus isolate,NT50,104,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_19,VIC,Figure 5A,Virus isolate,NT50,392,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_1,VIC,Figure 5A,Virus isolate,NT50,126,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_2,VIC,Figure 5A,Virus isolate,NT50,47,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_3,VIC,Figure 5A,Virus isolate,NT50,475,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_4,VIC,Figure 5A,Virus isolate,NT50,482,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_5,VIC,Figure 5A,Virus isolate,NT50,83,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_6,VIC,Figure 5A,Virus isolate,NT50,146,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_7,VIC,Figure 5A,Virus isolate,NT50,60,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_8,VIC,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_9,VIC,Figure 5A,Virus isolate,NT50,198,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_10,VIC,Figure 5A,Virus isolate,NT50,72,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_11,VIC,Figure 5A,Virus isolate,NT50,141,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_12,VIC,Figure 5A,Virus isolate,NT50,111,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_13,VIC,Figure 5A,Virus isolate,NT50,72,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_14,VIC,Figure 5A,Virus isolate,NT50,141,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_15,VIC,Figure 5A,Virus isolate,NT50,111,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_16,VIC,Figure 5A,Virus isolate,NT50,33,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_17,VIC,Figure 5A,Virus isolate,NT50,21,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_18,VIC,Figure 5A,Virus isolate,NT50,79,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_19,VIC,Figure 5A,Virus isolate,NT50,76,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_20,VIC,Figure 5A,Virus isolate,NT50,126,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_26,B.1.351 full genome,Figure 5A,Virus isolate,NT50,2997,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_27,B.1.351 full genome,Figure 5A,Virus isolate,NT50,211,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_28,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_29,B.1.351 full genome,Figure 5A,Virus isolate,NT50,61,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_30,B.1.351 full genome,Figure 5A,Virus isolate,NT50,93,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_31,B.1.351 full genome,Figure 5A,Virus isolate,NT50,142,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_32,B.1.351 full genome,Figure 5A,Virus isolate,NT50,91,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_33,B.1.351 full genome,Figure 5A,Virus isolate,NT50,383,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_34,B.1.351 full genome,Figure 5A,Virus isolate,NT50,66,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_35,B.1.351 full genome,Figure 5A,Virus isolate,NT50,120,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_36,B.1.351 full genome,Figure 5A,Virus isolate,NT50,102,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_37,B.1.351 full genome,Figure 5A,Virus isolate,NT50,109,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_38,B.1.351 full genome,Figure 5A,Virus isolate,NT50,151,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_39,B.1.351 full genome,Figure 5A,Virus isolate,NT50,417,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_40,B.1.351 full genome,Figure 5A,Virus isolate,NT50,201,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_41,B.1.351 full genome,Figure 5A,Virus isolate,NT50,575,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_42,B.1.351 full genome,Figure 5A,Virus isolate,NT50,121,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_43,B.1.351 full genome,Figure 5A,Virus isolate,NT50,229,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_44,B.1.351 full genome,Figure 5A,Virus isolate,NT50,178,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_45,B.1.351 full genome,Figure 5A,Virus isolate,NT50,100,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_46,B.1.351 full genome,Figure 5A,Virus isolate,NT50,124,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_47,B.1.351 full genome,Figure 5A,Virus isolate,NT50,1249,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_48,B.1.351 full genome,Figure 5A,Virus isolate,NT50,72,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_49,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_50,B.1.351 full genome,Figure 5A,Virus isolate,NT50,191,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_21,B.1.351 full genome,Figure 5A,Virus isolate,NT50,72,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_22,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_23,B.1.351 full genome,Figure 5A,Virus isolate,NT50,115,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_24,B.1.351 full genome,Figure 5A,Virus isolate,NT50,219,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_25,B.1.351 full genome,Figure 5A,Virus isolate,NT50,58,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_26,B.1.351 full genome,Figure 5A,Virus isolate,NT50,128,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_27,B.1.351 full genome,Figure 5A,Virus isolate,NT50,33,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_28,B.1.351 full genome,Figure 5A,Virus isolate,NT50,109,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_29,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_30,B.1.351 full genome,Figure 5A,Virus isolate,NT50,68,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_31,B.1.351 full genome,Figure 5A,Virus isolate,NT50,52,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_32,B.1.351 full genome,Figure 5A,Virus isolate,NT50,114,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_33,B.1.351 full genome,Figure 5A,Virus isolate,NT50,352,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_34,B.1.351 full genome,Figure 5A,Virus isolate,NT50,60,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_35,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_36,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_37,B.1.351 full genome,Figure 5A,Virus isolate,NT50,51,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_38,B.1.351 full genome,Figure 5A,Virus isolate,NT50,18,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_39,B.1.351 full genome,Figure 5A,Virus isolate,NT50,90,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_21,B.1.351 full genome,Figure 5A,Virus isolate,NT50,25,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_22,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_23,B.1.351 full genome,Figure 5A,Virus isolate,NT50,76,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_24,B.1.351 full genome,Figure 5A,Virus isolate,NT50,108,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_25,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_26,B.1.351 full genome,Figure 5A,Virus isolate,NT50,53,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_27,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_28,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_29,B.1.351 full genome,Figure 5A,Virus isolate,NT50,48,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_30,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_31,B.1.351 full genome,Figure 5A,Virus isolate,NT50,31,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_32,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_33,B.1.351 full genome,Figure 5A,Virus isolate,NT50,95,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_34,B.1.351 full genome,Figure 5A,Virus isolate,NT50,278,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_35,B.1.351 full genome,Figure 5A,Virus isolate,NT50,20,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_36,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_37,B.1.351 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_38,B.1.351 full genome,Figure 5A,Virus isolate,NT50,22,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_39,B.1.351 full genome,Figure 5A,Virus isolate,NT50,19,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_40,B.1.351 full genome,Figure 5A,Virus isolate,NT50,24,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_51,P.1 full genome,Figure 5A,Virus isolate,NT50,5012,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_52,P.1 full genome,Figure 5A,Virus isolate,NT50,490,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_53,P.1 full genome,Figure 5A,Virus isolate,NT50,52,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_54,P.1 full genome,Figure 5A,Virus isolate,NT50,227,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_55,P.1 full genome,Figure 5A,Virus isolate,NT50,282,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_56,P.1 full genome,Figure 5A,Virus isolate,NT50,302,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_57,P.1 full genome,Figure 5A,Virus isolate,NT50,309,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_58,P.1 full genome,Figure 5A,Virus isolate,NT50,666,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_59,P.1 full genome,Figure 5A,Virus isolate,NT50,450,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_60,P.1 full genome,Figure 5A,Virus isolate,NT50,423,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_61,P.1 full genome,Figure 5A,Virus isolate,NT50,360,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_62,P.1 full genome,Figure 5A,Virus isolate,NT50,293,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_63,P.1 full genome,Figure 5A,Virus isolate,NT50,302,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_64,P.1 full genome,Figure 5A,Virus isolate,NT50,708,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_65,P.1 full genome,Figure 5A,Virus isolate,NT50,567,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_66,P.1 full genome,Figure 5A,Virus isolate,NT50,1031,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_67,P.1 full genome,Figure 5A,Virus isolate,NT50,293,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_68,P.1 full genome,Figure 5A,Virus isolate,NT50,697,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_69,P.1 full genome,Figure 5A,Virus isolate,NT50,692,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_70,P.1 full genome,Figure 5A,Virus isolate,NT50,355,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_71,P.1 full genome,Figure 5A,Virus isolate,NT50,341,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_72,P.1 full genome,Figure 5A,Virus isolate,NT50,2106,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_73,P.1 full genome,Figure 5A,Virus isolate,NT50,395,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_74,P.1 full genome,Figure 5A,Virus isolate,NT50,36,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_75,P.1 full genome,Figure 5A,Virus isolate,NT50,567,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_41,P.1 full genome,Figure 5A,Virus isolate,NT50,297,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_42,P.1 full genome,Figure 5A,Virus isolate,NT50,43,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_43,P.1 full genome,Figure 5A,Virus isolate,NT50,501,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_44,P.1 full genome,Figure 5A,Virus isolate,NT50,919,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_45,P.1 full genome,Figure 5A,Virus isolate,NT50,229,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_46,P.1 full genome,Figure 5A,Virus isolate,NT50,567,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_47,P.1 full genome,Figure 5A,Virus isolate,NT50,105,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_48,P.1 full genome,Figure 5A,Virus isolate,NT50,380,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_49,P.1 full genome,Figure 5A,Virus isolate,NT50,116,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_50,P.1 full genome,Figure 5A,Virus isolate,NT50,215,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_51,P.1 full genome,Figure 5A,Virus isolate,NT50,314,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_52,P.1 full genome,Figure 5A,Virus isolate,NT50,172,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_53,P.1 full genome,Figure 5A,Virus isolate,NT50,864,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_54,P.1 full genome,Figure 5A,Virus isolate,NT50,215,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_55,P.1 full genome,Figure 5A,Virus isolate,NT50,139,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_56,P.1 full genome,Figure 5A,Virus isolate,NT50,93,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_57,P.1 full genome,Figure 5A,Virus isolate,NT50,169,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_58,P.1 full genome,Figure 5A,Virus isolate,NT50,62,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_59,P.1 full genome,Figure 5A,Virus isolate,NT50,517,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_41,P.1 full genome,Figure 5A,Virus isolate,NT50,191,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_42,P.1 full genome,Figure 5A,Virus isolate,NT50,36,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_43,P.1 full genome,Figure 5A,Virus isolate,NT50,200,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_44,P.1 full genome,Figure 5A,Virus isolate,NT50,374,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_45,P.1 full genome,Figure 5A,Virus isolate,NT50,39,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_46,P.1 full genome,Figure 5A,Virus isolate,NT50,153,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_47,P.1 full genome,Figure 5A,Virus isolate,NT50,44,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_48,P.1 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_49,P.1 full genome,Figure 5A,Virus isolate,NT50,215,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_50,P.1 full genome,Figure 5A,Virus isolate,NT50,69,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_51,P.1 full genome,Figure 5A,Virus isolate,NT50,100,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_52,P.1 full genome,Figure 5A,Virus isolate,NT50,93,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_53,P.1 full genome,Figure 5A,Virus isolate,NT50,81,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_54,P.1 full genome,Figure 5A,Virus isolate,NT50,247,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_55,P.1 full genome,Figure 5A,Virus isolate,NT50,93,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_56,P.1 full genome,Figure 5A,Virus isolate,NT50,28,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_57,P.1 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_58,P.1 full genome,Figure 5A,Virus isolate,NT50,209,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_59,P.1 full genome,Figure 5A,Virus isolate,NT50,70,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_60,P.1 full genome,Figure 5A,Virus isolate,NT50,295,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_76,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,4233,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_77,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,584,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_78,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,39,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_79,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,155,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_80,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,471,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_81,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,807,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_82,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,334,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_83,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,926,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_84,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,962,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_85,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,137,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_86,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,215,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_87,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,636,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_88,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,871,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_89,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,3603,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_90,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,464,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_91,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,985,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_92,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,176,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_93,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,641,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_94,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,501,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_95,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,363,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_96,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,336,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_97,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,724,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_98,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,537,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_99,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_1w_100,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,1031,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_61,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,468,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_62,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,67,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_63,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,220,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_64,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,661,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_65,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,127,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_66,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,656,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_67,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,160,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_68,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,545,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_69,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,109,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_70,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,671,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_71,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,175,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_72,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,636,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_73,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,661,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_74,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,321,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_75,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,71,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_76,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,76,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_77,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,64,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_78,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,49,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_4w_79,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,273,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_61,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,110,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_62,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,35,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_63,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,98,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_64,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,227,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_65,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,207,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_66,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,31,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_67,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_68,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,191,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_69,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,56,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_70,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,188,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_71,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,70,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_72,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,176,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_73,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,479,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_74,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,224,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_75,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_76,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,10,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_77,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,47,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_78,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,40,1,10000,10,NULL,2021-12-06
+Payne21,BNT_Short_2dose_13w_79,B.1.617.2 full genome,Figure 5A,Virus isolate,NT50,140,1,10000,10,NULL,2021-12-06
