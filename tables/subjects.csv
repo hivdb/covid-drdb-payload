@@ -1277,6 +1277,12 @@ Planas21b,BNT,Human,NULL,16
 Planas21b,CP_Orleans,Human,NULL,56
 Planas21b,CP_Strasbourg,Human,NULL,27
 Planas21b,VP_Strasbourg,Human,NULL,1
+Planas21c,AZD_2dose_M5,Human,1961,18
+Planas21c,BNT_2dose_M5,Human,1962,16
+Planas21c,BNT_3dose_M1,Human,1956,11
+Planas21c,CP_12M,Human,1969,15
+Planas21c,CP_12M_BNT_1dose,Human,1965,14
+Planas21c,CP_6M,Human,1965,16
 Pommeret21,Donor,Human,NULL,1
 Pommeret21,Patient,Human,1958,5
 Rees-Spear21,CP_Mild,Human,NULL,18

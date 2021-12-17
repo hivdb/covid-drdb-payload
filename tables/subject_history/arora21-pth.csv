@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Arora21,CP,infection,<,2020-12-31,Germany,NULL,NULL,NULL
+Arora21,CP,infection,<,2020-12-31,Germany,Unknown,NULL,NULL
 Arora21,CP,isolation,~,2020-12-31,Germany,NULL,NULL,NULL
 Arora21,BNT,2nd dose,~,2021-03-01,Germany,NULL,BNT162b2,NULL
 Arora21,BNT,2nd dose isolation,~,2021-03-31,Germany,NULL,NULL,NULL
