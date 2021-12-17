@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Zhang21f,CP,infection,~,2021-02-01,China,Unknown,NULL,NULL
+Zhang21f,CP,infection,~,2021-02-01,China,Unknown variant,NULL,NULL
 Zhang21f,CP,isolation,~,2021-03-01,China,NULL,NULL,NULL
 Zhang21f,VP,1st dose,~,2021-01-01,China,NULL,Inactivated,NULL
 Zhang21f,VP,2nd dose,~,2021-02-01,China,NULL,Inactivated,NULL

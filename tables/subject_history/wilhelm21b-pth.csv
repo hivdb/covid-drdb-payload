@@ -10,7 +10,7 @@ Wilhelm21b,BNT_2dose_BNT_3m,1st dose,~,2021-03-22,Germany,NULL,BNT162b2,NULL
 Wilhelm21b,BNT_2dose_BNT_3m,2nd dose,~,2021-04-12,Germany,NULL,BNT162b2,NULL
 Wilhelm21b,BNT_2dose_BNT_3m,3rd dose,~,2021-10-09,Germany,NULL,BNT162b2,NULL
 Wilhelm21b,BNT_2dose_BNT_3m,3rd dose isolation,~,2021-12-08,Germany,NULL,NULL,NULL
-Wilhelm21b,BNT_2dose_infection,infection,<,2021-01-01,Germany,Unknown,NULL,NULL
+Wilhelm21b,BNT_2dose_infection,infection,<,2021-01-01,Germany,Unknown variant,NULL,NULL
 Wilhelm21b,BNT_2dose_infection,isolation,<,2021-01-01,Germany,NULL,NULL,NULL
 Wilhelm21b,BNT_2dose_infection,1st dose,~,2021-05-06,Germany,NULL,BNT162b2,NULL
 Wilhelm21b,BNT_2dose_infection,2nd dose,~,2021-05-27,Germany,NULL,BNT162b2,NULL
