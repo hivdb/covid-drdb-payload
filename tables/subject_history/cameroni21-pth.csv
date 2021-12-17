@@ -1,0 +1,32 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Cameroni21,CP_2a,infection,~,2020-09-01,USA,Wuhan-Hu-1,NULL,NULL
+Cameroni21,CP_2a,isolation,~,2020-09-30,USA,NULL,NULL,NULL
+Cameroni21,mRNA-1273_2a,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Cameroni21,mRNA-1273_2a,2nd dose,~,2021-01-21,USA,NULL,mRNA-1273,NULL
+Cameroni21,mRNA-1273_2a,2nd dose isolation,~,2021-02-11,USA,NULL,NULL,NULL
+Cameroni21,BNT162b2_2a,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Cameroni21,BNT162b2_2a,2nd dose,~,2021-01-21,USA,NULL,BNT162b2,NULL
+Cameroni21,BNT162b2_2a,2nd dose isolation,~,2021-02-11,USA,NULL,NULL,NULL
+Cameroni21,AZD1222,1st dose,~,2021-01-01,Italy,NULL,AZD1222,NULL
+Cameroni21,AZD1222,2nd dose,~,2021-01-21,Italy,NULL,AZD1222,NULL
+Cameroni21,AZD1222,2nd dose isolation,~,2021-02-11,Italy,NULL,NULL,NULL
+Cameroni21,Ad26.COV2.S,1st dose,~,2021-01-01,USA,NULL,Ad26.COV2.S,NULL
+Cameroni21,Ad26.COV2.S,1st dose isolation,~,2021-03-12,USA,NULL,NULL,NULL
+Cameroni21,Sputnik_V,1st dose,~,2021-01-01,Argentina,NULL,Sputnik V,NULL
+Cameroni21,Sputnik_V,2nd dose,~,2021-01-21,Argentina,NULL,Sputnik V,NULL
+Cameroni21,Sputnik_V,2nd dose isolation,~,2021-02-11,Argentina,NULL,NULL,NULL
+Cameroni21,BBIBP-CorV,1st dose,~,2021-01-01,Pakistan,NULL,BBIBP-CorV,NULL
+Cameroni21,BBIBP-CorV,2nd dose,~,2021-01-21,Pakistan,NULL,BBIBP-CorV,NULL
+Cameroni21,BBIBP-CorV,2nd dose isolation,~,2021-02-11,Pakistan,NULL,NULL,NULL
+Cameroni21,CP_Hospitalized,infection,~,2020-09-01,Switzerland,Wuhan-Hu-1,NULL,Hospitalized
+Cameroni21,CP_Hospitalized,isolation,~,2020-09-30,Switzerland,NULL,NULL,NULL
+Cameroni21,CP_BNT,infection,~,2020-09-01,Switzerland,Wuhan-Hu-1,NULL,NULL
+Cameroni21,CP_BNT,1st dose,~,2021-01-01,Switzerland,NULL,BNT162b2,NULL
+Cameroni21,CP_BNT,2nd dose,~,2021-01-21,Switzerland,NULL,BNT162b2,NULL
+Cameroni21,CP_BNT,2nd dose isolation,~,2021-02-11,Switzerland,NULL,NULL,NULL
+Cameroni21,BNT_2b,1st dose,~,2021-01-01,Switzerland,NULL,BNT162b2,NULL
+Cameroni21,BNT_2b,2nd dose,~,2021-01-21,Switzerland,NULL,BNT162b2,NULL
+Cameroni21,BNT_2b,2nd dose isolation,~,2021-02-11,Switzerland,NULL,NULL,NULL
+Cameroni21,mRNA-1273_2b,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Cameroni21,mRNA-1273_2b,2nd dose,~,2021-01-21,USA,NULL,mRNA-1273,NULL
+Cameroni21,mRNA-1273_2b,2nd dose isolation,~,2021-01-28,USA,NULL,NULL,NULL
