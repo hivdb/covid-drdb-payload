@@ -5,6 +5,15 @@ Abe21,Staff_Moderna,Human,NULL,34
 Abe21,Staff_Pfizer,Human,NULL,44
 Acevedo21,BNT162b2,Human,NULL,58
 Acevedo21,CoronaVac,Human,NULL,75
+Aggarwal21,BNT162b,Human,NULL,8
+Aggarwal21,CP_1wave,Human,NULL,10
+Aggarwal21,CP_2wave,Human,NULL,10
+Aggarwal21,CP_delta_wave,Human,NULL,10
+Aggarwal21,ChAdOx1,Human,NULL,9
+Aggarwal21,VP_1wave_BNT162b,Human,NULL,3
+Aggarwal21,VP_1wave_ChAdOx1,Human,NULL,7
+Aggarwal21,VP_2wave_BNT162b,Human,NULL,5
+Aggarwal21,VP_2wave_ChAdOx1,Human,NULL,4
 Alenquer21,BNT,Human,NULL,10
 Alenquer21,CP_ID_10,Human,NULL,1
 Alenquer21,CP_ID_11,Human,NULL,1
