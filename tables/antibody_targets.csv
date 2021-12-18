@@ -2,6 +2,7 @@ ab_name,pdb_id,target,class,source
 1-20,NULL,RBD,NULL,author
 1-57,7LS9,RBD,RBM Class II,structure
 1-87,7L2D,NTD,NTD,structure
+10-40,NULL,RBD,RBD Core Cluster II,author
 10D12,NULL,RBD,NULL,author
 10F9,NULL,RBD,NULL,author
 11D12,NULL,RBD,NULL,author
@@ -80,7 +81,6 @@ ADG30,NULL,RBD,NULL,author
 ADI-56443,NULL,RBD,NULL,author
 ADI-56479,NULL,NTD,NTD,author
 ADI-58125,NULL,RBD,RBD Core Cluster II,author
-S2X219,NULL,RBD,RBD Core Cluster II,author
 Adintrevimab,NULL,RBD,NULL,author
 B07,NULL,RBD,NULL,author
 B1-182.1,NULL,RBD,NULL,author
@@ -408,7 +408,6 @@ S2E12,NULL,RBD,RBM Class I,author
 S2E13,NULL,RBD,NULL,author
 S2E16,NULL,RBD,NULL,author
 S2E23,NULL,RBD,NULL,author
-S2K146,NULL,RBD,RBM Class I,author
 S2H13,7JV6,RBD,RBM Class II,structure
 S2H14,7JX3,RBD,RBM Class I,structure
 S2H14,NULL,RBD,RBM Class I,author
@@ -421,6 +420,7 @@ S2H90,NULL,RBD,NULL,author
 S2H94,NULL,RBD,RBD Core,author
 S2H97,NULL,RBD,NULL,author
 S2H97,7M7W,RBD,RBD Core Cluster I,structure
+S2K146,NULL,RBD,RBM Class I,author
 S2K15,NULL,RBD,NULL,author
 S2K21,NULL,RBD,NULL,author
 S2K30,NULL,RBD,NULL,author
@@ -445,6 +445,7 @@ S2X128,NULL,RBD,RBM,author
 S2X158,NULL,NTD,NTD,author
 S2X16,NULL,RBD,NULL,author
 S2X192,NULL,RBD,RBM,author
+S2X219,NULL,RBD,RBD Core Cluster II,author
 S2X227,NULL,RBD,NULL,author
 S2X246,NULL,RBD,NULL,author
 S2X259,NULL,RBD,NULL,author
