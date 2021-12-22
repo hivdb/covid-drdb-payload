@@ -1,0 +1,320 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Schmidt21b,PT_21,infection,~,2021-01-06,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_328,infection,~,2020-12-12,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_353,infection,~,2020-12-11,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_38,infection,~,2021-01-09,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_40,infection,~,2021-01-01,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_403,infection,~,2020-12-21,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_410,infection,~,2020-12-28,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_437,infection,~,2020-12-24,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_46,infection,~,2021-01-09,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_461,infection,~,2020-12-27,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_47,infection,~,2021-01-06,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_501,infection,~,2020-12-10,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_507,infection,~,2020-12-16,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_547,infection,~,2020-12-18,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_633,infection,~,2020-12-19,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_72,infection,~,2020-12-25,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_75,infection,~,2021-01-06,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_76,infection,~,2020-11-28,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_8,infection,~,2020-12-07,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_9,infection,~,2020-12-11,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_21,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_328,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_353,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_38,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_40,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_403,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_410,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_437,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_46,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_461,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_47,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_501,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_507,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_547,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_633,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_72,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_75,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_76,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_8,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_9,isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_115,infection,~,2021-01-11,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_233,infection,~,2020-11-30,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_135,infection,~,2021-01-05,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_401,infection,~,2020-12-06,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_537,infection,~,2020-12-20,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_500,infection,~,2020-12-02,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_222,infection,~,2020-12-30,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_230,infection,~,2020-12-05,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_24,infection,~,2021-01-10,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_325,infection,~,2020-12-24,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_55,infection,~,2020-12-28,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_7,infection,~,2020-12-01,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_71,infection,~,2020-11-21,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_96,infection,~,2020-12-18,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_539,infection,~,2020-12-15,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_393,infection,~,2020-12-15,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_394,infection,~,2020-12-02,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_120,infection,~,2020-12-02,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_186,infection,~,2020-12-21,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_20,infection,~,2021-01-01,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_115,isolation,~,2021-02-21,USA,NULL,NULL,NULL
+Schmidt21b,PT_233,isolation,~,2021-01-10,USA,NULL,NULL,NULL
+Schmidt21b,PT_135,isolation,~,2021-02-05,USA,NULL,NULL,NULL
+Schmidt21b,PT_401,isolation,~,2021-01-28,USA,NULL,NULL,NULL
+Schmidt21b,PT_537,isolation,~,2021-02-03,USA,NULL,NULL,NULL
+Schmidt21b,PT_500,isolation,~,2021-01-24,USA,NULL,NULL,NULL
+Schmidt21b,PT_222,isolation,~,2021-02-05,USA,NULL,NULL,NULL
+Schmidt21b,PT_230,isolation,~,2021-01-07,USA,NULL,NULL,NULL
+Schmidt21b,PT_24,isolation,~,2021-02-09,USA,NULL,NULL,NULL
+Schmidt21b,PT_325,isolation,~,2021-01-31,USA,NULL,NULL,NULL
+Schmidt21b,PT_55,isolation,~,2021-02-15,USA,NULL,NULL,NULL
+Schmidt21b,PT_7,isolation,~,2020-12-31,USA,NULL,NULL,NULL
+Schmidt21b,PT_71,isolation,~,2021-01-08,USA,NULL,NULL,NULL
+Schmidt21b,PT_96,isolation,~,2021-01-17,USA,NULL,NULL,NULL
+Schmidt21b,PT_539,isolation,~,2021-02-08,USA,NULL,NULL,NULL
+Schmidt21b,PT_393,isolation,~,2021-02-07,USA,NULL,NULL,NULL
+Schmidt21b,PT_394,isolation,~,2021-02-07,USA,NULL,NULL,NULL
+Schmidt21b,PT_120,isolation,~,2021-01-19,USA,NULL,NULL,NULL
+Schmidt21b,PT_186,isolation,~,2021-01-23,USA,NULL,NULL,NULL
+Schmidt21b,PT_20,isolation,~,2021-01-18,USA,NULL,NULL,NULL
+Schmidt21b,PT_115,isolation,~,2021-08-20,USA,NULL,NULL,NULL
+Schmidt21b,PT_233,isolation,~,2021-07-09,USA,NULL,NULL,NULL
+Schmidt21b,PT_135,isolation,~,2021-08-04,USA,NULL,NULL,NULL
+Schmidt21b,PT_401,isolation,~,2021-07-27,USA,NULL,NULL,NULL
+Schmidt21b,PT_537,isolation,~,2021-08-02,USA,NULL,NULL,NULL
+Schmidt21b,PT_500,isolation,~,2021-07-23,USA,NULL,NULL,NULL
+Schmidt21b,PT_222,isolation,~,2021-08-04,USA,NULL,NULL,NULL
+Schmidt21b,PT_230,isolation,~,2021-07-06,USA,NULL,NULL,NULL
+Schmidt21b,PT_24,isolation,~,2021-08-08,USA,NULL,NULL,NULL
+Schmidt21b,PT_325,isolation,~,2021-07-30,USA,NULL,NULL,NULL
+Schmidt21b,PT_55,isolation,~,2021-08-14,USA,NULL,NULL,NULL
+Schmidt21b,PT_7,isolation,~,2021-06-29,USA,NULL,NULL,NULL
+Schmidt21b,PT_71,isolation,~,2021-07-07,USA,NULL,NULL,NULL
+Schmidt21b,PT_96,isolation,~,2021-07-16,USA,NULL,NULL,NULL
+Schmidt21b,PT_539,isolation,~,2021-08-07,USA,NULL,NULL,NULL
+Schmidt21b,PT_393,isolation,~,2021-08-06,USA,NULL,NULL,NULL
+Schmidt21b,PT_394,isolation,~,2021-08-06,USA,NULL,NULL,NULL
+Schmidt21b,PT_120,isolation,~,2021-07-18,USA,NULL,NULL,NULL
+Schmidt21b,PT_186,isolation,~,2021-07-22,USA,NULL,NULL,NULL
+Schmidt21b,PT_20,isolation,~,2021-07-17,USA,NULL,NULL,NULL
+Schmidt21b,PT_115,1st dose,~,2021-11-30,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_233,1st dose,~,2021-12-04,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_135,1st dose,~,2021-11-15,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_401,1st dose,~,2021-11-24,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_537,1st dose,~,2021-11-28,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_500,1st dose,~,2021-11-22,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_222,1st dose,~,2021-11-01,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_230,1st dose,~,2021-11-07,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_24,1st dose,~,2021-11-07,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_325,1st dose,~,2021-10-24,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_55,1st dose,~,2021-11-01,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_7,1st dose,~,2021-10-08,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_71,1st dose,~,2021-10-11,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_96,1st dose,~,2021-10-19,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_539,1st dose,~,2021-10-23,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_393,1st dose,~,2021-10-16,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_394,1st dose,~,2021-11-07,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_120,1st dose,~,2021-10-06,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_186,1st dose,~,2021-09-30,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_20,1st dose,~,2021-11-07,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_115,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_233,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_135,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_401,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_537,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_500,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_222,2nd dose,~,2021-11-22,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_230,2nd dose,~,2021-11-28,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_24,2nd dose,~,2021-11-28,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_325,2nd dose,~,2021-11-14,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_55,2nd dose,~,2021-11-22,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_7,2nd dose,~,2021-10-29,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_71,2nd dose,~,2021-11-01,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_96,2nd dose,~,2021-11-09,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_539,2nd dose,~,2021-11-13,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_393,2nd dose,~,2021-11-06,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_394,2nd dose,~,2021-11-28,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_120,2nd dose,~,2021-10-27,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_186,2nd dose,~,2021-10-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_20,2nd dose,~,2021-11-28,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_222,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_230,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_24,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_325,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_55,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_7,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_71,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_96,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_539,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_393,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_394,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_120,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_186,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_20,2nd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C001,1st dose,~,2021-01-17,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C002,1st dose,~,2020-10-17,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C004,1st dose,~,2020-10-01,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C005,1st dose,~,2020-09-20,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_C006,1st dose,~,2021-02-26,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C007,1st dose,~,2021-02-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C008,1st dose,~,2021-02-22,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C009,1st dose,~,2021-03-20,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C010,1st dose,~,2021-02-28,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C011,1st dose,~,2021-01-23,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_C017,1st dose,~,2021-02-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C018,1st dose,~,2021-03-01,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C019,1st dose,~,2021-02-28,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C021,1st dose,~,2021-03-07,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C028,1st dose,~,2021-02-14,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C029,1st dose,~,2021-02-28,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C031,1st dose,~,2021-02-24,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C034,1st dose,~,2021-01-30,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C001,2nd dose,~,2021-02-08,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C002,2nd dose,~,2020-11-07,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C004,2nd dose,~,2020-10-22,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C005,2nd dose,~,2020-10-18,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_C006,2nd dose,~,2021-03-19,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C007,2nd dose,~,2021-03-14,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C008,2nd dose,~,2021-03-15,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C009,2nd dose,~,2021-04-10,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C010,2nd dose,~,2021-03-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C011,2nd dose,~,2021-02-20,USA,NULL,mRNA-1273,NULL
+Schmidt21b,PT_C017,2nd dose,~,2021-03-14,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C018,2nd dose,~,2021-03-22,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C019,2nd dose,~,2021-03-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C021,2nd dose,~,2021-03-28,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C028,2nd dose,~,2021-03-07,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C029,2nd dose,~,2021-03-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C031,2nd dose,~,2021-03-17,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C034,2nd dose,~,2021-02-23,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C001,2nd dose isolation,~,2021-03-15,USA,NULL,NULL,NULL
+Schmidt21b,PT_C002,2nd dose isolation,~,2021-01-25,USA,NULL,NULL,NULL
+Schmidt21b,PT_C004,2nd dose isolation,~,2020-12-31,USA,NULL,NULL,NULL
+Schmidt21b,PT_C005,2nd dose isolation,~,2021-01-17,USA,NULL,NULL,NULL
+Schmidt21b,PT_C006,2nd dose isolation,~,2021-04-10,USA,NULL,NULL,NULL
+Schmidt21b,PT_C007,2nd dose isolation,~,2021-04-20,USA,NULL,NULL,NULL
+Schmidt21b,PT_C008,2nd dose isolation,~,2021-04-19,USA,NULL,NULL,NULL
+Schmidt21b,PT_C009,2nd dose isolation,~,2021-05-16,USA,NULL,NULL,NULL
+Schmidt21b,PT_C010,2nd dose isolation,~,2021-04-24,USA,NULL,NULL,NULL
+Schmidt21b,PT_C011,2nd dose isolation,~,2021-03-20,USA,NULL,NULL,NULL
+Schmidt21b,PT_C017,2nd dose isolation,~,2021-04-04,USA,NULL,NULL,NULL
+Schmidt21b,PT_C018,2nd dose isolation,~,2021-05-09,USA,NULL,NULL,NULL
+Schmidt21b,PT_C019,2nd dose isolation,~,2021-04-24,USA,NULL,NULL,NULL
+Schmidt21b,PT_C021,2nd dose isolation,~,2021-04-25,USA,NULL,NULL,NULL
+Schmidt21b,PT_C028,2nd dose isolation,~,2021-04-17,USA,NULL,NULL,NULL
+Schmidt21b,PT_C029,2nd dose isolation,~,2021-05-09,USA,NULL,NULL,NULL
+Schmidt21b,PT_C031,2nd dose isolation,~,2021-04-23,USA,NULL,NULL,NULL
+Schmidt21b,PT_C034,2nd dose isolation,~,2021-03-26,USA,NULL,NULL,NULL
+Schmidt21b,PT_C001,2nd dose isolation,~,2021-06-21,USA,NULL,NULL,NULL
+Schmidt21b,PT_C002,2nd dose isolation,~,2021-05-03,USA,NULL,NULL,NULL
+Schmidt21b,PT_C004,2nd dose isolation,~,2021-04-10,USA,NULL,NULL,NULL
+Schmidt21b,PT_C005,2nd dose isolation,~,2021-04-11,USA,NULL,NULL,NULL
+Schmidt21b,PT_C006,2nd dose isolation,~,2021-08-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C007,2nd dose isolation,~,2021-08-02,USA,NULL,NULL,NULL
+Schmidt21b,PT_C008,2nd dose isolation,~,2021-08-03,USA,NULL,NULL,NULL
+Schmidt21b,PT_C009,2nd dose isolation,~,2021-08-29,USA,NULL,NULL,NULL
+Schmidt21b,PT_C010,2nd dose isolation,~,2021-08-14,USA,NULL,NULL,NULL
+Schmidt21b,PT_C011,2nd dose isolation,~,2021-07-01,USA,NULL,NULL,NULL
+Schmidt21b,PT_C017,2nd dose isolation,~,2021-11-13,USA,NULL,NULL,NULL
+Schmidt21b,PT_C018,2nd dose isolation,~,2021-09-10,USA,NULL,NULL,NULL
+Schmidt21b,PT_C019,2nd dose isolation,~,2021-08-14,USA,NULL,NULL,NULL
+Schmidt21b,PT_C021,2nd dose isolation,~,2021-09-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C028,2nd dose isolation,~,2021-08-22,USA,NULL,NULL,NULL
+Schmidt21b,PT_C029,2nd dose isolation,~,2021-09-03,USA,NULL,NULL,NULL
+Schmidt21b,PT_C031,2nd dose isolation,~,2021-08-29,USA,NULL,NULL,NULL
+Schmidt21b,PT_C034,2nd dose isolation,~,2021-10-26,USA,NULL,NULL,NULL
+Schmidt21b,PT_C001,3rd dose,~,2021-10-17,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C002,3rd dose,~,2021-11-15,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C004,3rd dose,~,2021-11-15,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C005,3rd dose,~,2021-09-09,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C006,3rd dose,~,2021-11-20,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C007,3rd dose,~,2021-11-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C008,3rd dose,~,2021-11-14,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C009,3rd dose,~,2021-12-10,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C010,3rd dose,~,2021-11-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C011,3rd dose,~,2021-11-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C017,3rd dose,~,2021-11-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C018,3rd dose,~,2021-11-19,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C019,3rd dose,~,2021-11-21,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C021,3rd dose,~,2021-10-26,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C028,3rd dose,~,2021-11-14,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C029,3rd dose,~,2021-11-20,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C031,3rd dose,~,2021-11-14,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C034,3rd dose,~,2021-11-23,USA,NULL,BNT162b2,NULL
+Schmidt21b,PT_C001,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C002,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C004,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C005,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C006,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C007,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C008,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C009,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C010,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C011,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C017,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C018,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C019,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C021,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C028,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C029,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C031,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C034,3rd dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C055,1st dose,~,2021-06-20,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C056,1st dose,~,2021-06-08,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C057,1st dose,~,2021-06-17,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C059,1st dose,~,2021-06-14,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C060,1st dose,~,2021-06-04,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C061,1st dose,~,2021-06-18,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C062,1st dose,~,2021-05-26,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C064,1st dose,~,2021-06-17,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C066,1st dose,~,2021-06-12,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C067,1st dose,~,2021-06-02,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C069,1st dose,~,2021-06-23,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C070,1st dose,~,2021-06-08,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C072,1st dose,~,2021-07-15,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C073,1st dose,~,2021-05-29,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C075,1st dose,~,2021-06-15,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C076,1st dose,~,2021-06-16,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C079,1st dose,~,2021-07-13,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C080,1st dose,~,2021-07-25,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C081,1st dose,~,2021-07-29,USA,NULL,Ad26.COV2.S,NULL
+Schmidt21b,PT_C055,1st dose isolation,~,2021-07-24,USA,NULL,NULL,NULL
+Schmidt21b,PT_C056,1st dose isolation,~,2021-07-30,USA,NULL,NULL,NULL
+Schmidt21b,PT_C057,1st dose isolation,~,2021-07-31,USA,NULL,NULL,NULL
+Schmidt21b,PT_C059,1st dose isolation,~,2021-07-28,USA,NULL,NULL,NULL
+Schmidt21b,PT_C060,1st dose isolation,~,2021-07-09,USA,NULL,NULL,NULL
+Schmidt21b,PT_C061,1st dose isolation,~,2021-07-15,USA,NULL,NULL,NULL
+Schmidt21b,PT_C062,1st dose isolation,~,2021-07-18,USA,NULL,NULL,NULL
+Schmidt21b,PT_C064,1st dose isolation,~,2021-08-02,USA,NULL,NULL,NULL
+Schmidt21b,PT_C066,1st dose isolation,~,2021-08-01,USA,NULL,NULL,NULL
+Schmidt21b,PT_C067,1st dose isolation,~,2021-07-24,USA,NULL,NULL,NULL
+Schmidt21b,PT_C069,1st dose isolation,~,2021-07-30,USA,NULL,NULL,NULL
+Schmidt21b,PT_C070,1st dose isolation,~,2021-08-14,USA,NULL,NULL,NULL
+Schmidt21b,PT_C072,1st dose isolation,~,2021-09-16,USA,NULL,NULL,NULL
+Schmidt21b,PT_C073,1st dose isolation,~,2021-07-24,USA,NULL,NULL,NULL
+Schmidt21b,PT_C075,1st dose isolation,~,2021-08-26,USA,NULL,NULL,NULL
+Schmidt21b,PT_C076,1st dose isolation,~,2021-08-27,USA,NULL,NULL,NULL
+Schmidt21b,PT_C079,1st dose isolation,~,2021-08-28,USA,NULL,NULL,NULL
+Schmidt21b,PT_C080,1st dose isolation,~,2021-08-28,USA,NULL,NULL,NULL
+Schmidt21b,PT_C081,1st dose isolation,~,2021-08-29,USA,NULL,NULL,NULL
+Schmidt21b,PT_C055,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C056,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C057,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C059,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C060,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C061,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C062,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C064,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C066,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C067,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C069,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C070,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C072,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C073,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C075,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C076,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C079,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C080,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
+Schmidt21b,PT_C081,1st dose isolation,~,2021-12-12,USA,NULL,NULL,NULL
