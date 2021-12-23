@@ -1,0 +1,16 @@
+ref_name,rx_name,ab_name
+VanBlargan21,COV2-2196,Tixagevimab
+VanBlargan21,COV2-2130,Cilgavimab
+VanBlargan21,COV2-2196+COV2-2130,Tixagevimab
+VanBlargan21,COV2-2196+COV2-2130,Cilgavimab
+VanBlargan21,REGN10987,Imdevimab
+VanBlargan21,REGN10933,Casirivimab
+VanBlargan21,REGN10987+REGN10933,Imdevimab
+VanBlargan21,REGN10987+REGN10933,Casirivimab
+VanBlargan21,LY-CoV555,Bamlanivimab
+VanBlargan21,LY-CoV016,Etesevimab
+VanBlargan21,LY-CoV555+LY-CoV016,Bamlanivimab
+VanBlargan21,LY-CoV555+LY-CoV016,Etesevimab
+VanBlargan21,S309,Sotrovimab
+VanBlargan21,CT-P59,Regdanvimab
+VanBlargan21,SARS2-38,SARS2-38
