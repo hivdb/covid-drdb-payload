@@ -1,8 +1,8 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Aggarwal21,CP_1wave,infection,~,2020-04-01,Australia,S:614G,NULL,NULL
 Aggarwal21,CP_1wave,isolation,~,2020-05-01,Australia,S:614G,NULL,NULL
-Aggarwal21,CP_2wave,infection,~,2020-07-01,Australia,S:477N+614G,NULL,NULL
-Aggarwal21,CP_2wave,isolation,~,2020-08-01,Australia,S:477N+614G,NULL,NULL
+Aggarwal21,CP_2wave,infection,~,2020-07-01,Australia,Aggarwal21_2nd_wave,NULL,NULL
+Aggarwal21,CP_2wave,isolation,~,2020-08-01,Australia,Aggarwal21_2nd_wave,NULL,NULL
 Aggarwal21,CP_delta_wave,infection,~,2021-07-01,Australia,B.1.617.2 full genome,NULL,NULL
 Aggarwal21,CP_delta_wave,isolation,~,2021-08-01,Australia,B.1.617.2 full genome,NULL,NULL
 Aggarwal21,ChAdOx1,1st dose,~,2021-08-01,Australia,NULL,AZD1222,NULL
@@ -19,11 +19,11 @@ Aggarwal21,VP_1wave_BNT162b,infection,~,2020-04-01,Australia,S:614G,NULL,NULL
 Aggarwal21,VP_1wave_BNT162b,1st dose,~,2021-08-01,Australia,NULL,BNT162b2,NULL
 Aggarwal21,VP_1wave_BNT162b,2nd dose,~,2021-08-31,Australia,NULL,BNT162b2,NULL
 Aggarwal21,VP_1wave_BNT162b,2nd dose isolation,~,2021-09-30,Australia,NULL,NULL,NULL
-Aggarwal21,VP_2wave_BNT162b,infection,~,2020-04-01,Australia,S:477N+614G,NULL,NULL
+Aggarwal21,VP_2wave_BNT162b,infection,~,2020-04-01,Australia,Aggarwal21_2nd_wave,NULL,NULL
 Aggarwal21,VP_2wave_BNT162b,1st dose,~,2021-08-01,Australia,NULL,BNT162b2,NULL
 Aggarwal21,VP_2wave_BNT162b,2nd dose,~,2021-08-31,Australia,NULL,BNT162b2,NULL
 Aggarwal21,VP_2wave_BNT162b,2nd dose isolation,~,2021-09-30,Australia,NULL,NULL,NULL
-Aggarwal21,VP_2wave_ChAdOx1,infection,~,2020-04-01,Australia,S:477N+614G,NULL,NULL
+Aggarwal21,VP_2wave_ChAdOx1,infection,~,2020-04-01,Australia,Aggarwal21_2nd_wave,NULL,NULL
 Aggarwal21,VP_2wave_ChAdOx1,1st dose,~,2021-08-01,Australia,NULL,AZD1222,NULL
 Aggarwal21,VP_2wave_ChAdOx1,2nd dose,~,2021-08-31,Australia,NULL,AZD1222,NULL
 Aggarwal21,VP_2wave_ChAdOx1,2nd dose isolation,~,2021-09-30,Australia,NULL,NULL,NULL
