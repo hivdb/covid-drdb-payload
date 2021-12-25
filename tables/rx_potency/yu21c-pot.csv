@@ -1,0 +1,3 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yu21c,BBIBP_3dose,Wuhan-Hu-1,Figure 1b,Pseudovirus,NT50,294.9,292,10000,4,NULL,2021-12-25
+Yu21c,BBIBP_3dose,S:67V+69del+70del+95I+142D+143del+144del+145del+211del+212I+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493R+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1b,Pseudovirus,NT50,6.1,292,10000,4,NULL,2021-12-25

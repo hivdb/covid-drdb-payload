@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Yu21c,BBIBP_3dose,1st dose,~,2021-01-01,China,NULL,BBIBP-CorV,NULL
+Yu21c,BBIBP_3dose,2nd dose,~,2021-01-28,China,NULL,BBIBP-CorV,NULL
+Yu21c,BBIBP_3dose,3rd dose,~,2021-09-28,China,NULL,BBIBP-CorV,NULL
+Yu21c,BBIBP_3dose,3rd dose isolation,~,2021-10-26,China,NULL,NULL,NULL
