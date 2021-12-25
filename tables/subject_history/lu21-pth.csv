@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Lu21b,BNT162b2,1st dose,~,2021-01-01,China,NULL,BNT162b2,NULL
+Lu21b,BNT162b2,1st dose isolation,~,2021-02-26,China,NULL,NULL,NULL
+Lu21b,CoronaVac,1st dose,~,2021-01-01,China,NULL,CoronaVac,NULL
+Lu21b,CoronaVac,1st dose isolation,~,2021-02-26,China,NULL,NULL,NULL
