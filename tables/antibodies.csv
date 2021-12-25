@@ -651,9 +651,16 @@ S127.6,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,50
 S128.5,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S132,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S132.9,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
+S144-1079,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S144-1339,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S144-1406,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S144-1407,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
 S159.1,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S160.1,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
+S166-32,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
 S2-L20,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-08-19
+S20-58,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S20-74,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
 S215.13,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S215.17,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S216.9,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
@@ -674,6 +681,11 @@ S231.19,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5
 S232.17,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S234.6,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S237.1,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
+S24-1224,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S24-1301,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S24-1476,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S24-821,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S262-651,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
 S2A4,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 S2D106,NULL,NULL,NULL,University of Washington,CP,5000,FALSE,2021-02-08
 S2D19,NULL,NULL,NULL,University of Washington,CP,5000,FALSE,2021-02-08
@@ -742,6 +754,12 @@ S2X619,NULL,NULL,NULL,University of Washington,CP,5000,FALSE,2021-02-08
 S2X620,NULL,NULL,NULL,University of Washington,CP,5000,FALSE,2021-02-08
 S3.1,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 S304,NULL,NULL,NULL,,,5000,FALSE,2021-04-15
+S305-1456,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S564-134,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S564-138,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S564-265,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S564-68,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
+S626-747,NULL,NULL,NULL,University of Chicago,CP,5000,FALSE,2021-12-25
 SAB-185,NULL,NULL,NULL,Washington University,Transchromosomic bovine,5000,FALSE,2021-11-29
 SARS2-01,NULL,NULL,NULL,Washington University,Immunized mice,5000,FALSE,2021-01-27
 SARS2-02,NULL,NULL,NULL,Washington University,Immunized mice,5000,FALSE,2021-01-27
