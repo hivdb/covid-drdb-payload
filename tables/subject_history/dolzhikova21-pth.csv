@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Dolzhikova21,Sputnik_3dose,1st dose,~,2021-01-27,Russia,NULL,Sputnik V,NULL
+Dolzhikova21,Sputnik_3dose,2nd dose,~,2021-02-27,Russia,NULL,Sputnik V,NULL
+Dolzhikova21,Sputnik_3dose,3rd dose,~,2021-10-03,Russia,NULL,Sputnik Light,NULL
+Dolzhikova21,Sputnik_3dose,3rd dose isolation,~,2021-12-17,Russia,NULL,NULL,NULL
+Dolzhikova21,Sputnik_2dose,1st dose,~,2021-01-27,Russia,NULL,Sputnik V,NULL
+Dolzhikova21,Sputnik_2dose,2nd dose,~,2021-02-27,Russia,NULL,Sputnik V,NULL
+Dolzhikova21,Sputnik_2dose,2nd dose isolation,~,2021-12-17,Russia,NULL,NULL,NULL
