@@ -2151,6 +2151,14 @@ Yi21,CP,Human,NULL,9
 Yu21b,Ad26.COV2.S,Macaque,NULL,12
 Yu21c,BBIBP_3dose,Human,1982,292
 Zani21,BNT162b2,Human,NULL,37
+Zeng21,BNT162b2_2dose,Human,NULL,28
+Zeng21,BNT162b2_3dose,Human,NULL,17
+Zeng21,Delta_wave_unvaccinated,Human,NULL,12
+Zeng21,Delta_wave_vaccinated,Human,NULL,7
+Zeng21,Moderna_2dose,Human,NULL,20
+Zeng21,Moderna_3dose,Human,NULL,6
+Zeng21,first_wave_Hospitalized,Human,NULL,9
+Zeng21,first_wave_ICU,Human,NULL,9
 Zhang21c,CP,Human,NULL,5
 Zhang21c,CP_B.1.1.7,Human,NULL,4
 Zhang21c,CP_B.1.351,Human,NULL,3
