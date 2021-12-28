@@ -1,0 +1,504 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Edara21d,Moderna_2dose_4w_1,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_2,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_3,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_4,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_5,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_6,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_7,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_8,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_9,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_10,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_11,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_2dose_4w_1,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_2,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_3,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_4,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_5,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_6,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_7,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_8,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_9,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_10,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_11,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_12,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_13,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_2dose_4w_1,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_2,2nd dose isolation,~,2021-02-27,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_3,2nd dose isolation,~,2021-02-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_4,2nd dose isolation,~,2021-02-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_5,2nd dose isolation,~,2021-02-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_6,2nd dose isolation,~,2021-02-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_7,2nd dose isolation,~,2021-03-04,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_8,2nd dose isolation,~,2021-02-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_9,2nd dose isolation,~,2021-02-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_10,2nd dose isolation,~,2021-02-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_11,2nd dose isolation,~,2021-03-06,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_1,2nd dose isolation,~,2021-02-13,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_2,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_3,2nd dose isolation,~,2021-02-13,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_4,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_5,2nd dose isolation,~,2021-02-16,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_6,2nd dose isolation,~,2021-02-16,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_7,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_8,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_9,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_10,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_11,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_12,2nd dose isolation,~,2021-02-15,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_4w_13,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_6m_1,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_2,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_3,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_4,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_5,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_6,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_7,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_8,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_2dose_6m_1,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_2,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_3,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_4,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_5,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_6,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_7,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_8,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_9,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_10,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_11,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_12,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_13,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_14,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_15,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_16,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_17,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_2dose_6m_1,2nd dose isolation,~,2021-07-27,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_6m_2,2nd dose isolation,~,2021-07-26,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_6m_3,2nd dose isolation,~,2021-08-10,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_6m_4,2nd dose isolation,~,2021-07-26,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_6m_5,2nd dose isolation,~,2021-06-20,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_6m_6,2nd dose isolation,~,2021-07-21,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_6m_7,2nd dose isolation,~,2021-07-24,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_6m_8,2nd dose isolation,~,2021-07-29,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_1,2nd dose isolation,~,2021-07-26,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_2,2nd dose isolation,~,2021-07-25,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_3,2nd dose isolation,~,2021-07-28,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_4,2nd dose isolation,~,2021-08-04,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_5,2nd dose isolation,~,2021-07-25,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_6,2nd dose isolation,~,2021-07-31,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_7,2nd dose isolation,~,2021-08-01,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_8,2nd dose isolation,~,2021-07-26,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_9,2nd dose isolation,~,2021-07-30,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_10,2nd dose isolation,~,2021-07-26,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_11,2nd dose isolation,~,2021-07-26,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_12,2nd dose isolation,~,2021-06-12,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_13,2nd dose isolation,~,2021-07-25,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_14,2nd dose isolation,~,2021-07-29,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_15,2nd dose isolation,~,2021-08-02,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_16,2nd dose isolation,~,2021-06-21,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_6m_17,2nd dose isolation,~,2021-07-25,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_1,infection,~,2020-10-06,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_2,infection,~,2020-10-09,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_3,infection,~,2020-10-19,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_4,infection,~,2020-10-01,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_5,infection,~,2020-10-13,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_6,infection,~,2020-10-04,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_7,infection,~,2020-08-08,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_8,infection,~,2020-09-20,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_9,infection,~,2021-01-03,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_10,infection,~,2020-08-27,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_11,infection,~,2020-11-06,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_12,infection,~,2021-01-01,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_13,infection,~,2021-04-19,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_1,infection,~,2020-07-21,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_2,infection,~,2020-10-19,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_3,infection,~,2020-09-05,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_4,infection,~,2020-09-09,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_5,infection,~,2020-08-07,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_6,infection,~,2020-07-01,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_7,infection,~,2020-09-17,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_8,infection,~,2020-07-19,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_9,infection,~,2020-07-21,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_10,infection,~,2020-07-27,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_11,infection,~,2020-07-10,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_12,infection,~,2020-09-13,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_13,infection,~,2020-10-15,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_14,infection,~,2020-08-10,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_15,infection,~,2020-07-05,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_16,infection,~,2020-11-23,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_17,infection,~,2021-02-18,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_18,infection,~,2020-12-09,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_19,infection,~,2020-12-01,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_20,infection,~,2020-12-11,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_21,infection,~,2021-02-20,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_22,infection,~,2021-04-27,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_23,infection,~,2021-06-14,USA,B.1 full genome,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_24,infection,~,2021-06-18,USA,B.1 full genome,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_1,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_2,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_3,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_4,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_5,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_6,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_7,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_8,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_9,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_10,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_11,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_12,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_13,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_2dose_recovered_6m_1,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_2,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_3,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_4,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_5,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_6,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_7,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_8,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_9,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_10,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_11,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_12,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_13,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_14,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_15,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_16,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_17,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_18,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_19,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_20,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_21,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_22,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_23,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_24,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_2dose_recovered_6m_1,2nd dose isolation,~,2021-07-29,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_2,2nd dose isolation,~,2021-07-26,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_3,2nd dose isolation,~,2021-08-11,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_4,2nd dose isolation,~,2021-07-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_5,2nd dose isolation,~,2021-07-25,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_6,2nd dose isolation,~,2021-07-25,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_7,2nd dose isolation,~,2021-07-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_8,2nd dose isolation,~,2021-07-24,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_9,2nd dose isolation,~,2021-09-21,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_10,2nd dose isolation,~,2021-07-27,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_11,2nd dose isolation,~,2021-07-27,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_12,2nd dose isolation,~,2021-06-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_recovered_6m_13,2nd dose isolation,~,2021-07-19,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_1,2nd dose isolation,~,2021-07-25,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_2,2nd dose isolation,~,2021-07-12,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_3,2nd dose isolation,~,2021-08-10,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_4,2nd dose isolation,~,2021-08-10,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_5,2nd dose isolation,~,2021-08-03,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_6,2nd dose isolation,~,2021-07-24,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_7,2nd dose isolation,~,2021-08-01,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_8,2nd dose isolation,~,2021-07-25,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_9,2nd dose isolation,~,2021-07-27,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_10,2nd dose isolation,~,2021-08-07,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_11,2nd dose isolation,~,2021-07-23,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_12,2nd dose isolation,~,2021-07-17,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_13,2nd dose isolation,~,2021-07-30,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_14,2nd dose isolation,~,2021-07-28,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_15,2nd dose isolation,~,2021-07-14,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_16,2nd dose isolation,~,2021-08-17,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_17,2nd dose isolation,~,2021-08-06,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_18,2nd dose isolation,~,2021-08-11,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_19,2nd dose isolation,~,2021-08-03,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_20,2nd dose isolation,~,2021-08-03,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_21,2nd dose isolation,~,2021-08-10,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_22,2nd dose isolation,~,2021-08-01,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_23,2nd dose isolation,~,2021-07-24,USA,NULL,NULL,NULL
+Edara21d,BNT_2dose_recovered_6m_24,2nd dose isolation,~,2021-07-28,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_1,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_2,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_3,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_4,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_3dose_4w_1,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_2,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_3,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_4,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_5,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_6,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_7,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_8,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_9,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_10,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_11,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_12,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_13,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_14,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_15,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_16,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_17,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_18,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_19,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_20,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_21,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_22,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_23,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_24,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_25,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_26,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_27,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_28,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_29,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_30,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_31,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_3dose_4w_5,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_6,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_7,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_8,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_9,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_10,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_11,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_12,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_13,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_14,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_15,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_16,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_17,2nd dose,~,2021-01-31,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_3dose_4w_32,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_33,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_34,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_35,2nd dose,~,2021-01-31,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_3dose_4w_1,3rd dose,~,2021-11-15,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_2,3rd dose,~,2021-10-11,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_3,3rd dose,~,2021-09-08,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_4,3rd dose,~,2021-11-13,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_3dose_4w_1,3rd dose,~,2021-10-19,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_2,3rd dose,~,2021-07-30,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_3,3rd dose,~,2021-10-04,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_4,3rd dose,~,2021-10-18,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_5,3rd dose,~,2021-10-21,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_6,3rd dose,~,2021-10-22,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_7,3rd dose,~,2021-08-28,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_8,3rd dose,~,2021-10-30,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_9,3rd dose,~,2021-10-27,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_10,3rd dose,~,2021-10-26,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_11,3rd dose,~,2021-10-29,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_12,3rd dose,~,2021-10-06,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_13,3rd dose,~,2021-10-27,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_14,3rd dose,~,2021-10-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_15,3rd dose,~,2021-10-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_16,3rd dose,~,2021-11-03,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_17,3rd dose,~,2021-11-09,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_18,3rd dose,~,2021-11-04,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_19,3rd dose,~,2021-11-06,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_20,3rd dose,~,2021-10-22,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_21,3rd dose,~,2021-10-19,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_22,3rd dose,~,2021-12-02,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_23,3rd dose,~,2021-10-31,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_24,3rd dose,~,2021-10-27,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_25,3rd dose,~,2021-11-18,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_26,3rd dose,~,2021-08-28,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_27,3rd dose,~,2021-10-11,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_28,3rd dose,~,2021-10-27,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_29,3rd dose,~,2021-08-28,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_30,3rd dose,~,2021-09-21,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_31,3rd dose,~,2021-11-13,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_3dose_4w_5,3rd dose,~,2021-10-09,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_6,3rd dose,~,2021-08-29,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_7,3rd dose,~,2021-10-14,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_8,3rd dose,~,2021-10-15,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_9,3rd dose,~,2021-11-05,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_10,3rd dose,~,2021-08-16,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_11,3rd dose,~,2021-11-01,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_12,3rd dose,~,2021-11-19,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_13,3rd dose,~,2021-10-27,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_14,3rd dose,~,2021-10-05,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_15,3rd dose,~,2021-09-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_16,3rd dose,~,2021-10-14,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_17,3rd dose,~,2021-09-11,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_3dose_4w_32,3rd dose,~,2021-11-08,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_33,3rd dose,~,2021-11-04,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_34,3rd dose,~,2021-11-18,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_35,3rd dose,~,2021-09-13,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_3dose_4w_1,3rd dose isolation,~,2021-11-24,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_2,3rd dose isolation,~,2021-10-17,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_3,3rd dose isolation,~,2021-09-15,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_4,3rd dose isolation,~,2021-12-11,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_1,3rd dose isolation,~,2021-10-30,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_2,3rd dose isolation,~,2021-08-26,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_3,3rd dose isolation,~,2021-11-01,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_4,3rd dose isolation,~,2021-11-15,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_5,3rd dose isolation,~,2021-11-20,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_6,3rd dose isolation,~,2021-11-20,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_7,3rd dose isolation,~,2021-09-23,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_8,3rd dose isolation,~,2021-11-28,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_9,3rd dose isolation,~,2021-11-25,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_10,3rd dose isolation,~,2021-11-27,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_11,3rd dose isolation,~,2021-11-28,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_12,3rd dose isolation,~,2021-11-06,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_13,3rd dose isolation,~,2021-11-26,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_14,3rd dose isolation,~,2021-11-30,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_15,3rd dose isolation,~,2021-11-29,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_16,3rd dose isolation,~,2021-12-01,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_17,3rd dose isolation,~,2021-12-06,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_18,3rd dose isolation,~,2021-12-01,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_19,3rd dose isolation,~,2021-12-04,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_20,3rd dose isolation,~,2021-11-18,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_21,3rd dose isolation,~,2021-11-19,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_22,3rd dose isolation,~,2021-12-09,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_23,3rd dose isolation,~,2021-11-25,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_24,3rd dose isolation,~,2021-11-25,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_25,3rd dose isolation,~,2021-12-17,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_26,3rd dose isolation,~,2021-09-27,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_27,3rd dose isolation,~,2021-11-13,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_28,3rd dose isolation,~,2021-11-26,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_29,3rd dose isolation,~,2021-09-27,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_30,3rd dose isolation,~,2021-10-18,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_31,3rd dose isolation,~,2021-12-11,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_5,3rd dose isolation,~,2021-11-07,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_6,3rd dose isolation,~,2021-09-05,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_7,3rd dose isolation,~,2021-11-11,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_8,3rd dose isolation,~,2021-10-23,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_9,3rd dose isolation,~,2021-11-12,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_10,3rd dose isolation,~,2021-08-23,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_11,3rd dose isolation,~,2021-11-08,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_12,3rd dose isolation,~,2021-11-26,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_13,3rd dose isolation,~,2021-11-24,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_14,3rd dose isolation,~,2021-11-02,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_15,3rd dose isolation,~,2021-10-15,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_16,3rd dose isolation,~,2021-10-21,USA,NULL,NULL,NULL
+Edara21d,Moderna_3dose_4w_17,3rd dose isolation,~,2021-10-11,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_32,3rd dose isolation,~,2021-11-14,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_33,3rd dose isolation,~,2021-11-13,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_34,3rd dose isolation,~,2021-11-25,USA,NULL,NULL,NULL
+Edara21d,BNT_3dose_4w_35,3rd dose isolation,~,2021-10-15,USA,NULL,NULL,NULL
+Edara21d,Moderna_2dose_4w_1,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_2,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_3,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_4,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_5,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_6,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_7,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_8,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_9,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_10,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_4w_11,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_2dose_4w_1,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_2,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_3,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_4,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_5,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_6,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_7,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_8,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_9,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_10,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_11,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_12,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_4w_13,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_2dose_6m_1,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_2,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_3,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_4,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_5,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_6,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_7,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_6m_8,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_2dose_6m_1,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_2,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_3,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_4,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_5,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_6,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_7,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_8,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_9,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_10,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_11,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_12,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_13,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_14,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_15,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_16,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_6m_17,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_2dose_recovered_6m_1,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_2,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_3,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_4,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_5,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_6,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_7,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_8,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_9,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_10,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_11,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_12,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_2dose_recovered_6m_13,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_2dose_recovered_6m_1,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_2,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_3,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_4,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_5,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_6,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_7,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_8,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_9,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_10,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_11,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_12,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_13,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_14,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_15,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_16,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_17,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_18,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_19,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_20,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_21,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_22,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_23,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_2dose_recovered_6m_24,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_3dose_4w_1,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_2,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_3,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_4,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_3dose_4w_1,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_2,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_3,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_4,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_5,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_6,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_7,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_8,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_9,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_10,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_11,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_12,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_13,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_14,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_15,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_16,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_17,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_18,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_19,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_20,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_21,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_22,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_23,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_24,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_25,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_26,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_27,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_28,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_29,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_30,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_31,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,Moderna_3dose_4w_5,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_6,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_7,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_8,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_9,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_10,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_11,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_12,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_13,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_14,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_15,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_16,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,Moderna_3dose_4w_17,1st dose,~,2021-01-10,USA,NULL,mRNA-1273,NULL
+Edara21d,BNT_3dose_4w_32,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_33,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_34,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
+Edara21d,BNT_3dose_4w_35,1st dose,~,2021-01-10,USA,NULL,BNT162b2,NULL
