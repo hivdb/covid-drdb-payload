@@ -1,0 +1,20 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Ai21,CoronaVac_breakthrough,1st dose,~,2021-04-01,China,NULL,CoronaVac,NULL
+Ai21,CoronaVac_breakthrough,2nd dose,~,2021-05-01,China,NULL,CoronaVac,NULL
+Ai21,CoronaVac_breakthrough,infection,~,2021-07-01,China,Unknown variant,NULL,NULL
+Ai21,CoronaVac_breakthrough,isolation,~,2021-10-01,China,NULL,NULL,NULL
+Ai21,BBIBP-CorV_2dose,1st dose,~,2021-01-01,China,NULL,BBIBP-CorV,NULL
+Ai21,BBIBP-CorV_2dose,2nd dose,~,2021-01-14,China,NULL,BBIBP-CorV,NULL
+Ai21,BBIBP-CorV_2dose,2nd dose isolation,~,2021-01-28,China,NULL,NULL,NULL
+Ai21,BBIBP-CorV_3dose,1st dose,~,2021-01-01,China,NULL,BBIBP-CorV,NULL
+Ai21,BBIBP-CorV_3dose,2nd dose,~,2021-01-21,China,NULL,BBIBP-CorV,NULL
+Ai21,BBIBP-CorV_3dose,2nd dose isolation,~,2021-07-21,China,NULL,NULL,NULL
+Ai21,BBIBP-CorV_3dose,3rd dose,~,2021-07-21,China,NULL,BBIBP-CorV,NULL
+Ai21,BBIBP-CorV_3dose,3rd dose isolation,~,2021-08-04,China,NULL,NULL,NULL
+Ai21,BBIBP-CorV_3dose,3rd dose isolation,~,2021-08-18,China,NULL,NULL,NULL
+Ai21,BBIBP-CorV_2dose_ZF2001,1st dose,~,2021-01-01,China,NULL,BBIBP-CorV,NULL
+Ai21,BBIBP-CorV_2dose_ZF2001,2nd dose,~,2021-01-21,China,NULL,BBIBP-CorV,NULL
+Ai21,BBIBP-CorV_2dose_ZF2001,2nd dose isolation,~,2021-07-21,China,NULL,NULL,NULL
+Ai21,BBIBP-CorV_2dose_ZF2001,3rd dose,~,2021-07-21,China,NULL,ZF2001,NULL
+Ai21,BBIBP-CorV_2dose_ZF2001,3rd dose isolation,~,2021-08-04,China,NULL,NULL,NULL
+Ai21,BBIBP-CorV_2dose_ZF2001,3rd dose isolation,~,2021-08-18,China,NULL,NULL,NULL
