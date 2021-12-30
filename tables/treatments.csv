@@ -411,6 +411,13 @@ Hoffmann21c,Bamlanivimab
 Hoffmann21c,Etesevimab
 Hoffmann21c,REGN-COV
 Hoffmann21c,Bamlanivimab + Etesevimab
+Hoffmann21e,Casirivimab
+Hoffmann21e,Imdevimab
+Hoffmann21e,Casirivimab/Imdevimab
+Hoffmann21e,Sotrovimab
+Hoffmann21e,Bamlanivimab
+Hoffmann21e,Etesevimab
+Hoffmann21e,Bamlanivimab/Etesevimab
 Hu21,CQ012
 Hu21,CQ016
 Hu21,CQ024
@@ -6883,6 +6890,10 @@ Hoffmann21c,BNT_ID4872
 Hoffmann21c,BNT_ID4874
 Hoffmann21c,BNT_ID4876
 Hoffmann21c,BNT_ID4877
+Hoffmann21e,CP_2m
+Hoffmann21e,BNT_2dose_3m
+Hoffmann21e,AZD_BNT_2dose_1m
+Hoffmann21e,BNT_3dose_1m
 Hu21,CP_5-33d_01
 Hu21,CP_5-33d_02
 Hu21,CP_5-33d_03
