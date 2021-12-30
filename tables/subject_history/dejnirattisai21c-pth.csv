@@ -1,0 +1,23 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Dejnirattisai21c,CP_Early,infection,~,2020-09-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21c,CP_Early,isolation,~,2020-09-15,UK,NULL,NULL,NULL
+Dejnirattisai21c,CP_Alpha,infection,~,2021-01-01,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21c,CP_Alpha,isolation,~,2021-01-15,UK,NULL,NULL,NULL
+Dejnirattisai21c,CP_Beta,infection,~,2021-01-01,UK,B.1.351 full genome,NULL,NULL
+Dejnirattisai21c,CP_Beta,isolation,~,2021-01-15,UK,NULL,NULL,NULL
+Dejnirattisai21c,CP_Gamma,infection,~,2021-01-01,UK,P.1 full genome,NULL,NULL
+Dejnirattisai21c,CP_Gamma,isolation,~,2021-01-15,UK,NULL,NULL,NULL
+Dejnirattisai21c,CP_Delta,infection,~,2021-07-01,UK,B.1.617.2 full genome,NULL,NULL
+Dejnirattisai21c,CP_Delta,isolation,~,2021-07-15,UK,NULL,NULL,NULL
+Dejnirattisai21c,AZD1222,1st dose,~,2021-01-01,UK,NULL,AZD1222,NULL
+Dejnirattisai21c,AZD1222,2nd dose,~,2021-03-19,UK,NULL,AZD1222,NULL
+Dejnirattisai21c,AZD1222,2nd dose isolation,~,2021-04-16,UK,NULL,NULL,NULL
+Dejnirattisai21c,AZD1222,3rd dose,~,2021-09-15,UK,NULL,AZD1222,NULL
+Dejnirattisai21c,AZD1222,3rd dose isolation,~,2021-10-13,UK,NULL,NULL,NULL
+Dejnirattisai21c,BNT,1st dose,~,2021-01-01,UK,NULL,BNT162b2,NULL
+Dejnirattisai21c,BNT,2nd dose,~,2021-01-28,UK,NULL,BNT162b2,NULL
+Dejnirattisai21c,BNT,2nd dose isolation,~,2021-02-25,UK,NULL,NULL,NULL
+Dejnirattisai21c,BNT,2nd dose isolation,~,2021-07-27,UK,NULL,NULL,NULL
+Dejnirattisai21c,BNT,2nd dose isolation,~,2021-10-25,UK,NULL,NULL,NULL
+Dejnirattisai21c,BNT,3rd dose,~,2021-10-25,UK,NULL,BNT162b2,NULL
+Dejnirattisai21c,BNT,3rd dose isolation,~,2021-11-22,UK,NULL,NULL,NULL
