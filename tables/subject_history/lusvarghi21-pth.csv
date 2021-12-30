@@ -1,0 +1,16 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Lusvarghi21,BNT162b2,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Lusvarghi21,BNT162b2,2nd dose,~,2021-01-22,USA,NULL,BNT162b2,NULL
+Lusvarghi21,BNT162b2,2nd dose isolation,~,2021-02-21,USA,NULL,NULL,NULL
+Lusvarghi21,BNT162b2,3rd dose,~,2021-10-16,USA,NULL,BNT162b2,NULL
+Lusvarghi21,BNT162b2,3rd dose isolation,~,2021-11-28,USA,NULL,NULL,NULL
+Lusvarghi21,B.1_infection,infection,~,2020-07-01,USA,B.1 full genome,NULL,NULL
+Lusvarghi21,B.1_infection,isolation,~,2020-07-31,USA,NULL,NULL,NULL
+Lusvarghi21,B.1.2_infection,infection,~,2020-07-01,USA,B.1.2 full genome,NULL,NULL
+Lusvarghi21,B.1.2_infection,isolation,~,2020-07-31,USA,NULL,NULL,NULL
+Lusvarghi21,B.1.1.7_infection,infection,~,2021-01-01,USA,B.1.1.7 full genome,NULL,NULL
+Lusvarghi21,B.1.1.7_infection,isolation,~,2021-01-31,USA,NULL,NULL,NULL
+Lusvarghi21,B.1.351_infection,infection,~,2021-01-01,USA,B.1.351 full genome,NULL,NULL
+Lusvarghi21,B.1.351_infection,isolation,~,2021-01-31,USA,NULL,NULL,NULL
+Lusvarghi21,Delta_infection,infection,~,2021-07-01,USA,B.1.617.2 full genome,NULL,NULL
+Lusvarghi21,Delta_infection,isolation,~,2021-07-31,USA,NULL,NULL,NULL
