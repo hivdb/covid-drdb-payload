@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Arien21,CP,INMI1,Figure 1B,Virus isolate,NT50,1086,10,100000,50,NULL,2022-01-03
+Arien21,CP,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,151,10,100000,50,NULL,2022-01-03
+Arien21,CP,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,50,10,100000,50,NULL,2022-01-03
+Arien21,BNT_3dose,INMI1,Figure 1B,Virus isolate,NT50,2157,10,100000,50,NULL,2022-01-03
+Arien21,BNT_3dose,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,477,10,100000,50,NULL,2022-01-03
+Arien21,BNT_3dose,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,165,10,100000,50,NULL,2022-01-03
+Arien21,CP_BNT_3dose,INMI1,Figure 1B,Virus isolate,NT50,4822,10,100000,50,NULL,2022-01-03
+Arien21,CP_BNT_3dose,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,1159,10,100000,50,NULL,2022-01-03
+Arien21,CP_BNT_3dose,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,236,10,100000,50,NULL,2022-01-03
