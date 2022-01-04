@@ -69,10 +69,10 @@ ab_name,pdb_id,target,class,source
 7D6,7EAM,RBD,RBD Core Cluster I,structure
 910-30,7KS9,RBD,RBM Class II,structure
 9G11,NULL,RBD,NULL,author
-A19-46.1,NULL,RBD,NULL,author
-A19-61.1,NULL,RBD,NULL,author
-A23-58-1,7LRT,RBD,RBM Class I,structure
-A23-58.1,NULL,RBD,NULL,author
+A19-46.1,NULL,RBD,RBM Class II,author
+A19-61.1,NULL,RBD,RBD Core Cluster I,author
+A23-58.1,7LRT,RBD,RBM Class I,structure
+A23-58.1,NULL,RBD,RBM Class I,author
 A247,NULL,RBD,NULL,author
 A261-262,NULL,RBD,NULL,author
 AB35,NULL,RBD,NULL,author
@@ -83,7 +83,7 @@ ADI-56479,NULL,NTD,NTD,author
 ADI-58125,NULL,RBD,RBD Core Cluster II,author
 Adintrevimab,NULL,RBD,NULL,author
 B07,NULL,RBD,NULL,author
-B1-182.1,NULL,RBD,NULL,author
+B1-182.1,NULL,RBD,RBM Class I,author
 B38,7BZ5,RBD,RBM Class I,structure
 B6,7M51,S2,S2,structure
 BD-236,7CHB,RBD,RBM Class I,structure
