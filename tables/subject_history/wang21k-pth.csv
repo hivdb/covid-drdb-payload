@@ -1,0 +1,14 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Wang21k,CP_Delta,infection,~,2021-06-21,China,B.1.617.2 full genome,NULL,NULL
+Wang21k,CP_Delta,isolation,~,2021-09-21,China,NULL,NULL,NULL
+Wang21k,BBIBP-CorV_2dose_d14,1st dose,~,2021-01-01,China,NULL,BBIBP-CorV,NULL
+Wang21k,BBIBP-CorV_2dose_d14,2nd dose,~,2021-02-01,China,NULL,BBIBP-CorV,NULL
+Wang21k,BBIBP-CorV_2dose_d14,2nd dose isolation,~,2021-02-15,China,NULL,NULL,NULL
+Wang21k,BBIBP-CorV_3dose_d14,1st dose,~,2021-01-01,China,NULL,BBIBP-CorV,NULL
+Wang21k,BBIBP-CorV_3dose_d14,2nd dose,~,2021-02-01,China,NULL,BBIBP-CorV,NULL
+Wang21k,BBIBP-CorV_3dose_d14,3rd dose,~,2021-07-01,China,NULL,BBIBP-CorV,NULL
+Wang21k,BBIBP-CorV_3dose_d14,3rd dose isolation,~,2021-07-15,China,NULL,NULL,NULL
+Wang21k,ZF2001_3dose_d14,1st dose,~,2021-01-01,China,NULL,BBIBP-CorV,NULL
+Wang21k,ZF2001_3dose_d14,2nd dose,~,2021-02-01,China,NULL,BBIBP-CorV,NULL
+Wang21k,ZF2001_3dose_d14,3rd dose,~,2021-07-01,China,NULL,NULL,NULL
+Wang21k,ZF2001_3dose_d14,3rd dose isolation,~,2021-07-15,China,NULL,NULL,NULL
