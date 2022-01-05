@@ -53,3 +53,4 @@ directly.
 ## Wiki
 
 [Variants, isolates and mutations](https://github.com/hivdb/covid-drdb-payload/wiki/Variants,-isolates-and-mutations)
+[Entering neutralization data](https://github.com/hivdb/covid-drdb-payload/wiki/Entering-neutralization-data)
