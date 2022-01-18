@@ -1,14 +1,14 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Arien21,CP_1,INMI1,Figure 1B,Virus isolate,NT50,1361,1,100000,50,NULL,2022-01-09
-Arien21,CP_2,INMI1,Figure 1B,Virus isolate,NT50,530,1,100000,50,NULL,2022-01-09
-Arien21,CP_3,INMI1,Figure 1B,Virus isolate,NT50,155,1,100000,50,NULL,2022-01-09
-Arien21,CP_4,INMI1,Figure 1B,Virus isolate,NT50,67,1,100000,50,NULL,2022-01-09
-Arien21,CP_5,INMI1,Figure 1B,Virus isolate,NT50,71,1,100000,50,NULL,2022-01-09
-Arien21,CP_6,INMI1,Figure 1B,Virus isolate,NT50,530,1,100000,50,NULL,2022-01-09
-Arien21,CP_7,INMI1,Figure 1B,Virus isolate,NT50,326,1,100000,50,NULL,2022-01-09
-Arien21,CP_8,INMI1,Figure 1B,Virus isolate,NT50,141,1,100000,50,NULL,2022-01-09
-Arien21,CP_9,INMI1,Figure 1B,Virus isolate,NT50,200,1,100000,50,NULL,2022-01-09
-Arien21,CP_10,INMI1,Figure 1B,Virus isolate,NT50,200,1,100000,50,NULL,2022-01-09
+Arien21,CP_1,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,1361,1,100000,50,NULL,2022-01-09
+Arien21,CP_2,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,530,1,100000,50,NULL,2022-01-09
+Arien21,CP_3,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,155,1,100000,50,NULL,2022-01-09
+Arien21,CP_4,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,67,1,100000,50,NULL,2022-01-09
+Arien21,CP_5,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,71,1,100000,50,NULL,2022-01-09
+Arien21,CP_6,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,530,1,100000,50,NULL,2022-01-09
+Arien21,CP_7,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,326,1,100000,50,NULL,2022-01-09
+Arien21,CP_8,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,141,1,100000,50,NULL,2022-01-09
+Arien21,CP_9,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,200,1,100000,50,NULL,2022-01-09
+Arien21,CP_10,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,200,1,100000,50,NULL,2022-01-09
 Arien21,CP_1,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,74,1,100000,50,NULL,2022-01-09
 Arien21,CP_2,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,200,1,100000,50,NULL,2022-01-09
 Arien21,CP_3,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,74,1,100000,50,NULL,2022-01-09
@@ -29,16 +29,16 @@ Arien21,CP_7,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,1469,1,100000,50
 Arien21,CP_8,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,919,1,100000,50,NULL,2022-01-09
 Arien21,CP_9,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,681,1,100000,50,NULL,2022-01-09
 Arien21,CP_10,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,865,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_1,INMI1,Figure 1B,Virus isolate,NT50,13079,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_2,INMI1,Figure 1B,Virus isolate,NT50,10069,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_3,INMI1,Figure 1B,Virus isolate,NT50,2533,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_4,INMI1,Figure 1B,Virus isolate,NT50,4227,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_5,INMI1,Figure 1B,Virus isolate,NT50,4513,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_6,INMI1,Figure 1B,Virus isolate,NT50,4250,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_7,INMI1,Figure 1B,Virus isolate,NT50,9029,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_8,INMI1,Figure 1B,Virus isolate,NT50,4204,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_9,INMI1,Figure 1B,Virus isolate,NT50,2259,1,100000,50,NULL,2022-01-09
-Arien21,BNT_3dose_10,INMI1,Figure 1B,Virus isolate,NT50,2840,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_1,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,13079,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_2,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,10069,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_3,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,2533,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_4,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,4227,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_5,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,4513,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_6,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,4250,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_7,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,9029,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_8,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,4204,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_9,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,2259,1,100000,50,NULL,2022-01-09
+Arien21,BNT_3dose_10,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,2840,1,100000,50,NULL,2022-01-09
 Arien21,BNT_3dose_1,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,340,1,100000,50,NULL,2022-01-09
 Arien21,BNT_3dose_2,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,565,1,100000,50,NULL,2022-01-09
 Arien21,BNT_3dose_3,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,141,1,100000,50,NULL,2022-01-09
@@ -59,16 +59,16 @@ Arien21,BNT_3dose_7,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,3184,1,10
 Arien21,BNT_3dose_8,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,6366,1,100000,50,NULL,2022-01-09
 Arien21,BNT_3dose_9,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,1594,1,100000,50,NULL,2022-01-09
 Arien21,BNT_3dose_10,B.1.1.529 full genome,Figure 1B,Virus isolate,NT50,1711,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_1,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_2,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_3,INMI1,Figure 1B,Virus isolate,NT50,54,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_4,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_5,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_6,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_7,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_8,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_9,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
-Arien21,CP_BNT_3dose_10,INMI1,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_1,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_2,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_3,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,54,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_4,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_5,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_6,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_7,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_8,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_9,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
+Arien21,CP_BNT_3dose_10,SARS-CoV-2/human/ITA/INMI1/2020,Figure 1B,Virus isolate,NT50,25,1,100000,50,NULL,2022-01-09
 Arien21,CP_BNT_3dose_1,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,100,1,100000,50,NULL,2022-01-09
 Arien21,CP_BNT_3dose_2,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,217,1,100000,50,NULL,2022-01-09
 Arien21,CP_BNT_3dose_3,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,485,1,100000,50,NULL,2022-01-09
