@@ -954,6 +954,12 @@ Imai21,SUCo-001,Human,NULL,1
 Imai21,SUCo-002,Human,NULL,1
 Imai21,SUCo-004,Human,NULL,1
 Imai21,SUCo-005,Human,NULL,1
+Jacobsen21,AZD_2dose,Human,1956,14
+Jacobsen21,AZD_BNT,Human,1954,15
+Jacobsen21,AZD_mRNA,Human,1953,11
+Jacobsen21,Ad26.COV2.S_1dose,Human,1960,11
+Jacobsen21,BNT_2dose,Human,1971,15
+Jacobsen21,mRNA_2dose,Human,1965,16
 Jalkanen21,CP,Human,NULL,50
 Jalkanen21,VAC_naive,Human,NULL,169
 Jalkanen21,VAC_recovered,Human,NULL,11

@@ -1,0 +1,19 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Jacobsen21,Ad26.COV2.S_1dose,1st dose,~,2021-01-01,Germany,NULL,Ad26.COV2.S,NULL
+Jacobsen21,Ad26.COV2.S_1dose,1st dose isolation,~,2021-03-01,Germany,NULL,NULL,NULL
+Jacobsen21,AZD_2dose,1st dose,~,2021-01-01,Germany,NULL,AZD1222,NULL
+Jacobsen21,AZD_2dose,2nd dose,~,2021-03-15,Germany,NULL,AZD1222,NULL
+Jacobsen21,AZD_2dose,2nd dose isolation,~,2021-04-15,Germany,NULL,NULL,NULL
+Jacobsen21,BNT_2dose,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
+Jacobsen21,BNT_2dose,2nd dose,~,2021-02-01,Germany,NULL,BNT162b2,NULL
+Jacobsen21,BNT_2dose,2nd dose isolation,~,2021-03-01,Germany,NULL,NULL,NULL
+Jacobsen21,BNT_2dose,2nd dose isolation,~,2021-08-01,Germany,NULL,NULL,NULL
+Jacobsen21,AZD_BNT,1st dose,~,2021-01-01,Germany,NULL,AZD1222,NULL
+Jacobsen21,AZD_BNT,2nd dose,~,2021-03-15,Germany,NULL,BNT162b2,NULL
+Jacobsen21,AZD_BNT,2nd dose isolation,~,2021-04-15,Germany,NULL,NULL,NULL
+Jacobsen21,AZD_mRNA,1st dose,~,2021-01-01,Germany,NULL,AZD1222,NULL
+Jacobsen21,AZD_mRNA,2nd dose,~,2021-03-01,Germany,NULL,mRNA-1273,NULL
+Jacobsen21,AZD_mRNA,2nd dose isolation,~,2021-04-01,Germany,NULL,NULL,NULL
+Jacobsen21,mRNA_2dose,1st dose,~,2021-01-01,Germany,NULL,mRNA-1273,NULL
+Jacobsen21,mRNA_2dose,2nd dose,~,2021-02-01,Germany,NULL,mRNA-1273,NULL
+Jacobsen21,mRNA_2dose,2nd dose isolation,~,2021-03-01,Germany,NULL,NULL,NULL
