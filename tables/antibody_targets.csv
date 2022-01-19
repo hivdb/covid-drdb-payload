@@ -82,6 +82,8 @@ ADI-56443,NULL,RBD,NULL,author
 ADI-56479,NULL,NTD,NTD,author
 ADI-58125,NULL,RBD,RBD Core Cluster II,author
 Adintrevimab,NULL,RBD,NULL,author
+Amubarvimab,NULL,RBD,NULL,author
+Amubarvimab,7CDI,RBD,RBM Class I,structure
 B07,NULL,RBD,NULL,author
 B1-182.1,NULL,RBD,RBM Class I,author
 B38,7BZ5,RBD,RBM Class I,structure
@@ -101,10 +103,9 @@ BG10-19,7M6E,RBD,RBM Class I,structure
 BG4-25,7M6D,RBD,RBM Class I,structure
 BG7-15,7M6G,RBD,RBM Class II,structure
 BG7-20,7M6H,RBD,RBM Class I,structure
-BRII-196,NULL,RBD,NULL,author
-BRII-196,7CDI,RBD,RBM Class I,structure
-BRII-198,NULL,RBD,RBD Core Cluster II,author
 Bamlanivimab,7KMG,RBD,RBM Class II,structure
+Bebtelovimab,NULL,RBD,NULL,author
+Bebtelovimab,7MMO,RBD,RBM Class II,structure
 C002,7K8S,RBD,RBM Class II,structure
 C032,7R8M,RBD,RBD Core Cluster I,structure
 C051,7R8N,RBD,RBM Class I,structure
@@ -314,8 +315,6 @@ JMB2002,NULL,RBD,NULL,author
 LKLH,NULL,RBD,NULL,author
 LY-CoV481,7KMI,RBD,RBM Class I,structure
 LY-CoV488,7KMH,RBD,RBM Class I,structure
-LY3853113,NULL,RBD,NULL,author
-LY3853113,7MMO,RBD,RBM Class II,structure
 MR17,7C8W,RBD,RBM Class I,structure
 MR17-K99Y,7CAN,RBD,RBM Class I,structure
 MW01,7DJZ,RBD,RBM Class I,structure
@@ -393,6 +392,7 @@ REGN10989,NULL,RBD,NULL,author
 Re5D06,7OLZ,RBD,RBM Class I,structure
 Re9F06,7OLZ,RBD,RBD Core Cluster II,structure
 Regdanvimab,7CM4,RBD,RBM Class I,structure
+Romlusevimab,NULL,RBD,RBD Core Cluster II,author
 S144-1079,NULL,RBD,RBM Class II,author
 S144-1339,NULL,RBD,RBM Class II,author
 S144-1406,NULL,RBD,RBM Class II,author

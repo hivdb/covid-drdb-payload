@@ -1,6 +1,6 @@
 ref_name,rx_name,ab_name
 Liu21l,CB6,Etesevimab
-Liu21l,BRII-196,BRII-196
+Liu21l,BRII-196,Amubarvimab
 Liu21l,1-20,1-20
 Liu21l,910-30,910-30
 Liu21l,REGN10933,Casirivimab
@@ -11,7 +11,7 @@ Liu21l,REGN10987,Imdevimab
 Liu21l,COV2-2130,Cilgavimab
 Liu21l,S309,Sotrovimab
 Liu21l,2-7,2-7
-Liu21l,BRII-198,BRII-198
+Liu21l,BRII-198,Romlusevimab
 Liu21l,ADG-2,Adintrevimab
 Liu21l,DH1047,DH1047
 Liu21l,10-40,10-40
@@ -23,6 +23,6 @@ Liu21l,REGN10987+REGN10933,Casirivimab
 Liu21l,COV2-2196+COV2-2130,Cilgavimab
 Liu21l,COV2-2196+COV2-2130,Tixagevimab
 Liu21l,LY-CoV555+CB6,Etesevimab
-Liu21l,LY-CoV555+CB6,BRII-196
-Liu21l,BRII-196+BRII-198,BRII-196
-Liu21l,BRII-196+BRII-198,BRII-198
+Liu21l,LY-CoV555+CB6,Amubarvimab
+Liu21l,BRII-196+BRII-198,Amubarvimab
+Liu21l,BRII-196+BRII-198,Romlusevimab

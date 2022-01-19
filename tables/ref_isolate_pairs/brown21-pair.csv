@@ -1,6 +1,6 @@
 ref_name,control_iso_name,iso_name
-Brown21,IC19 full genome,B.1.1.7 full genome_693400
-Brown21,B.1.1.7 full genome_693400,IC19 full genome
-Brown21,IC19 full genome,B.1.1.7 full genome_723001
+Brown21,hCoV-19/England/IC19/2020,hCoV-19/England/204661721/2020
+Brown21,hCoV-19/England/204661721/2020,hCoV-19/England/IC19/2020
+Brown21,hCoV-19/England/IC19/2020,hCoV-19/England/205080610/2020
 Brown21,S:614G,B.1.1.7 Spike
 Brown21,B.1.1.7 Spike,S:614G
