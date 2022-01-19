@@ -1,118 +1,118 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Chen21e,COV2-2130,WA1+S:614G,Figure 1c,Virus isolate,IC50,26,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,33,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,10,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,19,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,55,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,62,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,13,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,WA1+S:614G,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,11,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,23,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,32,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,11,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2196,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,10,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,WA1+S:614G,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,11,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,1/8/2022
-Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,WA1+S:614G,Figure 1c,Virus isolate,IC50,156,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,92,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,209,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,98,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,18,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,20,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,110,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,44,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,40,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,WA1+S:614G,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,6,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,21,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,10,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,1/8/2022
-Chen21e,S2E12,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,12,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,WA1+S:614G,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,11,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,15,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,6,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,1/8/2022
-Chen21e,S309 + S2E12,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,WA1+S:614G,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,12,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,9462,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,5002,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,133,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,82,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,WA1+S:614G,Figure 1c,Virus isolate,IC50,12,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,17,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,108,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,93,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,71,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10987,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,104,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,WA1+S:614G,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,1/8/2022
-Chen21e,REGN10933 + REGN10987,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,WA1+S:614G,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,0.1,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,WA1+S:614G,Figure 1c,Virus isolate,IC50,319,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,657,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,305,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,240,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,277,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,456,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,1091,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,130,1,10000,1,ng/ml,1/8/2022
-Chen21e,47D11,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,341,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,WA1+S:614G,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,431,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,384,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,2187,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,1/8/2022
-Chen21e,2B04 + 47D11,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,644,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,WA1+S:614G,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,1/8/2022
-Chen21e,LY-CoV555,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,1/8/2022
+Chen21e,COV2-2130,WA1+S:614G,Figure 1c,Virus isolate,IC50,26,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,33,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,10,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,19,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,55,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,62,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,13,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,WA1+S:614G,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,11,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,23,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,32,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,11,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2196,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,10,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,WA1+S:614G,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,11,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-01-08
+Chen21e,COV2-2130 + COV2-2196,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,WA1+S:614G,Figure 1c,Virus isolate,IC50,156,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,92,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,209,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,98,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,18,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,20,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,110,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,44,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,40,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,WA1+S:614G,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,6,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,21,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,10,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,2022-01-08
+Chen21e,S2E12,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,12,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,WA1+S:614G,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,11,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,15,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,6,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,2022-01-08
+Chen21e,S309 + S2E12,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,WA1+S:614G,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,12,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,9462,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,5002,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,133,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,82,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,WA1+S:614G,Figure 1c,Virus isolate,IC50,12,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,17,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,108,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,93,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,71,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10987,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,104,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,WA1+S:614G,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,7,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,2022-01-08
+Chen21e,REGN10933 + REGN10987,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,WA1+S:614G,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,0.1,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,WA1+S:614G,Figure 1c,Virus isolate,IC50,319,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,657,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,305,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,240,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,277,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,456,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,1091,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,130,1,10000,1,ng/ml,2022-01-08
+Chen21e,47D11,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,341,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,WA1+S:614G,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,3,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,431,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,384,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,2187,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-01-08
+Chen21e,2B04 + 47D11,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,644,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,WA1+S:614G,Figure 1c,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,WA1+S:501Y+614G,Figure 1c,Virus isolate,IC50,8,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,Chen21e-B.1.1.7,Figure 1c,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,Chen21e-B.1.351,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,Chen21e-B.1.1.28,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,Chen21e-B.1.429,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,Chen21e-B.1.617.1,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,Chen21e-B.1.526/S477N,Figure 1c,Virus isolate,IC50,2,1,10000,1,ng/ml,2022-01-08
+Chen21e,LY-CoV555,Chen21e-B.1.526/E4B4K,Figure 1c,Virus isolate,IC50,>10000,1,10000,1,ng/ml,2022-01-08
