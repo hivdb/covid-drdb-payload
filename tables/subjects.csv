@@ -954,6 +954,12 @@ Imai21,SUCo-001,Human,NULL,1
 Imai21,SUCo-002,Human,NULL,1
 Imai21,SUCo-004,Human,NULL,1
 Imai21,SUCo-005,Human,NULL,1
+Jacobsen21,AZD_2dose,Human,1956,14
+Jacobsen21,AZD_BNT,Human,1954,15
+Jacobsen21,AZD_mRNA,Human,1953,11
+Jacobsen21,Ad26.COV2.S_1dose,Human,1960,11
+Jacobsen21,BNT_2dose,Human,1971,15
+Jacobsen21,mRNA_2dose,Human,1965,16
 Jalkanen21,CP,Human,NULL,50
 Jalkanen21,VAC_naive,Human,NULL,169
 Jalkanen21,VAC_recovered,Human,NULL,11
@@ -1323,6 +1329,13 @@ McCallum21c,BNT162b2,Human,NULL,15
 McCallum21c,mRNA-1273,Human,NULL,15
 Mendes-Correa21,Donor,Human,NULL,1
 Mendes-Correa21,Patient,Human,1981,1
+Meng21b,AZD1222,Human,NULL,5
+Meng21b,AZD1222_BNT,Human,NULL,20
+Meng21b,BNT,Human,NULL,20
+Meng21b,CP_Delta,Human,NULL,10
+Meng21b,CP_early,Human,NULL,12
+Meng21b,CoronaVac,Human,NULL,9
+Meng21b,mRNA-1273,Human,NULL,10
 Messali21,BNT,Human,NULL,37
 Mishra21,AZD1222,Human,NULL,1
 Miyakawa21,BNT_infected,Human,NULL,6
