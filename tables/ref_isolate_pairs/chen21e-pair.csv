@@ -1,3 +1,9 @@
-"ref_name	control_iso_name	iso_name",,
-Chen21e,WA1,WA1+S:614G
-Chen21e,WA1,WA1+S:501Y+614G
+ref_name,control_iso_name,iso_name
+Chen21e,WA1+S:614G,WA1+S:501Y+614G
+Chen21e,WA1+S:614G,Chen21e-B.1.1.7
+Chen21e,WA1+S:614G,Chen21e-B.1.351
+Chen21e,WA1+S:614G,Chen21e-B.1.1.28
+Chen21e,WA1+S:614G,Chen21e-B.1.429
+Chen21e,WA1+S:614G,Chen21e-B.1.617.1
+Chen21e,WA1+S:614G,Chen21e-B.1.526/S477N
+Chen21e,WA1+S:614G,Chen21e-B.1.526/E484K
