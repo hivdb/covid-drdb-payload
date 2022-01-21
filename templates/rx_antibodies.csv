@@ -1,14 +1,6 @@
 ref_name,rx_name,ab_name
-Chen21e,REGN10933,Casirivimab
-Chen21e,REGN10987,Imdevimab
-Chen21e,REGN10933 + REGN10987,Casirivimab + Imdevimab
-Chen21e,LY-CoV555,Bamlanivimab
-Chen21e,COV2-2196,Tixagevimab
-Chen21e,COV2-2130,Cilgavimab
-Chen21e,COV2-2130 + COV2-2196,Cilgavimab + Tixagevimab
-Chen21e,S309,S309
-Chen21e,S2E12,S2E12
-Chen21e,S309 + S2E12,S309 + S2E12
-Chen21e,2B04,2B04
-Chen21e,47D11,47D11
-Chen21e,2B04 + 47D11,2B04 + 47D11
+Ref22,Casirivimab + Imdevimab,Casirivimab
+Ref22,Casirivimab + Imdevimab,Imdevimab
+Ref22,Casirivimab,Casirivimab
+Ref22,Imdevimab,Imdevimab
+Ref22,Bamlanivimab,Bamlanivimab
