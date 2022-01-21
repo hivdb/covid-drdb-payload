@@ -1,0 +1,15 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Westendorf21,LY-CoV1404_T2_2,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC50,15,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404_T2_2,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,66,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,Bamlanivimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC50,31,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,Bamlanivimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,134,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC50,189,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,2633,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404 + Bamlanivimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC50,30,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404 + Bamlanivimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,128,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404 + Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC50,49,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404 + Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,185,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404 + Bamlanivimab + Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC50,23,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404 + Bamlanivimab + Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,140,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,CT-P59,B.1.1.529 Spike,Table 3D,Pseudovirus,IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,CT-P59,B.1.1.529 Spike,Table 3D,Pseudovirus,IC80,10000,1,10000,0.6,ng/ml,2022-01-20
