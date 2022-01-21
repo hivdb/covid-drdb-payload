@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Ikemura21,B.1.1.7_infection_1,S:614G,Figure 1A,Pseudovirus (lentivirus),NT50,533,1,100000,3,NULL,2022-01-20
 Ikemura21,B.1.1.7_infection_2,S:614G,Figure 1A,Pseudovirus (lentivirus),NT50,815,1,100000,3,NULL,2022-01-20
 Ikemura21,B.1.1.7_infection_3,S:614G,Figure 1A,Pseudovirus (lentivirus),NT50,947,1,100000,3,NULL,2022-01-20
