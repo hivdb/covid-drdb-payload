@@ -849,10 +849,10 @@ Hoffmann21c,CP_ID60,Human,NULL,1
 Hoffmann21c,CP_ID61,Human,NULL,1
 Hoffmann21c,CP_ID70,Human,NULL,1
 Hoffmann21c,CP_ID71,Human,NULL,1
-Hoffmann21d,AZD_BNT_2dose_1m,Human,NULL,10
-Hoffmann21d,BNT_2dose_3m,Human,NULL,11
-Hoffmann21d,BNT_3dose_1m,Human,NULL,10
-Hoffmann21d,CP_2m,Human,NULL,17
+Hoffmann22,AZD_BNT_2dose_1m,Human,NULL,10
+Hoffmann22,BNT_2dose_3m,Human,NULL,11
+Hoffmann22,BNT_3dose_1m,Human,NULL,10
+Hoffmann22,CP_2m,Human,NULL,17
 Hu21,CP,Human,NULL,20
 Hu21c,CP,Human,NULL,20
 Hu21c,CoronaVac,Human,NULL,20
