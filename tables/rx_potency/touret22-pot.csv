@@ -1,0 +1,19 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Touret22,Casirivimab,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,8,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Imdevimab,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,9,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Bamlanivimab,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,13,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Etesevimab,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,49,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Regdanvimab,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,13,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Sotrovimab,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,89,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Cilgavimab,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,93,1,5000,2.4,ng/ml,2022-01-11
+Touret22,Tixagevimab,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,26,1,5000,2.4,ng/ml,2022-01-11
+Touret22,Evusheld,B.1 full genome,"Figure 1, Table 1",Virus isolate,IC50,35,1,5000,2.4,ng/ml,2022-01-11
+Touret22,Casirivimab,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,1000,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Imdevimab,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,1000,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Bamlanivimab,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,1000,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Etesevimab,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,1000,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Regdanvimab,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,1000,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Sotrovimab,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,276,1,1000,0.97,ng/ml,2022-01-11
+Touret22,Cilgavimab,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,1472,1,5000,2.4,ng/ml,2022-01-11
+Touret22,Tixagevimab,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,5000,1,5000,2.4,ng/ml,2022-01-11
+Touret22,Evusheld,hCoV-19/France/PAC-1514/2021,"Figure 1, Table 1",Virus isolate,IC50,1488,1,5000,2.4,ng/ml,2022-01-11

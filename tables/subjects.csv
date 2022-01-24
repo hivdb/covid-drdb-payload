@@ -113,6 +113,14 @@ Cantoni21,CP,Human,NULL,61
 Carreno21,BNT162b2,Human,NULL,15
 Carreno21,CP,Human,NULL,8
 Carreno21,mRNA-1273,Human,NULL,15
+Carreno21b,BNT_2dose,Human,NULL,10
+Carreno21b,BNT_3dose,Human,NULL,10
+Carreno21b,CP,Human,NULL,15
+Carreno21b,CP_BNT_2dose,Human,NULL,10
+Carreno21b,CP_BNT_3dose,Human,NULL,10
+Carreno21b,CP_mRNA_2dose,Human,NULL,10
+Carreno21b,mRNA_2dose,Human,NULL,10
+Carreno21b,mRNA_3dose,Human,NULL,10
 Cele21,CP,Human,NULL,13
 Cele21,CP_B.1.1.117+S:484K,Human,NULL,1
 Cele21,CP_B.1.351,Human,NULL,6

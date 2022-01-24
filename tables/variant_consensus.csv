@@ -36,6 +36,31 @@ Alpha,N,3,L
 Alpha,N,203,K
 Alpha,N,204,R
 Alpha,N,235,F
+Alpha/L452R,PLpro,183,I
+Alpha/L452R,PLpro,890,D
+Alpha/L452R,PLpro,1412,T
+Alpha/L452R,nsp6,106,del
+Alpha/L452R,nsp6,107,del
+Alpha/L452R,nsp6,108,del
+Alpha/L452R,RdRP,323,L
+Alpha/L452R,S,69,del
+Alpha/L452R,S,70,del
+Alpha/L452R,S,144,del
+Alpha/L452R,S,452,R
+Alpha/L452R,S,501,Y
+Alpha/L452R,S,570,D
+Alpha/L452R,S,614,G
+Alpha/L452R,S,681,H
+Alpha/L452R,S,716,I
+Alpha/L452R,S,982,A
+Alpha/L452R,S,1118,H
+Alpha/L452R,ORF8,27,stop
+Alpha/L452R,ORF8,52,I
+Alpha/L452R,ORF8,73,C
+Alpha/L452R,N,3,L
+Alpha/L452R,N,203,K
+Alpha/L452R,N,204,R
+Alpha/L452R,N,235,F
 Alpha/E484K,PLpro,183,I
 Alpha/E484K,PLpro,890,D
 Alpha/E484K,PLpro,1412,T
@@ -136,6 +161,31 @@ Alpha/E484Q+Q493R,N,3,L
 Alpha/E484Q+Q493R,N,203,K
 Alpha/E484Q+Q493R,N,204,R
 Alpha/E484Q+Q493R,N,235,F
+Alpha/F490S,PLpro,183,I
+Alpha/F490S,PLpro,890,D
+Alpha/F490S,PLpro,1412,T
+Alpha/F490S,nsp6,106,del
+Alpha/F490S,nsp6,107,del
+Alpha/F490S,nsp6,108,del
+Alpha/F490S,RdRP,323,L
+Alpha/F490S,S,69,del
+Alpha/F490S,S,70,del
+Alpha/F490S,S,144,del
+Alpha/F490S,S,490,S
+Alpha/F490S,S,501,Y
+Alpha/F490S,S,570,D
+Alpha/F490S,S,614,G
+Alpha/F490S,S,681,H
+Alpha/F490S,S,716,I
+Alpha/F490S,S,982,A
+Alpha/F490S,S,1118,H
+Alpha/F490S,ORF8,27,stop
+Alpha/F490S,ORF8,52,I
+Alpha/F490S,ORF8,73,C
+Alpha/F490S,N,3,L
+Alpha/F490S,N,203,K
+Alpha/F490S,N,204,R
+Alpha/F490S,N,235,F
 Alpha/Q493R,PLpro,183,I
 Alpha/Q493R,PLpro,890,D
 Alpha/Q493R,PLpro,1412,T
@@ -245,6 +295,9 @@ Beta,nsp6,108,del
 Beta,RdRP,323,L
 Beta,S,80,A
 Beta,S,215,G
+Beta,S,241,del
+Beta,S,242,del
+Beta,S,243,del
 Beta,S,417,N
 Beta,S,484,K
 Beta,S,501,Y
@@ -263,6 +316,9 @@ Beta/E484Q,nsp6,108,del
 Beta/E484Q,RdRP,323,L
 Beta/E484Q,S,80,A
 Beta/E484Q,S,215,G
+Beta/E484Q,S,241,del
+Beta/E484Q,S,242,del
+Beta/E484Q,S,243,del
 Beta/E484Q,S,417,N
 Beta/E484Q,S,484,K
 Beta/E484Q,S,484,Q
@@ -282,6 +338,9 @@ Beta/L452R,nsp6,108,del
 Beta/L452R,RdRP,323,L
 Beta/L452R,S,80,A
 Beta/L452R,S,215,G
+Beta/L452R,S,241,del
+Beta/L452R,S,242,del
+Beta/L452R,S,243,del
 Beta/L452R,S,417,N
 Beta/L452R,S,452,R
 Beta/L452R,S,484,K
@@ -301,6 +360,9 @@ Beta/K444E,nsp6,108,del
 Beta/K444E,RdRP,323,L
 Beta/K444E,S,80,A
 Beta/K444E,S,215,G
+Beta/K444E,S,241,del
+Beta/K444E,S,242,del
+Beta/K444E,S,243,del
 Beta/K444E,S,417,N
 Beta/K444E,S,444,E
 Beta/K444E,S,484,K
@@ -320,6 +382,9 @@ Beta/G446V,nsp6,108,del
 Beta/G446V,RdRP,323,L
 Beta/G446V,S,80,A
 Beta/G446V,S,215,G
+Beta/G446V,S,241,del
+Beta/G446V,S,242,del
+Beta/G446V,S,243,del
 Beta/G446V,S,417,N
 Beta/G446V,S,446,V
 Beta/G446V,S,484,K
@@ -339,6 +404,9 @@ Beta w/o N501Y,nsp6,108,del
 Beta w/o N501Y,RdRP,323,L
 Beta w/o N501Y,S,80,A
 Beta w/o N501Y,S,215,G
+Beta w/o N501Y,S,241,del
+Beta w/o N501Y,S,242,del
+Beta w/o N501Y,S,243,del
 Beta w/o N501Y,S,417,N
 Beta w/o N501Y,S,484,K
 Beta w/o N501Y,S,614,G
@@ -356,6 +424,9 @@ Beta w/o K417N,nsp6,108,del
 Beta w/o K417N,RdRP,323,L
 Beta w/o K417N,S,80,A
 Beta w/o K417N,S,215,G
+Beta w/o K417N,S,241,del
+Beta w/o K417N,S,242,del
+Beta w/o K417N,S,243,del
 Beta w/o K417N,S,484,K
 Beta w/o K417N,S,501,Y
 Beta w/o K417N,S,614,G
@@ -373,6 +444,9 @@ Beta w/o E484K,nsp6,108,del
 Beta w/o E484K,RdRP,323,L
 Beta w/o E484K,S,80,A
 Beta w/o E484K,S,215,G
+Beta w/o E484K,S,241,del
+Beta w/o E484K,S,242,del
+Beta w/o E484K,S,243,del
 Beta w/o E484K,S,417,N
 Beta w/o E484K,S,501,Y
 Beta w/o E484K,S,614,G
@@ -439,35 +513,36 @@ Iota,S,614,G
 Iota,ORF3a,42,L
 Iota,ORF3a,57,H
 Iota,ORF8,11,I
-Iota w/o E484K,nsp2,85,I
-Iota w/o E484K,nsp4,438,P
-Iota w/o E484K,nsp6,106,del
-Iota w/o E484K,nsp6,107,del
-Iota w/o E484K,nsp6,108,del
-Iota w/o E484K,RdRP,323,L
-Iota w/o E484K,nsp13,88,H
-Iota w/o E484K,S,5,F
-Iota w/o E484K,S,95,I
-Iota w/o E484K,S,253,G
-Iota w/o E484K,S,614,G
-Iota w/o E484K,ORF3a,42,L
-Iota w/o E484K,ORF3a,57,H
-Iota w/o E484K,ORF8,11,I
-Iota/S477N w/o E484K,nsp2,85,I
-Iota/S477N w/o E484K,nsp4,438,P
-Iota/S477N w/o E484K,nsp6,106,del
-Iota/S477N w/o E484K,nsp6,107,del
-Iota/S477N w/o E484K,nsp6,108,del
-Iota/S477N w/o E484K,RdRP,323,L
-Iota/S477N w/o E484K,nsp13,88,H
-Iota/S477N w/o E484K,S,5,F
-Iota/S477N w/o E484K,S,95,I
-Iota/S477N w/o E484K,S,253,G
-Iota/S477N w/o E484K,S,477,N
-Iota/S477N w/o E484K,S,614,G
-Iota/S477N w/o E484K,ORF3a,42,L
-Iota/S477N w/o E484K,ORF3a,57,H
-Iota/S477N w/o E484K,ORF8,11,I
+Iota/S477N,nsp2,85,I
+Iota/S477N,nsp4,438,P
+Iota/S477N,nsp6,106,del
+Iota/S477N,nsp6,107,del
+Iota/S477N,nsp6,108,del
+Iota/S477N,RdRP,323,L
+Iota/S477N,nsp13,88,H
+Iota/S477N,S,5,F
+Iota/S477N,S,95,I
+Iota/S477N,S,253,G
+Iota/S477N,S,477,N
+Iota/S477N,S,614,G
+Iota/S477N,ORF3a,42,L
+Iota/S477N,ORF3a,57,H
+Iota/S477N,ORF8,11,I
+Iota/E484K,nsp2,85,I
+Iota/E484K,nsp4,438,P
+Iota/E484K,nsp6,106,del
+Iota/E484K,nsp6,107,del
+Iota/E484K,nsp6,108,del
+Iota/E484K,RdRP,323,L
+Iota/E484K,nsp13,88,H
+Iota/E484K,S,5,F
+Iota/E484K,S,95,I
+Iota/E484K,S,253,G
+Iota/E484K,S,484,K
+Iota/E484K,S,614,G
+Iota/E484K,ORF3a,42,L
+Iota/E484K,ORF3a,57,H
+Iota/E484K,ORF8,11,I
 B.1.1.50,RdRP,323,L
 B.1.1.50,RdRP,666,I
 B.1.1.50,S,614,G
@@ -525,20 +600,9 @@ A.27/A222V,ORF8,120,del
 A.27/A222V,N,202,N
 B.1.617,PLpro,994,D
 B.1.617,RdRP,323,L
-B.1.617,nsp13,206,del
-B.1.617,nsp14,21,del
 B.1.617,nsp15,255,V
-B.1.617,nsp16,186,R
-B.1.617,S,452,R
-B.1.617,S,484,Q
 B.1.617,S,614,G
-B.1.617,S,681,del
-B.1.617,ORF3a,26,L
-B.1.617,M,82,S
-B.1.617,ORF8,93,S
 B.1.617,ORF8,106,Q
-B.1.617,ORF8,121,del
-B.1.617,N,204,del
 Kappa,PLpro,749,I
 Kappa,nsp6,77,A
 Kappa,RdRP,323,L
@@ -557,7 +621,6 @@ Delta,RdRP,323,L
 Delta,RdRP,671,S
 Delta,nsp13,77,L
 Delta,S,19,R
-Delta,S,142,D
 Delta,S,156,G
 Delta,S,157,del
 Delta,S,158,del
@@ -865,7 +928,6 @@ B.1.427,S,614,G
 B.1.427,ORF3a,57,H
 B.1.427,N,205,I
 B.1.1.345,PLpro,1323,C
-B.1.1.345,RdRP,311,S
 B.1.1.345,RdRP,323,L
 B.1.1.345,S,484,K
 B.1.1.345,S,614,G
@@ -1147,6 +1209,7 @@ AT.1,S,141,del
 AT.1,S,142,del
 AT.1,S,143,del
 AT.1,S,144,del
+AT.1,S,215,G
 AT.1,S,245,P
 AT.1,S,484,K
 AT.1,S,614,G
@@ -1192,6 +1255,8 @@ C.1.2,S,136,F
 C.1.2,S,144,del
 C.1.2,S,190,S
 C.1.2,S,215,G
+C.1.2,S,243,del
+C.1.2,S,244,del
 C.1.2,S,449,H
 C.1.2,S,484,K
 C.1.2,S,501,Y
@@ -1212,7 +1277,6 @@ Delta/E484Q,RdRP,323,L
 Delta/E484Q,RdRP,671,S
 Delta/E484Q,nsp13,77,L
 Delta/E484Q,S,19,R
-Delta/E484Q,S,142,D
 Delta/E484Q,S,156,G
 Delta/E484Q,S,157,del
 Delta/E484Q,S,158,del
@@ -1235,7 +1299,6 @@ Delta/E484K,RdRP,323,L
 Delta/E484K,RdRP,671,S
 Delta/E484K,nsp13,77,L
 Delta/E484K,S,19,R
-Delta/E484K,S,142,D
 Delta/E484K,S,156,G
 Delta/E484K,S,157,del
 Delta/E484K,S,158,del
@@ -1258,7 +1321,6 @@ Delta/Q613H,RdRP,323,L
 Delta/Q613H,RdRP,671,S
 Delta/Q613H,nsp13,77,L
 Delta/Q613H,S,19,R
-Delta/Q613H,S,142,D
 Delta/Q613H,S,156,G
 Delta/Q613H,S,157,del
 Delta/Q613H,S,158,del
@@ -1349,6 +1411,7 @@ B.1.362,nsp6,37,F
 B.1.362,RdRP,323,L
 B.1.362,S,614,G
 B.1.362,ORF3a,57,H
+B.1.362,ORF3a,193,L
 B.1.362,N,194,L
 AY.4,PLpro,488,S
 AY.4,PLpro,1228,L
@@ -1363,6 +1426,7 @@ AY.4,nsp13,77,L
 AY.4,nsp14,394,V
 AY.4,S,19,R
 AY.4,S,95,I
+AY.4,S,142,D
 AY.4,S,156,G
 AY.4,S,157,del
 AY.4,S,158,del
@@ -1417,7 +1481,6 @@ AY.4.2,N,63,G
 AY.4.2,N,203,M
 AY.4.2,N,215,C
 AY.4.2,N,377,Y
-Omicron,PLpro,38,R
 Omicron,PLpro,1265,I
 Omicron,PLpro,1266,del
 Omicron,PLpro,1892,T
@@ -1430,25 +1493,11 @@ Omicron,nsp6,189,V
 Omicron,RdRP,323,L
 Omicron,nsp14,42,V
 Omicron,S,67,V
-Omicron,S,69,del
-Omicron,S,70,del
 Omicron,S,95,I
 Omicron,S,142,D
 Omicron,S,143,del
 Omicron,S,144,del
 Omicron,S,145,del
-Omicron,S,211,del
-Omicron,S,212,I
-Omicron,S,339,D
-Omicron,S,371,L
-Omicron,S,373,P
-Omicron,S,375,F
-Omicron,S,493,R
-Omicron,S,496,S
-Omicron,S,498,R
-Omicron,S,501,Y
-Omicron,S,505,H
-Omicron,S,547,K
 Omicron,S,614,G
 Omicron,S,655,Y
 Omicron,S,679,K
@@ -1459,7 +1508,6 @@ Omicron,S,954,H
 Omicron,S,969,K
 Omicron,S,981,F
 Omicron,E,9,I
-Omicron,M,3,G
 Omicron,M,19,E
 Omicron,M,63,T
 Omicron,N,13,L
@@ -1496,3 +1544,20 @@ A.2.2,ORF3a,196,V
 A.2.2,ORF8,84,S
 A.2.2,N,13,L
 A.2.2,N,197,L
+D.2,nsp2,120,F
+D.2,RdRP,323,L
+D.2,S,477,N
+D.2,S,614,G
+D.2,N,203,K
+D.2,N,204,R
+B.1.2,nsp2,85,I
+B.1.2,_3CLpro,89,F
+B.1.2,RdRP,323,L
+B.1.2,nsp14,129,D
+B.1.2,nsp16,216,C
+B.1.2,S,614,G
+B.1.2,ORF3a,57,H
+B.1.2,ORF3a,172,V
+B.1.2,ORF8,24,L
+B.1.2,N,67,S
+B.1.2,N,199,L
