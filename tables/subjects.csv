@@ -2310,10 +2310,10 @@ Wang21i,BNT162b2,Human,NULL,50
 Wang21j,CP_Mild,Human,NULL,25
 Wang21j,CP_Moderate,Human,NULL,19
 Wang21j,CP_Severe,Human,NULL,13
-Wang21k,BBIBP-CorV_2dose_d14,Human,NULL,10
-Wang21k,BBIBP-CorV_3dose_d14,Human,NULL,10
-Wang21k,CP_Delta,Human,NULL,10
-Wang21k,ZF2001_3dose_d14,Human,NULL,10
+Wang22,BBIBP-CorV_2dose_d14,Human,NULL,10
+Wang22,BBIBP-CorV_3dose_d14,Human,NULL,10
+Wang22,CP_Delta,Human,NULL,10
+Wang22,ZF2001_3dose_d14,Human,NULL,10
 Weigang21,BNT162b2,Human,NULL,1
 Weigang21,BW-FR,Human,1962,1
 Weigang21,CP_Human,Human,NULL,2
