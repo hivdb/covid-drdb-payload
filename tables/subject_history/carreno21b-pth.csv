@@ -1,0 +1,30 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Carreno21b,CP,infection,~,2020-06-01,USA,B.1 full genome,NULL,NULL
+Carreno21b,CP,isolation,~,2020-08-01,USA,NULL,NULL,NULL
+Carreno21b,BNT_2dose,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Carreno21b,BNT_2dose,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Carreno21b,BNT_2dose,2nd dose isolation,~,2021-02-24,USA,NULL,NULL,NULL
+Carreno21b,mRNA_2dose,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Carreno21b,mRNA_2dose,2nd dose,~,2021-02-01,USA,NULL,mRNA-1273,NULL
+Carreno21b,mRNA_2dose,2nd dose isolation,~,2021-02-24,USA,NULL,NULL,NULL
+Carreno21b,BNT_3dose,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Carreno21b,BNT_3dose,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Carreno21b,BNT_3dose,3rd dose,~,2021-08-01,USA,NULL,BNT162b2,NULL
+Carreno21b,BNT_3dose,3rd dose isolation,~,2021-08-24,USA,NULL,NULL,NULL
+Carreno21b,mRNA_3dose,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Carreno21b,mRNA_3dose,2nd dose,~,2021-02-01,USA,NULL,mRNA-1273,NULL
+Carreno21b,mRNA_3dose,3rd dose,~,2021-08-01,USA,NULL,mRNA-1273,NULL
+Carreno21b,mRNA_3dose,3rd dose isolation,~,2021-08-24,USA,NULL,NULL,NULL
+Carreno21b,CP_BNT_2dose,infection,~,2020-06-01,USA,B.1 full genome,NULL,NULL
+Carreno21b,CP_BNT_2dose,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Carreno21b,CP_BNT_2dose,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Carreno21b,CP_BNT_2dose,2nd dose isolation,~,2021-02-24,USA,NULL,NULL,NULL
+Carreno21b,CP_mRNA_2dose,infection,~,2020-06-01,USA,B.1 full genome,NULL,NULL
+Carreno21b,CP_mRNA_2dose,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Carreno21b,CP_mRNA_2dose,2nd dose,~,2021-02-01,USA,NULL,mRNA-1273,NULL
+Carreno21b,CP_mRNA_2dose,2nd dose isolation,~,2021-02-24,USA,NULL,NULL,NULL
+Carreno21b,CP_BNT_3dose,infection,~,2020-06-01,USA,B.1 full genome,NULL,NULL
+Carreno21b,CP_BNT_3dose,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Carreno21b,CP_BNT_3dose,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Carreno21b,CP_BNT_3dose,3rd dose,~,2021-08-01,USA,NULL,BNT162b2,NULL
+Carreno21b,CP_BNT_3dose,3rd dose isolation,~,2021-08-24,USA,NULL,NULL,NULL

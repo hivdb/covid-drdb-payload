@@ -1,295 +1,295 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Planas21c,Bamlanivimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,Bamlanivimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,Etesevimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,14,1,10000,1,ng/ml,2021-12-16
-Planas21c,Etesevimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,BAM+ETE,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,21.7,1,10000,1,ng/ml,2021-12-16
-Planas21c,BAM+ETE,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,Casirivimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,2.2,1,10000,1,ng/ml,2021-12-16
-Planas21c,Casirivimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,Imdevimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,5.7,1,10000,1,ng/ml,2021-12-16
-Planas21c,Imdevimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,Ronapreve,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,10,1,10000,1,ng/ml,2021-12-16
-Planas21c,Ronapreve,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,Cilgavimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,62,1,10000,1,ng/ml,2021-12-16
-Planas21c,Cilgavimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,1079,1,10000,1,ng/ml,2021-12-16
-Planas21c,Tixagevimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,20,1,10000,1,ng/ml,2021-12-16
-Planas21c,Tixagevimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,Evusheld,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,16,1,10000,1,ng/ml,2021-12-16
-Planas21c,Evusheld,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,1355,1,10000,1,ng/ml,2021-12-16
-Planas21c,Regdanvimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,93,1,10000,1,ng/ml,2021-12-16
-Planas21c,Regdanvimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2021-12-16
-Planas21c,Sotrovimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,369,1,10000,1,ng/ml,2021-12-16
-Planas21c,Sotrovimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,1114,1,10000,1,ng/ml,2021-12-16
-Planas21c,Adintrevimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Table 1,Virus isolate,IC50,20,1,10000,1,ng/ml,2021-12-16
-Planas21c,Adintrevimab,hCoV-19/Belgium/rega-20174/2021,Extended Table 1,Virus isolate,IC50,391,1,10000,1,ng/ml,2021-12-16
-Planas21c,BNT_2dose_M5_1,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,45,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_2,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,117,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_3,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,250,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_4,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,366,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_5,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,689,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_6,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,669,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_7,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,218,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_8,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,97,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_9,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,517,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_10,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,105,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_11,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1259,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_12,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,900,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_13,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,3096,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_14,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1010,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_15,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,283,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_16,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,149,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,55,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,73,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,216,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,106,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,212,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,37,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,214,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,483,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,342,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,1308,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,333,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_15,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,54,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_16,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,39,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_1,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_2,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_3,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_4,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_5,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_6,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_7,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_8,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_9,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_10,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_11,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,63,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_12,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_13,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_14,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_15,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_2dose_M5_16,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_1,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,112,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_2,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_3,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,5978,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_4,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,97,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_5,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,242,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_6,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,51,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_7,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,164,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_8,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1479,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_9,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,122,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_10,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,225,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_11,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,202,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_12,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1383,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_13,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_14,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,150,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_15,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,650,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_16,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,308,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_17,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,133,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_18,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,414,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,252,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,36,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,62,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,73,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,156,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,103,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,35,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,240,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,91,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_15,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,56,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_16,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,109,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_17,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,164,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_18,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,262,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_1,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_2,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_3,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,44,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_4,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_5,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_6,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_7,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_8,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_9,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_10,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_11,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_12,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,42,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_13,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_14,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_15,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_16,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_17,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,AZD_2dose_M5_18,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_1,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,10423,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_2,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,3057,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_3,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,2452,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_4,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,12150,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_5,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,3960,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_6,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,13630,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_7,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,19618,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_8,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,4036,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_9,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,12267,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_10,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,47829,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_11,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,14576,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,6455,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,2250,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,1173,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,3774,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,2315,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,4984,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,4114,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,1986,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,4750,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,17826,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,9471,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_1,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,1462,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_2,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,226,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_3,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,712,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_4,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,641,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_5,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,463,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_6,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,968,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_7,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,179,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_8,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,205,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_9,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,421,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_10,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,1737,1,1000000,30,NULL,2021-12-16
-Planas21c,BNT_3dose_M1_11,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,4796,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_1,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,295,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_2,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,567,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_3,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,936,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_4,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,112,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_5,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1226,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_6,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,3374,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_7,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1011,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_8,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,206,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_9,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,818,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_10,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,562,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_11,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,826,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_12,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,99,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_13,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,40,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_14,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,218,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_15,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,243,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_16,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,103,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,241,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,1338,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,901,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,74,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,1702,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,2455,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,459,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,102,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,198,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,2317,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,1431,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,177,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,36,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,567,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_15,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,67,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_16,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,165,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_1,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_2,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_3,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,111,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_4,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_5,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,204,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_6,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,257,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_7,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,54,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_8,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_9,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_10,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,126,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_11,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,72,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_12,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_13,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_14,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_15,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_6M_16,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,30,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_1,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,839,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_2,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_3,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1454,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_4,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1120,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_5,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,215,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_6,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,166,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_7,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,232,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_8,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,7499,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_9,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,239,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_10,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,423,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_11,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,498,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_12,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,1176,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_13,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_14,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,209,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_15,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,211,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,395,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,503,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,148,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,48,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,95,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,84,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,1780,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,71,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,186,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,143,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,362,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,52,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_15,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,80,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_1,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_2,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_3,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,205,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_4,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_5,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_6,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_7,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_8,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,64,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_9,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_10,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_11,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_12,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,45,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_13,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,67,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_14,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_15,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,33,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_1,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,383190,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_2,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,946,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_3,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,32198,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_4,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,331614,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_5,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,36144,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_6,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,39040,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_7,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,383190,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_8,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,89423,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_9,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,66329,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_10,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,47797,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_11,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,66329,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_12,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,125295,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_13,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,383190,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_14,hCoV-19/France/GES-1973/2020,Figure 2,Virus isolate,NT50,143390,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,58519,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,819,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,131476,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,32198,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,89423,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,42168,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,87717,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,390641,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,81994,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,49199,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,40576,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,29523,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,68935,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 2,Virus isolate,NT50,13525,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_1,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,3612,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_2,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,37,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_3,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,10528,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_4,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,1418,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_5,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,9936,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_6,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,1840,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_7,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,5209,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_8,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,1577,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_9,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,1840,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_10,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,1083,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_11,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,965,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_12,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,744,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_13,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,2894,1,1000000,30,NULL,2021-12-16
-Planas21c,CP_12M_BNT_1dose_14,hCoV-19/Belgium/rega-20174/2021,Figure 2,Virus isolate,NT50,361,1,1000000,30,NULL,2021-12-16
+Planas21c,Bamlanivimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,9000,1,9000,1,ng/ml,2022-01-24
+Planas21c,Bamlanivimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,9000,1,9000,1,ng/ml,2022-01-25
+Planas21c,Etesevimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,15.4,1,9000,1,ng/ml,2022-01-26
+Planas21c,Etesevimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,9000,1,9000,1,ng/ml,2022-01-27
+Planas21c,BAM+ETE,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,20.5,1,9000,1,ng/ml,2022-01-28
+Planas21c,BAM+ETE,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,9000,1,9000,1,ng/ml,2022-01-29
+Planas21c,Casirivimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,3.1,1,9000,1,ng/ml,2022-01-30
+Planas21c,Casirivimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,9000,1,9000,1,ng/ml,2022-01-31
+Planas21c,Imdevimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,6.5,1,9000,1,ng/ml,2022-02-01
+Planas21c,Imdevimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,9000,1,9000,1,ng/ml,2022-02-02
+Planas21c,Ronapreve,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,7.6,1,9000,1,ng/ml,2022-02-03
+Planas21c,Ronapreve,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,9000,1,9000,1,ng/ml,2022-02-04
+Planas21c,Cilgavimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,50.3,1,9000,1,ng/ml,2022-02-05
+Planas21c,Cilgavimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,1213,1,9000,1,ng/ml,2022-02-06
+Planas21c,Tixagevimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,18.3,1,9000,1,ng/ml,2022-02-07
+Planas21c,Tixagevimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,8305,1,9000,1,ng/ml,2022-02-08
+Planas21c,Evusheld,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,13.4,1,9000,1,ng/ml,2022-02-09
+Planas21c,Evusheld,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,733,1,9000,1,ng/ml,2022-02-10
+Planas21c,Regdanvimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,86.6,1,9000,1,ng/ml,2022-02-11
+Planas21c,Regdanvimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,9000,1,9000,1,ng/ml,2022-02-12
+Planas21c,Sotrovimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,325,1,9000,1,ng/ml,2022-02-13
+Planas21c,Sotrovimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,917,1,9000,1,ng/ml,2022-02-14
+Planas21c,Adintrevimab,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Extended Data Fig 4,Virus isolate,IC50,19.6,1,9000,1,ng/ml,2022-02-15
+Planas21c,Adintrevimab,hCoV-19/Belgium/rega-20174/2021,Extended Data Fig 4,Virus isolate,IC50,403,1,9000,1,ng/ml,2022-02-16
+Planas21c,BNT_2dose_M5_1,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,45,1,1000000,30,NULL,2022-02-17
+Planas21c,BNT_2dose_M5_2,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,117,1,1000000,30,NULL,2022-02-18
+Planas21c,BNT_2dose_M5_3,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,250,1,1000000,30,NULL,2022-02-19
+Planas21c,BNT_2dose_M5_4,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,366,1,1000000,30,NULL,2022-02-20
+Planas21c,BNT_2dose_M5_5,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,689,1,1000000,30,NULL,2022-02-21
+Planas21c,BNT_2dose_M5_6,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,669,1,1000000,30,NULL,2022-02-22
+Planas21c,BNT_2dose_M5_7,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,218,1,1000000,30,NULL,2022-02-23
+Planas21c,BNT_2dose_M5_8,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,97,1,1000000,30,NULL,2022-02-24
+Planas21c,BNT_2dose_M5_9,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,517,1,1000000,30,NULL,2022-02-25
+Planas21c,BNT_2dose_M5_10,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,105,1,1000000,30,NULL,2022-02-26
+Planas21c,BNT_2dose_M5_11,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1259,1,1000000,30,NULL,2022-02-27
+Planas21c,BNT_2dose_M5_12,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,900,1,1000000,30,NULL,2022-02-28
+Planas21c,BNT_2dose_M5_13,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,3096,1,1000000,30,NULL,2022-03-01
+Planas21c,BNT_2dose_M5_14,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1010,1,1000000,30,NULL,2022-03-02
+Planas21c,BNT_2dose_M5_15,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,283,1,1000000,30,NULL,2022-03-03
+Planas21c,BNT_2dose_M5_16,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,149,1,1000000,30,NULL,2022-03-04
+Planas21c,BNT_2dose_M5_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-05
+Planas21c,BNT_2dose_M5_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,55,1,1000000,30,NULL,2022-03-06
+Planas21c,BNT_2dose_M5_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,73,1,1000000,30,NULL,2022-03-07
+Planas21c,BNT_2dose_M5_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,216,1,1000000,30,NULL,2022-03-08
+Planas21c,BNT_2dose_M5_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,106,1,1000000,30,NULL,2022-03-09
+Planas21c,BNT_2dose_M5_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,212,1,1000000,30,NULL,2022-03-10
+Planas21c,BNT_2dose_M5_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-11
+Planas21c,BNT_2dose_M5_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,37,1,1000000,30,NULL,2022-03-12
+Planas21c,BNT_2dose_M5_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,214,1,1000000,30,NULL,2022-03-13
+Planas21c,BNT_2dose_M5_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-14
+Planas21c,BNT_2dose_M5_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,483,1,1000000,30,NULL,2022-03-15
+Planas21c,BNT_2dose_M5_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,342,1,1000000,30,NULL,2022-03-16
+Planas21c,BNT_2dose_M5_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1308,1,1000000,30,NULL,2022-03-17
+Planas21c,BNT_2dose_M5_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,333,1,1000000,30,NULL,2022-03-18
+Planas21c,BNT_2dose_M5_15,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,54,1,1000000,30,NULL,2022-03-19
+Planas21c,BNT_2dose_M5_16,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,39,1,1000000,30,NULL,2022-03-20
+Planas21c,BNT_2dose_M5_1,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-21
+Planas21c,BNT_2dose_M5_2,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-22
+Planas21c,BNT_2dose_M5_3,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-23
+Planas21c,BNT_2dose_M5_4,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-24
+Planas21c,BNT_2dose_M5_5,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-25
+Planas21c,BNT_2dose_M5_6,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-26
+Planas21c,BNT_2dose_M5_7,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-27
+Planas21c,BNT_2dose_M5_8,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-28
+Planas21c,BNT_2dose_M5_9,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-29
+Planas21c,BNT_2dose_M5_10,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-03-30
+Planas21c,BNT_2dose_M5_11,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,63,1,1000000,30,NULL,2022-03-31
+Planas21c,BNT_2dose_M5_12,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-01
+Planas21c,BNT_2dose_M5_13,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-02
+Planas21c,BNT_2dose_M5_14,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-03
+Planas21c,BNT_2dose_M5_15,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-04
+Planas21c,BNT_2dose_M5_16,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-05
+Planas21c,AZD_2dose_M5_1,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,112,1,1000000,30,NULL,2022-04-06
+Planas21c,AZD_2dose_M5_2,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-07
+Planas21c,AZD_2dose_M5_3,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,5978,1,1000000,30,NULL,2022-04-08
+Planas21c,AZD_2dose_M5_4,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,97,1,1000000,30,NULL,2022-04-09
+Planas21c,AZD_2dose_M5_5,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,242,1,1000000,30,NULL,2022-04-10
+Planas21c,AZD_2dose_M5_6,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,51,1,1000000,30,NULL,2022-04-11
+Planas21c,AZD_2dose_M5_7,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,164,1,1000000,30,NULL,2022-04-12
+Planas21c,AZD_2dose_M5_8,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1479,1,1000000,30,NULL,2022-04-13
+Planas21c,AZD_2dose_M5_9,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,122,1,1000000,30,NULL,2022-04-14
+Planas21c,AZD_2dose_M5_10,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,225,1,1000000,30,NULL,2022-04-15
+Planas21c,AZD_2dose_M5_11,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,202,1,1000000,30,NULL,2022-04-16
+Planas21c,AZD_2dose_M5_12,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1383,1,1000000,30,NULL,2022-04-17
+Planas21c,AZD_2dose_M5_13,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-18
+Planas21c,AZD_2dose_M5_14,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,150,1,1000000,30,NULL,2022-04-19
+Planas21c,AZD_2dose_M5_15,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,650,1,1000000,30,NULL,2022-04-20
+Planas21c,AZD_2dose_M5_16,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,308,1,1000000,30,NULL,2022-04-21
+Planas21c,AZD_2dose_M5_17,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,133,1,1000000,30,NULL,2022-04-22
+Planas21c,AZD_2dose_M5_18,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,414,1,1000000,30,NULL,2022-04-23
+Planas21c,AZD_2dose_M5_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-04-24
+Planas21c,AZD_2dose_M5_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-25
+Planas21c,AZD_2dose_M5_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,252,1,1000000,30,NULL,2022-04-26
+Planas21c,AZD_2dose_M5_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,36,1,1000000,30,NULL,2022-04-27
+Planas21c,AZD_2dose_M5_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,62,1,1000000,30,NULL,2022-04-28
+Planas21c,AZD_2dose_M5_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-04-29
+Planas21c,AZD_2dose_M5_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,73,1,1000000,30,NULL,2022-04-30
+Planas21c,AZD_2dose_M5_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,156,1,1000000,30,NULL,2022-05-01
+Planas21c,AZD_2dose_M5_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-02
+Planas21c,AZD_2dose_M5_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,103,1,1000000,30,NULL,2022-05-03
+Planas21c,AZD_2dose_M5_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,35,1,1000000,30,NULL,2022-05-04
+Planas21c,AZD_2dose_M5_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,240,1,1000000,30,NULL,2022-05-05
+Planas21c,AZD_2dose_M5_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-06
+Planas21c,AZD_2dose_M5_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,91,1,1000000,30,NULL,2022-05-07
+Planas21c,AZD_2dose_M5_15,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,56,1,1000000,30,NULL,2022-05-08
+Planas21c,AZD_2dose_M5_16,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,109,1,1000000,30,NULL,2022-05-09
+Planas21c,AZD_2dose_M5_17,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,164,1,1000000,30,NULL,2022-05-10
+Planas21c,AZD_2dose_M5_18,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,262,1,1000000,30,NULL,2022-05-11
+Planas21c,AZD_2dose_M5_1,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-12
+Planas21c,AZD_2dose_M5_2,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-13
+Planas21c,AZD_2dose_M5_3,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,44,1,1000000,30,NULL,2022-05-14
+Planas21c,AZD_2dose_M5_4,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-15
+Planas21c,AZD_2dose_M5_5,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-16
+Planas21c,AZD_2dose_M5_6,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-17
+Planas21c,AZD_2dose_M5_7,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-18
+Planas21c,AZD_2dose_M5_8,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-19
+Planas21c,AZD_2dose_M5_9,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-20
+Planas21c,AZD_2dose_M5_10,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-21
+Planas21c,AZD_2dose_M5_11,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-22
+Planas21c,AZD_2dose_M5_12,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,42,1,1000000,30,NULL,2022-05-23
+Planas21c,AZD_2dose_M5_13,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-24
+Planas21c,AZD_2dose_M5_14,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-25
+Planas21c,AZD_2dose_M5_15,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-26
+Planas21c,AZD_2dose_M5_16,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-27
+Planas21c,AZD_2dose_M5_17,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-28
+Planas21c,AZD_2dose_M5_18,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-05-29
+Planas21c,BNT_3dose_M1_1,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,10423,1,1000000,30,NULL,2022-05-30
+Planas21c,BNT_3dose_M1_2,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,3057,1,1000000,30,NULL,2022-05-31
+Planas21c,BNT_3dose_M1_3,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,2452,1,1000000,30,NULL,2022-06-01
+Planas21c,BNT_3dose_M1_4,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,12150,1,1000000,30,NULL,2022-06-02
+Planas21c,BNT_3dose_M1_5,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,3960,1,1000000,30,NULL,2022-06-03
+Planas21c,BNT_3dose_M1_6,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,13630,1,1000000,30,NULL,2022-06-04
+Planas21c,BNT_3dose_M1_7,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,19618,1,1000000,30,NULL,2022-06-05
+Planas21c,BNT_3dose_M1_8,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,4036,1,1000000,30,NULL,2022-06-06
+Planas21c,BNT_3dose_M1_9,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,12267,1,1000000,30,NULL,2022-06-07
+Planas21c,BNT_3dose_M1_10,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,47829,1,1000000,30,NULL,2022-06-08
+Planas21c,BNT_3dose_M1_11,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,14576,1,1000000,30,NULL,2022-06-09
+Planas21c,BNT_3dose_M1_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,6455,1,1000000,30,NULL,2022-06-10
+Planas21c,BNT_3dose_M1_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,2250,1,1000000,30,NULL,2022-06-11
+Planas21c,BNT_3dose_M1_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1173,1,1000000,30,NULL,2022-06-12
+Planas21c,BNT_3dose_M1_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,3774,1,1000000,30,NULL,2022-06-13
+Planas21c,BNT_3dose_M1_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,2315,1,1000000,30,NULL,2022-06-14
+Planas21c,BNT_3dose_M1_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,4984,1,1000000,30,NULL,2022-06-15
+Planas21c,BNT_3dose_M1_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,4114,1,1000000,30,NULL,2022-06-16
+Planas21c,BNT_3dose_M1_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1986,1,1000000,30,NULL,2022-06-17
+Planas21c,BNT_3dose_M1_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,4750,1,1000000,30,NULL,2022-06-18
+Planas21c,BNT_3dose_M1_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,17826,1,1000000,30,NULL,2022-06-19
+Planas21c,BNT_3dose_M1_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,9471,1,1000000,30,NULL,2022-06-20
+Planas21c,BNT_3dose_M1_1,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1462,1,1000000,30,NULL,2022-06-21
+Planas21c,BNT_3dose_M1_2,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,226,1,1000000,30,NULL,2022-06-22
+Planas21c,BNT_3dose_M1_3,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,712,1,1000000,30,NULL,2022-06-23
+Planas21c,BNT_3dose_M1_4,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,641,1,1000000,30,NULL,2022-06-24
+Planas21c,BNT_3dose_M1_5,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,463,1,1000000,30,NULL,2022-06-25
+Planas21c,BNT_3dose_M1_6,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,968,1,1000000,30,NULL,2022-06-26
+Planas21c,BNT_3dose_M1_7,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,179,1,1000000,30,NULL,2022-06-27
+Planas21c,BNT_3dose_M1_8,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,205,1,1000000,30,NULL,2022-06-28
+Planas21c,BNT_3dose_M1_9,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,421,1,1000000,30,NULL,2022-06-29
+Planas21c,BNT_3dose_M1_10,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1737,1,1000000,30,NULL,2022-06-30
+Planas21c,BNT_3dose_M1_11,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,4796,1,1000000,30,NULL,2022-07-01
+Planas21c,CP_6M_1,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,295,1,1000000,30,NULL,2022-07-02
+Planas21c,CP_6M_2,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,567,1,1000000,30,NULL,2022-07-03
+Planas21c,CP_6M_3,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,936,1,1000000,30,NULL,2022-07-04
+Planas21c,CP_6M_4,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,112,1,1000000,30,NULL,2022-07-05
+Planas21c,CP_6M_5,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1226,1,1000000,30,NULL,2022-07-06
+Planas21c,CP_6M_6,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,3374,1,1000000,30,NULL,2022-07-07
+Planas21c,CP_6M_7,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1011,1,1000000,30,NULL,2022-07-08
+Planas21c,CP_6M_8,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,206,1,1000000,30,NULL,2022-07-09
+Planas21c,CP_6M_9,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,818,1,1000000,30,NULL,2022-07-10
+Planas21c,CP_6M_10,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,562,1,1000000,30,NULL,2022-07-11
+Planas21c,CP_6M_11,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,826,1,1000000,30,NULL,2022-07-12
+Planas21c,CP_6M_12,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,99,1,1000000,30,NULL,2022-07-13
+Planas21c,CP_6M_13,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,40,1,1000000,30,NULL,2022-07-14
+Planas21c,CP_6M_14,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,218,1,1000000,30,NULL,2022-07-15
+Planas21c,CP_6M_15,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,243,1,1000000,30,NULL,2022-07-16
+Planas21c,CP_6M_16,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,103,1,1000000,30,NULL,2022-07-17
+Planas21c,CP_6M_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,241,1,1000000,30,NULL,2022-07-18
+Planas21c,CP_6M_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1338,1,1000000,30,NULL,2022-07-19
+Planas21c,CP_6M_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,901,1,1000000,30,NULL,2022-07-20
+Planas21c,CP_6M_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,74,1,1000000,30,NULL,2022-07-21
+Planas21c,CP_6M_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1702,1,1000000,30,NULL,2022-07-22
+Planas21c,CP_6M_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,2455,1,1000000,30,NULL,2022-07-23
+Planas21c,CP_6M_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,459,1,1000000,30,NULL,2022-07-24
+Planas21c,CP_6M_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,102,1,1000000,30,NULL,2022-07-25
+Planas21c,CP_6M_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,198,1,1000000,30,NULL,2022-07-26
+Planas21c,CP_6M_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,2317,1,1000000,30,NULL,2022-07-27
+Planas21c,CP_6M_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1431,1,1000000,30,NULL,2022-07-28
+Planas21c,CP_6M_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,177,1,1000000,30,NULL,2022-07-29
+Planas21c,CP_6M_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,36,1,1000000,30,NULL,2022-07-30
+Planas21c,CP_6M_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,567,1,1000000,30,NULL,2022-07-31
+Planas21c,CP_6M_15,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,67,1,1000000,30,NULL,2022-08-01
+Planas21c,CP_6M_16,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,165,1,1000000,30,NULL,2022-08-02
+Planas21c,CP_6M_1,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-03
+Planas21c,CP_6M_2,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-04
+Planas21c,CP_6M_3,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,111,1,1000000,30,NULL,2022-08-05
+Planas21c,CP_6M_4,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-06
+Planas21c,CP_6M_5,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,204,1,1000000,30,NULL,2022-08-07
+Planas21c,CP_6M_6,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,257,1,1000000,30,NULL,2022-08-08
+Planas21c,CP_6M_7,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,54,1,1000000,30,NULL,2022-08-09
+Planas21c,CP_6M_8,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-10
+Planas21c,CP_6M_9,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-11
+Planas21c,CP_6M_10,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,126,1,1000000,30,NULL,2022-08-12
+Planas21c,CP_6M_11,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,72,1,1000000,30,NULL,2022-08-13
+Planas21c,CP_6M_12,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-14
+Planas21c,CP_6M_13,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-15
+Planas21c,CP_6M_14,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-16
+Planas21c,CP_6M_15,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-17
+Planas21c,CP_6M_16,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,30,1,1000000,30,NULL,2022-08-18
+Planas21c,CP_12M_1,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,839,1,1000000,30,NULL,2022-08-19
+Planas21c,CP_12M_2,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-08-20
+Planas21c,CP_12M_3,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1454,1,1000000,30,NULL,2022-08-21
+Planas21c,CP_12M_4,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1120,1,1000000,30,NULL,2022-08-22
+Planas21c,CP_12M_5,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,215,1,1000000,30,NULL,2022-08-23
+Planas21c,CP_12M_6,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,166,1,1000000,30,NULL,2022-08-24
+Planas21c,CP_12M_7,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,232,1,1000000,30,NULL,2022-08-25
+Planas21c,CP_12M_8,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,7499,1,1000000,30,NULL,2022-08-26
+Planas21c,CP_12M_9,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,239,1,1000000,30,NULL,2022-08-27
+Planas21c,CP_12M_10,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,423,1,1000000,30,NULL,2022-08-28
+Planas21c,CP_12M_11,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,498,1,1000000,30,NULL,2022-08-29
+Planas21c,CP_12M_12,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1176,1,1000000,30,NULL,2022-08-30
+Planas21c,CP_12M_13,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-08-31
+Planas21c,CP_12M_14,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,209,1,1000000,30,NULL,2022-09-01
+Planas21c,CP_12M_15,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,211,1,1000000,30,NULL,2022-09-02
+Planas21c,CP_12M_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,395,1,1000000,30,NULL,2022-09-03
+Planas21c,CP_12M_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-04
+Planas21c,CP_12M_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,503,1,1000000,30,NULL,2022-09-05
+Planas21c,CP_12M_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,148,1,1000000,30,NULL,2022-09-06
+Planas21c,CP_12M_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,48,1,1000000,30,NULL,2022-09-07
+Planas21c,CP_12M_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,95,1,1000000,30,NULL,2022-09-08
+Planas21c,CP_12M_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,84,1,1000000,30,NULL,2022-09-09
+Planas21c,CP_12M_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1780,1,1000000,30,NULL,2022-09-10
+Planas21c,CP_12M_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,71,1,1000000,30,NULL,2022-09-11
+Planas21c,CP_12M_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,186,1,1000000,30,NULL,2022-09-12
+Planas21c,CP_12M_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,143,1,1000000,30,NULL,2022-09-13
+Planas21c,CP_12M_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,362,1,1000000,30,NULL,2022-09-14
+Planas21c,CP_12M_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-15
+Planas21c,CP_12M_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,52,1,1000000,30,NULL,2022-09-16
+Planas21c,CP_12M_15,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,80,1,1000000,30,NULL,2022-09-17
+Planas21c,CP_12M_1,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-18
+Planas21c,CP_12M_2,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-19
+Planas21c,CP_12M_3,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,205,1,1000000,30,NULL,2022-09-20
+Planas21c,CP_12M_4,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-21
+Planas21c,CP_12M_5,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-22
+Planas21c,CP_12M_6,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-23
+Planas21c,CP_12M_7,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-24
+Planas21c,CP_12M_8,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,64,1,1000000,30,NULL,2022-09-25
+Planas21c,CP_12M_9,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-26
+Planas21c,CP_12M_10,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-27
+Planas21c,CP_12M_11,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-09-28
+Planas21c,CP_12M_12,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,45,1,1000000,30,NULL,2022-09-29
+Planas21c,CP_12M_13,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,67,1,1000000,30,NULL,2022-09-30
+Planas21c,CP_12M_14,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-10-01
+Planas21c,CP_12M_15,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,33,1,1000000,30,NULL,2022-10-02
+Planas21c,CP_12M_BNT_1dose_1,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,383190,1,1000000,30,NULL,2022-10-03
+Planas21c,CP_12M_BNT_1dose_2,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,946,1,1000000,30,NULL,2022-10-04
+Planas21c,CP_12M_BNT_1dose_3,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,32198,1,1000000,30,NULL,2022-10-05
+Planas21c,CP_12M_BNT_1dose_4,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,331614,1,1000000,30,NULL,2022-10-06
+Planas21c,CP_12M_BNT_1dose_5,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,36144,1,1000000,30,NULL,2022-10-07
+Planas21c,CP_12M_BNT_1dose_6,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,39040,1,1000000,30,NULL,2022-10-08
+Planas21c,CP_12M_BNT_1dose_7,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,383190,1,1000000,30,NULL,2022-10-09
+Planas21c,CP_12M_BNT_1dose_8,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,89423,1,1000000,30,NULL,2022-10-10
+Planas21c,CP_12M_BNT_1dose_9,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,66329,1,1000000,30,NULL,2022-10-11
+Planas21c,CP_12M_BNT_1dose_10,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,47797,1,1000000,30,NULL,2022-10-12
+Planas21c,CP_12M_BNT_1dose_11,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,66329,1,1000000,30,NULL,2022-10-13
+Planas21c,CP_12M_BNT_1dose_12,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,125295,1,1000000,30,NULL,2022-10-14
+Planas21c,CP_12M_BNT_1dose_13,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,383190,1,1000000,30,NULL,2022-10-15
+Planas21c,CP_12M_BNT_1dose_14,hCoV-19/France/GES-1973/2020,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,143390,1,1000000,30,NULL,2022-10-16
+Planas21c,CP_12M_BNT_1dose_1,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,58519,1,1000000,30,NULL,2022-10-17
+Planas21c,CP_12M_BNT_1dose_2,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,819,1,1000000,30,NULL,2022-10-18
+Planas21c,CP_12M_BNT_1dose_3,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,131476,1,1000000,30,NULL,2022-10-19
+Planas21c,CP_12M_BNT_1dose_4,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,32198,1,1000000,30,NULL,2022-10-20
+Planas21c,CP_12M_BNT_1dose_5,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,89423,1,1000000,30,NULL,2022-10-21
+Planas21c,CP_12M_BNT_1dose_6,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,42168,1,1000000,30,NULL,2022-10-22
+Planas21c,CP_12M_BNT_1dose_7,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,87717,1,1000000,30,NULL,2022-10-23
+Planas21c,CP_12M_BNT_1dose_8,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,390641,1,1000000,30,NULL,2022-10-24
+Planas21c,CP_12M_BNT_1dose_9,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,81994,1,1000000,30,NULL,2022-10-25
+Planas21c,CP_12M_BNT_1dose_10,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,49199,1,1000000,30,NULL,2022-10-26
+Planas21c,CP_12M_BNT_1dose_11,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,40576,1,1000000,30,NULL,2022-10-27
+Planas21c,CP_12M_BNT_1dose_12,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,29523,1,1000000,30,NULL,2022-10-28
+Planas21c,CP_12M_BNT_1dose_13,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,68935,1,1000000,30,NULL,2022-10-29
+Planas21c,CP_12M_BNT_1dose_14,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,13525,1,1000000,30,NULL,2022-10-30
+Planas21c,CP_12M_BNT_1dose_1,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,3612,1,1000000,30,NULL,2022-10-31
+Planas21c,CP_12M_BNT_1dose_2,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,37,1,1000000,30,NULL,2022-11-01
+Planas21c,CP_12M_BNT_1dose_3,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,10528,1,1000000,30,NULL,2022-11-02
+Planas21c,CP_12M_BNT_1dose_4,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1418,1,1000000,30,NULL,2022-11-03
+Planas21c,CP_12M_BNT_1dose_5,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,9936,1,1000000,30,NULL,2022-11-04
+Planas21c,CP_12M_BNT_1dose_6,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1840,1,1000000,30,NULL,2022-11-05
+Planas21c,CP_12M_BNT_1dose_7,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,5209,1,1000000,30,NULL,2022-11-06
+Planas21c,CP_12M_BNT_1dose_8,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1577,1,1000000,30,NULL,2022-11-07
+Planas21c,CP_12M_BNT_1dose_9,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1840,1,1000000,30,NULL,2022-11-08
+Planas21c,CP_12M_BNT_1dose_10,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,1083,1,1000000,30,NULL,2022-11-09
+Planas21c,CP_12M_BNT_1dose_11,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,965,1,1000000,30,NULL,2022-11-10
+Planas21c,CP_12M_BNT_1dose_12,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,744,1,1000000,30,NULL,2022-11-11
+Planas21c,CP_12M_BNT_1dose_13,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,2894,1,1000000,30,NULL,2022-11-12
+Planas21c,CP_12M_BNT_1dose_14,hCoV-19/Belgium/rega-20174/2021,"Preprint 10.1101/2021.12.14.472630, Figure 2",Virus isolate,NT50,361,1,1000000,30,NULL,2022-11-13

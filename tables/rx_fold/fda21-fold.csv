@@ -5,7 +5,7 @@ FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,B.1.1.7 Spike,BAM Table 3,Pseudovirus (VSV),
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,B.1.351 Spike,BAM Table 3,Pseudovirus (VSV),IC50,>,2360,NULL,NULL,1,2021-03-18
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,P.1 Spike,BAM Table 3,Pseudovirus (VSV),IC50,>,2360,NULL,NULL,1,2021-03-18
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,B.1.427/9 Spike,BAM Table 3,Pseudovirus (VSV),IC50,>,1020,NULL,NULL,1,2021-03-18
-FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,B.1.526 Spike,BAM Table 3,Pseudovirus (VSV),IC50,>,2360,NULL,NULL,1,2021-03-18
+FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,B.1.526/E484K Spike,BAM Table 3,Pseudovirus (VSV),IC50,>,2360,NULL,NULL,1,2021-03-18
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:484D,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:484Q,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
 FDA21,Bamlanivimab,Wuhan-Hu-1 Spike,S:493R,BAM+ETE page 27,Pseudovirus (VSV),IC50,>,100,NULL,NULL,1,2021-09-20
@@ -101,7 +101,7 @@ FDA21,Imdevimab,Wuhan-Hu-1 Spike,S:501Y,CAS+IMD Page 42,Pseudovirus (VSV),IC50,=
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:80Y+215Y+242del+243del+244del+417N+484K+501Y+614G+701V,CAS+IMD Table 9 page 42,Pseudovirus,IC50,=,1,NULL,NULL,1,2021-09-20
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:417N,CAS+IMD Table 9 page 42,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2021-09-20
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:484K,CAS+IMD Table 9 page 42,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2021-09-20
-FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,B.1.526 Spike,CAS+IMD Table 9,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2021-09-20
+FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,B.1.526/E484K Spike,CAS+IMD Table 9,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2021-09-20
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,CAS+IMD Table 9 page 42,Pseudovirus,IC50,=,1,NULL,NULL,1,2021-09-20
 FDA21,Casirivimab+Imdevimab,Wuhan-Hu-1 Spike,S:417T,CAS+IMD Table 9 page 42,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2021-09-20
 FDA21,Imdevimab,Wuhan-Hu-1 Spike,S:417N,CAS+IMD Page 42,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2021-09-20
