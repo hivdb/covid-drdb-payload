@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Ikemura21,B.1.1.7_infection,isolation,~,2020-10-31,Japan,B.1.1.7 full genome,NULL,NULL
+Ikemura21,B.1.1.7_infection,infection,~,2020-10-31,Japan,B.1.1.7 full genome,NULL,NULL
 Ikemura21,B.1.1.7_infection,isolation,~,2021-01-31,Japan,NULL,NULL,NULL
 Ikemura21,B.1.617.2_infection,infection,~,2021-07-31,Japan,B.1.617.2 full genome,NULL,NULL
 Ikemura21,B.1.617.2_infection,isolation,~,2021-10-31,Japan,NULL,NULL,NULL
