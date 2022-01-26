@@ -74,6 +74,15 @@ Avanzato20,Donor2,Human,NULL,1
 Avanzato20,WA-RML,Human,1949,1
 Baang21,Donor,Human,NULL,1
 Baang21,Patient,Human,NULL,1
+Bekliz21,CP_Alpha,Human,NULL,12
+Bekliz21,CP_Beta,Human,NULL,8
+Bekliz21,CP_D614G,Human,NULL,34
+Bekliz21,CP_Delta,Human,NULL,22
+Bekliz21,CP_Gamma,Human,NULL,10
+Bekliz21,CP_mRNA,Human,NULL,6
+Bekliz21,mRNA,Human,NULL,16
+Bekliz21,mRNA_Delta,Human,NULL,4
+Bekliz21,mRNA_Omicron,Human,NULL,4
 Barouch21,Ad26_1dose,Human,NULL,10
 Barouch21,Ad26_2dose,Human,NULL,10
 Barros-Martins21,AZD,Human,1980,32
