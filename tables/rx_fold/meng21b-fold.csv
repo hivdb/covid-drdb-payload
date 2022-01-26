@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Meng21b,BNT_SFig4_2dose,hCoV-19/Japan/TKYTK1734/2021,hCoV-19/Japan/TY38-873P0/2021,Supplementary Figure 4,Virus isolate,NT50,=,6.3,NULL,NULL,14,2022-01-19
+Meng21b,AZD_SFig4_2dose,hCoV-19/Japan/TKYTK1734/2021,hCoV-19/Japan/TY38-873P0/2021,Supplementary Figure 4,Virus isolate,NT50,=,8.1,NULL,NULL,5,2022-01-19
+Meng21b,mRNA_SFig4_2dose,hCoV-19/Japan/TKYTK1734/2021,hCoV-19/Japan/TY38-873P0/2021,Supplementary Figure 4,Virus isolate,NT50,=,13.1,NULL,NULL,10,2022-01-19
+Meng21b,CoronaVac_SFig4_2dose,hCoV-19/Japan/TKYTK1734/2021,hCoV-19/Japan/TY38-873P0/2021,Supplementary Figure 4,Virus isolate,NT50,=,1.8,NULL,NULL,9,2022-01-19
+Meng21b,CP_early,hCoV-19/Japan/TKYTK1734/2021,hCoV-19/Japan/TY38-873P0/2021,Supplementary Figure 4,Virus isolate,NT50,=,13.6,NULL,NULL,12,2022-01-19
+Meng21b,CP_Delta,hCoV-19/Japan/TKYTK1734/2021,hCoV-19/Japan/TY38-873P0/2021,Supplementary Figure 4,Virus isolate,NT50,=,59.2,NULL,NULL,10,2022-01-19
