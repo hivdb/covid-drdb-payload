@@ -1,0 +1,22 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Haveri21b,BNT_Elderly,1st dose,~,2021-01-01,Finland,NULL,BNT162b2,NULL
+Haveri21b,BNT_Elderly,2nd dose,~,2021-01-22,Finland,NULL,BNT162b2,NULL
+Haveri21b,BNT_Elderly,3rd dose,~,2021-09-24,Finland,NULL,BNT162b2,NULL
+Haveri21b,BNT_Elderly,3rd dose isolation,~,2021-10-24,Finland,NULL,NULL,NULL
+Haveri21b,BNT_HCW,1st dose,~,2021-01-01,Finland,NULL,BNT162b2,NULL
+Haveri21b,BNT_HCW,2nd dose,~,2021-01-22,Finland,NULL,BNT162b2,NULL
+Haveri21b,BNT_HCW,3rd dose,~,2021-09-24,Finland,NULL,BNT162b2,NULL
+Haveri21b,BNT_HCW,3rd dose isolation,~,2021-10-24,Finland,NULL,NULL,NULL
+Haveri21b,BNT_HCW,3rd dose isolation,~,2021-11-23,Finland,NULL,NULL,NULL
+Haveri21b,WT_BNT,infection,~,2020-08-01,Finland,B.1 full genome,NULL,NULL
+Haveri21b,WT_BNT,isolation,~,2020-09-20,Finland,NULL,NULL,NULL
+Haveri21b,WT_BNT,1st dose,~,2021-03-20,Finland,NULL,BNT162b2,NULL
+Haveri21b,WT_BNT,1st dose isolation,~,2021-04-19,Finland,NULL,NULL,NULL
+Haveri21b,Alpha_BNT,infection,~,2021-01-01,Finland,B.1.1.7 full genome,NULL,NULL
+Haveri21b,Alpha_BNT,isolation,~,2021-02-20,Finland,NULL,NULL,NULL
+Haveri21b,Alpha_BNT,1st dose,~,2021-08-20,Finland,NULL,BNT162b2,NULL
+Haveri21b,Alpha_BNT,1st dose isolation,~,2021-09-19,Finland,NULL,NULL,NULL
+Haveri21b,Beta_BNT,infection,~,2021-01-01,Finland,B.1.351 full genome,NULL,NULL
+Haveri21b,Beta_BNT,isolation,~,2021-02-20,Finland,NULL,NULL,NULL
+Haveri21b,Beta_BNT,1st dose,~,2021-08-20,Finland,NULL,BNT162b2,NULL
+Haveri21b,Beta_BNT,1st dose isolation,~,2021-09-19,Finland,NULL,NULL,NULL

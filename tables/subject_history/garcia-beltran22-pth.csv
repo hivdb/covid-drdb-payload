@@ -1,0 +1,39 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Garcia-Beltran22,mRNA_2dose_1m,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,mRNA_2dose_1m,2nd dose,~,2021-02-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,mRNA_2dose_1m,2nd dose isolation,~,2021-02-19,USA,NULL,NULL,NULL
+Garcia-Beltran22,mRNA_2dose_6m,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,mRNA_2dose_6m,2nd dose,~,2021-02-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,mRNA_2dose_6m,2nd dose isolation,~,2021-11-19,USA,NULL,NULL,NULL
+Garcia-Beltran22,Infection_mRNA_2dose_6m,infection,~,2020-12-31,USA,Unknown variant,NULL,NULL
+Garcia-Beltran22,Infection_mRNA_2dose_6m,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,Infection_mRNA_2dose_6m,2nd dose,~,2021-02-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,Infection_mRNA_2dose_6m,2nd dose isolation,~,2021-10-02,USA,NULL,NULL,NULL
+Garcia-Beltran22,mRNA_3dose_1m,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,mRNA_3dose_1m,2nd dose,~,2021-02-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,mRNA_3dose_1m,3rd dose,~,2021-08-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,mRNA_3dose_1m,3rd dose isolation,~,2021-08-22,USA,NULL,NULL,NULL
+Garcia-Beltran22,BNT_2dose_1m,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,BNT_2dose_1m,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,BNT_2dose_1m,2nd dose isolation,~,2021-02-14,USA,NULL,NULL,NULL
+Garcia-Beltran22,BNT_2dose_6m,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,BNT_2dose_6m,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,BNT_2dose_6m,2nd dose isolation,~,2021-09-13,USA,NULL,NULL,NULL
+Garcia-Beltran22,Infection_BNT_2dose_6m,infection,~,2020-12-31,USA,Unknown variant,NULL,NULL
+Garcia-Beltran22,Infection_BNT_2dose_6m,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,Infection_BNT_2dose_6m,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,Infection_BNT_2dose_6m,2nd dose isolation,~,2021-09-06,USA,NULL,NULL,NULL
+Garcia-Beltran22,BNT_3dose_1m,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,BNT_3dose_1m,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,BNT_3dose_1m,3rd dose,~,2021-08-01,USA,NULL,BNT162b2,NULL
+Garcia-Beltran22,BNT_3dose_1m,3rd dose isolation,~,2021-09-19,USA,NULL,NULL,NULL
+Garcia-Beltran22,Ad26_1dose_1m,1st dose,~,2021-01-01,USA,NULL,Ad26.COV2.S,NULL
+Garcia-Beltran22,Ad26_1dose_1m,1st dose isolation,~,2021-02-20,USA,NULL,NULL,NULL
+Garcia-Beltran22,Ad26_1dose_6m,1st dose,~,2021-01-01,USA,NULL,Ad26.COV2.S,NULL
+Garcia-Beltran22,Ad26_1dose_6m,1st dose isolation,~,2021-09-07,USA,NULL,NULL,NULL
+Garcia-Beltran22,Infection_Ad26_1dose_6m,infection,~,2020-12-31,USA,Unknown variant,NULL,NULL
+Garcia-Beltran22,Infection_Ad26_1dose_6m,1st dose,~,2021-01-01,USA,NULL,Ad26.COV2.S,NULL
+Garcia-Beltran22,Infection_Ad26_1dose_6m,1st dose isolation,~,2021-09-05,USA,NULL,NULL,NULL
+Garcia-Beltran22,Ad26_mRNA_2dose_1m,1st dose,~,2021-01-01,USA,NULL,Ad26.COV2.S,NULL
+Garcia-Beltran22,Ad26_mRNA_2dose_1m,2nd dose,~,2021-07-01,USA,NULL,mRNA-1273,NULL
+Garcia-Beltran22,Ad26_mRNA_2dose_1m,2nd dose isolation,~,2021-08-09,USA,NULL,NULL,NULL
