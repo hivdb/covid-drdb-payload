@@ -70,16 +70,16 @@ Boschi22,REGN-COV-2
 Bronstein21,Bamlanivimab
 Cameroni21,Sotrovimab
 Cameroni21,Vir-7832
-Cameroni21,Regdanvimab
-Cameroni21,Cilgavimab
-Cameroni21,Tixagevimab
-Cameroni21,Casirivimab
-Cameroni21,Imdevimab
-Cameroni21,Bamlanivimab
-Cameroni21,Etesevimab
-Cameroni21,CIL+TIX
-Cameroni21,CAS+IMD
-Cameroni21,BAM+ETE
+Cameroni21,CT-P59
+Cameroni21,COV2-2130
+Cameroni21,COV2-2196
+Cameroni21,REGN10933
+Cameroni21,REGN10987
+Cameroni21,LY-CoV555
+Cameroni21,LY-CoV016
+Cameroni21,COV2-2196 + COV2-2130
+Cameroni21,REGN10987 + REGN10933
+Cameroni21,LY-CoV555 + LY-CoV016
 Cameroni21,S2D106
 Cameroni21,S2D8
 Cameroni21,S2D97
@@ -841,9 +841,9 @@ Takashita22,Etesevimab
 Takashita22,Bamlanivimab
 Takashita22,Imdevimab
 Takashita22,Casirivimab
-Takashita22,Tixagevimab
-Takashita22,Cilgavimab
-Takashita22,Sotrovimab
+Takashita22,COV2-2196
+Takashita22,COV2-2130
+Takashita22,S309
 Takashita22,LY-CoV016 + LY-CoV555
 Takashita22,REGN10987 + REGN10933
 Takashita22,COV2-2196 + COV2-2130
