@@ -1,20 +1,13 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Lapa22,BNT162b2,1st dose,~,2021-01-01,Italy+Russia,NULL,BNT162b2,NULL
 Lapa22,BNT162b2,2nd dose,~,2021-02-01,Italy+Russia,NULL,BNT162b2,NULL
-Lapa22,BNT162b2,2nd dose isolation,~,2021-02-15,Italy+Russia,NULL,NULL,NULL
-Lapa22,BNT162b2,2nd dose isolation,~,2021-05-01,Italy+Russia,NULL,NULL,NULL
 Lapa22,BNT162b2,2nd dose isolation,~,2021-08-01,Italy+Russia,NULL,NULL,NULL
-Lapa22,BNT162b2,isolation,~,2021-12-31,Italy+Russia,NULL,NULL,NULL
 Lapa22,Sputnik_V,1st dose,~,2021-01-01,Italy+Russia,NULL,Sputnik V,NULL
 Lapa22,Sputnik_V,2nd dose,~,2021-02-01,Italy+Russia,NULL,Sputnik V,NULL
-Lapa22,Sputnik_V,2nd dose isolation,~,2021-05-01,Italy+Russia,NULL,NULL,NULL
 Lapa22,Sputnik_V,2nd dose isolation,~,2021-08-01,Italy+Russia,NULL,NULL,NULL
-Lapa22,Sputnik_V,isolation,~,2021-12-31,Italy+Russia,NULL,NULL,NULL
-Lapa22,Sputnik_V_infection,infection,~,2021-03-01,Italy+Russia,Unknown variant,NULL,NULL
 Lapa22,Sputnik_V_infection,1st dose,~,2021-04-01,Italy+Russia,NULL,Sputnik V,NULL
 Lapa22,Sputnik_V_infection,2nd dose,~,2021-05-01,Italy+Russia,NULL,Sputnik V,NULL
 Lapa22,Sputnik_V_infection,2nd dose isolation,~,2021-08-01,Italy+Russia,NULL,NULL,NULL
-Lapa22,Sputnik_V_infection,isolation,~,2021-12-31,Italy+Russia,NULL,NULL,NULL
-Lapa22,infection,infection,~,2021-03-01,Italy+Russia,Unknown variant,NULL,NULL
+Lapa22,Sputnik_V_infection,infection,~,2021-03-01,Italy+Russia,Unknown Variant,NULL,NULL
+Lapa22,infection,infection,~,2021-03-01,Italy+Russia,Unknown Variant,NULL,NULL
 Lapa22,infection,isolation,~,2021-06-01,Italy+Russia,NULL,NULL,NULL
-Lapa22,infection,isolation,~,2021-12-31,Italy+Russia,NULL,NULL,NULL
