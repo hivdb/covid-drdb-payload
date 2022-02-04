@@ -33,10 +33,10 @@ Gamma,P.1
 Zeta,P.2
 Theta,P.3
 Lambda,C.37
-Omicron,B.1.1.529
-Omicron,BA.1
-Omicron,BA.2
-Omicron/R346K,B.1.1.529/R346K
+Omicron/BA.1,BA.1
+Omicron/BA.2,BA.2
+Omicron/BA.3,BA.3
+Omicron/BA.1+R346K,BA.1/R346K
 B.1,D614G
 B,Wuhan-Hu-1
 Delta/K417N,AY.1
