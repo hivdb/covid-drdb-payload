@@ -1,0 +1,19 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Takashita22,GS-441524,hCoV-19/Japan/UT-NCGM02/2020,Table 1,Virus isolate,IC50,1.04,1,50000,0.01,ng/ml,1/31/22
+Takashita22,EIDD-1931,hCoV-19/Japan/UT-NCGM02/2020,Table 1,Virus isolate,IC50,0.51,1,50000,0.01,ng/ml,1/31/22
+Takashita22,PF-00835231,hCoV-19/Japan/UT-NCGM02/2020,Table 1,Virus isolate,IC50,18.45,1,50000,0.01,ng/ml,1/31/22
+Takashita22,GS-441524,SARS-CoV-2/UT-HP127-1Nf/Human/2021/Tokyo,Table 1,Virus isolate,IC50,0.83,1,50000,0.01,ng/ml,1/31/22
+Takashita22,EIDD-1931,SARS-CoV-2/UT-HP127-1Nf/Human/2021/Tokyo,Table 1,Virus isolate,IC50,0.95,1,50000,0.01,ng/ml,1/31/22
+Takashita22,PF-00835231,SARS-CoV-2/UT-HP127-1Nf/Human/2021/Tokyo,Table 1,Virus isolate,IC50,10.56,1,50000,0.01,ng/ml,1/31/22
+Takashita22,GS-441524,hCoV-19/USA/MD-HP01542/2021,Table 1,Virus isolate,IC50,0.63,1,50000,0.01,ng/ml,1/31/22
+Takashita22,EIDD-1931,hCoV-19/USA/MD-HP01542/2021,Table 1,Virus isolate,IC50,0.6,1,50000,0.01,ng/ml,1/31/22
+Takashita22,PF-00835231,hCoV-19/USA/MD-HP01542/2021,Table 1,Virus isolate,IC50,14.2,1,50000,0.01,ng/ml,1/31/22
+Takashita22,GS-441524,hCoV-19/Japan/TY7-503/2021,Table 1,Virus isolate,IC50,0.91,1,50000,0.01,ng/ml,1/31/22
+Takashita22,EIDD-1931,hCoV-19/Japan/TY7-503/2021,Table 1,Virus isolate,IC50,0.41,1,50000,0.01,ng/ml,1/31/22
+Takashita22,PF-00835231,hCoV-19/Japan/TY7-503/2021,Table 1,Virus isolate,IC50,9.4,1,50000,0.01,ng/ml,1/31/22
+Takashita22,GS-441524,hCoV-19/USA/WI-UW-5250/2021,Table 1,Virus isolate,IC50,1.12,1,50000,0.01,ng/ml,1/31/22
+Takashita22,EIDD-1931,hCoV-19/USA/WI-UW-5250/2021,Table 1,Virus isolate,IC50,0.83,1,50000,0.01,ng/ml,1/31/22
+Takashita22,PF-00835231,hCoV-19/USA/WI-UW-5250/2021,Table 1,Virus isolate,IC50,14.81,1,50000,0.01,ng/ml,1/31/22
+Takashita22,GS-441524,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,1.28,1,50000,0.01,ng/ml,1/31/22
+Takashita22,EIDD-1931,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,0.43,1,50000,0.01,ng/ml,1/31/22
+Takashita22,PF-00835231,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,12.71,1,50000,0.01,ng/ml,1/31/22

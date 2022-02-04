@@ -1,19 +1,19 @@
 ref_name,rx_name,ab_name
 Cameroni21,Sotrovimab,Sotrovimab
 Cameroni21,Vir-7832,Vir-7832
-Cameroni21,Regdanvimab,Regdanvimab
-Cameroni21,Cilgavimab,Cilgavimab
-Cameroni21,Tixagevimab,Tixagevimab
-Cameroni21,Casirivimab,Casirivimab
-Cameroni21,Imdevimab,Imdevimab
-Cameroni21,Bamlanivimab,Bamlanivimab
-Cameroni21,Etesevimab,Etesevimab
-Cameroni21,CIL+TIX,Cilgavimab
-Cameroni21,CIL+TIX,Tixagevimab
-Cameroni21,CAS+IMD,Casirivimab
-Cameroni21,CAS+IMD,Imdevimab
-Cameroni21,BAM+ETE,Bamlanivimab
-Cameroni21,BAM+ETE,Etesevimab
+Cameroni21,CT-P59,Regdanvimab
+Cameroni21,COV2-2130,Cilgavimab
+Cameroni21,COV2-2196,Tixagevimab
+Cameroni21,REGN10933,Casirivimab
+Cameroni21,REGN10987,Imdevimab
+Cameroni21,LY-CoV555,Bamlanivimab
+Cameroni21,LY-CoV016,Etesevimab
+Cameroni21,COV2-2196 + COV2-2130,Cilgavimab
+Cameroni21,COV2-2196 + COV2-2130,Tixagevimab
+Cameroni21,REGN10987 + REGN10933,Casirivimab
+Cameroni21,REGN10987 + REGN10933,Imdevimab
+Cameroni21,LY-CoV555 + LY-CoV016,Bamlanivimab
+Cameroni21,LY-CoV555 + LY-CoV016,Etesevimab
 Cameroni21,S2D106,S2D106
 Cameroni21,S2D8,S2D8
 Cameroni21,S2D97,S2D97
