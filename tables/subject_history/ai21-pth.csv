@@ -2,7 +2,7 @@
 Ai21,CoronaVac_breakthrough,1st dose,~,2021-04-01,China,NULL,CoronaVac,NULL
 Ai21,CoronaVac_breakthrough,2nd dose,~,2021-05-01,China,NULL,CoronaVac,NULL
 Ai21,CoronaVac_breakthrough,infection,~,2021-07-01,China,Unknown variant,NULL,NULL
-Ai21,CoronaVac_breakthrough,isolation,~,2021-10-01,China,NULL,NULL,NULL
+Ai21,CoronaVac_breakthrough,2nd dose isolation,~,2021-10-01,China,NULL,NULL,NULL
 Ai21,BBIBP-CorV_2dose,1st dose,~,2021-01-01,China,NULL,BBIBP-CorV,NULL
 Ai21,BBIBP-CorV_2dose,2nd dose,~,2021-01-14,China,NULL,BBIBP-CorV,NULL
 Ai21,BBIBP-CorV_2dose,2nd dose isolation,~,2021-01-28,China,NULL,NULL,NULL
