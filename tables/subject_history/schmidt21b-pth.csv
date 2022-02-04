@@ -1,24 +1,24 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Schmidt21b,PT_21,infection,~,2021-01-06,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_328,infection,~,2020-12-12,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_353,infection,~,2020-12-11,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_38,infection,~,2021-01-09,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_40,infection,~,2021-01-01,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_403,infection,~,2020-12-21,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_410,infection,~,2020-12-28,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_437,infection,~,2020-12-24,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_46,infection,~,2021-01-09,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_461,infection,~,2020-12-27,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_47,infection,~,2021-01-06,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_501,infection,~,2020-12-10,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_507,infection,~,2020-12-16,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_547,infection,~,2020-12-18,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_633,infection,~,2020-12-19,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_72,infection,~,2020-12-25,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_75,infection,~,2021-01-06,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_76,infection,~,2020-11-28,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_8,infection,~,2020-12-07,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_9,infection,~,2020-12-11,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_21,infection,~,2021-01-06,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_328,infection,~,2020-12-12,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_353,infection,~,2020-12-11,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_38,infection,~,2021-01-09,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_40,infection,~,2021-01-01,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_403,infection,~,2020-12-21,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_410,infection,~,2020-12-28,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_437,infection,~,2020-12-24,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_46,infection,~,2021-01-09,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_461,infection,~,2020-12-27,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_47,infection,~,2021-01-06,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_501,infection,~,2020-12-10,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_507,infection,~,2020-12-16,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_547,infection,~,2020-12-18,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_633,infection,~,2020-12-19,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_72,infection,~,2020-12-25,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_75,infection,~,2021-01-06,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_76,infection,~,2020-11-28,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_8,infection,~,2020-12-07,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_9,infection,~,2020-12-11,USA,Wuhan-Hu-1,NULL,NULL
 Schmidt21b,PT_21,isolation,~,2021-12-12,USA,NULL,NULL,NULL
 Schmidt21b,PT_328,isolation,~,2021-12-12,USA,NULL,NULL,NULL
 Schmidt21b,PT_353,isolation,~,2021-12-12,USA,NULL,NULL,NULL
@@ -39,26 +39,26 @@ Schmidt21b,PT_75,isolation,~,2021-12-12,USA,NULL,NULL,NULL
 Schmidt21b,PT_76,isolation,~,2021-12-12,USA,NULL,NULL,NULL
 Schmidt21b,PT_8,isolation,~,2021-12-12,USA,NULL,NULL,NULL
 Schmidt21b,PT_9,isolation,~,2021-12-12,USA,NULL,NULL,NULL
-Schmidt21b,PT_115,infection,~,2021-01-11,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_233,infection,~,2020-11-30,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_135,infection,~,2021-01-05,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_401,infection,~,2020-12-06,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_537,infection,~,2020-12-20,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_500,infection,~,2020-12-02,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_222,infection,~,2020-12-30,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_230,infection,~,2020-12-05,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_24,infection,~,2021-01-10,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_325,infection,~,2020-12-24,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_55,infection,~,2020-12-28,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_7,infection,~,2020-12-01,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_71,infection,~,2020-11-21,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_96,infection,~,2020-12-18,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_539,infection,~,2020-12-15,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_393,infection,~,2020-12-15,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_394,infection,~,2020-12-02,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_120,infection,~,2020-12-02,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_186,infection,~,2020-12-21,USA,Unknown variant,NULL,NULL
-Schmidt21b,PT_20,infection,~,2021-01-01,USA,Unknown variant,NULL,NULL
+Schmidt21b,PT_115,infection,~,2021-01-11,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_233,infection,~,2020-11-30,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_135,infection,~,2021-01-05,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_401,infection,~,2020-12-06,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_537,infection,~,2020-12-20,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_500,infection,~,2020-12-02,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_222,infection,~,2020-12-30,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_230,infection,~,2020-12-05,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_24,infection,~,2021-01-10,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_325,infection,~,2020-12-24,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_55,infection,~,2020-12-28,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_7,infection,~,2020-12-01,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_71,infection,~,2020-11-21,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_96,infection,~,2020-12-18,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_539,infection,~,2020-12-15,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_393,infection,~,2020-12-15,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_394,infection,~,2020-12-02,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_120,infection,~,2020-12-02,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_186,infection,~,2020-12-21,USA,Wuhan-Hu-1,NULL,NULL
+Schmidt21b,PT_20,infection,~,2021-01-01,USA,Wuhan-Hu-1,NULL,NULL
 Schmidt21b,PT_115,isolation,~,2021-02-21,USA,NULL,NULL,NULL
 Schmidt21b,PT_233,isolation,~,2021-01-10,USA,NULL,NULL,NULL
 Schmidt21b,PT_135,isolation,~,2021-02-05,USA,NULL,NULL,NULL
