@@ -1,13 +1,13 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Sabin21,P1,infection,~,2020-12-01,USA,hCoV-19/USA/WI-GMF-48798/2021,NULL,NULL
 Sabin21,P1,isolation,~,2021-12-02,USA,B.1.311 full genome,NULL,NULL
-Sabin21,P2,infection,~,2020-12-23,USA,NULL,NULL,NULL
+Sabin21,P2,infection,~,2020-12-23,USA,Unknown variant,NULL,NULL
 Sabin21,P2,isolation,~,2020-12-23,USA,B.1.311 full genome,NULL,NULL
-Sabin21,P3,infection,~,2020-12-24,USA,NULL,NULL,NULL
+Sabin21,P3,infection,~,2020-12-24,USA,Unknown variant,NULL,NULL
 Sabin21,P3,isolation,~,2020-12-25,USA,hCoV-19/USA/MN-GMF-45422/2020,NULL,NULL
-Sabin21,P4,infection,~,2020-12-24,USA,NULL,NULL,NULL
+Sabin21,P4,infection,~,2020-12-24,USA,Unknown variant,NULL,NULL
 Sabin21,P4,isolation,~,2020-12-30,USA,B.1.311 full genome,NULL,NULL
-Sabin21,P5,infection,~,2020-12-26,USA,NULL,NULL,NULL
+Sabin21,P5,infection,~,2020-12-26,USA,Unknown variant,NULL,NULL
 Sabin21,P5,isolation,~,2020-12-30,USA,hCoV-19/USA/MN-GMF-46571/2021,NULL,NULL
-Sabin21,P6,infection,~,2020-12-27,USA,NULL,NULL,NULL
+Sabin21,P6,infection,~,2020-12-27,USA,Unknown variant,NULL,NULL
 Sabin21,P6,isolation,~,2020-12-30,USA,hCoV-19/USA/MN-GMF-46573/2021,NULL,NULL
