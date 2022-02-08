@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Monrad21,Patient,infection,~,2020-05-01,Denmark,B.1 full genome,NULL,NULL
+Monrad21,Patient,infection,~,2020-05-01,Denmark,Monrad21_D24,NULL,NULL
 Monrad21,Patient,isolation,~,2020-05-25,Denmark,Monrad21_D24,NULL,NULL
 Monrad21,Patient,isolation,~,2020-06-29,Denmark,Monrad21_D59,NULL,NULL
 Monrad21,Patient,isolation,~,2020-07-20,Denmark,Monrad21_D80,NULL,NULL
