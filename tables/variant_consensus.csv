@@ -1096,6 +1096,11 @@ B.1.319,_3CLpro,266,V
 B.1.319,RdRP,323,L
 B.1.319,S,614,G
 B.1.319,ORF3a,57,H
+B.1.343,nsp2,85,I
+B.1.343,PLpro,342,Y
+B.1.343,RdRP,323,L
+B.1.343,S,614,G
+B.1.343,ORF3a,57,H
 B.1.1.229,PLpro,340,S
 B.1.1.229,PLpro,414,V
 B.1.1.229,RdRP,323,L
@@ -1766,11 +1771,13 @@ Omicron/BA.3,S,212,del
 Omicron/BA.3,S,339,D
 Omicron/BA.3,S,373,P
 Omicron/BA.3,S,375,F
+Omicron/BA.3,S,440,K
 Omicron/BA.3,S,446,S
 Omicron/BA.3,S,477,N
 Omicron/BA.3,S,478,K
 Omicron/BA.3,S,484,A
 Omicron/BA.3,S,493,R
+Omicron/BA.3,S,498,R
 Omicron/BA.3,S,501,Y
 Omicron/BA.3,S,505,H
 Omicron/BA.3,S,614,G
