@@ -1085,12 +1085,9 @@ Kitchin21,Ad26.COV2.S,Human,NULL,13
 Kitchin21,Ad26.COV2.S_BTI,Human,NULL,6
 Kuzmina21,BNT,Human,NULL,10
 Kuzmina21,CP,Human,NULL,10
-Lapa22,BNT162b2_2wk,Human,NULL,34
-Lapa22,BNT162b2_3mo,Human,NULL,34
-Lapa22,BNT162b2_6mo,Human,NULL,34
+Lapa22,BNT162b2,Human,NULL,1
 Lapa22,CP,Human,NULL,46
-Lapa22,Sputnik_V_3mo,Human,NULL,30
-Lapa22,Sputnik_V_3to6mo,Human,NULL,32
+Lapa22,Sputnik_V,Human,NULL,1
 Lapa22,Sputnik_V_with_infection,Human,NULL,40
 Lassauniere21,BNT162b2,Human,1980,14
 Ledesma21,SPV,Human,NULL,19
