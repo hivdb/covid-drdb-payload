@@ -94,6 +94,7 @@ BD-508,7E86,RBD,RBM Class I,structure
 BD-515,7E88,RBD,RBM Class I,structure
 BD-623,7E7Y,RBD,RBM Class I,structure
 BD-629,7CH5,RBD,RBM Class I,structure
+BD-744,NULL,RBD,RBD Core Cluster I,author
 BD1-24,7M6I,RBD,RBM Class II,structure
 BD23,NULL,RBD,NULL,author
 BD23,7BYR,RBD,RBM Class III,structure
@@ -269,6 +270,7 @@ Cilgavimab,NULL,RBD,RBM Class II,author
 Cilgavimab,7L7E,RBD,RBM Class II,structure
 CoV2-06,NULL,RBD,NULL,author
 CoV2-14,NULL,RBD,NULL,author
+CoV2-39,NULL,RBD,RBM Class I,author
 D14,NULL,S1,S1,author
 DH1041,7LAA,RBD,RBM Class I,structure
 DH1042,NULL,NULL,NULL,author
