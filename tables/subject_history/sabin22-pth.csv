@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Sabin22,Household contacts of 6,infection,<,2020-12-06,USA,hCoV-19/USA/WI-GMF-48798/2021,NULL,NULL
+Sabin22,Household contacts of 6,isolation,=,2020-12-30,USA,hCoV-19/USA/MN-GMF-45422/2020,NULL,NULL
+Sabin22,Household contacts of 6,isolation,=,2021-01-04,USA,hCoV-19/USA/MN-GMF-46571/2021,NULL,NULL
+Sabin22,Household contacts of 6,isolation,=,2021-01-05,USA,hCoV-19/USA/MN-GMF-46573/2021,NULL,NULL

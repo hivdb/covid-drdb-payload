@@ -1640,12 +1640,7 @@ Saade21,BNT162b2,Human,NULL,NULL,30
 Saade21,CP,Human,NULL,NULL,34
 Saade21,CP_Mild,Human,NULL,NULL,29
 Saade21,CP_Severe,Human,NULL,NULL,25
-Sabin21,P1,Human,NULL,NULL,1
-Sabin21,P2,Human,NULL,NULL,1
-Sabin21,P3,Human,NULL,NULL,1
-Sabin21,P4,Human,NULL,NULL,1
-Sabin21,P5,Human,NULL,NULL,1
-Sabin21,P6,Human,NULL,NULL,1
+Sabin22,Household contacts of 6,Human,NULL,NULL,6
 Sahin20,Subject_PSV,Human,NULL,NULL,5
 Sahin21,BNT_Fig1b,Human,NULL,NULL,12
 Sahin21,BNT_Fig4d,Human,NULL,NULL,5
