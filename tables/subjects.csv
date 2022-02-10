@@ -1089,6 +1089,11 @@ Lapa22,CP,Human,NULL,NULL,23
 Lapa22,Sputnik_V,Human,NULL,NULL,16
 Lapa22,Sputnik_V_with_infection,Human,NULL,NULL,20
 Lassauniere21,BNT162b2,Human,1980,NULL,14
+Lechmere21,AZD122_delta_infected,Human,NULL,NULL,16
+Lechmere21,BNT162b2_delta_infected,Human,NULL,NULL,10
+Lechmere21,CP_2A,Human,NULL,NULL,19
+Lechmere21,CP_3B,Human,NULL,NULL,14
+Lechmere21,double_vaccination_delta_infected,Human,NULL,NULL,15
 Ledesma21,SPV,Human,NULL,NULL,19
 Lee22,Patient A,Human,1960,Medical,1
 Lee22,Patient B,Human,1980,Medical,1

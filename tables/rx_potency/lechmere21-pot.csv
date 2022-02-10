@@ -1,0 +1,313 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Lechmere21,CP_2A_1,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,125,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_2,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,1175,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_3,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,1122,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_4,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,1015,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_5,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,3311,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_6,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,4137,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_7,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,30,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_8,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_9,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_10,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,529,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_11,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,4642,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_12,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,454,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_13,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,533,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_14,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,1318,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_15,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,1634,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_16,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,4299,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_17,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,1113,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_18,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,9848,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_19,Wuhan-Hu-1 Spike,Figure 2A,Pseudovirus (HIV),NT50,1008,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_1,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,35,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_2,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,3521,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_3,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,358,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_4,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,1380,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_5,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,2997,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_6,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,1685,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_7,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_8,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_9,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_10,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,231,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_11,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,7189,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_12,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,233,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_13,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,282,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_14,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,1063,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_15,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,1298,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_16,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,1597,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_17,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,1259,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_18,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,2138,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_19,B.1.1.7 Spike,Figure 2A,Pseudovirus (HIV),NT50,646,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_1,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,118,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_2,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,11930,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_3,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,1935,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_4,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,15970,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_5,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,18763,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_6,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,21876,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_7,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,607,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_8,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_9,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_10,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,1457,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_11,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,15487,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_12,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,2630,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_13,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,2154,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_14,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,6918,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_15,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,4105,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_16,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,13910,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_17,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,8446,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_18,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,14344,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_19,B.1.617.2 Spike,Figure 2A,Pseudovirus (HIV),NT50,1834,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_1,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,41,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_2,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,3043,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_3,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,242,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_4,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,770,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_5,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,2974,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_6,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,3362,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_7,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,26,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_8,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_9,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,26,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_10,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,166,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_11,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,3860,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_12,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,1240,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_13,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,440,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_14,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,1240,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_15,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,1202,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_16,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,2273,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_17,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,1031,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_18,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,2436,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_19,B.1.621 Spike,Figure 2A,Pseudovirus (HIV),NT50,562,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_1,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_2,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,525,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_3,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,137,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_4,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,217,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_5,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,2204,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_6,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,878,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_7,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_8,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_9,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,36,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_10,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,211,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_11,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,919,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_12,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,1778,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_13,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,300,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_14,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,414,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_15,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,788,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_16,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,407,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_17,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,1468,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_18,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,758,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_2A_19,B.1.351 Spike,Figure 2A,Pseudovirus (HIV),NT50,475,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_1,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,46,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_2,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,1184,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_3,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,770,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_4,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,3981,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_5,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,1240,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_6,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,32,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_7,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,417,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_8,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,5933,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_9,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,261,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_10,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,1139,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_11,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,730,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_12,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,912,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_13,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,1269,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_14,Wuhan-Hu-1 Spike,Figure 3B,Pseudovirus (HIV),NT50,825,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_1,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,214,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_2,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,15848,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_3,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,2929,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_4,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,27541,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_5,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,15606,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_6,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,676,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_7,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,1711,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_8,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,22216,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_9,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,2256,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_10,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,7412,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_11,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,7025,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_12,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,8708,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_13,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,9922,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_14,B.1.617.2 Spike,Figure 3B,Pseudovirus (HIV),NT50,2492,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_1,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_2,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,67,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_3,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,46,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_4,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,533,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_5,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,282,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_6,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_7,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,52,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_8,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,1000,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_9,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,28,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_10,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,231,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_11,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,355,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_12,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,282,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_13,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,280,1,100000,25,NULL,2022-02-09
+Lechmere21,CP_3B_14,B.1.1.529 Spike,Figure 3B,Pseudovirus (HIV),NT50,90,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_1,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,6118,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_2,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,22214,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_3,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,2818,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_4,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,3336,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_5,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,3575,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_6,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,2089,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_7,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,6260,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_8,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,8003,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_9,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,7585,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_10,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,1995,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_11,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,1259,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_12,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,3950,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_13,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,1113,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_14,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,3575,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_15,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (HIV),NT50,1113,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_1,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,5247,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_2,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,51677,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_3,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,9475,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_4,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,24544,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_5,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,9923,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_6,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,4973,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_7,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,19054,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_8,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,13284,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_9,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,18907,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_10,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,9050,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_11,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,10550,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_12,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,11839,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_13,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,970,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_14,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,10469,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_15,B.1.617.2 Spike,Figure 3C,Pseudovirus (HIV),NT50,871,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_1,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,2308,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_2,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,22214,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_3,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,6505,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_4,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,7644,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_5,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,2570,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_6,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,3020,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_7,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,17917,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_8,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,7942,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_9,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,5011,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_10,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,3860,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_11,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,1950,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_12,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,146,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_13,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,46,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_14,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,209,1,100000,25,NULL,2022-02-09
+Lechmere21,double_vaccination_delta_infected_15,B.1.1.529 Spike,Figure 3C,Pseudovirus (HIV),NT50,146,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_1,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,8004,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_2,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,10077,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_3,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,4399,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_4,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7134,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_5,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5799,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_6,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3715,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_7,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5754,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_8,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5980,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_9,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5329,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_10,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,10077,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_11,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,4936,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_12,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_13,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,12397,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_14,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,1751,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_15,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,10312,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_16,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,414,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_1,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,11931,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_2,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6972,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_3,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2362,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_4,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,41052,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_5,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5050,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_6,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,23988,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_7,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6918,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_8,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7356,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_9,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6556,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_10,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7244,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_11,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,15849,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_12,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_13,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,13804,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_14,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2474,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_15,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6506,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_16,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,1269,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_1,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25312,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_2,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3363,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_3,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2754,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_4,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,36308,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_5,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3388,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_6,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,24359,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_7,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,4074,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_8,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6213,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_9,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,13284,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_10,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,8710,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_11,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,15728,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_12,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,26,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_13,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7528,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_14,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,656,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_15,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,14234,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_16,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,1015,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_1,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6556,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_2,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7762,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_3,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,1370,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_4,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,35755,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_5,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3603,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_6,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,16982,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_7,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,8912,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_8,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,8577,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_9,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,10471,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_10,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,17378,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_11,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,17647,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_12,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_13,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,8382,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_14,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,4299,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_15,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,13490,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_16,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3773,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_1,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,14905,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_2,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2974,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_3,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2692,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_4,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,31141,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_5,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2974,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_6,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,54534,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_7,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2105,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_8,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,1834,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_9,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6310,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_10,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6310,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_11,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,48603,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_12,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,32,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_13,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,14905,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_14,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,788,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_15,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,8446,1,100000,25,NULL,2022-02-09
+Lechmere21,AZD122_delta_infected_16,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,1778,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_1,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5934,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_2,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,84462,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_3,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,15849,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_4,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3138,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_5,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_6,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6026,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_7,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5710,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_8,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,12023,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_9,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3890,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_10,Wuhan-Hu-1 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,697,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_1,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,4936,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_2,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,52885,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_3,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,8844,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_4,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5370,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_5,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_6,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7356,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_7,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5799,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_8,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7703,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_9,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2011,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_10,B.1.1.7 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2399,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_1,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3687,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_2,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,80661,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_3,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25119,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_4,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,47497,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_5,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_6,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5934,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_7,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,15849,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_8,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,10155,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_9,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3415,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_10,B.1.617.2 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7822,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_1,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5580,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_2,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,99999,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_3,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7883,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_4,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3951,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_5,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_6,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7822,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_7,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7943,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_8,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,11659,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_9,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3441,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_10,B.1.621 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,6918,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_1,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,3286,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_2,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,80661,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_3,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,5208,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_4,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,7025,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_5,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,25,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_6,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,1711,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_7,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,2610,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_8,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,4501,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_9,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,1876,1,100000,25,NULL,2022-02-09
+Lechmere21,BNT162b2_delta_infected_10,B.1.351 Spike,Supplementary Figure 2B,Pseudovirus (HIV),NT50,4137,1,100000,25,NULL,2022-02-09
