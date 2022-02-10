@@ -751,7 +751,7 @@ Goel21,IHCV2020.042,Human,NULL,NULL,1
 Goel21b,mRNA,Human,1984,NULL,45
 Goel21b,mRNA_recovered,Human,1983,NULL,16
 Gong21,BNT_infected,Human,NULL,NULL,5
-Gottlieb21,Gottlieb21 BAM/ETE Treated,Human,NULL,NULL,1
+Gottlieb21,Gottlieb21 BAM/ETE Treated,Human,NULL,Unknown,1
 Graham21,P008,Human,1992,NULL,1
 Graham21,P054,Human,1959,NULL,1
 Greaney21,Subject_A,Human,NULL,NULL,1
@@ -1468,7 +1468,7 @@ Neumann21,mRNA-1273,Human,1973,NULL,11
 Nguyen21,CP_first_wave,Human,NULL,NULL,22
 Nguyen21,CP_second_wave,Human,NULL,NULL,50
 Nussenblatt21,Donor,Human,NULL,NULL,1
-Nussenblatt21,Patient,Human,NULL,NULL,1
+Nussenblatt21,Patient,Human,1972,Medical,1
 Pannus21,Infected_Resident,Human,NULL,NULL,19
 Pannus21,Infected_Staff,Human,NULL,NULL,20
 Parry21,BNT162b2,Human,1937,NULL,20
