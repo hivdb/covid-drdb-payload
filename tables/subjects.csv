@@ -81,7 +81,6 @@ Barros-Martins21,AZD_BNT,Human,1983,NULL,55
 Bates21,BNT162b2,Human,NULL,NULL,51
 Bates21,CP,Human,NULL,NULL,43
 Bates21b,BNT,Human,1971,NULL,50
-Bazykin21,Patient S,Human,NULL,NULL,1
 Becker21,BNT162b2,Human,NULL,NULL,8
 Becker21,CP,Human,NULL,NULL,6
 Behrens21,AZD1222,Human,1980,NULL,12
@@ -1956,7 +1955,7 @@ Stamatatos21,PT_O,Human,NULL,NULL,1
 Stanevich21,Donor 1,Human,NULL,NULL,1
 Stanevich21,Donor 2,Human,NULL,NULL,1
 Stanevich21,Donor 3,Human,NULL,NULL,1
-Stanevich21,Patient S,Human,1973,NULL,1
+Stanevich21,Patient S,Human,1973,Medical,1
 Stankov21,BNT_1st_dose,Human,NULL,NULL,19
 Stankov21,BNT_P10,Human,NULL,NULL,1
 Stankov21,BNT_P11,Human,NULL,NULL,1
