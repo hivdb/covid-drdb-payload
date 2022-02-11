@@ -1,0 +1,20 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Iketani22,CB6,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,428,NULL,NULL,1,2022-02-10
+Iketani22,BRII-196,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,=,322,NULL,NULL,1,2022-02-10
+Iketani22,10-20,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,429,NULL,NULL,1,2022-02-10
+Iketani22,REGN10933,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,2201,NULL,NULL,1,2022-02-10
+Iketani22,COV2-2196,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,=,680,NULL,NULL,1,2022-02-10
+Iketani22,LY-CoV555,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,1496,NULL,NULL,1,2022-02-10
+Iketani22,2-15,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,2716,NULL,NULL,1,2022-02-10
+Iketani22,REGN10987,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,=,253,NULL,NULL,1,2022-02-10
+Iketani22,COV2-2130,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,=,1.9,NULL,NULL,1,2022-02-1010
+Iketani22,S309,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,=,27,NULL,NULL,1,2022-02-10
+Iketani22,2-7,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,=,7.3,NULL,NULL,1,2022-02-10
+Iketani22,BRII-198,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,=,11,NULL,NULL,1,2022-02-10
+Iketani22,LY-CoV1404,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,=,0.9,NULL,NULL,1,2022-02-10
+Iketani22,ADG-2,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,555,NULL,NULL,1,2022-02-10
+Iketani22,DH1047,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,58,NULL,NULL,1,2022-02-10
+Iketani22,10-40,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,114,NULL,NULL,1,2022-02-10
+Iketani22,S2X259,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,96,NULL,NULL,1,2022-02-10
+Iketani22,4-18,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,27,NULL,NULL,1,2022-02-10
+Iketani22,5-7,S:614G,BA.2 Spike,Figure 2b,Pseudovirus,IC50,<,171,NULL,NULL,1,2022-02-10

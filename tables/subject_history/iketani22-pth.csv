@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Iketani22,CP_WT,infection,~,2020-08-01,USA,B.1 full genome,NULL,NULL
+Iketani22,CP_WT,isolation,~,2020-09-01,USA,NULL,NULL,NULL
+Iketani22,MOD_2dose,1st dose,~,2021-01-01,USA,NULL,mRNA-1273,NULL
+Iketani22,MOD_2dose,2nd dose,~,2021-02-01,USA,NULL,mRNA-1273,NULL
+Iketani22,MOD_2dose,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,NULL
+Iketani22,BNT_2dose,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Iketani22,BNT_2dose,2nd dose,~,2021-02-01,USA,NULL,BNT162b2,NULL
+Iketani22,BNT_2dose,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,NULL
+Iketani22,mRNA_3dose,1st dose,~,2021-01-01,USA,NULL,mRNA,NULL
+Iketani22,mRNA_3dose,2nd dose,~,2021-02-01,USA,NULL,mRNA,NULL
+Iketani22,mRNA_3dose,3rd dose,~,2021-08-01,USA,NULL,mRNA,NULL
+Iketani22,mRNA_3dose,3rd dose isolation,~,2021-09-01,USA,NULL,NULL,NULL
