@@ -1,16 +1,16 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Diez21,CP_hIG 1,Wuhan-Hu-1,Figure 1,Pseudovirus (HIV),NT50,3646,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 2,Wuhan-Hu-1,Figure 1,Pseudovirus (HIV),NT50,2934,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 3,Wuhan-Hu-1,Figure 1,Pseudovirus (HIV),NT50,5071,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 1,S:614G,Figure 1,Pseudovirus (HIV),NT50,2813,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 2,S:614G,Figure 1,Pseudovirus (HIV),NT50,3584,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 3,S:614G,Figure 1,Pseudovirus (HIV),NT50,5984,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 1,B.1.1.7 Spike,Figure 1,Pseudovirus (HIV),NT50,2449,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 2,B.1.1.7 Spike,Figure 1,Pseudovirus (HIV),NT50,2622,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 3,B.1.1.7 Spike,Figure 1,Pseudovirus (HIV),NT50,2682,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 1,P.1 Spike,Figure 1,Pseudovirus (HIV),NT50,922,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 2,P.1 Spike,Figure 1,Pseudovirus (HIV),NT50,994,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 3,P.1 Spike,Figure 1,Pseudovirus (HIV),NT50,1018,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 1,B.1.351 Spike,Figure 1,Pseudovirus (HIV),NT50,514,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 2,B.1.351 Spike,Figure 1,Pseudovirus (HIV),NT50,611,1,10000,100,NULL,2021-11-01
-Diez21,CP_hIG 3,B.1.351 Spike,Figure 1,Pseudovirus (HIV),NT50,638,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 1,Wuhan-Hu-1,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,3646,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 2,Wuhan-Hu-1,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,2934,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 3,Wuhan-Hu-1,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,5071,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 1,S:614G,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,2813,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 2,S:614G,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,3584,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 3,S:614G,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,5984,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 1,B.1.1.7 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,2449,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 2,B.1.1.7 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,2622,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 3,B.1.1.7 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,2682,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 1,P.1 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,922,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 2,P.1 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,994,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 3,P.1 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,1018,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 1,B.1.351 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,514,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 2,B.1.351 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,611,1,10000,100,NULL,2021-11-01
+Diez21,CP_hIG 3,B.1.351 Spike,Preprint 10.1101/2021.06.11.447942 Figure 1,Pseudovirus (HIV),NT50,638,1,10000,100,NULL,2021-11-01
