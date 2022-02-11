@@ -1,14 +1,14 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Bronstein21,Patient 1,infection,<,2021-01-17,Israel,B.1.1.7 full genome,NULL,NULL
-Bronstein21,Patient 1,isolation,=,2021-01-17,Israel,S:5F+69del+70del+145del+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
-Bronstein21,Patient 1,isolation,=,2021-02-08,Israel,S:5F+69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
-Bronstein21,Patient 1,isolation,=,2021-02-19,Israel,S:5F+69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
-Bronstein21,Patient 1,isolation,=,2021-02-28,Israel,S:5F+69del+70del+145del+484Q+501Y+570D+614G+681H+716I+982A+1118H,NULL,NULL
-Bronstein21,Patient 2,infection,<,2021-02-01,Israel,B.1.362 full genome,NULL,NULL
-Bronstein21,Patient 2,isolation,=,2021-02-01,Israel,S:452R+614G+1063F,NULL,NULL
-Bronstein21,Patient 2,isolation,=,2021-02-10,Israel,S:452R+614G+1063F,NULL,NULL
-Bronstein21,Patient 2,isolation,=,2021-02-17,Israel,S:452R+614G+1063F,NULL,NULL
-Bronstein21,Patient 2,isolation,=,2021-03-16,Israel,S:140del+452R+485R+614G+1063F,NULL,NULL
-Bronstein21,Patient 2,isolation,=,2021-03-25,Israel,S:139del+140del+141del+142del+143del+144del+258C+452R+485R+614G+1063F,NULL,NULL
-Bronstein21,Patient 2,isolation,=,2021-04-22,Israel,S:139del+140del+141del+142del+143del+144del+258C+452R+485R+614G+1063F,NULL,NULL
+Bronstein21,Patient 1,infection,<,2021-01-17,Israel,Bronstein21_P1_Seq1,NULL,NULL
+Bronstein21,Patient 1,isolation,=,2021-01-17,Israel,Bronstein21_P1_Seq1,NULL,NULL
+Bronstein21,Patient 1,isolation,=,2021-02-08,Israel,Bronstein21_P1_Seq2,NULL,NULL
+Bronstein21,Patient 1,isolation,=,2021-02-19,Israel,Bronstein21_P1_Seq2,NULL,NULL
+Bronstein21,Patient 1,isolation,=,2021-02-28,Israel,Bronstein21_P1_Seq2,NULL,NULL
+Bronstein21,Patient 2,infection,<,2021-02-01,Israel,Bronstein21_P2_Seq1,NULL,NULL
+Bronstein21,Patient 2,isolation,=,2021-02-01,Israel,Bronstein21_P2_Seq1,NULL,NULL
+Bronstein21,Patient 2,isolation,=,2021-02-10,Israel,Bronstein21_P2_Seq1,NULL,NULL
+Bronstein21,Patient 2,isolation,=,2021-02-17,Israel,Bronstein21_P2_Seq1,NULL,NULL
+Bronstein21,Patient 2,isolation,=,2021-03-16,Israel,Bronstein21_P2_Seq2,NULL,NULL
+Bronstein21,Patient 2,isolation,=,2021-03-25,Israel,Bronstein21_P2_Seq3,NULL,NULL
+Bronstein21,Patient 2,isolation,=,2021-04-22,Israel,Bronstein21_P2_Seq3,NULL,NULL
 Bronstein21,Donor,isolation,~,2021-01-01,Israel,NULL,NULL,NULL

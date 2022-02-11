@@ -1,0 +1,6 @@
+iso_name,var_name,site_directed,gisaid_id,genbank_accn,expandable
+Bronstein21_P1_Seq1,Alpha,FALSE,NULL,NULL,TRUE
+Bronstein21_P1_Seq2,Alpha,FALSE,NULL,NULL,TRUE
+Bronstein21_P2_Seq1,B.1.362,FALSE,NULL,NULL,TRUE
+Bronstein21_P2_Seq2,B.1.362,FALSE,NULL,NULL,TRUE
+Bronstein21_P2_Seq3,B.1.362,FALSE,NULL,NULL,TRUE
