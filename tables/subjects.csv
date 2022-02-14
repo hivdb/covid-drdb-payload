@@ -97,8 +97,8 @@ Bekliz21,mRNA_Omicron,Human,NULL,NULL,4
 Betton21,CP,Human,NULL,NULL,107
 Borges21,Patient,Human,1960,NULL,1
 Bronstein21,Donor,Human,NULL,NULL,1
-Bronstein21,Patient 1,Human,1953,NULL,1
-Bronstein21,Patient 2,Human,1988,NULL,1
+Bronstein21,Patient 1,Human,1953,Medical,1
+Bronstein21,Patient 2,Human,1988,Medical,1
 Brown21,BNT162b2,Human,NULL,NULL,8
 Brown21,BNT162b2_infected,Human,NULL,NULL,10
 Brown21,CP,Human,NULL,NULL,13
