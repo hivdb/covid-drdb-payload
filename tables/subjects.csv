@@ -1372,7 +1372,7 @@ Liu21l,BNT_infected,Human,NULL,NULL,1
 Liu21l,CP,Human,NULL,NULL,10
 Liu21l,mRNA-1273,Human,NULL,NULL,12
 Liu21l,mRNA-1273_boosted,Human,NULL,NULL,2
-Lohr21,Patient,Human,1966,NULL,1
+Lohr21,Patient,Human,1966,Medical,1
 Lu21b,BNT162b2,Human,1974,NULL,1
 Lu21b,CoronaVac,Human,1969,NULL,1
 Lucas21,VP_naive,Human,NULL,NULL,17
