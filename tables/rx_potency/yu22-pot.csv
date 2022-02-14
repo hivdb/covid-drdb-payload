@@ -1,0 +1,193 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yu22,BNT162b2_2wk_1,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,2042,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_2,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,593,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_3,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_4,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,4399,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_5,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,251,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_6,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,948,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_7,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,4786,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_8,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,703,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_9,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,146,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_10,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,3441,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_11,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,236,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_12,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,940,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_13,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,607,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_14,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,307,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_1,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,88,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_2,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,21,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_3,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_4,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,111,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_5,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_6,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_7,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,214,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_8,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,39,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_9,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,30,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_10,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,38,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_11,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_12,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,25,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_13,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,44,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_14,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,28,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_1,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,92,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_2,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,25,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_3,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,23,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_4,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,45,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_5,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_6,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_7,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,63,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_8,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,43,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_9,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_10,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,63,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_11,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_12,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,27,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_13,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_14,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_1,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,297,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_2,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,124,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_3,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,188,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_4,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_5,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,134,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_6,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,116,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_7,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,155,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_8,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,116,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_9,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,226,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_10,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,161,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_11,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,163,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_12,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,22,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_13,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,69,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_14,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,253,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_15,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,75,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_16,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,34,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_17,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,78,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_18,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,140,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_19,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,121,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_20,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,192,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_1,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_2,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_3,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_4,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_5,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,39,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_6,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_7,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,28,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_8,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_9,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_10,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_11,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_12,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_13,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_14,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,65,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_15,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_16,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_17,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_18,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_19,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_20,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,26,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_1,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,22,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_2,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_3,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,57,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_4,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_5,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_6,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,21,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_7,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_8,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_9,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,74,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_10,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_11,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,24,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_12,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_13,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_14,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,48,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_15,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_16,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_17,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_18,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_19,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_pre_boost_20,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,34,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_1,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,2974,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_2,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,3311,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_3,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,5754,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_4,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,5710,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_5,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,6813,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_6,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,24547,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_7,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,5329,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_8,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,9190,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_9,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,7080,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_10,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,4974,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_11,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,10715,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_12,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,8981,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_13,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,8191,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_14,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,8777,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_15,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,6214,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_16,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,5208,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_17,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,9848,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_18,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,10155,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_19,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,3981,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_20,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,3521,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_21,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,8254,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_22,hCoV-19/Wuhan/WIV04/2019,Figure 1B,Pseudovirus (lentivirus),NT50,5089,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_1,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,238,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_2,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,2733,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_3,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,2122,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_4,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,2493,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_5,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,832,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_6,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1751,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_7,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,211,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_8,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,3043,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_9,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,4823,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_10,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,641,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_11,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1113,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_12,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,4467,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_13,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,386,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_14,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,2273,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_15,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,898,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_16,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1015,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_17,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,3920,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_18,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,948,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_19,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,366,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_20,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,770,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_21,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,730,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_22,B.1.1.529 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,3687,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_1,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,207,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_2,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,970,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_3,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,1514,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_4,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,770,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_5,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,420,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_6,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,2089,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_7,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,179,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_8,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,776,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_9,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,3981,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_10,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,719,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_11,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,398,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_12,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,681,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_13,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,240,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_14,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,238,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_15,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,1792,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_16,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,1072,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_17,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,358,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_18,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,3802,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_19,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,1848,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_20,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,1298,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_21,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,117,1,100000,25,NULL,2022-02-14
+Yu22,BNT162b2_2wk_post_boost_22,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1B,Pseudovirus (lentivirus),NT50,1765,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_1,hCoV-19/Wuhan/WIV04/2019,Figure 1C,Pseudovirus (lentivirus),NT50,1950,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_2,hCoV-19/Wuhan/WIV04/2019,Figure 1C,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_3,hCoV-19/Wuhan/WIV04/2019,Figure 1C,Pseudovirus (lentivirus),NT50,5843,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_4,hCoV-19/Wuhan/WIV04/2019,Figure 1C,Pseudovirus (lentivirus),NT50,4823,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_5,hCoV-19/Wuhan/WIV04/2019,Figure 1C,Pseudovirus (lentivirus),NT50,6865,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_6,hCoV-19/Wuhan/WIV04/2019,Figure 1C,Pseudovirus (lentivirus),NT50,3236,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_7,hCoV-19/Wuhan/WIV04/2019,Figure 1C,Pseudovirus (lentivirus),NT50,7470,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_8,hCoV-19/Wuhan/WIV04/2019,Figure 1C,Pseudovirus (lentivirus),NT50,2474,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_1,B.1.1.529 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,4043,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_2,B.1.1.529 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_3,B.1.1.529 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,2362,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_4,B.1.1.529 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,3687,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_5,B.1.1.529 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,4501,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_6,B.1.1.529 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,2775,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_7,B.1.1.529 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,4571,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_8,B.1.1.529 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,1647,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_1,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1C,Pseudovirus (lentivirus),NT50,2630,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_2,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1C,Pseudovirus (lentivirus),NT50,20,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_3,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1C,Pseudovirus (lentivirus),NT50,2239,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_4,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1C,Pseudovirus (lentivirus),NT50,4332,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_5,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1C,Pseudovirus (lentivirus),NT50,1622,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_6,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1C,Pseudovirus (lentivirus),NT50,3981,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_7,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1C,Pseudovirus (lentivirus),NT50,2818,1,100000,25,NULL,2022-02-14
+Yu22,vaccinated_bti_8,hCoV-19/South Africa/CERI-KRISP-K032307/2021,Figure 1C,Pseudovirus (lentivirus),NT50,1806,1,100000,25,NULL,2022-02-14
