@@ -1484,12 +1484,12 @@ Parry21,BNT162b2,Human,1937,NULL,20
 Payne21,BNT_Long,Human,NULL,NULL,20
 Payne21,BNT_Short,Human,NULL,NULL,19
 Pegu21,mRNA-1273,Human,NULL,NULL,33
-Peiffer-Smadja21,Patient 1,Human,1934,NULL,1
-Peiffer-Smadja21,Patient 2,Human,1986,NULL,1
-Peiffer-Smadja21,Patient 3,Human,1960,NULL,1
-Peiffer-Smadja21,Patient 4,Human,1924,NULL,1
-Peiffer-Smadja21,Patient 5,Human,1957,NULL,1
-Peiffer-Smadja21,Patient 6,Human,1955,NULL,1
+Peiffer-Smadja21,Patient 1,Human,1934,Medical,1
+Peiffer-Smadja21,Patient 2,Human,1986,Medical,1
+Peiffer-Smadja21,Patient 3,Human,1960,Medical,1
+Peiffer-Smadja21,Patient 4,Human,1924,Medical,1
+Peiffer-Smadja21,Patient 5,Human,1957,Medical,1
+Peiffer-Smadja21,Patient 6,Human,1955,Medical,1
 Planas21,BNT01,Human,NULL,NULL,1
 Planas21,BNT02,Human,NULL,NULL,1
 Planas21,BNT03,Human,NULL,NULL,1
