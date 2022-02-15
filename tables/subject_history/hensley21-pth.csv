@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Hensley21,Patient,infection,~,2020-04-05,USA,B.1 full genome,NULL,NULL
+Hensley21,Patient,infection,~,2020-04-05,USA,B.1 full genome,NULL,Hospitalized
 Hensley21,Patient,isolation,~,2020-05-04,USA,S:614G,NULL,NULL
 Hensley21,Patient,isolation,~,2020-05-13,USA,S:190K+614G+1124D,NULL,NULL
 Hensley21,Patient,isolation,~,2020-07-06,USA,S:215G+241F+242del+243del+244del+245del+246del+247del+248del+501T+614G+653V+1105A,NULL,NULL
