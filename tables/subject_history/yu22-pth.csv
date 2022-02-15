@@ -9,4 +9,4 @@ Yu22,vaccinated_bti,1st dose,~,2021-01-01,United States,NULL,BNT162b2 + mRNA-127
 Yu22,vaccinated_bti,2nd dose,~,2021-02-01,United States,NULL,BNT162b2 + mRNA-1273,NULL
 Yu22,vaccinated_bti,3rd dose,~,2021-10-27,United States,NULL,BNT162b2 + mRNA-1273,NULL
 Yu22,vaccinated_bti,3rd dose isolation,~,2022-01-15,United States,NULL,NULL,NULL
-Yu22,vaccinated_bti,infection,~,2022-01-01,United States,hCoV-19/South Africa/CERI-KRISP-K032307/2021,NULL,NULL
+Yu22,vaccinated_bti,infection,~,2022-01-01,United States,Omicron/BA.1 full genome,NULL,NULL
