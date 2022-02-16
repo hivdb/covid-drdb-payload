@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Nussenblatt21,Patient,infection,<,2020-04-27,USA,SARS-CoV-2/human/USA/MD-NIH-00581-20200501/2020,NULL,NULL
+Nussenblatt21,Patient,infection,<,2020-04-27,USA,SARS-CoV-2/human/USA/MD-NIH-00581-20200501/2020,NULL,Hospitalized
 Nussenblatt21,Patient,isolation,=,2020-05-01,USA,SARS-CoV-2/human/USA/MD-NIH-00581-20200501/2020,NULL,NULL
 Nussenblatt21,Patient,isolation,=,2020-05-09,USA,SARS-CoV-2/human/USA/MD-NIH-00581-20200509/2020,NULL,NULL
 Nussenblatt21,Patient,isolation,=,2020-05-10,USA,SARS-CoV-2/human/USA/MD-NIH-00581-20200510/2020,NULL,NULL
