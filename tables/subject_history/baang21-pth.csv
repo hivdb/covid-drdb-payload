@@ -1,11 +1,11 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Baang21,Patient,infection,~,2020-05-04,USA,WA1,NULL,NULL
-Baang21,Patient,isolation,~,2020-05-11,USA,Baang21_D29_SP,NULL,NULL
-Baang21,Patient,isolation,~,2020-05-16,USA,Baang21_D29_SP,NULL,NULL
-Baang21,Patient,isolation,~,2020-05-26,USA,Baang21_D29_SP,NULL,NULL
+Baang21,Patient,infection,~,2020-05-04,USA,Baang21_D7,NULL,Hospitalized
+Baang21,Patient,isolation,~,2020-05-11,USA,Baang21_D7,NULL,NULL
+Baang21,Patient,isolation,~,2020-05-16,USA,Baang21_D12,NULL,NULL
+Baang21,Patient,isolation,~,2020-05-26,USA,Baang21_D22,NULL,NULL
 Baang21,Patient,isolation,~,2020-06-02,USA,Baang21_D29_NP,NULL,NULL
 Baang21,Patient,isolation,~,2020-06-06,USA,Baang21_D33,NULL,NULL
-Baang21,Patient,isolation,~,2020-06-11,USA,Baang21_D33,NULL,NULL
+Baang21,Patient,isolation,~,2020-06-11,USA,Baang21_D38,NULL,NULL
 Baang21,Patient,isolation,~,2020-08-05,USA,Baang21_D93,NULL,NULL
 Baang21,Patient,isolation,~,2020-08-18,USA,Baang21_D106,NULL,NULL
 Baang21,Donor,isolation,<,2020-05-11,USA,WA1,NULL,NULL
