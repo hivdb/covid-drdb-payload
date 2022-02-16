@@ -113,7 +113,7 @@ ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,vi
 4-20,NULL,NULL,NULL,,,5000,FALSE,2021-01-27
 4-8,NULL,NULL,NULL,Columbia University,CP,1000,FALSE,2021-01-27
 414-1,NULL,NULL,NULL,Fudan University,CP,5000,FALSE,2021-04-27
-47D11,NULL,Phase 1,NULL,Utrecht University,Transgenic mice,5000,FALSE,2021-04-27
+47D11,NULL,Phase 1,NULL,Utrecht University,Transgenic mice,58,FALSE,2021-04-27
 4A8,NULL,NULL,NULL,Beijing Institute of Biotechnology,CP,1000,FALSE,2021-01-27
 4D4,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 4D5,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
