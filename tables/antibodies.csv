@@ -168,7 +168,7 @@ ADI-56479,NULL,NULL,1,Albert Einstein College of Medicine,CP,5000,FALSE,2021-10-
 ADI-58125,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-12-17
 Ab-3467,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-12-17
 Adintrevimab,ADI,Phase 3,NULL,Adagio Therapeutics,CP,51,FALSE,2021-03-17
-Amubarvimab,AMU,CN-Approved,NULL,Brii Biosciences,,9,TRUE,2021-02-05
+Amubarvimab,AMU,CN-Approved,NULL,Brii Biosciences,,10,TRUE,2021-02-05
 AvGn-B,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 B07,NULL,NULL,NULL,Fondazione Toscana Life Sciences,CP,5000,FALSE,2021-01-27
 B1-182.1,NULL,NULL,NULL,NIH,CP,1000,FALSE,2021-03-09
@@ -199,7 +199,7 @@ BL6,NULL,NULL,NULL,,,5000,FALSE,2021-05-26
 BLN12,NULL,NULL,NULL,Israel Institute for Biological Research,CP,5000,FALSE,2021-05-26
 BLN14,NULL,NULL,NULL,Israel Institute for Biological Research,CP,5000,FALSE,2021-05-26
 Bamlanivimab,BAM,EUA,NULL,Eli Lilly,CP,1,TRUE,2021-01-27
-Bebtelovimab,BEB,EUA,NULL,Eli Lilly,CP,52,FALSE,2021-05-04
+Bebtelovimab,BEB,EUA,NULL,Eli Lilly,CP,8,TRUE,2021-05-04
 C002,NULL,NULL,NULL,Rockefeller University,CP,1000,FALSE,2021-04-07
 C032,NULL,NULL,1.3,Rockefeller University,CP,1000,FALSE,2021-05-26
 C051,NULL,NULL,6.2,Rockefeller University,CP,1000,FALSE,2021-05-26
@@ -632,8 +632,8 @@ RU169-178-scFv,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 RU171-155-IgG,NULL,NULL,NULL,,,5000,FALSE,2021-04-27
 Re5D06,NULL,NULL,NULL,,,5000,FALSE,2021-08-19
 Re9F06,NULL,NULL,NULL,,,5000,FALSE,2021-08-19
-Regdanvimab,REG,EU-Approved,NULL,Celltrion,Phage display library,8,TRUE,2021-02-02
-Romlusevimab,ROM,CN-Approved,NULL,Brii Biosciences,,10,TRUE,2021-02-05
+Regdanvimab,REG,EU-Approved,NULL,Celltrion,Phage display library,9,TRUE,2021-02-02
+Romlusevimab,ROM,CN-Approved,NULL,Brii Biosciences,,11,TRUE,2021-02-05
 S101.1,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S102.1,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
 S103.3,NULL,NULL,NULL,"Institute for Research in Biomedicine, Switzerland",CP,5000,FALSE,2021-04-27
