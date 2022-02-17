@@ -1065,7 +1065,10 @@ Kemp21,Septuagenarian male,Human,1945,Medical,1
 Khatamzas21,Donor 1,Human,NULL,NULL,1
 Khatamzas21,Donor 2,Human,NULL,NULL,1
 Khatamzas21,Donor 3,Human,NULL,NULL,1
-Khatamzas21,Patient A,Human,1947,NULL,1
+Khatamzas21,Donor X,Human,NULL,NULL,1
+Khatamzas21,Patient A,Human,1947,Medical,1
+Khatamzas21,Patient B,Human,1977,Medical,1
+Khatamzas21,Patient C,Human,1948,Medical,1
 Kimura21,002_3,Human,NULL,NULL,1
 Kimura21,003_3,Human,NULL,NULL,1
 Kimura21,005_3,Human,NULL,NULL,1

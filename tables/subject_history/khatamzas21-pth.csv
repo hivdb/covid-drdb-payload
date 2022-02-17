@@ -1,7 +1,23 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Khatamzas21,Patient A,infection,~,2020-05-06,Germany,hCoV-19/Germany/BY-IMB06600/2020,NULL,Hospitalized
+Khatamzas21,Patient A,infection,<,2020-05-06,Germany,hCoV-19/Germany/BY-IMB06600/2020,NULL,Hospitalized
 Khatamzas21,Patient A,isolation,=,2020-05-26,Germany,hCoV-19/Germany/BY-IMB06600/2020,NULL,NULL
+Khatamzas21,Patient A,isolation,=,2020-06-02,Germany,hCoV-19/Germany/BY-IMB06861/2020,NULL,NULL
+Khatamzas21,Patient A,isolation,=,2020-06-08,Germany,hCoV-19/Germany/BY-IMB07324/2020,NULL,NULL
+Khatamzas21,Patient A,isolation,=,2020-06-16,Germany,hCoV-19/Germany/BY-IMB07597/2020,NULL,NULL
+Khatamzas21,Patient A,isolation,=,2020-06-23,Germany,hCoV-19/Germany/BY-IMB07884/2020,NULL,NULL
+Khatamzas21,Patient A,isolation,=,2020-06-29,Germany,hCoV-19/Germany/BY-IMB07990/2020,NULL,NULL
+Khatamzas21,Patient A,isolation,=,2020-07-07,Germany,hCoV-19/Germany/BY-IMB08291/2020,NULL,NULL
+Khatamzas21,Patient A,isolation,=,2020-07-28,Germany,hCoV-19/Germany/BY-IMB09138/2020,NULL,NULL
+Khatamzas21,Patient A,isolation,=,2020-08-11,Germany,hCoV-19/Germany/BY-IMB09442/2020,NULL,NULL
 Khatamzas21,Patient A,isolation,=,2020-10-07,Germany,hCoV-19/Germany/BY-IMB11525/2020,NULL,NULL
+Khatamzas21,Patient B,infection,~,2020-05-06,Germany,hCoV-19/Germany/BY-IMB06133/2020,NULL,Hospitalized
+Khatamzas21,Patient B,isolation,=,2020-05-13,Germany,hCoV-19/Germany/BY-IMB06133/2020,NULL,NULL
+Khatamzas21,Patient B,isolation,=,2020-05-20,Germany,hCoV-19/Germany/BY-IMB06351/2020,NULL,NULL
+Khatamzas21,Patient B,isolation,=,2020-05-26,Germany,hCoV-19/Germany/BY-IMB06496/2020,NULL,NULL
+Khatamzas21,Patient C,infection,~,2020-05-01,Germany,hCoV-19/Germany/BY-IMB05401/2020,NULL,Hospitalized
+Khatamzas21,Patient C,isolation,=,2020-05-07,Germany,hCoV-19/Germany/BY-IMB05401/2020,NULL,NULL
+Khatamzas21,Patient C,isolation,=,2020-05-13,Germany,hCoV-19/Germany/BY-IMB06128/2020,NULL,NULL
+Khatamzas21,Patient C,isolation,=,2020-05-26,Germany,hCoV-19/Germany/BY-IMB06494/2020,NULL,NULL
 Khatamzas21,Donor 1,infection,<,2020-05-31,Germany,B.1 full genome,NULL,NULL
 Khatamzas21,Donor 2,infection,<,2020-06-19,Germany,B.1 full genome,NULL,NULL
 Khatamzas21,Donor 3,infection,<,2020-07-19,Germany,B.1 full genome,NULL,NULL
@@ -10,3 +26,4 @@ Khatamzas21,Donor 2,isolation,<,2020-07-03,Germany,NULL,NULL,NULL
 Khatamzas21,Donor 3,isolation,<,2020-08-02,Germany,NULL,NULL,NULL
 Khatamzas21,Donor 3,isolation,<,2020-08-16,Germany,NULL,NULL,NULL
 Khatamzas21,Donor 3,isolation,<,2020-08-22,Germany,NULL,NULL,NULL
+Khatamzas21,Donor X,isolation,<,2020-05-01,Germany,NULL,NULL,NULL
