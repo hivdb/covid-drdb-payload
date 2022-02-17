@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Cele22,Patient_adv_HIV,infection,=,2020-09-04,South Africa,hCoV-19/South Africa/KRISP-K003734/2020,NULL,NULL
+Cele22,Patient_adv_HIV,infection,=,2020-09-04,South Africa,hCoV-19/South Africa/KRISP-K003734/2020,NULL,Hospitalized
 Cele22,Patient_adv_HIV,isolation,=,2020-09-30,South Africa,hCoV-19/South Africa/KRISP-K003734/2020,NULL,NULL
 Cele22,Patient_adv_HIV,isolation,=,2020-10-06,South Africa,hCoV-19/South Africa/KRISP-AHRI-K008646-D7/2020,NULL,NULL
 Cele22,Patient_adv_HIV,isolation,=,2020-10-20,South Africa,hCoV-19/South Africa/KRISP-AHRI-K011018-D20/2020,NULL,NULL
