@@ -1,0 +1,27 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Duty22,STI-9167,S:614G,Table 1C,Pseudovirus (VSV),IC50,3.6,1,10000,10000,ng/ml,2/17/22
+Duty22,Cilgavimab,S:614G,Table 1C,Pseudovirus (VSV),IC50,35.3,1,10000,10000,ng/ml,2/17/22
+Duty22,Tixagevimab,S:614G,Table 1C,Pseudovirus (VSV),IC50,6.7,1,10000,10000,ng/ml,2/17/22
+Duty22,STI-9167,S:614G,Table 1C,Pseudovirus (VSV),IC80,12.3,1,10000,10000,ng/ml,2/17/22
+Duty22,Cilgavimab,S:614G,Table 1C,Pseudovirus (VSV),IC80,78.3,1,10000,10000,ng/ml,2/17/22
+Duty22,Tixagevimab,S:614G,Table 1C,Pseudovirus (VSV),IC80,18.4,1,10000,10000,ng/ml,2/17/22
+Duty22,STI-9167,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,14.8,1,10000,10000,ng/ml,2/17/22
+Duty22,Cilgavimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,9105,1,10000,10000,ng/ml,2/17/22
+Duty22,Tixagevimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,638.6,1,10000,10000,ng/ml,2/17/22
+Duty22,STI-9167,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,77.4,1,10000,10000,ng/ml,2/17/22
+Duty22,Cilgavimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,10,1,10000,10000,ng/ml,2/17/22
+Duty22,Tixagevimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,5059,1,10000,10000,ng/ml,2/17/22
+Duty22,STI-9167,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,23.9,1,10000,10000,ng/ml,2/17/22
+Duty22,Cilgavimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,10,1,10000,10000,ng/ml,2/17/22
+Duty22,Tixagevimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,469.6,1,10000,10000,ng/ml,2/17/22
+Duty22,STI-9167,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,126.6,1,10000,10000,ng/ml,2/17/22
+Duty22,Cilgavimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,10,1,10000,10000,ng/ml,2/17/22
+Duty22,Tixagevimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,3550,1,10000,10000,ng/ml,2/17/22
+Duty22,STI-9167,WA1,Table 1D,Virus isolate,IC50,6,1,10000,10000,ng/ml,2/17/22
+Duty22,Cilgavimab,WA1,Table 1D,Virus isolate,IC50,56.34,1,10000,10000,ng/ml,2/17/22
+Duty22,Tixagevimab,WA1,Table 1D,Virus isolate,IC50,8.726,1,10000,10000,ng/ml,2/17/22
+Duty22,Sotrovimab,WA1,Table 1D,Virus isolate,IC50,166.7,1,10000,10000,ng/ml,2/17/22
+Duty22,STI-9167,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,54.29,1,10000,10000,ng/ml,2/17/22
+Duty22,Cilgavimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,582.5,1,10000,10000,ng/ml,2/17/22
+Duty22,Tixagevimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,197.2,1,10000,10000,ng/ml,2/17/22
+Duty22,Sotrovimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,393,1,10000,10000,ng/ml,2/17/22
