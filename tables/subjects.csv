@@ -2380,7 +2380,7 @@ Wang22,BBIBP-CorV_3dose_d14,Human,NULL,NULL,10
 Wang22,CP_Delta,Human,NULL,NULL,10
 Wang22,ZF2001_3dose_d14,Human,NULL,NULL,10
 Weigang21,BNT162b2,Human,NULL,NULL,1
-Weigang21,BW-FR,Human,1962,NULL,1
+Weigang21,BW-FR,Human,1962,Medical,1
 Weigang21,CP_Human,Human,NULL,NULL,2
 Weigang21,CP_WT_mice,Mouse,NULL,NULL,7
 Weigang21,CP_d105_mice,Mouse,NULL,NULL,13
