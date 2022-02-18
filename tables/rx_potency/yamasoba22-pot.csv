@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yamasoba22,Casirivimab,S:614G,Figure 2d,Pseudovirus (HIV),IC50,8.7,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,Casirivimab,BA.1 Spike,Figure 2d,Pseudovirus (HIV),IC50,10000,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,Casirivimab,BA.2 Spike,Figure 2d,Pseudovirus (HIV),IC50,10000,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,Imdevimab,S:614G,Figure 2d,Pseudovirus (HIV),IC50,6.6,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,Imdevimab,BA.1 Spike,Figure 2d,Pseudovirus (HIV),IC50,10000,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,Imdevimab,BA.2 Spike,Figure 2d,Pseudovirus (HIV),IC50,10000,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,CAS+IMD,S:614G,Figure 2d,Pseudovirus (HIV),IC50,3.1,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,CAS+IMD,BA.1 Spike,Figure 2d,Pseudovirus (HIV),IC50,10000,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,CAS+IMD,BA.2 Spike,Figure 2d,Pseudovirus (HIV),IC50,10000,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,Sotrovimab,S:614G,Figure 2d,Pseudovirus (HIV),IC50,12,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,Sotrovimab,BA.1 Spike,Figure 2d,Pseudovirus (HIV),IC50,57,1,10000,0.1,ng/ml,2022-02-17
+Yamasoba22,Sotrovimab,BA.2 Spike,Figure 2d,Pseudovirus (HIV),IC50,420,1,10000,0.1,ng/ml,2022-02-17
