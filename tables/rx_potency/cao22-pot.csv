@@ -1,0 +1,14 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cao22,S309,S:614G,Figure 4a,Pseudovirus,IC50,78.3,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,SARS-CoV Spike,Figure 4a,Pseudovirus,IC50,31.3,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,BA.1 Spike,Figure 4a,Pseudovirus,IC50,355.7,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,BA.1 Spike:+346K,Figure 4a,Pseudovirus,IC50,314,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,hCoV-19/England/MILK-2D6B000/2021,Figure 4a,Pseudovirus,IC50,944.4,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,S:614G,Figure 4a,Pseudovirus,IC50,12.4,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,SARS-CoV Spike,Figure 4a,Pseudovirus,IC50,1.7,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,BA.1 Spike,Figure 4a,Pseudovirus,IC50,1467,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,BA.1 Spike:+346K,Figure 4a,Pseudovirus,IC50,990.6,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,Wuhan-Hu-1,Figure 4a,Virus isolate,IC50,78.1,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,Omicron/BA.1 full genome,Figure 4a,Virus isolate,IC50,928.8,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,Wuhan-Hu-1,Figure 4a,Virus isolate,IC50,40.6,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,Omicron/BA.1 full genome,Figure 4a,Virus isolate,IC50,3715,1,10000,1,ng/ml,2022-02-17
