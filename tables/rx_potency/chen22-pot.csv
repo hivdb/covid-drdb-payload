@@ -1,0 +1,18 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chen22,LY-CoV555,WA1 Spike,Fig 1h,Pseudovirus,IC50,3,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10933,WA1 Spike,Fig 1h,Pseudovirus,IC50,2,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10987,WA1 Spike,Fig 1h,Pseudovirus,IC50,9,1,10000,10,ng/ml,2022-02-17
+Chen22,LY-CoV555,B.1.1.7 Spike,Fig 1h,Pseudovirus,IC50,4,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10933,B.1.1.7 Spike,Fig 1h,Pseudovirus,IC50,3,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10987,B.1.1.7 Spike,Fig 1h,Pseudovirus,IC50,1,1,10000,10,ng/ml,2022-02-17
+Chen22,LY-CoV555,B.1.351 Spike,Fig 1h,Pseudovirus,IC50,10000,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10933,B.1.351 Spike,Fig 1h,Pseudovirus,IC50,10000,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10987,B.1.351 Spike,Fig 1h,Pseudovirus,IC50,2,1,10000,10,ng/ml,2022-02-17
+Chen22,LY-CoV555,B.1.617.2 Spike,Fig 1h,Pseudovirus,IC50,3000,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10933,B.1.617.2 Spike,Fig 1h,Pseudovirus,IC50,1,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10987,B.1.617.2 Spike,Fig 1h,Pseudovirus,IC50,3,1,10000,10,ng/ml,2022-02-17
+Chen22,LY-CoV555,BA.1 Spike,Fig 1h,Pseudovirus,IC50,10000,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10933,BA.1 Spike,Fig 1h,Pseudovirus,IC50,10000,1,10000,10,ng/ml,2022-02-17
+Chen22,REGN10987,BA.1 Spike,Fig 1h,Pseudovirus,IC50,10000,1,10000,10,ng/ml,2022-02-17
+Chen22,LY-CoV555,hCoV-19/USA/WA-CDC-02982586-001/2020,Fig 1i,Virus isolate,IC50,89,1,10000,10,ng/ml,2022-02-17
+Chen22,LY-CoV555,hCoV-19/USA/MD-HP01542/2021,Fig 1i,Virus isolate,IC50,10000,1,10000,10,ng/ml,2022-02-17
