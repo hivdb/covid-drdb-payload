@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Brii21,Amubarvimab,Wuhan-Hu-1,Omicron/BA.1 full genome,Table,Pseudovirus (HIV),IC50,=,103,NULL,NULL,1,2022-02-17
+Brii21,Romlusevimab,Wuhan-Hu-1,Omicron/BA.1 full genome,Table,Pseudovirus (HIV),IC50,=,0.78,NULL,NULL,1,2022-02-17
+Brii21,Amubarvimab+Romlusevimab,Wuhan-Hu-1,Omicron/BA.1 full genome,Table,Pseudovirus (HIV),IC50,=,8.96,NULL,NULL,1,2022-02-17
