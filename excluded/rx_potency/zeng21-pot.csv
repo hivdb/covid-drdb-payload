@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zeng21,BNT,S:52R+69del+70del+144del+484K+614G+677H+888L,Figure S2a,Pseudovirus (lentivirus),NT50,711,8,8192,40,NULL,2022-02-18
+Zeng21,BNT,S:52R+69del+70del+144del+614G+677H+888L,Figure S2a,Pseudovirus (lentivirus),NT50,2392,8,8192,40,NULL,2022-02-18
+Zeng21,BNT,S:52R+69del+70del+144del+484K+614G+888L,Figure S2a,Pseudovirus (lentivirus),NT50,901,8,8192,40,NULL,2022-02-18
+Zeng21,BNT,S:29I+572I+614G+677H+936N,Figure S2a,Pseudovirus (lentivirus),NT50,1554,8,8192,40,NULL,2022-02-18
+Zeng21,BNT,S:29I+572I+614G+936N,Figure S2a,Pseudovirus (lentivirus),NT50,1773,8,8192,40,NULL,2022-02-18
+Zeng21,MOD,S:52R+69del+70del+144del+484K+614G+677H+888L,Figure S2b,Pseudovirus (lentivirus),NT50,1499,8,8192,40,NULL,2022-02-18
+Zeng21,MOD,S:52R+69del+70del+144del+614G+677H+888L,Figure S2b,Pseudovirus (lentivirus),NT50,2844,8,8192,40,NULL,2022-02-18
+Zeng21,MOD,S:52R+69del+70del+144del+484K+614G+888L,Figure S2b,Pseudovirus (lentivirus),NT50,1434,8,8192,40,NULL,2022-02-18
+Zeng21,MOD,S:29I+572I+614G+677H+936N,Figure S2b,Pseudovirus (lentivirus),NT50,2820,8,8192,40,NULL,2022-02-18
+Zeng21,MOD,S:29I+572I+614G+936N,Figure S2b,Pseudovirus (lentivirus),NT50,2996,8,8192,40,NULL,2022-02-18

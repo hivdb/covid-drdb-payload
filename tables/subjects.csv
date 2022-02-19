@@ -2450,6 +2450,8 @@ Yu21c,BBIBP_3dose,Human,1982,NULL,292
 Yu22,BNT162b2,Human,NULL,NULL,22
 Yu22,vaccinated_bti,Human,NULL,NULL,8
 Zani21,BNT162b2,Human,NULL,NULL,37
+Zeng21,CP,Human,NULL,NULL,18
+Zeng21,mRNA,Human,NULL,NULL,40
 Zeng21b,BNT162b2_2dose,Human,NULL,NULL,28
 Zeng21b,BNT162b2_3dose,Human,NULL,NULL,17
 Zeng21b,Delta_wave_unvaccinated,Human,NULL,NULL,12

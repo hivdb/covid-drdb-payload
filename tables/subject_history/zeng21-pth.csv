@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Zeng21,CP,infection,~,2020-09-01,USA,B.1 full genome,NULL,Hospitalized
+Zeng21,CP,isolation,~,2020-09-01,USA,NULL,NULL,NULL
+Zeng21,mRNA,1st dose,~,2021-01-01,USA,NULL,mRNA,NULL
+Zeng21,mRNA,2nd dose,~,2021-02-01,USA,NULL,mRNA,NULL
+Zeng21,mRNA,2nd dose isolation,~,2021-03-01,USA,NULL,NULL,NULL
