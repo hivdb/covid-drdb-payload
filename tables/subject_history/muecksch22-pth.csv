@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Muecksch22,mRNA,1st dose,~,2021-02-01,USA,NULL,mRNA,NULL
+Muecksch22,mRNA,2nd dose,~,2021-03-01,USA,NULL,mRNA,NULL
+Muecksch22,mRNA,2nd dose isolation,~,2021-04-09,USA,NULL,NULL,NULL
+Muecksch22,mRNA,2nd dose isolation,~,2021-07-29,USA,NULL,NULL,NULL
+Muecksch22,mRNA,3rd dose,~,2021-08-28,USA,NULL,mRNA,NULL
+Muecksch22,mRNA,3rd dose isolation,~,2021-09-27,USA,NULL,NULL,NULL
