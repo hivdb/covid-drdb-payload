@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Debes22,mRNA_2dose_1m,WA1,Figure 2 graph 4,Virus isolate,NT50,320,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_2dose_1m,B.1.351 full genome,Figure 2 graph 4,Virus isolate,NT50,44,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_2dose_1m,B.1.617.2 full genome,Figure 2 graph 4,Virus isolate,NT50,70,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_2dose_1m,B.1.1.529 full genome,Figure 2 graph 4,Virus isolate,NT50,10,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_2dose_8m,WA1,Figure 2 graph 5,Virus isolate,NT50,43,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_2dose_8m,B.1.351 full genome,Figure 2 graph 5,Virus isolate,NT50,10,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_2dose_8m,B.1.617.2 full genome,Figure 2 graph 5,Virus isolate,NT50,10,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_2dose_8m,B.1.1.529 full genome,Figure 2 graph 5,Virus isolate,NT50,10,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_3dose_1m,WA1,Figure 2 graph 6,Virus isolate,NT50,2470,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_3dose_1m,B.1.351 full genome,Figure 2 graph 6,Virus isolate,NT50,343,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_3dose_1m,B.1.617.2 full genome,Figure 2 graph 6,Virus isolate,NT50,586,15,10240,20,NULL,2022-02-25
+Debes22,mRNA_3dose_1m,B.1.1.529 full genome,Figure 2 graph 6,Virus isolate,NT50,159,15,10240,20,NULL,2022-02-25
