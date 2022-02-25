@@ -691,6 +691,9 @@ Fernandez21,CoronaVac_age2,Human,1985,NULL,14
 Fernandez21,CoronaVac_age3,Human,1970,NULL,11
 Ferreira21,BNT162b2,Human,NULL,NULL,34
 Focosi21b,VA-CF,Human,1948,NULL,1
+Gaebler22,mRNA_2dose,Human,NULL,NULL,24
+Gaebler22,mRNA_2dose_Omicron,Human,NULL,NULL,5
+Gaebler22,mRNA_3dose,Human,NULL,NULL,24
 Garcia-Beltran21,BNT162b2,Human,NULL,NULL,30
 Garcia-Beltran21,mRNA-1273,Human,NULL,NULL,35
 Garcia-Beltran22,Ad26_1dose_1m,Human,1975,NULL,20
