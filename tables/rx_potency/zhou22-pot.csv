@@ -1,44 +1,30 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Zhou22,Casirivimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,8.6,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Imdevimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,16.1,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Cas+Imd,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,11.6,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Bamlanivimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,16,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Etesevimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,65.3,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,BAM+ETE,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,11.9,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Tixagevimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,11.4,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Cilgavimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,35.9,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Tix+Cil,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,17.4,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,SOT,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,148.3,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Casirivimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,14.4,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Imdevimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,25.6,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Cas+Imd,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,37.1,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Bamlanivimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,633.3,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Etesevimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,68.3,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,BAM+ETE,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,26.1,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Tixagevimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,155.1,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Cilgavimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,78.7,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Tix+Cil,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,21.9,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,SOT,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,299,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Casirivimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Imdevimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Cas+Imd,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Bamlanivimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Etesevimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,BAM+ETE,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Tixagevimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Cilgavimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Tix+Cil,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,1888,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,SOT,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,2072,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Casirivimab,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Imdevimab,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Cas+Imd,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Bamlanivimab,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Etesevimab,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,BAM+ETE,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Tixagevimab,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Cilgavimab,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,Tix+Cil,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,SOT,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,Casirivimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,7.6,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Imdevimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,30.9,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Cas+Imd,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,3.3,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Bamlanivimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,4.7,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Etesevimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,37.1,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,BAM+ETE,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,11.7,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Tixagevimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,8.6,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Cilgavimab,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,6.9,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Tix+Cil,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,2.4,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,SOT,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,140.3,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Casirivimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,13.8,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Imdevimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,24.2,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Cas+Imd,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,9.1,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Bamlanivimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,996,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Etesevimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,58,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,BAM+ETE,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,64.6,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Tixagevimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,15.73,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Cilgavimab,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,14.7,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Tix+Cil,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,7.5,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,SOT,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,297.9,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Tixagevimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,29498,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Tix+Cil,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,861.5,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,SOT,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1B,Pseudovirus (lentivirus),IC50,1480,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Cilgavimab,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,12192,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,Tix+Cil,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,4608,1,50000,0.1,ng/ml,2022-02-17
+Zhou22,SOT,BA.2 Spike:+371L+493K,Figure 1B,Pseudovirus (lentivirus),IC50,47755,1,50000,0.1,ng/ml,2022-02-17
 Zhou22,CAS_Figure_S1,S:614G,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,7.6,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,IMD_Figure_S1,S:614G,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,15.1,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,CAS_IMD_Figure_S1,S:614G,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,9.3,1,5000,0.1,ng/ml,2022-02-17
@@ -49,6 +35,16 @@ Zhou22,TIX_Figure_S1,S:614G,Supplementary Figure 1,Pseudovirus (lentivirus),IC50
 Zhou22,CIL_Figure_S1,S:614G,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,31.4,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,TIX_CIL_Figure_S1,S:614G,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,15.6,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,SOT_Figure_S1,S:614G,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,115.1,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,CAS_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,30,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,IMD_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,171.4,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,CAS_IMD_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,35.3,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,BAM_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,12.7,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,ETE_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,31.5,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,BAM_ETE_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,6.8,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,TIX_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,57.2,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,CIL_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,17.2,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,TIX_CIL_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,10,1,5000,0.1,ng/ml,2022-02-17
+Zhou22,SOT_Figure_S1,S:371F,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,633.2,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,CAS_Figure_S1,S:376A,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,13.8,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,IMD_Figure_S1,S:376A,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,31.8,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,CAS_IMD_Figure_S1,S:376A,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,3,1,5000,0.1,ng/ml,2022-02-17
@@ -63,7 +59,6 @@ Zhou22,CAS_Figure_S1,S:405N,Supplementary Figure 1,Pseudovirus (lentivirus),IC50
 Zhou22,IMD_Figure_S1,S:405N,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,29.1,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,CAS_IMD_Figure_S1,S:405N,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,13.9,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,BAM_Figure_S1,S:405N,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,25.4,1,5000,0.1,ng/ml,2022-02-17
-Zhou22,ETE_Figure_S1,S:405N,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,5000,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,BAM_ETE_Figure_S1,S:405N,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,15.7,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,TIX_Figure_S1,S:405N,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,28.6,1,5000,0.1,ng/ml,2022-02-17
 Zhou22,CIL_Figure_S1,S:405N,Supplementary Figure 1,Pseudovirus (lentivirus),IC50,31.8,1,5000,0.1,ng/ml,2022-02-17
