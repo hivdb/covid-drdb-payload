@@ -1,27 +1,39 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Duty22,STI-9167,S:614G,Table 1C,Pseudovirus (VSV),IC50,3.6,1,10000,10000,ng/ml,2/17/22
-Duty22,Cilgavimab,S:614G,Table 1C,Pseudovirus (VSV),IC50,35.3,1,10000,10000,ng/ml,2/17/22
-Duty22,Tixagevimab,S:614G,Table 1C,Pseudovirus (VSV),IC50,6.7,1,10000,10000,ng/ml,2/17/22
-Duty22,STI-9167,S:614G,Table 1C,Pseudovirus (VSV),IC80,12.3,1,10000,10000,ng/ml,2/17/22
-Duty22,Cilgavimab,S:614G,Table 1C,Pseudovirus (VSV),IC80,78.3,1,10000,10000,ng/ml,2/17/22
-Duty22,Tixagevimab,S:614G,Table 1C,Pseudovirus (VSV),IC80,18.4,1,10000,10000,ng/ml,2/17/22
-Duty22,STI-9167,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,14.8,1,10000,10000,ng/ml,2/17/22
-Duty22,Cilgavimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,9105,1,10000,10000,ng/ml,2/17/22
-Duty22,Tixagevimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,638.6,1,10000,10000,ng/ml,2/17/22
-Duty22,STI-9167,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,77.4,1,10000,10000,ng/ml,2/17/22
-Duty22,Cilgavimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,10000,1,10000,10000,ng/ml,2/17/22
-Duty22,Tixagevimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,5059,1,10000,10000,ng/ml,2/17/22
-Duty22,STI-9167,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,23.9,1,10000,10000,ng/ml,2/17/22
-Duty22,Cilgavimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,10000,1,10000,10000,ng/ml,2/17/22
-Duty22,Tixagevimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,469.6,1,10000,10000,ng/ml,2/17/22
-Duty22,STI-9167,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,126.6,1,10000,10000,ng/ml,2/17/22
-Duty22,Cilgavimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,10000,1,10000,10000,ng/ml,2/17/22
-Duty22,Tixagevimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,3550,1,10000,10000,ng/ml,2/17/22
-Duty22,STI-9167,WA1,Table 1D,Virus isolate,IC50,6,1,10000,10000,ng/ml,2/17/22
-Duty22,Cilgavimab,WA1,Table 1D,Virus isolate,IC50,56.34,1,10000,10000,ng/ml,2/17/22
-Duty22,Tixagevimab,WA1,Table 1D,Virus isolate,IC50,8.726,1,10000,10000,ng/ml,2/17/22
-Duty22,Sotrovimab,WA1,Table 1D,Virus isolate,IC50,166.7,1,10000,10000,ng/ml,2/17/22
-Duty22,STI-9167,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,54.29,1,10000,10000,ng/ml,2/17/22
-Duty22,Cilgavimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,582.5,1,10000,10000,ng/ml,2/17/22
-Duty22,Tixagevimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,197.2,1,10000,10000,ng/ml,2/17/22
-Duty22,Sotrovimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,393,1,10000,10000,ng/ml,2/17/22
+Duty22,STI-9167,S:614G,Table 1C,Pseudovirus (VSV),IC50,3.6,1,10000,1,ng/ml,2022-02-17
+Duty22,Cilgavimab,S:614G,Table 1C,Pseudovirus (VSV),IC50,35.3,1,10000,1,ng/ml,2022-02-17
+Duty22,Tixagevimab,S:614G,Table 1C,Pseudovirus (VSV),IC50,6.7,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:614G,Table 1C,Pseudovirus (VSV),IC80,12.3,1,10000,1,ng/ml,2022-02-17
+Duty22,Cilgavimab,S:614G,Table 1C,Pseudovirus (VSV),IC80,78.3,1,10000,1,ng/ml,2022-02-17
+Duty22,Tixagevimab,S:614G,Table 1C,Pseudovirus (VSV),IC80,18.4,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,14.8,1,10000,1,ng/ml,2022-02-17
+Duty22,Cilgavimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,9105,1,10000,1,ng/ml,2022-02-17
+Duty22,Tixagevimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC50,638.6,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,77.4,1,10000,1,ng/ml,2022-02-17
+Duty22,Cilgavimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,10000,1,10000,1,ng/ml,2022-02-17
+Duty22,Tixagevimab,BA.1 Spike,Table 1C,Pseudovirus (VSV),IC80,5059,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,23.9,1,10000,1,ng/ml,2022-02-17
+Duty22,Cilgavimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-02-17
+Duty22,Tixagevimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC50,469.6,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,126.6,1,10000,1,ng/ml,2022-02-17
+Duty22,Cilgavimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,10000,1,10000,1,ng/ml,2022-02-17
+Duty22,Tixagevimab,BA.1 Spike:+346K,Table 1C,Pseudovirus (VSV),IC80,3550,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,WA1,Table 1D,Virus isolate,IC50,6,1,10000,1,ng/ml,2022-02-17
+Duty22,Cilgavimab,WA1,Table 1D,Virus isolate,IC50,56.34,1,10000,1,ng/ml,2022-02-17
+Duty22,Tixagevimab,WA1,Table 1D,Virus isolate,IC50,8.726,1,10000,1,ng/ml,2022-02-17
+Duty22,Sotrovimab,WA1,Table 1D,Virus isolate,IC50,166.7,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,54.29,1,10000,1,ng/ml,2022-02-17
+Duty22,Cilgavimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,582.5,1,10000,1,ng/ml,2022-02-17
+Duty22,Tixagevimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,197.2,1,10000,1,ng/ml,2022-02-17
+Duty22,Sotrovimab,Omicron/BA.1 full genome,Table 1D,Virus isolate,IC50,393,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Supplementary Figure 1C,Pseudovirus (VSV),IC50,2.9,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,Supplementary Figure 1C,Pseudovirus (VSV),IC50,19.5,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I,Supplementary Figure 1C,Pseudovirus (VSV),IC50,6.3,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:19R+142D+156del+157del+158G+417N+452R+478K+614G+681R+950N,Supplementary Figure 1C,Pseudovirus (VSV),IC50,3.3,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:13I+152C+452R+614G,Supplementary Figure 1C,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:484Q+565L+614G+1176F,Supplementary Figure 1C,Pseudovirus (VSV),IC50,3.4,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:142D+154K+452R+484Q+614G+681R+1071H+1101D,Supplementary Figure 1C,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:75V+76I+246N+247del+248del+249del+250del+251del+252del+253del+452Q+490S+614G+859N,Supplementary Figure 1C,Pseudovirus (VSV),IC50,2.7,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,S:95I+144T+145S+146N+346K+484K+501Y+614G+681H+950N,Supplementary Figure 1C,Pseudovirus (VSV),IC50,18.6,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,B.1.1.7 full genome,Supplementary Figure 1D,Virus isolate,IC50,0.73,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,B.1.351 full genome,Supplementary Figure 1D,Virus isolate,IC50,5.6,1,10000,1,ng/ml,2022-02-17
+Duty22,STI-9167,P.1 full genome,Supplementary Figure 1D,Virus isolate,IC50,64,1,10000,1,ng/ml,2022-02-17
