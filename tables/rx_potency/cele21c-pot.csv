@@ -1,29 +1,43 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Cele21c,BNT_infected_01,B.1 full genome,Figure 1,Virus isolate,NT50,88849,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_02,B.1 full genome,Figure 1,Virus isolate,NT50,37703,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_03,B.1 full genome,Figure 1,Virus isolate,NT50,15081,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_04,B.1 full genome,Figure 1,Virus isolate,NT50,9680,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_05,B.1 full genome,Figure 1,Virus isolate,NT50,6592,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_01,B.1 full genome,Figure 1,Virus isolate,NT50,1009,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_06,B.1 full genome,Figure 1,Virus isolate,NT50,870,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_02,B.1 full genome,Figure 1,Virus isolate,NT50,448,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_03,B.1 full genome,Figure 1,Virus isolate,NT50,416,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_04,B.1 full genome,Figure 1,Virus isolate,NT50,201,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_05,B.1 full genome,Figure 1,Virus isolate,NT50,184,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_06,B.1 full genome,Figure 1,Virus isolate,NT50,182,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_07,B.1 full genome,Figure 1,Virus isolate,NT50,154,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_08,B.1 full genome,Figure 1,Virus isolate,NT50,76,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_01,Omicron_P2,Figure 1,Virus isolate,NT50,1595,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_02,Omicron_P2,Figure 1,Virus isolate,NT50,648,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_03,Omicron_P2,Figure 1,Virus isolate,NT50,496,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_04,Omicron_P2,Figure 1,Virus isolate,NT50,468,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_05,Omicron_P2,Figure 1,Virus isolate,NT50,353,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_01,Omicron_P2,Figure 1,Virus isolate,NT50,43,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_infected_06,Omicron_P2,Figure 1,Virus isolate,NT50,1,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_02,Omicron_P2,Figure 1,Virus isolate,NT50,16,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_03,Omicron_P2,Figure 1,Virus isolate,NT50,24,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_04,Omicron_P2,Figure 1,Virus isolate,NT50,15,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_05,Omicron_P2,Figure 1,Virus isolate,NT50,11,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_06,Omicron_P2,Figure 1,Virus isolate,NT50,5,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_07,Omicron_P2,Figure 1,Virus isolate,NT50,1,1,100000,25,NULL,2021-12-07
-Cele21c,BNT_08,Omicron_P2,Figure 1,Virus isolate,NT50,1,1,100000,25,NULL,2021-12-07
+Cele21c,BNT_1,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,196,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_2,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,463,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_3,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,205,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_4,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,485,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_5,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,199,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_6,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,77,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_7,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,1102,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_8,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,151,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_1,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,10447,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_2,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,7468,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_3,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,2153,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_4,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,2697,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_5,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,54823,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_6,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,47023,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_7,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,13517,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_8,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,11590,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_1,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,664,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_2,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,10511,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_3,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,3074,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_4,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,2205,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_5,B.1 full genome,Extended Data Table 3,Virus isolate,NT50,7160,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_1,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,11,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_2,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,26,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_3,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,15,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_4,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,31,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_5,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,15,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_6,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,1,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_7,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,52,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_8,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,5,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_1,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,681,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_2,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,414,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_3,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,190,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_4,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,121,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_5,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,892,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_6,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,1550,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_7,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,955,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Ancestral_inf_8,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,681,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_1,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,5,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_2,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,749,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_3,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,138,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_4,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,385,1,100000,25,NULL,2022-03-03
+Cele21c,BNT_Delta_inf_5,hCoV-19/South Africa/CERI-KRISP-K032623/2021,Extended Data Table 3,Virus isolate,NT50,174,1,100000,25,NULL,2022-03-03
