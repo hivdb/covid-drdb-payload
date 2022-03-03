@@ -1,11 +1,17 @@
 ref_name,control_iso_name,iso_name
+Cele22,S:614G,B.1.351 full genome
+Cele22,S:614G,B.1.617.2 full genome
+Cele22,S:614G,B.1.1.7 full genome
+Cele22,B.1.351 full genome,B.1.617.2 full genome
+Cele22,B.1.351 full genome,B.1.1.7 full genome
+Cele22,B.1.617.2 full genome,B.1.351 full genome
+Cele22,B.1.617.2 full genome,B.1.1.7 full genome
+Cele22,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V
 Cele22,hCoV-19/South Africa/KRISP-AHRI-K008646-D7/2020,hCoV-19/South Africa/KRISP-AHRI-K013317-D190/2021
 Cele22,hCoV-19/South Africa/KRISP-AHRI-K011018-D20/2020,hCoV-19/South Africa/KRISP-AHRI-K013317-D190/2021
 Cele22,S:614G,hCoV-19/South Africa/KRISP-AHRI-K013317-D190/2021
-Cele22,S:614G,B.1.351 full genome
-Cele22,S:614G,B.1.617.2 full genome
-Cele22,B.1.617.2 full genome,B.1.351 full genome
-Cele22,B.1.351 full genome,B.1.617.2 full genome
-Cele22,B.1.617.2 full genome,hCoV-19/South Africa/KRISP-AHRI-K013317-D190/2021
+Cele22,S:614G,hCoV-19/South Africa/KRISP-AHRI-K008646-D7/2020
 Cele22,B.1.351 full genome,hCoV-19/South Africa/KRISP-AHRI-K013317-D190/2021
-Cele22,S:19R+156del+157del+158G+452R+478K+614G+681R+950N,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V
+Cele22,B.1.351 full genome,hCoV-19/South Africa/KRISP-AHRI-K008646-D7/2020
+Cele22,B.1.617.2 full genome,hCoV-19/South Africa/KRISP-AHRI-K013317-D190/2021
+Cele22,B.1.617.2 full genome,hCoV-19/South Africa/KRISP-AHRI-K008646-D7/2020
