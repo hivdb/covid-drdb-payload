@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Ju22,CP,infection,~,2020-04-30,China,Wuhan-Hu-1,NULL,NULL
+Ju22,CP,isolation,~,2020-04-30,China,NULL,NULL,NULL
