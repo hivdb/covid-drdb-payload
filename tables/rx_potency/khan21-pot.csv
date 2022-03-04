@@ -1,0 +1,83 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Khan21,BNT_2dose_Omicron_inf_d23_Pt3,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,503,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt3,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,838,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt6,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,197,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt6,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,395,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt13,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,395,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt13,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,713,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt15,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,960,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt15,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,754,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt16,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,100,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt16,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,286,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt1,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,458,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt1,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,980,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt2,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,1197,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt2,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,5484,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt4,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,248,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt4,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,980,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt5,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,168,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt5,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,440,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt22,Omicron/BA.1 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,440,1,100000,25,NULL,2020-03-03
+Khan21,BNT_2dose_Omicron_inf_d23_Pt22,B.1.617.2 full genome,"Figure 1E, Figure 2",Virus isolate,NT50,711,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_7,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,392,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_7,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,762,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_8,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,13,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_8,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,168,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_9,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,257,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_9,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,456,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_10,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,11,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_10,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,64,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_11,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,3,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_11,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,43,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_12,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,400,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_12,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,971,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_14,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,10,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_14,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,100,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_17,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,15,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_17,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,100,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_18,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,75,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_18,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,584,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_19,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,6,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_19,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,46,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_20,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,392,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_20,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,824,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_21,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,147,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_21,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,198,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_23,Omicron/BA.1 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,3,1,100000,25,NULL,2020-03-03
+Khan21,CP_Omicron_23,B.1.617.2 full genome,"Figure 1F, Figure 2",Virus isolate,NT50,1,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_1,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,6080,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_1,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,120,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_2,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,4432,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_2,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,31,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_3,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,13589,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_3,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,274,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_4,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,2835,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_4,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,45,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_5,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,3079,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_5,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,224,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_6,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,4948,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_6,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,100,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_7,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,4253,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_7,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,249,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_8,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,1350,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_8,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,59,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_9,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,9184,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_9,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,304,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_10,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,1098,1,100000,25,NULL,2020-03-03
+Khan21,Delta_inf_10,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,105,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_1,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,1625,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_1,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,142,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_2,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,2437,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_2,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,215,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_3,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,1527,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_3,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,159,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_4,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,1625,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_4,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,181,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_5,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,4619,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_5,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,456,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_6,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,1570,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_6,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,239,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_7,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,2647,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_7,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,475,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_8,B.1.617.2 full genome,Figure 3,Virus isolate,NT50,13403,1,100000,25,NULL,2020-03-03
+Khan21,VP_Delta_inf_8,Omicron/BA.1 full genome,Figure 3,Virus isolate,NT50,386,1,100000,25,NULL,2020-03-03

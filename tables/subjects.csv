@@ -1085,6 +1085,31 @@ Kemp21,CP_2,Human,NULL,NULL,1
 Kemp21,CP_3,Human,NULL,NULL,1
 Kemp21,Donor,Human,NULL,NULL,1
 Kemp21,Septuagenarian male,Human,1945,Medical,1
+Khan21,CP_Delta_inf,Human,NULL,NULL,10
+Khan21,Pt1,Human,1986,NULL,1
+Khan21,Pt10,Human,1996,NULL,1
+Khan21,Pt11,Human,1996,NULL,1
+Khan21,Pt12,Human,1996,NULL,1
+Khan21,Pt13,Human,1986,NULL,1
+Khan21,Pt14,Human,1996,NULL,1
+Khan21,Pt15,Human,1956,NULL,1
+Khan21,Pt16,Human,1956,NULL,1
+Khan21,Pt17,Human,1986,NULL,1
+Khan21,Pt18,Human,1956,NULL,1
+Khan21,Pt19,Human,1986,NULL,1
+Khan21,Pt2,Human,1986,NULL,1
+Khan21,Pt20,Human,1996,NULL,1
+Khan21,Pt21,Human,1996,NULL,1
+Khan21,Pt22,Human,1986,NULL,1
+Khan21,Pt23,Human,1996,NULL,1
+Khan21,Pt3,Human,1966,NULL,1
+Khan21,Pt4,Human,1986,NULL,1
+Khan21,Pt5,Human,1996,NULL,1
+Khan21,Pt6,Human,2006,NULL,1
+Khan21,Pt7,Human,1996,NULL,1
+Khan21,Pt8,Human,1986,NULL,1
+Khan21,Pt9,Human,1976,NULL,1
+Khan21,VP_delta_inf,Human,NULL,NULL,8
 Khatamzas21,Donor 1,Human,NULL,NULL,1
 Khatamzas21,Donor 2,Human,NULL,NULL,1
 Khatamzas21,Donor 3,Human,NULL,NULL,1

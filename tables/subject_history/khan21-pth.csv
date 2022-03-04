@@ -1,0 +1,69 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Khan21,Pt1,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt2,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt3,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt4,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt5,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt6,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt7,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt8,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt9,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt10,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt11,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt12,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt13,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt14,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt15,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt16,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt17,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt18,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt19,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt20,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt21,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt22,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt23,infection,~,2021-12-01,South Africa,Omicron/BA.1 full genome,NULL,NULL
+Khan21,Pt1,1st dose,~,2021-03-01,South Africa,NULL,AZD1222,NULL
+Khan21,Pt2,1st dose,~,2021-03-01,South Africa,NULL,AZD1222,NULL
+Khan21,Pt3,2nd dose,~,2021-05-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt4,1st dose,~,2021-05-01,South Africa,NULL,AZD1222,NULL
+Khan21,Pt5,1st dose,~,2021-09-01,South Africa,NULL,AZD1222,NULL
+Khan21,Pt6,2nd dose,~,2021-07-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt13,2nd dose,~,2021-07-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt15,2nd dose,~,2021-05-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt16,2nd dose,~,2021-12-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt22,1st dose,~,2021-08-01,South Africa,NULL,AZD1222,NULL
+Khan21,Pt2,2nd dose,~,2021-11-01,South Africa,NULL,AZD1222,NULL
+Khan21,Pt3,1st dose,~,2021-04-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt6,1st dose,~,2021-06-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt13,1st dose,~,2021-06-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt15,1st dose,~,2021-04-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt16,1st dose,~,2021-11-01,South Africa,NULL,BNT162b2,NULL
+Khan21,Pt1,1st dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt2,2nd dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt3,2nd dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt4,1st dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt5,1st dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt6,2nd dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt7,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt8,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt9,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt10,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt11,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt12,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt13,2nd dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt14,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt15,2nd dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt16,2nd dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt17,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt18,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt19,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt20,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt21,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt22,1st dose isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,Pt23,isolation,~,2021-12-31,South Africa,NULL,NULL,NULL
+Khan21,CP_Delta_inf,infection,~,2021-07-01,South Africa,B.1.617.2 full genome,NULL,NULL
+Khan21,CP_Delta_inf,isolation,~,2021-08-01,South Africa,NULL,NULL,NULL
+Khan21,VP_delta_inf,1st dose,~,2021-06-01,South Africa,NULL,BNT162b2 or AZD1222,NULL
+Khan21,VP_delta_inf,2nd dose,~,2021-07-01,South Africa,NULL,BNT162b2 or AZD1222,NULL
+Khan21,VP_delta_inf,infection,~,2021-08-01,South Africa,B.1.617.2 full genome,NULL,NULL
+Khan21,VP_delta_inf,2nd dose isolation,~,2021-08-01,South Africa,NULL,NULL,NULL
