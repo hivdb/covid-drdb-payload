@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Kumar21,MOD_3dose_1M,1st dose,~,2021-07-04,Canada,NULL,mRNA-1273,NULL
+Kumar21,MOD_3dose_1M,2nd dose,~,2021-08-03,Canada,NULL,mRNA-1273,NULL
+Kumar21,MOD_3dose_1M,3rd dose,~,2021-10-02,Canada,NULL,mRNA-1273,NULL
+Kumar21,MOD_3dose_1M,3rd dose isolation,~,2021-11-01,Canada,NULL,NULL,NULL
