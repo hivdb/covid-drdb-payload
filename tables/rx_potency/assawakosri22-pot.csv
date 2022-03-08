@@ -1,0 +1,9 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Assawakosri22,BBIBP_delta_28d,B.1.617.2 full genome,Figure 4A,Virus isolate,NT50,70,57,100000,10,NULL,2022-03-07
+Assawakosri22,AZD122_delta_28d,B.1.617.2 full genome,Figure 4A,Virus isolate,NT50,1003,55,100000,10,NULL,2022-03-07
+Assawakosri22,BNT162b2_delta_28d,B.1.617.2 full genome,Figure 4A,Virus isolate,NT50,1285,54,100000,10,NULL,2022-03-07
+Assawakosri22,mRNA_1273_delta_28d,B.1.617.2 full genome,Figure 4A,Virus isolate,NT50,2168,58,100000,10,NULL,2022-03-07
+Assawakosri22,BBIBP_omicron_28d,B.1.1.529 full genome,Figure 4B,Virus isolate,NT50,25,57,100000,10,NULL,2022-03-07
+Assawakosri22,AZD122_omicron_28d,B.1.1.529 full genome,Figure 4B,Virus isolate,NT50,250,55,100000,10,NULL,2022-03-07
+Assawakosri22,BNT162b2_omicron_28d,B.1.1.529 full genome,Figure 4B,Virus isolate,NT50,277,54,100000,10,NULL,2022-03-07
+Assawakosri22,mRNA_1273_omicron_28d,B.1.1.529 full genome,Figure 4B,Virus isolate,NT50,512,58,100000,10,NULL,2022-03-07
