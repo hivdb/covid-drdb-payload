@@ -1,0 +1,208 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Nabel21,LY-CoV555,S:614G,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,22,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:5F+95I+253G+477N+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,19,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:501Y,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,15,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,30,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,17,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:439K,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,74,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:5F+95I+253G+484K+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:13I+152C+452R+614G,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:493K,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:493R,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,5800,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,SARS-CoV Spike:+359A,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,LY-CoV555,SARS-CoV Spike,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:614G,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,27,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:5F+95I+253G+477N+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,22,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:501Y,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,151,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,411,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,12,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:439K,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,18,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,9,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,9,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:5F+95I+253G+484K+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,52,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,60,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:13I+152C+452R+614G,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,64,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:493K,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,2200,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:493R,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,1200,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,16700,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,SARS-CoV Spike:+359A,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,CB6,SARS-CoV Spike,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:614G,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,25,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:5F+95I+253G+477N+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,25,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:501Y,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,19,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,22,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,4,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:439K,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,19,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,5,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,9,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:5F+95I+253G+484K+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,63,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,98,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:13I+152C+452R+614G,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,40,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:493K,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,4100,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:493R,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,557,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,2,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,171,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,883,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,29800,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,29900,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,24100,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,19500,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,47300,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,SARS-CoV Spike:+359A,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10933,SARS-CoV Spike,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:614G,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,32,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:5F+95I+253G+477N+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,44,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:501Y,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,38,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,28,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,31,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:439K,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,2400,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,12,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,27,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:5F+95I+253G+484K+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,88,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,1000,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:13I+152C+452R+614G,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,1900,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:493K,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,44,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:493R,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,47,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,48,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,68,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,50,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,26,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,17,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,19,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,1800,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,509,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,SARS-CoV Spike:+359A,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,REGN10987,SARS-CoV Spike,"Fig 2A, 2B",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,141,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:5F+95I+253G+477N+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,568,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:501Y,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,98,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,139,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1100,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:439K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,44,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,158,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,52,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:5F+95I+253G+484K+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,490,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,234,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:13I+152C+452R+614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1400,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:493K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,35,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:493R,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,127,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,196,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,60,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,185,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,225,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,237,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,487,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,110,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,318,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,SARS-CoV Spike:+359A,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,5000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-A3,SARS-CoV Spike,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,7700,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:5F+95I+253G+477N+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,5300,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:501Y,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,5700,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,3200,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,554,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:439K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,8100,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,4400,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,3500,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:5F+95I+253G+484K+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,7000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,7700,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:13I+152C+452R+614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,6000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:493K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,6900,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:493R,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,8000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,5100,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2100,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,6600,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,4800,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,3600,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,7500,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,11300,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,SARS-CoV Spike:+359A,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1C-C6,SARS-CoV Spike,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,10200,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:5F+95I+253G+477N+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,6200,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:501Y,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,4600,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2800,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,438,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:439K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,11100,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2500,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,8300,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:5F+95I+253G+484K+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,7800,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,11400,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:13I+152C+452R+614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,4700,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:493K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,7900,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:493R,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,10300,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,4800,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2400,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,3000,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2100,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2100,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,6200,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,11400,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,SARS-CoV Spike:+359A,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,37100,1,100000,1,ng/ml,2022-03-09
+Nabel21,C1A-A6,SARS-CoV Spike,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1400,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,130,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:5F+95I+253G+477N+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,229,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:501Y,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,223,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,381,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,79,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:439K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,268,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,992,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,153,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:5F+95I+253G+484K+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,353,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,525,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:13I+152C+452R+614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,514,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:493K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,162,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:493R,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,181,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,72,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,104,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2100,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,277,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,146,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,79,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,291,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2400,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,SARS-CoV Spike:+359A,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,COVA1-16,SARS-CoV Spike,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,399,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:5F+95I+253G+477N+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1100,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:501Y,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,640,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1200,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:69del+70del+144del+372S+501Y+570D+614G+681H+716I+982A+1118H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:439K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,354,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:75V+76I+246del+247del+248del+249del+250del+251del+252del+253N+452Q+490S+614G+859N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,164,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:19R+452R+478K+484K+490S+501Y+523N+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,848,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:5F+95I+253G+484K+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1300,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:95I+142D+154K+452R+484Q+614G+681R+1071H,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1500,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:13I+152C+452R+614G,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,614,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:493K,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,738,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:493R,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,652,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:19R+70F+156G+157del+158del+222V+417N+452R+478K+614G+681R+950N,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,232,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I+1176F,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,833,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,2500,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:141del+142del+143del+144del+183H+478K+484A+486I+489H+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,843,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:142del+143del+144del+183H+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,497,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:142del+143del+144del+183H+417N+478K+484K+489H+493K+494P+501Y+614G+870V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,536,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:142del+143del+144del+183H+440D+478K+489H+493K+494P+501Y+614G+870V+1020S,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1000,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,S:80A+215G+242del+243del+244del+417N+439K+452R+484K+501Y+614G+701V,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,1800,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,SARS-CoV Spike:+359A,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
+Nabel21,S2A4,SARS-CoV Spike,"Fig 2B, 3A, FigS4",Pseudovirus (lentivirus),IC50,100000,1,100000,1,ng/ml,2022-03-09
