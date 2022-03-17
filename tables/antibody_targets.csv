@@ -79,10 +79,11 @@ A261-262,NULL,RBD,NULL,author
 AB35,NULL,RBD,NULL,author
 ADG10,NULL,RBD,NULL,author
 ADG30,NULL,RBD,NULL,author
+ADI-55688,7U2E,RBD,NULL,author
 ADI-56443,NULL,RBD,NULL,author
 ADI-56479,NULL,NTD,NTD,author
 ADI-58125,NULL,RBD,RBD Core Cluster II,author
-Adintrevimab,NULL,RBD,NULL,author
+Adintrevimab,7U2D,RBD,RBD Core Cluster I,author
 Amubarvimab,NULL,RBD,NULL,author
 Amubarvimab,7CDI,RBD,RBM Class I,structure
 B07,NULL,RBD,NULL,author
@@ -315,6 +316,8 @@ Imdevimab,6XDG,RBD,RBD Core Cluster I,structure
 J08,NULL,RBD,NULL,author
 J13,NULL,NTD,NTD,author
 JMB2002,NULL,RBD,NULL,author
+K398.22,7TP4,RBD,RBD Core,author
+K398.22,7TP4,RBD,RBD Core Cluster II,structure
 LKLH,NULL,RBD,NULL,author
 LY-CoV481,7KMI,RBD,RBM Class I,structure
 LY-CoV488,7KMH,RBD,RBM Class I,structure
