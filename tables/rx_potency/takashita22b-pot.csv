@@ -1,0 +1,21 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Takashita22b,Etesevimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,50000,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Bamlanivimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,50000,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Imdevimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,68.65,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Casirivimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,1666.19,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Tixagevimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,395.78,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Cilgavimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,4.44,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Sotrovimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,1359.05,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,LY-CoV016 + LY-CoV555,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,10000,1,10000,0.1,ng/ml,2022-03-17
+Takashita22b,REGN10987 + REGN10933,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,222.59,1,10000,0.1,ng/ml,2022-03-17
+Takashita22b,COV2-2196 + COV2-2130,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,14.48,1,10000,0.1,ng/ml,2022-03-17
+Takashita22b,Etesevimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,18.19,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Bamlanivimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,4.69,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Imdevimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,3.05,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Casirivimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,2.79,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Tixagevimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,1.92,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Cilgavimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,7.7,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,Sotrovimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,27.33,1,50000,0.1,ng/ml,2022-03-17
+Takashita22b,LY-CoV016 + LY-CoV555,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,12.6,1,10000,0.1,ng/ml,2022-03-17
+Takashita22b,REGN10987 + REGN10933,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,3.53,1,10000,0.1,ng/ml,2022-03-17
+Takashita22b,COV2-2196 + COV2-2130,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table S2,Virus isolate,IC50,3.42,1,10000,0.1,ng/ml,2022-03-17
