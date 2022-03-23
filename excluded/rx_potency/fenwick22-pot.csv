@@ -1,0 +1,26 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Fenwick22,P5C3,S:346K+614G,Extended Data Fig 2a,Pseudovirus (lentivirus),IC50,4,1,20000,1,ng/ml,2022-03-23
+Fenwick22,AZD1061,S:346K+614G,Extended Data Fig 2a,Pseudovirus (lentivirus),IC50,48,1,20000,1,ng/ml,2022-03-23
+Fenwick22,AZD8895,S:346K+614G,Extended Data Fig 2a,Pseudovirus (lentivirus),IC50,4,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P5C3,BA.1 Spike:+346K,Extended Data Fig 2b,Pseudovirus (lentivirus),IC50,11,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P2G3+P5C3,BA.1 Spike:+346K,Extended Data Fig 2b,Pseudovirus (lentivirus),IC50,2,1,20000,1,ng/ml,2022-03-23
+Fenwick22,AZD8895+AZD1061,BA.1 Spike:+346K,Extended Data Fig 2b,Pseudovirus (lentivirus),IC50,100,1,20000,1,ng/ml,2022-03-23
+Fenwick22,Sotrovimab,BA.1 Spike:+346K,Extended Data Fig 2b,Pseudovirus (lentivirus),IC50,62,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P5C3,S:19R+156del+157del+158G+444T+452R+478K+614G+681R+950N,Extended Data Fig 11a,Pseudovirus (lentivirus),IC50,2,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P2G3+P5C3,S:19R+156del+157del+158G+444T+452R+478K+614G+681R+950N,Extended Data Fig 11a,Pseudovirus (lentivirus),IC50,10,1,20000,1,ng/ml,2022-03-23
+Fenwick22,AZD mix,S:19R+156del+157del+158G+444T+452R+478K+614G+681R+950N,Extended Data Fig 11a,Pseudovirus (lentivirus),IC50,6,1,20000,1,ng/ml,2022-03-23
+Fenwick22,Sotrovimab,S:19R+156del+157del+158G+444T+452R+478K+614G+681R+950N,Extended Data Fig 11a,Pseudovirus (lentivirus),IC50,405,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P5C3,S:19R+156del+157del+158G+452R+476D+478K+614G+681R+950N,Extended Data Fig 11b,Pseudovirus (lentivirus),IC50,100,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P2G3+P5C3,S:19R+156del+157del+158G+452R+476D+478K+614G+681R+950N,Extended Data Fig 11b,Pseudovirus (lentivirus),IC50,10,1,20000,1,ng/ml,2022-03-23
+Fenwick22,AZD mix,S:19R+156del+157del+158G+452R+476D+478K+614G+681R+950N,Extended Data Fig 11b,Pseudovirus (lentivirus),IC50,6,1,20000,1,ng/ml,2022-03-23
+Fenwick22,Sotrovimab,S:19R+156del+157del+158G+452R+476D+478K+614G+681R+950N,Extended Data Fig 11b,Pseudovirus (lentivirus),IC50,417,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P5C3,S:19R+156del+157del+158G+452R+478K+486S+614G+681R+950N,Extended Data Fig 11c,Pseudovirus (lentivirus),IC50,916,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P2G3+P5C3,S:19R+156del+157del+158G+452R+478K+486S+614G+681R+950N,Extended Data Fig 11c,Pseudovirus (lentivirus),IC50,13,1,20000,1,ng/ml,2022-03-23
+Fenwick22,AZD mix,S:19R+156del+157del+158G+452R+478K+486S+614G+681R+950N,Extended Data Fig 11c,Pseudovirus (lentivirus),IC50,68,1,20000,1,ng/ml,2022-03-23
+Fenwick22,Sotrovimab,S:19R+156del+157del+158G+452R+478K+486S+614G+681R+950N,Extended Data Fig 11c,Pseudovirus (lentivirus),IC50,126,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P5C3,S:19R+156del+157del+158G+452R+478K+487K+614G+681R+950N,Extended Data Fig 11d,Pseudovirus (lentivirus),IC50,51,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P2G3+P5C3,S:19R+156del+157del+158G+452R+478K+487K+614G+681R+950N,Extended Data Fig 11d,Pseudovirus (lentivirus),IC50,4,1,20000,1,ng/ml,2022-03-23
+Fenwick22,AZD mix,S:19R+156del+157del+158G+452R+478K+487K+614G+681R+950N,Extended Data Fig 11d,Pseudovirus (lentivirus),IC50,29,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P5C3,S:19R+156del+157del+158G+452R+478K+487D+614G+681R+950N,Extended Data Fig 11e,Pseudovirus (lentivirus),IC50,307,1,20000,1,ng/ml,2022-03-23
+Fenwick22,P2G3+P5C3,S:19R+156del+157del+158G+452R+478K+487D+614G+681R+950N,Extended Data Fig 11e,Pseudovirus (lentivirus),IC50,1,1,20000,1,ng/ml,2022-03-23
+Fenwick22,AZD mix,S:19R+156del+157del+158G+452R+478K+487D+614G+681R+950N,Extended Data Fig 11e,Pseudovirus (lentivirus),IC50,2,1,20000,1,ng/ml,2022-03-23
