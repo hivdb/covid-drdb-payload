@@ -19,9 +19,12 @@ ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,vi
 17H9,NULL,NULL,NULL,New York Blood Center,CP,5000,FALSE,2021-04-27
 18D9,NULL,NULL,NULL,New York Blood Center,CP,5000,FALSE,2021-04-27
 19B2,NULL,NULL,NULL,New York Blood Center,CP,5000,FALSE,2021-04-27
+1A10,NULL,NULL,NULL,the KU Leuven Antibody Center,CP,5000,FALSE,2022-03-24
 1B07,NULL,NULL,NULL,Washington University School of Medicine,Immunized mice,5000,FALSE,2021-01-27
 1B10,NULL,NULL,NULL,Washington University School of Medicine,NULL,5000,FALSE,2021-04-27
 1B12,NULL,NULL,NULL,Washington University School of Medicine,CP,5000,FALSE,2021-09-24
+1C1,NULL,NULL,NULL,the KU Leuven Antibody Center,CP,5000,FALSE,2022-03-24
+1C11,NULL,NULL,NULL,the KU Leuven Antibody Center,CP,5000,FALSE,2022-03-24
 1E07,NULL,NULL,NULL,Washington University School of Medicine,NULL,5000,FALSE,2021-04-27
 1E2,NULL,NULL,NULL,Chinese Academy of Medical Sciences,Phage display library,5000,FALSE,2021-04-27
 1E2-FC,NULL,NULL,NULL,Chinese Academy of Medical Sciences,Phage display library,5000,FALSE,2021-04-27
@@ -69,10 +72,12 @@ ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,vi
 29G2,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-04-27
 2B04,NULL,NULL,NULL,Washington University School of Medicine,Immunized mice,5000,FALSE,2021-01-27
 2B06,NULL,NULL,NULL,Washington University School of Medicine,CP,5000,FALSE,2021-09-24
-2B11,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-08-19
+2B11,NULL,NULL,NULL,the KU Leuven Antibody Center,CP,5000,FALSE,2021-08-19
+2B2,NULL,NULL,NULL,the KU Leuven Antibody Center,CP,5000,FALSE,2022-03-24
 2C02,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-03-25
 2C03,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-03-25
 2C08,NULL,NULL,NULL,Washington University School of Medicine,CP,5000,FALSE,2021-09-24
+2D6,NULL,NULL,NULL,the KU Leuven Antibody Center,CP,5000,FALSE,2022-03-24
 2E06,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-03-25
 2F2,NULL,NULL,NULL,Chinese Academy of Medical Sciences,Phage display library,5000,FALSE,2021-04-27
 2F2-Fc,NULL,NULL,NULL,Chinese Academy of Medical Sciences,Phage display library,5000,FALSE,2021-04-27
@@ -103,6 +108,8 @@ ab_name,abbreviation_name,availability,mature_month,institute,origin,priority,vi
 3B11-Fc,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-04-27
 3B11-IgG,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-04-27
 3B12-Fc,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-04-27
+3B6,NULL,NULL,NULL,the KU Leuven Antibody Center,CP,5000,FALSE,2022-03-24
+3B8,NULL,NULL,NULL,the KU Leuven Antibody Center,CP,5000,FALSE,2022-03-24
 3C1,NULL,NULL,NULL,Cedars-Sinai Medical Center,Immunized mice,5000,FALSE,2021-04-27
 3C12-Fc,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-04-27
 3C7,NULL,NULL,NULL,NULL,NULL,5000,FALSE,2021-04-27

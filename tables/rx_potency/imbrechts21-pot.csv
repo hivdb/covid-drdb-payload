@@ -1,0 +1,39 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Imbrechts21,1A10,Wuhan-Hu-1,Table 3,Pseudovirus (VSV),IC50,3.94,1,10000,1,nM,2022-03-24
+Imbrechts21,1C1,Wuhan-Hu-1,Table 3,Pseudovirus (VSV),IC50,2.31,1,10000,1,nM,2022-03-24
+Imbrechts21,1C11,Wuhan-Hu-1,Table 3,Pseudovirus (VSV),IC50,1.53,1,10000,1,nM,2022-03-24
+Imbrechts21,2B11,Wuhan-Hu-1,Table 3,Pseudovirus (VSV),IC50,2.29,1,10000,1,nM,2022-03-24
+Imbrechts21,2B2,Wuhan-Hu-1,Table 3,Pseudovirus (VSV),IC50,0.63,1,10000,1,nM,2022-03-24
+Imbrechts21,2D6,Wuhan-Hu-1,Table 3,Pseudovirus (VSV),IC50,3.34,1,10000,1,nM,2022-03-24
+Imbrechts21,3B8,Wuhan-Hu-1,Table 3,Pseudovirus (VSV),IC50,0.25,1,10000,1,nM,2022-03-24
+Imbrechts21,3B6,Wuhan-Hu-1,Table 3,Pseudovirus (VSV),IC50,2.19,1,10000,1,nM,2022-03-24
+Imbrechts21,1A10,B.1.1.7 full genome,Table 3,Pseudovirus (VSV),IC50,0.85,1,10000,1,nM,2022-03-24
+Imbrechts21,1C1,B.1.1.7 full genome,Table 3,Pseudovirus (VSV),IC50,0.55,1,10000,1,nM,2022-03-24
+Imbrechts21,1C11,B.1.1.7 full genome,Table 3,Pseudovirus (VSV),IC50,0.9,1,10000,1,nM,2022-03-24
+Imbrechts21,2B11,B.1.1.7 full genome,Table 3,Pseudovirus (VSV),IC50,0.69,1,10000,1,nM,2022-03-24
+Imbrechts21,2B2,B.1.1.7 full genome,Table 3,Pseudovirus (VSV),IC50,0.16,1,10000,1,nM,2022-03-24
+Imbrechts21,2D6,B.1.1.7 full genome,Table 3,Pseudovirus (VSV),IC50,0.82,1,10000,1,nM,2022-03-24
+Imbrechts21,3B8,B.1.1.7 full genome,Table 3,Pseudovirus (VSV),IC50,0.1,1,10000,1,nM,2022-03-24
+Imbrechts21,3B6,B.1.1.7 full genome,Table 3,Pseudovirus (VSV),IC50,0.85,1,10000,1,nM,2022-03-24
+Imbrechts21,1A10,B.1.351 full genome,Table 3,Pseudovirus (VSV),IC50,3.21,1,10000,1,nM,2022-03-24
+Imbrechts21,1C1,B.1.351 full genome,Table 3,Pseudovirus (VSV),IC50,2.56,1,10000,1,nM,2022-03-24
+Imbrechts21,1C11,B.1.351 full genome,Table 3,Pseudovirus (VSV),IC50,5.23,1,10000,1,nM,2022-03-24
+Imbrechts21,2B11,B.1.351 full genome,Table 3,Pseudovirus (VSV),IC50,5.46,1,10000,1,nM,2022-03-24
+Imbrechts21,2B2,B.1.351 full genome,Table 3,Pseudovirus (VSV),IC50,3.02,1,10000,1,nM,2022-03-24
+Imbrechts21,2D6,B.1.351 full genome,Table 3,Pseudovirus (VSV),IC50,2.94,1,10000,1,nM,2022-03-24
+Imbrechts21,3B8,B.1.351 full genome,Table 3,Pseudovirus (VSV),IC50,0.11,1,10000,1,nM,2022-03-24
+Imbrechts21,3B6,B.1.351 full genome,Table 3,Pseudovirus (VSV),IC50,0.32,1,10000,1,nM,2022-03-24
+Imbrechts21,1A10,P.1 full genome,Table 3,Pseudovirus (VSV),IC50,1.38,1,10000,1,nM,2022-03-24
+Imbrechts21,1C1,P.1 full genome,Table 3,Pseudovirus (VSV),IC50,2.53,1,10000,1,nM,2022-03-24
+Imbrechts21,1C11,P.1 full genome,Table 3,Pseudovirus (VSV),IC50,3.92,1,10000,1,nM,2022-03-24
+Imbrechts21,2B11,P.1 full genome,Table 3,Pseudovirus (VSV),IC50,1.17,1,10000,1,nM,2022-03-24
+Imbrechts21,2B2,P.1 full genome,Table 3,Pseudovirus (VSV),IC50,2.31,1,10000,1,nM,2022-03-24
+Imbrechts21,2D6,P.1 full genome,Table 3,Pseudovirus (VSV),IC50,1.28,1,10000,1,nM,2022-03-24
+Imbrechts21,3B8,P.1 full genome,Table 3,Pseudovirus (VSV),IC50,0.37,1,10000,1,nM,2022-03-24
+Imbrechts21,3B6,P.1 full genome,Table 3,Pseudovirus (VSV),IC50,0.19,1,10000,1,nM,2022-03-24
+Imbrechts21,1A10,B.1.617.2 full genome,Table 3,Pseudovirus (VSV),IC50,1.39,1,10000,1,nM,2022-03-24
+Imbrechts21,1C1,B.1.617.2 full genome,Table 3,Pseudovirus (VSV),IC50,1.05,1,10000,1,nM,2022-03-24
+Imbrechts21,2B2,B.1.617.2 full genome,Table 3,Pseudovirus (VSV),IC50,3.97,1,10000,1,nM,2022-03-24
+Imbrechts21,2D6,B.1.617.2 full genome,Table 3,Pseudovirus (VSV),IC50,0.98,1,10000,1,nM,2022-03-24
+Imbrechts21,3B8,B.1.617.2 full genome,Table 3,Pseudovirus (VSV),IC50,0.01,1,10000,1,nM,2022-03-24
+Imbrechts21,3B6,B.1.617.2 full genome,Table 3,Pseudovirus (VSV),IC50,1.08,1,10000,1,nM,2022-03-24

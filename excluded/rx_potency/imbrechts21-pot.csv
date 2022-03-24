@@ -1,0 +1,9 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Imbrechts21,1A10,S:614G,Figure 1,Pseudovirus (VSV),IC50,126,1,10000,1,ng/ml,2022-03-24
+Imbrechts21,1C1,S:614G,Figure 1,Pseudovirus (VSV),IC50,114,1,10000,1,ng/ml,2022-03-24
+Imbrechts21,1C11,S:614G,Figure 1,Pseudovirus (VSV),IC50,31,1,10000,1,ng/ml,2022-03-24
+Imbrechts21,2B11,S:614G,Figure 1,Pseudovirus (VSV),IC50,107,1,10000,1,ng/ml,2022-03-24
+Imbrechts21,2B2,S:614G,Figure 1,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-03-24
+Imbrechts21,2D6,S:614G,Figure 1,Pseudovirus (VSV),IC50,73,1,10000,1,ng/ml,2022-03-24
+Imbrechts21,3B8,S:614G,Figure 1,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-03-24
+Imbrechts21,3B6,S:614G,Figure 1,Pseudovirus (VSV),IC50,54,1,10000,1,ng/ml,2022-03-24
