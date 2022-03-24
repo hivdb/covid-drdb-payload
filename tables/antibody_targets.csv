@@ -24,6 +24,20 @@ ab_name,pdb_id,target,class,source
 2-43,7L56,RBD,RBD Core Cluster I,structure
 2-51,7L2C,NTD,NTD,structure
 2-7,7LSS,RBD,RBM Class I,structure
+2004,NULL,NTD,NULL,author
+2008,NULL,NTD,NULL,author
+2025,NULL,NTD,NULL,author
+2035,NULL,NTD,NULL,author
+2037,NULL,NTD,NULL,author
+2039,NULL,NTD,NULL,author
+2057,NULL,RBD,NULL,author
+2063,NULL,RBD,NULL,author
+2123,NULL,RBD,NULL,author
+2125,NULL,RBD,NULL,author
+2151,NULL,RBD,NULL,author
+2165,NULL,RBD,NULL,author
+2173,NULL,RBD,NULL,author
+2196,NULL,NTD,NULL,author
 222HC + 222LC,NULL,RBD,NULL,author
 24-12K,NULL,RBD,NULL,author
 24-1L,NULL,RBD,NULL,author
