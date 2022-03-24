@@ -1,0 +1,4 @@
+ref_name,rx_name,subject_name,collection_date,cumulative_group
+Chen22b,vaccine_recipient_early,vaccine_recipient,2021-02-05,vaccine_recipient
+Chen22b,vaccine_recipient_late,vaccine_recipient,2021-03-17,vaccine_recipient
+Chen22b,recovered_patient,recovered_patient,2021-02-14,recovered_patient
