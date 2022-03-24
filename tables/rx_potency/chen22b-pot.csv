@@ -1,0 +1,10 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chen22b,vaccine_recipient_early,hCoV-19/Hong Kong/HKU-001a/2020,Fig 1,Virus isolate,NT50,150.5,34,1280,10,NULL,2022-03-23
+Chen22b,vaccine_recipient_early,hCoV-19/Hong Kong/HKU-210604-002/2021,Fig 1,Virus isolate,NT50,49.05,34,1280,10,NULL,2022-03-23
+Chen22b,vaccine_recipient_early,hCoV-19/Hong Kong/HKU-691/2021,Fig 1,Virus isolate,NT50,7.2,34,1280,10,NULL,2022-03-23
+Chen22b,vaccine_recipient_late,hCoV-19/Hong Kong/HKU-001a/2020,Fig 1,Virus isolate,NT50,131,21,1280,10,NULL,2022-03-23
+Chen22b,vaccine_recipient_late,hCoV-19/Hong Kong/HKU-210604-002/2021,Fig 1,Virus isolate,NT50,34,21,1280,10,NULL,2022-03-23
+Chen22b,vaccine_recipient_late,hCoV-19/Hong Kong/HKU-691/2021,Fig 1,Virus isolate,NT50,6,21,1280,10,NULL,2022-03-23
+Chen22b,recovered_patient,hCoV-19/Hong Kong/HKU-001a/2020,Fig 1,Virus isolate,NT50,127.0,15,1280,10,NULL,2022-03-23
+Chen22b,recovered_patient,hCoV-19/Hong Kong/HKU-210604-002/2021,Fig 1,Virus isolate,NT50,41.9,15,1280,10,NULL,2022-03-23
+Chen22b,recovered_patient,hCoV-19/Hong Kong/HKU-691/2021,Fig 1,Virus isolate,NT50,6.3,15,1280,10,NULL,2022-03-23
