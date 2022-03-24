@@ -1,0 +1,71 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Wang21k,2-36,WA1,Figure 3A,Virus isolate,IC50,143,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,hCoV-19/USA/CA-SEARCH-5574/2020,Figure 3A,Virus isolate,IC50,39,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,hCoV-19/South Africa/KRISP-K005325/2020,Figure 3A,Virus isolate,IC50,289,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,hCoV-19/Japan/TY7-503/2021,Figure 3A,Virus isolate,IC50,55,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.526 full genome/E484K,Figure 3A,Virus isolate,IC50,389,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.526 full genome/S477N,Figure 3A,Virus isolate,IC50,151,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:614G,Figure 3A,Pseudovirus (VSV),IC50,38,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.1.7 Spike,Figure 3A,Pseudovirus (VSV),IC50,31,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.351 Spike,Figure 3A,Pseudovirus (VSV),IC50,80,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,P.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,44,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.526/E484K Spike,Figure 3A,Pseudovirus (VSV),IC50,191,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.526/S477N Spike,Figure 3A,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.427/9 Spike,Figure 3A,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:152L+484K+614G+769V,Figure 3A,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.525 Spike,Figure 3A,Pseudovirus (VSV),IC50,134,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.617.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,56,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.617.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,50,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,B.1.1.7 Spike+S:484K,Figure 3A,Pseudovirus (VSV),IC50,66,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:5F,Figure 3A,Pseudovirus (VSV),IC50,60,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:13I,Figure 3A,Pseudovirus (VSV),IC50,25,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:18F,Figure 3A,Pseudovirus (VSV),IC50,25,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:20N,Figure 3A,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:26S,Figure 3A,Pseudovirus (VSV),IC50,54,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:69del+70del,Figure 3A,Pseudovirus (VSV),IC50,39,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:80A,Figure 3A,Pseudovirus (VSV),IC50,53,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:95I,Figure 3A,Pseudovirus (VSV),IC50,28,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:138Y,Figure 3A,Pseudovirus (VSV),IC50,46,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:142D,Figure 3A,Pseudovirus (VSV),IC50,44,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:152C,Figure 3A,Pseudovirus (VSV),IC50,21,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:152L,Figure 3A,Pseudovirus (VSV),IC50,31,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:144del,Figure 3A,Pseudovirus (VSV),IC50,27,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:154K,Figure 3A,Pseudovirus (VSV),IC50,37,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:190S,Figure 3A,Pseudovirus (VSV),IC50,40,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:215G,Figure 3A,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:222V,Figure 3A,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:242del+243del+244del,Figure 3A,Pseudovirus (VSV),IC50,53,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:246I,Figure 3A,Pseudovirus (VSV),IC50,29,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:253G,Figure 3A,Pseudovirus (VSV),IC50,46,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:255F,Figure 3A,Pseudovirus (VSV),IC50,35,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:272L,Figure 3A,Pseudovirus (VSV),IC50,18,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:417E,Figure 3A,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:417N,Figure 3A,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:439K,Figure 3A,Pseudovirus (VSV),IC50,41,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:444Q,Figure 3A,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:445A,Figure 3A,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:450D,Figure 3A,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:452R,Figure 3A,Pseudovirus (VSV),IC50,48,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:453F,Figure 3A,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:455F,Figure 3A,Pseudovirus (VSV),IC50,48,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:477N,Figure 3A,Pseudovirus (VSV),IC50,35,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:483A,Figure 3A,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:484K,Figure 3A,Pseudovirus (VSV),IC50,46,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:485D,Figure 3A,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:486V,Figure 3A,Pseudovirus (VSV),IC50,191,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:490P,Figure 3A,Pseudovirus (VSV),IC50,191,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:493K,Figure 3A,Pseudovirus (VSV),IC50,46,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:494P,Figure 3A,Pseudovirus (VSV),IC50,29,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:501Y,Figure 3A,Pseudovirus (VSV),IC50,46,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:570D,Figure 3A,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:583D,Figure 3A,Pseudovirus (VSV),IC50,28,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:681H,Figure 3A,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:701V,Figure 3A,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:716I,Figure 3A,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:982A,Figure 3A,Pseudovirus (VSV),IC50,148,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:1071H,Figure 3A,Pseudovirus (VSV),IC50,38,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:1101D,Figure 3A,Pseudovirus (VSV),IC50,51,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:1118H,Figure 3A,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:1163Y,Figure 3A,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:1167V,Figure 3A,Pseudovirus (VSV),IC50,28,1,10000,1,ng/ml,2022-03-24
+Wang21k,2-36,S:1176F,Figure 3A,Pseudovirus (VSV),IC50,51,1,10000,1,ng/ml,2022-03-24
