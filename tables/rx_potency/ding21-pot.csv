@@ -1,0 +1,14 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ding21,CP,Wuhan-Hu-1,Figure 5B,Pseudovirus (HIV),NT50,579.4,5,10000,20,NULL,2022-03-24
+Ding21,CP,S:475V,Figure 5B,Pseudovirus (HIV),NT50,341.5,5,10000,20,NULL,2022-03-24
+Ding21,CP,S:484Q,Figure 5C,Pseudovirus (HIV),NT50,405.6,5,10000,20,NULL,2022-03-24
+Ding21,CP,S:614G,Figure 5D,Pseudovirus (HIV),NT50,2017,5,10000,20,NULL,2022-03-24
+Ding21,CC12.1,Wuhan-Hu-1,Figure 6A,Pseudovirus (HIV),IC50,17,1,10000,0.1,ng/ml,2022-03-24
+Ding21,CC12.1,S:475V,Figure 6A,Pseudovirus (HIV),IC50,428,1,10000,0.1,ng/ml,2022-03-24
+Ding21,CC12.1,S:484Q,Figure 6A,Pseudovirus (HIV),IC50,14,1,10000,0.1,ng/ml,2022-03-24
+Ding21,2-4,Wuhan-Hu-1,Figure 6A,Pseudovirus (HIV),IC50,8,1,10000,0.1,ng/ml,2022-03-24
+Ding21,2-4,S:475V,Figure 6A,Pseudovirus (HIV),IC50,76,1,10000,0.1,ng/ml,2022-03-24
+Ding21,2-4,S:484Q,Figure 6A,Pseudovirus (HIV),IC50,10000,1,10000,0.1,ng/ml,2022-03-24
+Ding21,B38,Wuhan-Hu-1,Figure 6A,Pseudovirus (HIV),IC50,4,1,10000,0.1,ng/ml,2022-03-24
+Ding21,B38,S:475V,Figure 6A,Pseudovirus (HIV),IC50,10000,1,10000,0.1,ng/ml,2022-03-24
+Ding21,B38,S:484Q,Figure 6A,Pseudovirus (HIV),IC50,7,1,10000,0.1,ng/ml,2022-03-24
