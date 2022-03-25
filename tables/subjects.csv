@@ -244,7 +244,7 @@ Chen21,ChAd_Rhesus_macaques_4,Macaque,NULL,NULL,1
 Chen21,ChAd_Rhesus_macaques_5,Macaque,NULL,NULL,1
 Chen21,ChAd_Rhesus_macaques_6,Macaque,NULL,NULL,1
 Chen21b,Donor,Human,NULL,NULL,1
-Chen21b,Patient_TA,Human,1965,Msedical,1
+Chen21b,Patient_TA,Human,1965,Medical,1
 Chen21c,CoronaVac,Human,NULL,NULL,93
 Chen22b,recovered_patient,Human,NULL,NULL,15
 Chen22b,vaccine_recipient,Human,NULL,NULL,34
