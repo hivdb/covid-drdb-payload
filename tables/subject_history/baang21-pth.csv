@@ -8,4 +8,5 @@ Baang21,Patient,isolation,~,2020-06-06,USA,Baang21_D33,NULL,NULL
 Baang21,Patient,isolation,~,2020-06-11,USA,Baang21_D38,NULL,NULL
 Baang21,Patient,isolation,~,2020-08-05,USA,Baang21_D93,NULL,NULL
 Baang21,Patient,isolation,~,2020-08-18,USA,Baang21_D106,NULL,NULL
-Baang21,Donor,isolation,<,2020-05-11,USA,WA1,NULL,NULL
+Baang21,Donor,infection,<,2020-05-01,USA,WA1,NULL,NULL
+Baang21,Donor,isolation,<,2020-05-11,USA,NULL,NULL,NULL

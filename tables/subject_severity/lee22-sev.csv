@@ -1,0 +1,18 @@
+﻿ref_name,subject_name,start_date_cmp,start_date,end_date_cmp,end_date,severity,section
+Lee22,Patient A,<,2020-03-01,=,2020-05-15,Hospitalized,NULL
+Lee22,Patient B,<,2020-03-01,=,2020-11-09,Hospitalized,NULL
+Lee22,Patient C,<,2020-03-01,=,2020-05-28,Hospitalized,NULL
+Lee22,Patient D,<,2020-03-01,=,2021-03-09,Hospitalized,NULL
+Lee22,Patient E,<,2020-03-01,=,2020-05-27,Hospitalized,NULL
+Lee22,Patient F,<,2020-03-01,=,2020-06-16,Hospitalized,NULL
+Lee22,Patient G,<,2020-03-01,=,2020-05-29,Hospitalized,NULL
+Lee22,Patient H,<,2020-03-01,=,2021-01-30,Hospitalized,NULL
+Lee22,Patient I,<,2020-03-01,=,2021-03-01,Hospitalized,NULL
+Lee22,Patient J,<,2020-03-01,=,2020-12-19,Hospitalized,NULL
+Lee22,Patient K,<,2020-03-01,=,2020-06-25,Hospitalized,NULL
+Lee22,Patient L,<,2020-03-01,=,2020-06-05,Hospitalized,NULL
+Lee22,Patient M,<,2020-03-01,=,2021-03-03,Hospitalized,NULL
+Lee22,Patient O,<,2020-03-01,=,2021-01-13,Hospitalized,NULL
+Lee22,Patient P,<,2020-03-01,=,2020-11-19,Hospitalized,NULL
+Lee22,Patient Q,<,2020-03-01,=,2020-04-24,Hospitalized,NULL
+Lee22,Patient R,<,2020-03-01,=,2020-05-19,Hospitalized,NULL

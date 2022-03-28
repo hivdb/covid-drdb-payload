@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Lien21,MVC_high,~,2020-10-07,MVC-COV1901,1,Taiwan,NULL
+Lien21,MVC_high,~,2020-11-05,MVC-COV1901,2,Taiwan,NULL
+Lien21,MVC_middle,~,2020-10-07,MVC-COV1901,1,Taiwan,NULL
+Lien21,MVC_middle,~,2020-11-05,MVC-COV1901,2,Taiwan,NULL
+Lien21,MVC_low,~,2020-10-07,MVC-COV1901,1,Taiwan,NULL
+Lien21,MVC_low,~,2020-11-05,MVC-COV1901,2,Taiwan,NULL
+Lien21,MVC_Rat,~,2020-09-15,MVC-COV1901,2,Taiwan,NULL

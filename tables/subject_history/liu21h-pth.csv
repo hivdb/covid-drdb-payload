@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Liu21h,CP_group1,infection,~,2020-02-14,China,Wuhan-Hu-1,NULL,NULL
-Liu21h,CP_group1,isolation,~,2021-01-26,China,Wuhan-Hu-1,NULL,NULL
+Liu21h,CP_group1,isolation,~,2021-01-26,China,NULL,NULL,NULL
 Liu21h,CP_group2,infection,~,2020-02-14,China,Wuhan-Hu-1,NULL,NULL
-Liu21h,CP_group2,isolation,~,2021-01-26,China,Wuhan-Hu-1,NULL,NULL
+Liu21h,CP_group2,isolation,~,2021-01-26,China,NULL,NULL,NULL

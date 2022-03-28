@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Tada21d,BNT,~,2021-03-01,BNT162b2,1,USA NY,NULL
+Tada21d,BNT,~,2021-03-21,BNT162b2,2,USA NY,NULL
+Tada21d,Mod,~,2021-03-01,mRNA-1273,1,USA NY,NULL
+Tada21d,Mod,~,2021-03-21,mRNA-1273,2,USA NY,NULL

@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,start_date_cmp,start_date,end_date_cmp,end_date,severity,section
+Moriyama21,CP_Mild,~,2020-08-01,~,2020-10-19,Mild,NULL
+Moriyama21,CP_Moderate,~,2020-08-01,~,2021-02-24,Moderate,NULL
+Moriyama21,CP_Severe,~,2020-08-01,~,2021-02-24,Severe,NULL

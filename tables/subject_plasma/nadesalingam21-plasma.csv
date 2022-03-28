@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Nadesalingam21,Vaccinee,Immunodeficient,~,2021-04-30,UK,Vaccinee,NULL
+Nadesalingam21,Vaccinee,Uninfected_vac,~,2021-04-30,UK,Vaccinee,NULL
+Nadesalingam21,Infected,Infected_vac,~,2021-04-30,UK,Vaccinee,NULL

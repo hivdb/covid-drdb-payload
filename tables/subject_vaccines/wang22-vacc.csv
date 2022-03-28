@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Wang22,BBIBP-CorV_2dose_d14,~,2021-01-01,BBIBP-CorV,1,China,NULL
+Wang22,BBIBP-CorV_2dose_d14,~,2021-02-01,BBIBP-CorV,2,China,NULL
+Wang22,BBIBP-CorV_3dose_d14,~,2021-01-01,BBIBP-CorV,1,China,NULL
+Wang22,BBIBP-CorV_3dose_d14,~,2021-02-01,BBIBP-CorV,2,China,NULL
+Wang22,BBIBP-CorV_3dose_d14,~,2021-07-01,BBIBP-CorV,3,China,NULL
+Wang22,ZF2001_3dose_d14,~,2021-01-01,BBIBP-CorV,1,China,NULL
+Wang22,ZF2001_3dose_d14,~,2021-02-01,BBIBP-CorV,2,China,NULL
+Wang22,ZF2001_3dose_d14,~,2021-07-01,ZF2001,3,China,NULL

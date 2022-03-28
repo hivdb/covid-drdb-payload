@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Syed21,BNT162b2,~,2021-01-01,BNT162b2,1,USA,NULL
+Syed21,BNT162b2,~,2021-02-01,BNT162b2,2,USA,NULL
+Syed21,mRNA-1273,~,2021-01-01,mRNA-1273,1,USA,NULL
+Syed21,mRNA-1273,~,2021-02-01,mRNA-1273,2,USA,NULL
+Syed21,Ad26.COV2.S,~,2021-01-01,Ad26.COV2.S,1,USA,NULL

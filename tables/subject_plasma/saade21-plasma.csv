@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Saade21,CP,CP,~,2020-10-01,France,CP,NULL
+Saade21,CP_Severe,CP_Severe,~,2020-07-01,France,CP_Severe,NULL
+Saade21,CP_Mild,CP_Mild,~,2020-12-31,France,CP_Mild,NULL
+Saade21,BNT162b2,BNT162b2,~,2021-01-15,France,BNT,NULL

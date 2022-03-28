@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Payne21,BNT_Long,~,2020-12-04,BNT162b2,1,UK,NULL
+Payne21,BNT_Long,~,2021-02-26,BNT162b2,2,UK,NULL
+Payne21,BNT_Short,~,2020-12-04,BNT162b2,1,UK,NULL
+Payne21,BNT_Short,~,2021-12-25,BNT162b2,2,UK,NULL

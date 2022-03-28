@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Neumann21,BNT162b2,~,2021-02-01,BNT162b2,1,Germany,NULL
+Neumann21,BNT162b2,~,2021-02-20,BNT162b2,2,Germany,NULL
+Neumann21,mRNA-1273,~,2021-02-01,mRNA-1273,1,Germany,NULL
+Neumann21,mRNA-1273,~,2021-03-01,mRNA-1273,2,Germany,NULL
+Neumann21,AZD1222,~,2021-02-01,AZD1222,1,Germany,NULL

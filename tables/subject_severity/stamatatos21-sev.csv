@@ -1,0 +1,16 @@
+﻿ref_name,subject_name,start_date_cmp,start_date,end_date_cmp,end_date,severity,section
+Stamatatos21,PT_A,~,2020-04-15,~,2021-03-01,Severe,NULL
+Stamatatos21,PT_B,~,2020-04-24,~,2021-03-01,Moderate,NULL
+Stamatatos21,PT_C,~,2020-05-05,~,2021-03-01,Severe,NULL
+Stamatatos21,PT_D,<,2020-11-22,~,2021-03-01,Mild,NULL
+Stamatatos21,PT_E,~,2020-03-06,~,2021-03-01,Moderate,NULL
+Stamatatos21,PT_F,~,2020-04-21,~,2021-03-01,Moderate,NULL
+Stamatatos21,PT_G,~,2020-05-05,~,2021-03-01,Moderate,NULL
+Stamatatos21,PT_H,~,2020-05-22,~,2021-03-01,Severe,NULL
+Stamatatos21,PT_I,~,2020-11-01,~,2021-03-01,Moderate,NULL
+Stamatatos21,PT_J,~,2020-04-05,~,2021-02-19,Severe,NULL
+Stamatatos21,PT_K,~,2020-04-22,~,2021-03-01,Moderate,NULL
+Stamatatos21,PT_L,<,2021-01-11,~,2021-03-01,Mild,NULL
+Stamatatos21,PT_M,<,2020-12-03,~,2021-03-01,Mild,NULL
+Stamatatos21,PT_N,~,2020-09-10,~,2021-03-01,Moderate,NULL
+Stamatatos21,PT_O,~,2020-04-23,~,2021-03-01,Moderate,NULL

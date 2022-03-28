@@ -1,7 +1,6 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Moriyama21,CP_Mild,infection,~,2020-08-01,Japan,B.1 full genome,NULL,Mild
 Moriyama21,CP_Mild,isolation,~,2020-10-19,Japan,NULL,NULL,NULL
-Moriyama21,CP_Mild,isolation,~,2021-02-24,Japan,NULL,NULL,NULL
 Moriyama21,CP_Moderate,infection,~,2020-08-01,Japan,B.1 full genome,NULL,Moderate
 Moriyama21,CP_Moderate,isolation,~,2020-10-19,Japan,NULL,NULL,NULL
 Moriyama21,CP_Moderate,isolation,~,2021-02-24,Japan,NULL,NULL,NULL

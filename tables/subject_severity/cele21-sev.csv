@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,start_date_cmp,start_date,end_date_cmp,end_date,severity,section
+Cele21,CP,~,2020-06-15,~,2020-07-15,Hospitalized,NULL
+Cele21,CP_B.1.351,~,2020-12-31,~,2021-01-31,Hospitalized,NULL
+Cele21,CP_B.1.1.117+S:484K,~,2020-06-15,~,2020-07-15,Hospitalized,NULL

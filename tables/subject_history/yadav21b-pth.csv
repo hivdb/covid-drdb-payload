@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Yadav21b,CP,infection,~,2021-02-01,India,B.1 full genome,NULL,NULL
-Yadav21b,CP,isolation,~,2021-05-01,India,B.1 full genome,NULL,NULL
+Yadav21b,CP,isolation,~,2021-05-01,India,NULL,NULL,NULL
 Yadav21b,BBV152,2nd dose,~,2021-04-03,India,NULL,BBV152,NULL
 Yadav21b,BBV152,2nd dose isolation,~,2021-05-01,India,NULL,NULL,NULL

@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Chen22b,vaccine_recipient,vaccine_recipient_early,~,2021-02-05,China,vaccine_recipient,NULL
+Chen22b,vaccine_recipient,vaccine_recipient_early_fold,~,2021-02-05,China,vaccine_recipient,NULL
+Chen22b,vaccine_recipient,vaccine_recipient_late,~,2021-03-17,China,vaccine_recipient,NULL
+Chen22b,vaccine_recipient,vaccine_recipient_late_fold,~,2021-03-17,China,vaccine_recipient,NULL
+Chen22b,recovered_patient,recovered_patient,~,2021-02-14,China,recovered_patient,NULL
+Chen22b,recovered_patient,recovered_patient_fold,~,2021-02-14,China,recovered_patient,NULL

@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+McCallum21c,BNT162b2,~,2021-04-01,BNT162b2,1,USA,NULL
+McCallum21c,BNT162b2,~,2021-04-15,BNT162b2,2,USA,NULL
+McCallum21c,mRNA-1273,~,2021-04-01,mRNA-1273,1,USA,NULL
+McCallum21c,mRNA-1273,~,2021-04-15,mRNA-1273,2,USA,NULL
+McCallum21c,Ad26.COV2.S,~,2021-04-10,Ad26.COV2.S,1,USA,NULL

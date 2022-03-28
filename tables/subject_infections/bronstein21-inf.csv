@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Bronstein21,Patient 1,<,2021-01-17,Alpha,Israel,NULL
+Bronstein21,Patient 2,<,2021-02-01,B.1.362,Israel,NULL
+Bronstein21,Donor,~,2020-12-01,Unknown variant,Israel,NULL

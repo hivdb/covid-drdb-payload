@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Meng22,AZD1222_BNT,AZD1222_2dose_1m,~,2021-03-01,UK,AZD1222_BNT,NULL
+Meng22,AZD1222_BNT,AZD1222_2dose_6m,~,2021-08-01,UK,AZD1222_BNT,NULL
+Meng22,AZD1222_BNT,AZD1222_2dose_BNT_1dose_1,~,2021-09-01,UK,AZD1222_BNT,NULL
+Meng22,BNT,BNT_2dose_1m,~,2021-03-01,UK,BNT,NULL
+Meng22,BNT,BNT_SFig4_2dose,~,2021-03-01,UK,BNT,NULL
+Meng22,BNT,BNT_2dose_6m,~,2021-08-01,UK,BNT,NULL
+Meng22,BNT,BNT_2dose_BNT_1dose_1,~,2021-09-01,UK,BNT,NULL
+Meng22,AZD1222,AZD_SFig4_2dose,~,2021-03-01,UK,AZD1222,NULL
+Meng22,mRNA-1273,mRNA_SFig4_2dose,~,2021-03-01,UK,mRNA-1273,NULL
+Meng22,CoronaVac,CoronaVac_SFig4_2dose,~,2021-03-01,UK,CoronaVac,NULL
+Meng22,CP_early,CP_early,~,2020-04-30,UK,CP_early,NULL
+Meng22,CP_Delta,CP_Delta,~,2021-07-30,UK,CP_Delta,NULL

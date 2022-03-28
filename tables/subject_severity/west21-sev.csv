@@ -1,0 +1,11 @@
+﻿ref_name,subject_name,start_date_cmp,start_date,end_date_cmp,end_date,severity,section
+West21,CP038,<,2020-07-05,<,2021-02-01,Mild,NULL
+West21,CP040,<,2020-07-21,<,2021-02-01,Mild,NULL
+West21,CP076,<,2020-07-12,<,2021-02-01,Mild,NULL
+West21,CP099,<,2020-07-12,<,2021-02-01,Mild,NULL
+West21,CP233,<,2020-07-10,<,2021-02-01,Mild,NULL
+West21,CP328,<,2020-07-13,<,2021-02-01,Mild,NULL
+West21,CP352,<,2020-07-19,<,2021-02-01,Mild,NULL
+West21,CP403,<,2020-08-11,<,2021-02-01,Hospitalized,NULL
+West21,CP437,<,2020-07-24,<,2021-02-01,Mild,NULL
+West21,CP537,<,2020-08-07,<,2021-02-01,Mild,NULL

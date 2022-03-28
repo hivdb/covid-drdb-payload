@@ -1,8 +1,9 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Saade21,CP,isolation,~,2020-10-01,France,B.1 full genome,NULL,NULL
+Saade21,CP,infection,~,2020-09-01,France,B.1 full genome,NULL,NULL
+Saade21,CP,isolation,~,2020-10-01,France,NULL,NULL,NULL
 Saade21,CP_Severe,infection,~,2020-06-01,France,B.1 full genome,NULL,Hospitalized
-Saade21,CP_Severe,isolation,~,2020-07-01,France,B.1 full genome,NULL,NULL
+Saade21,CP_Severe,isolation,~,2020-07-01,France,NULL,NULL,NULL
 Saade21,CP_Mild,infection,~,2020-07-01,France,B.1 full genome,NULL,Mild
-Saade21,CP_Mild,isolation,~,2020-12-31,France,B.1 full genome,NULL,NULL
+Saade21,CP_Mild,isolation,~,2020-12-31,France,NULL,NULL,NULL
 Saade21,BNT162b2,2nd dose,~,2021-01-01,France,NULL,BNT162b2,NULL
 Saade21,BNT162b2,2nd dose isolation,~,2021-01-15,France,NULL,NULL,NULL

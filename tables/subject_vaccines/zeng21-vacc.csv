@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Zeng21,mRNA,~,2021-01-01,mRNA,1,USA,NULL
+Zeng21,mRNA,~,2021-02-01,mRNA,2,USA,NULL

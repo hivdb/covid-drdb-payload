@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
+Lohr21,Patient,=,2021-01-22,B.1.1.7 full genome,NULL,NULL,Germany,NULL
+Lohr21,Patient,=,2021-02-03,Lohr21_20210203,NULL,NULL,Germany,NULL
+Lohr21,Patient,~,2021-02-04,Lohr21_20210203,NULL,NULL,Germany,NULL
+Lohr21,Patient,~,2021-02-05,Lohr21_20210203,NULL,NULL,Germany,NULL
+Lohr21,Patient,=,2021-02-09,Lohr21_20210209,NULL,NULL,Germany,NULL

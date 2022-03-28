@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Lucas21,VP_naive,~,2020-11-01,mRNA-1273,1,USA,NULL
+Lucas21,VP_naive,~,2020-11-29,mRNA-1273,2,USA,NULL
+Lucas21,VP_recoved,~,2020-11-01,mRNA-1273,1,USA,NULL
+Lucas21,VP_recoved,~,2020-11-29,mRNA-1273,2,USA,NULL

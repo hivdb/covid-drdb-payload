@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Wu21b,mRNA-1273_mice,~,2020-07-01,mRNA-1273,1,USA,NULL
+Wu21b,mRNA-1273_mice,~,2020-07-22,mRNA-1273,2,USA,NULL
+Wu21b,mRNA-1273_mice,~,2021-01-29,mRNA-1273.351,3,USA,NULL
+Wu21b,mRNA-1273.351_mice,~,2021-01-01,mRNA-1273.351,1,USA,NULL
+Wu21b,mRNA-1273.351_mice,~,2021-01-22,mRNA-1273.351,2,USA,NULL
+Wu21b,mRNA-1273.211_mice,~,2021-01-01,mRNA-1273.211,1,USA,NULL
+Wu21b,mRNA-1273.211_mice,~,2021-01-22,mRNA-1273.211,2,USA,NULL

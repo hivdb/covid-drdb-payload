@@ -8,11 +8,11 @@ Cele22,Patient_adv_HIV,isolation,=,2020-12-10,South Africa,hCoV-19/South Africa/
 Cele22,Patient_adv_HIV,isolation,=,2021-01-14,South Africa,hCoV-19/South Africa/KRISP-AHRI-K008629-D106/2021,NULL,NULL
 Cele22,Patient_adv_HIV,isolation,=,2021-04-08,South Africa,hCoV-19/South Africa/KRISP-AHRI-K013317-D190/2021,NULL,NULL
 Cele22,CP_first_wave,infection,~,2020-09-01,South Africa,B.1 full genome,NULL,NULL
-Cele22,CP_first_wave,isolation,~,2020-09-30,South Africa,B.1 full genome,NULL,NULL
+Cele22,CP_first_wave,isolation,~,2020-09-30,South Africa,NULL,NULL,NULL
 Cele22,CP_Beta,infection,~,2021-03-01,South Africa,B.1.351 full genome,NULL,NULL
-Cele22,CP_Beta,isolation,~,2021-03-31,South Africa,B.1.351 full genome,NULL,NULL
+Cele22,CP_Beta,isolation,~,2021-03-31,South Africa,NULL,NULL,NULL
 Cele22,CP_Delta,infection,~,2021-07-01,South Africa,B.1.617.2 full genome,NULL,NULL
-Cele22,CP_Delta,isolation,~,2021-07-31,South Africa,B.1.617.2 full genome,NULL,NULL
+Cele22,CP_Delta,isolation,~,2021-07-31,South Africa,NULL,NULL,NULL
 Cele22,BNT,1st dose,~,2021-01-01,South Africa,NULL,BNT162b2,NULL
 Cele22,BNT,2nd dose,~,2021-01-21,South Africa,NULL,BNT162b2,NULL
 Cele22,BNT,2nd dose isolation,~,2021-04-08,South Africa,NULL,NULL,NULL

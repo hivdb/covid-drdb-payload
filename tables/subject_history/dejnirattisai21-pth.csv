@@ -11,18 +11,18 @@ Dejnirattisai21,CP_B.1.1.7_P11,infection,~,2020-12-07,UK,B.1.1.7 full genome,NUL
 Dejnirattisai21,CP_B.1.1.7_P13,infection,~,2020-12-02,UK,B.1.1.7 full genome,NULL,NULL
 Dejnirattisai21,CP_B.1.1.7_P14,infection,~,2020-12-10,UK,B.1.1.7 full genome,NULL,NULL
 Dejnirattisai21,CP_B.1.1.7_P15,infection,~,2020-12-15,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P3,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P4,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P5,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P6,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P7,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P8,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P9,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P10,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P11,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P13,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P14,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
-Dejnirattisai21,CP_B.1.1.7_P15,isolation,~,2020-12-31,UK,B.1.1.7 full genome,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P3,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P4,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P5,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P6,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P7,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P8,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P9,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P10,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P11,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P13,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P14,isolation,~,2020-12-31,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_B.1.1.7_P15,isolation,~,2020-12-31,UK,NULL,NULL,NULL
 Dejnirattisai21,CP_1,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
 Dejnirattisai21,CP_2,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
 Dejnirattisai21,CP_3,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
@@ -57,40 +57,40 @@ Dejnirattisai21,CP_31,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
 Dejnirattisai21,CP_32,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
 Dejnirattisai21,CP_33,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
 Dejnirattisai21,CP_34,infection,~,2020-04-15,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_1,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_2,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_3,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_4,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_5,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_6,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_7,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_8,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_9,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_10,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_11,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_12,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_13,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_14,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_15,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_16,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_17,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_18,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_19,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_20,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_21,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_22,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_23,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_24,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_25,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_26,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_27,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_28,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_29,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_30,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_31,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_32,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_33,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
-Dejnirattisai21,CP_34,isolation,<,2020-06-01,UK,B.1 full genome,NULL,NULL
+Dejnirattisai21,CP_1,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_2,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_3,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_4,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_5,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_6,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_7,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_8,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_9,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_10,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_11,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_12,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_13,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_14,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_15,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_16,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_17,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_18,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_19,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_20,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_21,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_22,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_23,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_24,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_25,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_26,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_27,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_28,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_29,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_30,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_31,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_32,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_33,isolation,<,2020-06-01,UK,NULL,NULL,NULL
+Dejnirattisai21,CP_34,isolation,<,2020-06-01,UK,NULL,NULL,NULL
 Dejnirattisai21,Pfizer1,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
 Dejnirattisai21,Pfizer2,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL
 Dejnirattisai21,Pfizer3,1st dose,~,2020-12-01,UK,NULL,BNT162b2,NULL

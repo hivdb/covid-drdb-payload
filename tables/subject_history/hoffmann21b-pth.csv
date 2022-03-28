@@ -1,15 +1,29 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Hoffmann21b,CP_serum_1,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_serum_2,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_serum_3,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_serum_4,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_serum_5,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_serum_6,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_7,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_8,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_9,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_10,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_11,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_12,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_13,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
-Hoffmann21b,CP_14,isolation,~,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_serum_1,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_serum_2,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_serum_3,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_serum_4,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_serum_5,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_serum_6,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_serum_1,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_serum_2,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_serum_3,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_serum_4,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_serum_5,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_serum_6,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_7,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_8,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_9,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_10,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_11,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_12,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_13,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_14,infection,<,2020-08-14,Germany,B.1 full genome,NULL,NULL
+Hoffmann21b,CP_7,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_8,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_9,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_10,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_11,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_12,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_13,isolation,~,2020-08-14,Germany,NULL,NULL,NULL
+Hoffmann21b,CP_14,isolation,~,2020-08-14,Germany,NULL,NULL,NULL

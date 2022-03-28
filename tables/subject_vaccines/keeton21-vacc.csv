@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Keeton21,VP,~,2021-02-17,Ad26.COV2.S,1,South Africa,NULL
+Keeton21,VP_1st_wave_infected,~,2021-02-17,Ad26.COV2.S,1,South Africa,NULL
+Keeton21,VP_2nd_wave_infected,~,2021-02-17,Ad26.COV2.S,1,South Africa,NULL

@@ -1,22 +1,22 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Hoffmann21,CP_ID15,infection,<,2020-12-31,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID15,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID15,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,CP_ID18,infection,<,2020-12-18,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID18,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID18,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,CP_ID20,infection,<,2020-12-31,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID20,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID20,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,CP_ID22,infection,<,2020-12-21,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID22,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID22,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,CP_ID23,infection,<,2020-12-21,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID23,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID23,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,CP_ID24,infection,<,2020-12-19,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID24,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID24,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,CP_ID27,infection,<,2020-12-31,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID27,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID27,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,CP_ID33,infection,<,2020-12-16,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID33,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID33,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,CP_ID51,infection,<,2020-12-31,Germany,B.1 full genome,NULL,Severe
-Hoffmann21,CP_ID51,isolation,<,2020-12-31,Germany,B.1 full genome,NULL,NULL
+Hoffmann21,CP_ID51,isolation,<,2020-12-31,Germany,NULL,NULL,NULL
 Hoffmann21,BNT162b2_01,2nd dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
 Hoffmann21,BNT162b2_01,2nd dose isolation,~,2021-01-15,Germany,NULL,NULL,NULL
 Hoffmann21,BNT162b2_02,2nd dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL

@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Zeng21b,BNT162b2_2dose,~,2021-01-01,BNT162b2,1,USA,NULL
+Zeng21b,BNT162b2_2dose,~,2021-01-21,BNT162b2,2,USA,NULL
+Zeng21b,Moderna_2dose,~,2021-01-01,mRNA-1273,1,USA,NULL
+Zeng21b,Moderna_2dose,~,2021-01-21,mRNA-1273,2,USA,NULL
+Zeng21b,Moderna_3dose,~,2021-01-01,mRNA-1273,1,USA,NULL
+Zeng21b,Moderna_3dose,~,2021-01-21,mRNA-1273,2,USA,NULL
+Zeng21b,Moderna_3dose,~,2021-10-14,mRNA-1273,3,USA,NULL
+Zeng21b,BNT162b2_3dose,~,2021-01-01,BNT162b2,1,USA,NULL
+Zeng21b,BNT162b2_3dose,~,2021-01-21,BNT162b2,2,USA,NULL
+Zeng21b,BNT162b2_3dose,~,2021-10-14,BNT162b2,3,USA,NULL
+Zeng21b,Delta_wave_vaccinated,~,2021-01-01,mRNA,1,USA,NULL
+Zeng21b,Delta_wave_vaccinated,~,2021-01-31,mRNA,2,USA,NULL

@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Chen21b,Patient_TA,=,2020-04-30,B.1.369,USA,NULL
+Chen21b,Donor,<,2020-04-01,B.1,USA,NULL

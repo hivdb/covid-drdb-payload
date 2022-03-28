@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Roessler21,B.1.1.7_CP,~,2021-11-01,Alpha,Austria,NULL
+Roessler21,B.1.351_CP,~,2021-11-01,Beta,Austria,NULL
+Roessler21,B.1.617.2_CP,~,2021-11-01,Delta,Austria,NULL

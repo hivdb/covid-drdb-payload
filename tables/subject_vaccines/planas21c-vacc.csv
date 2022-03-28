@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Planas21c,BNT_2dose_M5,~,2021-02-05,BNT162b2,1,France,NULL
+Planas21c,BNT_2dose_M5,~,2021-05-03,BNT162b2,2,France,NULL
+Planas21c,AZD_2dose_M5,~,2021-01-04,AZD1222,1,France,NULL
+Planas21c,AZD_2dose_M5,~,2021-01-29,AZD1222,2,France,NULL
+Planas21c,BNT_3dose_M1,~,2021-01-04,BNT162b2,1,France,NULL
+Planas21c,BNT_3dose_M1,~,2021-01-29,BNT162b2,2,France,NULL
+Planas21c,BNT_3dose_M1,~,2021-07-01,BNT162b2,3,France,NULL
+Planas21c,CP_12M_BNT_1dose,~,2021-09-23,BNT162b2,1,France,NULL

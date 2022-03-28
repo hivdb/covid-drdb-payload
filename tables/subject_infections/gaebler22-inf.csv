@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Gaebler22,mRNA_2dose,~,2021-08-01,Delta,USA,NULL
+Gaebler22,mRNA_3dose,~,2021-12-01,Omicron/BA.1,USA,NULL
+Gaebler22,mRNA_2dose_Omicron,~,2021-12-01,Omicron/BA.1,USA,NULL

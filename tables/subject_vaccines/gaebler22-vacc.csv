@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Gaebler22,mRNA_2dose,~,2021-03-01,mRNA,1,USA,NULL
+Gaebler22,mRNA_2dose,~,2021-04-01,mRNA,2,USA,NULL
+Gaebler22,mRNA_3dose,~,2021-03-01,mRNA,1,USA,NULL
+Gaebler22,mRNA_3dose,~,2021-04-01,mRNA,2,USA,NULL
+Gaebler22,mRNA_3dose,~,2021-10-01,mRNA,3,USA,NULL
+Gaebler22,mRNA_2dose_Omicron,~,2021-03-01,mRNA,1,USA,NULL
+Gaebler22,mRNA_2dose_Omicron,~,2021-04-01,mRNA,2,USA,NULL

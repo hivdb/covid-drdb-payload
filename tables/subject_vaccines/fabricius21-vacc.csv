@@ -1,0 +1,15 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Fabricius21,BNT_naive,~,2021-04-19,BNT162b2,1,Germany,NULL
+Fabricius21,BNT_naive,~,2021-05-10,BNT162b2,2,Germany,NULL
+Fabricius21,BNT_infected,~,2021-04-19,BNT162b2,1,Germany,NULL
+Fabricius21,BNT_infected,~,2021-05-10,BNT162b2,2,Germany,NULL
+Fabricius21,BNT_2dose,~,2021-04-19,BNT162b2,1,Germany,NULL
+Fabricius21,BNT_2dose,~,2021-05-10,BNT162b2,2,Germany,NULL
+Fabricius21,AZD1222_BNT,~,2021-02-01,AZD1222,1,Germany,NULL
+Fabricius21,AZD1222_BNT,~,2021-05-10,BNT162b2,2,Germany,NULL
+Fabricius21,mRNA_2dose,~,2021-04-12,mRNA-1273,1,Germany,NULL
+Fabricius21,mRNA_2dose,~,2021-05-10,mRNA-1273,2,Germany,NULL
+Fabricius21,AZD1222_mRNA,~,2021-02-01,AZD1222,1,Germany,NULL
+Fabricius21,AZD1222_mRNA,~,2021-05-10,mRNA-1273,2,Germany,NULL
+Fabricius21,AZD1222_2dose,~,2021-02-01,AZD1222,1,Germany,NULL
+Fabricius21,AZD1222_2dose,~,2021-05-10,AZD1222,2,Germany,NULL

@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Medigeshi22,BBV152,~,2021-04-03,BBV152,1,India,NULL
+Medigeshi22,BBV152,~,2021-05-03,BBV152,2,India,NULL
+Medigeshi22,BBV152_Delta_infection,~,2021-03-02,BBV152,1,India,NULL
+Medigeshi22,BBV152_Delta_infection,~,2021-04-01,BBV152,2,India,NULL
+Medigeshi22,ChAdOx1,~,2021-03-23,AZD1222,1,India,NULL
+Medigeshi22,ChAdOx1,~,2021-04-22,AZD1222,2,India,NULL
+Medigeshi22,ChAdOx1_Delta_infection,~,2021-02-15,AZD1222,1,India,NULL
+Medigeshi22,ChAdOx1_Delta_infection,~,2021-03-17,AZD1222,2,India,NULL

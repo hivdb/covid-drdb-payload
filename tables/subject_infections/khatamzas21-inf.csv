@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Khatamzas21,Patient A,<,2020-05-06,B.1.1.515,Germany,NULL
+Khatamzas21,Patient B,~,2020-05-06,B.1.1,Germany,NULL
+Khatamzas21,Patient C,~,2020-05-01,B.1.1,Germany,NULL
+Khatamzas21,Donor 1,<,2020-05-31,B.1,Germany,NULL
+Khatamzas21,Donor 2,<,2020-06-19,B.1,Germany,NULL
+Khatamzas21,Donor 3,<,2020-07-19,B.1,Germany,NULL
+Khatamzas21,Donor X,<,2020-04-16,B.1,Germany,NULL

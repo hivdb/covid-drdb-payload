@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Abe21,Resident_Moderna,Resident_Moderna,~,2021-02-26,Canada,mRNA-1273,NULL
+Abe21,Resident_Pfizer,Resident_Pfizer,~,2021-02-26,Canada,BNT162b2,NULL
+Abe21,Staff_Moderna,Staff_Moderna,~,2021-02-26,Canada,mRNA-1273,NULL
+Abe21,Staff_Pfizer,Staff_Pfizer,~,2021-02-26,Canada,BNT162b2,NULL

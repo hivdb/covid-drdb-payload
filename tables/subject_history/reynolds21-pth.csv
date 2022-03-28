@@ -1,8 +1,7 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Reynolds21,BNT162b2,isolation,~,2020-04-01,UK,NULL,NULL,NULL
 Reynolds21,BNT162b2,1st dose,~,2021-01-08,UK,NULL,BNT162b2,NULL
 Reynolds21,BNT162b2,1st dose isolation,~,2021-01-31,UK,NULL,NULL,NULL
 Reynolds21,BNT162b2_infected,infection,~,2020-03-01,UK,Wuhan-Hu-1,NULL,NULL
-Reynolds21,BNT162b2_infected,isolation,~,2020-04-01,UK,Wuhan-Hu-1,NULL,NULL
-Reynolds21,BNT162b2_infected,1st dose,~,2021-01-08,UK,Wuhan-Hu-1,BNT162b2,NULL
-Reynolds21,BNT162b2_infected,1st dose isolation,~,2021-01-31,UK,Wuhan-Hu-1,NULL,NULL
+Reynolds21,BNT162b2_infected,isolation,~,2020-04-01,UK,NULL,NULL,NULL
+Reynolds21,BNT162b2_infected,1st dose,~,2021-01-08,UK,NULL,BNT162b2,NULL
+Reynolds21,BNT162b2_infected,1st dose isolation,~,2021-01-31,UK,NULL,NULL,NULL

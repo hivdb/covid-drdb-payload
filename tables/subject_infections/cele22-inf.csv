@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Cele22,Patient_adv_HIV,=,2020-09-04,B.1.1.273,South Africa,NULL
+Cele22,CP_first_wave,~,2020-09-01,B.1,South Africa,NULL
+Cele22,CP_Beta,~,2021-03-01,Beta,South Africa,NULL
+Cele22,CP_Delta,~,2021-07-01,Delta,South Africa,NULL

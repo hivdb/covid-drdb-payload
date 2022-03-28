@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Miyamoto21,BNT162b2,~,2021-01-01,BNT162b2,1,Japan,NULL
+Miyamoto21,BNT162b2,~,2021-01-23,BNT162b2,2,Japan,NULL
+Miyamoto21,BNT162b2_bti_alpha,~,2021-01-01,BNT162b2,1,Japan,NULL
+Miyamoto21,BNT162b2_bti_alpha,~,2021-01-23,BNT162b2,2,Japan,NULL
+Miyamoto21,BNT162b2_bti_delta,~,2021-01-01,BNT162b2,1,Japan,NULL
+Miyamoto21,BNT162b2_bti_delta,~,2021-01-23,BNT162b2,2,Japan,NULL

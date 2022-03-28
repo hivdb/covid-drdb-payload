@@ -1,0 +1,19 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Khan21,Pt1,~,2021-03-01,AZD1222,1,South Africa,NULL
+Khan21,Pt2,~,2021-03-01,AZD1222,1,South Africa,NULL
+Khan21,Pt3,~,2021-05-01,BNT162b2,2,South Africa,NULL
+Khan21,Pt4,~,2021-05-01,AZD1222,1,South Africa,NULL
+Khan21,Pt5,~,2021-09-01,AZD1222,1,South Africa,NULL
+Khan21,Pt6,~,2021-07-01,BNT162b2,2,South Africa,NULL
+Khan21,Pt13,~,2021-07-01,BNT162b2,2,South Africa,NULL
+Khan21,Pt15,~,2021-05-01,BNT162b2,2,South Africa,NULL
+Khan21,Pt16,~,2021-12-01,BNT162b2,2,South Africa,NULL
+Khan21,Pt22,~,2021-08-01,AZD1222,1,South Africa,NULL
+Khan21,Pt2,~,2021-11-01,AZD1222,2,South Africa,NULL
+Khan21,Pt3,~,2021-04-01,BNT162b2,1,South Africa,NULL
+Khan21,Pt6,~,2021-06-01,BNT162b2,1,South Africa,NULL
+Khan21,Pt13,~,2021-06-01,BNT162b2,1,South Africa,NULL
+Khan21,Pt15,~,2021-04-01,BNT162b2,1,South Africa,NULL
+Khan21,Pt16,~,2021-11-01,BNT162b2,1,South Africa,NULL
+Khan21,VP_delta_inf,~,2021-06-01,BNT162b2 or AZD1222,1,South Africa,NULL
+Khan21,VP_delta_inf,~,2021-07-01,BNT162b2 or AZD1222,2,South Africa,NULL

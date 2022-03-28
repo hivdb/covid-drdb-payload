@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Gross21,ChAdOx1_BNT162b2,~,2021-02-17,AZD1222,1,Germany,NULL
+Gross21,ChAdOx1_BNT162b2,~,2021-04-15,BNT162b2,2,Germany,NULL
+Gross21,BNT162b2_2x,~,2021-02-17,BNT162b2,1,Germany,NULL
+Gross21,BNT162b2_2x,~,2021-04-15,BNT162b2,2,Germany,NULL

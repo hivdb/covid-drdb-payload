@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Gaebler22,mRNA_2dose,mRNA_2dose,~,2021-05-01,USA,mRNA_2dose,NULL
+Gaebler22,mRNA_2dose,mRNA_2dose_Delta_BTI,~,2021-09-01,USA,mRNA_2dose,NULL
+Gaebler22,mRNA_3dose,mRNA_3dose,~,2021-11-01,USA,mRNA_3dose,NULL
+Gaebler22,mRNA_3dose,mRNA_3dose_Omicron_BTI,~,2022-01-01,USA,mRNA_3dose,NULL
+Gaebler22,mRNA_2dose_Omicron,mRNA_2dose_Omicron_BTI,~,2022-01-01,USA,mRNA_2dose,NULL

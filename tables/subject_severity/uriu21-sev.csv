@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,start_date_cmp,start_date,end_date_cmp,end_date,severity,section
+Uriu21,CP_01-07,=,2020-09-01,=,2020-11-04,Severe,NULL
+Uriu21,CP_03-03,=,2020-09-30,=,2020-12-04,Severe,NULL
+Uriu21,CP_12-01,=,2020-08-19,=,2020-09-18,Moderate,NULL

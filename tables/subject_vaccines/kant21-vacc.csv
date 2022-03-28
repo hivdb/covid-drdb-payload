@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Kant21,Covishield,~,2021-05-01,AZD1222,1,India,NULL
+Kant21,Covishield,~,2021-06-01,AZD1222,2,India,NULL
+Kant21,Covaxin,~,2021-05-01,BBV152,1,India,NULL
+Kant21,Covaxin,~,2021-06-01,BBV152,2,India,NULL
+Kant21,Covishield_vovaxin,~,2021-05-01,AZD1222,1,India,NULL
+Kant21,Covishield_vovaxin,~,2021-06-13,BBV152,2,India,NULL

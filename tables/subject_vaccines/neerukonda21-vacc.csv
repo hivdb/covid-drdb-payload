@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Neerukonda21,BNT,~,2021-01-01,BNT162b2,1,USA,NULL
+Neerukonda21,BNT,~,2021-01-21,BNT162b2,2,USA,NULL
+Neerukonda21,mRNA-1273,~,2021-01-01,mRNA-1273,1,USA,NULL
+Neerukonda21,mRNA-1273,~,2021-01-21,mRNA-1273,2,USA,NULL

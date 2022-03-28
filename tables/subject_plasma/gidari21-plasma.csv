@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Gidari21,BNT_2dose,BNT_2dose,~,2021-02-24,Italy,BNT_2dose,NULL
+Gidari21,CP,CP,~,2020-12-06,Italy,CP,NULL
+Gidari21,CP,CP_high_titer_gt_160,~,2020-12-06,Italy,CP_high_titer_gt_160,NULL
+Gidari21,CP_Gamma_infection,CP_Gamma_infection,~,2021-03-01,Italy,CP_Gamma_infection,NULL

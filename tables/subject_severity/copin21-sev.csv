@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,start_date_cmp,start_date,end_date_cmp,end_date,severity,section
+Copin21,Hospitalized placebo patients,<,2021-02-20,<,2021-03-01,Hospitalized,NULL
+Copin21,Hospitalized low dose patients,<,2021-02-20,<,2021-03-01,Hospitalized,NULL
+Copin21,Hospitalized high dose patients,<,2021-02-20,<,2021-03-01,Hospitalized,NULL
+Copin21,Non-hospitalized placebo patients,<,2021-02-20,<,2021-03-01,Non-Hospitalized,NULL
+Copin21,Non-hospitalized low dose patients,<,2021-02-20,<,2021-03-01,Non-Hospitalized,NULL
+Copin21,Non-hospitalized high dose patients,<,2021-02-20,<,2021-03-01,Non-Hospitalized,NULL

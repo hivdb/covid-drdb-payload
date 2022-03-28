@@ -1,0 +1,11 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Hadjadj21,BNT,~,2021-01-01,BNT162b2,1,France,NULL
+Hadjadj21,BNT,~,2021-01-31,BNT162b2,2,France,NULL
+Hadjadj21,BNT_RTX,~,2021-01-01,BNT162b2,1,France,NULL
+Hadjadj21,BNT_RTX,~,2021-01-31,BNT162b2,2,France,NULL
+Hadjadj21,BNT_MTX,~,2021-01-01,BNT162b2,1,France,NULL
+Hadjadj21,BNT_MTX,~,2021-01-31,BNT162b2,2,France,NULL
+Hadjadj21,BNT_cDMARDs,~,2021-01-01,BNT162b2,1,France,NULL
+Hadjadj21,BNT_cDMARDs,~,2021-01-31,BNT162b2,2,France,NULL
+Hadjadj21,BNT_other_Rx,~,2021-01-01,BNT162b2,1,France,NULL
+Hadjadj21,BNT_other_Rx,~,2021-01-31,BNT162b2,2,France,NULL

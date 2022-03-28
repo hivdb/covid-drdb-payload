@@ -27,62 +27,59 @@ Planas21,CP25,infection,<,2020-08-27,France,B.1 full genome,NULL,Mild
 Planas21,CP26,infection,<,2020-08-27,France,B.1 full genome,NULL,Mild
 Planas21,CP27,infection,<,2020-08-27,France,B.1 full genome,NULL,Mild
 Planas21,CP28,infection,<,2020-08-27,France,B.1 full genome,NULL,Severe
-Planas21,CP01,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP02,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP03,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP04,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP05,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP06,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP07,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP08,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP09,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP10,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP11,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP12,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP13,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP14,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP15,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP16,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP17,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP18,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP19,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP20,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP21,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP22,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP23,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP24,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP25,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP26,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP27,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP28,isolation,~,2020-11-27,France,B.1 full genome,NULL,NULL
-Planas21,CP01,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP02,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP03,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP04,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP05,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP06,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP07,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP08,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP09,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP10,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP11,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP12,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP13,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP14,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP15,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP16,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP17,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP18,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP19,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP20,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP21,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP22,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP23,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP24,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP25,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP26,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP27,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
-Planas21,CP28,isolation,~,2021-02-27,France,B.1 full genome,NULL,NULL
+Planas21,CP01,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP02,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP03,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP04,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP05,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP06,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP07,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP08,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP09,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP10,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP11,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP12,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP13,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP14,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP15,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP16,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP17,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP18,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP19,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP20,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP21,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP22,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP23,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP24,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP25,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP26,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP27,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP28,isolation,~,2020-11-27,France,NULL,NULL,NULL
+Planas21,CP01,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP02,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP03,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP04,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP05,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP07,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP08,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP09,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP10,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP11,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP12,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP13,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP14,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP15,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP17,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP18,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP19,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP20,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP21,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP22,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP24,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP25,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP26,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP27,isolation,~,2021-02-27,France,NULL,NULL,NULL
+Planas21,CP28,isolation,~,2021-02-27,France,NULL,NULL,NULL
 Planas21,CP31,infection,<,2020-04-17,France,B.1 full genome,NULL,Mild
 Planas21,CP56,infection,<,2020-04-17,France,B.1 full genome,NULL,Mild
 Planas21,CP33,infection,<,2020-04-17,France,B.1 full genome,NULL,Mild
@@ -113,36 +110,36 @@ Planas21,CP35,infection,<,2020-04-17,France,B.1 full genome,NULL,Mild
 Planas21,CP51,infection,<,2020-04-17,France,B.1 full genome,NULL,Mild
 Planas21,CP42,infection,<,2020-04-17,France,B.1 full genome,NULL,Mild
 Planas21,CP52,infection,<,2020-04-17,France,B.1 full genome,NULL,Mild
-Planas21,CP31,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP56,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP33,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP40,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP29,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP49,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP50,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP46,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP57,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP47,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP58,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP53,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP30,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP54,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP55,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP45,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP32,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP44,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP38,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP41,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP34,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP36,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP37,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP48,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP39,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP43,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP35,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP51,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP42,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
-Planas21,CP52,isolation,~,2021-01-17,France,B.1 full genome,NULL,NULL
+Planas21,CP31,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP56,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP33,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP40,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP29,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP49,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP50,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP46,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP57,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP47,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP58,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP53,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP30,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP54,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP55,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP45,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP32,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP44,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP38,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP41,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP34,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP36,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP37,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP48,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP39,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP43,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP35,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP51,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP42,isolation,~,2021-01-17,France,NULL,NULL,NULL
+Planas21,CP52,isolation,~,2021-01-17,France,NULL,NULL,NULL
 Planas21,BNT01,1st dose,~,2021-01-13,France,NULL,BNT162b2,NULL
 Planas21,BNT02,1st dose,~,2021-01-13,France,NULL,BNT162b2,NULL
 Planas21,BNT03,1st dose,~,2021-01-13,France,NULL,BNT162b2,NULL
@@ -172,7 +169,6 @@ Planas21,BNT10,1st dose isolation,~,2021-01-20,France,NULL,NULL,NULL
 Planas21,BNT11,1st dose isolation,~,2021-01-20,France,NULL,NULL,NULL
 Planas21,BNT12,1st dose isolation,~,2021-01-20,France,NULL,NULL,NULL
 Planas21,BNT13,1st dose isolation,~,2021-01-20,France,NULL,NULL,NULL
-Planas21,BNT14,1st dose isolation,~,2021-01-20,France,NULL,NULL,NULL
 Planas21,BNT15,1st dose isolation,~,2021-01-20,France,NULL,NULL,NULL
 Planas21,BNT16,1st dose isolation,~,2021-01-20,France,NULL,NULL,NULL
 Planas21,BNT01,1st dose isolation,~,2021-01-27,France,NULL,NULL,NULL
@@ -209,7 +205,6 @@ Planas21,BNT15,2nd dose,~,2021-01-27,France,NULL,BNT162b2,NULL
 Planas21,BNT16,2nd dose,~,2021-01-27,France,NULL,BNT162b2,NULL
 Planas21,BNT01,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
 Planas21,BNT02,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
-Planas21,BNT03,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
 Planas21,BNT04,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
 Planas21,BNT05,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
 Planas21,BNT06,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
@@ -218,11 +213,6 @@ Planas21,BNT08,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
 Planas21,BNT09,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
 Planas21,BNT10,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
 Planas21,BNT11,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
-Planas21,BNT12,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
-Planas21,BNT13,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
-Planas21,BNT14,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
-Planas21,BNT15,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
-Planas21,BNT16,2nd dose isolation,~,2021-02-03,France,NULL,NULL,NULL
 Planas21,BNT01,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT02,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT03,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
@@ -232,11 +222,8 @@ Planas21,BNT06,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT07,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT08,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT09,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
-Planas21,BNT10,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT11,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT12,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
-Planas21,BNT13,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
-Planas21,BNT14,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT15,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT16,2nd dose isolation,~,2021-02-10,France,NULL,NULL,NULL
 Planas21,BNT01,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
@@ -250,8 +237,5 @@ Planas21,BNT08,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
 Planas21,BNT09,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
 Planas21,BNT10,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
 Planas21,BNT11,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
-Planas21,BNT12,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
-Planas21,BNT13,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
-Planas21,BNT14,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
 Planas21,BNT15,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL
 Planas21,BNT16,2nd dose isolation,~,2021-02-17,France,NULL,NULL,NULL

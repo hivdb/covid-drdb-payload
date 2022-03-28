@@ -1,0 +1,18 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Cameroni21,mRNA-1273_2a,~,2021-01-01,mRNA-1273,1,USA,NULL
+Cameroni21,mRNA-1273_2a,~,2021-01-21,mRNA-1273,2,USA,NULL
+Cameroni21,BNT162b2_2a,~,2021-01-01,BNT162b2,1,USA,NULL
+Cameroni21,BNT162b2_2a,~,2021-01-21,BNT162b2,2,USA,NULL
+Cameroni21,AZD1222,~,2021-01-01,AZD1222,1,Italy,NULL
+Cameroni21,AZD1222,~,2021-01-21,AZD1222,2,Italy,NULL
+Cameroni21,Ad26.COV2.S,~,2021-01-01,Ad26.COV2.S,1,USA,NULL
+Cameroni21,Sputnik_V,~,2021-01-01,Sputnik V,1,Argentina,NULL
+Cameroni21,Sputnik_V,~,2021-01-21,Sputnik V,2,Argentina,NULL
+Cameroni21,BBIBP-CorV,~,2021-01-01,BBIBP-CorV,1,Pakistan,NULL
+Cameroni21,BBIBP-CorV,~,2021-01-21,BBIBP-CorV,2,Pakistan,NULL
+Cameroni21,CP_BNT,~,2021-01-01,BNT162b2,1,Switzerland,NULL
+Cameroni21,CP_BNT,~,2021-01-21,BNT162b2,2,Switzerland,NULL
+Cameroni21,BNT_2b,~,2021-01-01,BNT162b2,1,Switzerland,NULL
+Cameroni21,BNT_2b,~,2021-01-21,BNT162b2,2,Switzerland,NULL
+Cameroni21,mRNA-1273_2b,~,2021-01-01,mRNA-1273,1,USA,NULL
+Cameroni21,mRNA-1273_2b,~,2021-01-21,mRNA-1273,2,USA,NULL

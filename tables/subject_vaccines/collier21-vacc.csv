@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Collier21,Vaccinee_TM,~,2020-12-22,BNT162b2,1,UK,NULL
+Collier21,BNT162b2_1ds,~,2020-12-22,BNT162b2,1,UK,NULL
+Collier21,BNT162b2_2ds,~,2020-12-22,BNT162b2,1,UK,NULL
+Collier21,BNT162b2_2ds,~,2021-01-05,BNT162b2,2,UK,NULL

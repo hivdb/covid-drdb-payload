@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Hammerschmidt21,AZD,~,2021-02-16,AZD1222,1,Germany,NULL
+Hammerschmidt21,AZD,~,2021-05-02,AZD1222,2,Germany,NULL
+Hammerschmidt21,AZD_BNT,~,2021-02-16,AZD1222,1,Germany,NULL
+Hammerschmidt21,AZD_BNT,~,2021-05-02,BNT162b2,2,Germany,NULL
+Hammerschmidt21,BNT,~,2021-01-06,BNT162b2,1,Germany,NULL
+Hammerschmidt21,BNT,~,2021-01-27,BNT162b2,2,Germany,NULL

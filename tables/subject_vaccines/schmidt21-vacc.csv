@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Schmidt21,Vac14-panel,~,2020-11-01,BNT162b2,1,USA,NULL
+Schmidt21,Vac14-panel,~,2020-11-22,BNT162b2,2,USA,NULL
+Schmidt21,ITV15-panel,~,2020-12-30,BNT162b2,1,USA,NULL
+Schmidt21,ITV15-panel,~,2021-01-20,BNT162b2,2,USA,NULL

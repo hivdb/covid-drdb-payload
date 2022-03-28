@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Dejnirattisai21b,AZD1222_2dose,~,2021-05-01,AZD1222,1,UK,NULL
+Dejnirattisai21b,AZD1222_2dose,~,2021-05-30,AZD1222,2,UK,NULL
+Dejnirattisai21b,BNT_2dose,~,2021-05-09,BNT162b2,1,UK,NULL
+Dejnirattisai21b,BNT_2dose,~,2021-05-30,BNT162b2,2,UK,NULL

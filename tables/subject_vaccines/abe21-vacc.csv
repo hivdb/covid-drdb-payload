@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Abe21,Resident_Moderna,~,2021-01-01,mRNA-1273,1,Canada,NULL
+Abe21,Resident_Moderna,~,2021-01-29,mRNA-1273,2,Canada,NULL
+Abe21,Resident_Pfizer,~,2021-01-01,BNT162b2,1,Canada,NULL
+Abe21,Resident_Pfizer,~,2021-01-29,BNT162b2,2,Canada,NULL
+Abe21,Staff_Moderna,~,2021-01-01,mRNA-1273,1,Canada,NULL
+Abe21,Staff_Moderna,~,2021-01-29,mRNA-1273,2,Canada,NULL
+Abe21,Staff_Pfizer,~,2021-01-01,BNT162b2,1,Canada,NULL
+Abe21,Staff_Pfizer,~,2021-01-29,BNT162b2,2,Canada,NULL

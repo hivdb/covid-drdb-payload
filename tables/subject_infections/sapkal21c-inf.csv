@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Sapkal21c,AZD_infect_1st,<,2020-12-31,B.1,India,NULL
+Sapkal21c,AZD_infect_2nd,<,2020-12-31,B.1,India,NULL
+Sapkal21c,AZD_Breakthrough,~,2021-05-01,Delta,India,NULL

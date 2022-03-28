@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,start_date_cmp,start_date,end_date_cmp,end_date,severity,section
+Rondinone21,CP_01,=,2020-03-10,=,2020-10-08,Mild,NULL
+Rondinone21,CP_02,=,2020-03-12,=,2020-10-08,Mild,NULL
+Rondinone21,CP_03,=,2020-03-21,=,2020-09-17,Asymptomatic,NULL
+Rondinone21,CP_04,=,2020-04-04,=,2020-09-17,Mild,NULL
+Rondinone21,CP_05,=,2020-10-08,=,2020-11-02,Mild,NULL
+Rondinone21,CP_06,=,2020-10-26,=,2020-12-07,Mild,NULL
+Rondinone21,CP_07,=,2020-10-27,=,2020-12-23,Severe,NULL
+Rondinone21,CP_08,=,2020-10-31,=,2020-12-21,Mild,NULL
+Rondinone21,CP_09,=,2020-10-31,=,2020-12-17,Mild,NULL
+Rondinone21,CP_10,=,2020-11-17,=,2020-12-23,Mild,NULL
+Rondinone21,CP_11,=,2020-11-21,=,2020-12-23,Mild,NULL
+Rondinone21,CP_12,=,2020-11-26,=,2020-12-23,Mild,NULL

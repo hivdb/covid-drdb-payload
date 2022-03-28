@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Zeng21,CP,CP_ICU,~,2020-09-01,USA,CP,NULL
+Zeng21,CP,CP_non_ICU,~,2020-09-01,USA,CP,NULL
+Zeng21,mRNA,mRNA,~,2021-03-01,USA,mRNA,NULL
+Zeng21,mRNA,mRNA_2a,~,2021-03-01,USA,mRNA,NULL

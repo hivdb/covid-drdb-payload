@@ -1,5 +1,6 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Stanevich21,Patient S,infection,=,2020-04-19,Russia,FFPE Patient A,NULL,Severe
+Stanevich21,Patient S,isolation,~,2020-04-19,Russia,FFPE Patient A,NULL,NULL
 Stanevich21,Patient S,isolation,=,2020-08-17,Russia,hCoV-19/Russia/SPE-RII-30579S/2020,NULL,NULL
 Stanevich21,Patient S,isolation,=,2020-08-19,Russia,hCoV-19/Russia/SPE-RII-30769S/2020,NULL,NULL
 Stanevich21,Patient S,isolation,=,2021-01-11,Russia,hCoV-19/Russia/SPE-RII-22612-1S/2021,NULL,NULL

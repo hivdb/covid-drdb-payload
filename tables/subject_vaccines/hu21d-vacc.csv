@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Hu21d,ZF2001_3dose,~,2021-01-01,ZF2001,1,China,NULL
+Hu21d,ZF2001_3dose,~,2021-02-01,ZF2001,2,China,NULL
+Hu21d,ZF2001_3dose,~,2021-07-01,ZF2001,3,China,NULL

@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Planas21b,VP_Strasbourg,~,2021-02-01,BNT162b2,1,France,NULL
+Planas21b,BNT,~,2020-11-18,BNT162b2,1,France,NULL
+Planas21b,BNT,~,2020-12-09,BNT162b2,2,France,NULL
+Planas21b,AZD,~,2020-12-01,AZD1222,1,France,NULL
+Planas21b,AZD,~,2020-02-23,AZD1222,2,France,NULL

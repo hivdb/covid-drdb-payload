@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Yadav21d,BBV152,~,2021-03-11,BBV152,2,India,NULL
+Yadav21d,BBV152_recovered,~,2020-10-08,BBV152,2,India,NULL
+Yadav21d,BBV152_breakthrough,~,2021-04-29,BBV152,2,India,NULL

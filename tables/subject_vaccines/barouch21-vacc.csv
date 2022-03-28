@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Barouch21,Ad26_1dose,~,2020-09-01,Ad26.COV2.S,1,USA,NULL
+Barouch21,Ad26_2dose,~,2020-09-01,Ad26.COV2.S,1,USA,NULL
+Barouch21,Ad26_2dose,~,2020-10-27,Ad26.COV2.S,2,USA,NULL

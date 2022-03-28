@@ -1,9 +1,9 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Leier21,infected,infection,~,2020-11-10,USA,B.1 full genome,NULL,NULL
-Leier21,infected,isolation,~,2021-01-01,USA,B.1 full genome,NULL,NULL
-Leier21,infected,1st dose,~,2021-01-01,USA,B.1 full genome,BNT162b2,NULL
-Leier21,infected,2nd dose,~,2021-01-23,USA,B.1 full genome,BNT162b2,NULL
-Leier21,infected,2nd dose isolation,~,2021-02-09,USA,B.1 full genome,NULL,NULL
+Leier21,infected,isolation,~,2021-01-01,USA,NULL,NULL,NULL
+Leier21,infected,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
+Leier21,infected,2nd dose,~,2021-01-23,USA,NULL,BNT162b2,NULL
+Leier21,infected,2nd dose isolation,~,2021-02-09,USA,NULL,NULL,NULL
 Leier21,uninfected,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
 Leier21,uninfected,2nd dose,~,2021-01-22,USA,NULL,BNT162b2,NULL
 Leier21,uninfected,2nd dose isolation,~,2021-02-09,USA,NULL,NULL,NULL

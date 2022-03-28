@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Carreno21b,CP,~,2020-06-01,B.1,USA,NULL
+Carreno21b,CP_BNT_2dose,~,2020-06-01,B.1,USA,NULL
+Carreno21b,CP_mRNA_2dose,~,2020-06-01,B.1,USA,NULL
+Carreno21b,CP_BNT_3dose,~,2020-06-01,B.1,USA,NULL

@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Doria-Rose21,mRNA_2dose,~,2021-01-01,mRNA-1273,1,USA,NULL
+Doria-Rose21,mRNA_2dose,~,2021-01-21,mRNA-1273,2,USA,NULL
+Doria-Rose21,mRNA_VRC_3dose,~,2021-01-01,mRNA-1273,1,USA,NULL
+Doria-Rose21,mRNA_VRC_3dose,~,2021-01-21,mRNA-1273,2,USA,NULL
+Doria-Rose21,mRNA_VRC_3dose,~,2021-10-18,mRNA-1273,3,USA,NULL
+Doria-Rose21,mRNA_Duke_3dose,~,2021-01-01,mRNA-1273,1,USA,NULL
+Doria-Rose21,mRNA_Duke_3dose,~,2021-01-21,mRNA-1273,2,USA,NULL
+Doria-Rose21,mRNA_Duke_3dose,~,2021-05-21,mRNA-1273,3,USA,NULL

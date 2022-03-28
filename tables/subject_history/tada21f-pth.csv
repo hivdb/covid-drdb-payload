@@ -1,6 +1,6 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Tada21f,CP,infection,~,2021-01-01,USA,Unknown variant,NULL,NULL
-Tada21f,CP,isolation,~,2021-02-02,USA,Unknown variant,NULL,NULL
+Tada21f,CP,isolation,~,2021-02-02,USA,NULL,NULL,NULL
 Tada21f,BNT162b2_1,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
 Tada21f,BNT162b2_2,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL
 Tada21f,BNT162b2_3,1st dose,~,2021-01-01,USA,NULL,BNT162b2,NULL

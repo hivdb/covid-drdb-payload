@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Lapa22,BNT162b2,~,2021-01-01,BNT162b2,1,Italy+Russia,NULL
+Lapa22,BNT162b2,~,2021-02-01,BNT162b2,2,Italy+Russia,NULL
+Lapa22,Sputnik_V,~,2021-01-01,Sputnik V,1,Italy+Russia,NULL
+Lapa22,Sputnik_V,~,2021-02-01,Sputnik V,2,Italy+Russia,NULL
+Lapa22,Sputnik_V_with_infection,~,2021-04-01,Sputnik V,1,Italy+Russia,NULL
+Lapa22,Sputnik_V_with_infection,~,2021-05-01,Sputnik V,2,Italy+Russia,NULL

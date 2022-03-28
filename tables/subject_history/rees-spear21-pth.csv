@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Rees-Spear21,CP_Mild,infection,<,2020-06-30,UK,B.1 full genome,NULL,Mild
-Rees-Spear21,CP_Mild,isolation,<,2020-06-30,UK,B.1 full genome,NULL,NULL
+Rees-Spear21,CP_Mild,isolation,<,2020-06-30,UK,NULL,NULL,NULL
 Rees-Spear21,CP_Severe,infection,<,2020-06-30,UK,B.1 full genome,NULL,Hospitalized
-Rees-Spear21,CP_Severe,isolation,<,2020-06-30,UK,B.1 full genome,NULL,NULL
+Rees-Spear21,CP_Severe,isolation,<,2020-06-30,UK,NULL,NULL,NULL

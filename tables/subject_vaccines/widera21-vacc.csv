@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Widera21,BNT162b2,<,2021-02-01,BNT162b2,2,Germany,NULL
+Widera21,mRNA-1273,<,2021-02-01,mRNA-1273,2,Germany,NULL
+Widera21,BNT162b2_infected,<,2021-02-01,BNT162b2,2,Germany,NULL

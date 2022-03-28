@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Leier21,infected,~,2021-01-01,BNT162b2,1,USA,NULL
+Leier21,infected,~,2021-01-23,BNT162b2,2,USA,NULL
+Leier21,uninfected,~,2021-01-01,BNT162b2,1,USA,NULL
+Leier21,uninfected,~,2021-01-22,BNT162b2,2,USA,NULL

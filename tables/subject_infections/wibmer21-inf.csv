@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Wibmer21,CP_mild,<,2020-09-02,B.1,South Africa,NULL
+Wibmer21,CP_severe,<,2020-09-02,B.1,South Africa,NULL
+Wibmer21,CP_hospitalized,<,2020-09-02,B.1,South Africa,NULL

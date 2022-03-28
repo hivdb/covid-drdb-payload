@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Kumar21,MOD_3dose_1M,~,2021-07-04,mRNA-1273,1,Canada,NULL
+Kumar21,MOD_3dose_1M,~,2021-08-03,mRNA-1273,2,Canada,NULL
+Kumar21,MOD_3dose_1M,~,2021-10-02,mRNA-1273,3,Canada,NULL

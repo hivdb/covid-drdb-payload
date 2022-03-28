@@ -1,0 +1,41 @@
+﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
+Copin21,Hospitalized placebo patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
+Copin21,Hospitalized low dose patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
+Copin21,Hospitalized high dose patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized placebo patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized low dose patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized high dose patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
+Copin21,Hospitalized placebo patients,<,2021-03-01,Hospitalized placebo samples,NULL,NULL,USA,NULL
+Copin21,Hospitalized low dose patients,<,2021-03-01,Hospitalized low dose samples,NULL,NULL,USA,NULL
+Copin21,Hospitalized high dose patients,<,2021-03-01,Hospitalized high dose samples,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized placebo patients,<,2021-03-01,Non-hospitalized placebo samples,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized low dose patients,<,2021-03-01,Non-hospitalized low dose samples,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized high dose patients,<,2021-03-01,Non-hospitalized high dose samples,NULL,NULL,USA,NULL
+Copin21,Placebo prevention hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGEN-COV prevention low dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGN10933 prevention low dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGN10987 prevention low dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGEN-COV prevention high dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGN10933 prevention high dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGN10987 prevention high dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,Placebo prevention hamsters,<,2021-01-01,Placebo prevention hamster samples,NULL,NULL,USA,NULL
+Copin21,REGEN-COV prevention low dose hamsters,<,2021-01-01,REGEN-COV prevention low dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGN10933 prevention low dose hamsters,<,2021-01-01,REGN10933 prevention low dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGN10987 prevention low dose hamsters,<,2021-01-01,REGN10987 prevention low dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGEN-COV prevention high dose hamsters,<,2021-01-01,REGEN-COV prevention high dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGN10933 prevention high dose hamsters,<,2021-01-01,REGN10933 prevention high dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGN10987 prevention high dose hamsters,<,2021-01-01,REGN10987 prevention high dose hamster samples,NULL,NULL,USA,NULL
+Copin21,Placebo treatment hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGEN-COV treatment low dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGN10933 treatment low dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGN10987 treatment low dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGEN-COV treatment high dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGN10933 treatment high dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,REGN10987 treatment high dose hamsters,<,2020-12-25,WA1,NULL,NULL,USA,NULL
+Copin21,Placebo treatment hamsters,<,2021-01-01,Placebo treatment hamster samples,NULL,NULL,USA,NULL
+Copin21,REGEN-COV treatment low dose hamsters,<,2021-01-01,REGEN-COV treatment low dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGN10933 treatment low dose hamsters,<,2021-01-01,REGN10933 treatment low dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGN10987 treatment low dose hamsters,<,2021-01-01,REGN10987 treatment low dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGEN-COV treatment high dose hamsters,<,2021-01-01,REGEN-COV treatment high dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGN10933 treatment high dose hamsters,<,2021-01-01,REGN10933 treatment high dose hamster samples,NULL,NULL,USA,NULL
+Copin21,REGN10987 treatment high dose hamsters,<,2021-01-01,REGN10987 treatment high dose hamster samples,NULL,NULL,USA,NULL

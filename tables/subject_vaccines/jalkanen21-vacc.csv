@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Jalkanen21,VAC_naive,~,2020-12-28,BNT162b2,1,Finland,NULL
+Jalkanen21,VAC_naive,~,2021-01-18,BNT162b2,2,Finland,NULL
+Jalkanen21,VAC_recovered,~,2020-12-28,BNT162b2,1,Finland,NULL
+Jalkanen21,VAC_recovered,~,2021-01-18,BNT162b2,2,Finland,NULL

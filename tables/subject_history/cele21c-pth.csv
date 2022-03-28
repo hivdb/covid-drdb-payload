@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Cele21c,BNT_1,1st dose,~,2021-06-22,South Africa,B.1 full genome,BNT162b2,NULL
+Cele21c,BNT_1,1st dose,~,2021-06-22,South Africa,NULL,BNT162b2,NULL
 Cele21c,BNT_2,1st dose,~,2021-06-22,South Africa,NULL,BNT162b2,NULL
 Cele21c,BNT_3,1st dose,~,2021-05-18,South Africa,NULL,BNT162b2,NULL
 Cele21c,BNT_4,1st dose,~,2021-06-18,South Africa,NULL,BNT162b2,NULL
@@ -31,7 +31,7 @@ Cele21c,BNT_Ancestral_inf_5,infection,~,2020-07-01,South Africa,B.1 full genome,
 Cele21c,BNT_Ancestral_inf_6,infection,~,2020-07-01,South Africa,B.1 full genome,NULL,NULL
 Cele21c,BNT_Ancestral_inf_7,infection,~,2020-08-01,South Africa,B.1 full genome,NULL,NULL
 Cele21c,BNT_Ancestral_inf_8,infection,~,2020-09-01,South Africa,B.1 full genome,NULL,NULL
-Cele21c,BNT_Delta_inf_1,infection,~,2020-06-01,South Africa,B.1 full genome,NULL,NULL
+Cele21c,BNT_Delta_inf_1,infection,~,2020-06-01,South Africa,B.1.617.2 full genome,NULL,NULL
 Cele21c,BNT_Delta_inf_1,infection,~,2021-06-02,South Africa,B.1.617.2 full genome,NULL,NULL
 Cele21c,BNT_Delta_inf_2,infection,~,2021-07-01,South Africa,B.1.617.2 full genome,NULL,NULL
 Cele21c,BNT_Delta_inf_3,infection,~,2021-07-01,South Africa,B.1.617.2 full genome,NULL,NULL

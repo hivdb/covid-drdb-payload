@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Zou21,CP_Mouse,~,2020-09-01,BNT162b2,1,USA,NULL
+Zou21,CP_Mouse,~,2020-09-21,BNT162b2,2,USA,NULL
+Zou21,CP,~,2020-11-01,BNT162b2,1,USA,NULL
+Zou21,CP,~,2020-11-21,BNT162b2,2,USA,NULL
+Zou21,CP_Macaque_d28,~,2020-09-01,BNT162b2,1,USA,NULL
+Zou21,CP_Macaque_d28,~,2020-09-21,BNT162b2,2,USA,NULL
+Zou21,CP_Macaque_d35,~,2020-09-01,BNT162b2,1,USA,NULL
+Zou21,CP_Macaque_d35,~,2020-09-21,BNT162b2,2,USA,NULL

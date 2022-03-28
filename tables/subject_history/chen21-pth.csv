@@ -28,35 +28,35 @@ Chen21,CP_26,infection,~,2020-02-18,USA Missouri,B.1 full genome,NULL,Mild
 Chen21,CP_27,infection,~,2020-02-18,USA Missouri,B.1 full genome,NULL,Mild
 Chen21,CP_28,infection,~,2020-02-18,USA Missouri,B.1 full genome,NULL,Mild
 Chen21,CP_29,infection,~,2020-02-18,USA Missouri,B.1 full genome,NULL,Mild
-Chen21,CP_1,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_2,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_3,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_4,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_5,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_6,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_7,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_8,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_9,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_10,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_11,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_12,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_13,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_14,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_15,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_16,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_17,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_18,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_19,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_20,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_21,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_22,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_23,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_24,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_25,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_26,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_27,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_28,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
-Chen21,CP_29,isolation,~,2020-03-18,USA Missouri,B.1 full genome,NULL,NULL
+Chen21,CP_1,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_2,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_3,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_4,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_5,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_6,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_7,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_8,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_9,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_10,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_11,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_12,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_13,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_14,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_15,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_16,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_17,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_18,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_19,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_20,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_21,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_22,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_23,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_24,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_25,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_26,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_27,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_28,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
+Chen21,CP_29,isolation,~,2020-03-18,USA Missouri,NULL,NULL,NULL
 Chen21,BNT162b2_1,2nd dose,~,2020-12-15,USA,NULL,BNT162b2,NULL
 Chen21,BNT162b2_2,2nd dose,~,2020-12-15,USA,NULL,BNT162b2,NULL
 Chen21,BNT162b2_3,2nd dose,~,2020-12-15,USA,NULL,BNT162b2,NULL

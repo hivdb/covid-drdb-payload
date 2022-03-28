@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Yu21c,BBIBP_3dose,~,2021-01-01,BBIBP-CorV,1,China,NULL
+Yu21c,BBIBP_3dose,~,2021-01-28,BBIBP-CorV,2,China,NULL
+Yu21c,BBIBP_3dose,~,2021-09-28,BBIBP-CorV,3,China,NULL

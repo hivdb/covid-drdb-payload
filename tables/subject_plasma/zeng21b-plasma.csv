@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Zeng21b,BNT162b2_2dose,BNT162b2_2dose,~,2021-02-18,USA,BNT162b2_2dose,NULL
+Zeng21b,Moderna_2dose,Moderna_2dose,~,2021-02-18,USA,Moderna_2dose,NULL
+Zeng21b,Moderna_3dose,Moderna_3dose,~,2021-11-25,USA,Moderna_3dose,NULL
+Zeng21b,BNT162b2_3dose,BNT162b2_3dose,~,2021-11-25,USA,BNT162b2_3dose,NULL
+Zeng21b,first_wave_ICU,first_wave_ICU,~,2020-09-04,USA,first_wave_ICU,NULL
+Zeng21b,first_wave_Hospitalized,first_wave_Hospitalized,~,2020-09-04,USA,first_wave_Hospitalized,NULL
+Zeng21b,Delta_wave_unvaccinated,Delta_wave_unvaccinated,~,2021-06-04,USA,Delta_wave_unvaccinated,NULL
+Zeng21b,Delta_wave_vaccinated,Delta_wave_vaccinated,~,2021-06-04,USA,Delta_wave_vaccinated,NULL

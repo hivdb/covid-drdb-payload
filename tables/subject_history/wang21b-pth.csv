@@ -1,6 +1,6 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Wang21b,CP,infection,~,2020-04-01,USA,B.1 full genome,NULL,NULL
-Wang21b,CP,isolation,~,2020-05-01,USA,B.1 full genome,NULL,NULL
+Wang21b,CP,isolation,~,2020-05-01,USA,NULL,NULL,NULL
 Wang21b,Mod,1st dose,~,2020-04-05,USA,NULL,mRNA-1273,NULL
 Wang21b,Mod,2nd dose,~,2020-05-03,USA,NULL,mRNA-1273,NULL
 Wang21b,Mod,2nd dose isolation,~,2020-05-18,USA,NULL,NULL,NULL

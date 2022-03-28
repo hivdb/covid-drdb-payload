@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+Turner21,BNT_uninfected,~,2020-12-21,BNT162b2,1,USA,NULL
+Turner21,BNT_uninfected,~,2021-01-11,BNT162b2,2,USA,NULL
+Turner21,BNT_infected,~,2020-12-21,BNT162b2,1,USA,NULL
+Turner21,BNT_infected,~,2021-01-11,BNT162b2,2,USA,NULL
