@@ -1,6 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Bates21,CP,infection,<,2020-07-01,USA Oregon,WA1,NULL,NULL
-Bates21,CP,isolation,<,2020-12-31,USA Oregon,NULL,NULL,NULL
-Bates21,BNT162b2,1st dose,~,2021-02-01,USA Oregon,NULL,BNT162b2,NULL
-Bates21,BNT162b2,2nd dose,~,2021-02-21,USA Oregon,NULL,BNT162b2,NULL
-Bates21,BNT162b2,2nd dose isolation,~,2021-03-07,USA Oregon,NULL,NULL,NULL

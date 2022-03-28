@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Behrens21,AZD1222,1st dose,~,2021-02-16,Germany,NULL,AZD1222,NULL
-Behrens21,AZD1222,2nd dose,~,2021-05-03,Germany,NULL,AZD1222,NULL
-Behrens21,AZD1222,2nd dose isolation,~,2021-05-18,Germany,NULL,NULL,NULL
-Behrens21,AZD1222_BNT,1st dose,~,2021-02-16,Germany,NULL,AZD1222,NULL
-Behrens21,AZD1222_BNT,2nd dose,~,2021-05-03,Germany,NULL,BNT162b2,NULL
-Behrens21,AZD1222_BNT,2nd dose isolation,~,2021-05-18,Germany,NULL,NULL,NULL

@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Chen22b,vaccine_recipient,1st dose,~,2021-01-01,China,NULL,BNT162b2,NULL
-Chen22b,vaccine_recipient,2nd dose,~,2021-02-01,China,NULL,BNT162b2,NULL
-Chen22b,vaccine_recipient,2nd dose isolation,~,2021-02-05,China,NULL,NULL,NULL
-Chen22b,vaccine_recipient,2nd dose isolation,~,2021-03-17,China,NULL,NULL,NULL
-Chen22b,recovered_patient,infection,~,2021-01-01,China,B.1.36.27 full genome,NULL,NULL
-Chen22b,recovered_patient,isolation,~,2021-02-14,China,NULL,NULL,NULL

@@ -1,8 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Goel21b,mRNA,1st dose,~,2021-01-01,USA,NULL,mRNA,NULL
-Goel21b,mRNA,2nd dose,~,2021-02-01,USA,NULL,mRNA,NULL
-Goel21b,mRNA,2nd dose isolation,~,2021-08-01,USA,NULL,NULL,NULL
-Goel21b,mRNA_recovered,infection,~,2020-09-21,USA,B.1 full genome,NULL,NULL
-Goel21b,mRNA_recovered,1st dose,~,2021-01-01,USA,NULL,mRNA,NULL
-Goel21b,mRNA_recovered,2nd dose,~,2021-02-01,USA,NULL,mRNA,NULL
-Goel21b,mRNA_recovered,2nd dose isolation,~,2021-08-01,USA,NULL,NULL,NULL

@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Dejnirattisai21b,AZD1222_2dose,1st dose,~,2021-05-01,UK,NULL,AZD1222,NULL
-Dejnirattisai21b,AZD1222_2dose,2nd dose,~,2021-05-30,UK,NULL,AZD1222,NULL
-Dejnirattisai21b,AZD1222_2dose,2nd dose isolation,~,2021-06-28,UK,NULL,NULL,NULL
-Dejnirattisai21b,BNT_2dose,1st dose,~,2021-05-09,UK,NULL,BNT162b2,NULL
-Dejnirattisai21b,BNT_2dose,2nd dose,~,2021-05-30,UK,NULL,BNT162b2,NULL
-Dejnirattisai21b,BNT_2dose,2nd dose isolation,~,2021-06-28,UK,NULL,NULL,NULL

@@ -1,8 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Vacharathit21,CoronaVac,1st dose,~,2021-01-01,Thailand,NULL,CoronaVac,NULL
-Vacharathit21,CoronaVac,2nd dose,~,2021-01-29,Thailand,NULL,CoronaVac,NULL
-Vacharathit21,CoronaVac,2nd dose isolation,~,2021-02-13,Thailand,NULL,NULL,NULL
-Vacharathit21,CP_2020,infection,~,2020-03-01,Thailand,Unknown variant,NULL,Hospitalized
-Vacharathit21,CP_2020,isolation,~,2020-03-19,Thailand,NULL,NULL,NULL
-Vacharathit21,CP_2021,infection,~,2021-04-01,Thailand,Unknown variant,NULL,Hospitalized
-Vacharathit21,CP_2021,isolation,~,2021-04-19,Thailand,NULL,NULL,NULL

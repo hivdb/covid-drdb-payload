@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Guigon21,Patient,infection,<,2021-04-28,France,hCoV-19/France/HDF-P316-21175C3908/2021,NULL,Hospitalized
-Guigon21,Patient,isolation,=,2021-04-30,France,hCoV-19/France/HDF-P316-21175C3908/2021,NULL,NULL
-Guigon21,Patient,isolation,=,2021-05-06,France,hCoV-19/France/HDF-P044-21184C4765/2021,NULL,NULL
-Guigon21,Patient,isolation,=,2021-05-14,France,hCoV-19/France/HDF-P123-21195C4883/2021,NULL,NULL
-Guigon21,Patient,isolation,=,2021-05-20,France,hCoV-19/France/HDF-P241-21204C2790/2021,NULL,NULL
-Guigon21,Patient,isolation,=,2021-06-10,France,hCoV-19/France/HDF-P088-21234C6239/2021,NULL,NULL

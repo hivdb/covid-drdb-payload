@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Cele21,CP,infection,~,2020-06-15,South Africa,B.1.1.117 full genome,NULL,Hospitalized
-Cele21,CP,isolation,~,2020-07-15,South Africa,NULL,NULL,NULL
-Cele21,CP_B.1.351,infection,~,2020-12-31,South Africa,B.1.351 full genome,NULL,Hospitalized
-Cele21,CP_B.1.351,isolation,~,2021-01-31,South Africa,NULL,NULL,NULL
-Cele21,CP_B.1.1.117+S:484K,infection,~,2020-06-15,South Africa,hCoV-19/South Africa/KRISP-K004306/2020,NULL,Hospitalized
-Cele21,CP_B.1.1.117+S:484K,isolation,~,2020-07-15,South Africa,NULL,NULL,NULL

@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Gross21,ChAdOx1_BNT162b2,1st dose,~,2021-02-17,Germany,NULL,AZD1222,NULL
-Gross21,ChAdOx1_BNT162b2,2nd dose,~,2021-04-15,Germany,NULL,BNT162b2,NULL
-Gross21,ChAdOx1_BNT162b2,2nd dose isolation,~,2021-04-30,Germany,NULL,NULL,NULL
-Gross21,BNT162b2_2x,1st dose,~,2021-02-17,Germany,NULL,BNT162b2,NULL
-Gross21,BNT162b2_2x,2nd dose,~,2021-04-15,Germany,NULL,BNT162b2,NULL
-Gross21,BNT162b2_2x,2nd dose isolation,~,2021-04-30,Germany,NULL,NULL,NULL

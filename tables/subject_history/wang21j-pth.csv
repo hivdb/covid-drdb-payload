@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Wang21j,CP_Mild,infection,~,2020-03-01,Singapore,Wuhan-Hu-1,NULL,Mild
-Wang21j,CP_Mild,isolation,~,2020-04-01,Singapore,NULL,NULL,NULL
-Wang21j,CP_Moderate,infection,~,2020-03-01,Singapore,Wuhan-Hu-1,NULL,Moderate
-Wang21j,CP_Moderate,isolation,~,2020-04-01,Singapore,NULL,NULL,NULL
-Wang21j,CP_Severe,infection,~,2020-03-01,Singapore,Wuhan-Hu-1,NULL,NULL
-Wang21j,CP_Severe,isolation,~,2020-04-01,Singapore,NULL,NULL,NULL

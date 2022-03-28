@@ -1,6 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Tada21,BNT162b2,1st dose,~,2020-11-01,USA NY,NULL,BNT162b2,NULL
-Tada21,BNT162b2,2nd dose,~,2020-11-22,USA NY,NULL,BNT162b2,NULL
-Tada21,BNT162b2,2nd dose isolation,~,2020-11-29,USA NY,NULL,NULL,NULL
-Tada21,CP,infection,<,2020-05-01,USA NY,B.1 full genome,NULL,NULL
-Tada21,CP,isolation,<,2020-05-01,USA NY,NULL,NULL,NULL

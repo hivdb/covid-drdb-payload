@@ -1,9 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Keeton21,VP,1st dose,~,2021-02-17,South Africa,NULL,Ad26.COV2.S,NULL
-Keeton21,VP,1st dose isolation,~,2021-03-19,South Africa,NULL,NULL,NULL
-Keeton21,VP_1st_wave_infected,infection,~,2020-06-30,South Africa,B.1 full genome,NULL,NULL
-Keeton21,VP_1st_wave_infected,1st dose,~,2021-02-17,South Africa,NULL,Ad26.COV2.S,NULL
-Keeton21,VP_1st_wave_infected,1st dose isolation,~,2021-03-18,South Africa,NULL,NULL,NULL
-Keeton21,VP_2nd_wave_infected,infection,~,2020-12-06,South Africa,B.1.351 full genome,NULL,NULL
-Keeton21,VP_2nd_wave_infected,1st dose,~,2021-02-17,South Africa,NULL,Ad26.COV2.S,NULL
-Keeton21,VP_2nd_wave_infected,1st dose isolation,~,2021-03-17,South Africa,NULL,NULL,NULL

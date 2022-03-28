@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Mlcochova21,CP,infection,<,2020-05-31,India,B.1 full genome,NULL,NULL
-Mlcochova21,CP,isolation,~,2020-05-31,India,NULL,NULL,NULL
-Mlcochova21,AZD1222,2nd dose,~,2021-01-01,India,NULL,AZD1222,NULL
-Mlcochova21,AZD1222,2nd dose isolation,~,2021-01-31,India,NULL,NULL,NULL
-Mlcochova21,BNT162b2,2nd dose,~,2021-01-01,India,NULL,BNT162b2,NULL
-Mlcochova21,BNT162b2,2nd dose isolation,~,2021-01-27,India,NULL,NULL,NULL

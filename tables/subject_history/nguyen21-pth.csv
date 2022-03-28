@@ -1,5 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Nguyen21,CP_first_wave,infection,~,2020-11-04,UK,B.1 full genome,NULL,NULL
-Nguyen21,CP_first_wave,isolation,~,2020-12-04,UK,NULL,NULL,NULL
-Nguyen21,CP_second_wave,infection,~,2021-01-24,UK,B.1.1.7 full genome,NULL,NULL
-Nguyen21,CP_second_wave,isolation,~,2021-02-20,UK,NULL,NULL,NULL

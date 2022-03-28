@@ -1,8 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Lucas21,VP_naive,1st dose,~,2020-11-01,USA,NULL,mRNA-1273,NULL
-Lucas21,VP_naive,2nd dose,~,2020-11-29,USA,NULL,mRNA-1273,NULL
-Lucas21,VP_naive,2nd dose isolation,~,2020-12-27,USA,NULL,NULL,NULL
-Lucas21,VP_recoved,infection,<,2020-11-01,USA,B.1 full genome,NULL,NULL
-Lucas21,VP_recoved,1st dose,~,2020-11-01,USA,NULL,mRNA-1273,NULL
-Lucas21,VP_recoved,2nd dose,~,2020-11-29,USA,NULL,mRNA-1273,NULL
-Lucas21,VP_recoved,2nd dose isolation,~,2020-12-27,USA,NULL,NULL,NULL

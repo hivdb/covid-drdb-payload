@@ -1,5 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Wall21b,AZD,1st dose,~,2021-01-01,UK,NULL,AZD1222,NULL
-Wall21b,AZD,1st dose isolation,~,2021-01-22,UK,NULL,NULL,NULL
-Wall21b,AZD,2nd dose,~,2021-03-05,UK,NULL,AZD1222,NULL
-Wall21b,AZD,2nd dose isolation,~,2021-03-26,UK,NULL,NULL,NULL

@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Sahin21,BNT_Fig4d,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
-Sahin21,BNT_Fig4d,2nd dose,~,2021-01-22,Germany,NULL,BNT162b2,NULL
-Sahin21,BNT_Fig4d,2nd dose isolation,~,2021-01-29,Germany,NULL,NULL,NULL
-Sahin21,BNT_Fig1b,1st dose,~,2021-01-01,Germany,NULL,BNT162b2,NULL
-Sahin21,BNT_Fig1b,2nd dose,~,2021-01-22,Germany,NULL,BNT162b2,NULL
-Sahin21,BNT_Fig1b,2nd dose isolation,~,2021-02-13,Germany,NULL,NULL,NULL

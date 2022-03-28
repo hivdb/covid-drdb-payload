@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Hu21d,CP,infection,~,2020-03-01,China,Wuhan-Hu-1,NULL,NULL
-Hu21d,CP,isolation,~,2020-03-31,China,NULL,NULL,NULL
-Hu21d,ZF2001_3dose,1st dose,~,2021-01-01,China,NULL,ZF2001,NULL
-Hu21d,ZF2001_3dose,2nd dose,~,2021-02-01,China,NULL,ZF2001,NULL
-Hu21d,ZF2001_3dose,3rd dose,~,2021-07-01,China,NULL,ZF2001,NULL
-Hu21d,ZF2001_3dose,3rd dose isolation,~,2021-07-31,China,NULL,NULL,NULL

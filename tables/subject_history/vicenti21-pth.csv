@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Vicenti21,CP,infection,<,2020-04-01,Italy,B.1 full genome,NULL,Mild
-Vicenti21,CP,isolation,~,2021-01-24,Italy,NULL,NULL,NULL
-Vicenti21,CP,1st dose,~,2021-01-24,Italy,NULL,BNT162b2,NULL
-Vicenti21,CP,1st dose isolation,~,2021-02-14,Italy,NULL,NULL,NULL
-Vicenti21,VP,2nd dose,~,2021-01-24,Italy,NULL,BNT162b2,NULL
-Vicenti21,VP,2nd dose isolation,~,2021-02-14,Italy,NULL,NULL,NULL

@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Lohr21,Patient,infection,<,2021-01-20,Germany,B.1.1.7 full genome,NULL,Hospitalized
-Lohr21,Patient,isolation,=,2021-01-22,Germany,B.1.1.7 full genome,NULL,NULL
-Lohr21,Patient,isolation,=,2021-02-03,Germany,Lohr21_20210203,NULL,NULL
-Lohr21,Patient,isolation,~,2021-02-04,Germany,Lohr21_20210203,NULL,NULL
-Lohr21,Patient,isolation,~,2021-02-05,Germany,Lohr21_20210203,NULL,NULL
-Lohr21,Patient,isolation,=,2021-02-09,Germany,Lohr21_20210209,NULL,NULL

@@ -1,9 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Zhou21c,CP,infection,<,2020-05-01,USA NY,B.1 full genome,NULL,NULL
-Zhou21c,CP,isolation,~,2020-05-01,USA NY,NULL,NULL,NULL
-Zhou21c,BNT162b2,1st dose,~,2021-01-01,USA NY,NULL,BNT162b2,NULL
-Zhou21c,BNT162b2,2nd dose,~,2021-01-15,USA NY,NULL,BNT162b2,NULL
-Zhou21c,BNT162b2,2nd dose isolation,~,2021-02-12,USA NY,NULL,NULL,NULL
-Zhou21c,mRNA-1273,1st dose,~,2021-01-01,USA NY,NULL,mRNA-1273,NULL
-Zhou21c,mRNA-1273,2nd dose,~,2021-01-15,USA NY,NULL,mRNA-1273,NULL
-Zhou21c,mRNA-1273,2nd dose isolation,~,2021-02-12,USA NY,NULL,NULL,NULL

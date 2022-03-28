@@ -1,9 +1,0 @@
-﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Sepulcri21,Patient,infection,<,2020-03-24,Italy,Sepulcri21_D34,NULL,Hospitalized
-Sepulcri21,Patient,isolation,=,2020-04-27,Italy,Sepulcri21_D34,NULL,NULL
-Sepulcri21,Patient,isolation,=,2020-05-17,Italy,Sepulcri21_D54,NULL,NULL
-Sepulcri21,Patient,isolation,=,2020-06-08,Italy,Sepulcri21_D76,NULL,NULL
-Sepulcri21,Patient,isolation,=,2020-06-28,Italy,Sepulcri21_D96,NULL,NULL
-Sepulcri21,Patient,isolation,=,2020-11-17,Italy,Sepulcri21_D238,NULL,NULL
-Sepulcri21,Donor,infection,<,2020-02-29,Italy,B.1 full genome,NULL,NULL
-Sepulcri21,Donor,isolation,~,2020-03-01,Italy,NULL,NULL,NULL
