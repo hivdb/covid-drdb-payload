@@ -1,10 +1,10 @@
 ﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
-Copin21,Hospitalized placebo patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
-Copin21,Hospitalized low dose patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
-Copin21,Hospitalized high dose patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
-Copin21,Non-hospitalized placebo patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
-Copin21,Non-hospitalized low dose patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
-Copin21,Non-hospitalized high dose patients,<,2021-02-20,Unknown variant,NULL,NULL,USA,NULL
+Copin21,Hospitalized placebo patients,<,2021-02-20,WA1,NULL,NULL,USA,NULL
+Copin21,Hospitalized low dose patients,<,2021-02-20,WA1,NULL,NULL,USA,NULL
+Copin21,Hospitalized high dose patients,<,2021-02-20,WA1,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized placebo patients,<,2021-02-20,WA1,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized low dose patients,<,2021-02-20,WA1,NULL,NULL,USA,NULL
+Copin21,Non-hospitalized high dose patients,<,2021-02-20,WA1,NULL,NULL,USA,NULL
 Copin21,Hospitalized placebo patients,<,2021-03-01,Hospitalized placebo samples,NULL,NULL,USA,NULL
 Copin21,Hospitalized low dose patients,<,2021-03-01,Hospitalized low dose samples,NULL,NULL,USA,NULL
 Copin21,Hospitalized high dose patients,<,2021-03-01,Hospitalized high dose samples,NULL,NULL,USA,NULL

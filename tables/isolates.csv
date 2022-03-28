@@ -1,5 +1,4 @@
 ﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,expandable
-Unknown variant,Unknown variant,FALSE,NULL,NULL,FALSE
 hCoV-19/Italy/LOM-INMI-10734/2020,B.1,FALSE,568579,NULL,TRUE
 B.1.1.298 Spike,B.1.1.298,FALSE,NULL,NULL,TRUE
 S:69del+70del+453F+614G+692V+1229I,B.1.1.298,FALSE,NULL,NULL,TRUE
