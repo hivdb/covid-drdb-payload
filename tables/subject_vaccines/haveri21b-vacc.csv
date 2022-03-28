@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Haveri21b,BNT_Elderly,~,2021-01-01,BNT162b2,1,Finland,NULL
 Haveri21b,BNT_Elderly,~,2021-01-22,BNT162b2,2,Finland,NULL
 Haveri21b,BNT_Elderly,~,2021-09-24,BNT162b2,3,Finland,NULL

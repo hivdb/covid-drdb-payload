@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Gushchin21,Sputnik,~,2020-12-22,Sputnik V,1,Russia,NULL
 Gushchin21,Sputnik,~,2021-03-18,Sputnik V,2,Russia,NULL
 Gushchin21,S003,~,2020-06-20,Sputnik V,1,Russia,NULL

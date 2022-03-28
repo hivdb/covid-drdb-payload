@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Falsey21,BNT162b2_55Yr,~,2020-07-23,BNT162b2,1,USA,NULL
 Falsey21,BNT162b2_55Yr,~,2020-08-13,BNT162b2,2,USA,NULL
 Falsey21,BNT162b2_55Yr,~,2021-04-13,BNT162b2,3,USA,NULL

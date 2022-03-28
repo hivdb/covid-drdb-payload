@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Nemet21,BNT_2dose,~,2021-04-27,BNT162b2,1,Israel,NULL
 Nemet21,BNT_2dose,~,2021-05-18,BNT162b2,2,Israel,NULL
 Nemet21,BNT_3dose,~,2021-04-27,BNT162b2,1,Israel,NULL

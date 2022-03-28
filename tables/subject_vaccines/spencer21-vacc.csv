@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Spencer21,AZD1222_1dose,~,2021-02-14,AZD1222,1,UK,NULL
 Spencer21,AZD2816_1dose,~,2021-02-14,AZD2816,1,UK,NULL
 Spencer21,AZD1222_2816_1dose,~,2021-02-14,AZD1222 + AZD2816,1,UK,NULL

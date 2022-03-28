@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Jangra21,BNT_V1,~,2020-10-01,BNT162b2,1,USA,NULL
 Jangra21,BNT_V1,~,2020-10-15,BNT162b2,2,USA,NULL
 Jangra21,BNT_V2,~,2020-10-01,BNT162b2,1,USA,NULL

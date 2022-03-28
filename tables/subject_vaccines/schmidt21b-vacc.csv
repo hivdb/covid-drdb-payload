@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Schmidt21b,PT_115,~,2021-11-30,mRNA-1273,1,USA,NULL
 Schmidt21b,PT_233,~,2021-12-04,mRNA-1273,1,USA,NULL
 Schmidt21b,PT_135,~,2021-11-15,mRNA-1273,1,USA,NULL

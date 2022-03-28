@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Wang21,Mod,~,2020-10-19,mRNA-1273,1,USA,NULL
 Wang21,Mod,~,2020-11-02,mRNA-1273,2,USA,NULL
 Wang21,BNT,~,2020-10-19,BNT162b2,1,USA,NULL

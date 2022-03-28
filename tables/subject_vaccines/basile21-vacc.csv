@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Basile21,BNT,~,2021-01-01,BNT162b2,1,Australia,NULL
 Basile21,BNT,~,2021-02-01,BNT162b2,2,Australia,NULL
 Basile21,BNT,~,2021-08-01,BNT162b2,3,Australia,NULL

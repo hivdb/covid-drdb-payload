@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Huang21b,ZF2001-serum-012,~,2020-07-10,ZF2001,1,China,NULL
 Huang21b,ZF2001-serum-014,~,2020-07-10,ZF2001,1,China,NULL
 Huang21b,ZF2001-serum-024,~,2020-07-10,ZF2001,1,China,NULL

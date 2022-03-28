@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Shen21b,Mod_Ser_03,~,2020-05-21,mRNA-1273,1,USA,NULL
 Shen21b,Mod_Ser_03,~,2020-06-18,mRNA-1273,2,USA,NULL
 Shen21b,Mod_Ser_05,~,2020-05-21,mRNA-1273,1,USA,NULL

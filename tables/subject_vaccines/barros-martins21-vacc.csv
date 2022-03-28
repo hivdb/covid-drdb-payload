@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Barros-Martins21,AZD,~,2021-02-16,AZD1222,1,Germany,NULL
 Barros-Martins21,AZD,~,2021-04-30,AZD1222,2,Germany,NULL
 Barros-Martins21,AZD_BNT,~,2021-02-16,AZD1222,1,Germany,NULL

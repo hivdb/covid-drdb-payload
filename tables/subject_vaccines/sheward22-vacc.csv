@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Sheward22,VP_B,~,2021-01-01,AZD1222,1,Sweden,NULL
 Sheward22,VP_C,~,2021-01-01,BNT162b2,1,Sweden,NULL
 Sheward22,VP_D,~,2021-01-01,BNT162b2,1,Sweden,NULL

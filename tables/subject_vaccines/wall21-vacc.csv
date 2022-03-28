@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Wall21,158,=,2020-12-15,BNT162b2,1,UK,NULL
 Wall21,121,=,2021-01-05,BNT162b2,1,UK,NULL
 Wall21,39,=,2020-12-18,BNT162b2,1,UK,NULL

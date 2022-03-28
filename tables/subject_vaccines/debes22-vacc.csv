@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Debes22,mRNA,~,2021-01-01,mRNA,1,USA,NULL
 Debes22,mRNA,~,2021-02-01,mRNA,2,USA,NULL
 Debes22,mRNA,~,2021-10-01,mRNA,3,USA,NULL

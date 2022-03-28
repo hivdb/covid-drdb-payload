@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Wilhelm21b,BNT_2dose_6m,~,2021-05-06,BNT162b2,1,Germany,NULL
 Wilhelm21b,BNT_2dose_6m,~,2021-05-27,BNT162b2,2,Germany,NULL
 Wilhelm21b,BNT_2dose_BNT_0.5m,~,2021-05-07,BNT162b2,1,Germany,NULL

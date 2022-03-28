@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Jacobsen21,Ad26.COV2.S_1dose,~,2021-01-01,Ad26.COV2.S,1,Germany,NULL
 Jacobsen21,AZD_2dose,~,2021-01-01,AZD1222,1,Germany,NULL
 Jacobsen21,AZD_2dose,~,2021-03-15,AZD1222,2,Germany,NULL

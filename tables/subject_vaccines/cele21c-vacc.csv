@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Cele21c,BNT_1,~,2021-06-22,BNT162b2,1,South Africa,NULL
 Cele21c,BNT_2,~,2021-06-22,BNT162b2,1,South Africa,NULL
 Cele21c,BNT_3,~,2021-05-18,BNT162b2,1,South Africa,NULL

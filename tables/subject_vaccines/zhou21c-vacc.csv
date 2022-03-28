@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Zhou21c,BNT162b2,~,2021-01-01,BNT162b2,1,USA NY,NULL
 Zhou21c,BNT162b2,~,2021-01-15,BNT162b2,2,USA NY,NULL
 Zhou21c,mRNA-1273,~,2021-01-01,mRNA-1273,1,USA NY,NULL

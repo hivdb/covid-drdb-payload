@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Cameroni21,mRNA-1273_2a,~,2021-01-01,mRNA-1273,1,USA,NULL
 Cameroni21,mRNA-1273_2a,~,2021-01-21,mRNA-1273,2,USA,NULL
 Cameroni21,BNT162b2_2a,~,2021-01-01,BNT162b2,1,USA,NULL

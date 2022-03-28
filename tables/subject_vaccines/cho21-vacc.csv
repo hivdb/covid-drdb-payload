@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Cho21,VP_C001,~,2021-01-01,BNT162b2,1,USA,NULL
 Cho21,VP_C002,~,2021-01-01,BNT162b2,1,USA,NULL
 Cho21,VP_C003,~,2021-01-01,mRNA-1273,1,USA,NULL

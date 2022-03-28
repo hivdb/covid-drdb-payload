@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Kimura21,002_3,~,2021-03-10,BNT162b2,1,Japan,NULL
 Kimura21,002_3,~,2021-03-31,BNT162b2,2,Japan,NULL
 Kimura21,003_3,~,2021-03-10,BNT162b2,1,Japan,NULL

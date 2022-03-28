@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Zhao21,CoronaVac_Regimen1,~,2021-01-01,CoronaVac,1,China,NULL
 Zhao21,CoronaVac_Regimen1,~,2021-01-29,CoronaVac,2,China,NULL
 Zhao21,CoronaVac_Regimen1,~,2021-03-05,CoronaVac,3,China,NULL

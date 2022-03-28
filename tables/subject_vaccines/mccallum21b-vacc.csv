@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 McCallum21b,BNT162b2,~,2021-01-01,BNT162b2,2,Switzerland,NULL
 McCallum21b,BNT_uninfected,~,2021-01-01,BNT162b2,2,Switzerland,NULL
 McCallum21b,BNT_infected,~,2021-01-01,BNT162b2,2,Switzerland,NULL

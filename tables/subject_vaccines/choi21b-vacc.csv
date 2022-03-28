@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Choi21b,mRNA-1273_2dose_booster,~,2021-01-01,mRNA-1273,1,USA,NULL
 Choi21b,mRNA-1273_2dose_booster,~,2021-01-21,mRNA-1273,2,USA,NULL
 Choi21b,mRNA-1273_2dose_booster,~,2021-07-21,mRNA-1273,3,USA,NULL

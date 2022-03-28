@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Edara21d,Moderna_2dose_4w_1,~,2021-01-31,mRNA-1273,2,USA,NULL
 Edara21d,Moderna_2dose_4w_2,~,2021-01-31,mRNA-1273,2,USA,NULL
 Edara21d,Moderna_2dose_4w_3,~,2021-01-31,mRNA-1273,2,USA,NULL

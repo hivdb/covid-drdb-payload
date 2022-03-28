@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Chen21,BNT162b2_1,~,2020-12-15,BNT162b2,2,USA,NULL
 Chen21,BNT162b2_2,~,2020-12-15,BNT162b2,2,USA,NULL
 Chen21,BNT162b2_3,~,2020-12-15,BNT162b2,2,USA,NULL

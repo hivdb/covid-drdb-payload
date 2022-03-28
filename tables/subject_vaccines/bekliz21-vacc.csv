@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Bekliz21,mRNA,~,2021-03-01,mRNA,1,Switzerland,NULL
 Bekliz21,mRNA,~,2021-04-01,mRNA,2,Switzerland,NULL
 Bekliz21,CP_mRNA,~,2021-03-01,mRNA,1,Switzerland,NULL

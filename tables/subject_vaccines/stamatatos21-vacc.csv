@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Stamatatos21,PT_A,~,2021-01-13,BNT162b2,1,USA,NULL
 Stamatatos21,PT_A,~,2021-01-31,BNT162b2,2,USA,NULL
 Stamatatos21,PT_B,~,2021-01-23,BNT162b2,1,USA,NULL

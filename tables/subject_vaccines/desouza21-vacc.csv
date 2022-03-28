@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 deSouza21,PiCoV-1_5M,=,2020-08-13,CoronaVac,1,Brazil,NULL
 deSouza21,PiCoV-1_5M,=,2020-08-28,CoronaVac,2,Brazil,NULL
 deSouza21,PiCoV-2_5M,=,2020-08-14,CoronaVac,1,Brazil,NULL

@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Yu22,BNT162b2,~,2021-01-01,BNT162b2,1,United States,NULL
 Yu22,BNT162b2,~,2021-02-01,BNT162b2,2,United States,NULL
 Yu22,BNT162b2,~,2021-10-13,BNT162b2,3,United States,NULL

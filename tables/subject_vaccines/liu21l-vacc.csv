@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Liu21l,BNT_infected,~,2021-01-01,BNT162b2,1,USA,NULL
 Liu21l,BNT_infected,~,2021-01-21,BNT162b2,2,USA,NULL
 Liu21l,BNT,~,2021-01-01,BNT162b2,1,USA,NULL

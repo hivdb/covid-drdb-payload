@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Ikegame21,SP001,~,2020-12-29,Sputnik V,1,Argentina,NULL
 Ikegame21,SP002,~,2020-12-29,Sputnik V,1,Argentina,NULL
 Ikegame21,SP003,~,2020-12-29,Sputnik V,1,Argentina,NULL

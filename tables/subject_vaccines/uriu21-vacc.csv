@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,nth_dose,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Uriu21,BNT_005-3,=,2021-04-30,BNT162b2,2,Japan,NULL
 Uriu21,BNT_006-3,=,2021-04-30,BNT162b2,2,Japan,NULL
 Uriu21,BNT_007-3,=,2021-04-26,BNT162b2,2,Japan,NULL
