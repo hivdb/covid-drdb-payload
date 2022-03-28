@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
-Borges21,Patient,Remdesivir,=,2020-07-10,=,2020-07-19,NULL,NULL
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Borges21,Patient,Remdesivir,=,2020-07-10,=,2020-07-19,NULL,NULL,NULL

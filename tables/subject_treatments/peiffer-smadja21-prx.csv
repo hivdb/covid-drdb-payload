@@ -1,7 +1,7 @@
-﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
-Peiffer-Smadja21,Patient 1,Bamlanivimab,=,2021-03-10,=,2021-03-10,700,mg
-Peiffer-Smadja21,Patient 2,Bamlanivimab,=,2021-03-05,=,2021-03-05,700,mg
-Peiffer-Smadja21,Patient 3,Bamlanivimab,=,2021-03-10,=,2021-03-10,700,mg
-Peiffer-Smadja21,Patient 4,Bamlanivimab,=,2021-03-10,=,2021-03-10,700,mg
-Peiffer-Smadja21,Patient 5,Bamlanivimab,=,2021-02-27,=,2021-02-27,700,mg
-Peiffer-Smadja21,Patient 6,Bamlanivimab,=,2021-03-07,=,2021-03-07,700,mg
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Peiffer-Smadja21,Patient 1,Bamlanivimab,=,2021-03-10,=,2021-03-10,700,mg,NULL
+Peiffer-Smadja21,Patient 2,Bamlanivimab,=,2021-03-05,=,2021-03-05,700,mg,NULL
+Peiffer-Smadja21,Patient 3,Bamlanivimab,=,2021-03-10,=,2021-03-10,700,mg,NULL
+Peiffer-Smadja21,Patient 4,Bamlanivimab,=,2021-03-10,=,2021-03-10,700,mg,NULL
+Peiffer-Smadja21,Patient 5,Bamlanivimab,=,2021-02-27,=,2021-02-27,700,mg,NULL
+Peiffer-Smadja21,Patient 6,Bamlanivimab,=,2021-03-07,=,2021-03-07,700,mg,NULL

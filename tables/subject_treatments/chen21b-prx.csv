@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
-Chen21b,Patient_TA,Donor_CP,=,2020-05-01,=,2020-05-01,NULL,NULL
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Chen21b,Patient_TA,Donor_CP,=,2020-05-01,=,2020-05-01,NULL,NULL,NULL

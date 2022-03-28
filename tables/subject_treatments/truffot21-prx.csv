@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
-Truffot21,Patient,Bamlanivimab,=,2021-03-12,=,2021-03-12,700,mg
-Truffot21,Patient,Donor_CP,=,2021-03-22,=,2021-03-22,NULL,NULL
-Truffot21,Patient,Remdesivir,=,2021-05-01,=,2021-05-10,NULL,NULL
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Truffot21,Patient,Bamlanivimab,=,2021-03-12,=,2021-03-12,700,mg,NULL
+Truffot21,Patient,Donor_CP,=,2021-03-22,=,2021-03-22,NULL,NULL,NULL
+Truffot21,Patient,Remdesivir,=,2021-05-01,=,2021-05-10,NULL,NULL,NULL

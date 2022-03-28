@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
-Williamson21,Patient,IVIG,=,2020-12-11,=,2020-12-11,NULL,NULL
-Williamson21,Patient,Remdesivir,=,2020-12-07,=,2020-12-23,NULL,NULL
-Williamson21,Patient,Casirivimab/Imdevimab,=,2021-01-28,=,2021-01-28,NULL,NULL
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Williamson21,Patient,IVIG,=,2020-12-11,=,2020-12-11,NULL,NULL,NULL
+Williamson21,Patient,Remdesivir,=,2020-12-07,=,2020-12-23,NULL,NULL,NULL
+Williamson21,Patient,Casirivimab/Imdevimab,=,2021-01-28,=,2021-01-28,NULL,NULL,NULL

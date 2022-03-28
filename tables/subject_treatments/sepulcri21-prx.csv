@@ -1,6 +1,6 @@
-﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit
-Sepulcri21,Patient,Remdesivir,=,2020-05-10,=,2020-05-14,NULL,NULL
-Sepulcri21,Patient,Remdesivir,=,2020-06-09,=,2020-06-18,NULL,NULL
-Sepulcri21,Patient,Donor_CP,=,2020-06-20,=,2020-06-20,NULL,NULL
-Sepulcri21,Patient,Remdesivir,=,2020-09-18,=,2020-09-22,NULL,NULL
-Sepulcri21,Patient,Remdesivir,=,2020-10-15,=,2020-10-19,NULL,NULL
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Sepulcri21,Patient,Remdesivir,=,2020-05-10,=,2020-05-14,NULL,NULL,NULL
+Sepulcri21,Patient,Remdesivir,=,2020-06-09,=,2020-06-18,NULL,NULL,NULL
+Sepulcri21,Patient,Donor_CP,=,2020-06-20,=,2020-06-20,NULL,NULL,NULL
+Sepulcri21,Patient,Remdesivir,=,2020-09-18,=,2020-09-22,NULL,NULL,NULL
+Sepulcri21,Patient,Remdesivir,=,2020-10-15,=,2020-10-19,NULL,NULL,NULL
