@@ -1,4 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
+Tada21d,CP,infection,<,2021-03-01,USA NY,Unknown variant,NULL,NULL
 Tada21d,CP,isolation,<,2021-03-01,USA NY,NULL,NULL,NULL
 Tada21d,BNT,1st dose,~,2021-03-01,USA NY,NULL,BNT162b2,NULL
 Tada21d,BNT,2nd dose,~,2021-03-21,USA NY,NULL,BNT162b2,NULL

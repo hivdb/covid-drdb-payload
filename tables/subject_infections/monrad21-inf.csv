@@ -1,2 +1,3 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
 Monrad21,Patient,~,2020-05-01,B.1.343,Denmark,NULL
+Monrad21,Donor,<,2020-04-30,Unknown variant,Denmark,NULL

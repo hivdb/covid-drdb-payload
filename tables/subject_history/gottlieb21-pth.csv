@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
 Gottlieb21,Gottlieb21 BAM/ETE Treated,infection,<,2020-08-31,USA,Unknown variant,NULL,Non-Hospitalized
-Gottlieb21,Gottlieb21 BAM/ETE Treated,isolation,~,2020-08-31,USA,Unknown variant,NULL,NULL
+Gottlieb21,Gottlieb21 BAM/ETE Treated,isolation,~,2020-08-31,USA,Wuhan-Hu-1,NULL,NULL
 Gottlieb21,Gottlieb21 BAM/ETE Treated,isolation,~,2020-09-10,USA,Gottlieb21 BAM/ETE Treated D11,NULL,NULL
 Gottlieb21,Gottlieb21 BAM/ETE Treated,isolation,~,2020-09-24,USA,Gottlieb21 BAM/ETE Treated D25,NULL,NULL

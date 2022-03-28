@@ -1,0 +1,55 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Turner21,BNT_W0_uninfected_01,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_02,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_03,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_04,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_05,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_06,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_07,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_08,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_09,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_10,WA1,Ext Data Fig 1b,Virus isolate,NT50,45,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_11,WA1,Ext Data Fig 1b,Virus isolate,NT50,21,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_12,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_13,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_14,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_15,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_16,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_17,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_18,WA1,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_01,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_02,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_03,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_04,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,21,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_05,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_06,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_07,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_08,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_09,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_10,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_11,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,45,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_12,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,22,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_13,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_14,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_15,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_16,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_17,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_18,WA1+S:80A+242del+243del+244del+246I+417N+484K+501Y+614G+701V,Ext Data Fig 1b,SARS-CoV-2 recombinant,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_01,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_02,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_03,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_04,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_05,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_06,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_07,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,28,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_08,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_09,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_10,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_11,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_12,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_13,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_14,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_15,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_16,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_17,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05
+Turner21,BNT_W0_uninfected_18,B.1.1.7 full genome,Ext Data Fig 1b,Virus isolate,NT50,20,1,NULL,20,NULL,2021-07-05

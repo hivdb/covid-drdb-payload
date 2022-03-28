@@ -1,5 +1,4 @@
 ﻿ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Turner21,BNT_uninfected,isolation,~,2020-12-20,USA,NULL,NULL,NULL
 Turner21,BNT_uninfected,1st dose,~,2020-12-21,USA,NULL,BNT162b2,NULL
 Turner21,BNT_uninfected,1st dose isolation,~,2021-01-10,USA,NULL,NULL,NULL
 Turner21,BNT_uninfected,2nd dose,~,2021-01-11,USA,NULL,BNT162b2,NULL

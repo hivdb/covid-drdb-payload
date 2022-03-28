@@ -5,12 +5,12 @@ Copin21,Hospitalized high dose patients,infection,<,2021-02-20,USA,Unknown varia
 Copin21,Non-hospitalized placebo patients,infection,<,2021-02-20,USA,Unknown variant,NULL,Non-Hospitalized
 Copin21,Non-hospitalized low dose patients,infection,<,2021-02-20,USA,Unknown variant,NULL,Non-Hospitalized
 Copin21,Non-hospitalized high dose patients,infection,<,2021-02-20,USA,Unknown variant,NULL,Non-Hospitalized
-Copin21,Hospitalized placebo patients,isolation,<,2021-02-20,USA,Unknown variant,NULL,NULL
-Copin21,Hospitalized low dose patients,isolation,<,2021-02-20,USA,Unknown variant,NULL,NULL
-Copin21,Hospitalized high dose patients,isolation,<,2021-02-20,USA,Unknown variant,NULL,NULL
-Copin21,Non-hospitalized placebo patients,isolation,<,2021-02-20,USA,Unknown variant,NULL,NULL
-Copin21,Non-hospitalized low dose patients,isolation,<,2021-02-20,USA,Unknown variant,NULL,NULL
-Copin21,Non-hospitalized high dose patients,isolation,<,2021-02-20,USA,Unknown variant,NULL,NULL
+Copin21,Hospitalized placebo patients,isolation,<,2021-02-20,USA,WA1,NULL,NULL
+Copin21,Hospitalized low dose patients,isolation,<,2021-02-20,USA,WA1,NULL,NULL
+Copin21,Hospitalized high dose patients,isolation,<,2021-02-20,USA,WA1,NULL,NULL
+Copin21,Non-hospitalized placebo patients,isolation,<,2021-02-20,USA,WA1,NULL,NULL
+Copin21,Non-hospitalized low dose patients,isolation,<,2021-02-20,USA,WA1,NULL,NULL
+Copin21,Non-hospitalized high dose patients,isolation,<,2021-02-20,USA,WA1,NULL,NULL
 Copin21,Hospitalized placebo patients,isolation,<,2021-03-01,USA,Hospitalized placebo samples,NULL,NULL
 Copin21,Hospitalized low dose patients,isolation,<,2021-03-01,USA,Hospitalized low dose samples,NULL,NULL
 Copin21,Hospitalized high dose patients,isolation,<,2021-03-01,USA,Hospitalized high dose samples,NULL,NULL
