@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Garcia-Vidal22,Hematologic Patient,lopinavir/ritonavir,~,2020-03-24,~,2020-03-31,NULL,NULL,"Section of ""Description of Patient"""
+Garcia-Vidal22,Hematologic Patient,hydroxychloroquine,~,2020-03-24,~,2020-03-31,NULL,NULL,"Section of ""Description of Patient"""
+Garcia-Vidal22,Hematologic Patient,azithromycin,~,2020-04-01,~,2020-04-06,NULL,NULL,"Section of ""Description of Patient"""
+Garcia-Vidal22,Hematologic Patient,remdesivir,~,2020-05-15,~,2020-05-25,NULL,NULL,"Section of ""Description of Patient"""
+Garcia-Vidal22,Hematologic Patient,CP,~,2020-08-11,~,2020-08-11,NULL,NULL,"Section of ""Description of Patient"""
+Garcia-Vidal22,Hematologic Patient,CP,~,2020-11-17,~,2020-11-17,NULL,NULL,"Section of ""Description of Patient"""
+Garcia-Vidal22,Hematologic Patient,remdesivir,~,2020-12-15,~,2020-12-23,NULL,NULL,"Section of ""Description of Patient"""
+Garcia-Vidal22,Hematologic Patient,CP,~,2020-12-20,~,2020-12-20,NULL,NULL,"Section of ""Description of Patient"""
