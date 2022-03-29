@@ -7718,6 +7718,7 @@ Garcia-Beltran22,Ad26_1dose_1m
 Garcia-Beltran22,Ad26_1dose_6m
 Garcia-Beltran22,Infection_Ad26_1dose_6m
 Garcia-Beltran22,Ad26_mRNA_2dose_1m
+Garcia-Vidal22,CP
 Geers21,BNT_naive_1dose_1
 Geers21,BNT_naive_1dose_2
 Geers21,BNT_naive_1dose_3
@@ -26064,3 +26065,7 @@ Sepulcri21,Remdesivir
 Lee22,possible Remdesivir
 Avanzato20,IVIG
 Harari22,MAb/CP
+Garcia-Vidal22,Lopinavir/Ritonavir
+Garcia-Vidal22,Hydroxychloroquine
+Garcia-Vidal22,Azithromycin
+Garcia-Vidal22,Remdesivir
