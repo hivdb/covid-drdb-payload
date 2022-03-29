@@ -1,6 +1,6 @@
 ﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
-Sepulcri21,Patient,=,2020-04-27,Sepulcri21_D34,NULL,NULL,Italy,NULL
-Sepulcri21,Patient,=,2020-05-17,Sepulcri21_D54,NULL,NULL,Italy,NULL
-Sepulcri21,Patient,=,2020-06-08,Sepulcri21_D76,NULL,NULL,Italy,NULL
-Sepulcri21,Patient,=,2020-06-28,Sepulcri21_D96,NULL,NULL,Italy,NULL
-Sepulcri21,Patient,=,2020-11-17,Sepulcri21_D238,NULL,NULL,Italy,NULL
+Sepulcri21,Patient,=,2020-04-27,Sepulcri21_D34,Pending,FALSE,Italy,NULL
+Sepulcri21,Patient,=,2020-05-17,Sepulcri21_D54,Pending,FALSE,Italy,NULL
+Sepulcri21,Patient,=,2020-06-08,Sepulcri21_D76,Pending,FALSE,Italy,NULL
+Sepulcri21,Patient,=,2020-06-28,Sepulcri21_D96,Pending,FALSE,Italy,NULL
+Sepulcri21,Patient,=,2020-11-17,Sepulcri21_D238,Pending,FALSE,Italy,NULL

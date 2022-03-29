@@ -1,5 +1,5 @@
 ﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
-Sabin22,Household contacts,~,2020-12-06,hCoV-19/USA/WI-GMF-48798/2021,NULL,NULL,USA,NULL
-Sabin22,Household contacts,=,2020-12-30,hCoV-19/USA/MN-GMF-45422/2020,NULL,NULL,USA,NULL
-Sabin22,Household contacts,=,2021-01-04,hCoV-19/USA/MN-GMF-46571/2021,NULL,NULL,USA,NULL
-Sabin22,Household contacts,=,2021-01-05,hCoV-19/USA/MN-GMF-46573/2021,NULL,NULL,USA,NULL
+Sabin22,Household contacts,~,2020-12-06,hCoV-19/USA/WI-GMF-48798/2021,Pending,FALSE,USA,NULL
+Sabin22,Household contacts,=,2020-12-30,hCoV-19/USA/MN-GMF-45422/2020,Pending,FALSE,USA,NULL
+Sabin22,Household contacts,=,2021-01-04,hCoV-19/USA/MN-GMF-46571/2021,Pending,FALSE,USA,NULL
+Sabin22,Household contacts,=,2021-01-05,hCoV-19/USA/MN-GMF-46573/2021,Pending,FALSE,USA,NULL

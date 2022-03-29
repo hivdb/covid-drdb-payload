@@ -1,6 +1,6 @@
 ﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
-Guigon21,Patient,=,2021-04-30,hCoV-19/France/HDF-P316-21175C3908/2021,NULL,NULL,France,NULL
-Guigon21,Patient,=,2021-05-06,hCoV-19/France/HDF-P044-21184C4765/2021,NULL,NULL,France,NULL
-Guigon21,Patient,=,2021-05-14,hCoV-19/France/HDF-P123-21195C4883/2021,NULL,NULL,France,NULL
-Guigon21,Patient,=,2021-05-20,hCoV-19/France/HDF-P241-21204C2790/2021,NULL,NULL,France,NULL
-Guigon21,Patient,=,2021-06-10,hCoV-19/France/HDF-P088-21234C6239/2021,NULL,NULL,France,NULL
+Guigon21,Patient,=,2021-04-30,hCoV-19/France/HDF-P316-21175C3908/2021,Pending,FALSE,France,NULL
+Guigon21,Patient,=,2021-05-06,hCoV-19/France/HDF-P044-21184C4765/2021,Pending,FALSE,France,NULL
+Guigon21,Patient,=,2021-05-14,hCoV-19/France/HDF-P123-21195C4883/2021,Pending,FALSE,France,NULL
+Guigon21,Patient,=,2021-05-20,hCoV-19/France/HDF-P241-21204C2790/2021,Pending,FALSE,France,NULL
+Guigon21,Patient,=,2021-06-10,hCoV-19/France/HDF-P088-21234C6239/2021,Pending,FALSE,France,NULL

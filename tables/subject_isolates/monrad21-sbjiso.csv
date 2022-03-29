@@ -1,8 +1,8 @@
 ﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
-Monrad21,Patient,~,2020-05-25,Monrad21_D24,NULL,NULL,Denmark,NULL
-Monrad21,Patient,~,2020-06-29,Monrad21_D59,NULL,NULL,Denmark,NULL
-Monrad21,Patient,~,2020-07-20,Monrad21_D80,NULL,NULL,Denmark,NULL
-Monrad21,Patient,~,2020-09-04,Monrad21_D126,NULL,NULL,Denmark,NULL
-Monrad21,Patient,~,2020-09-20,Monrad21_D142,NULL,NULL,Denmark,NULL
-Monrad21,Patient,~,2020-10-03,Monrad21_D155,NULL,NULL,Denmark,NULL
-Monrad21,Patient,~,2020-11-14,Monrad21_D197,NULL,NULL,Denmark,NULL
+Monrad21,Patient,~,2020-05-25,Monrad21_D24,Pending,FALSE,Denmark,NULL
+Monrad21,Patient,~,2020-06-29,Monrad21_D59,Pending,FALSE,Denmark,NULL
+Monrad21,Patient,~,2020-07-20,Monrad21_D80,Pending,FALSE,Denmark,NULL
+Monrad21,Patient,~,2020-09-04,Monrad21_D126,Pending,FALSE,Denmark,NULL
+Monrad21,Patient,~,2020-09-20,Monrad21_D142,Pending,FALSE,Denmark,NULL
+Monrad21,Patient,~,2020-10-03,Monrad21_D155,Pending,FALSE,Denmark,NULL
+Monrad21,Patient,~,2020-11-14,Monrad21_D197,Pending,FALSE,Denmark,NULL
