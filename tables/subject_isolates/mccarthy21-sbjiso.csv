@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
+McCarthy21,Patient,~,2020-03-01,B.1 full genome,Unknown,FALSE,USA,Second paragraph
+McCarthy21,Patient,~,2020-05-12,SARS-CoV-2/human/USA/PLTI/2020 clone 1A,NP,TRUE,USA,Second paragraph
+McCarthy21,Patient,~,2020-05-13,SARS-CoV-2/human/USA/PLTI/2020 clone 1B,NP,TRUE,USA,Second paragraph
