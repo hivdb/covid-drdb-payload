@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Sonnleitner22,Patient,IVIG,~,2021-01-15,~,2021-01-15,15000,mg,Figure 1
+Sonnleitner22,Patient,IVIG,~,2021-01-25,~,2021-01-25,NULL,NULL,Figure 1
+Sonnleitner22,Patient,IVIG,~,2021-03-01,~,2021-03-01,NULL,NULL,Figure 1
