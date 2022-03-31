@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Alidjinou21,BNT_2dose,hCoV-19/France/HDF-SOUCHE02VIRO-LILLE/2021,Fig 1a,Virus isolate,NT50,324,117,10000,10,NULL,2021-03-31
+Alidjinou21,BNT_2dose,B.1.617.2 full genome,Fig 1a,Virus isolate,NT50,40,117,10000,10,NULL,2021-03-31
+Alidjinou21,CP_2020,hCoV-19/France/HDF-SOUCHE02VIRO-LILLE/2021,Fig 1b,Virus isolate,NT50,40,97,10000,10,NULL,2021-03-31
+Alidjinou21,CP_2020,B.1.617.2 full genome,Fig 1b,Virus isolate,NT50,84,97,10000,10,NULL,2021-03-31
