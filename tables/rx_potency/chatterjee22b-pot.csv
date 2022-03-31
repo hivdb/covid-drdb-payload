@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chatterjee22b,BNT_2dose_16w_3w,S:614G,"Table S2, Figure 3A, C",Pseudovirus (lentivirus),NT50,1187,9,31250,50,NULL,2022-03-31
+Chatterjee22b,BNT_2dose_16w_3w,B.1.351 Spike,"Table S2, Figure 3A, C",Pseudovirus (lentivirus),NT50,190,9,31250,50,NULL,2022-03-31
+Chatterjee22b,BNT_2dose_16w_3w,B.1.617.2 Spike,"Table S2, Figure 3A, C",Pseudovirus (lentivirus),NT50,325,9,31250,50,NULL,2022-03-31
+Chatterjee22b,BNT_2dose_16w_3w,B.1.621 Spike,"Table S2, Figure 3A, C",Pseudovirus (lentivirus),NT50,146,9,31250,50,NULL,2022-03-31
+Chatterjee22b,BNT_2dose_16w_3w,A.2.5 Spike,"Table S2, Figure 3A, C",Pseudovirus (lentivirus),NT50,361,9,31250,50,NULL,2022-03-31
+Chatterjee22b,CP_BNT_2dose,S:614G,"Table S2, Figure 3B, D",Pseudovirus (lentivirus),NT50,2668,10,31250,50,NULL,2022-03-31
+Chatterjee22b,CP_BNT_2dose,B.1.351 Spike,"Table S2, Figure 3B, D",Pseudovirus (lentivirus),NT50,744,10,31250,50,NULL,2022-03-31
+Chatterjee22b,CP_BNT_2dose,B.1.617.2 Spike,"Table S2, Figure 3B, D",Pseudovirus (lentivirus),NT50,374,10,31250,50,NULL,2022-03-31
+Chatterjee22b,CP_BNT_2dose,B.1.621 Spike,"Table S2, Figure 3B, D",Pseudovirus (lentivirus),NT50,343,10,31250,50,NULL,2022-03-31
+Chatterjee22b,CP_BNT_2dose,A.2.5 Spike,"Table S2, Figure 3B, D",Pseudovirus (lentivirus),NT50,905,10,31250,50,NULL,2022-03-31
