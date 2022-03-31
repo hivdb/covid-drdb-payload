@@ -1,0 +1,3 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Hu22,CP,S:614G,BA.1 Spike,Figure 1d,Pseudovirus (lentivirus),NT50,=,21.1,NULL,NULL,12,2022-03-30
+Hu22,ZF2001_3dose,S:614G,BA.1 Spike,Figure 1d,Pseudovirus (lentivirus),NT50,=,9.4,NULL,NULL,12,2022-03-30
