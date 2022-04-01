@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Alvarez-Diaz22,BNT_2dose,hCoV-19/Colombia/DC-INS-197/2020,Figure 2,Virus isolate,NT50,401,31,1024,1,NULL,2022-04-01
+Alvarez-Diaz22,BNT_2dose,hCoV-19/Colombia/DC-INS-H-5863/2021,Figure 2,Virus isolate,NT50,94,31,1024,1,NULL,2022-04-01
+Alvarez-Diaz22,BNT_2dose,hCoV-19/Colombia/ATL-INS-VG-1955/2021,Figure 2,Virus isolate,NT50,5,31,1024,1,NULL,2022-04-01
