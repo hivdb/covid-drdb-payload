@@ -41,6 +41,6 @@ jobs:
           docker pull hivdb/covid-drdb-builder:latest
           mkdir -p local/sqls
           docker run --rm -it --volume="$(pwd)":/covid-drdb/ --volume="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload hivdb/covid-drdb-builder:latest scripts/export-sqls.sh
-          PGPASSWORD=postgres psql -U postgres -d drdb -h localhost -f local/sqls/01_schema.sql
-          PGPASSWORD=postgres psql -U postgres -d drdb -h localhost -f local/sqls/02_data_tables.sql
-          PGPASSWORD=postgres psql -U postgres -d drdb -h localhost -f local/sqls/03_derived_tables.sql
+          PGPASSWORD=postgres psql -v ON_ERROR_STOP=1 -U postgres -d drdb -h localhost -f local/sqls/01_schema.sql
+          PGPASSWORD=postgres psql -v ON_ERROR_STOP=1 -U postgres -d drdb -h localhost -f local/sqls/02_data_tables.sql
+          PGPASSWORD=postgres psql -v ON_ERROR_STOP=1 -U postgres -d drdb -h localhost -f local/sqls/03_derived_tables.sql

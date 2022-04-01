@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Banerjee22,CP_BNT_2dose,~,2021-05-01,BNT162b2,1,CP_Delta_inf,Table S3
+Banerjee22,CP_BNT_2dose,~,2021-06-01,BNT162b2,2,CP_Delta_inf,Table S3
+Banerjee22,BNT_3dose,~,2021-01-14,BNT162b2,1,CP_Delta_inf,Table S3
+Banerjee22,BNT_3dose,~,2021-02-07,BNT162b2,2,CP_Delta_inf,Table S3
+Banerjee22,BNT_3dose,~,2021-09-07,BNT162b2,3,CP_Delta_inf,Table S3
+Banerjee22,MOD_3dose,~,2021-01-14,mRNA-1273,1,CP_Delta_inf,Table S3
+Banerjee22,MOD_3dose,~,2021-02-07,mRNA-1273,2,CP_Delta_inf,Table S3
+Banerjee22,MOD_3dose,~,2021-09-07,mRNA-1273,3,CP_Delta_inf,Table S3
