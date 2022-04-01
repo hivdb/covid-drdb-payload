@@ -1175,6 +1175,15 @@ Kimura21,078_3,Human,NULL,NULL,1
 Kitchin21,Ad26.COV2.S,Human,NULL,NULL,13
 Kitchin21,Ad26.COV2.S_BTI,Human,NULL,NULL,6
 Kumar21,MOD_3dose_1M,Human,NULL,Medical,60
+Kurahashi22,CP_infected_term1_pneumonia,Human,NULL,NULL,22
+Kurahashi22,CP_infected_term1_vaccinated,Human,NULL,NULL,19
+Kurahashi22,CP_infected_term1_wo_pneumonia,Human,NULL,NULL,18
+Kurahashi22,CP_infected_term2_vaccinated,Human,NULL,NULL,4
+Kurahashi22,CP_pneumonia_term1,Human,NULL,NULL,22
+Kurahashi22,CP_pneumonia_term1_vaccinated,Human,NULL,NULL,12
+Kurahashi22,CP_pneumonia_term2,Human,NULL,NULL,12
+Kurahashi22,CP_pneumonia_term3,Human,NULL,NULL,17
+Kurahashi22,CP_wo_pneumonia_term1_vaccinated,Human,NULL,NULL,8
 Kuzmina21,BNT,Human,NULL,NULL,10
 Kuzmina21,CP,Human,NULL,NULL,10
 Lapa22,BNT162b2,Human,NULL,NULL,17
