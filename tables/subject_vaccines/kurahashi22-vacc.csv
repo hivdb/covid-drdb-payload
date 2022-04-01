@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Kurahashi22,CP_infected_term1_vaccinated,~,2021-09-01,BNT162b2 + mRNA-1273,1,Japan,NULL
+Kurahashi22,CP_infected_term1_vaccinated,~,2021-10-01,BNT162b2 + mRNA-1273,2,Japan,NULL
+Kurahashi22,CP_infected_term2_vaccinated,~,2021-04-15,BNT162b2 + mRNA-1273,1,Japan,NULL
+Kurahashi22,CP_infected_term2_vaccinated,~,2021-05-15,BNT162b2 + mRNA-1273,2,Japan,NULL
+Kurahashi22,CP_wo_pneumonia_term1_vaccinated,~,2021-09-01,BNT162b2 + mRNA-1273,1,Japan,NULL
+Kurahashi22,CP_wo_pneumonia_term1_vaccinated,~,2021-10-01,BNT162b2 + mRNA-1273,2,Japan,NULL
+Kurahashi22,CP_pneumonia_term1_vaccinated,~,2021-09-01,BNT162b2 + mRNA-1273,1,Japan,NULL
+Kurahashi22,CP_pneumonia_term1_vaccinated,~,2021-10-01,BNT162b2 + mRNA-1273,2,Japan,NULL
