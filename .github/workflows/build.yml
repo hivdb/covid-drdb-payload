@@ -34,18 +34,11 @@ jobs:
         run: |
           cd ..
           git clone https://github.com/hivdb/covid-drdb
-          ls -alh
           cd covid-drdb
-          ls -alh
           ln -s ../covid-drdb-payload payload
-          ls -alh
           docker pull hivdb/covid-drdb-builder:latest
           mkdir -p local/sqls
           docker run --rm -it --volume="$(pwd)":/covid-drdb/ --volume="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload hivdb/covid-drdb-builder:latest scripts/export-sqls.sh
           PGPASSWORD=postgres psql -U postgres -d drdb -h localhost -f local/sqls/01_schema.sql
           PGPASSWORD=postgres psql -U postgres -d drdb -h localhost -f local/sqls/02_data_tables.sql
           PGPASSWORD=postgres psql -U postgres -d drdb -h localhost -f local/sqls/03_derived_tables.sql
-          
-
-          
-
