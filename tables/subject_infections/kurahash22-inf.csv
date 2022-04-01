@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Kurahashi22,CP_pneumonia_term1,~,2020-10-01,B.1,Japan,NULL
+Kurahashi22,CP_pneumonia_term2,~,2020-01-01,Alpha,Japan,NULL
+Kurahashi22,CP_pneumonia_term3,~,2020-07-01,Delta,Japan,NULL
+Kurahashi22,CP_infected_term1_vaccinated,~,2020-10-01,B.1,Japan,NULL
+Kurahashi22,CP_infected_term2_vaccinated,~,2020-01-01,Alpha,Japan,NULL
+Kurahashi22,CP_infected_term1_wo_pneumonia,~,2020-10-01,B.1,Japan,NULL
+Kurahashi22,CP_infected_term1_pneumonia,~,2020-10-01,B.1,Japan,NULL
+Kurahashi22,CP_wo_pneumonia_term1_vaccinated,~,2020-10-01,B.1,Japan,NULL
+Kurahashi22,CP_pneumonia_term1_vaccinated,~,2020-10-01,B.1,Japan,NULL
