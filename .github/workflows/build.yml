@@ -3,6 +3,8 @@ name: Build devdb
 on:
   push:
     branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   build:
@@ -12,7 +14,7 @@ jobs:
         postgres:
           image: postgres:latest
           env:
-            POSTGRES_DB: drdb        
+            POSTGRES_DB: drdb
             POSTGRES_PASSWORD: postgres
             POSTGRES_USER: postgres
           ports:
