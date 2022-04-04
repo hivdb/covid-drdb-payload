@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Truong21,Patient 1,<,2020-06-18,B.1,USA,NULL
+Truong21,Patient 2,<,2020-06-18,B.1.336,USA,NULL
+Truong21,Patient 3,<,2020-05-07,B.1.320,USA,NULL
+Truong21,CP Donor,<,2020-08-15,Unknown variant,USA,NULL

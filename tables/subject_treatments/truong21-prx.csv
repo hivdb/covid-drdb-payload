@@ -1,0 +1,14 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Truong21,Patient 2,Remdesivir,~,2020-07-05,~,2020-07-10,NULL,NULL,Figure 1
+Truong21,Patient 2,Remdesivir,~,2020-07-25,~,2020-08-01,NULL,NULL,Figure 1
+Truong21,Patient 2,CP,=,2020-09-04,=,2020-09-04,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-09-29,=,2020-09-29,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-10-06,=,2020-10-06,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-10-19,=,2020-10-19,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-10-26,=,2020-10-26,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-11-02,=,2020-11-02,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-11-09,=,2020-11-09,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-11-23,=,2020-11-23,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-11-30,=,2020-11-30,NULL,NULL,Table 1
+Truong21,Patient 2,CP,=,2020-12-07,=,2020-12-07,NULL,NULL,Table 1
+Truong21,Patient 3,Remdesivir,~,2020-06-04,~,2020-06-09,NULL,NULL,Figure 1

@@ -2162,6 +2162,10 @@ Trinite21,CP_Mar20_late,Human,NULL,NULL,16
 Trombetta21,CP,Human,NULL,NULL,42
 Truffot21,Donor,Human,NULL,NULL,1
 Truffot21,Patient,Human,1949,Medical,1
+Truong21,CP Donor,Human,NULL,NULL,10
+Truong21,Patient 1,Human,2017,Medical,1
+Truong21,Patient 2,Human,1999,Medical,1
+Truong21,Patient 3,Human,2018,Medical,1
 Turner21,BNT_infected,Human,NULL,NULL,8
 Turner21,BNT_uninfected,Human,NULL,NULL,33
 Uriu21,BNT_005-3,Human,1987,NULL,1
