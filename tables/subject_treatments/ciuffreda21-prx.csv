@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Ciuffreda21,Patient,Hydroxychloroquine,=,2020-04-15,=,2020-04-26,NULL,NULL,Figure 1A
+Ciuffreda21,Patient,Remdesivir,=,2020-05-15,=,2020-05-25,NULL,NULL,Figure 1A
+Ciuffreda21,Patient,Remdesivir,=,2020-07-26,=,2020-08-03,NULL,NULL,Figure 1A
+Ciuffreda21,Patient,Lopinavir/Ritonavir,=,2020-08-10,=,2020-08-25,NULL,NULL,Figure 1A
+Ciuffreda21,Patient,CP,=,2020-08-23,=,2020-08-23,NULL,NULL,Figure 1A
