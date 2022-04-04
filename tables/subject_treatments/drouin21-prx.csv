@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Drouin21,Patient,Hydroxychloroquine,~,2020-04-05,~,2020-04-12,400,mg,"Section ""Case Report Presentation"" & Figure 1"
+Drouin21,Patient,Azithromycin,~,2020-04-05,~,2020-04-10,500,mg,"Section ""Case Report Presentation"" & Figure 1"
+Drouin21,Patient,Lopinavir/Ritonavir,~,2020-04-10,~,2020-04-19,500,mg,"Section ""Case Report Presentation"" & Figure 1"
+Drouin21,Patient,CP,~,2020-05-04,~,2020-05-04,NULL,NULL,"Section ""Case Report Presentation"" & Figure 1"
+Drouin21,Patient,CP,~,2020-05-24,~,2020-05-24,NULL,NULL,"Section ""Case Report Presentation"" & Figure 1"
+Drouin21,Patient,Remdesivir,~,2020-05-25,~,2020-05-25,200,mg,"Section ""Case Report Presentation"" & Figure 1"
+Drouin21,Patient,Remdesivir,~,2020-05-26,~,2020-06-04,100,mg,"Section ""Case Report Presentation"" & Figure 1"
+Drouin21,Patient,IVIG,~,2020-06-19,~,2020-06-19,NULL,NULL,Figure 1
+Drouin21,Patient,IVIG,~,2020-09-22,~,2020-09-22,NULL,NULL,Figure 1
+Drouin21,Patient,REGN-COV,~,2020-12-30,~,2020-12-30,2400,mg,"Section ""Results"" & Figure 1"
+Drouin21,Patient,REGN-COV,~,2021-02-03,~,2021-02-03,8000,mg,"Section ""Results"" & Figure 1"

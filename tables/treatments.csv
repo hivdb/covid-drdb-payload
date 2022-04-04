@@ -525,6 +525,7 @@ Ding21,B38
 Dong21,AZD7442
 Dong21,AZD8895
 Dong21,AZD1061
+Drouin21,REGN-COV
 Du20,BD-368-2
 Du20,BD-629
 Du20,BD-368-2+BD-629
@@ -6098,6 +6099,7 @@ Drews21,CP_CIHR000503
 Drews21,CP_CIHR002076
 Drews21,CP_CIHR002309
 Drews21,CP_CIHR002774
+Drouin21,CP
 Dupont21,CP_first_wave_20d_1
 Dupont21,CP_first_wave_20d_2
 Dupont21,CP_first_wave_20d_3
@@ -27027,3 +27029,8 @@ Truong21,Remdesivir
 Ciuffreda21,Hydroxychloroquine
 Ciuffreda21,Remdesivir
 Ciuffreda21,Lopinavir/Ritonavir
+Drouin21,Hydroxychloroquine
+Drouin21,Azithromycin
+Drouin21,Lopinavir/Ritonavir
+Drouin21,Remdesivir
+Drouin21,IVIG
