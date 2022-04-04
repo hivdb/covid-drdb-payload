@@ -1108,12 +1108,12 @@ Jangra21,CP_P7,Human,NULL,NULL,1
 Jangra21,CP_P8,Human,NULL,NULL,1
 Jangra21,CP_P9,Human,NULL,NULL,1
 Jensen21,Donor,Human,NULL,NULL,1
-Jensen21,Patient 1,Human,1948,NULL,1
-Jensen21,Patient 2,Human,1978,NULL,1
-Jensen21,Patient 3,Human,1958,NULL,1
-Jensen21,Patient 4,Human,1952,NULL,1
-Jensen21,Patient 5,Human,1952,NULL,1
-Jensen21,Patient 6,Human,1955,NULL,1
+Jensen21,Patient 1,Human,1948,Medical,1
+Jensen21,Patient 2,Human,1978,HIV,1
+Jensen21,Patient 3,Human,1958,Medical,1
+Jensen21,Patient 4,Human,1952,Medical,1
+Jensen21,Patient 5,Human,1952,Medical,1
+Jensen21,Patient 6,Human,1955,Medical,1
 Jongeneelen21,Ad26.COV2.S,Human,NULL,NULL,8
 Ju22,CP,Human,NULL,NULL,19
 Kant21,Covaxin,Human,1956,NULL,40
