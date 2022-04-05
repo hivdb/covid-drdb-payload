@@ -1199,6 +1199,10 @@ Kurahashi22,CP_pneumonia_term3,Human,NULL,NULL,17
 Kurahashi22,CP_wo_pneumonia_term1_vaccinated,Human,NULL,NULL,8
 Kuzmina21,BNT,Human,NULL,NULL,10
 Kuzmina21,CP,Human,NULL,NULL,10
+Lang-Meli22,CP Donor,Human,NULL,NULL,8
+Lang-Meli22,Patient 1,Human,1959,Medical,1
+Lang-Meli22,Patient 2,Human,1965,Medical,1
+Lang-Meli22,Patient 3,Human,1949,Medical,1
 Lapa22,BNT162b2,Human,NULL,NULL,17
 Lapa22,CP,Human,NULL,NULL,23
 Lapa22,Sputnik_V,Human,NULL,NULL,16
