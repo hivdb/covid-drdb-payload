@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Fenaux21,Patient,Bamlanivimab,=,2021-04-15,=,2021-04-15,700,mg,Figure 1
+Fenaux21,Patient,Etesevimab,=,2021-04-15,=,2021-04-15,1400,mg,Figure 1
+Fenaux21,Patient,CP,=,2021-04-30,=,2021-04-30,NULL,NULL,Figure 1
+Fenaux21,Patient,CP,=,2021-05-01,=,2021-05-01,NULL,NULL,Figure 1
