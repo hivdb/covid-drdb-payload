@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Gandhi22,Patient,Remdesivir,~,2020-09-26,~,2020-10-05,NULL,NULL,Figure 2
+Gandhi22,Patient,Casirivimab/Imdevimab,~,2020-10-11,~,2020-10-11,8000,mg,Figure 2
