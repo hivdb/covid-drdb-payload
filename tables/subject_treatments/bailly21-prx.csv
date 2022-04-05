@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Bailly21,Patient,CP,=,2020-10-06,=,2020-10-06,NULL,NULL,Figure 1
+Bailly21,Patient,CP,=,2020-10-08,=,2020-10-08,NULL,NULL,Figure 1
+Bailly21,Patient,CP,=,2020-12-22,=,2020-12-22,NULL,NULL,Figure 1
+Bailly21,Patient,CP,=,2020-12-23,=,2020-12-23,NULL,NULL,Figure 1
+Bailly21,Patient,Remdesivir,=,2020-10-22,=,2020-10-31,NULL,NULL,Figure 1
+Bailly21,Patient,REGN-COV2,=,2021-04-21,=,2021-04-21,2400,mg,Figure 1
