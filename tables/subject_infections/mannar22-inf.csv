@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Mannar22,all_convalescent_wt_omicron,~,2021-03-01,Unknown variant,Canada,NULL
+Mannar22,all_convalescent_delta_omicron,~,2021-03-01,Unknown variant,Canada,NULL
+Mannar22,delta_convalescent_wt__omicron,~,2021-07-01,Delta,Canada,NULL
+Mannar22,alpha_convalescent_wt__omicron,~,2021-01-01,Alpha,Canada,NULL
+Mannar22,gamma_convalescent_wt__omicron,~,2021-03-01,Gamma,Canada,NULL
+Mannar22,delta_convalescent_delta__omicron,~,2021-07-01,Delta,Canada,NULL
+Mannar22,alpha_convalescent_delta__omicron,~,2021-01-01,Alpha,Canada,NULL
+Mannar22,gamma_convalescent_delta__omicron,~,2021-03-01,Gamma,Canada,NULL
