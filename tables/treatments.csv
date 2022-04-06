@@ -42,6 +42,7 @@ Arora21b,Etesevimab
 AstraZenica21c,AZD8895
 AstraZenica21c,AZD1061
 AstraZenica21c,AZD7442
+Bailly21,REGN-COV2
 Baum20,REGN10989_Table1
 Baum20,REGN10987_Table1
 Baum20,REGN10933_Table1
@@ -565,6 +566,8 @@ FDA21c,CIL+TIX
 FDA21c,CIL
 FDA21c,TIX
 FDA22,Bebtelovimab
+Fenaux21,Bamlanivimab
+Fenaux21,Etesevimab
 Fenwick21,P5C3-LS
 Fenwick21,P5C3
 Fenwick21,REGN10933
@@ -585,6 +588,7 @@ Focosi21b,Bamlanivimab/Etesevimab
 Francino-Urdaniz21,CC6.29
 Francino-Urdaniz21,CC12.1
 Francino-Urdaniz21,CC12.3
+Gandhi22,Casirivimab/Imdevimab
 Gottlieb21,Bamlanivimab
 Gottlieb21,Etesevimab
 Graham21,P054_004
@@ -1004,6 +1008,7 @@ Rees-Spear21,COVA2-04
 Rees-Spear21,COVA2-07
 Rees-Spear21,COVA2-17
 Rees-Spear21,COVA2-29
+Rockett22,Sotrovimab
 Rothenberger21,REGN10933
 Rothenberger21,REGN10987
 Ryu21,CT-P59
@@ -2787,6 +2792,7 @@ Assawakosri22,mRNA_1273_omicron_28d
 Avanzato20,Donor1_CP
 Avanzato20,Donor2_CP
 Baang21,Donor_CP
+Bailly21,CP
 Banerjee22,CP_Delta_inf_1
 Banerjee22,CP_Delta_inf_2
 Banerjee22,CP_Delta_inf_3
@@ -7744,6 +7750,7 @@ Faulkner21,CP_B.1.1.7_26
 Faulkner21,CP_B.1.1.7_27
 Faulkner21,CP_B.1.1.7_28
 Faulkner21,CP_B.1.1.7_29
+Fenaux21,CP
 Fernandez21,CoronaVac_age1_1
 Fernandez21,CoronaVac_age1_2
 Fernandez21,CoronaVac_age1_3
@@ -11242,6 +11249,7 @@ Kuzmina21,CP_07
 Kuzmina21,CP_08
 Kuzmina21,CP_09
 Kuzmina21,CP_10
+Lang-Meli22,CP
 Lapa22,BNT162b2_2wk_1
 Lapa22,BNT162b2_2wk_2
 Lapa22,BNT162b2_2wk_3
@@ -27042,3 +27050,7 @@ Drouin21,Azithromycin
 Drouin21,Lopinavir/Ritonavir
 Drouin21,Remdesivir
 Drouin21,IVIG
+Rockett22,Remdesivir
+Bailly21,Remdesivir
+Gandhi22,Remdesivir
+Leung22,Remdesivir

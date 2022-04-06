@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Rockett22,R001,Remdesivir,~,2021-10-11,~,2021-10-11,NULL,NULL,Table S1
+Rockett22,R001,Sotrovimab,=,2021-10-11,=,2021-10-11,NULL,NULL,Table S2
+Rockett22,R002,Remdesivir,~,2021-10-14,~,2021-10-14,NULL,NULL,Table S1
+Rockett22,R002,Sotrovimab,=,2021-10-14,=,2021-10-14,NULL,NULL,Table S2
+Rockett22,R003,Sotrovimab,=,2021-09-30,=,2021-09-30,NULL,NULL,Table S2
+Rockett22,R004,Sotrovimab,=,2021-09-01,=,2021-09-01,NULL,NULL,Table S2
+Rockett22,R005,Sotrovimab,=,2021-08-28,=,2021-08-28,NULL,NULL,Table S2
+Rockett22,R006,Remdesivir,~,2021-08-21,~,2021-08-21,NULL,NULL,Table S1
+Rockett22,R006,Sotrovimab,=,2021-08-21,=,2021-08-21,NULL,NULL,Table S2
+Rockett22,R007,Sotrovimab,=,2021-09-25,=,2021-09-25,NULL,NULL,Table S2
+Rockett22,R008,Sotrovimab,=,2021-09-04,=,2021-09-04,NULL,NULL,Table S2

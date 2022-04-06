@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+Lang-Meli22,Patient 1,~,2020-10-21,B.1.1.37,Germany,Figure E2
+Lang-Meli22,Patient 2,~,2020-11-18,B.1.1.70,Germany,Figure E2
+Lang-Meli22,Patient 3,~,2020-10-31,B.1.1,Germany,Figure E2
+Lang-Meli22,CP Donor,<,2020-10-15,Unknown variant,Germany,NULL

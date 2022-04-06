@@ -1,4 +1,4 @@
-﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,expandable
-Taha21 C1d029,B.1.389,FALSE,NULL,NULL,TRUE
-Taha21 C1d079,B.1.389,FALSE,NULL,NULL,TRUE
-Taha21 C1d150,B.1.389,FALSE,NULL,NULL,TRUE
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+Taha21 C1d029,B.1.389,FALSE,NULL,NULL,NULL,TRUE
+Taha21 C1d079,B.1.389,FALSE,NULL,NULL,NULL,TRUE
+Taha21 C1d150,B.1.389,FALSE,NULL,NULL,NULL,TRUE
