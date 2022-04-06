@@ -266,6 +266,10 @@ Chen21b,Patient_TA,Human,1965,Medical,1
 Chen21c,CoronaVac,Human,NULL,NULL,93
 Chen22b,recovered_patient,Human,NULL,NULL,15
 Chen22b,vaccine_recipient,Human,NULL,NULL,34
+Chen22c,3dose,Human,NULL,NULL,1
+Chen22c,BA2_CP,Human,NULL,NULL,1
+Chen22c,PreVOC_CP,Human,NULL,NULL,1
+Chen22c,PreVOC_CP_1dose,Human,NULL,NULL,1
 Cheng22,BNT162b2_2_doses,Human,NULL,NULL,31
 Cheng22,BNT162b2_3_doses,Human,NULL,NULL,25
 Cheng22,CP,Human,NULL,NULL,30

@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
 Chen22c,PreVOC_CP_1dose,~,2020-09-30,B.1,China,NULL
 Chen22c,PreVOC_CP,~,2020-09-30,B.1,China,NULL
 Chen22c,BA2_CP,~,2021-12-01,Omicron/BA.2,China,NULL
