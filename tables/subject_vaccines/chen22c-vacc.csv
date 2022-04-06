@@ -1,0 +1,5 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Chen22c,3dose,~,2021-01-01,BNT162b2 + CoronaVac,1,China,NULL
+Chen22c,3dose,~,2021-02-01,BNT162b2 + CoronaVac,2,China,NULL
+Chen22c,3dose,~,2021-08-01,BNT162b2 + CoronaVac,3,China,NULL
+Chen22c,PreVOC_CP_1dose,~,2021-06-01,BNT162b2 + CoronaVac,1,China,NULL
