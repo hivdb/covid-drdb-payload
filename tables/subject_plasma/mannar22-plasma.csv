@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Mannar22,all_convalescent_wt_omicron,all_convalescent_wt_omicron,~,2021-04-01,Canada,all_convalescent_wt_omicron,NULL
+Mannar22,all_convalescent_delta_omicron,all_convalescent_delta_omicron,~,2021-04-01,Canada,all_convalescent_delta_omicron,NULL
+Mannar22,delta_convalescent_wt__omicron,delta_convalescent_wt__omicron,~,2021-08-01,Canada,delta_convalescent_wt__omicron,NULL
+Mannar22,alpha_convalescent_wt__omicron,alpha_convalescent_wt__omicron,~,2021-02-01,Canada,alpha_convalescent_wt__omicron,NULL
+Mannar22,gamma_convalescent_wt__omicron,gamma_convalescent_wt__omicron,~,2021-04-01,Canada,gamma_convalescent_wt__omicron,NULL
+Mannar22,delta_convalescent_delta__omicron,delta_convalescent_delta__omicron,~,2021-08-01,Canada,delta_convalescent_delta__omicron,NULL
+Mannar22,alpha_convalescent_delta__omicron,alpha_convalescent_delta__omicron,~,2021-02-01,Canada,alpha_convalescent_delta__omicron,NULL
+Mannar22,gamma_convalescent_delta__omicron,gamma_convalescent_delta__omicron,~,2021-04-01,Canada,gamma_convalescent_delta__omicron,NULL

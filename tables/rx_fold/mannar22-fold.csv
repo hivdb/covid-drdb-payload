@@ -1,0 +1,9 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Mannar22,all_convalescent_wt_omicron,B.1 Spike,B.1.1.529 Spike,Figure 4C,Pseudovirus (lentivirus),NT50,=,6.3,NULL,NULL,68,2022-04-04
+Mannar22,all_convalescent_delta_omicron,B.1.617.2 Spike,B.1.1.529 Spike,Figure 4C,Pseudovirus (lentivirus),NT50,=,8.2,NULL,NULL,68,2022-04-04
+Mannar22,delta_convalescent_wt__omicron,B.1 Spike,B.1.1.529 Spike,Figure 4D,Pseudovirus (lentivirus),NT50,=,3.4,NULL,NULL,28,2022-04-04
+Mannar22,alpha_convalescent_wt__omicron,B.1 Spike,B.1.1.529 Spike,Figure 4D,Pseudovirus (lentivirus),NT50,=,13.0,NULL,NULL,27,2022-04-04
+Mannar22,gamma_convalescent_wt__omicron,B.1 Spike,B.1.1.529 Spike,Figure 4D,Pseudovirus (lentivirus),NT50,=,5.5,NULL,NULL,13,2022-04-04
+Mannar22,delta_convalescent_delta__omicron,B.1.617.2 Spike,B.1.1.529 Spike,Figure 4D,Pseudovirus (lentivirus),NT50,=,10.5,NULL,NULL,28,2022-04-04
+Mannar22,alpha_convalescent_delta__omicron,B.1.617.2 Spike,B.1.1.529 Spike,Figure 4D,Pseudovirus (lentivirus),NT50,=,8.6,NULL,NULL,27,2022-04-04
+Mannar22,gamma_convalescent_delta__omicron,B.1.617.2 Spike,B.1.1.529 Spike,Figure 4D,Pseudovirus (lentivirus),NT50,=,4.3,NULL,NULL,13,2022-04-04

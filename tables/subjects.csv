@@ -1495,6 +1495,14 @@ Lusvarghi21,Delta_infection,Human,1980,NULL,17
 Lynch21,Patient,Human,1968,Medical,1
 Madhi21,AZD1222,Human,NULL,NULL,25
 Mallm21,BNT162b2,Human,NULL,NULL,6
+Mannar22,all_convalescent_delta_omicron,Human,NULL,NULL,68
+Mannar22,all_convalescent_wt_omicron,Human,NULL,NULL,68
+Mannar22,alpha_convalescent_delta__omicron,Human,NULL,NULL,27
+Mannar22,alpha_convalescent_wt__omicron,Human,NULL,NULL,27
+Mannar22,delta_convalescent_delta__omicron,Human,NULL,NULL,28
+Mannar22,delta_convalescent_wt__omicron,Human,NULL,NULL,28
+Mannar22,gamma_convalescent_delta__omicron,Human,NULL,NULL,13
+Mannar22,gamma_convalescent_wt__omicron,Human,NULL,NULL,13
 Marot21,BNT162b2,Human,NULL,NULL,29
 Marot21,CP,Human,NULL,NULL,15
 McCallum21b,BNT162b2,Human,NULL,NULL,14
