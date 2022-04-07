@@ -34,6 +34,7 @@ jobs:
           POSTGRES_PORT: 5432
           POSTGRES_HOST: localhost
         run: |
+          set -e
           cd ..
           git clone https://github.com/hivdb/covid-drdb
           cd covid-drdb
