@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Zou22,CP_OmicronBA1_01,WA1 Spike,Table 1,SARS-CoV-2 recombinant,NT50,10,1,20480,20,NULL,2022-04-06
 Zou22,CP_OmicronBA1_02,WA1 Spike,Table 1,SARS-CoV-2 recombinant,NT50,10,1,20480,20,NULL,2022-04-06
 Zou22,CP_OmicronBA1_03,WA1 Spike,Table 1,SARS-CoV-2 recombinant,NT50,14,1,20480,20,NULL,2022-04-06

@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
 Zou22,CP_OmicronBA1_01,=,2022-01-01,Omicron/BA.1,USA,NULL
 Zou22,CP_OmicronBA1_02,=,2022-01-01,Omicron/BA.1,USA,NULL
 Zou22,CP_OmicronBA1_03,=,2022-01-01,Omicron/BA.1,USA,NULL
