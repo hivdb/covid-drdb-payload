@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Pederson22,ancestral_strain_01,CoV-2/human/DNK/7021443445/2021,Figure 1,Virus isolate,NT90,5120,1,5120,10,NULL,2022-04-07
 Pederson22,ancestral_strain_02,CoV-2/human/DNK/7021443445/2021,Figure 1,Virus isolate,NT90,2560,1,5120,10,NULL,2022-04-07
 Pederson22,ancestral_strain_03,CoV-2/human/DNK/7021443445/2021,Figure 1,Virus isolate,NT90,1280,1,5120,10,NULL,2022-04-07
