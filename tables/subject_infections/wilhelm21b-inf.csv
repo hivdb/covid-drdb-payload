@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Wilhelm21b,BNT_2dose_infection,<,2021-01-01,Unknown variant,Germany,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Wilhelm21b,BNT_2dose_infection,<,2021-01-01,Unknown variant,Germany,NULL,NULL,NULL

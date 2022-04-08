@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Ding21,CP,~,2020-04-01,B.1,China,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Ding21,CP,~,2020-04-01,B.1,China,NULL,NULL,NULL

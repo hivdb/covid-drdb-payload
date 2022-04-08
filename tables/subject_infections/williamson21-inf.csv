@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Williamson21,Patient,<,2020-05-09,B.52,UK,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Williamson21,Patient,<,2020-05-09,B.52,UK,Medical,Hospitalized,NULL

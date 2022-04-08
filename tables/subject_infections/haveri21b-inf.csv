@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Haveri21b,WT_BNT,~,2020-08-01,B.1,Finland,NULL
-Haveri21b,Alpha_BNT,~,2021-01-01,Alpha,Finland,NULL
-Haveri21b,Beta_BNT,~,2021-01-01,Beta,Finland,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Haveri21b,WT_BNT,~,2020-08-01,B.1,Finland,NULL,NULL,NULL
+Haveri21b,Alpha_BNT,~,2021-01-01,Alpha,Finland,NULL,NULL,NULL
+Haveri21b,Beta_BNT,~,2021-01-01,Beta,Finland,NULL,NULL,NULL

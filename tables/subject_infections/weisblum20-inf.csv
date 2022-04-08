@@ -1,5 +1,5 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Weisblum20,COV-NY,<,2020-04-24,B.1,USA NY,NULL
-Weisblum20,COV47,<,2020-04-05,B.1,USA NY,NULL
-Weisblum20,COV-72,<,2020-04-05,B.1,USA NY,NULL
-Weisblum20,COV-107,<,2020-04-05,B.1,USA NY,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Weisblum20,COV-NY,<,2020-04-24,B.1,USA NY,NULL,Mild,NULL
+Weisblum20,COV47,<,2020-04-05,B.1,USA NY,NULL,Severe,NULL
+Weisblum20,COV-72,<,2020-04-05,B.1,USA NY,NULL,NULL,NULL
+Weisblum20,COV-107,<,2020-04-05,B.1,USA NY,NULL,NULL,NULL

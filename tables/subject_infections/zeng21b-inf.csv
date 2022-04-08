@@ -1,5 +1,5 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Zeng21b,first_wave_ICU,~,2020-09-01,B.1,USA,NULL
-Zeng21b,first_wave_Hospitalized,~,2020-09-01,B.1,USA,NULL
-Zeng21b,Delta_wave_unvaccinated,~,2021-06-01,Delta,USA,NULL
-Zeng21b,Delta_wave_vaccinated,~,2021-06-01,Delta,USA,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Zeng21b,first_wave_ICU,~,2020-09-01,B.1,USA,NULL,Severe,NULL
+Zeng21b,first_wave_Hospitalized,~,2020-09-01,B.1,USA,NULL,Severe,NULL
+Zeng21b,Delta_wave_unvaccinated,~,2021-06-01,Delta,USA,NULL,Severe,NULL
+Zeng21b,Delta_wave_vaccinated,~,2021-06-01,Delta,USA,NULL,Severe,NULL

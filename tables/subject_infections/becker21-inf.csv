@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Becker21,CP,~,2020-08-01,B.1,Germany,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Becker21,CP,~,2020-08-01,B.1,Germany,NULL,NULL,NULL

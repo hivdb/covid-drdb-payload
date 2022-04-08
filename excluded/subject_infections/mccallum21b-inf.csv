@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-McCallum21b,CP_B.1.1.7,~,2020-12-17,Alpha,Switzerland,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+McCallum21b,CP_B.1.1.7,~,2020-12-17,Alpha,Switzerland,NULL,NULL,NULL

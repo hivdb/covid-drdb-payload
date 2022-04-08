@@ -1,9 +1,9 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Bekliz21,CP_D614G,~,2020-05-01,B.1,Switzerland,NULL
-Bekliz21,CP_Alpha,~,2020-12-31,Alpha,Switzerland,NULL
-Bekliz21,CP_Beta,~,2021-05-01,Beta,Switzerland,NULL
-Bekliz21,CP_Gamma,~,2021-04-01,Gamma,Switzerland,NULL
-Bekliz21,CP_Delta,~,2021-07-01,Delta,Switzerland,NULL
-Bekliz21,CP_mRNA,~,2021-01-01,Unknown variant,Switzerland,NULL
-Bekliz21,mRNA_Delta,~,2021-05-01,Delta,Switzerland,NULL
-Bekliz21,mRNA_Omicron,~,2021-12-01,Omicron/BA.1,Switzerland,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Bekliz21,CP_D614G,~,2020-05-01,B.1,Switzerland,NULL,NULL,NULL
+Bekliz21,CP_Alpha,~,2020-12-31,Alpha,Switzerland,NULL,NULL,NULL
+Bekliz21,CP_Beta,~,2021-05-01,Beta,Switzerland,NULL,NULL,NULL
+Bekliz21,CP_Gamma,~,2021-04-01,Gamma,Switzerland,NULL,NULL,NULL
+Bekliz21,CP_Delta,~,2021-07-01,Delta,Switzerland,NULL,NULL,NULL
+Bekliz21,CP_mRNA,~,2021-01-01,Unknown variant,Switzerland,NULL,NULL,NULL
+Bekliz21,mRNA_Delta,~,2021-05-01,Delta,Switzerland,NULL,NULL,NULL
+Bekliz21,mRNA_Omicron,~,2021-12-01,Omicron/BA.1,Switzerland,NULL,NULL,NULL

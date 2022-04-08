@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Moriyama21,CP_Mild,~,2020-08-01,B.1,Japan,NULL
-Moriyama21,CP_Moderate,~,2020-08-01,B.1,Japan,NULL
-Moriyama21,CP_Severe,~,2020-08-01,B.1,Japan,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Moriyama21,CP_Mild,~,2020-08-01,B.1,Japan,NULL,Mild,NULL
+Moriyama21,CP_Moderate,~,2020-08-01,B.1,Japan,NULL,Moderate,NULL
+Moriyama21,CP_Severe,~,2020-08-01,B.1,Japan,NULL,Severe,NULL

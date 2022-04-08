@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Cheng22,CP,~,2021-01-01,Unknown variant,China,NULL
-Cheng22,CP_BNT162b2_1_dose,~,2021-02-01,Unknown variant,China,NULL
-Cheng22,CP_CoronaVac_1_dose,~,2021-02-01,Unknown variant,China,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Cheng22,CP,~,2021-01-01,Unknown variant,China,NULL,NULL,NULL
+Cheng22,CP_BNT162b2_1_dose,~,2021-02-01,Unknown variant,China,NULL,NULL,NULL
+Cheng22,CP_CoronaVac_1_dose,~,2021-02-01,Unknown variant,China,NULL,NULL,NULL

@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Hayashi21,CP,~,2020-11-15,B.1,Japan,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Hayashi21,CP,~,2020-11-15,B.1,Japan,NULL,NULL,NULL

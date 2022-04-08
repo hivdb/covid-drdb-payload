@@ -1,11 +1,11 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Li20h,CP_01,~,2020-01-19,B,"Wuhan, China",NULL
-Li20h,CP_02,~,2020-01-19,B,"Wuhan, China",NULL
-Li20h,CP_03,~,2020-01-19,B,"Wuhan, China",NULL
-Li20h,CP_04,~,2020-01-19,B,"Wuhan, China",NULL
-Li20h,CP_06,~,2020-01-19,B,"Wuhan, China",NULL
-Li20h,CP_07,~,2020-01-19,B,"Wuhan, China",NULL
-Li20h,CP_08,~,2020-01-19,B,"Wuhan, China",NULL
-Li20h,CP_10,~,2020-01-19,B,"Wuhan, China",NULL
-Li20h,CP_86,~,2020-02-04,B,"Shandong, China",NULL
-Li20h,CP_87,~,2020-02-04,B,"Shandong, China",NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Li20h,CP_01,~,2020-01-19,B,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_02,~,2020-01-19,B,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_03,~,2020-01-19,B,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_04,~,2020-01-19,B,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_06,~,2020-01-19,B,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_07,~,2020-01-19,B,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_08,~,2020-01-19,B,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_10,~,2020-01-19,B,"Wuhan, China",NULL,NULL,NULL
+Li20h,CP_86,~,2020-02-04,B,"Shandong, China",NULL,NULL,NULL
+Li20h,CP_87,~,2020-02-04,B,"Shandong, China",NULL,NULL,NULL

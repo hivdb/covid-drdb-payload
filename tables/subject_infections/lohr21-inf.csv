@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Lohr21,Patient,<,2021-01-20,Alpha,Germany,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Lohr21,Patient,<,2021-01-20,Alpha,Germany,Medical,Hospitalized,NULL

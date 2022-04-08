@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Saade21,CP,~,2020-09-01,B.1,France,NULL
-Saade21,CP_Severe,~,2020-06-01,B.1,France,NULL
-Saade21,CP_Mild,~,2020-07-01,B.1,France,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Saade21,CP,~,2020-09-01,B.1,France,NULL,NULL,NULL
+Saade21,CP_Severe,~,2020-06-01,B.1,France,NULL,Hospitalized,NULL
+Saade21,CP_Mild,~,2020-07-01,B.1,France,NULL,Mild,NULL

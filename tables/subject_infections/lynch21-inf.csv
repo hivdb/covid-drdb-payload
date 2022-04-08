@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Lynch21,Patient,<,2020-04-01,B.1.1,Ireland,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Lynch21,Patient,<,2020-04-01,B.1.1,Ireland,Medical,Hospitalized,NULL

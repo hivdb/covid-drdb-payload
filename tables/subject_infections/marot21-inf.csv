@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Marot21,CP,<,2020-06-30,B.1,France,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Marot21,CP,<,2020-06-30,B.1,France,NULL,NULL,NULL

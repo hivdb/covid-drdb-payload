@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Hu22,CP,~,2020-03-01,B,China,Figure 1d
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Hu22,CP,~,2020-03-01,B,China,NULL,NULL,Figure 1d

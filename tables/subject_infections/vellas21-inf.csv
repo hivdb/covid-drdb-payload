@@ -1,6 +1,6 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Vellas21,Patient 1,<,2021-03-20,Alpha,France,"Section ""Materials and methods"""
-Vellas21,Patient 2,<,2021-03-20,Alpha,France,"Section ""Materials and methods"""
-Vellas21,Patient 3,<,2021-03-20,Alpha,France,"Section ""Materials and methods"""
-Vellas21,Patient 4,<,2021-03-20,Alpha,France,"Section ""Materials and methods"""
-Vellas21,Patient 5,<,2021-03-20,Alpha,France,"Section ""Materials and methods"""
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Vellas21,Patient 1,<,2021-03-20,Alpha,France,Medical,Hospitalized,"Section ""Materials and methods"""
+Vellas21,Patient 2,<,2021-03-20,Alpha,France,Medical,Hospitalized,"Section ""Materials and methods"""
+Vellas21,Patient 3,<,2021-03-20,Alpha,France,Medical,Hospitalized,"Section ""Materials and methods"""
+Vellas21,Patient 4,<,2021-03-20,Alpha,France,Medical,Hospitalized,"Section ""Materials and methods"""
+Vellas21,Patient 5,<,2021-03-20,Alpha,France,Medical,Hospitalized,"Section ""Materials and methods"""

@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Wang21j,CP_Mild,~,2020-03-01,B,Singapore,NULL
-Wang21j,CP_Moderate,~,2020-03-01,B,Singapore,NULL
-Wang21j,CP_Severe,~,2020-03-01,B,Singapore,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Wang21j,CP_Mild,~,2020-03-01,B,Singapore,NULL,Mild,NULL
+Wang21j,CP_Moderate,~,2020-03-01,B,Singapore,NULL,Moderate,NULL
+Wang21j,CP_Severe,~,2020-03-01,B,Singapore,NULL,NULL,NULL

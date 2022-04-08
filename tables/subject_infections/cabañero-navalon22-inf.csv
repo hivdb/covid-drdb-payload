@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Cabañero-Navalon22,Patient,~,2020-11-01,B.1.416.1,Spain,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Cabañero-Navalon22,Patient,~,2020-11-01,B.1.416.1,Spain,Medical,Hospitalized,NULL

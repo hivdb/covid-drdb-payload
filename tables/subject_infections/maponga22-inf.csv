@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Maponga22,Adv HIV Patient,<,2021-01-31,Beta,South Africa,Figure 1
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Maponga22,Adv HIV Patient,<,2021-01-31,Beta,South Africa,HIV,Hospitalized,Figure 1

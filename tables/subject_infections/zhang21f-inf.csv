@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Zhang21f,CP,~,2021-02-01,Unknown variant,China,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Zhang21f,CP,~,2021-02-01,Unknown variant,China,NULL,NULL,NULL

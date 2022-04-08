@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Cameroni21,CP_2a,~,2020-09-01,B,USA,NULL
-Cameroni21,CP_Hospitalized,~,2020-09-01,B,Switzerland,NULL
-Cameroni21,CP_BNT,~,2020-09-01,B,Switzerland,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Cameroni21,CP_2a,~,2020-09-01,B,USA,NULL,NULL,NULL
+Cameroni21,CP_Hospitalized,~,2020-09-01,B,Switzerland,NULL,Hospitalized,NULL
+Cameroni21,CP_BNT,~,2020-09-01,B,Switzerland,NULL,NULL,NULL

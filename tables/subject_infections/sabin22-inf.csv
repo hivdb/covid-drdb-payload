@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Sabin22,Household contacts,<,2020-12-06,B.1.311,USA,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Sabin22,Household contacts,<,2020-12-06,B.1.311,USA,None,Non-Hospitalized,NULL

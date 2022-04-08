@@ -1,5 +1,5 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Weigang21,CP_Human,~,2020-04-01,B.1,Germany,NULL
-Weigang21,CP_WT_mice,~,2020-04-01,B.1,NULL,NULL
-Weigang21,CP_d105_mice,~,2020-04-01,B.1.1,NULL,NULL
-Weigang21,BW-FR,=,2020-03-23,B.1.1,Germany,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Weigang21,CP_Human,~,2020-04-01,B.1,Germany,NULL,Mild,NULL
+Weigang21,CP_WT_mice,~,2020-04-01,B.1,NULL,NULL,NULL,NULL
+Weigang21,CP_d105_mice,~,2020-04-01,B.1.1,NULL,NULL,NULL,NULL
+Weigang21,BW-FR,=,2020-03-23,B.1.1,Germany,Medical,NULL,NULL

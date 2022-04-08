@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Planas21c,CP_6M,~,2020-08-27,B.1,France,NULL
-Planas21c,CP_12M,~,2020-08-27,B.1,France,NULL
-Planas21c,CP_12M_BNT_1dose,~,2020-08-27,B.1,France,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Planas21c,CP_6M,~,2020-08-27,B.1,France,NULL,NULL,NULL
+Planas21c,CP_12M,~,2020-08-27,B.1,France,NULL,NULL,NULL
+Planas21c,CP_12M_BNT_1dose,~,2020-08-27,B.1,France,NULL,NULL,NULL

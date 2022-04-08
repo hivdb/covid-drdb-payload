@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Changrob21,CP,~,2020-03-23,B,USA,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Changrob21,CP,~,2020-03-23,B,USA,NULL,NULL,NULL

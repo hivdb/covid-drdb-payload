@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Miyakawa21b,BNT_2dose_recovered,<,2020-12-31,B.1,Japan,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Miyakawa21b,BNT_2dose_recovered,<,2020-12-31,B.1,Japan,NULL,NULL,NULL

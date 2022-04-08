@@ -1,5 +1,5 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Dupont21,CP_first_wave,~,2020-01-01,B.1,UK,NULL
-Dupont21,CP_Alpha,~,2021-01-01,Alpha,UK,NULL
-Dupont21,CP_Beta,~,2021-01-01,Beta,UK,NULL
-Dupont21,CP_Delta,~,2021-01-01,Alpha,UK,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Dupont21,CP_first_wave,~,2020-01-01,B.1,UK,NULL,NULL,NULL
+Dupont21,CP_Alpha,~,2021-01-01,Alpha,UK,NULL,NULL,NULL
+Dupont21,CP_Beta,~,2021-01-01,Beta,UK,NULL,NULL,NULL
+Dupont21,CP_Delta,~,2021-01-01,Alpha,UK,NULL,NULL,NULL

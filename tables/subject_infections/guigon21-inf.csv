@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Guigon21,Patient,<,2021-04-28,Alpha,France,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Guigon21,Patient,<,2021-04-28,Alpha,France,Medical,Hospitalized,NULL

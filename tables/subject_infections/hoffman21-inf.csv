@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Hoffman21,HIV Patient,<,2021-01-09,B.1.234,"USA, California",First paragraph
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Hoffman21,HIV Patient,<,2021-01-09,B.1.234,"USA, California",HIV,Non-Hospitalized,First paragraph

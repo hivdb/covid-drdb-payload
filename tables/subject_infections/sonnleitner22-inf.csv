@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Sonnleitner22,Patient,~,2020-11-09,B.1.1.232,Austria,Figure 6 and GISAID metadata
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Sonnleitner22,Patient,~,2020-11-09,B.1.1.232,Austria,Medical,Hospitalized,Figure 6 and GISAID metadata

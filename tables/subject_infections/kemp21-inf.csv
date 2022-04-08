@@ -1,6 +1,6 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Kemp21,CP_1,<,2020-10-24,B.1,UK,NULL
-Kemp21,CP_2,<,2020-10-02,B.1,UK,NULL
-Kemp21,CP_3,<,2020-09-21,B.1,UK,NULL
-Kemp21,Septuagenarian male,=,2020-05-13,C.35,"England, UK",NULL
-Kemp21,Donor,<,2020-06-15,B.1,"England, UK",NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Kemp21,CP_1,<,2020-10-24,B.1,UK,NULL,Severe,NULL
+Kemp21,CP_2,<,2020-10-02,B.1,UK,NULL,Severe,NULL
+Kemp21,CP_3,<,2020-09-21,B.1,UK,NULL,Severe,NULL
+Kemp21,Septuagenarian male,=,2020-05-13,C.35,"England, UK",Medical,Hospitalized,NULL
+Kemp21,Donor,<,2020-06-15,B.1,"England, UK",NULL,NULL,NULL

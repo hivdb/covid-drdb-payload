@@ -1,6 +1,6 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Trinite21,CP_Mar20_early,~,2020-03-01,B.1,Spain,NULL
-Trinite21,CP_Mar20_late,~,2020-03-01,B.1,Spain,NULL
-Trinite21,CP_Aug20,~,2020-08-01,B.1,Spain,NULL
-Trinite21,CP_B.1.1.7,~,2021-01-01,Alpha,Spain,NULL
-Trinite21,BNT_infected,~,2020-02-12,B.1,Spain,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Trinite21,CP_Mar20_early,~,2020-03-01,B.1,Spain,NULL,NULL,NULL
+Trinite21,CP_Mar20_late,~,2020-03-01,B.1,Spain,NULL,NULL,NULL
+Trinite21,CP_Aug20,~,2020-08-01,B.1,Spain,NULL,NULL,NULL
+Trinite21,CP_B.1.1.7,~,2021-01-01,Alpha,Spain,NULL,NULL,NULL
+Trinite21,BNT_infected,~,2020-02-12,B.1,Spain,NULL,NULL,NULL

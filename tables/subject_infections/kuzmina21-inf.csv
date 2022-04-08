@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Kuzmina21,CP,<,2020-11-21,B.1,Israel,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Kuzmina21,CP,<,2020-11-21,B.1,Israel,NULL,NULL,NULL

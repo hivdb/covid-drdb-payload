@@ -1,5 +1,5 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Stanevich21,Patient S,=,2020-04-19,B.1.1,Russia,NULL
-Stanevich21,Donor 1,<,2020-12-11,B,Russia,NULL
-Stanevich21,Donor 2,<,2020-12-15,B,Russia,NULL
-Stanevich21,Donor 3,<,2020-12-18,B,Russia,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Stanevich21,Patient S,=,2020-04-19,B.1.1,Russia,Medical,Severe,NULL
+Stanevich21,Donor 1,<,2020-12-11,B,Russia,NULL,NULL,NULL
+Stanevich21,Donor 2,<,2020-12-15,B,Russia,NULL,NULL,NULL
+Stanevich21,Donor 3,<,2020-12-18,B,Russia,NULL,NULL,NULL

@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Syed21,CP,~,2021-01-01,Unknown variant,USA,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Syed21,CP,~,2021-01-01,Unknown variant,USA,NULL,NULL,NULL

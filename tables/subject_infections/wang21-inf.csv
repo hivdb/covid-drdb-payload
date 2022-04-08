@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Wang21,CP,~,2020-06-28,B.1,USA,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Wang21,CP,~,2020-06-28,B.1,USA,NULL,NULL,NULL

@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Chen22b,recovered_patient,~,2021-01-01,B.1.36.27,China,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Chen22b,recovered_patient,~,2021-01-01,B.1.36.27,China,NULL,NULL,NULL

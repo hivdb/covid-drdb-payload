@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Zhou21c,CP,<,2020-05-01,B.1,USA NY,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Zhou21c,CP,<,2020-05-01,B.1,USA NY,NULL,NULL,NULL

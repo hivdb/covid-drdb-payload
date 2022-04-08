@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Ren21,CP_Group1,~,2020-04-01,B.1,China,NULL
-Ren21,CP_Group2,~,2020-04-01,B.1,China,NULL
-Ren21,CP_Group3,~,2020-04-01,B.1,China,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Ren21,CP_Group1,~,2020-04-01,B.1,China,NULL,NULL,NULL
+Ren21,CP_Group2,~,2020-04-01,B.1,China,NULL,NULL,NULL
+Ren21,CP_Group3,~,2020-04-01,B.1,China,NULL,NULL,NULL

@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Focosi21b,VA-CF,=,2021-04-24,Alpha,Italy,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Focosi21b,VA-CF,=,2021-04-24,Alpha,Italy,NULL,Hospitalized,NULL

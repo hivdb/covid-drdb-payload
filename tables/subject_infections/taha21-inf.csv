@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Taha21,Case 1,<,2020-09-14,B.1.389,UK,"Section ""Case 1"""
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Taha21,Case 1,<,2020-09-14,B.1.389,UK,Medical,Hospitalized,"Section ""Case 1"""

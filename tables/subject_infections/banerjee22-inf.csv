@@ -1,4 +1,4 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Banerjee22,CP_Delta_inf,~,2021-06-10,Delta,Canada,Table S3
-Banerjee22,CP_Ances_inf,~,2020-04-15,B.1,Canada,Table S3
-Banerjee22,CP_BNT_2dose,~,2020-05-01,B.1,Canada,Table S3
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Banerjee22,CP_Delta_inf,~,2021-06-10,Delta,Canada,NULL,NULL,Table S3
+Banerjee22,CP_Ances_inf,~,2020-04-15,B.1,Canada,NULL,NULL,Table S3
+Banerjee22,CP_BNT_2dose,~,2020-05-01,B.1,Canada,NULL,NULL,Table S3

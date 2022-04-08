@@ -1,2 +1,2 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,section
-Wang22,CP_Delta,~,2021-06-21,Delta,China,NULL
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Wang22,CP_Delta,~,2021-06-21,Delta,China,NULL,NULL,NULL
