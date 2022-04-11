@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Muik22,BNT162_01,~,2021-01-01,BNT162b2,1,Germany,NULL
 Muik22,BNT162_01,~,2021-01-22,BNT162b2,2,Germany,NULL
 Muik22,BNT162_01,~,2021-10-04,BNT162b2,3,Germany,NULL
