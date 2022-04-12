@@ -70,7 +70,6 @@ ab_name,pdb_id,target,class,source
 4-19,NULL,NTD,NTD,author
 4-20,NULL,RBD,NULL,author
 4-8,7LQV,NTD,NTD,structure
-47D11,7AKD,RBD,RBD Core Cluster I,structure
 4A8,7C2L,NTD,NTD,structure
 4E5,NULL,RBD,NULL,author
 5-24,7L2F,NTD,NTD,structure
@@ -91,6 +90,7 @@ A23-58.1,NULL,RBD,RBM Class I,author
 A247,NULL,RBD,NULL,author
 A261-262,NULL,RBD,NULL,author
 AB35,NULL,RBD,NULL,author
+ABBV-47D11,7AKD,RBD,RBD Core Cluster I,structure
 ADG10,NULL,RBD,NULL,author
 ADG30,NULL,RBD,NULL,author
 ADI-55688,7U2E,RBD,NULL,author

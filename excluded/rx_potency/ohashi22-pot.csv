@@ -1,0 +1,25 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY-WK-521/2020,Table 1,Virus isolate,IC50,227,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/QK002/2020,Table 1,Virus isolate,IC50,343.5,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY7-501/2021,Table 1,Virus isolate,IC50,243.2,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY11-927-P1/2021,Table 1,Virus isolate,IC50,282.8,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY38-873P0/2021,Table 1,Virus isolate,IC50,340.7,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY40-385-P1/2022,Table 1,Virus isolate,IC50,461.4,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY-WK-521/2020,Table 1,Virus isolate,IC50,1878.7,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/QK002/2020,Table 1,Virus isolate,IC50,1779.5,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY7-501/2021,Table 1,Virus isolate,IC50,1645.8,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY11-927-P1/2021,Table 1,Virus isolate,IC50,1795.9,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY38-873P0/2021,Table 1,Virus isolate,IC50,1852.2,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY40-385-P1/2022,Table 1,Virus isolate,IC50,1940.2,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY-WK-521/2020,Table 1,Virus isolate,IC90,738.5,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/QK002/2020,Table 1,Virus isolate,IC90,1009.9,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY7-501/2021,Table 1,Virus isolate,IC90,6531,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY11-927-P1/2021,Table 1,Virus isolate,IC90,1474.3,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY38-873P0/2021,Table 1,Virus isolate,IC90,1665.5,1,10000,1,ng/ml,2022-04-12
+Ohashi22,EIDD-1931,hCoV-19/Japan/TY40-385-P1/2022,Table 1,Virus isolate,IC90,1031.5,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY-WK-521/2020,Table 1,Virus isolate,IC90,4886.9,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/QK002/2020,Table 1,Virus isolate,IC90,6528.4,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY7-501/2021,Table 1,Virus isolate,IC90,4872.7,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY11-927-P1/2021,Table 1,Virus isolate,IC90,5116.1,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY38-873P0/2021,Table 1,Virus isolate,IC90,4724.5,1,10000,1,ng/ml,2022-04-12
+Ohashi22,Nirmatrelvir,hCoV-19/Japan/TY40-385-P1/2022,Table 1,Virus isolate,IC90,5178.4,1,10000,1,ng/ml,2022-04-12
