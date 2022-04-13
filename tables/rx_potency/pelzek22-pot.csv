@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Pelzek22,Casirivimab,Wuhan-Hu-1,Extended Table 1,Pseudovirus,IC50,24,1,10000,1,ng/ml,2022-04-13
 Pelzek22,Casirivimab,B.1.1.7 Spike,Extended Table 1,Pseudovirus,IC50,26,1,10000,1,ng/ml,2022-04-13
 Pelzek22,Casirivimab,B.1.351 Spike,Extended Table 1,Pseudovirus,IC50,1733,1,10000,1,ng/ml,2022-04-13

@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Schulz22,AZD8895,S:614G,Table 1,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-04-13
+Schulz22,AZD1061,S:614G,Table 1,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-04-13
+Schulz22,AZD8895,BA.1 Spike,Table 1,Pseudovirus (VSV),IC50,115,1,10000,1,ng/ml,2022-04-13
+Schulz22,AZD1061,BA.1 Spike,Table 1,Pseudovirus (VSV),IC50,882,1,10000,1,ng/ml,2022-04-13
