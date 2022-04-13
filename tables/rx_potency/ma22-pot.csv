@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ma22,Etesevimab,WA1,Figure 2a,Virus isolate,IC50,137,1,100000,1,ng/ml,2022-04-13
+Ma22,Casirivimab,WA1,Figure 2a,Virus isolate,IC50,46,1,100000,1,ng/ml,2022-04-13
+Ma22,Imdevimab,WA1,Figure 2a,Virus isolate,IC50,46,1,100000,1,ng/ml,2022-04-13
+Ma22,Sotrovimab,WA1,Figure 2a,Virus isolate,IC50,412,1,100000,1,ng/ml,2022-04-13
+Ma22,Bamlanivimab,WA1,Figure 2a,Virus isolate,IC50,80,1,100000,1,ng/ml,2022-04-13
+Ma22,Etesevimab,Omicron/BA.1 full genome,Figure 2b,Virus isolate,IC50,100000,1,100000,1,ng/ml,2022-04-13
+Ma22,Casirivimab,Omicron/BA.1 full genome,Figure 2b,Virus isolate,IC50,100000,1,100000,1,ng/ml,2022-04-13
+Ma22,Imdevimab,Omicron/BA.1 full genome,Figure 2b,Virus isolate,IC50,100000,1,100000,1,ng/ml,2022-04-13
+Ma22,Sotrovimab,Omicron/BA.1 full genome,Figure 2b,Virus isolate,IC50,6409,1,100000,1,ng/ml,2022-04-13
+Ma22,Bamlanivimab,Omicron/BA.1 full genome,Figure 2b,Virus isolate,IC50,100000,1,100000,1,ng/ml,2022-04-13
