@@ -1,7 +1,7 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Boschi22,BAM,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1,Virus isolate,IC50,0.229672062,1,3500,0.1,ng/ml,2021-01-26
-Boschi22,ETE,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1,Virus isolate,IC50,12.91556664,1,3500,0.1,ng/ml,2021-01-26
-Boschi22,BAM+ETE,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1,Virus isolate,IC50,0.527501136,1,3500,0.1,ng/ml,2021-01-26
-Boschi22,CAS,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1,Virus isolate,IC50,0.767803345,1,10000,0.01,ng/ml,2021-01-26
-Boschi22,IMD,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1,Virus isolate,IC50,18.99729062,1,10000,0.01,ng/ml,2021-01-26
-Boschi22,REGN-COV-2,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1,Virus isolate,IC50,0.354146809,1,10000,0.01,ng/ml,2021-01-26
+Boschi22,BAM,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1A,Virus isolate,IC50,0.229672062,1,3500,0.1,ng/ml,2021-01-26
+Boschi22,ETE,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1A,Virus isolate,IC50,12.91556664,1,3500,0.1,ng/ml,2021-01-26
+Boschi22,BAM+ETE,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1A,Virus isolate,IC50,0.527501136,1,3500,0.1,ng/ml,2021-01-26
+Boschi22,CAS,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1A,Virus isolate,IC50,0.767803345,1,10000,0.01,ng/ml,2021-01-26
+Boschi22,IMD,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1A,Virus isolate,IC50,18.99729062,1,10000,0.01,ng/ml,2021-01-26
+Boschi22,REGN-COV-2,hCoV-19/France/PAC-IHUMI-2096/2020,Figure 1A,Virus isolate,IC50,0.354146809,1,10000,0.01,ng/ml,2021-01-26
