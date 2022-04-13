@@ -1,0 +1,66 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Pelzek22,Casirivimab,Wuhan-Hu-1,Extended Table 1,Pseudovirus,IC50,24,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.1.7 Spike,Extended Table 1,Pseudovirus,IC50,26,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.351 Spike,Extended Table 1,Pseudovirus,IC50,1733,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,P.1 Spike,Extended Table 1,Pseudovirus,IC50,2189,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.617.2 Spike,Extended Table 1,Pseudovirus,IC50,16,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.525 Spike,Extended Table 1,Pseudovirus,IC50,55,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.526/E484K Spike,Extended Table 1,Pseudovirus,IC50,116,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.427/9 Spike,Extended Table 1,Pseudovirus,IC50,27,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,Wuhan-Hu-1,Extended Table 1,Pseudovirus,IC50,23,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.1.7 Spike,Extended Table 1,Pseudovirus,IC50,3,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.351 Spike,Extended Table 1,Pseudovirus,IC50,10,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,P.1 Spike,Extended Table 1,Pseudovirus,IC50,10,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.617.2 Spike,Extended Table 1,Pseudovirus,IC50,81,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.525 Spike,Extended Table 1,Pseudovirus,IC50,22,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.526/E484K Spike,Extended Table 1,Pseudovirus,IC50,18,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.427/9 Spike,Extended Table 1,Pseudovirus,IC50,18,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,SARS-CoV Spike,Extended Table 1,Pseudovirus,IC50,64,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,Wuhan-Hu-1,Extended Table 1,Pseudovirus,IC50,3819,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,B.1.1.7 Spike,Extended Table 1,Pseudovirus,IC50,693,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,B.1.351 Spike,Extended Table 1,Pseudovirus,IC50,192,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,P.1 Spike,Extended Table 1,Pseudovirus,IC50,73,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,B.1.617.2 Spike,Extended Table 1,Pseudovirus,IC50,501,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,BA.1 Spike,Extended Table 1,Pseudovirus,IC50,453,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,SARS-CoV Spike,Extended Table 1,Pseudovirus,IC50,31,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,Wuhan-Hu-1,Extended Table 1,Pseudovirus,IC50,28,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.1.7 Spike,Extended Table 1,Pseudovirus,IC50,30,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.351 Spike,Extended Table 1,Pseudovirus,IC50,162,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,P.1 Spike,Extended Table 1,Pseudovirus,IC50,88,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.617.2 Spike,Extended Table 1,Pseudovirus,IC50,65,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.525 Spike,Extended Table 1,Pseudovirus,IC50,71,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.526/E484K Spike,Extended Table 1,Pseudovirus,IC50,66,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.427/9 Spike,Extended Table 1,Pseudovirus,IC50,50,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,BA.1 Spike,Extended Table 1,Pseudovirus,IC50,183,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,Wuhan-Hu-1,Extended Table 2,Pseudovirus,IC90,136,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.1.7 Spike,Extended Table 2,Pseudovirus,IC90,237,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.351 Spike,Extended Table 2,Pseudovirus,IC90,13940,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,P.1 Spike,Extended Table 2,Pseudovirus,IC90,27330,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.617.2 Spike,Extended Table 2,Pseudovirus,IC90,98,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.525 Spike,Extended Table 2,Pseudovirus,IC90,480,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.526/E484K Spike,Extended Table 2,Pseudovirus,IC90,1217,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Casirivimab,B.1.427/9 Spike,Extended Table 2,Pseudovirus,IC90,189,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,Wuhan-Hu-1,Extended Table 2,Pseudovirus,IC90,319,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.1.7 Spike,Extended Table 2,Pseudovirus,IC90,29,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.351 Spike,Extended Table 2,Pseudovirus,IC90,93,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,P.1 Spike,Extended Table 2,Pseudovirus,IC90,60,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.617.2 Spike,Extended Table 2,Pseudovirus,IC90,504,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.525 Spike,Extended Table 2,Pseudovirus,IC90,275,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.526/E484K Spike,Extended Table 2,Pseudovirus,IC90,217,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Imdevimab,B.1.427/9 Spike,Extended Table 2,Pseudovirus,IC90,228,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,Wuhan-Hu-1,Extended Table 2,Pseudovirus,IC90,138900,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,B.1.1.7 Spike,Extended Table 2,Pseudovirus,IC90,12970,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,B.1.351 Spike,Extended Table 2,Pseudovirus,IC90,650,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,P.1 Spike,Extended Table 2,Pseudovirus,IC90,515,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,B.1.617.2 Spike,Extended Table 2,Pseudovirus,IC90,2920,1,10000,1,ng/ml,2022-04-13
+Pelzek22,Sotrovimab,BA.1 Spike,Extended Table 2,Pseudovirus,IC90,4915,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,SARS-CoV Spike,Extended Table 2,Pseudovirus,IC90,233,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,Wuhan-Hu-1,Extended Table 2,Pseudovirus,IC90,163,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.1.7 Spike,Extended Table 2,Pseudovirus,IC90,53,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.351 Spike,Extended Table 2,Pseudovirus,IC90,696,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,P.1 Spike,Extended Table 2,Pseudovirus,IC90,551,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.617.2 Spike,Extended Table 2,Pseudovirus,IC90,179,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.525 Spike,Extended Table 2,Pseudovirus,IC90,201,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.526/E484K Spike,Extended Table 2,Pseudovirus,IC90,237,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,B.1.427/9 Spike,Extended Table 2,Pseudovirus,IC90,176,1,10000,1,ng/ml,2022-04-13
+Pelzek22,ABP-310,BA.1 Spike,Extended Table 2,Pseudovirus,IC90,798,1,10000,1,ng/ml,2022-04-13
