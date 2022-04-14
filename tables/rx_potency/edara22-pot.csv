@@ -1,4 +1,4 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Edara22,BBV152,S:614G,Figure 1,Virus isolate,NT50,706,13,10000,10,NULL,2022-04-12
+Edara22,BBV152,B.1 full genome,Figure 1,Virus isolate,NT50,706,13,10000,10,NULL,2022-04-12
 Edara22,BBV152,hCoV19/USA/PHC658/2021,Figure 1,Virus isolate,NT50,480,13,10000,10,NULL,2022-04-12
-Edara22,BBV152,Omicron/BA.1,Figure 1,Virus isolate,NT50,75,13,10000,10,NULL,2022-04-12
+Edara22,BBV152,Omicron/BA.1 full genome,Figure 1,Virus isolate,NT50,75,13,10000,10,NULL,2022-04-12
