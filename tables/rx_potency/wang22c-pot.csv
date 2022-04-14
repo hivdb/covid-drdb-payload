@@ -1,0 +1,36 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Wang22c,VIR-7831,Wuhan-Hu-1,Supplmentary Table 2,Pseudovirus (VSV),IC50,68,1,10000,1,ng/ml,2022-04-13
+Wang22c,LY-CoV016,Wuhan-Hu-1,Supplmentary Table 2,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-04-13
+Wang22c,DXP-604,Wuhan-Hu-1,Supplmentary Table 2,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-04-13
+Wang22c,AZD8895,Wuhan-Hu-1,Supplmentary Table 2,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-04-13
+Wang22c,REGN10987,Wuhan-Hu-1,Supplmentary Table 2,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-04-13
+Wang22c,VIR-7831,B.1.1.7 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,81,1,10000,1,ng/ml,2022-04-13
+Wang22c,LY-CoV016,B.1.1.7 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,88,1,10000,1,ng/ml,2022-04-13
+Wang22c,DXP-604,B.1.1.7 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-04-13
+Wang22c,AZD8895,B.1.1.7 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-04-13
+Wang22c,REGN10987,B.1.1.7 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-04-13
+Wang22c,VIR-7831,B.1.351 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,62,1,10000,1,ng/ml,2022-04-13
+Wang22c,LY-CoV016,B.1.351 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-04-13
+Wang22c,DXP-604,B.1.351 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,171,1,10000,1,ng/ml,2022-04-13
+Wang22c,AZD8895,B.1.351 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-04-13
+Wang22c,REGN10987,B.1.351 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-04-13
+Wang22c,VIR-7831,P.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,68,1,10000,1,ng/ml,2022-04-13
+Wang22c,LY-CoV016,P.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,8258,1,10000,1,ng/ml,2022-04-13
+Wang22c,DXP-604,P.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-04-13
+Wang22c,AZD8895,P.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-04-13
+Wang22c,REGN10987,P.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-04-13
+Wang22c,VIR-7831,B.1.617.2 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,212,1,10000,1,ng/ml,2022-04-13
+Wang22c,LY-CoV016,B.1.617.2 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-04-13
+Wang22c,DXP-604,B.1.617.2 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,30,1,10000,1,ng/ml,2022-04-13
+Wang22c,AZD8895,B.1.617.2 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-04-13
+Wang22c,REGN10987,B.1.617.2 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-04-13
+Wang22c,VIR-7831,C.37 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,305,1,10000,1,ng/ml,2022-04-13
+Wang22c,LY-CoV016,C.37 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-04-13
+Wang22c,DXP-604,C.37 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-04-13
+Wang22c,AZD8895,C.37 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-04-13
+Wang22c,REGN10987,C.37 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,50,1,10000,1,ng/ml,2022-04-13
+Wang22c,VIR-7831,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,269,1,10000,1,ng/ml,2022-04-13
+Wang22c,LY-CoV016,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-04-13
+Wang22c,DXP-604,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,154,1,10000,1,ng/ml,2022-04-13
+Wang22c,AZD8895,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,4235,1,10000,1,ng/ml,2022-04-13
+Wang22c,REGN10987,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-04-13

@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Lusvarghi22,B.1_infection,~,2020-07-01,B.1,USA,NULL,NULL,NULL
+Lusvarghi22,B.1.2_infection,~,2020-07-01,B.1.2,USA,NULL,NULL,NULL
+Lusvarghi22,B.1.1.7_infection,~,2021-01-01,Alpha,USA,NULL,NULL,NULL
+Lusvarghi22,B.1.351_infection,~,2021-01-01,Beta,USA,NULL,NULL,NULL
+Lusvarghi22,Delta_infection,~,2021-07-01,Delta,USA,NULL,NULL,NULL

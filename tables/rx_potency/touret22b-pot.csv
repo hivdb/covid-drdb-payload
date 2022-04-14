@@ -1,0 +1,17 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Touret22b,Sotrovimab,B.1 full genome,Table 1,Virus isolate,IC50,55.2,1,1000,0.97,ng/ml,2022-04-13
+Touret22b,Cilgavimab,B.1 full genome,Table 1,Virus isolate,IC50,32.8,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Tixagevimab,B.1 full genome,Table 1,Virus isolate,IC50,18.3,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Evusheld,B.1 full genome,Table 1,Virus isolate,IC50,27,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Sotrovimab,hCoV-19/France/PAC-0610/2021,Table 1,Virus isolate,IC50,51.5,1,1000,0.97,ng/ml,2022-04-13
+Touret22b,Cilgavimab,hCoV-19/France/PAC-0610/2021,Table 1,Virus isolate,IC50,40.3,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Tixagevimab,hCoV-19/France/PAC-0610/2021,Table 1,Virus isolate,IC50,17.2,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Evusheld,hCoV-19/France/PAC-0610/2021,Table 1,Virus isolate,IC50,24.7,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Sotrovimab,hCoV-19/France/PAC-1514/2021,Table 1,Virus isolate,IC50,294.8,1,1000,0.97,ng/ml,2022-04-13
+Touret22b,Cilgavimab,hCoV-19/France/PAC-1514/2021,Table 1,Virus isolate,IC50,1617,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Tixagevimab,hCoV-19/France/PAC-1514/2021,Table 1,Virus isolate,IC50,10000,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Evusheld,hCoV-19/France/PAC-1514/2021,Table 1,Virus isolate,IC50,712.2,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Sotrovimab,hCoV-19/France/NAQ-HCL022005338701/2022,Table 1,Virus isolate,IC50,441,1,1000,0.97,ng/ml,2022-04-13
+Touret22b,Cilgavimab,hCoV-19/France/NAQ-HCL022005338701/2022,Table 1,Virus isolate,IC50,49.8,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Tixagevimab,hCoV-19/France/NAQ-HCL022005338701/2022,Table 1,Virus isolate,IC50,10000,1,5000,4.8,ng/ml,2022-04-13
+Touret22b,Evusheld,hCoV-19/France/NAQ-HCL022005338701/2022,Table 1,Virus isolate,IC50,73.3,1,5000,4.8,ng/ml,2022-04-13
