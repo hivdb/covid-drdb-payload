@@ -17,6 +17,8 @@ Westendorf21,LY-CoV1404_T3A,S:484K,Table 3A,SARS-CoV-2 recombinant,IC50,10,1,100
 Westendorf21,LY-CoV1404_T3A,S:484K,Table 3A,SARS-CoV-2 recombinant,IC90,47,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3A,S:484Q,Table 3A,SARS-CoV-2 recombinant,IC50,14,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3A,S:484Q,Table 3A,SARS-CoV-2 recombinant,IC90,67,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404_T3A,S:452R,Table 3A,SARS-CoV-2 recombinant,IC50,8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404_T3A,S:452R,Table 3A,SARS-CoV-2 recombinant,IC90,52,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3B,WA1,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3B,WA1,Table 3B,Pseudovirus (VSV),IC90,24,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3B,WA1,Table 3B,Pseudovirus (lentivirus),IC50,5,1,10000,0.6,ng/ml,2022-01-20
@@ -114,6 +116,8 @@ Westendorf21,LY-CoV1404_T3B,B.1.1.519 Spike,Table 3B,Pseudovirus (VSV),IC50,3,1,
 Westendorf21,LY-CoV1404_T3B,B.1.1.519 Spike,Table 3B,Pseudovirus (VSV),IC90,13,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3B,B.1.1.529 Spike,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3B,B.1.1.529 Spike,Table 3B,Pseudovirus (VSV),IC90,13,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404_T3B,BA.2 Spike,Table 3B,Pseudovirus (VSV),IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,LY-CoV1404_T3B,BA.2 Spike,Table 3B,Pseudovirus (VSV),IC90,23,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3B,S:477N,Table 3B,Pseudovirus (VSV),IC50,5,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3B,S:477N,Table 3B,Pseudovirus (VSV),IC90,26,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404_T3B,S:346S+452R,Table 3B,Pseudovirus (VSV),IC50,4,1,10000,0.6,ng/ml,2022-01-20
