@@ -1,8 +1,8 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Cao22,S309,Wuhan-Hu-1,Figure 4a,Virus isolate,IC50,78.10,1,10000,1,ng/ml,2022-02-17
-Cao22,S309,Omicron/BA.1 full genome,Figure 4a,Virus isolate,IC50,928.80,1,10000,1,ng/ml,2022-02-17
-Cao22,ADG-2,Wuhan-Hu-1,Figure 4a,Virus isolate,IC50,40.60,1,10000,1,ng/ml,2022-02-17
-Cao22,ADG-2,Omicron/BA.1 full genome,Figure 4a,Virus isolate,IC50,3715.00,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,Wuhan-Hu-1,Preprint V1 Figure 4a,Virus isolate,IC50,78.10,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,Omicron/BA.1 full genome,Preprint V1 Figure 4a,Virus isolate,IC50,928.80,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,Wuhan-Hu-1,Preprint V1 Figure 4a,Virus isolate,IC50,40.60,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,Omicron/BA.1 full genome,Preprint V1 Figure 4a,Virus isolate,IC50,3715.00,1,10000,1,ng/ml,2022-02-17
 Cao22,B38,S:614G,Table S2,Pseudovirus (VSV),IC50,2200.00,1,10000,1,ng/ml,2022-02-24
 Cao22,BG4-25,S:614G,Table S2,Pseudovirus (VSV),IC50,4.40,1,10000,1,ng/ml,2022-02-24
 Cao22,BG7-20,S:614G,Table S2,Pseudovirus (VSV),IC50,2.50,1,10000,1,ng/ml,2022-02-24
