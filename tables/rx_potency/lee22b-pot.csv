@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Lee22b,mRNA_1273_2dose_B1_Spike_01,B.1 Spike,Figure 1A,Pseudovirus (VSV),NT50,1337,1,10000,10,NULL,2022-04-18
 Lee22b,mRNA_1273_2dose_B1_Spike_02,B.1 Spike,Figure 1A,Pseudovirus (VSV),NT50,1241,1,10000,10,NULL,2022-04-18
 Lee22b,mRNA_1273_2dose_B1_Spike_03,B.1 Spike,Figure 1A,Pseudovirus (VSV),NT50,1113,1,10000,10,NULL,2022-04-18

@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Lee22b,mRNA_1273_2dose_B1_Spike,mRNA_1273_2dose_B1_Spike_01,~,2021-02-27,USA,mRNA_1273_2dose_B1_Spike,NULL
 Lee22b,mRNA_1273_2dose_B1_Spike,mRNA_1273_2dose_B1_Spike_02,~,2021-02-27,USA,mRNA_1273_2dose_B1_Spike,NULL
 Lee22b,mRNA_1273_2dose_B1_Spike,mRNA_1273_2dose_B1_Spike_03,~,2021-02-27,USA,mRNA_1273_2dose_B1_Spike,NULL
