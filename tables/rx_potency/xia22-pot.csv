@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Xia22,BNT16b2_dose2_2wks_01,WA1 Spike,Supplementary Table 1,SARS-CoV-2 recombinant,NT50,320,1,10240,20,null,2022-04-18
 Xia22,BNT16b2_dose2_2wks_03,WA1 Spike,Supplementary Table 1,SARS-CoV-2 recombinant,NT50,1280,1,10240,20,null,2022-04-18
 Xia22,BNT16b2_dose2_2wks_04,WA1 Spike,Supplementary Table 1,SARS-CoV-2 recombinant,NT50,320,1,10240,20,null,2022-04-18
