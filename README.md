@@ -29,15 +29,15 @@ source on GitHub: [hivdb/covid-drdb](https://github.com/hivdb/covid-drdb).
 
 ## Contribute to DRDB
 
-Any contributions are welcome here. Currently, we accept feature requests, new
-study submissions and bug/error reports. We are still working on to provide a
-pull-request pipeline for outside contributors to add data into our database
-directly.
+Any contributions are welcome here. Currently, we accept new study suggestions,
+new data pull requests, feature requests, and bug/error reports. We are still 
+working on providing a pull-request pipeline for outside contributors to add 
+data into our database directly.
 
+- [New study suggestions][NEWREF]
 - Feature requests:
   - [Database][DBFR], adding new tables, new columns, etc.
   - [Website][WFR] (https://covdb.stanford.edu/search-drdb/)
-- [New study submissions][NEWREF]
 - Bug/error reports:
   - [Database][DBBUG]
   - [Website][WBUG]
@@ -45,9 +45,16 @@ directly.
 
 [DBFR]: https://github.com/hivdb/covid-drdb/issues/new?assignees=philiptzou&labels=enhancement&title=[FR]
 [WFR]: https://github.com/hivdb/chiro-frontend/issues/new?assignees=philiptzou&labels=enhancement&title=[FR]
-[NEWREF]: https://github.com/hivdb/covid-drdb-payload/issues/new?assignees=KaimingTao&labels=enhancement&template=suggest-new-study.md&title=%5BNew%5D
+[NEWREF]: https://github.com/hivdb/covid-drdb-payload/issues/new?assignees=&labels=enhancement&template=suggest-new-study.md&title=%5BNew%5D
 [DBBUG]: https://github.com/hivdb/covid-drdb-payload/issues/new?assignees=KaimingTao%2C+philiptzou&labels=bug&template=data-error-report.md&title=%5BBUG%5D
 [WBUG]: https://github.com/hivdb/chiro-frontend/issues/new?assignees=philiptzou&labels=bug&title=[BUG]
+
+### Contribute by submitting data
+
+We accept data submission by using Github pull requests. You can submit your data or
+you can work on the studies in the issue page. You can fork the repository, extract data, 
+format the data into each table, then create a pull request to the main repository. 
+We will regularly check pull requests, make comments, and merge them into main branch.
 
 
 ## Wiki
