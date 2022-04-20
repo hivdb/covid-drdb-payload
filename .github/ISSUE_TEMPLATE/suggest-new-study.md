@@ -1,19 +1,28 @@
 ---
 name: Suggest new study
-about: Suggest adding a new study
+about: Suggest a new study
 title: "[New]"
 labels: enhancement
-assignees: KaimingTao
 
 ---
 
-Important: check this list to see if we already have the paper: https://github.com/hivdb/covid-drdb-payload/blob/master/tables/articles.csv
+**Important**: Please check if the paper is already exist.
+
+- Please check this [table](https://github.com/hivdb/covid-drdb-payload/blob/master/tables/articles.csv) by DOI, URL, or author name. 
+- Please check if it's a published version of a preprint.
+
+
+------
 
 **What's the identifier of this new study? Please provide. (Just need one)**
 - DOI: [...]
 - PMID: [...]
 - PMCID: [...]
 - URL: [...]
+
+
+## Published version of a preprint?
+
 
 **What topic studied by this paper should be add to our database? Please describe.**
 A clear and concise description of what the topic is. Ex. This paper contains neutralization results of [...] variants for vaccine [...].
