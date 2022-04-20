@@ -1261,8 +1261,8 @@ Lee22,Patient O,Human,1973,1
 Lee22,Patient P,Human,1940,1
 Lee22,Patient Q,Human,1974,1
 Lee22,Patient R,Human,1958,1
-Lee22b,mRNA_1273_2dose,Human,NULL,1
-Lee22b,mRNA_1273_3dose,Human,NULL,1
+Lee22b,mRNA_1273_2dose,Human,NULL,10
+Lee22b,mRNA_1273_3dose,Human,NULL,20
 Leier21,infected,Human,NULL,10
 Leier21,uninfected,Human,NULL,20
 Leung22,Patient,Human,NULL,1
