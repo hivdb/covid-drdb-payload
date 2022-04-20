@@ -9,7 +9,7 @@ labels: enhancement
 **Important**: Please check if the paper is already exist.
 
 - Please check this [table](https://github.com/hivdb/covid-drdb-payload/blob/master/tables/articles.csv) by DOI, URL, or author name. 
-- Please check if it's a publshed version of a preprint.
+- Please check if it's a published version of a preprint.
 
 
 ------
