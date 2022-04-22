@@ -1,721 +1,721 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Cao22,S309,Wuhan-Hu-1,Figure 4a,Virus isolate,IC50,78.10,1,10000,1,ng/ml,2022-02-17
-Cao22,S309,Omicron/BA.1 full genome,Figure 4a,Virus isolate,IC50,928.80,1,10000,1,ng/ml,2022-02-17
-Cao22,ADG-2,Wuhan-Hu-1,Figure 4a,Virus isolate,IC50,40.60,1,10000,1,ng/ml,2022-02-17
-Cao22,ADG-2,Omicron/BA.1 full genome,Figure 4a,Virus isolate,IC50,3715.00,1,10000,1,ng/ml,2022-02-17
-Cao22,B38,S:614G,Table S2,Pseudovirus,IC50,2200.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG4-25,S:614G,Table S2,Pseudovirus,IC50,4.40,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-20,S:614G,Table S2,Pseudovirus,IC50,2.50,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-196,S:614G,Table S2,Pseudovirus,IC50,52.90,1,10000,1,ng/ml,2022-02-24
-Cao22,C093,S:614G,Table S2,Pseudovirus,IC50,21.50,1,10000,1,ng/ml,2022-02-24
-Cao22,C102,S:614G,Table S2,Pseudovirus,IC50,127.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C105,S:614G,Table S2,Pseudovirus,IC50,98.30,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B12,S:614G,Table S2,Pseudovirus,IC50,3.40,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B3,S:614G,Table S2,Pseudovirus,IC50,11.20,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-C2,S:614G,Table S2,Pseudovirus,IC50,5.60,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-F10,S:614G,Table S2,Pseudovirus,IC50,3.70,1,10000,1,ng/ml,2022-02-24
-Cao22,C578,S:614G,Table S2,Pseudovirus,IC50,15.60,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.1,S:614G,Table S2,Pseudovirus,IC50,11.20,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.3,S:614G,Table S2,Pseudovirus,IC50,2.70,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2113,S:614G,Table S2,Pseudovirus,IC50,16.40,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2308,S:614G,Table S2,Pseudovirus,IC50,9.10,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2589,S:614G,Table S2,Pseudovirus,IC50,659.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2807,S:614G,Table S2,Pseudovirus,IC50,60.20,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2919,S:614G,Table S2,Pseudovirus,IC50,672.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-04,S:614G,Table S2,Pseudovirus,IC50,287.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-269,S:614G,Table S2,Pseudovirus,IC50,1.60,1,10000,1,ng/ml,2022-02-24
-Cao22,CV05-163,S:614G,Table S2,Pseudovirus,IC50,50.40,1,10000,1,ng/ml,2022-02-24
-Cao22,CV30,S:614G,Table S2,Pseudovirus,IC50,5.30,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1126,S:614G,Table S2,Pseudovirus,IC50,61.60,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1140,S:614G,Table S2,Pseudovirus,IC50,474.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1154,S:614G,Table S2,Pseudovirus,IC50,84.70,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1179,S:614G,Table S2,Pseudovirus,IC50,19.90,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1210,S:614G,Table S2,Pseudovirus,IC50,128.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-64,S:614G,Table S2,Pseudovirus,IC50,580.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV016,S:614G,Table S2,Pseudovirus,IC50,31.60,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV481,S:614G,Table S2,Pseudovirus,IC50,53.60,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV488,S:614G,Table S2,Pseudovirus,IC50,52.20,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-1A10,S:614G,Table S2,Pseudovirus,IC50,186.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P4A1,S:614G,Table S2,Pseudovirus,IC50,43.80,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-2G9,S:614G,Table S2,Pseudovirus,IC50,25.90,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-3A1,S:614G,Table S2,Pseudovirus,IC50,79.40,1,10000,1,ng/ml,2022-02-24
-Cao22,WIBP-2B11,S:614G,Table S2,Pseudovirus,IC50,5.00,1,10000,1,ng/ml,2022-02-24
-Cao22,15033,S:614G,Table S2,Pseudovirus,IC50,3.30,1,10000,1,ng/ml,2022-02-24
-Cao22,BG1-24,S:614G,Table S2,Pseudovirus,IC50,0.80,1,10000,1,ng/ml,2022-02-24
-Cao22,C597,S:614G,Table S2,Pseudovirus,IC50,3.80,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2072,S:614G,Table S2,Pseudovirus,IC50,1.40,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2098,S:614G,Table S2,Pseudovirus,IC50,6.70,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2196,S:614G,Table S2,Pseudovirus,IC50,1.26,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2381,S:614G,Table S2,Pseudovirus,IC50,7.90,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2684,S:614G,Table S2,Pseudovirus,IC50,1290.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2941,S:614G,Table S2,Pseudovirus,IC50,279.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-39,S:614G,Table S2,Pseudovirus,IC50,0.40,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H165L,S:614G,Table S2,Pseudovirus,IC50,0.59,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H55L,S:614G,Table S2,Pseudovirus,IC50,0.64,1,10000,1,ng/ml,2022-02-24
-Cao22,CR3022-B6,S:614G,Table S2,Pseudovirus,IC50,3150.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-209,S:614G,Table S2,Pseudovirus,IC50,9.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-287,S:614G,Table S2,Pseudovirus,IC50,26.50,1,10000,1,ng/ml,2022-02-24
-Cao22,CV-X2-106,S:614G,Table S2,Pseudovirus,IC50,62.20,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1155,S:614G,Table S2,Pseudovirus,IC50,3420.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10933,S:614G,Table S2,Pseudovirus,IC50,5.31,1,10000,1,ng/ml,2022-02-24
-Cao22,S2E12,S:614G,Table S2,Pseudovirus,IC50,0.50,1,10000,1,ng/ml,2022-02-24
-Cao22,S2K146,S:614G,Table S2,Pseudovirus,IC50,16.00,1,10000,1,ng/ml,2022-02-24
-Cao22,2-15,S:614G,Table S2,Pseudovirus,IC50,1.70,1,10000,1,ng/ml,2022-02-24
-Cao22,BG10-19,S:614G,Table S2,Pseudovirus,IC50,3.10,1,10000,1,ng/ml,2022-02-24
-Cao22,C002,S:614G,Table S2,Pseudovirus,IC50,65.50,1,10000,1,ng/ml,2022-02-24
-Cao22,C058,S:614G,Table S2,Pseudovirus,IC50,0.20,1,10000,1,ng/ml,2022-02-24
-Cao22,C083,S:614G,Table S2,Pseudovirus,IC50,739.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C121,S:614G,Table S2,Pseudovirus,IC50,8.70,1,10000,1,ng/ml,2022-02-24
-Cao22,C144,S:614G,Table S2,Pseudovirus,IC50,7.39,1,10000,1,ng/ml,2022-02-24
-Cao22,C591,S:614G,Table S2,Pseudovirus,IC50,74.80,1,10000,1,ng/ml,2022-02-24
-Cao22,CM32,S:614G,Table S2,Pseudovirus,IC50,39.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2064,S:614G,Table S2,Pseudovirus,IC50,238.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2391,S:614G,Table S2,Pseudovirus,IC50,21.40,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2479,S:614G,Table S2,Pseudovirus,IC50,3.10,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2504,S:614G,Table S2,Pseudovirus,IC50,1.70,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2539,S:614G,Table S2,Pseudovirus,IC50,186.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2693,S:614G,Table S2,Pseudovirus,IC50,4280.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2955,S:614G,Table S2,Pseudovirus,IC50,24.90,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-316,S:614G,Table S2,Pseudovirus,IC50,0.40,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-384,S:614G,Table S2,Pseudovirus,IC50,3.60,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-200,S:614G,Table S2,Pseudovirus,IC50,30.10,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-222,S:614G,Table S2,Pseudovirus,IC50,15.10,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-255,S:614G,Table S2,Pseudovirus,IC50,18.20,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-262,S:614G,Table S2,Pseudovirus,IC50,18.40,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-283,S:614G,Table S2,Pseudovirus,IC50,12.10,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1041,S:614G,Table S2,Pseudovirus,IC50,8.60,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1042,S:614G,Table S2,Pseudovirus,IC50,14.60,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1043,S:614G,Table S2,Pseudovirus,IC50,5.60,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1082,S:614G,Table S2,Pseudovirus,IC50,5280.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1111,S:614G,Table S2,Pseudovirus,IC50,1160.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1159-2,S:614G,Table S2,Pseudovirus,IC50,2960.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1173,S:614G,Table S2,Pseudovirus,IC50,9.50,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1184,S:614G,Table S2,Pseudovirus,IC50,5.40,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1186,S:614G,Table S2,Pseudovirus,IC50,10.60,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1214,S:614G,Table S2,Pseudovirus,IC50,57.70,1,10000,1,ng/ml,2022-02-24
-Cao22,H4,S:614G,Table S2,Pseudovirus,IC50,382.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV555,S:614G,Table S2,Pseudovirus,IC50,12.80,1,10000,1,ng/ml,2022-02-24
-Cao22,P17,S:614G,Table S2,Pseudovirus,IC50,9.20,1,10000,1,ng/ml,2022-02-24
-Cao22,P2C-1A3,S:614G,Table S2,Pseudovirus,IC50,133.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H13,S:614G,Table S2,Pseudovirus,IC50,18.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2M11,S:614G,Table S2,Pseudovirus,IC50,2.90,1,10000,1,ng/ml,2022-02-24
-Cao22,1-57,S:614G,Table S2,Pseudovirus,IC50,6.50,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-15,S:614G,Table S2,Pseudovirus,IC50,1.50,1,10000,1,ng/ml,2022-02-24
-Cao22,C085,S:614G,Table S2,Pseudovirus,IC50,10.70,1,10000,1,ng/ml,2022-02-24
-Cao22,C110,S:614G,Table S2,Pseudovirus,IC50,75.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2130,S:614G,Table S2,Pseudovirus,IC50,1.44,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2268,S:614G,Table S2,Pseudovirus,IC50,509.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2499,S:614G,Table S2,Pseudovirus,IC50,2.40,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2780,S:614G,Table S2,Pseudovirus,IC50,1530.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-75,S:614G,Table S2,Pseudovirus,IC50,27.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-270,S:614G,Table S2,Pseudovirus,IC50,2.10,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-315,S:614G,Table S2,Pseudovirus,IC50,408.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1044,S:614G,Table S2,Pseudovirus,IC50,82.70,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1160,S:614G,Table S2,Pseudovirus,IC50,590.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1161-2,S:614G,Table S2,Pseudovirus,IC50,2190.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1196,S:614G,Table S2,Pseudovirus,IC50,3040.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-50,S:614G,Table S2,Pseudovirus,IC50,471.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-82,S:614G,Table S2,Pseudovirus,IC50,1070.00,1,10000,1,ng/ml,2022-02-24
-Cao22,H014,S:614G,Table S2,Pseudovirus,IC50,370.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV1404,S:614G,Table S2,Pseudovirus,IC50,1.50,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-2F6,S:614G,Table S2,Pseudovirus,IC50,31.20,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10987,S:614G,Table S2,Pseudovirus,IC50,5.39,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H14,S:614G,Table S2,Pseudovirus,IC50,58.90,1,10000,1,ng/ml,2022-02-24
-Cao22,TAU-2230,S:614G,Table S2,Pseudovirus,IC50,1040.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV38-142,S:614G,Table S2,Pseudovirus,IC50,368.00,1,10000,1,ng/ml,2022-02-24
-Cao22,HuR33,S:614G,Table S2,Pseudovirus,IC50,7.92,1,10000,1,ng/ml,2022-02-24
-Cao22,S309,S:614G,Table S2,Pseudovirus,IC50,78.30,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-198,S:614G,Table S2,Pseudovirus,IC50,1240.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C556,S:614G,Table S2,Pseudovirus,IC50,306.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C581,S:614G,Table S2,Pseudovirus,IC50,65.50,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2389,S:614G,Table S2,Pseudovirus,IC50,613.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1151,S:614G,Table S2,Pseudovirus,IC50,106.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1193,S:614G,Table S2,Pseudovirus,IC50,1360.00,1,10000,1,ng/ml,2022-02-24
-Cao22,FC08,S:614G,Table S2,Pseudovirus,IC50,101.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H97,S:614G,Table S2,Pseudovirus,IC50,572.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S304,S:614G,Table S2,Pseudovirus,IC50,3860.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C048,S:614G,Table S2,Pseudovirus,IC50,86.90,1,10000,1,ng/ml,2022-02-24
-Cao22,C594,S:614G,Table S2,Pseudovirus,IC50,551.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2015,S:614G,Table S2,Pseudovirus,IC50,300.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2103,S:614G,Table S2,Pseudovirus,IC50,584.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2514,S:614G,Table S2,Pseudovirus,IC50,4.58,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2678,S:614G,Table S2,Pseudovirus,IC50,424.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2828,S:614G,Table S2,Pseudovirus,IC50,1520.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA1-16,S:614G,Table S2,Pseudovirus,IC50,253.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1045,S:614G,Table S2,Pseudovirus,IC50,681.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1046,S:614G,Table S2,Pseudovirus,IC50,790.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1047,S:614G,Table S2,Pseudovirus,IC50,468.00,1,10000,1,ng/ml,2022-02-24
-Cao22,ADG-2,S:614G,Table S2,Pseudovirus,IC50,13.40,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X259,S:614G,Table S2,Pseudovirus,IC50,125.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X35,S:614G,Table S2,Pseudovirus,IC50,28.60,1,10000,1,ng/ml,2022-02-24
-Cao22,B38,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG4-25,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-20,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-196,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C093,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C102,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C105,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B12,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B3,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-C2,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-F10,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C578,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.1,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.3,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2113,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2308,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2589,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2807,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2919,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-04,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-269,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV05-163,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV30,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1126,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1140,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1154,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1179,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1210,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-64,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV016,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV481,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV488,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-1A10,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P4A1,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-2G9,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-3A1,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,WIBP-2B11,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,15033,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG1-24,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C597,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2072,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2098,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2196,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2381,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2684,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2941,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-39,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H165L,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H55L,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CR3022-B6,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-209,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-287,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV-X2-106,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1155,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10933,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2E12,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2K146,SARS-CoV Spike,Table S2,Pseudovirus,IC50,108.00,1,10000,1,ng/ml,2022-02-24
-Cao22,2-15,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG10-19,SARS-CoV Spike,Table S2,Pseudovirus,IC50,0.90,1,10000,1,ng/ml,2022-02-24
-Cao22,C002,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C058,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C083,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C121,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C144,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C591,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CM32,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2064,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2391,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2479,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2504,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2539,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2693,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2955,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-316,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-384,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-200,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-222,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-255,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-262,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-283,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1041,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1042,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1043,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1082,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1111,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1159-2,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1173,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1184,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1186,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1214,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,H4,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV555,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P17,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2C-1A3,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H13,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2M11,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,1-57,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-15,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C085,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C110,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2130,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2268,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2499,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2780,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-75,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-270,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-315,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1044,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1160,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1161-2,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1196,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-50,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-82,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV1404,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-2F6,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10987,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H14,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,TAU-2230,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV38-142,SARS-CoV Spike,Table S2,Pseudovirus,IC50,634.00,1,10000,1,ng/ml,2022-02-24
-Cao22,HuR33,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S309,SARS-CoV Spike,Table S2,Pseudovirus,IC50,31.30,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-198,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C556,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C581,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2389,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1151,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1193,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,FC08,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H97,SARS-CoV Spike,Table S2,Pseudovirus,IC50,6740.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S304,SARS-CoV Spike,Table S2,Pseudovirus,IC50,140.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C048,SARS-CoV Spike,Table S2,Pseudovirus,IC50,1120.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C594,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2015,SARS-CoV Spike,Table S2,Pseudovirus,IC50,8.50,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2103,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2514,SARS-CoV Spike,Table S2,Pseudovirus,IC50,512.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2678,SARS-CoV Spike,Table S2,Pseudovirus,IC50,6070.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2828,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA1-16,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1045,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1046,SARS-CoV Spike,Table S2,Pseudovirus,IC50,104.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1047,SARS-CoV Spike,Table S2,Pseudovirus,IC50,10.20,1,10000,1,ng/ml,2022-02-24
-Cao22,ADG-2,SARS-CoV Spike,Table S2,Pseudovirus,IC50,1.67,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X259,SARS-CoV Spike,Table S2,Pseudovirus,IC50,46.20,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X35,SARS-CoV Spike,Table S2,Pseudovirus,IC50,180.00,1,10000,1,ng/ml,2022-02-24
-Cao22,B38,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG4-25,BA.1 Spike,Table S2,Pseudovirus,IC50,631.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-20,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-196,BA.1 Spike,Table S2,Pseudovirus,IC50,7260.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C093,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C102,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C105,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B12,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B3,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-C2,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-F10,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C578,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.1,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.3,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2113,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2308,BA.1 Spike,Table S2,Pseudovirus,IC50,2600.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2589,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2807,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2919,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-04,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-269,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV05-163,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV30,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1126,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1140,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1154,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1179,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1210,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-64,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV016,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV481,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV488,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-1A10,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P4A1,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-2G9,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-3A1,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,WIBP-2B11,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,15033,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG1-24,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C597,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2072,BA.1 Spike,Table S2,Pseudovirus,IC50,146.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2098,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2196,BA.1 Spike,Table S2,Pseudovirus,IC50,6860.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2381,BA.1 Spike,Table S2,Pseudovirus,IC50,187.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2684,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2941,BA.1 Spike,Table S2,Pseudovirus,IC50,9700.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-39,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H165L,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H55L,BA.1 Spike,Table S2,Pseudovirus,IC50,97.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CR3022-B6,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-209,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-287,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV-X2-106,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1155,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10933,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2E12,BA.1 Spike,Table S2,Pseudovirus,IC50,135.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2K146,BA.1 Spike,Table S2,Pseudovirus,IC50,12.60,1,10000,1,ng/ml,2022-02-24
-Cao22,2-15,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG10-19,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C002,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C058,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C083,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C121,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C144,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C591,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CM32,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2064,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2391,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2479,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2504,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2539,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2693,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2955,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-316,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-384,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-200,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-222,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-255,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-262,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-283,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1041,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1042,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1043,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1082,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1111,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1159-2,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1173,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1184,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1186,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1214,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,H4,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV555,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P17,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2C-1A3,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H13,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2M11,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,1-57,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-15,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C085,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C110,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2130,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2268,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2499,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2780,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-75,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-270,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-315,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1044,BA.1 Spike,Table S2,Pseudovirus,IC50,85.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1160,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1161-2,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1196,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-50,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-82,BA.1 Spike,Table S2,Pseudovirus,IC50,4300.00,1,10000,1,ng/ml,2022-02-24
-Cao22,H014,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV1404,BA.1 Spike,Table S2,Pseudovirus,IC50,0.60,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-2F6,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10987,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H14,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,TAU-2230,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV38-142,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,HuR33,BA.1 Spike,Table S2,Pseudovirus,IC50,53.40,1,10000,1,ng/ml,2022-02-24
-Cao22,S309,BA.1 Spike,Table S2,Pseudovirus,IC50,356.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-198,BA.1 Spike,Table S2,Pseudovirus,IC50,1160.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C556,BA.1 Spike,Table S2,Pseudovirus,IC50,1920.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C581,BA.1 Spike,Table S2,Pseudovirus,IC50,5700.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2389,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1151,BA.1 Spike,Table S2,Pseudovirus,IC50,543.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1193,BA.1 Spike,Table S2,Pseudovirus,IC50,2380.00,1,10000,1,ng/ml,2022-02-24
-Cao22,FC08,BA.1 Spike,Table S2,Pseudovirus,IC50,262.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H97,BA.1 Spike,Table S2,Pseudovirus,IC50,2410.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S304,BA.1 Spike,Table S2,Pseudovirus,IC50,8100.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C048,BA.1 Spike,Table S2,Pseudovirus,IC50,916.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C594,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2015,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2103,BA.1 Spike,Table S2,Pseudovirus,IC50,5200.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2514,BA.1 Spike,Table S2,Pseudovirus,IC50,322.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2678,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2828,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA1-16,BA.1 Spike,Table S2,Pseudovirus,IC50,3400.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1045,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1046,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1047,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,ADG-2,BA.1 Spike,Table S2,Pseudovirus,IC50,1470.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X259,BA.1 Spike,Table S2,Pseudovirus,IC50,1850.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X35,BA.1 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,B38,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG4-25,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,2500.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-20,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-196,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,8320.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C093,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C102,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C105,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B12,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B3,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-C2,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-F10,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C578,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.1,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.3,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2113,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2308,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,3350.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2589,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2807,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2919,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-04,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-269,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV05-163,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV30,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1126,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1140,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1154,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1179,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1210,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-64,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV016,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV481,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV488,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-1A10,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P4A1,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-2G9,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-3A1,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,WIBP-2B11,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,15033,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG1-24,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C597,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,2660.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2072,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,114.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2098,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2196,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,4760.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2381,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,346.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2684,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2941,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-39,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H165L,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H55L,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,779.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-209,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-287,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV-X2-106,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10933,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2E12,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,129.00,1,10000,1,ng/ml,2022-02-24
-Cao22,2-15,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG10-19,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C002,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C058,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C083,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C121,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C144,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C591,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CM32,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2064,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2391,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2479,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2504,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2539,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2693,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2955,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-316,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-384,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-200,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-222,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-255,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-262,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-283,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1041,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1042,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1043,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1082,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1111,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1159-2,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1173,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1184,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1186,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1214,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,H4,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV555,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P17,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2C-1A3,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H13,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2M11,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,1-57,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-15,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C085,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C110,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2130,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2268,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2499,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2780,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-75,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-270,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-315,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1044,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1160,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1161-2,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1196,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-50,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-82,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,7310.00,1,10000,1,ng/ml,2022-02-24
-Cao22,H014,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV1404,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,1.77,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-2F6,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10987,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H14,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,TAU-2230,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV38-142,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,HuR33,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S309,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,314.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-198,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C556,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C581,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,7110.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2389,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1151,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,267.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1193,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,7150.00,1,10000,1,ng/ml,2022-02-24
-Cao22,FC08,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,374.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H97,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,2230.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C048,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,1030.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C594,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2015,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2103,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2514,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,260.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2678,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2828,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA1-16,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1045,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1046,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1047,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,7850.00,1,10000,1,ng/ml,2022-02-24
-Cao22,ADG-2,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,991.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X259,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,2340.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X35,BA.1 Spike:+346K,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,B38,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG4-25,BA.2 Spike,Table S2,Pseudovirus,IC50,2090.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-20,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-196,BA.2 Spike,Table S2,Pseudovirus,IC50,4120.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C093,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C102,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C105,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B12,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-B3,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-C2,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C1A-F10,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C578,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.1,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CC12.3,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2113,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2308,BA.2 Spike,Table S2,Pseudovirus,IC50,3980.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2589,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2807,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2919,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-04,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-269,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV05-163,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV30,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1126,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1140,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1154,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1179,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1210,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-64,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV016,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV481,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV488,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-1A10,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P4A1,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-2G9,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P5A-3A1,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,WIBP-2B11,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,15033,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG1-24,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C597,BA.2 Spike,Table S2,Pseudovirus,IC50,2040.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2072,BA.2 Spike,Table S2,Pseudovirus,IC50,193.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2098,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2196,BA.2 Spike,Table S2,Pseudovirus,IC50,3420.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2381,BA.2 Spike,Table S2,Pseudovirus,IC50,1430.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2684,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2941,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA2-39,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H165L,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-253H55L,BA.2 Spike,Table S2,Pseudovirus,IC50,670.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-209,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-287,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV-X2-106,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10933,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2E12,BA.2 Spike,Table S2,Pseudovirus,IC50,179.00,1,10000,1,ng/ml,2022-02-24
-Cao22,2-15,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG10-19,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C002,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C058,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C083,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C121,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C144,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C591,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CM32,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2064,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2391,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2479,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2504,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2539,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2693,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2955,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-316,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-384,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-200,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-222,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-255,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-262,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-283,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1041,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1042,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1043,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1082,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1111,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1159-2,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1173,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1184,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1186,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1214,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,H4,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV555,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P17,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,P2C-1A3,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H13,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2M11,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,1-57,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BG7-15,BA.2 Spike,Table S2,Pseudovirus,IC50,543.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C085,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C110,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2130,BA.2 Spike,Table S2,Pseudovirus,IC50,5.56,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2268,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2499,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2780,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVOX-75,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-270,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV07-315,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1044,BA.2 Spike,Table S2,Pseudovirus,IC50,75.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1160,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1161-2,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1196,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-50,BA.2 Spike,Table S2,Pseudovirus,IC50,931.00,1,10000,1,ng/ml,2022-02-24
-Cao22,Ehling_mAb-82,BA.2 Spike,Table S2,Pseudovirus,IC50,2280.00,1,10000,1,ng/ml,2022-02-24
-Cao22,H014,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,LY-CoV1404,BA.2 Spike,Table S2,Pseudovirus,IC50,0.82,1,10000,1,ng/ml,2022-02-24
-Cao22,P2B-2F6,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,REGN10987,BA.2 Spike,Table S2,Pseudovirus,IC50,549.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H14,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,TAU-2230,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,CV38-142,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,HuR33,BA.2 Spike,Table S2,Pseudovirus,IC50,796.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S309,BA.2 Spike,Table S2,Pseudovirus,IC50,944.00,1,10000,1,ng/ml,2022-02-24
-Cao22,BRII-198,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C556,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C581,BA.2 Spike,Table S2,Pseudovirus,IC50,3610.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2389,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1151,BA.2 Spike,Table S2,Pseudovirus,IC50,448.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1193,BA.2 Spike,Table S2,Pseudovirus,IC50,3290.00,1,10000,1,ng/ml,2022-02-24
-Cao22,FC08,BA.2 Spike,Table S2,Pseudovirus,IC50,154.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2H97,BA.2 Spike,Table S2,Pseudovirus,IC50,2020.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C048,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,C594,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2015,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2103,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2514,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2678,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COV2-2828,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,COVA1-16,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1045,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1046,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,DH1047,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,ADG-2,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X259,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
-Cao22,S2X35,BA.2 Spike,Table S2,Pseudovirus,IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S309,Wuhan-Hu-1,Preprint V1 Figure 4a,Virus isolate,IC50,78.10,1,10000,1,ng/ml,2022-02-17
+Cao22,S309,Omicron/BA.1 full genome,Preprint V1 Figure 4a,Virus isolate,IC50,928.80,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,Wuhan-Hu-1,Preprint V1 Figure 4a,Virus isolate,IC50,40.60,1,10000,1,ng/ml,2022-02-17
+Cao22,ADG-2,Omicron/BA.1 full genome,Preprint V1 Figure 4a,Virus isolate,IC50,3715.00,1,10000,1,ng/ml,2022-02-17
+Cao22,B38,S:614G,Table S2,Pseudovirus (VSV),IC50,2200.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG4-25,S:614G,Table S2,Pseudovirus (VSV),IC50,4.40,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-20,S:614G,Table S2,Pseudovirus (VSV),IC50,2.50,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-196,S:614G,Table S2,Pseudovirus (VSV),IC50,52.90,1,10000,1,ng/ml,2022-02-24
+Cao22,C093,S:614G,Table S2,Pseudovirus (VSV),IC50,21.50,1,10000,1,ng/ml,2022-02-24
+Cao22,C102,S:614G,Table S2,Pseudovirus (VSV),IC50,127.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C105,S:614G,Table S2,Pseudovirus (VSV),IC50,98.30,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B12,S:614G,Table S2,Pseudovirus (VSV),IC50,3.40,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B3,S:614G,Table S2,Pseudovirus (VSV),IC50,11.20,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-C2,S:614G,Table S2,Pseudovirus (VSV),IC50,5.60,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-F10,S:614G,Table S2,Pseudovirus (VSV),IC50,3.70,1,10000,1,ng/ml,2022-02-24
+Cao22,C578,S:614G,Table S2,Pseudovirus (VSV),IC50,15.60,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.1,S:614G,Table S2,Pseudovirus (VSV),IC50,11.20,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.3,S:614G,Table S2,Pseudovirus (VSV),IC50,2.70,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2113,S:614G,Table S2,Pseudovirus (VSV),IC50,16.40,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2308,S:614G,Table S2,Pseudovirus (VSV),IC50,9.10,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2589,S:614G,Table S2,Pseudovirus (VSV),IC50,659.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2807,S:614G,Table S2,Pseudovirus (VSV),IC50,60.20,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2919,S:614G,Table S2,Pseudovirus (VSV),IC50,672.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-04,S:614G,Table S2,Pseudovirus (VSV),IC50,287.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-269,S:614G,Table S2,Pseudovirus (VSV),IC50,1.60,1,10000,1,ng/ml,2022-02-24
+Cao22,CV05-163,S:614G,Table S2,Pseudovirus (VSV),IC50,50.40,1,10000,1,ng/ml,2022-02-24
+Cao22,CV30,S:614G,Table S2,Pseudovirus (VSV),IC50,5.30,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1126,S:614G,Table S2,Pseudovirus (VSV),IC50,61.60,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1140,S:614G,Table S2,Pseudovirus (VSV),IC50,474.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1154,S:614G,Table S2,Pseudovirus (VSV),IC50,84.70,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1179,S:614G,Table S2,Pseudovirus (VSV),IC50,19.90,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1210,S:614G,Table S2,Pseudovirus (VSV),IC50,128.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-64,S:614G,Table S2,Pseudovirus (VSV),IC50,580.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV016,S:614G,Table S2,Pseudovirus (VSV),IC50,31.60,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV481,S:614G,Table S2,Pseudovirus (VSV),IC50,53.60,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV488,S:614G,Table S2,Pseudovirus (VSV),IC50,52.20,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-1A10,S:614G,Table S2,Pseudovirus (VSV),IC50,186.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P4A1,S:614G,Table S2,Pseudovirus (VSV),IC50,43.80,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-2G9,S:614G,Table S2,Pseudovirus (VSV),IC50,25.90,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-3A1,S:614G,Table S2,Pseudovirus (VSV),IC50,79.40,1,10000,1,ng/ml,2022-02-24
+Cao22,WIBP-2B11,S:614G,Table S2,Pseudovirus (VSV),IC50,5.00,1,10000,1,ng/ml,2022-02-24
+Cao22,15033,S:614G,Table S2,Pseudovirus (VSV),IC50,3.30,1,10000,1,ng/ml,2022-02-24
+Cao22,BG1-24,S:614G,Table S2,Pseudovirus (VSV),IC50,0.80,1,10000,1,ng/ml,2022-02-24
+Cao22,C597,S:614G,Table S2,Pseudovirus (VSV),IC50,3.80,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2072,S:614G,Table S2,Pseudovirus (VSV),IC50,1.40,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2098,S:614G,Table S2,Pseudovirus (VSV),IC50,6.70,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2196,S:614G,Table S2,Pseudovirus (VSV),IC50,1.26,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2381,S:614G,Table S2,Pseudovirus (VSV),IC50,7.90,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2684,S:614G,Table S2,Pseudovirus (VSV),IC50,1290.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2941,S:614G,Table S2,Pseudovirus (VSV),IC50,279.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-39,S:614G,Table S2,Pseudovirus (VSV),IC50,0.40,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H165L,S:614G,Table S2,Pseudovirus (VSV),IC50,0.59,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H55L,S:614G,Table S2,Pseudovirus (VSV),IC50,0.64,1,10000,1,ng/ml,2022-02-24
+Cao22,CR3022-B6,S:614G,Table S2,Pseudovirus (VSV),IC50,3150.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-209,S:614G,Table S2,Pseudovirus (VSV),IC50,9.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-287,S:614G,Table S2,Pseudovirus (VSV),IC50,26.50,1,10000,1,ng/ml,2022-02-24
+Cao22,CV-X2-106,S:614G,Table S2,Pseudovirus (VSV),IC50,62.20,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1155,S:614G,Table S2,Pseudovirus (VSV),IC50,3420.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10933,S:614G,Table S2,Pseudovirus (VSV),IC50,5.31,1,10000,1,ng/ml,2022-02-24
+Cao22,S2E12,S:614G,Table S2,Pseudovirus (VSV),IC50,0.50,1,10000,1,ng/ml,2022-02-24
+Cao22,S2K146,S:614G,Table S2,Pseudovirus (VSV),IC50,16.00,1,10000,1,ng/ml,2022-02-24
+Cao22,2-15,S:614G,Table S2,Pseudovirus (VSV),IC50,1.70,1,10000,1,ng/ml,2022-02-24
+Cao22,BG10-19,S:614G,Table S2,Pseudovirus (VSV),IC50,3.10,1,10000,1,ng/ml,2022-02-24
+Cao22,C002,S:614G,Table S2,Pseudovirus (VSV),IC50,65.50,1,10000,1,ng/ml,2022-02-24
+Cao22,C058,S:614G,Table S2,Pseudovirus (VSV),IC50,0.20,1,10000,1,ng/ml,2022-02-24
+Cao22,C083,S:614G,Table S2,Pseudovirus (VSV),IC50,739.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C121,S:614G,Table S2,Pseudovirus (VSV),IC50,8.70,1,10000,1,ng/ml,2022-02-24
+Cao22,C144,S:614G,Table S2,Pseudovirus (VSV),IC50,7.39,1,10000,1,ng/ml,2022-02-24
+Cao22,C591,S:614G,Table S2,Pseudovirus (VSV),IC50,74.80,1,10000,1,ng/ml,2022-02-24
+Cao22,CM32,S:614G,Table S2,Pseudovirus (VSV),IC50,39.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2064,S:614G,Table S2,Pseudovirus (VSV),IC50,238.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2391,S:614G,Table S2,Pseudovirus (VSV),IC50,21.40,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2479,S:614G,Table S2,Pseudovirus (VSV),IC50,3.10,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2504,S:614G,Table S2,Pseudovirus (VSV),IC50,1.70,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2539,S:614G,Table S2,Pseudovirus (VSV),IC50,186.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2693,S:614G,Table S2,Pseudovirus (VSV),IC50,4280.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2955,S:614G,Table S2,Pseudovirus (VSV),IC50,24.90,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-316,S:614G,Table S2,Pseudovirus (VSV),IC50,0.40,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-384,S:614G,Table S2,Pseudovirus (VSV),IC50,3.60,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-200,S:614G,Table S2,Pseudovirus (VSV),IC50,30.10,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-222,S:614G,Table S2,Pseudovirus (VSV),IC50,15.10,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-255,S:614G,Table S2,Pseudovirus (VSV),IC50,18.20,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-262,S:614G,Table S2,Pseudovirus (VSV),IC50,18.40,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-283,S:614G,Table S2,Pseudovirus (VSV),IC50,12.10,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1041,S:614G,Table S2,Pseudovirus (VSV),IC50,8.60,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1042,S:614G,Table S2,Pseudovirus (VSV),IC50,14.60,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1043,S:614G,Table S2,Pseudovirus (VSV),IC50,5.60,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1082,S:614G,Table S2,Pseudovirus (VSV),IC50,5280.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1111,S:614G,Table S2,Pseudovirus (VSV),IC50,1160.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1159-2,S:614G,Table S2,Pseudovirus (VSV),IC50,2960.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1173,S:614G,Table S2,Pseudovirus (VSV),IC50,9.50,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1184,S:614G,Table S2,Pseudovirus (VSV),IC50,5.40,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1186,S:614G,Table S2,Pseudovirus (VSV),IC50,10.60,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1214,S:614G,Table S2,Pseudovirus (VSV),IC50,57.70,1,10000,1,ng/ml,2022-02-24
+Cao22,H4,S:614G,Table S2,Pseudovirus (VSV),IC50,382.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV555,S:614G,Table S2,Pseudovirus (VSV),IC50,12.80,1,10000,1,ng/ml,2022-02-24
+Cao22,P17,S:614G,Table S2,Pseudovirus (VSV),IC50,9.20,1,10000,1,ng/ml,2022-02-24
+Cao22,P2C-1A3,S:614G,Table S2,Pseudovirus (VSV),IC50,133.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H13,S:614G,Table S2,Pseudovirus (VSV),IC50,18.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2M11,S:614G,Table S2,Pseudovirus (VSV),IC50,2.90,1,10000,1,ng/ml,2022-02-24
+Cao22,1-57,S:614G,Table S2,Pseudovirus (VSV),IC50,6.50,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-15,S:614G,Table S2,Pseudovirus (VSV),IC50,1.50,1,10000,1,ng/ml,2022-02-24
+Cao22,C085,S:614G,Table S2,Pseudovirus (VSV),IC50,10.70,1,10000,1,ng/ml,2022-02-24
+Cao22,C110,S:614G,Table S2,Pseudovirus (VSV),IC50,75.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2130,S:614G,Table S2,Pseudovirus (VSV),IC50,1.44,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2268,S:614G,Table S2,Pseudovirus (VSV),IC50,509.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2499,S:614G,Table S2,Pseudovirus (VSV),IC50,2.40,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2780,S:614G,Table S2,Pseudovirus (VSV),IC50,1530.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-75,S:614G,Table S2,Pseudovirus (VSV),IC50,27.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-270,S:614G,Table S2,Pseudovirus (VSV),IC50,2.10,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-315,S:614G,Table S2,Pseudovirus (VSV),IC50,408.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1044,S:614G,Table S2,Pseudovirus (VSV),IC50,82.70,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1160,S:614G,Table S2,Pseudovirus (VSV),IC50,590.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1161-2,S:614G,Table S2,Pseudovirus (VSV),IC50,2190.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1196,S:614G,Table S2,Pseudovirus (VSV),IC50,3040.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-50,S:614G,Table S2,Pseudovirus (VSV),IC50,471.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-82,S:614G,Table S2,Pseudovirus (VSV),IC50,1070.00,1,10000,1,ng/ml,2022-02-24
+Cao22,H014,S:614G,Table S2,Pseudovirus (VSV),IC50,370.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV1404,S:614G,Table S2,Pseudovirus (VSV),IC50,1.50,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-2F6,S:614G,Table S2,Pseudovirus (VSV),IC50,31.20,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10987,S:614G,Table S2,Pseudovirus (VSV),IC50,5.39,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H14,S:614G,Table S2,Pseudovirus (VSV),IC50,58.90,1,10000,1,ng/ml,2022-02-24
+Cao22,TAU-2230,S:614G,Table S2,Pseudovirus (VSV),IC50,1040.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV38-142,S:614G,Table S2,Pseudovirus (VSV),IC50,368.00,1,10000,1,ng/ml,2022-02-24
+Cao22,HuR33,S:614G,Table S2,Pseudovirus (VSV),IC50,7.92,1,10000,1,ng/ml,2022-02-24
+Cao22,S309,S:614G,Table S2,Pseudovirus (VSV),IC50,78.30,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-198,S:614G,Table S2,Pseudovirus (VSV),IC50,1240.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C556,S:614G,Table S2,Pseudovirus (VSV),IC50,306.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C581,S:614G,Table S2,Pseudovirus (VSV),IC50,65.50,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2389,S:614G,Table S2,Pseudovirus (VSV),IC50,613.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1151,S:614G,Table S2,Pseudovirus (VSV),IC50,106.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1193,S:614G,Table S2,Pseudovirus (VSV),IC50,1360.00,1,10000,1,ng/ml,2022-02-24
+Cao22,FC08,S:614G,Table S2,Pseudovirus (VSV),IC50,101.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H97,S:614G,Table S2,Pseudovirus (VSV),IC50,572.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S304,S:614G,Table S2,Pseudovirus (VSV),IC50,3860.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C048,S:614G,Table S2,Pseudovirus (VSV),IC50,86.90,1,10000,1,ng/ml,2022-02-24
+Cao22,C594,S:614G,Table S2,Pseudovirus (VSV),IC50,551.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2015,S:614G,Table S2,Pseudovirus (VSV),IC50,300.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2103,S:614G,Table S2,Pseudovirus (VSV),IC50,584.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2514,S:614G,Table S2,Pseudovirus (VSV),IC50,4.58,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2678,S:614G,Table S2,Pseudovirus (VSV),IC50,424.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2828,S:614G,Table S2,Pseudovirus (VSV),IC50,1520.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA1-16,S:614G,Table S2,Pseudovirus (VSV),IC50,253.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1045,S:614G,Table S2,Pseudovirus (VSV),IC50,681.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1046,S:614G,Table S2,Pseudovirus (VSV),IC50,790.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1047,S:614G,Table S2,Pseudovirus (VSV),IC50,468.00,1,10000,1,ng/ml,2022-02-24
+Cao22,ADG-2,S:614G,Table S2,Pseudovirus (VSV),IC50,13.40,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X259,S:614G,Table S2,Pseudovirus (VSV),IC50,125.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X35,S:614G,Table S2,Pseudovirus (VSV),IC50,28.60,1,10000,1,ng/ml,2022-02-24
+Cao22,B38,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG4-25,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-20,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-196,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C093,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C102,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C105,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B12,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B3,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-C2,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-F10,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C578,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.1,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.3,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2113,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2308,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2589,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2807,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2919,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-04,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-269,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV05-163,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV30,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1126,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1140,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1154,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1179,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1210,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-64,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV016,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV481,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV488,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-1A10,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P4A1,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-2G9,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-3A1,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,WIBP-2B11,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,15033,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG1-24,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C597,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2072,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2098,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2196,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2381,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2684,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2941,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-39,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H165L,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H55L,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CR3022-B6,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-209,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-287,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV-X2-106,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1155,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10933,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2E12,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2K146,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,108.00,1,10000,1,ng/ml,2022-02-24
+Cao22,2-15,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG10-19,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,0.90,1,10000,1,ng/ml,2022-02-24
+Cao22,C002,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C058,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C083,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C121,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C144,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C591,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CM32,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2064,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2391,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2479,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2504,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2539,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2693,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2955,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-316,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-384,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-200,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-222,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-255,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-262,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-283,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1041,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1042,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1043,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1082,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1111,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1159-2,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1173,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1184,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1186,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1214,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,H4,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV555,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P17,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2C-1A3,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H13,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2M11,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,1-57,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-15,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C085,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C110,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2130,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2268,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2499,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2780,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-75,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-270,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-315,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1044,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1160,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1161-2,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1196,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-50,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-82,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV1404,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-2F6,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10987,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H14,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,TAU-2230,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV38-142,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,634.00,1,10000,1,ng/ml,2022-02-24
+Cao22,HuR33,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S309,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,31.30,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-198,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C556,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C581,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2389,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1151,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1193,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,FC08,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H97,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,6740.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S304,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,140.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C048,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,1120.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C594,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2015,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,8.50,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2103,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2514,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,512.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2678,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,6070.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2828,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA1-16,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1045,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1046,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,104.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1047,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,10.20,1,10000,1,ng/ml,2022-02-24
+Cao22,ADG-2,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,1.67,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X259,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,46.20,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X35,SARS-CoV Spike,Table S2,Pseudovirus (VSV),IC50,180.00,1,10000,1,ng/ml,2022-02-24
+Cao22,B38,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG4-25,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,631.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-20,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-196,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,7260.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C093,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C102,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C105,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B12,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B3,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-C2,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-F10,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C578,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.1,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.3,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2113,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2308,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,2600.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2589,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2807,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2919,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-04,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-269,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV05-163,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV30,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1126,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1140,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1154,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1179,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1210,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-64,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV016,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV481,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV488,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-1A10,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P4A1,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-2G9,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-3A1,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,WIBP-2B11,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,15033,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG1-24,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C597,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2072,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,146.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2098,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2196,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,6860.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2381,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,187.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2684,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2941,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,9700.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-39,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H165L,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H55L,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,97.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CR3022-B6,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-209,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-287,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV-X2-106,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1155,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10933,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2E12,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,135.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2K146,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,12.60,1,10000,1,ng/ml,2022-02-24
+Cao22,2-15,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG10-19,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C002,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C058,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C083,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C121,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C144,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C591,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CM32,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2064,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2391,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2479,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2504,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2539,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2693,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2955,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-316,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-384,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-200,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-222,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-255,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-262,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-283,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1041,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1042,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1043,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1082,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1111,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1159-2,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1173,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1184,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1186,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1214,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,H4,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV555,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P17,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2C-1A3,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H13,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2M11,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,1-57,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-15,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C085,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C110,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2130,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2268,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2499,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2780,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-75,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-270,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-315,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1044,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,85.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1160,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1161-2,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1196,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-50,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-82,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,4300.00,1,10000,1,ng/ml,2022-02-24
+Cao22,H014,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV1404,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,0.60,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-2F6,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10987,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H14,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,TAU-2230,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV38-142,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,HuR33,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,53.40,1,10000,1,ng/ml,2022-02-24
+Cao22,S309,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,356.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-198,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,1160.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C556,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,1920.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C581,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,5700.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2389,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1151,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,543.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1193,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,2380.00,1,10000,1,ng/ml,2022-02-24
+Cao22,FC08,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,262.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H97,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,2410.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S304,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,8100.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C048,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,916.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C594,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2015,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2103,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,5200.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2514,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,322.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2678,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2828,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA1-16,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,3400.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1045,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1046,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1047,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,ADG-2,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,1470.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X259,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,1850.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X35,BA.1 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,B38,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG4-25,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,2500.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-20,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-196,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,8320.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C093,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C102,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C105,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B12,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B3,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-C2,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-F10,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C578,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.1,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.3,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2113,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2308,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,3350.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2589,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2807,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2919,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-04,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-269,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV05-163,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV30,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1126,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1140,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1154,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1179,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1210,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-64,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV016,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV481,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV488,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-1A10,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P4A1,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-2G9,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-3A1,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,WIBP-2B11,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,15033,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG1-24,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C597,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,2660.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2072,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,114.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2098,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2196,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,4760.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2381,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,346.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2684,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2941,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-39,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H165L,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H55L,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,779.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-209,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-287,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV-X2-106,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10933,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2E12,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,129.00,1,10000,1,ng/ml,2022-02-24
+Cao22,2-15,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG10-19,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C002,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C058,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C083,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C121,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C144,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C591,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CM32,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2064,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2391,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2479,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2504,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2539,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2693,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2955,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-316,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-384,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-200,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-222,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-255,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-262,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-283,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1041,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1042,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1043,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1082,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1111,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1159-2,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1173,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1184,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1186,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1214,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,H4,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV555,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P17,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2C-1A3,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H13,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2M11,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,1-57,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-15,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C085,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C110,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2130,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2268,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2499,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2780,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-75,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-270,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-315,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1044,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1160,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1161-2,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1196,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-50,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-82,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,7310.00,1,10000,1,ng/ml,2022-02-24
+Cao22,H014,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV1404,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,1.77,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-2F6,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10987,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H14,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,TAU-2230,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV38-142,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,HuR33,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S309,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,314.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-198,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C556,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C581,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,7110.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2389,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1151,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,267.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1193,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,7150.00,1,10000,1,ng/ml,2022-02-24
+Cao22,FC08,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,374.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H97,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,2230.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C048,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,1030.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C594,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2015,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2103,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2514,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,260.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2678,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2828,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA1-16,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1045,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1046,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1047,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,7850.00,1,10000,1,ng/ml,2022-02-24
+Cao22,ADG-2,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,991.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X259,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,2340.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X35,BA.1 Spike:+346K,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,B38,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG4-25,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,2090.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-20,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-196,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,4120.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C093,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C102,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C105,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B12,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-B3,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-C2,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C1A-F10,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C578,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.1,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CC12.3,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2113,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2308,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,3980.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2589,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2807,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2919,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-04,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-269,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV05-163,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV30,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1126,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1140,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1154,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1179,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1210,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-64,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV016,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV481,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV488,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-1A10,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P4A1,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-2G9,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P5A-3A1,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,WIBP-2B11,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,15033,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG1-24,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C597,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,2040.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2072,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,193.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2098,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2196,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,3420.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2381,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,1430.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2684,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2941,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA2-39,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H165L,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-253H55L,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,670.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-209,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-287,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV-X2-106,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10933,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2E12,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,179.00,1,10000,1,ng/ml,2022-02-24
+Cao22,2-15,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG10-19,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C002,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C058,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C083,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C121,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C144,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C591,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CM32,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2064,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2391,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2479,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2504,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2539,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2693,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2955,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-316,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-384,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-200,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-222,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-255,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-262,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-283,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1041,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1042,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1043,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1082,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1111,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1159-2,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1173,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1184,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1186,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1214,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,H4,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV555,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P17,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,P2C-1A3,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H13,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2M11,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,1-57,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BG7-15,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,543.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C085,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C110,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2130,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,5.56,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2268,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2499,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2780,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVOX-75,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-270,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV07-315,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1044,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,75.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1160,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1161-2,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1196,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-50,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,931.00,1,10000,1,ng/ml,2022-02-24
+Cao22,Ehling_mAb-82,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,2280.00,1,10000,1,ng/ml,2022-02-24
+Cao22,H014,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,LY-CoV1404,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,0.82,1,10000,1,ng/ml,2022-02-24
+Cao22,P2B-2F6,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,REGN10987,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,549.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H14,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,TAU-2230,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,CV38-142,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,HuR33,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,796.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S309,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,944.00,1,10000,1,ng/ml,2022-02-24
+Cao22,BRII-198,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C556,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C581,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,3610.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2389,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1151,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,448.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1193,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,3290.00,1,10000,1,ng/ml,2022-02-24
+Cao22,FC08,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,154.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2H97,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,2020.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C048,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,C594,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2015,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2103,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2514,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2678,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COV2-2828,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,COVA1-16,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1045,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1046,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,DH1047,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,ADG-2,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X259,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
+Cao22,S2X35,BA.2 Spike,Table S2,Pseudovirus (VSV),IC50,10000.00,1,10000,1,ng/ml,2022-02-24
