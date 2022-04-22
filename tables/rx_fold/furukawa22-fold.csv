@@ -1,43 +1,37 @@
-ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
-
-Furukawa22,,Omicron/BA.1 full genome,B.1 full genome,Figure 1B,,NT50,<=,11.8
-Furukawa22,,Omicron/BA.1 full genome,B.1.1.7 full genome,Figure 1B,,NT50,<=,7.3
-Furukawa22,,Omicron/BA.1 full genome,B.1.351 full genome,Figure 1B,,NT50,<=,3.2
-Furukawa22,,Omicron/BA.1 full genome,P.1 full genome,Figure 1B,,NT50,<=,4.9
-Furukawa22,,Omicron/BA.1 full genome,B.1.617.2 full genome,Figure 1B,,NT50,<=,3.6
-Furukawa22,,Omicron/BA.1 full genome,B.1.617 full genome,Figure 1B,,NT50,<=,2.6
-Furukawa22,,B.1 full genome,B.1.351 full genome,Figure 1B,, NT50,>=,3.6
-Furukawa22,,B.1 full genome,P.1 full genome,Figure 1B,, NT50,>=,2.3
-Furukawa22,,B.1 full genome,B.1.617.2 full genome,Figure 1B,, NT50,>=,3.2
-Furukawa22,,B.1 full genome,B.1.617 full genome,Figure 1B,, NT50,>=,4.5
-
-
-1B
-D614G B.1 full genome
-Alpha B.1.1.7 full genome
-Beta B.1.351 full genome
-Gamma P.1 full genome
-Delta B.1.617.2 full genome
-Kappa B.1.617 full genome
-
-2B
-Delta
-3 older age
-4 younger
-4 middle age
-Kappa
-2 older
-4 younger
-4 middle age
-
-3B
-D614G 2.2
-Delta 2.1
-D614G 13 at 2 months, 31 at 7 months
-Delta 16, 35
-Omicron 31, 39
-
-4
-D614G: 28, 28, 48 greater
-Delta: 32, 38, 39 greater
-Omicron: 41, 43, 27 greater
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Furukawa22,,Omicron/BA.1 full genome,B.1 full genome,Figure 1B,NULL,NT50,<=,11.8,NULL,NULL,1,NULL
+Furukawa22,,Omicron/BA.1 full genome,B.1.1.7 full genome,Figure 1B,NULL,NT50,<=,7.3,NULL,NULL,1,NULL
+Furukawa22,,Omicron/BA.1 full genome,B.1.351 full genome,Figure 1B,NULL,NT50,<=,3.2,NULL,NULL,1,NULL
+Furukawa22,,Omicron/BA.1 full genome,P.1 full genome,Figure 1B,NULL,NT50,<=,4.9,NULL,NULL,1,NULL
+Furukawa22,,Omicron/BA.1 full genome,B.1.617.2 full genome,Figure 1B,NULL,NT50,<=,3.6,NULL,NULL,1,NULL
+Furukawa22,,Omicron/BA.1 full genome,B.1.617 full genome,Figure 1B,NULL,NT50,<=,2.6,NULL,NULL,1,NULL
+Furukawa22,,B.1 full genome,B.1.351 full genome,Figure 1B,NULL, NT50,>=,3.6,NULL,NULL,1,NULL
+Furukawa22,,B.1 full genome,P.1 full genome,Figure 1B,NULL, NT50,>=,2.3,NULL,NULL,1,NULL
+Furukawa22,,B.1 full genome,B.1.617.2 full genome,Figure 1B,NULL, NT50,>=,3.2,NULL,NULL,1,NULL
+Furukawa22,,B.1 full genome,B.1.617 full genome,Figure 1B,NULL, NT50,>=,4.5,NULL,NULL,1,NULL
+1B,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+D614G B.1 full genome,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Alpha B.1.1.7 full genome,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Beta B.1.351 full genome,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Gamma P.1 full genome,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Delta B.1.617.2 full genome,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Kappa B.1.617 full genome,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+2B,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Delta,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+3 older age,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+4 younger,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+4 middle age,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Kappa,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+2 older,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+4 younger,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+4 middle age,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+3B,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+D614G 2.2,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Delta 2.1,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+D614G 13 at 2 months, 31 at 7 months,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Delta 16, 35,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Omicron 31, 39,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+4,NULL,Control,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+D614G: 28, 28, 48 greater,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Delta: 32, 38, 39 greater,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL
+Omicron: 41, 43, 27 greater,NULL,NULL,NULL,IC50,NULL,NULL,NULL,NULL,1,NULL

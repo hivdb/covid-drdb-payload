@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Furukawa22,BNT162b2_2dose_2mo,B.1 full genome,Figure 1B,Virus isolate,NT100,16,82,128,2,NULL,2022-04-22
 Furukawa22,BNT162b2_2dose_2mo,hCoV-19/Japan/QHN001/2020,Figure 1B,Virus isolate,NT100,8,82,128,2,NULL,2022-04-22
 Furukawa22,BNT162b2_2dose_2mo,hCoV-19/Japan/TY8-612-P1/2021,Figure 1B,Virus isolate,NT100,4,82,128,2,NULL,2022-04-22

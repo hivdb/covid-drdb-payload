@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Furukawa22,BNT162b2_2dose_2mo,BNT162b2_2dose_2mo,~,2021-06-06,Japan,BNT162b2_2dose_2mo,NULL
 Furukawa22,BNT162b2_2dose_2mo_leq38years,BNT162b2_2dose_2mo_leq38years,~,2021-06-06,Japan,BNT162b2_2dose_2mo_leq38years,NULL
 Furukawa22,BNT162b2_2dose_2mo_39_58years,BNT162b2_2dose_2mo_39_58years,~,2021-06-06,Japan,BNT162b2_2dose_2mo_39_58years,NULL
