@@ -1,0 +1,19 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Stevens22,Remdesivir,Stevens22 DMSO P9L1,Figure 1,Virus isolate,EC50,0.36,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 DMSO P9L2,Figure 1,Virus isolate,EC50,0.34,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 DMSO P9L3,Figure 1,Virus isolate,EC50,0.24,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 DMSO P13L1,Figure 1,Virus isolate,EC50,0.4066,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 DMSO P13L2,Figure 1,Virus isolate,EC50,0.3947,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 DMSO P13L3,Figure 1,Virus isolate,EC50,0.3913,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 GS-441524 P9L1,Figure 1,Virus isolate,EC50,0.94,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 GS-441524 P9L2,Figure 1,Virus isolate,EC50,0.56,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 GS-441524 P9L3,Figure 1,Virus isolate,EC50,0.4,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 GS-441524 P13L1,Figure 1,Virus isolate,EC50,4.219,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 GS-441524 P13L2,Figure 1,Virus isolate,EC50,1.114,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 GS-441524 P13L3,Figure 1,Virus isolate,EC50,3.268,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 PP nsp12-V792I,Figure 1,Virus isolate,EC50,1.06,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,Stevens22 PP nsp12-S759A/V792I,Figure 1,Virus isolate,EC50,2.97,1,10,0.01,µM,2022-04-14
+Stevens22,Remdesivir,MHV-A59,Figure 4F,Virus isolate,EC50,0.07,1,10,0.001,µM,2022-04-14
+Stevens22,Remdesivir,MHV-A59+RdRP:759A,Figure 4F,Virus isolate,EC50,0.184,1,10,0.001,µM,2022-04-14
+Stevens22,Remdesivir,MHV-A59+RdRP:792I,Figure 4F,Virus isolate,EC50,0.128,1,10,0.001,µM,2022-04-14
+Stevens22,Remdesivir,MHV-A59+RdRP:759A+792I,Figure 4F,Virus isolate,EC50,1.7,1,10,0.001,µM,2022-04-14

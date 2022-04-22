@@ -11,5 +11,5 @@ Westendorf21,LY-CoV1404 + Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Vir
 Westendorf21,LY-CoV1404 + Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,185,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404 + Bamlanivimab + Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC50,23,1,10000,0.6,ng/ml,2022-01-20
 Westendorf21,LY-CoV1404 + Bamlanivimab + Etesevimab,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,140,1,10000,0.6,ng/ml,2022-01-20
-Westendorf21,CT-P59,B.1.1.529 Spike,Table 3D,Pseudovirus,IC50,10000,1,10000,0.6,ng/ml,2022-01-20
-Westendorf21,CT-P59,B.1.1.529 Spike,Table 3D,Pseudovirus,IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,CT-P59,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf21,CT-P59,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20

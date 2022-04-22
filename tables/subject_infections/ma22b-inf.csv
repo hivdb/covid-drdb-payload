@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Ma22b,P01,<,2020-08-15,B.1.332,China,None,Non-Hospitalized,NULL
+Ma22b,P02,<,2020-09-01,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P03,<,2020-08-16,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P04,<,2020-08-16,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P05,<,2020-09-18,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P07,<,2020-08-21,B.1.332,China,None,Non-Hospitalized,NULL
+Ma22b,P10,<,2020-09-02,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P11,<,2020-09-03,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P12,<,2020-09-02,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P13,<,2020-09-02,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P14,<,2020-09-02,B.4,China,None,Non-Hospitalized,NULL
+Ma22b,P16,<,2020-09-03,B.4,China,None,Non-Hospitalized,NULL
