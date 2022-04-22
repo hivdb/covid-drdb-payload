@@ -1,0 +1,65 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Furukawa22,BNT162b2_2dose_2mo,B.1 full genome,Figure 1B,Virus isolate,NT100,16,82,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo,hCoV-19/Japan/QHN001/2020,Figure 1B,Virus isolate,NT100,8,82,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo,hCoV-19/Japan/TY8-612-P1/2021,Figure 1B,Virus isolate,NT100,4,82,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo,hCoV-19/Japan/TY7-501/2021,Figure 1B,Virus isolate,NT100,8,82,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo,hCoV-19/Japan/TY11-927-P1/2021,Figure 1B,Virus isolate,NT100,4,82,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo,hCoV-19/Japan/TY11-330-P1/2021,Figure 1B,Virus isolate,NT100,4,82,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo,hCoV-19/Japan/TY38-873P0/2021,Figure 1B,Virus isolate,NT100,1,82,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_leq38years,B.1 full genome,Figure 2B,Virus isolate,NT100,16,31,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_39_58years,B.1 full genome,Figure 2B,Virus isolate,NT100,16,32,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_geq59years,B.1 full genome,Figure 2B,Virus isolate,NT100,8,19,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_leq38years,hCoV-19/Japan/QHN001/2020,Figure 2B,Virus isolate,NT100,8,31,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_39_58years,hCoV-19/Japan/QHN001/2020,Figure 2B,Virus isolate,NT100,8,32,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_geq59years,hCoV-19/Japan/QHN001/2020,Figure 2B,Virus isolate,NT100,8,19,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_leq38years,hCoV-19/Japan/TY8-612-P1/2021,Figure 2B,Virus isolate,NT100,4,31,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_39_58years,hCoV-19/Japan/TY8-612-P1/2021,Figure 2B,Virus isolate,NT100,4,32,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_geq59years,hCoV-19/Japan/TY8-612-P1/2021,Figure 2B,Virus isolate,NT100,2,19,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_leq38years,hCoV-19/Japan/TY7-501/2021,Figure 2B,Virus isolate,NT100,8,31,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_39_58years,hCoV-19/Japan/TY7-501/2021,Figure 2B,Virus isolate,NT100,8,32,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_geq59years,hCoV-19/Japan/TY7-501/2021,Figure 2B,Virus isolate,NT100,4,19,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_leq38years,hCoV-19/Japan/TY11-927-P1/2021,Figure 2B,Virus isolate,NT100,4,31,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_39_58years,hCoV-19/Japan/TY11-927-P1/2021,Figure 2B,Virus isolate,NT100,4,32,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_geq59years,hCoV-19/Japan/TY11-927-P1/2021,Figure 2B,Virus isolate,NT100,4,19,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_leq38years,hCoV-19/Japan/TY11-330-P1/2021,Figure 2B,Virus isolate,NT100,4,31,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_39_58years,hCoV-19/Japan/TY11-330-P1/2021,Figure 2B,Virus isolate,NT100,4,32,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_geq59years,hCoV-19/Japan/TY11-330-P1/2021,Figure 2B,Virus isolate,NT100,2,19,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_leq38years,hCoV-19/Japan/TY38-873P0/2021,Figure 2B,Virus isolate,NT100,2,31,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_39_58years,hCoV-19/Japan/TY38-873P0/2021,Figure 2B,Virus isolate,NT100,2,32,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_2dose_2mo_geq59years,hCoV-19/Japan/TY38-873P0/2021,Figure 2B,Virus isolate,NT100,1,19,128,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo,B.1 full genome,Figure 3B,Virus isolate,NT100,8,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo,B.1 full genome,Figure 3B,Virus isolate,NT100,4,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster,B.1 full genome,Figure 3B,Virus isolate,NT100,128,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo,hCoV-19/Japan/TY11-927-P1/2021,Figure 3B,Virus isolate,NT100,4,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo,hCoV-19/Japan/TY11-927-P1/2021,Figure 3B,Virus isolate,NT100,2,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster,hCoV-19/Japan/TY11-927-P1/2021,Figure 3B,Virus isolate,NT100,64,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo,hCoV-19/Japan/TY38-873P0/2021,Figure 3B,Virus isolate,NT100,1,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo,hCoV-19/Japan/TY38-873P0/2021,Figure 3B,Virus isolate,NT100,1,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster,hCoV-19/Japan/TY38-873P0/2021,Figure 3B,Virus isolate,NT100,32,72,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_leq38years,B.1 full genome,Figure 4A,Virus isolate,NT100,8,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_leq38years,B.1 full genome,Figure 4A,Virus isolate,NT100,4,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_leq38years,B.1 full genome,Figure 4A,Virus isolate,NT100,128,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_9to58years,B.1 full genome,Figure 4A,Virus isolate,NT100,8,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_9to58years,B.1 full genome,Figure 4A,Virus isolate,NT100,4,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_9to58years,B.1 full genome,Figure 4A,Virus isolate,NT100,128,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_geq59years,B.1 full genome,Figure 4A,Virus isolate,NT100,8,14,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_geq59years,B.1 full genome,Figure 4A,Virus isolate,NT100,2,14,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_geq59years,B.1 full genome,Figure 4A,Virus isolate,NT100,128,14,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_leq38years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,8,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_leq38years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,2,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_leq38years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,128,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_9to58years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,4,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_9to58years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,2,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_9to58years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,64,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_geq59years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,2,14,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_geq59years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,1,14,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_geq59years,hCoV-19/Japan/TY11-927-P1/2021,Figure 4B,Virus isolate,NT100,64,14,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_leq38years,hCoV-19/Japan/TY38-873P0/2021,Figure 4C,Virus isolate,NT100,1,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_leq38years,hCoV-19/Japan/TY38-873P0/2021,Figure 4C,Virus isolate,NT100,1,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_leq38years,hCoV-19/Japan/TY38-873P0/2021,6Figure 4C,Virus isolate,NT100,4,31,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_9to58years,hCoV-19/Japan/TY38-873P0/2021,3Figure 4C,Virus isolate,NT100,1,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_9to58years,hCoV-19/Japan/TY38-873P0/2021,3Figure 4C,Virus isolate,NT100,1,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_9to58years,hCoV-19/Japan/TY38-873P0/2021,33Figure 4C,Virus isolate,NT100,2,27,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_2mo_geq59years,hCoV-19/Japan/TY38-873P0/2021,Figure 4C,Virus isolate,NT100,1,14,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_7mo_geq59years,hCoV-19/Japan/TY38-873P0/2021,Figure 4C,Virus isolate,NT100,1,14,512,2,NULL,2022-04-22
+Furukawa22,BNT162b2_3dose_booster_geq59years,hCoV-19/Japan/TY38-873P0/2021,3Figure 4C,Virus isolate,NT100,2,14,512,2,NULL,2022-04-22
