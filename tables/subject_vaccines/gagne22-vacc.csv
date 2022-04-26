@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Gagne22,mRNA1273_3dose,~,2021-01-01,mRNA-1273,1,USA,NULL
 Gagne22,mRNA1273_3dose,~,2021-01-29,mRNA-1273,2,USA,NULL
 Gagne22,mRNA1273_3dose,~,2021-11-15,mRNA-1273,3,USA,NULL

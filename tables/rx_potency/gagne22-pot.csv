@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Gagne22,mRNA1273_2dose_wk6,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,6068,8,10000,20,NULL,2022-04-26
 Gagne22,mRNA1273_2dose_wk6,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3790,8,10000,20,NULL,2022-04-26
 Gagne22,mRNA1273_2dose_wk6,B.1.351 full genome,Supplementary Table 1,Virus isolate,NT50,1087,8,10000,20,NULL,2022-04-26
