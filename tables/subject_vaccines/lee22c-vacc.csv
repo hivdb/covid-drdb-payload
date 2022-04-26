@@ -1,0 +1,11 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Lee22c,mRNA_LNP_WT,~,2021-01-01,mRNA-LNP-WT,1,Taiwan,NULL
+Lee22c,mRNA_LNP_WT,~,2021-01-15,mRNA-LNP-WT,2,Taiwan,NULL
+Lee22c,mRNA_LNP_Delta,~,2021-01-01,mRNA-LNP-Delta,1,Taiwan,NULL
+Lee22c,mRNA_LNP_Delta,~,2021-01-15,mRNA-LNP-Delta,2,Taiwan,NULL
+Lee22c,mRNA_LNP_Omicron,~,2021-01-01,mRNA-LNP-Omicron,1,Taiwan,NULL
+Lee22c,mRNA_LNP_Omicron,~,2021-01-15,mRNA-LNP-Omicron,2,Taiwan,NULL
+Lee22c,mRNA_LNP_Hybrid,~,2021-01-01,mRNA-LNP-Hybrid,1,Taiwan,NULL
+Lee22c,mRNA_LNP_Hybrid,~,2021-01-15,mRNA-LNP-Hybrid,2,Taiwan,NULL
+Lee22c,mRNA_LNP_Bivalent,~,2021-01-01,mRNA-LNP-Delta + mRNA-LNP-Omicron,1,Taiwan,NULL
+Lee22c,mRNA_LNP_Bivalent,~,2021-01-15,mRNA-LNP-Delta + mRNA-LNP-Omicron,2,Taiwan,NULL
