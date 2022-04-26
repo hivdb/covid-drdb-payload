@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Lee22c,mRNA_LNP_WT,B.1 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,6428,6,100000,10,NULL,2022-04-26
 Lee22c,mRNA_LNP_WT,B.1.351 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,3026,6,100000,10,NULL,2022-04-26
 Lee22c,mRNA_LNP_WT,B.1.617.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,4023,6,100000,10,NULL,2022-04-26
