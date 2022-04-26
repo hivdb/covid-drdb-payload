@@ -1,0 +1,33 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gagne22,mRNA1273_2dose_wk6,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,6068,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk6,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3790,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk6,B.1.351 full genome,Supplementary Table 1,Virus isolate,NT50,1087,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk6,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,158,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk41,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,541,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk41,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,291,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk41,B.1.351 full genome,Supplementary Table 1,Virus isolate,NT50,148,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk41,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,45,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_3dose_wk43,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9088,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_3dose_wk43,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,6297,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_3dose_wk43,B.1.351 full genome,Supplementary Table 1,Virus isolate,NT50,3122,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_3dose_wk43,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1051,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_mRNAOmicron_boost_wk43,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,6069,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_mRNAOmicron_boost_wk43,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,4380,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_mRNAOmicron_boost_wk43,B.1.351 full genome,Supplementary Table 1,Virus isolate,NT50,1197,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_mRNAOmicron_boost_wk43,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,718,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk6,Wuhan-Hu-1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,5522,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk6,B.1.617.2 Spike:+142D-156G-157del-158del,Supplementary Table 1,Pseudovirus (lentivirus),NT50,2300,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk6,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,621,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk6,BA.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,434,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk41,Wuhan-Hu-1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,324,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk41,B.1.617.2 Spike:+142D-156G-157del-158del,Supplementary Table 1,Pseudovirus (lentivirus),NT50,211,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk41,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,148,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_wk41,BA.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,156,8,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_3dose_wk43,Wuhan-Hu-1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,6670,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_3dose_wk43,B.1.617.2 Spike:+142D-156G-157del-158del,Supplementary Table 1,Pseudovirus (lentivirus),NT50,3973,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_3dose_wk43,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,3586,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_3dose_wk43,BA.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,4282,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_mRNAOmicron_boost_wk43,Wuhan-Hu-1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,3322,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_mRNAOmicron_boost_wk43,B.1.617.2 Spike:+142D-156G-157del-158del,Supplementary Table 1,Pseudovirus (lentivirus),NT50,2244,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_mRNAOmicron_boost_wk43,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,1458,4,10000,20,NULL,2022-04-26
+Gagne22,mRNA1273_2dose_mRNAOmicron_boost_wk43,BA.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,2039,4,10000,20,NULL,2022-04-26
