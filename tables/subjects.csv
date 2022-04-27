@@ -1280,11 +1280,6 @@ Lee22,Patient Q,Human,1974,1
 Lee22,Patient R,Human,1958,1
 Lee22b,mRNA_1273_2dose,Human,NULL,10
 Lee22b,mRNA_1273_3dose,Human,NULL,20
-Lee22c,mRNA_LNP_Bivalent,Mouse,NULL,6
-Lee22c,mRNA_LNP_Delta,Mouse,NULL,6
-Lee22c,mRNA_LNP_Hybrid,Mouse,NULL,6
-Lee22c,mRNA_LNP_Omicron,Mouse,NULL,6
-Lee22c,mRNA_LNP_WT,Mouse,NULL,6
 Leier21,infected,Human,NULL,10
 Leier21,uninfected,Human,NULL,20
 Leung22,Patient,Human,NULL,1
