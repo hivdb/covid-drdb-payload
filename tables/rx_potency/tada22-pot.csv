@@ -475,15 +475,102 @@ Tada22,BNT_unexperienced_3dose_1m_8,S:67V+69del+70del+95I+142D+143del+144del+145
 Tada22,BNT_unexperienced_3dose_1m_10,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,506,1,1000,1,NULL,2022-01-06
 Tada22,BNT_unexperienced_3dose_1m_11,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,391,1,1000,1,NULL,2022-01-06
 Tada22,BNT_unexperienced_3dose_1m_12,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,276,1,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_1m,S:614G,Figure 1C,Pseudovirus (lentivirus),NT50,4243,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_1m,B.1.351 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,2028,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_1m,B.1.617.2 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,2472,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_1m,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1C,Pseudovirus (lentivirus),NT50,192,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_7m,S:614G,Figure 1C,Pseudovirus (lentivirus),NT50,3270,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_7m,B.1.351 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,1079,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_7m,B.1.617.2 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,1465,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_7m,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1C,Pseudovirus (lentivirus),NT50,109,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_3dose_1m,S:614G,Figure 1C,Pseudovirus (lentivirus),NT50,14868,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_3dose_1m,B.1.351 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,10668,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_3dose_1m,B.1.617.2 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,14634,7,1000,1,NULL,2022-01-06
-Tada22,BNT_experienced_3dose_1m,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 1C,Pseudovirus (lentivirus),NT50,922,7,1000,1,NULL,2022-01-06
+Tada22,BNT_experiencd_CP_1,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,107,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_2,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,32,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_3,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,41,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_4,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,64,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_5,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,84,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_6,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,56,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_1,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,3046,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_2,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2218,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_3,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,6066,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_4,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2137,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_5,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,5849,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_6,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,6493,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_7,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,3895,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_1,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1321,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_2,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1885,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_3,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,4301,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_4,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1752,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_5,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,4910,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_6,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,4721,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_7,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,4003,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_1,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,19136,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_2,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,26367,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_3,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,14407,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_4,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,7239,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_5,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,14302,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_6,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,11001,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_7,S:614G,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,11623,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_1,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,19,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_3,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,28,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_5,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,49,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_6,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,25,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_1,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2994,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_2,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2084,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_3,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2132,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_4,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,845,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_5,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1814,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_6,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1517,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_7,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2811,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_1,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2033,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_2,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,806,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_3,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,843,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_4,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1045,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_5,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,853,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_6,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1138,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_7,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,835,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_1,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,17987,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_2,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,20458,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_3,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,7861,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_4,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,5420,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_5,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,10805,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_6,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,6501,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_7,B.1.351 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,5640,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_1,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,40,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_2,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,40,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_3,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,31,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_6,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,96,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_1,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2460,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_2,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2842,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_3,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2470,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_4,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1757,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_5,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2186,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_6,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,3405,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_7,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2185,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_1,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1737,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_2,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2355,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_3,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,2100,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_4,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,476,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_5,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,909,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_6,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1058,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_7,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1624,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_1,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,15778,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_2,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,15311,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_3,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,14807,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_4,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,11104,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_5,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,8696,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_6,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,12103,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_7,B.1.617.2 Spike,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,24641,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_4,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,18,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experiencd_CP_5,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,14,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_1,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,252,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_2,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,236,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_3,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,167,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_4,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,254,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_5,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,39,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_6,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,190,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_1m_7,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,208,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_1,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,175,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_2,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,125,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_3,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,104,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_4,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,144,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_6,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,111,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_7m_7,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,105,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_1,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1142,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_2,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1197,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_3,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,962,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_4,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,922,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_5,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,293,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_6,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,1354,1,1000,1,NULL,2022-05-02
+Tada22,BNT_experienced_3dose_1m_7,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493K+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,"Figure 1C, Table S2",Pseudovirus (lentivirus),NT50,579,1,1000,1,NULL,2022-05-02
