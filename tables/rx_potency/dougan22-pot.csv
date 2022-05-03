@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Dougan22,BEB,WA1,Table 4,Virus isolate,IC100,3.66,1,10000,1,ng/ml,2022-05-03
+Dougan22,BEB,hCoV-19/USA/MD-HP05285/2021,Table 4,Virus isolate,IC100,78.13,1,10000,1,ng/ml,2022-05-03
+Dougan22,BEB,hCoV-19/USA/GA-EHC-2811C/2021,Table 4,Virus isolate,IC100,7.32,1,10000,1,ng/ml,2022-05-03
+Dougan22,BEB+ETE,WA1,Table 4,Virus isolate,IC100,4.88,1,10000,1,ng/ml,2022-05-03
+Dougan22,BEB+ETE,hCoV-19/USA/MD-HP05285/2021,Table 4,Virus isolate,IC100,19.53,1,10000,1,ng/ml,2022-05-03
+Dougan22,BEB+ETE,hCoV-19/USA/GA-EHC-2811C/2021,Table 4,Virus isolate,IC100,4.88,1,10000,1,ng/ml,2022-05-03
+Dougan22,BEB+BAM+ETE,WA1,Table 4,Virus isolate,IC100,2.44,1,10000,1,ng/ml,2022-05-03
+Dougan22,BEB+BAM+ETE,hCoV-19/USA/MD-HP05285/2021,Table 4,Virus isolate,IC100,10000,1,10000,1,ng/ml,2022-05-03
+Dougan22,BEB+BAM+ETE,hCoV-19/USA/GA-EHC-2811C/2021,Table 4,Virus isolate,IC100,9.77,1,10000,1,ng/ml,2022-05-03

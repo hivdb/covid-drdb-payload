@@ -1,101 +1,117 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Weigang21,CP01,S:614G,Figure 5c,Pseudovirus (VSV),NT50,600,1,10240,20,NULL,2021-07-01
-Weigang21,CP01,Weigang21_d105 Spike,Figure 5c,Pseudovirus (VSV),NT50,72,1,10240,20,NULL,2021-07-01
-Weigang21,CP02,S:614G,Figure 5d,Pseudovirus (VSV),NT50,1472,1,10240,20,NULL,2021-07-01
-Weigang21,CP02,S:484G,Figure 5d,Pseudovirus (VSV),NT50,1307,1,10240,20,NULL,2021-05-06
-Weigang21,CP02,S:490L,Figure 5d,Pseudovirus (VSV),NT50,1318,1,10240,20,NULL,2021-05-06
-Weigang21,CP02,S:141del+142del+143del+144del,Figure 5d,Pseudovirus (VSV),NT50,623,1,10240,20,NULL,2021-05-06
-Weigang21,CP02,S:244del+245del+246del+247del,Figure 5d,Pseudovirus (VSV),NT50,612,1,10240,20,NULL,2021-05-06
-Weigang21,CP02,S:141del+142del+143del+144del+484G,Figure 5d,Pseudovirus (VSV),NT50,498,1,10240,20,NULL,2021-05-06
-Weigang21,CP02,S:141del+142del+143del+144del+490L,Figure 5d,Pseudovirus (VSV),NT50,623,1,10240,20,NULL,2021-05-06
-Weigang21,CP02,S:244del+245del+246del+247del+484G,Figure 5d,Pseudovirus (VSV),NT50,371,1,10240,20,NULL,2021-05-06
-Weigang21,CP02,S:244del+245del+246del+247del+490L,Figure 5d,Pseudovirus (VSV),NT50,663,1,10240,20,NULL,2021-05-06
-Weigang21,BNT162b2,S:614G,Figure 5e,Pseudovirus (VSV),NT50,1155,1,10240,20,NULL,2021-07-01
-Weigang21,BNT162b2,S:484G,Figure 5e,Pseudovirus (VSV),NT50,642,1,10240,20,NULL,2021-05-06
-Weigang21,BNT162b2,S:490L,Figure 5e,Pseudovirus (VSV),NT50,992,1,10240,20,NULL,2021-05-06
-Weigang21,BNT162b2,S:141del+142del+143del+144del,Figure 5e,Pseudovirus (VSV),NT50,558,1,10240,20,NULL,2021-05-06
-Weigang21,BNT162b2,S:244del+245del+246del+247del,Figure 5e,Pseudovirus (VSV),NT50,421,1,10240,20,NULL,2021-05-06
-Weigang21,BNT162b2,S:141del+142del+143del+144del+484G,Figure 5e,Pseudovirus (VSV),NT50,213,1,10240,20,NULL,2021-05-06
-Weigang21,BNT162b2,S:141del+142del+143del+144del+490L,Figure 5e,Pseudovirus (VSV),NT50,359,1,10240,20,NULL,2021-05-06
-Weigang21,BNT162b2,S:244del+245del+246del+247del+484G,Figure 5e,Pseudovirus (VSV),NT50,365,1,10240,20,NULL,2021-05-06
-Weigang21,BNT162b2,S:244del+245del+246del+247del+490L,Figure 5e,Pseudovirus (VSV),NT50,435,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6b_1,Weigang21_d14,Figure 6b,Virus isolate,NT50,3066,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6b_2,Weigang21_d14,Figure 6b,Virus isolate,NT50,2726,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6b_3,Weigang21_d14,Figure 6b,Virus isolate,NT50,2048,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6b_4,Weigang21_d14,Figure 6b,Virus isolate,NT50,2048,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6b_5,Weigang21_d14,Figure 6b,Virus isolate,NT50,2048,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6b_6,Weigang21_d14,Figure 6b,Virus isolate,NT50,1363,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6b_7,Weigang21_d14,Figure 6b,Virus isolate,NT50,1024,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6b_1,Weigang21_d105,Figure 6b,Virus isolate,NT50,1363,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6b_2,Weigang21_d105,Figure 6b,Virus isolate,NT50,1195,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6b_3,Weigang21_d105,Figure 6b,Virus isolate,NT50,2048,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6b_4,Weigang21_d105,Figure 6b,Virus isolate,NT50,512,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6b_5,Weigang21_d105,Figure 6b,Virus isolate,NT50,512,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6b_6,Weigang21_d105,Figure 6b,Virus isolate,NT50,428,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6b_7,Weigang21_d105,Figure 6b,Virus isolate,NT50,1024,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_01,Weigang21_d14,Figure 6c,Virus isolate,NT50,2048,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_02,Weigang21_d14,Figure 6c,Virus isolate,NT50,2048,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_03,Weigang21_d14,Figure 6c,Virus isolate,NT50,769,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_04,Weigang21_d14,Figure 6c,Virus isolate,NT50,684,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_05,Weigang21_d14,Figure 6c,Virus isolate,NT50,512,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_06,Weigang21_d14,Figure 6c,Virus isolate,NT50,512,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_07,Weigang21_d14,Figure 6c,Virus isolate,NT50,512,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_08,Weigang21_d14,Figure 6c,Virus isolate,NT50,428,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_09,Weigang21_d14,Figure 6c,Virus isolate,NT50,428,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_10,Weigang21_d14,Figure 6c,Virus isolate,NT50,428,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_11,Weigang21_d14,Figure 6c,Virus isolate,NT50,341,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_12,Weigang21_d14,Figure 6c,Virus isolate,NT50,278,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_13,Weigang21_d14,Figure 6c,Virus isolate,NT50,192,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6c_01,Weigang21_d105,Figure 6c,Virus isolate,NT50,2048,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_02,Weigang21_d105,Figure 6c,Virus isolate,NT50,2048,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_03,Weigang21_d105,Figure 6c,Virus isolate,NT50,1533,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_04,Weigang21_d105,Figure 6c,Virus isolate,NT50,1024,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_05,Weigang21_d105,Figure 6c,Virus isolate,NT50,1024,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_06,Weigang21_d105,Figure 6c,Virus isolate,NT50,1024,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_07,Weigang21_d105,Figure 6c,Virus isolate,NT50,1024,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_08,Weigang21_d105,Figure 6c,Virus isolate,NT50,852,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_09,Weigang21_d105,Figure 6c,Virus isolate,NT50,852,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_10,Weigang21_d105,Figure 6c,Virus isolate,NT50,852,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_11,Weigang21_d105,Figure 6c,Virus isolate,NT50,597,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_12,Weigang21_d105,Figure 6c,Virus isolate,NT50,428,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6c_13,Weigang21_d105,Figure 6c,Virus isolate,NT50,684,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6d_1,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6d,Virus isolate,NT50,2303,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6d_2,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6d,Virus isolate,NT50,2048,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6d_3,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6d,Virus isolate,NT50,2303,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6d_4,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6d,Virus isolate,NT50,1533,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6d_5,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6d,Virus isolate,NT50,1281,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6d_6,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6d,Virus isolate,NT50,897,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6d_7,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6d,Virus isolate,NT50,769,1,10240,20,NULL,2021-07-01
-Weigang21,CP_WT_mice_6d_1,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6d,Virus isolate,NT50,1533,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6d_2,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6d,Virus isolate,NT50,2048,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6d_3,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6d,Virus isolate,NT50,640,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6d_4,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6d,Virus isolate,NT50,320,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6d_5,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6d,Virus isolate,NT50,769,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6d_6,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6d,Virus isolate,NT50,769,1,10240,20,NULL,2021-05-06
-Weigang21,CP_WT_mice_6d_7,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6d,Virus isolate,NT50,160,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_01,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,1917,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_02,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,1533,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_03,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,897,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_04,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,704,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_05,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,704,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_06,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,769,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_07,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,449,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_08,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,512,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_09,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,320,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_10,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,385,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_11,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,256,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_12,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,256,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_13,hCoV-19/Germany/NW-RKI-I-0026/2020,Figure 6e,Virus isolate,NT50,192,1,10240,20,NULL,2021-07-01
-Weigang21,CP_d105_mice_6e_01,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,2048,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_02,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,2552,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_03,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,1281,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_04,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,1152,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_05,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,1024,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_06,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,769,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_07,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,640,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_08,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,512,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_09,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,640,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_10,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,449,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_11,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,576,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_12,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,385,1,10240,20,NULL,2021-05-06
-Weigang21,CP_d105_mice_6e_13,hCoV-19/Germany/NW-RKI-I-0029/2020,Figure 6e,Virus isolate,NT50,320,1,10240,20,NULL,2021-05-06
+Weigang21,CP01,S:614G,"Figure 5c, Source data",Pseudovirus (VSV),NT50,600,1,4096,20,NULL,2022-05-03
+Weigang21,CP01,Weigang21_d105 Spike,"Figure 5c, Source data",Pseudovirus (VSV),NT50,72,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:614G,"Figure 5d, Source data",Pseudovirus (VSV),NT50,1480,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:484G,"Figure 5d, Source data",Pseudovirus (VSV),NT50,1314,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:490L,"Figure 5d, Source data",Pseudovirus (VSV),NT50,1324,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:141del+142del+143del+144del,"Figure 5d, Source data",Pseudovirus (VSV),NT50,631,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:244del+245del+246del+247del,"Figure 5d, Source data",Pseudovirus (VSV),NT50,621,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:141del+142del+143del+144del+484G,"Figure 5d, Source data",Pseudovirus (VSV),NT50,506,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:141del+142del+143del+144del+490L,"Figure 5d, Source data",Pseudovirus (VSV),NT50,631,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:244del+245del+246del+247del+484G,"Figure 5d, Source data",Pseudovirus (VSV),NT50,378,1,4096,20,NULL,2022-05-03
+Weigang21,CP02,S:244del+245del+246del+247del+490L,"Figure 5d, Source data",Pseudovirus (VSV),NT50,671,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:614G,"Figure 5e, Source data",Pseudovirus (VSV),NT50,1160,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:484G,"Figure 5e, Source data",Pseudovirus (VSV),NT50,648,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:490L,"Figure 5e, Source data",Pseudovirus (VSV),NT50,998,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:141del+142del+143del+144del,"Figure 5e, Source data",Pseudovirus (VSV),NT50,563,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:244del+245del+246del+247del,"Figure 5e, Source data",Pseudovirus (VSV),NT50,427,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:141del+142del+143del+144del+484G,"Figure 5e, Source data",Pseudovirus (VSV),NT50,218,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:141del+142del+143del+144del+490L,"Figure 5e, Source data",Pseudovirus (VSV),NT50,365,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:244del+245del+246del+247del+484G,"Figure 5e, Source data",Pseudovirus (VSV),NT50,370,1,4096,20,NULL,2022-05-03
+Weigang21,BNT162b2,S:244del+245del+246del+247del+490L,"Figure 5e, Source data",Pseudovirus (VSV),NT50,441,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_1,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,3072,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_2,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,2730,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_3,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_4,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_5,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_6,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_7,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,1365,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_8,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_9,Weigang21_d14,"Figure 6b, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_1,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,1365,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_2,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,1195,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_3,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_4,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_5,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_6,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_7,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,427,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_8,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,256,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6b_9,Weigang21_d105,"Figure 6b, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_01,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,277,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_02,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,427,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_03,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,427,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_04,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,683,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_05,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_06,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,192,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_07,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,427,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_08,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,341,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_09,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_10,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_11,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_12,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_13,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_14,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_15,Weigang21_d14,"Figure 6c, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_01,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,427,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_02,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,853,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_03,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,853,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_04,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_05,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_06,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,683,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_07,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,853,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_08,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,597,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_09,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,1536,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_10,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_11,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_12,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_13,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_14,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6c_15,Weigang21_d105,"Figure 6c, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_1,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,1280,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_2,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_3,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,896,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_4,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,2304,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_5,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,1536,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_6,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,2304,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_7,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_8,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,3072,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_9,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6d, Source data",Virus isolate,NT50,3072,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_1,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_2,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_3,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_4,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,1536,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_5,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,320,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_6,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,640,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_7,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,160,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_8,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_WT_mice_6d_9,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6d, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_01,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_02,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,704,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_03,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,192,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_04,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,704,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_05,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,256,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_06,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_07,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,384,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_08,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,256,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_09,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,896,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_10,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,1536,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_11,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,1920,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_12,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,320,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_13,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,448,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_14,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_15,hCoV-19/Germany/NW-RKI-I-0026/2020,"Figure 6e, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_01,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_02,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_03,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,320,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_04,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,1152,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_05,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,576,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_06,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,512,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_07,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,448,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_08,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,384,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_09,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,1280,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_10,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,2560,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_11,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,2048,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_12,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,640,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_13,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,640,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_14,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,768,1,4096,20,NULL,2022-05-03
+Weigang21,CP_d105_mice_6e_15,hCoV-19/Germany/NW-RKI-I-0029/2020,"Figure 6e, Source data",Virus isolate,NT50,1024,1,4096,20,NULL,2022-05-03
