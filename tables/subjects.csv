@@ -2019,6 +2019,7 @@ Schmidt21b,PT_C076,Human,NULL,1
 Schmidt21b,PT_C079,Human,NULL,1
 Schmidt21b,PT_C080,Human,NULL,1
 Schmidt21b,PT_C081,Human,NULL,1
+Schulz22,Vaccinee,Human,1983,1
 Sepulcri21,Donor,Human,NULL,1
 Sepulcri21,Patient,Human,1940,1
 Shen21,CP_Ser_12,Human,NULL,1
@@ -2699,8 +2700,8 @@ Wang22,BBIBP-CorV_2dose_d14,Human,NULL,10
 Wang22,BBIBP-CorV_3dose_d14,Human,NULL,10
 Wang22,CP_Delta,Human,NULL,10
 Wang22,ZF2001_3dose_d14,Human,NULL,10
-Wang22c,CoronaVac_2dose,Human,NULL,1
-Wang22c,CoronaVac_3dose,Human,NULL,1
+Wang22c,CoronaVac_2dose,Human,NULL,60
+Wang22c,CoronaVac_3dose,Human,NULL,60
 Weigang21,BNT162b2,Human,NULL,1
 Weigang21,BW-FR,Human,1962,1
 Weigang21,CP_Human,Human,NULL,2
