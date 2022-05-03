@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Lyke22,group_2E_day1,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,342.72,20,10000,10,NULL,2022-05-02
 Lyke22,group_13E_day1,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,129.54,20,10000,10,NULL,2022-05-02
 Lyke22,group_4E_day1,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),NT50,35.28,20,10000,10,NULL,2022-05-02

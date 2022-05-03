@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Lyke22,group_2E,~,2021-01-01,mRNA-1273,1,USA,NULL
 Lyke22,group_2E,~,2021-02-01,mRNA-1273,2,USA,NULL
 Lyke22,group_2E,~,2021-04-26,mRNA-1273,3,USA,NULL
