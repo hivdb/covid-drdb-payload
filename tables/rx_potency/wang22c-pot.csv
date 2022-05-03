@@ -34,3 +34,9 @@ Wang22c,LY-CoV016,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,10000,1
 Wang22c,DXP-604,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,154,1,10000,1,ng/ml,2022-04-13
 Wang22c,AZD8895,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,4235,1,10000,1,ng/ml,2022-04-13
 Wang22c,REGN10987,BA.1 Spike,Supplmentary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-04-13
+Wang22c,CoronaVac_3dose,Wuhan-Hu-1,Fig 1c,Virus isolate,NT50,253.9,60,10000,25,NULL,2022-05-03
+Wang22c,CoronaVac_3dose,B.1.617.2 full genome,Fig 1c,Virus isolate,NT50,77.8,60,10000,25,NULL,2022-05-03
+Wang22c,CoronaVac_3dose,Omicron/BA.1 full genome,Fig 1c,Virus isolate,NT50,15.4,60,10000,25,NULL,2022-05-03
+Wang22c,CoronaVac_2dose,Wuhan-Hu-1,Fig 1c,Virus isolate,NT50,33.5,60,10000,25,NULL,2022-05-03
+Wang22c,CoronaVac_2dose,B.1.617.2 full genome,Fig 1c,Virus isolate,NT50,6.6,60,10000,25,NULL,2022-05-03
+Wang22c,CoronaVac_2dose,Omicron/BA.1 full genome,Fig 1c,Virus isolate,NT50,2.1,60,10000,25,NULL,2022-05-03
