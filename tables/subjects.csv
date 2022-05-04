@@ -2192,9 +2192,9 @@ Sheward22,VP_L,Human,NULL,1
 Sheward22,VP_N,Human,NULL,1
 Sheward22,VP_O,Human,NULL,1
 Sheward22,VP_P,Human,NULL,1
-Singanallur22,AstraZeneca,Human,NULL,1
-Singanallur22,Moderna,Human,NULL,1
-Singanallur22,Pfizer,Human,NULL,1
+Singanallur22,AstraZeneca,Human,1964,6
+Singanallur22,Moderna,Human,1982,12
+Singanallur22,Pfizer,Human,1988,15
 Skelly21,BNT_1st,Human,NULL,11
 Skelly21,BNT_2nd,Human,NULL,25
 Skelly21,CP_Asymptomatic,Human,NULL,12
