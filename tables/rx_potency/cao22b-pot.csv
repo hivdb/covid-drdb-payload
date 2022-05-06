@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Cao22b,CoronaVac_3dose,B.1 Spike,Figure 2A,Pseudovirus (VSV),NT50,632,40,10000,1,NULL,2022-05-04
 Cao22b,CoronaVac_3dose,BA.1 Spike,Figure 2A,Pseudovirus (VSV),NT50,122,40,10000,1,NULL,2022-05-04
 Cao22b,CoronaVac_3dose,BA.1 Spike:+346K,Figure 2A,Pseudovirus (VSV),NT50,112,40,10000,1,NULL,2022-05-04

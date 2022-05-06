@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Cao22b,CoronaVac_3dose,~,2021-01-16,CoronaVac,1,China,NULL
 Cao22b,CoronaVac_3dose,~,2021-02-13,CoronaVac,2,China,NULL
 Cao22b,CoronaVac_3dose,~,2021-08-13,CoronaVac,3,China,NULL
