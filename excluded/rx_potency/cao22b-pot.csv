@@ -1,0 +1,11 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cao22b,XGv-030,BA.2 Spike:452Q+704L,Suppmentary Table 1,Pseudovirus (VSV),IC50,5090.0,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-053,hCoV-19/pangolin/Guangdong/1/2019 Spike,Suppmentary Table 1,Pseudovirus (VSV),IC50,2.61,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-053,RaTG13 Spike,Suppmentary Table 1,Pseudovirus (VSV),IC50,10000.0,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-080,BA.2 Spike:452Q+704L,Suppmentary Table 1,Pseudovirus (VSV),IC50,10000.0,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-101,BA.2 Spike:452Q+704L,Suppmentary Table 1,Pseudovirus (VSV),IC50,10000.0,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-105,BA.2 Spike:452Q+704L,Suppmentary Table 1,Pseudovirus (VSV),IC50,10000.0,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-124,BA.2 Spike:452Q+704L,Suppmentary Table 1,Pseudovirus (VSV),IC50,10000.0,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-235,BA.2 Spike:452Q+704L,Suppmentary Table 1,Pseudovirus (VSV),IC50,876.0,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-355,BA.1 Spike,Suppmentary Table 1,Pseudovirus (VSV),IC50,2860.0,1,10000,1,ng/ml,2022-05-05
+Cao22b,XGv-355,BA.2 Spike:452Q+704L,Suppmentary Table 1,Pseudovirus (VSV),IC50,3710.0,1,10000,1,ng/ml,2022-05-05
