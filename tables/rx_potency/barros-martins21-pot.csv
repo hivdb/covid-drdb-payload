@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,poteNT50y_type,poteNT50y,cumulative_count,poteNT50y_upper_limit,poteNT50y_lower_limit,poteNT50y_unit,date_added
 Barros-Martins21,AZD_1dose_1,Wuhan-Hu-1,Figure 1d and 41591_2021_1449_MOESM2_ESM.xlsx,sVNT (ACE2 blocking assay),NT50,1,1,NULL,20,NULL,2021-08-27
 Barros-Martins21,AZD_1dose_2,Wuhan-Hu-1,Figure 1d and 41591_2021_1449_MOESM2_ESM.xlsx,sVNT (ACE2 blocking assay),NT50,180,1,NULL,20,NULL,2021-08-27
 Barros-Martins21,AZD_1dose_3,Wuhan-Hu-1,Figure 1d and 41591_2021_1449_MOESM2_ESM.xlsx,sVNT (ACE2 blocking assay),NT50,20,1,NULL,20,NULL,2021-08-27
