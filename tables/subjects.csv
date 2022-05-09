@@ -2191,11 +2191,11 @@ Sheward22,VP_L,Human,NULL,1
 Sheward22,VP_N,Human,NULL,1
 Sheward22,VP_O,Human,NULL,1
 Sheward22,VP_P,Human,NULL,1
-Singh22,CP,Human,NULL,1
-Singh22,CP_ChAdOx_1dose,Human,NULL,1
-Singh22,ChAdOx_1dose,Human,NULL,1
-Singh22,ChAdOx_1dose_seronegative,Human,NULL,1
-Singh22,ChAdOx_1dose_seropositive,Human,NULL,1
+Singh22,CP,Human,NULL,8
+Singh22,CP_ChAdOx_1dose,Human,NULL,6
+Singh22,ChAdOx_1dose,Human,NULL,12
+Singh22,ChAdOx_1dose_seronegative,Human,NULL,6
+Singh22,ChAdOx_1dose_seropositive,Human,NULL,6
 Skelly21,BNT_1st,Human,NULL,11
 Skelly21,BNT_2nd,Human,NULL,25
 Skelly21,CP_Asymptomatic,Human,NULL,12
