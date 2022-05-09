@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Singh22,CP_ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Table 1,Virus isolate,NT50,187,6,16384,10,NULL,2022-05-03
 Singh22,ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Table 1,Virus isolate,NT50,110.2,12,16384,10,NULL,2022-05-03
 Singh22,CP_ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Table 1,Virus isolate,NT50,105,6,16384,10,NULL,2022-05-03
