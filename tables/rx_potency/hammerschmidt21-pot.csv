@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,poteNT50y_type,poteNT50y,cumulative_count,poteNT50y_upper_limit,poteNT50y_lower_limit,poteNT50y_unit,date_added
 Hammerschmidt21,AZD_1dose,B.1.617.2 Spike,Figure 1a,sVNT (ACE2 blocking assay),NT50,20,31,NULL,20,NULL,2021-08-27
 Hammerschmidt21,AZD_2dose,B.1.617.2 Spike,Figure 1a,sVNT (ACE2 blocking assay),NT50,20,31,NULL,20,NULL,2021-08-27
 Hammerschmidt21,AZD_BNT_1dose,B.1.617.2 Spike,Figure 1a,sVNT (ACE2 blocking assay),NT50,20,54,NULL,20,NULL,2021-08-27
