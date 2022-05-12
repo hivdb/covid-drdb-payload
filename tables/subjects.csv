@@ -2219,6 +2219,11 @@ Sheward22,VP_P,Human,NULL,1
 Singanallur22,AstraZeneca,Human,1964,6
 Singanallur22,Moderna,Human,1982,12
 Singanallur22,Pfizer,Human,1988,15
+Singh22,CP,Human,NULL,8
+Singh22,CP_ChAdOx_1dose,Human,NULL,6
+Singh22,ChAdOx_1dose,Human,NULL,12
+Singh22,ChAdOx_1dose_seronegative,Human,NULL,6
+Singh22,ChAdOx_1dose_seropositive,Human,NULL,6
 Skelly21,BNT_1st,Human,NULL,11
 Skelly21,BNT_2nd,Human,NULL,25
 Skelly21,CP_Asymptomatic,Human,NULL,12
