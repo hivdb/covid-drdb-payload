@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Singn22b,CP_ChAdOx_1dose,~,2021-03-15,AZD1222,1,India,NULL
+Singn22b,ChAdOx_1dose,~,2021-03-15,AZD1222,1,India,NULL
+Singn22b,ChAdOx_1dose_seronegative,~,2021-03-15,AZD1222,1,India,NULL
+Singn22b,ChAdOx_1dose_seropositive,~,2021-03-15,AZD1222,1,India,NULL
