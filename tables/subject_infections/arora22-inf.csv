@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Arora22,CP,<,2021-02-28,Unknown variant,Germany,NULL,Severe,Paragraph 3 and Paragraph 4
+Arora22,VACC_CP,<,2022-01-31,Delta,Germany,NULL,Moderate,Paragraph 3 and Paragraph 4
