@@ -1,0 +1,237 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Mykytyn22,BNT_1dose,B.1 full genome,Figure 1a,Virus isolate,NT50,225,10,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_1dose,B.1.617.2 full genome,Figure 1a,Virus isolate,NT50,238,10,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_1dose,Omicron/BA.1 full genome,Figure 1a,Virus isolate,NT50,17,10,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_1dose,Omicron/BA.2 full genome,Figure 1a,Virus isolate,NT50,29,10,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_2dose,B.1 full genome,Figure 1b,Virus isolate,NT50,1216,9,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_2dose,B.1.617.2 full genome,Figure 1b,Virus isolate,NT50,783,9,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_2dose,Omicron/BA.1 full genome,Figure 1b,Virus isolate,NT50,20,9,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_2dose,Omicron/BA.2 full genome,Figure 1b,Virus isolate,NT50,97,9,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_3dose,B.1 full genome,Figure 1c,Virus isolate,NT50,3243,10,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_3dose,B.1.617.2 full genome,Figure 1c,Virus isolate,NT50,2388,10,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_3dose,Omicron/BA.1 full genome,Figure 1c,Virus isolate,NT50,289,10,81920,20,NULL,2022-05-13
+Mykytyn22,BNT_3dose,Omicron/BA.2 full genome,Figure 1c,Virus isolate,NT50,493,10,81920,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,B.1 full genome,Figure 4a,Virus isolate,NT50,3816,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,B.1.1.7 full genome,Figure 4a,Virus isolate,NT50,3827,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,B.1.351 full genome,Figure 4a,Virus isolate,NT50,1379,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,P.1 full genome,Figure 4a,Virus isolate,NT50,2252,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,P.2 full genome,Figure 4a,Virus isolate,NT50,1144,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,B.1.617.2 full genome,Figure 4a,Virus isolate,NT50,7597,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,AY.4.2 full genome,Figure 4a,Virus isolate,NT50,3827,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,C.37 full genome,Figure 4a,Virus isolate,NT50,4658,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,B.1.621 full genome,Figure 4a,Virus isolate,NT50,2270,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,Omicron/BA.1 full genome,Figure 4a,Virus isolate,NT50,34,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf,Omicron/BA.2 full genome,Figure 4a,Virus isolate,NT50,137,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,B.1 full genome,Figure 4b,Virus isolate,NT50,753,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,B.1.1.7 full genome,Figure 4b,Virus isolate,NT50,2966,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,B.1.351 full genome,Figure 4b,Virus isolate,NT50,758,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,P.1 full genome,Figure 4b,Virus isolate,NT50,530,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,P.2 full genome,Figure 4b,Virus isolate,NT50,164,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,B.1.617.2 full genome,Figure 4b,Virus isolate,NT50,1764,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,AY.4.2 full genome,Figure 4b,Virus isolate,NT50,1048,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,C.37 full genome,Figure 4b,Virus isolate,NT50,4358,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,B.1.621 full genome,Figure 4b,Virus isolate,NT50,922,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,Omicron/BA.1 full genome,Figure 4b,Virus isolate,NT50,27,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf,Omicron/BA.2 full genome,Figure 4b,Virus isolate,NT50,26,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,B.1 full genome,Figure 4c,Virus isolate,NT50,294,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,B.1.1.7 full genome,Figure 4c,Virus isolate,NT50,705,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,B.1.351 full genome,Figure 4c,Virus isolate,NT50,2544,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,P.1 full genome,Figure 4c,Virus isolate,NT50,699,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,P.2 full genome,Figure 4c,Virus isolate,NT50,151,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,B.1.617.2 full genome,Figure 4c,Virus isolate,NT50,268,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,AY.4.2 full genome,Figure 4c,Virus isolate,NT50,255,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,C.37 full genome,Figure 4c,Virus isolate,NT50,529,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,B.1.621 full genome,Figure 4c,Virus isolate,NT50,505,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,Omicron/BA.1 full genome,Figure 4c,Virus isolate,NT50,48,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf,Omicron/BA.2 full genome,Figure 4c,Virus isolate,NT50,82,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,B.1 full genome,Figure 4d,Virus isolate,NT50,1714,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,B.1.1.7 full genome,Figure 4d,Virus isolate,NT50,3420,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,B.1.351 full genome,Figure 4d,Virus isolate,NT50,2435,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,P.1 full genome,Figure 4d,Virus isolate,NT50,951,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,P.2 full genome,Figure 4d,Virus isolate,NT50,203,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,B.1.617.2 full genome,Figure 4d,Virus isolate,NT50,10091,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,AY.4.2 full genome,Figure 4d,Virus isolate,NT50,5721,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,C.37 full genome,Figure 4d,Virus isolate,NT50,4229,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,B.1.621 full genome,Figure 4d,Virus isolate,NT50,432,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,Omicron/BA.1 full genome,Figure 4d,Virus isolate,NT50,63,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf,Omicron/BA.2 full genome,Figure 4d,Virus isolate,NT50,142,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,B.1 full genome,Figure 4e,Virus isolate,NT50,3532,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,B.1.1.7 full genome,Figure 4e,Virus isolate,NT50,3518,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,B.1.351 full genome,Figure 4e,Virus isolate,NT50,3080,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,P.1 full genome,Figure 4e,Virus isolate,NT50,2238,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,P.2 full genome,Figure 4e,Virus isolate,NT50,1613,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,B.1.617.2 full genome,Figure 4e,Virus isolate,NT50,3316,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,AY.4.2 full genome,Figure 4e,Virus isolate,NT50,1832,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,C.37 full genome,Figure 4e,Virus isolate,NT50,2861,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,B.1.621 full genome,Figure 4e,Virus isolate,NT50,2902,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,Omicron/BA.1 full genome,Figure 4e,Virus isolate,NT50,49,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf,Omicron/BA.2 full genome,Figure 4e,Virus isolate,NT50,172,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,B.1 full genome,Figure 4f,Virus isolate,NT50,1822,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,B.1.1.7 full genome,Figure 4f,Virus isolate,NT50,7014,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,B.1.351 full genome,Figure 4f,Virus isolate,NT50,1652,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,P.1 full genome,Figure 4f,Virus isolate,NT50,1481,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,P.2 full genome,Figure 4f,Virus isolate,NT50,931,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,B.1.617.2 full genome,Figure 4f,Virus isolate,NT50,5728,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,AY.4.2 full genome,Figure 4f,Virus isolate,NT50,9579,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,C.37 full genome,Figure 4f,Virus isolate,NT50,3710,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,B.1.621 full genome,Figure 4f,Virus isolate,NT50,1734,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,Omicron/BA.1 full genome,Figure 4f,Virus isolate,NT50,387,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf,Omicron/BA.2 full genome,Figure 4f,Virus isolate,NT50,200,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,B.1 full genome,Figure 4g,Virus isolate,NT50,2269,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,B.1.1.7 full genome,Figure 4g,Virus isolate,NT50,3920,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,B.1.351 full genome,Figure 4g,Virus isolate,NT50,6976,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,P.1 full genome,Figure 4g,Virus isolate,NT50,6678,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,P.2 full genome,Figure 4g,Virus isolate,NT50,768,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,B.1.617.2 full genome,Figure 4g,Virus isolate,NT50,1330,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,AY.4.2 full genome,Figure 4g,Virus isolate,NT50,1124,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,C.37 full genome,Figure 4g,Virus isolate,NT50,3229,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,B.1.621 full genome,Figure 4g,Virus isolate,NT50,1326,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,Omicron/BA.1 full genome,Figure 4g,Virus isolate,NT50,174,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf,Omicron/BA.2 full genome,Figure 4g,Virus isolate,NT50,404,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,B.1 full genome,Figure 4h,Virus isolate,NT50,234,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,B.1.1.7 full genome,Figure 4h,Virus isolate,NT50,652,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,B.1.351 full genome,Figure 4h,Virus isolate,NT50,270,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,P.1 full genome,Figure 4h,Virus isolate,NT50,210,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,P.2 full genome,Figure 4h,Virus isolate,NT50,174,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,B.1.617.2 full genome,Figure 4h,Virus isolate,NT50,153,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,AY.4.2 full genome,Figure 4h,Virus isolate,NT50,377,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,C.37 full genome,Figure 4h,Virus isolate,NT50,662,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,B.1.621 full genome,Figure 4h,Virus isolate,NT50,342,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,Omicron/BA.1 full genome,Figure 4h,Virus isolate,NT50,1589,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf,Omicron/BA.2 full genome,Figure 4h,Virus isolate,NT50,197,4,40960,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_1,B.1 full genome,Extended Data fig 1B,Virus isolate,NT50,40,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_1,B.1.617.2 full genome,Extended Data fig 1B,Virus isolate,NT50,58,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_1,Omicron/BA.1 full genome,Extended Data fig 1B,Virus isolate,NT50,68,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_1,Omicron/BA.2 full genome,Extended Data fig 1B,Virus isolate,NT50,40,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_2,B.1 full genome,Extended Data fig 1B,Virus isolate,NT50,22,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_2,B.1.617.2 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_2,Omicron/BA.1 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_2,Omicron/BA.2 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_3,B.1 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_3,B.1.617.2 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_3,Omicron/BA.1 full genome,Extended Data fig 1B,Virus isolate,NT50,58,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_3,Omicron/BA.2 full genome,Extended Data fig 1B,Virus isolate,NT50,40,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_4,B.1 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_4,B.1.617.2 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_4,Omicron/BA.1 full genome,Extended Data fig 1B,Virus isolate,NT50,93,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_4,Omicron/BA.2 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_5,B.1 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_5,B.1.617.2 full genome,Extended Data fig 1B,Virus isolate,NT50,56,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_5,Omicron/BA.1 full genome,Extended Data fig 1B,Virus isolate,NT50,77,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_5,Omicron/BA.2 full genome,Extended Data fig 1B,Virus isolate,NT50,122,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_6,B.1 full genome,Extended Data fig 1B,Virus isolate,NT50,10,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_6,B.1.617.2 full genome,Extended Data fig 1B,Virus isolate,NT50,303,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_6,Omicron/BA.1 full genome,Extended Data fig 1B,Virus isolate,NT50,242,1,320,20,NULL,2022-05-13
+Mykytyn22,Omicron_inf_6,Omicron/BA.2 full genome,Extended Data fig 1B,Virus isolate,NT50,242,1,320,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_VeroE6,Wuhan-Hu-1,Extended Data fig 3a,Pseudovirus (VSV),NT50,826,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_VeroE6,S:614G,Extended Data fig 3a,Pseudovirus (VSV),NT50,1043,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_VeroE6,B.1.1.7 Spike,Extended Data fig 3a,Pseudovirus (VSV),NT50,1620,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_VeroE6,B.1.351 Spike,Extended Data fig 3a,Pseudovirus (VSV),NT50,421,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_VeroE6,B.1.617.2 Spike,Extended Data fig 3a,Pseudovirus (VSV),NT50,985,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_VeroE6,B.1.617.1 Spike,Extended Data fig 3a,Pseudovirus (VSV),NT50,643,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_VeroE6,BA.1 Spike,Extended Data fig 3a,Pseudovirus (VSV),NT50,53,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_VeroE6,Wuhan-Hu-1,Extended Data fig 3b,Pseudovirus (VSV),NT50,535,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_VeroE6,S:614G,Extended Data fig 3b,Pseudovirus (VSV),NT50,1589,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_VeroE6,B.1.1.7 Spike,Extended Data fig 3b,Pseudovirus (VSV),NT50,1561,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_VeroE6,B.1.351 Spike,Extended Data fig 3b,Pseudovirus (VSV),NT50,670,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_VeroE6,B.1.617.2 Spike,Extended Data fig 3b,Pseudovirus (VSV),NT50,292,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_VeroE6,B.1.617.1 Spike,Extended Data fig 3b,Pseudovirus (VSV),NT50,248,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_VeroE6,BA.1 Spike,Extended Data fig 3b,Pseudovirus (VSV),NT50,59,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_VeroE6,Wuhan-Hu-1,Extended Data fig 3c,Pseudovirus (VSV),NT50,116,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_VeroE6,S:614G,Extended Data fig 3c,Pseudovirus (VSV),NT50,99,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_VeroE6,B.1.1.7 Spike,Extended Data fig 3c,Pseudovirus (VSV),NT50,614,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_VeroE6,B.1.351 Spike,Extended Data fig 3c,Pseudovirus (VSV),NT50,626,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_VeroE6,B.1.617.2 Spike,Extended Data fig 3c,Pseudovirus (VSV),NT50,157,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_VeroE6,B.1.617.1 Spike,Extended Data fig 3c,Pseudovirus (VSV),NT50,302,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_VeroE6,BA.1 Spike,Extended Data fig 3c,Pseudovirus (VSV),NT50,70,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_VeroE6,Wuhan-Hu-1,Extended Data fig 3d,Pseudovirus (VSV),NT50,1639,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_VeroE6,S:614G,Extended Data fig 3d,Pseudovirus (VSV),NT50,2850,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_VeroE6,B.1.1.7 Spike,Extended Data fig 3d,Pseudovirus (VSV),NT50,1941,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_VeroE6,B.1.351 Spike,Extended Data fig 3d,Pseudovirus (VSV),NT50,1354,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_VeroE6,B.1.617.2 Spike,Extended Data fig 3d,Pseudovirus (VSV),NT50,985,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_VeroE6,B.1.617.1 Spike,Extended Data fig 3d,Pseudovirus (VSV),NT50,643,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_VeroE6,BA.1 Spike,Extended Data fig 3d,Pseudovirus (VSV),NT50,53,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_VeroE6,Wuhan-Hu-1,Extended Data fig 3e,Pseudovirus (VSV),NT50,1089,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_VeroE6,S:614G,Extended Data fig 3e,Pseudovirus (VSV),NT50,1959,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_VeroE6,B.1.1.7 Spike,Extended Data fig 3e,Pseudovirus (VSV),NT50,1481,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_VeroE6,B.1.351 Spike,Extended Data fig 3e,Pseudovirus (VSV),NT50,3242,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_VeroE6,B.1.617.2 Spike,Extended Data fig 3e,Pseudovirus (VSV),NT50,1304,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_VeroE6,B.1.617.1 Spike,Extended Data fig 3e,Pseudovirus (VSV),NT50,1797,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_VeroE6,BA.1 Spike,Extended Data fig 3e,Pseudovirus (VSV),NT50,602,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_VeroE6,Wuhan-Hu-1,Extended Data fig 3f,Pseudovirus (VSV),NT50,1490,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_VeroE6,S:614G,Extended Data fig 3f,Pseudovirus (VSV),NT50,3126,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_VeroE6,B.1.1.7 Spike,Extended Data fig 3f,Pseudovirus (VSV),NT50,2288,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_VeroE6,B.1.351 Spike,Extended Data fig 3f,Pseudovirus (VSV),NT50,1650,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_VeroE6,B.1.617.2 Spike,Extended Data fig 3f,Pseudovirus (VSV),NT50,5545,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_VeroE6,B.1.617.1 Spike,Extended Data fig 3f,Pseudovirus (VSV),NT50,3585,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_VeroE6,BA.1 Spike,Extended Data fig 3f,Pseudovirus (VSV),NT50,130,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_VeroE6,Wuhan-Hu-1,Extended Data fig 3g,Pseudovirus (VSV),NT50,1391,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_VeroE6,S:614G,Extended Data fig 3g,Pseudovirus (VSV),NT50,1675,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_VeroE6,B.1.1.7 Spike,Extended Data fig 3g,Pseudovirus (VSV),NT50,2250,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_VeroE6,B.1.351 Spike,Extended Data fig 3g,Pseudovirus (VSV),NT50,3916,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_VeroE6,B.1.617.2 Spike,Extended Data fig 3g,Pseudovirus (VSV),NT50,405,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_VeroE6,B.1.617.1 Spike,Extended Data fig 3g,Pseudovirus (VSV),NT50,471,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_VeroE6,BA.1 Spike,Extended Data fig 3g,Pseudovirus (VSV),NT50,311,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_VeroE6,Wuhan-Hu-1,Extended Data fig 3h,Pseudovirus (VSV),NT50,36,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_VeroE6,S:614G,Extended Data fig 3h,Pseudovirus (VSV),NT50,69,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_VeroE6,B.1.1.7 Spike,Extended Data fig 3h,Pseudovirus (VSV),NT50,22,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_VeroE6,B.1.351 Spike,Extended Data fig 3h,Pseudovirus (VSV),NT50,200,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_VeroE6,B.1.617.2 Spike,Extended Data fig 3h,Pseudovirus (VSV),NT50,108,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_VeroE6,B.1.617.1 Spike,Extended Data fig 3h,Pseudovirus (VSV),NT50,840,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_VeroE6,BA.1 Spike,Extended Data fig 3h,Pseudovirus (VSV),NT50,1773,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_Calu-3,Wuhan-Hu-1,Extended Data fig 3i,Pseudovirus (VSV),NT50,1650,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_Calu-3,S:614G,Extended Data fig 3i,Pseudovirus (VSV),NT50,3068,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_Calu-3,B.1.1.7 Spike,Extended Data fig 3i,Pseudovirus (VSV),NT50,2278,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_Calu-3,B.1.351 Spike,Extended Data fig 3i,Pseudovirus (VSV),NT50,787,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_Calu-3,B.1.617.2 Spike,Extended Data fig 3i,Pseudovirus (VSV),NT50,1742,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_Calu-3,B.1.617.1 Spike,Extended Data fig 3i,Pseudovirus (VSV),NT50,1834,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_B.1_inf_Calu-3,BA.1 Spike,Extended Data fig 3i,Pseudovirus (VSV),NT50,93,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_Calu-3,Wuhan-Hu-1,Extended Data fig 3j,Pseudovirus (VSV),NT50,328,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_Calu-3,S:614G,Extended Data fig 3j,Pseudovirus (VSV),NT50,612,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_Calu-3,B.1.1.7 Spike,Extended Data fig 3j,Pseudovirus (VSV),NT50,1246,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_Calu-3,B.1.351 Spike,Extended Data fig 3j,Pseudovirus (VSV),NT50,355,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_Calu-3,B.1.617.2 Spike,Extended Data fig 3j,Pseudovirus (VSV),NT50,715,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_Calu-3,B.1.617.1 Spike,Extended Data fig 3j,Pseudovirus (VSV),NT50,449,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Alpha_inf_Calu-3,BA.1 Spike,Extended Data fig 3j,Pseudovirus (VSV),NT50,31,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_Calu-3,Wuhan-Hu-1,Extended Data fig 3k,Pseudovirus (VSV),NT50,129,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_Calu-3,S:614G,Extended Data fig 3k,Pseudovirus (VSV),NT50,220,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_Calu-3,B.1.1.7 Spike,Extended Data fig 3k,Pseudovirus (VSV),NT50,530,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_Calu-3,B.1.351 Spike,Extended Data fig 3k,Pseudovirus (VSV),NT50,1372,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_Calu-3,B.1.617.2 Spike,Extended Data fig 3k,Pseudovirus (VSV),NT50,248,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_Calu-3,B.1.617.1 Spike,Extended Data fig 3k,Pseudovirus (VSV),NT50,332,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Beta_inf_Calu-3,BA.1 Spike,Extended Data fig 3k,Pseudovirus (VSV),NT50,56,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_Calu-3,Wuhan-Hu-1,Extended Data fig 3l,Pseudovirus (VSV),NT50,833,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_Calu-3,S:614G,Extended Data fig 3l,Pseudovirus (VSV),NT50,1016,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_Calu-3,B.1.1.7 Spike,Extended Data fig 3l,Pseudovirus (VSV),NT50,1021,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_Calu-3,B.1.351 Spike,Extended Data fig 3l,Pseudovirus (VSV),NT50,601,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_Calu-3,B.1.617.2 Spike,Extended Data fig 3l,Pseudovirus (VSV),NT50,3482,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_Calu-3,B.1.617.1 Spike,Extended Data fig 3l,Pseudovirus (VSV),NT50,1279,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Gamma_inf_Calu-3,BA.1 Spike,Extended Data fig 3l,Pseudovirus (VSV),NT50,181,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_Calu-3,Wuhan-Hu-1,Extended Data fig 3m,Pseudovirus (VSV),NT50,955,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_Calu-3,S:614G,Extended Data fig 3m,Pseudovirus (VSV),NT50,2631,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_Calu-3,B.1.1.7 Spike,Extended Data fig 3m,Pseudovirus (VSV),NT50,1898,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_Calu-3,B.1.351 Spike,Extended Data fig 3m,Pseudovirus (VSV),NT50,1667,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_Calu-3,B.1.617.2 Spike,Extended Data fig 3m,Pseudovirus (VSV),NT50,1158,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_Calu-3,B.1.617.1 Spike,Extended Data fig 3m,Pseudovirus (VSV),NT50,1600,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Zeta_inf_Calu-3,BA.1 Spike,Extended Data fig 3m,Pseudovirus (VSV),NT50,159,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_Calu-3,Wuhan-Hu-1,Extended Data fig 3n,Pseudovirus (VSV),NT50,1168,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_Calu-3,S:614G,Extended Data fig 3n,Pseudovirus (VSV),NT50,1508,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_Calu-3,B.1.1.7 Spike,Extended Data fig 3n,Pseudovirus (VSV),NT50,1639,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_Calu-3,B.1.351 Spike,Extended Data fig 3n,Pseudovirus (VSV),NT50,639,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_Calu-3,B.1.617.2 Spike,Extended Data fig 3n,Pseudovirus (VSV),NT50,4937,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_Calu-3,B.1.617.1 Spike,Extended Data fig 3n,Pseudovirus (VSV),NT50,2379,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Delta_inf_Calu-3,BA.1 Spike,Extended Data fig 3n,Pseudovirus (VSV),NT50,365,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_Calu-3,Wuhan-Hu-1,Extended Data fig 3o,Pseudovirus (VSV),NT50,992,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_Calu-3,S:614G,Extended Data fig 3o,Pseudovirus (VSV),NT50,897,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_Calu-3,B.1.1.7 Spike,Extended Data fig 3o,Pseudovirus (VSV),NT50,1638,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_Calu-3,B.1.351 Spike,Extended Data fig 3o,Pseudovirus (VSV),NT50,2467,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_Calu-3,B.1.617.2 Spike,Extended Data fig 3o,Pseudovirus (VSV),NT50,834,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_Calu-3,B.1.617.1 Spike,Extended Data fig 3o,Pseudovirus (VSV),NT50,1073,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_Mu_inf_Calu-3,BA.1 Spike,Extended Data fig 3o,Pseudovirus (VSV),NT50,196,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_Calu-3,Wuhan-Hu-1,Extended Data fig 3p,Pseudovirus (VSV),NT50,177,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_Calu-3,S:614G,Extended Data fig 3p,Pseudovirus (VSV),NT50,135,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_Calu-3,B.1.1.7 Spike,Extended Data fig 3p,Pseudovirus (VSV),NT50,229,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_Calu-3,B.1.351 Spike,Extended Data fig 3p,Pseudovirus (VSV),NT50,90,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_Calu-3,B.1.617.2 Spike,Extended Data fig 3p,Pseudovirus (VSV),NT50,325,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_Calu-3,B.1.617.1 Spike,Extended Data fig 3p,Pseudovirus (VSV),NT50,598,4,40960,20,NULL,2022-05-13
+Mykytyn22,Hamster_BA.1_inf_Calu-3,BA.1 Spike,Extended Data fig 3p,Pseudovirus (VSV),NT50,3516,4,40960,20,NULL,2022-05-13
