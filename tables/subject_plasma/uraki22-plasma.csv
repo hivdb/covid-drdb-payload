@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Uraki22,BNT_3dose,BNT_3dose_14d,~,2022-03-15,Japan,BNT_3dose,NULL
+Uraki22,BNT_2dose_inf,BNT_2dose_inf_1M,~,2021-03-01,Japan,BNT_2dose_inf,NULL
+Uraki22,BNT_2dose_inf,BNT_2dose_inf_3M,~,2021-05-01,Japan,BNT_2dose_inf,NULL
+Uraki22,BNT_2dose_inf,BNT_2dose_inf_6M,~,2021-07-01,Japan,BNT_2dose_inf,NULL
+Uraki22,BNT_2dose_Delta_inf,BNT_2dose_Delta_inf_10d,~,2021-07-11,Japan,BNT_2dose_Delta_inf,NULL
+Uraki22,mRNA_2dose_Omicron_inf,mRNA_2dose_Omicron_inf_9d,~,2022-02-10,Japan,mRNA_2dose_Omicron_inf,NULL
+Uraki22,Hamster_Ancestral_inf,Hamster_Ancestral_inf,~,2022-01-22,Japan,Hamster_Ancestral_inf,NULL
+Uraki22,Hamster_Delta_inf,Hamster_Delta_inf,~,2022-01-22,Japan,Hamster_Delta_inf,NULL
+Uraki22,Hamster_BA.1_inf,Hamster_BA.1_inf,~,2022-01-22,Japan,Hamster_BA.1_inf,NULL
+Uraki22,Hamster_BA.1.1_inf,Hamster_BA.1.1_inf,~,2022-01-22,Japan,Hamster_BA.1.1_inf,NULL
+Uraki22,Hamster_BA.2_inf,Hamster_BA.2_inf,~,2022-01-22,Japan,Hamster_BA.2_inf,NULL

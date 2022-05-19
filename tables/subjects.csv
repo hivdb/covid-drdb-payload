@@ -2386,6 +2386,15 @@ Truong21,Patient 2,Human,1999,1
 Truong21,Patient 3,Human,2018,1
 Turner21,BNT_infected,Human,NULL,8
 Turner21,BNT_uninfected,Human,NULL,33
+Uraki22,BNT_2dose_Delta_inf,Human,NULL,20
+Uraki22,BNT_2dose_inf,Human,NULL,13
+Uraki22,BNT_3dose,Human,NULL,39
+Uraki22,Hamster_Ancestral_inf,Hamster,NULL,9
+Uraki22,Hamster_BA.1.1_inf,Hamster,NULL,10
+Uraki22,Hamster_BA.1_inf,Hamster,NULL,9
+Uraki22,Hamster_BA.2_inf,Hamster,NULL,8
+Uraki22,Hamster_Delta_inf,Hamster,NULL,4
+Uraki22,mRNA_2dose_Omicron_inf,Human,NULL,10
 Uriu21,BNT_005-3,Human,1987,1
 Uriu21,BNT_006-3,Human,1980,1
 Uriu21,BNT_007-3,Human,1986,1

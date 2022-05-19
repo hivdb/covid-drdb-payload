@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Uraki22,BNT_3dose,~,2022-03-01,BNT162b2,3,Japan,NULL
+Uraki22,BNT_2dose_inf,~,2021-02-01,BNT162b2,2,Japan,NULL
+Uraki22,BNT_2dose_Delta_inf,~,2021-02-01,BNT162b2,2,Japan,NULL
+Uraki22,mRNA_2dose_Omicron_inf,~,2021-02-01,BNT162b2 + mRNA-1273,2,Japan,NULL
