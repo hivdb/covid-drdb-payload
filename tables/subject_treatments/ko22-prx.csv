@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Ko22,Patient A,REGN-COV2,=,2021-11-18,=,2021-11-18,NULL,NULL,"Figure 1 and paragraph 3 of section ""Observation"""
+Ko22,Patient A,Remdesivir,=,2021-11-18,=,2021-11-23,NULL,NULL,"Figure 1 and paragraph 3 of section ""Observation"""
+Ko22,Patient A,Remdesivir,=,2021-12-08,=,2021-12-13,NULL,NULL,"Figure 1 and paragraph 3 of section ""Observation"""
+Ko22,Patient A,Remdesivir,=,2022-01-04,=,2022-01-14,NULL,NULL,"Figure 1 and paragraph 3 of section ""Observation"""
+Ko22,Patient B,Remdesivir,=,2021-11-13,=,2021-11-22,NULL,NULL,"Figure 1 and paragraph 4 of section ""Observation"""
+Ko22,Patient B,REGN-COV2,=,2021-11-16,=,2021-11-16,NULL,NULL,"Figure 1 and paragraph 4 of section ""Observation"""
+Ko22,Patient B,Remdesivir,=,2021-12-17,=,2021-12-27,NULL,NULL,"Figure 1 and paragraph 4 of section ""Observation"""

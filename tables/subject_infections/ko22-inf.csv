@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Ko22,Patient A,<,2021-11-15,Delta,Singapore,Medical,Hospitalized,"Paragraph 3 of section ""Observation"""
+Ko22,Patient B,<,2021-11-13,Delta,Singapore,Medical,Hospitalized,"Paragraph 4 of section ""Observation"""
