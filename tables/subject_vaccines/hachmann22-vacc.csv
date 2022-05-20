@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Hachmann22,BNT_2dose,~,2021-04-01,BNT162b2,2,USA,NULL
+Hachmann22,BNT_3dose,~,2021-11-01,BNT162b2,3,USA,NULL
+Hachmann22,CP_mRNA_3dose,~,2021-11-01,mRNA,3,USA,NULL
