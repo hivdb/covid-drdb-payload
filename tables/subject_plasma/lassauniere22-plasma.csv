@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Lassauniere22,BNT_2dose,BNT_2dose_4w,~,2021-08-05,Demark,BNT_2dose,NULL
+Lassauniere22,BNT_2dose,BNT_2dose_8w_10w,~,2021-09-09,Demark,BNT_2dose,NULL
+Lassauniere22,BNT_2dose,BNT_2dose_12w_14w,~,2021-10-07,Demark,BNT_2dose,NULL
+Lassauniere22,BNT_2dose,BNT_2dose_16w_18w,~,2021-11-04,Demark,BNT_2dose,NULL
+Lassauniere22,BNT_3dose,BNT_3dose_1w,~,2021-11-04,Demark,BNT_3dose,NULL
+Lassauniere22,BNT_3dose,BNT_3dose_2w,~,2021-11-11,Demark,BNT_3dose,NULL
+Lassauniere22,BNT_3dose,BNT_3dose_3w,~,2021-11-18,Demark,BNT_3dose,NULL
+Lassauniere22,BNT_3dose,BNT_3dose_4w,~,2021-11-25,Demark,BNT_3dose,NULL
+Lassauniere22,BNT_3dose,BNT_3dose_8w,~,2021-12-23,Demark,BNT_3dose,NULL
+Lassauniere22,mRNA_inf,CP_1M,<,2021-02-09,Demark,mRNA_inf,NULL
+Lassauniere22,mRNA_inf,mRNA_inf,~,2021-07-06,Demark,mRNA_inf,NULL

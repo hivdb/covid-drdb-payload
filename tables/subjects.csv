@@ -1270,6 +1270,9 @@ Lapa22,CP,Human,NULL,23
 Lapa22,Sputnik_V,Human,NULL,16
 Lapa22,Sputnik_V_with_infection,Human,NULL,20
 Lassauniere21,BNT162b2,Human,1980,14
+Lassauniere22,BNT_2dose,Human,1970,73
+Lassauniere22,BNT_3dose,Human,1951,55
+Lassauniere22,mRNA_inf,Human,1964,7
 Lechmere21,AZD1222_delta_infected,Human,NULL,16
 Lechmere21,BNT162b2_delta_infected,Human,NULL,10
 Lechmere21,CP_2A,Human,NULL,19

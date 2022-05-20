@@ -1,0 +1,32 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Lassauniere22,BNT_2dose_4w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,254,21,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_4w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,112,21,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_4w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,18,21,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_8w_10w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,131,30,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_8w_10w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,61,30,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_8w_10w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,13,30,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_12w_14w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,80,16,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_12w_14w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,41,16,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_12w_14w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,7,16,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_16w_18w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,46,6,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_16w_18w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,14,6,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_2dose_16w_18w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,7,6,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_1w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,117,9,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_1w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,100,9,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_1w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,49,9,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_2w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,713,11,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_2w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,510,11,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_2w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,242,11,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_3w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,1138,9,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_3w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,852,9,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_3w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,371,9,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_4w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,518,17,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_4w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,284,17,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_4w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,138,17,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_8w,hCoV-19/Denmark/SSI-H1/2021,Figure 1A,Virus isolate,NT50,232,9,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_8w,hCoV-19/Denmark/SSI-H11/2021,Figure 1A,Virus isolate,NT50,153,9,10000,10,NULL,2022-05-19
+Lassauniere22,BNT_3dose_8w,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,68,9,10000,10,NULL,2022-05-19
+Lassauniere22,CP_1M,hCoV-19/Denmark/SSI-H11/2021,Figure 1C,Virus isolate,NT50,41,7,10000,10,NULL,2022-05-19
+Lassauniere22,CP_1M,Omicron/BA.1 full genome,Figure 1C,Virus isolate,NT50,12,7,10000,10,NULL,2022-05-19
+Lassauniere22,mRNA_inf,hCoV-19/Denmark/SSI-H11/2021,Figure 1C,Virus isolate,NT50,1523,7,10000,10,NULL,2022-05-19
+Lassauniere22,mRNA_inf,Omicron/BA.1 full genome,Figure 1C,Virus isolate,NT50,913,7,10000,10,NULL,2022-05-19
