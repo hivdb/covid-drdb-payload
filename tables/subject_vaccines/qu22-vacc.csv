@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Qu22,HCW_2dose_MOD,~,2021-02-01,mRNA-1273,2,USA,Patient Information
+Qu22,HCW_2dose_BNT,~,2021-02-01,BNT162b2,2,USA,Patient Information
+Qu22,HCW_3dose_MOD,~,2021-11-01,mRNA-1273,3,USA,Patient Information
+Qu22,HCW_3dose_BNT,~,2021-11-01,BNT162b2,3,USA,Patient Information
+Qu22,Delta_ICU_VP,~,2021-02-01,BNT162b2,2,USA,Patient Information
+Qu22,Omicron_2dose,~,2022-05-01,mRNA,2,USA,Patient Information
+Qu22,Omicron_3dose,~,2021-09-01,BNT162b2,3,USA,Patient Information

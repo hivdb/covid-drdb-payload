@@ -1,0 +1,73 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Qu22,HCW_2dose_MOD,S:614G,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,2733,4,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_MOD,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,1149,4,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_MOD,BA.1 Spike,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,198,4,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_MOD,BA.2 Spike,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,310,4,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_MOD,BA.4/5 Spike,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,357,4,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_MOD,BA.2.12.1 Spike,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,269,4,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_MOD,BA.2 Spike:L452Q,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,223,4,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_MOD,BA.2 Spike:S704L,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,325,4,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_BNT,S:614G,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,520,11,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_BNT,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,190,11,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_BNT,BA.1 Spike,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,32,11,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_BNT,BA.2 Spike,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,18,11,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_BNT,BA.4/5 Spike,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,16,11,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_BNT,BA.2.12.1 Spike,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,24,11,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_BNT,BA.2 Spike:L452Q,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,10,11,10000,80,NULL,2022-05-20
+Qu22,HCW_2dose_BNT,BA.2 Spike:S704L,Supplementary Figure 2I,Pseudovirus (lentivirus),NT50,32,11,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_MOD,S:614G,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,3736,4,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_MOD,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,1002,4,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_MOD,BA.1 Spike,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,1552,4,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_MOD,BA.2 Spike,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,1393,4,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_MOD,BA.4/5 Spike,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,1015,4,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_MOD,BA.2.12.1 Spike,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,1155,4,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_MOD,BA.2 Spike:L452Q,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,1106,4,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_MOD,BA.2 Spike:S704L,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,1236,4,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_BNT,S:614G,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,2319,11,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_BNT,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,615,11,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_BNT,BA.1 Spike,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,825,11,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_BNT,BA.2 Spike,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,806,11,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_BNT,BA.4/5 Spike,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,549,11,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_BNT,BA.2.12.1 Spike,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,731,11,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_BNT,BA.2 Spike:L452Q,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,600,11,10000,80,NULL,2022-05-20
+Qu22,HCW_3dose_BNT,BA.2 Spike:S704L,Supplementary Figure 2J,Pseudovirus (lentivirus),NT50,810,11,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_CP,S:614G,Figure 2C,Pseudovirus (lentivirus),NT50,1879,12,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_CP,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2C,Pseudovirus (lentivirus),NT50,8227,12,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_CP,BA.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,118,12,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_CP,BA.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,108,12,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_CP,BA.4/5 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,393,12,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_CP,BA.2.12.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,420,12,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_CP,BA.2 Spike:L452Q,Figure 2C,Pseudovirus (lentivirus),NT50,91,12,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_CP,BA.2 Spike:S704L,Figure 2C,Pseudovirus (lentivirus),NT50,91,12,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_VP,S:614G,Figure 2C,Pseudovirus (lentivirus),NT50,12484,6,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_VP,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2C,Pseudovirus (lentivirus),NT50,3059,6,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_VP,BA.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,710,6,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_VP,BA.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,742,6,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_VP,BA.4/5 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,2391,6,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_VP,BA.2.12.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,1570,6,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_VP,BA.2 Spike:L452Q,Figure 2C,Pseudovirus (lentivirus),NT50,1628,6,10000,80,NULL,2022-05-20
+Qu22,Delta_ICU_VP,BA.2 Spike:S704L,Figure 2C,Pseudovirus (lentivirus),NT50,2036,6,10000,80,NULL,2022-05-20
+Qu22,Omicron_CP,S:614G,Figure 2F,Pseudovirus (lentivirus),NT50,174,15,10000,80,NULL,2022-05-20
+Qu22,Omicron_CP,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2F,Pseudovirus (lentivirus),NT50,110,15,10000,80,NULL,2022-05-20
+Qu22,Omicron_CP,BA.1 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,299,15,10000,80,NULL,2022-05-20
+Qu22,Omicron_CP,BA.2 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,232,15,10000,80,NULL,2022-05-20
+Qu22,Omicron_CP,BA.4/5 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,121,15,10000,80,NULL,2022-05-20
+Qu22,Omicron_CP,BA.2.12.1 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,244,15,10000,80,NULL,2022-05-20
+Qu22,Omicron_CP,BA.2 Spike:L452Q,Figure 2F,Pseudovirus (lentivirus),NT50,219,15,10000,80,NULL,2022-05-20
+Qu22,Omicron_CP,BA.2 Spike:S704L,Figure 2F,Pseudovirus (lentivirus),NT50,163,15,10000,80,NULL,2022-05-20
+Qu22,Omicron_2dose,S:614G,Figure 2F,Pseudovirus (lentivirus),NT50,175,8,10000,80,NULL,2022-05-20
+Qu22,Omicron_2dose,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2F,Pseudovirus (lentivirus),NT50,85,8,10000,80,NULL,2022-05-20
+Qu22,Omicron_2dose,BA.1 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,417,8,10000,80,NULL,2022-05-20
+Qu22,Omicron_2dose,BA.2 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,268,8,10000,80,NULL,2022-05-20
+Qu22,Omicron_2dose,BA.4/5 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,194,8,10000,80,NULL,2022-05-20
+Qu22,Omicron_2dose,BA.2.12.1 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,194,8,10000,80,NULL,2022-05-20
+Qu22,Omicron_2dose,BA.2 Spike:L452Q,Figure 2F,Pseudovirus (lentivirus),NT50,173,8,10000,80,NULL,2022-05-20
+Qu22,Omicron_2dose,BA.2 Spike:S704L,Figure 2F,Pseudovirus (lentivirus),NT50,186,8,10000,80,NULL,2022-05-20
+Qu22,Omicron_3dose,S:614G,Figure 2F,Pseudovirus (lentivirus),NT50,2256,7,10000,80,NULL,2022-05-20
+Qu22,Omicron_3dose,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2F,Pseudovirus (lentivirus),NT50,771,7,10000,80,NULL,2022-05-20
+Qu22,Omicron_3dose,BA.1 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,699,7,10000,80,NULL,2022-05-20
+Qu22,Omicron_3dose,BA.2 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,621,7,10000,80,NULL,2022-05-20
+Qu22,Omicron_3dose,BA.4/5 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,476,7,10000,80,NULL,2022-05-20
+Qu22,Omicron_3dose,BA.2.12.1 Spike,Figure 2F,Pseudovirus (lentivirus),NT50,512,7,10000,80,NULL,2022-05-20
+Qu22,Omicron_3dose,BA.2 Spike:L452Q,Figure 2F,Pseudovirus (lentivirus),NT50,606,7,10000,80,NULL,2022-05-20
+Qu22,Omicron_3dose,BA.2 Spike:S704L,Figure 2F,Pseudovirus (lentivirus),NT50,537,7,10000,80,NULL,2022-05-20

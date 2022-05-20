@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Qu22,HCW_2dose_MOD,HCW_2dose_MOD,~,2021-03-01,USA,HCW_2dose_MOD,Patient Information
+Qu22,HCW_2dose_BNT,HCW_2dose_BNT,~,2021-03-01,USA,HCW_2dose_BNT,Patient Information
+Qu22,HCW_3dose_MOD,HCW_3dose_MOD,~,2021-12-15,USA,HCW_3dose_MOD,Patient Information
+Qu22,HCW_3dose_BNT,HCW_3dose_BNT,~,2021-12-15,USA,HCW_3dose_BNT,Patient Information
+Qu22,Delta_ICU_CP,Delta_ICU_CP,~,2021-08-01,USA,Delta_ICU_CP,Patient Information
+Qu22,Delta_ICU_VP,Delta_ICU_VP,~,2021-08-01,USA,Delta_ICU_VP,Patient Information
+Qu22,Omicron_CP,Omicron_CP,~,2022-02-28,USA,Omicron_CP,Patient Information
+Qu22,Omicron_2dose,Omicron_2dose,~,2022-02-28,USA,Omicron_2dose,Patient Information
+Qu22,Omicron_3dose,Omicron_3dose,~,2022-02-28,USA,Omicron_3dose,Patient Information
