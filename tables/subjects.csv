@@ -1668,9 +1668,9 @@ Miyakawa21,BNT_infected,Human,NULL,6
 Miyakawa21,BNT_naive,Human,NULL,105
 Miyakawa21b,BNT_2dose,Human,NULL,19
 Miyakawa21b,BNT_2dose_recovered,Human,NULL,6
-Miyamoto21,BNT162b2,Human,NULL,20
-Miyamoto21,BNT162b2_bti_alpha,Human,NULL,15
-Miyamoto21,BNT162b2_bti_delta,Human,NULL,15
+Miyamoto22,BNT162b2,Human,NULL,20
+Miyamoto22,BNT162b2_bti_alpha,Human,NULL,15
+Miyamoto22,BNT162b2_bti_delta,Human,NULL,15
 Mlcochova21,AZD1222,Human,NULL,33
 Mlcochova21,BNT162b2,Human,NULL,32
 Mlcochova21,CP,Human,NULL,12
