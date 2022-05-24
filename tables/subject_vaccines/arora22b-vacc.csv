@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Arora22b,BNT_3dose,~,2021-04-01,BNT162b2,1,Germany,Supplementary Table S3
+Arora22b,BNT_3dose,~,2021-04-23,BNT162b2,2,Germany,Supplementary Table S3
+Arora22b,BNT_3dose,~,2022-01-03,BNT162b2,3,Germany,Supplementary Table S3
+Arora22b,AZ_2_BNT_1dose,~,2021-04-01,AZD1222,1,Germany,Supplementary Table S3
+Arora22b,AZ_2_BNT_1dose,~,2021-06-10,AZD1222,2,Germany,Supplementary Table S3
+Arora22b,AZ_2_BNT_1dose,~,2021-12-27,BNT162b2,3,Germany,Supplementary Table S3
+Arora22b,AZ_1_BNT_2dose,~,2021-04-01,AZD1222,1,Germany,Supplementary Table S3
+Arora22b,AZ_1_BNT_2dose,~,2021-06-11,BNT162b2,2,Germany,Supplementary Table S3
+Arora22b,AZ_1_BNT_2dose,~,2021-12-25,BNT162b2,3,Germany,Supplementary Table S3
