@@ -1,0 +1,46 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Suryawanshi22,CP_mice_WA1_7D,WA1,Figure 4b,Virus isolate,NT50,304,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_WA1_7D,B.1.1.7 full genome,Figure 4b,Virus isolate,NT50,247,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_WA1_7D,B.1.351 full genome,Figure 4b,Virus isolate,NT50,44,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_WA1_7D,B.1.617.2 full genome,Figure 4b,Virus isolate,NT50,58,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_WA1_7D,Omicron/BA.1 full genome,Figure 4b,Virus isolate,NT50,6,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Delta_7D,WA1,Figure 4c,Virus isolate,NT50,275,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Delta_7D,B.1.1.7 full genome,Figure 4c,Virus isolate,NT50,356,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Delta_7D,B.1.351 full genome,Figure 4c,Virus isolate,NT50,62,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Delta_7D,B.1.617.2 full genome,Figure 4c,Virus isolate,NT50,422,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Delta_7D,Omicron/BA.1 full genome,Figure 4c,Virus isolate,NT50,115,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_7D,WA1,Figure 4d,Virus isolate,NT50,6,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_7D,B.1.1.7 full genome,Figure 4d,Virus isolate,NT50,7,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_7D,B.1.351 full genome,Figure 4d,Virus isolate,NT50,7,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_7D,B.1.617.2 full genome,Figure 4d,Virus isolate,NT50,3,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_7D,Omicron/BA.1 full genome,Figure 4d,Virus isolate,NT50,113,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_9D,WA1,Figure 4e,Virus isolate,NT50,16,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_9D,B.1.1.7 full genome,Figure 4e,Virus isolate,NT50,10,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_9D,B.1.351 full genome,Figure 4e,Virus isolate,NT50,14,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_9D,B.1.617.2 full genome,Figure 4e,Virus isolate,NT50,7,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_mice_Omicron_9D,Omicron/BA.1 full genome,Figure 4e,Virus isolate,NT50,92,5,1024,2,NULL,2022-05-25
+Suryawanshi22,CP_Omicron,WA1,Figure 5a,Virus isolate,NT50,96,10,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Omicron,B.1.1.7 full genome,Figure 5a,Virus isolate,NT50,15,10,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Omicron,B.1.351 full genome,Figure 5a,Virus isolate,NT50,26,10,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Omicron,B.1.617.2 full genome,Figure 5a,Virus isolate,NT50,71,10,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Omicron,Omicron/BA.1 full genome,Figure 5a,Virus isolate,NT50,1452,10,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Delta,WA1,Figure 5b,Virus isolate,NT50,619,11,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Delta,B.1.1.7 full genome,Figure 5b,Virus isolate,NT50,41,11,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Delta,B.1.351 full genome,Figure 5b,Virus isolate,NT50,62,11,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Delta,B.1.617.2 full genome,Figure 5b,Virus isolate,NT50,2811,11,32768,2,NULL,2022-05-25
+Suryawanshi22,CP_Delta,Omicron/BA.1 full genome,Figure 5b,Virus isolate,NT50,47,11,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Omicron,WA1,Figure 5c,Virus isolate,NT50,17994,8,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Omicron,B.1.1.7 full genome,Figure 5c,Virus isolate,NT50,10950,8,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Omicron,B.1.351 full genome,Figure 5c,Virus isolate,NT50,5382,8,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Omicron,B.1.617.2 full genome,Figure 5c,Virus isolate,NT50,3984,8,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Omicron,Omicron/BA.1 full genome,Figure 5c,Virus isolate,NT50,1241,8,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Delta,WA1,Figure 5d,Virus isolate,NT50,23308,7,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Delta,B.1.1.7 full genome,Figure 5d,Virus isolate,NT50,6727,7,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Delta,B.1.351 full genome,Figure 5d,Virus isolate,NT50,9275,7,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Delta,B.1.617.2 full genome,Figure 5d,Virus isolate,NT50,7355,7,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Delta,Omicron/BA.1 full genome,Figure 5d,Virus isolate,NT50,1692,7,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Boost,WA1,Extended Data Fig. 4,Virus isolate,NT50,1466,5,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Boost,B.1.1.7 full genome,Extended Data Fig. 4,Virus isolate,NT50,347,5,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Boost,B.1.351 full genome,Extended Data Fig. 4,Virus isolate,NT50,181,5,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Boost,B.1.617.2 full genome,Extended Data Fig. 4,Virus isolate,NT50,354,5,32768,2,NULL,2022-05-25
+Suryawanshi22,VP_Boost,Omicron/BA.1 full genome,Extended Data Fig. 4,Virus isolate,NT50,156,5,32768,2,NULL,2022-05-25

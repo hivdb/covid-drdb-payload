@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Suryawanshi22,VP_Delta,~,2021-02-01,mRNA,1,USA,Extended Data Table 1
+Suryawanshi22,VP_Delta,~,2021-02-28,mRNA,2,USA,Extended Data Table 1
+Suryawanshi22,VP_Omicron,~,2021-03-01,mRNA,1,USA,Extended Data Table 1
+Suryawanshi22,VP_Omicron,~,2021-04-01,mRNA,2,USA,Extended Data Table 1
+Suryawanshi22,VP_Boost,=,2021-02-23,BNT162b2,1,USA,Extended Data Table 1
+Suryawanshi22,VP_Boost,=,2021-03-22,BNT162b2,2,USA,Extended Data Table 1
+Suryawanshi22,VP_Boost,~,2021-10-04,BNT162b2,3,USA,Extended Data Table 1
