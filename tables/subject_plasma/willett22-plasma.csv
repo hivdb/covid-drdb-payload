@@ -1,0 +1,15 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Willett22,VP_AZD_2dose_mRNA_1dose,VP_AZD_2dose_mRNA_1dose,~,2021-11-30,UK,VP_AZD_2dose_mRNA_1dose,Figure 1
+Willett22,VP_BNT_3dose,VP_BNT_2dose,~,2021-10-15,UK,VP_BNT_3dose,Figure 1
+Willett22,VP_BNT_3dose,VP_BNT_3dose,~,2021-11-30,UK,VP_BNT_3dose,Figure 1
+Willett22,VP_AZD_2dose_BNT_1dose,VP_AZD_2dose,~,2021-10-15,UK,VP_AZD_2dose_BNT_1dose,Figure 1
+Willett22,VP_AZD_2dose_BNT_1dose,VP_AZD_2dose_BNT_1dose,~,2021-11-30,UK,VP_AZD_2dose_BNT_1dose,Figure 1
+Willett22,CP_BA.1,CP_BA.1,~,2022-01-28,UK,CP_BA.1,Figure 1
+Willett22,CP_BA.1_Hamster,CP_BA.1_Hamster,~,2022-01-15,UK,CP_BA.1_Hamster,Figure 1
+Willett22,CP_BA.2_human_or_hamster,CP_BA.2_human_or_hamster,~,2022-03-15,UK,CP_BA.2_human_or_hamster,Figure 1
+Willett22,CP_BA1_or_BA2,CP_BA1_or_BA2,~,2022-03-26,UK,CP_BA1_or_BA2,Figure 1
+Willett22,VP_BA.1_hospitalised,VP_BA.1_hospitalised,~,2022-01-28,UK,VP_BA.1_hospitalised,Figure 1
+Willett22,VP_BA.2_hospitalised,VP_BA.2_hospitalised,~,2022-03-26,UK,VP_BA.2_hospitalised,Figure 1
+Willett22,VP_BA.1_or_BA.2,VP_BA.1_or_BA.2,~,2022-03-26,UK,VP_BA.1_or_BA.2,Figure 1
+Willett22,VP_BA.1_infection,VP_BA.1_infection,~,2022-01-28,UK,VP_BA.1_infection,Figure 1
+Willett22,VP_Delta_infection,VP_Delta_infection,~,2021-07-28,UK,VP_Delta_infection,Figure 1

@@ -1,0 +1,69 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Willett22,VP_AZD_2dose_mRNA_1dose,S:614G,Figure 1A,Pseudovirus (lentivirus),NT50,1860,8,100000,50,NULL,2022-05-31
+Willett22,VP_AZD_2dose_mRNA_1dose,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,60,8,100000,50,NULL,2022-05-31
+Willett22,VP_AZD_2dose_mRNA_1dose,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,110,8,100000,50,NULL,2022-05-31
+Willett22,VP_AZD_2dose_mRNA_1dose,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,235,8,100000,50,NULL,2022-05-31
+Willett22,VP_BNT_2dose,S:614G,Figure 1B,Pseudovirus (lentivirus),NT50,240,7,100000,10,NULL,2022-05-31
+Willett22,VP_BNT_2dose,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,10,7,100000,10,NULL,2022-05-31
+Willett22,VP_BNT_2dose,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,17,7,100000,10,NULL,2022-05-31
+Willett22,VP_BNT_2dose,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,9,7,100000,10,NULL,2022-05-31
+Willett22,VP_BNT_3dose,S:614G,Figure 1B,Pseudovirus (lentivirus),NT50,1800,7,100000,10,NULL,2022-05-31
+Willett22,VP_BNT_3dose,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,210,7,100000,10,NULL,2022-05-31
+Willett22,VP_BNT_3dose,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,290,7,100000,10,NULL,2022-05-31
+Willett22,VP_BNT_3dose,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,180,7,100000,10,NULL,2022-05-31
+Willett22,VP_AZD_2dose,S:614G,Figure 1C,Pseudovirus (lentivirus),NT50,300,8,100000,10,NULL,2022-05-31
+Willett22,VP_AZD_2dose,BA.1 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,7,8,100000,10,NULL,2022-05-31
+Willett22,VP_AZD_2dose,BA.2 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,11,8,100000,10,NULL,2022-05-31
+Willett22,VP_AZD_2dose,BA.4/5 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,10,8,100000,10,NULL,2022-05-31
+Willett22,VP_AZD_2dose_BNT_1dose,S:614G,Figure 1C,Pseudovirus (lentivirus),NT50,2500,8,100000,10,NULL,2022-05-31
+Willett22,VP_AZD_2dose_BNT_1dose,BA.1 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,265,8,100000,10,NULL,2022-05-31
+Willett22,VP_AZD_2dose_BNT_1dose,BA.2 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,710,8,100000,10,NULL,2022-05-31
+Willett22,VP_AZD_2dose_BNT_1dose,BA.4/5 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,290,8,100000,10,NULL,2022-05-31
+Willett22,CP_BA.1,S:614G,Figure 1D,Pseudovirus (lentivirus),NT50,403,12,1000000,10,NULL,2022-05-31
+Willett22,CP_BA.1,BA.1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,9210,12,1000000,10,NULL,2022-05-31
+Willett22,CP_BA.1,BA.2 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,1210,12,1000000,10,NULL,2022-05-31
+Willett22,CP_BA.1,BA.4/5 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,400,12,1000000,10,NULL,2022-05-31
+Willett22,CP_BA.1_Hamster,S:614G,Figure 1E,Pseudovirus (lentivirus),NT50,43,4,1000,10,NULL,2022-05-31
+Willett22,CP_BA.1_Hamster,BA.1 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,850,4,1000,10,NULL,2022-05-31
+Willett22,CP_BA.1_Hamster,BA.2 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,91,4,1000,10,NULL,2022-05-31
+Willett22,CP_BA.1_Hamster,BA.4/5 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,12,4,1000,10,NULL,2022-05-31
+Willett22,CP_BA.2_human_or_hamster,S:614G,Figure 1F,Pseudovirus (lentivirus),NT50,63,5,10000,10,NULL,2022-05-31
+Willett22,CP_BA.2_human_or_hamster,BA.1 Spike,Figure 1F,Pseudovirus (lentivirus),NT50,151,5,10000,10,NULL,2022-05-31
+Willett22,CP_BA.2_human_or_hamster,BA.2 Spike,Figure 1F,Pseudovirus (lentivirus),NT50,360,5,10000,10,NULL,2022-05-31
+Willett22,CP_BA.2_human_or_hamster,BA.4/5 Spike,Figure 1F,Pseudovirus (lentivirus),NT50,61,5,10000,10,NULL,2022-05-31
+Willett22,CP_BA1_or_BA2,S:614G,Figure 1G,Pseudovirus (lentivirus),NT50,210,6,100000,50,NULL,2022-05-31
+Willett22,CP_BA1_or_BA2,BA.1 Spike,Figure 1G,Pseudovirus (lentivirus),NT50,65,6,100000,50,NULL,2022-05-31
+Willett22,CP_BA1_or_BA2,BA.2 Spike,Figure 1G,Pseudovirus (lentivirus),NT50,205,6,100000,50,NULL,2022-05-31
+Willett22,CP_BA1_or_BA2,BA.4/5 Spike,Figure 1G,Pseudovirus (lentivirus),NT50,70,6,100000,50,NULL,2022-05-31
+Willett22,VP_BA.1_hospitalised,S:614G,Figure 1H,Pseudovirus (lentivirus),NT50,4840,6,100000,10,NULL,2022-05-31
+Willett22,VP_BA.1_hospitalised,BA.1 Spike,Figure 1H,Pseudovirus (lentivirus),NT50,6370,6,100000,10,NULL,2022-05-31
+Willett22,VP_BA.1_hospitalised,BA.2 Spike,Figure 1H,Pseudovirus (lentivirus),NT50,4000,6,100000,10,NULL,2022-05-31
+Willett22,VP_BA.1_hospitalised,BA.4/5 Spike,Figure 1H,Pseudovirus (lentivirus),NT50,1920,6,100000,10,NULL,2022-05-31
+Willett22,VP_BA.2_hospitalised,S:614G,Figure 1I,Pseudovirus (lentivirus),NT50,4800,6,100000,10,NULL,2022-05-31
+Willett22,VP_BA.2_hospitalised,BA.1 Spike,Figure 1I,Pseudovirus (lentivirus),NT50,6300,6,100000,10,NULL,2022-05-31
+Willett22,VP_BA.2_hospitalised,BA.2 Spike,Figure 1I,Pseudovirus (lentivirus),NT50,7500,6,100000,10,NULL,2022-05-31
+Willett22,VP_BA.2_hospitalised,BA.4/5 Spike,Figure 1I,Pseudovirus (lentivirus),NT50,1400,6,100000,10,NULL,2022-05-31
+Willett22,VP_BA.1_or_BA.2,S:614G,Figure 1J,Pseudovirus (lentivirus),NT50,1940,18,100000,50,NULL,2022-05-31
+Willett22,VP_BA.1_or_BA.2,BA.1 Spike,Figure 1J,Pseudovirus (lentivirus),NT50,830,18,100000,50,NULL,2022-05-31
+Willett22,VP_BA.1_or_BA.2,BA.2 Spike,Figure 1J,Pseudovirus (lentivirus),NT50,660,18,100000,50,NULL,2022-05-31
+Willett22,VP_BA.1_or_BA.2,BA.4/5 Spike,Figure 1J,Pseudovirus (lentivirus),NT50,550,18,100000,50,NULL,2022-05-31
+Willett22,VP_BA.1_infection,S:614G,Figure 1K,Pseudovirus (lentivirus),NT50,5360,4,100000,10,NULL,2022-05-31
+Willett22,VP_BA.1_infection,BA.1 Spike,Figure 1K,Pseudovirus (lentivirus),NT50,2560,4,100000,10,NULL,2022-05-31
+Willett22,VP_BA.1_infection,BA.2 Spike,Figure 1K,Pseudovirus (lentivirus),NT50,2070,4,100000,10,NULL,2022-05-31
+Willett22,VP_BA.1_infection,BA.4/5 Spike,Figure 1K,Pseudovirus (lentivirus),NT50,1850,4,100000,10,NULL,2022-05-31
+Willett22,VP_Delta_infection,S:614G,Figure 1K,Pseudovirus (lentivirus),NT50,4930,4,100000,10,NULL,2022-05-31
+Willett22,VP_Delta_infection,BA.1 Spike,Figure 1K,Pseudovirus (lentivirus),NT50,466,4,100000,10,NULL,2022-05-31
+Willett22,VP_Delta_infection,BA.2 Spike,Figure 1K,Pseudovirus (lentivirus),NT50,1260,4,100000,10,NULL,2022-05-31
+Willett22,VP_Delta_infection,BA.4/5 Spike,Figure 1K,Pseudovirus (lentivirus),NT50,1020,4,100000,10,NULL,2022-05-31
+Willett22,Sotrovimab,S:614G,Figure 1L,Pseudovirus (lentivirus),IC50,3,1,25000,1,ng/ml,2022-05-31
+Willett22,Sotrovimab,BA.1 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,10,1,25000,1,ng/ml,2022-05-31
+Willett22,Sotrovimab,BA.2 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,400,1,25000,1,ng/ml,2022-05-31
+Willett22,Sotrovimab,BA.4/5 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,142,1,25000,1,ng/ml,2022-05-31
+Willett22,Imdevimab,S:614G,Figure 1L,Pseudovirus (lentivirus),IC50,2,1,25000,1,ng/ml,2022-05-31
+Willett22,Imdevimab,BA.1 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,25000,1,25000,1,ng/ml,2022-05-31
+Willett22,Imdevimab,BA.2 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,1021,1,25000,1,ng/ml,2022-05-31
+Willett22,Imdevimab,BA.4/5 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,1487,1,25000,1,ng/ml,2022-05-31
+Willett22,Casirivimab,S:614G,Figure 1L,Pseudovirus (lentivirus),IC50,3,1,25000,1,ng/ml,2022-05-31
+Willett22,Casirivimab,BA.1 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,25000,1,25000,1,ng/ml,2022-05-31
+Willett22,Casirivimab,BA.2 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,21878,1,25000,1,ng/ml,2022-05-31
+Willett22,Casirivimab,BA.4/5 Spike,Figure 1L,Pseudovirus (lentivirus),IC50,25000,1,25000,1,ng/ml,2022-05-31

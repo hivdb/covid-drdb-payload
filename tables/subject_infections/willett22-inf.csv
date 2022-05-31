@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Willett22,CP_BA.1,~,2022-01-01,Omicron/BA.1,UK,NULL,NULL,Figure 1
+Willett22,CP_BA.1_Hamster,~,2022-01-01,Omicron/BA.1,UK,NULL,NULL,Figure 1
+Willett22,CP_BA.2_human_or_hamster,~,2022-03-01,Omicron/BA.2,UK,NULL,NULL,Figure 1
+Willett22,CP_BA1_or_BA2,~,2022-03-01,Omicron/BA.1,UK,NULL,NULL,Figure 1
+Willett22,VP_BA.1_hospitalised,~,2022-01-01,Omicron/BA.1,UK,NULL,Hospitalized,Figure 1
+Willett22,VP_BA.2_hospitalised,~,2022-03-01,Omicron/BA.2,UK,NULL,Hospitalized,Figure 1
+Willett22,VP_BA.1_or_BA.2,~,2022-03-01,Omicron/BA.1,UK,NULL,NULL,Figure 1
+Willett22,VP_BA.1_infection,~,2022-01-01,Omicron/BA.1,UK,NULL,NULL,Figure 1
+Willett22,VP_Delta_infection,~,2021-07-01,Delta,UK,NULL,NULL,Figure 1
