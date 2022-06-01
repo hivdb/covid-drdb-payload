@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Wang22e,CP,Wuhan-Hu-1 Spike,Figure 1A,Pseudovirus,NT50,1328,20,8192,20,NULL,2022-06-01
 Wang22e,CP,B.1.1.7 Spike,Figure 1A,Pseudovirus,NT50,602,20,8192,20,NULL,2022-06-01
 Wang22e,CP,B.1.351 Spike:-18F+241del-244del-256I+655Y+1027I+1176F,Figure 1A,Pseudovirus,NT50,246,20,8192,20,NULL,2022-06-01
