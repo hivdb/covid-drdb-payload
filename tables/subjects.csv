@@ -1238,13 +1238,9 @@ Kitchin21,Ad26.COV2.S_BTI,Human,NULL,6
 Ko22,Patient A,Human,NULL,1
 Ko22,Patient B,Human,NULL,1
 Kumar21,MOD_3dose_1M,Human,NULL,60
-Kurahashi22,CP_infected_term1_pneumonia,Human,NULL,22
 Kurahashi22,CP_infected_term1_vaccinated,Human,NULL,19
-Kurahashi22,CP_infected_term1_wo_pneumonia,Human,NULL,18
 Kurahashi22,CP_infected_term2_vaccinated,Human,NULL,4
-Kurahashi22,CP_pneumonia_term1,Human,NULL,22
 Kurahashi22,CP_pneumonia_term1_vaccinated,Human,NULL,12
-Kurahashi22,CP_pneumonia_term2,Human,NULL,12
 Kurahashi22,CP_pneumonia_term3,Human,NULL,17
 Kurahashi22,CP_wo_pneumonia_term1_vaccinated,Human,NULL,8
 Kurhade22,BNT162b2_3dose_01,Human,NULL,1
