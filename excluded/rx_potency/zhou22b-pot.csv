@@ -1,0 +1,4 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhou22b,Recombinant_RBD_protein_VP_Monkey,S:614G,Figure 3B,Pseudovirus,NT50,3816,6,8000,1,NULL,2022-06-01
+Zhou22b,Recombinant_RBD_protein_VP_Monkey,BA.1 RBD,Figure 3B,Pseudovirus,NT50,1538,6,8000,1,NULL,2022-06-01
+Zhou22b,Recombinant_RBD_protein_VP_Monkey,BA.1 Spike,Figure 3B,Pseudovirus,NT50,562,6,8000,1,NULL,2022-06-01

@@ -2967,6 +2967,10 @@ Zhou21b,CP_B.1.1.7_9,Human,NULL,1
 Zhou21c,BNT162b2,Human,NULL,5
 Zhou21c,CP,Human,NULL,6
 Zhou21c,mRNA-1273,Human,NULL,3
+Zhou22b,BNT_2dose,Human,NULL,9
+Zhou22b,Sinovac_2dose,Human,NULL,23
+Zhou22b,Sinovac_2dose_BNT_1dose,Human,NULL,7
+Zhou22b,Sinovac_3dose,Human,NULL,24
 Zou21,CP,Human,NULL,18
 Zou21,CP_Macaque_d28,Macaque,NULL,6
 Zou21,CP_Macaque_d35,Macaque,NULL,6

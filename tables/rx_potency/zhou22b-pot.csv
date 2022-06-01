@@ -1,0 +1,27 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhou22b,Imdevimab,S:614G,Figure 3A,Pseudovirus,IC50,43,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Casirivimab,S:614G,Figure 3A,Pseudovirus,IC50,18,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Etesevimab,S:614G,Figure 3A,Pseudovirus,IC50,24,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Bamlanivimab,S:614G,Figure 3A,Pseudovirus,IC50,11,1,2000,1,ng/ml,2022-06-01
+Zhou22b,40592-R001,S:614G,Figure 3A,Pseudovirus,IC50,9,1,2000,1,ng/ml,2022-06-01
+Zhou22b,40592-MM57,S:614G,Figure 3A,Pseudovirus,IC50,115,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Imdevimab,BA.1 RBD,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Casirivimab,BA.1 RBD,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Etesevimab,BA.1 RBD,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Bamlanivimab,BA.1 RBD,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,40592-R001,BA.1 RBD,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,40592-MM57,BA.1 RBD,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Imdevimab,BA.1 Spike,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Casirivimab,BA.1 Spike,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Etesevimab,BA.1 Spike,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,Bamlanivimab,BA.1 Spike,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,40592-R001,BA.1 Spike,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,40592-MM57,BA.1 Spike,Figure 3A,Pseudovirus,IC50,2000,1,2000,1,ng/ml,2022-06-01
+Zhou22b,BNT_2dose,S:614G,Figure 4A,Pseudovirus,NT50,640,9,1500,25,NULL,2022-06-01
+Zhou22b,BNT_2dose,BA.1 Spike,Figure 4A,Pseudovirus,NT50,63,9,1500,25,NULL,2022-06-01
+Zhou22b,Sinovac_2dose,S:614G,Figure 4B,Pseudovirus,NT50,106,23,500,25,NULL,2022-06-01
+Zhou22b,Sinovac_2dose,BA.1 Spike,Figure 4B,Pseudovirus,NT50,18,23,500,25,NULL,2022-06-01
+Zhou22b,Sinovac_3dose,S:614G,Figure 4C,Pseudovirus,NT50,156,24,800,25,NULL,2022-06-01
+Zhou22b,Sinovac_3dose,BA.1 Spike,Figure 4C,Pseudovirus,NT50,37,24,800,25,NULL,2022-06-01
+Zhou22b,Sinovac_2dose_BNT_1dose,S:614G,Figure 4D,Pseudovirus,NT50,780,7,2500,25,NULL,2022-06-01
+Zhou22b,Sinovac_2dose_BNT_1dose,BA.1 Spike,Figure 4D,Pseudovirus,NT50,116,7,2500,25,NULL,2022-06-01

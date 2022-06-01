@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Zhou22b,BNT_2dose,~,2021-05-01,BNT162b2,2,China,4.3 Human and nonhuman primate sera
+Zhou22b,Sinovac_2dose,~,2021-05-01,CoronaVac,2,China,4.3 Human and nonhuman primate sera
+Zhou22b,Sinovac_3dose,~,2021-09-15,CoronaVac,3,China,4.3 Human and nonhuman primate sera
+Zhou22b,Sinovac_2dose_BNT_1dose,~,2021-05-01,CoronaVac,2,China,4.3 Human and nonhuman primate sera
+Zhou22b,Sinovac_2dose_BNT_1dose,~,2021-09-15,BNT162b2,3,China,4.3 Human and nonhuman primate sera
