@@ -1,0 +1,578 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Wang22d,1-20,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,27,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,31,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,27,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,25,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,9253,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,18,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2385,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,1792,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1346,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1171,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,978,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,432,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,385,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,704,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,361,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1351,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,7586,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,505,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2125,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2682,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,209,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,18,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,22,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,110,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,78,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,782,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,127,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,200,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1019,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1035,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1120,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,716,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,763,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,50,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,59,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,181,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,295,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,37,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,4322,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,5723,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,644,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,600,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,3642,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2519,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,3404,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,55,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,590,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,859,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,54,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,347,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,534,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2951,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1882,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2400,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1998,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,154,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,708,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,21,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,S:614G,Extended Data Fig 3,Pseudovirus (VSV),IC50,22,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,260,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.1 Spike:+346K,Extended Data Fig 3,Pseudovirus (VSV),IC50,4394,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1907,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2.12.1 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,1936,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.4/5 Spike,Extended Data Fig 3,Pseudovirus (VSV),IC50,2445,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,32,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,33,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,39,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,33,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,24,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,18,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,135,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,32,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,21,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,24,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,23,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,231,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,272,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,5018,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1961,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1174,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,24,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,36,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,148,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,892,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,3526,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2346,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,175,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,199,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,6166,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,28,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,29,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,23,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,38,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,38,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,28,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,15,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,47,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,34,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,39,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,56,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,33,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,61,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,52,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,51,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,23,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,23,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,55,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,51,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,57,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,74,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,59,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,36,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,61,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,79,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,69,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,106,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,35,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,78,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,34,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,71,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,76,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,64,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,18,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,22,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,15,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,29,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,18,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,701,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,S:69del+70del+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,S:452M+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,S:452R+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,21,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,S:452Q+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,31,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,S:486V+614G,Extended Data Fig 6a,Pseudovirus (VSV),IC50,174,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,S:614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,S:452Q+614G+704L,Extended Data Fig 6a,Pseudovirus (VSV),IC50,35,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2020,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,1-20,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,40,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,36,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,47,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,36,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,229,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,33,1,10000,1,ng/ml,2022-05-31
+Wang22d,CAB-A17,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,CB6,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2726,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,907,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,6815,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1717,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,33,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1464,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,394,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,960,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10933,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,835,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,970,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1228,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,655,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,686,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-05-31
+Wang22d,ZCB11,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,7766,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-15,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,298,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1081,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2832,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,872,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1681,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,454,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,262,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,757,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,15,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,25,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2130,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV1404,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,394,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,887,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1089,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,735,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-198,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1414,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,469,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,557,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1022,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,535,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,412,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,485,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,539,1,10000,1,ng/ml,2022-05-31
+Wang22d,S309,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,754,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,31,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,51,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,54,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,29,1,10000,1,ng/ml,2022-05-31
+Wang22d,2-7,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,44,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,ADG-2,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,DH1047,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,4246,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,5759,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,3008,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2537,1,10000,1,ng/ml,2022-05-31
+Wang22d,10-40,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2751,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,S2X259,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,4-18,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,5-7,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2178,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1276,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1864,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,4793,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,7366,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,641,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1262,1,10000,1,ng/ml,2022-05-31
+Wang22d,REGN10987+10933,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,2498,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,15,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,15,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,28,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,24,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-05-31
+Wang22d,COV2-2196+2130,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,LY-CoV555+CB6,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike:69del+70del,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1320,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike:L452M,Extended Data Fig 6b,Pseudovirus (VSV),IC50,1163,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike:L452R,Extended Data Fig 6b,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike:L452Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,5525,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike:F486V,Extended Data Fig 6b,Pseudovirus (VSV),IC50,5377,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike:R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,21,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike:S704L,Extended Data Fig 6b,Pseudovirus (VSV),IC50,800,1,10000,1,ng/ml,2022-05-31
+Wang22d,BRII-196+198,BA.2 Spike:F486V+R493Q,Extended Data Fig 6b,Pseudovirus (VSV),IC50,586,1,10000,1,ng/ml,2022-05-31
+Wang22d,Boosted,S:614G,Figure 4a,Pseudovirus (VSV),NT50,6657,15,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.1 Spike,Figure 4a,Pseudovirus (VSV),NT50,1300,15,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.1 Spike:+346K,Figure 4a,Pseudovirus (VSV),NT50,1075,15,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2 Spike,Figure 4a,Pseudovirus (VSV),NT50,1461,15,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2.12.1 Spike,Figure 4a,Pseudovirus (VSV),NT50,818,15,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.4/5 Spike,Figure 4a,Pseudovirus (VSV),NT50,347,15,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,S:614G,Figure 4a,Pseudovirus (VSV),NT50,5185,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.1 Spike,Figure 4a,Pseudovirus (VSV),NT50,845,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.1 Spike:+346K,Figure 4a,Pseudovirus (VSV),NT50,681,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2 Spike,Figure 4a,Pseudovirus (VSV),NT50,939,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2.12.1 Spike,Figure 4a,Pseudovirus (VSV),NT50,791,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.4/5 Spike,Figure 4a,Pseudovirus (VSV),NT50,596,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,S:614G,Figure 4a,Pseudovirus (VSV),NT50,9500,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.1 Spike,Figure 4a,Pseudovirus (VSV),NT50,2406,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.1 Spike:+346K,Figure 4a,Pseudovirus (VSV),NT50,2739,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2 Spike,Figure 4a,Pseudovirus (VSV),NT50,2052,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2.12.1 Spike,Figure 4a,Pseudovirus (VSV),NT50,1434,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.4/5 Spike,Figure 4a,Pseudovirus (VSV),NT50,473,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,S:614G,Figure 4a,Pseudovirus (VSV),NT50,9527,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.1 Spike,Figure 4a,Pseudovirus (VSV),NT50,3054,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.1 Spike:+346K,Figure 4a,Pseudovirus (VSV),NT50,3095,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2 Spike,Figure 4a,Pseudovirus (VSV),NT50,3679,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2.12.1 Spike,Figure 4a,Pseudovirus (VSV),NT50,2945,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.4/5 Spike,Figure 4a,Pseudovirus (VSV),NT50,1627,11,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2 Spike:69del+70del,Figure 4c,Pseudovirus (VSV),NT50,691,16,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2 Spike:L452M,Figure 4c,Pseudovirus (VSV),NT50,723,16,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2 Spike:L452R,Figure 4c,Pseudovirus (VSV),NT50,607,16,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2 Spike:L452Q,Figure 4c,Pseudovirus (VSV),NT50,658,16,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2 Spike:F486V,Figure 4c,Pseudovirus (VSV),NT50,673,16,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2 Spike:R493Q,Figure 4c,Pseudovirus (VSV),NT50,2254,16,1000000,100,NULL,2022-05-31
+Wang22d,Boosted,BA.2 Spike:S704L,Figure 4c,Pseudovirus (VSV),NT50,1215,16,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2 Spike:69del+70del,Figure 4c,Pseudovirus (VSV),NT50,813,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2 Spike:L452M,Figure 4c,Pseudovirus (VSV),NT50,774,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2 Spike:L452R,Figure 4c,Pseudovirus (VSV),NT50,750,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2 Spike:L452Q,Figure 4c,Pseudovirus (VSV),NT50,473,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2 Spike:F486V,Figure 4c,Pseudovirus (VSV),NT50,577,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2 Spike:R493Q,Figure 4c,Pseudovirus (VSV),NT50,1307,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_non_Omicron_inf,BA.2 Spike:S704L,Figure 4c,Pseudovirus (VSV),NT50,877,20,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2 Spike:69del+70del,Figure 4c,Pseudovirus (VSV),NT50,1721,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2 Spike:L452M,Figure 4c,Pseudovirus (VSV),NT50,1853,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2 Spike:L452R,Figure 4c,Pseudovirus (VSV),NT50,1235,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2 Spike:L452Q,Figure 4c,Pseudovirus (VSV),NT50,1006,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2 Spike:F486V,Figure 4c,Pseudovirus (VSV),NT50,1314,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2 Spike:R493Q,Figure 4c,Pseudovirus (VSV),NT50,3010,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.1_BI,BA.2 Spike:S704L,Figure 4c,Pseudovirus (VSV),NT50,2046,12,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2 Spike:69del+70del,Figure 4c,Pseudovirus (VSV),NT50,2618,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2 Spike:L452M,Figure 4c,Pseudovirus (VSV),NT50,2995,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2 Spike:L452R,Figure 4c,Pseudovirus (VSV),NT50,2018,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2 Spike:L452Q,Figure 4c,Pseudovirus (VSV),NT50,2526,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2 Spike:F486V,Figure 4c,Pseudovirus (VSV),NT50,1842,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2 Spike:R493Q,Figure 4c,Pseudovirus (VSV),NT50,5495,11,1000000,100,NULL,2022-05-31
+Wang22d,VP_BA.2_BI,BA.2 Spike:S704L,Figure 4c,Pseudovirus (VSV),NT50,3219,11,1000000,100,NULL,2022-05-31

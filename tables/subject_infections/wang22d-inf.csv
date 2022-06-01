@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Wang22d,VP_non_Omicron_inf,~,2021-01-01,Unknown variant,USA,NULL,NULL,Extended Data Table 2
+Wang22d,VP_BA.1_BI,~,2022-02-01,Omicron/BA.1,USA,NULL,NULL,Extended Data Table 2
+Wang22d,VP_BA.2_BI,~,2022-03-01,Omicron/BA.2,USA,NULL,NULL,Extended Data Table 2
