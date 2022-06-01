@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Tuekprakhon22,AZD1222_3dose,~,2021-12-31,AZD1222,3,UK,NULL
+Tuekprakhon22,BNT162b2_3dose,~,2021-12-31,BNT162b2,3,UK,NULL
+Tuekprakhon22,BTI_BA.1,~,2021-12-31,Unknown vaccine,3,UK,NULL
