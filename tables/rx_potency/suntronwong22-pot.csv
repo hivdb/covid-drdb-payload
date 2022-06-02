@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Suntronwong22,CoronaVac_2dose_bti_CP,B.1.617.2 full genome,Figure 1H,Virus isolate,NT50,1332,30,10000,10,NULL,2022-06-01
-Suntronwong22,CoronaVac_2dose_bti_CP,Omicron BA.1 full genome,Figure 1H,Virus isolate,NT50,212,30,10000,10,NULL,2022-06-01
+Suntronwong22,CoronaVac_2dose_bti_CP,Omicron/BA.1 full genome,Figure 1H,Virus isolate,NT50,212,30,10000,10,NULL,2022-06-01
