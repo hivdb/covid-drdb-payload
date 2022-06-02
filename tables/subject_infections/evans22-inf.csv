@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Evans22,CP_D614G_ICU,~,2020-04-01,B.1,USA,NULL,Non-Hospitalized,Table 1
+Evans22,CP_D614G_Hospitalized,~,2020-04-01,B.1,USA,NULL,Hospitalized,Table 1
+Evans22,CP_Delta_wave,~,2021-11-01,Delta,USA,NULL,NULL,Table 1
+Evans22,VP_Delta_wave,~,2021-11-01,Delta,USA,NULL,NULL,Table 1
+Evans22,CP_Omicron,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,Table 1
+Evans22,VP_Omicron_2dose,~,2022-02-01,Omicron/BA.1,USA,NULL,NULL,Table 1
+Evans22,VP_Omicron_Boosted,~,2022-02-01,Omicron/BA.1,USA,NULL,NULL,Table 1
