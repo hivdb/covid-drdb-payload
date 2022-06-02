@@ -791,6 +791,17 @@ Edara21d,Moderna_3dose_4w_8,Human,1988,1
 Edara21d,Moderna_3dose_4w_9,Human,1994,1
 Edara22,BBV152,Human,NULL,13
 Emary21,AZD1222,Human,NULL,49
+Evans22,CP_D614G_Hospitalized,Human,NULL,9
+Evans22,CP_D614G_ICU,Human,NULL,9
+Evans22,CP_Delta_wave,Human,NULL,12
+Evans22,CP_Omicron,Human,NULL,15
+Evans22,Figure3A_2dose,Human,NULL,10
+Evans22,Figure3B_3dose,Human,NULL,10
+Evans22,VP_Delta_wave,Human,NULL,6
+Evans22,VP_Omicron_2dose,Human,NULL,8
+Evans22,VP_Omicron_Boosted,Human,NULL,8
+Evans22,mRNA_2dose,Human,NULL,48
+Evans22,mRNA_3dose,Human,NULL,19
 Fabricius21,AZD1222_2dose,Human,1968,11
 Fabricius21,AZD1222_BNT,Human,1977,23
 Fabricius21,AZD1222_mRNA,Human,1988,23
