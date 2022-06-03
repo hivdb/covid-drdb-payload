@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Cao22b,CoronaVac_3dose_BA1_CP,~,2022-02-01,Omicron/BA.1,China,NULL,NULL,NULL
+Cao22b,SARS_CoV_1_CP_CoronaVac_2dose_ZF2001_1dose,~,2003-01-01,SARS-CoV-1,China,NULL,NULL,NULL
