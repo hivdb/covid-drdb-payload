@@ -1,3 +1,4 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Singn22b,CP_ChAdOx_1dose,~,2021-03-15,Delta,India,NULL,NULL,NULL
-Singn22b,CP,~,2021-03-15,Delta,India,NULL,NULL,NULL
+Singh22b,CP_ChAdOx_1dose,<,2021-03-01,B.1,India,NULL,NULL,Cross-neutralizing antibodies after vaccination or infection with Delta variant 
+Singh22b,CP,~,2021-03-15,Delta,India,NULL,NULL,Cross-neutralizing antibodies after vaccination or infection with Delta variant 
+Singh22b,ChAdOx_1dose_seropositive,<,2021-03-01,B.1,India,NULL,NULL,Supporting Table S3

@@ -1,16 +1,16 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Singn22b,CP_ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Table 1,Virus isolate,NT50,187,6,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Table 1,Virus isolate,NT50,110.2,12,16384,10,NULL,2022-05-03
-Singn22b,CP_ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Table 1,Virus isolate,NT50,105,6,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Table 1,Virus isolate,NT50,53.82,12,16384,10,NULL,2022-05-03
-Singn22b,CP_ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_287/2021,Table 1,Virus isolate,NT50,783.7,6,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_287/2021,Table 1,Virus isolate,NT50,50.4,12,16384,10,NULL,2022-05-03
-Singn22b,CP,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Supplementary Table 1,Virus isolate,NT50,773.0,8,16384,10,NULL,2022-05-03
-Singn22b,CP,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Supplementary Table 1,Virus isolate,NT50,678.5,8,16384,10,NULL,2022-05-03
-Singn22b,CP,SARS-CoV-2/human/IND/THSTI_287/2021,Supplementary Table 1,Virus isolate,NT50,745.3,8,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_seronegative_after__vaccination,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Supplementary Table 2,Virus isolate,NT50,136.4,6,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_seronegative_after__vaccination,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Supplementary Table 2,Virus isolate,NT50,56.35,6,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_seronegative_after__vaccination,SARS-CoV-2/human/IND/THSTI_287/2021,Supplementary Table 2,Virus isolate,NT50,60.40,6,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_seropositive_after__vaccination,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Supplementary Table 3,Virus isolate,NT50,1022,6,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_seropositive_after__vaccination,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Supplementary Table 3,Virus isolate,NT50,575.4,6,16384,10,NULL,2022-05-03
-Singn22b,ChAdOx_1dose_seropositive_after__vaccination,SARS-CoV-2/human/IND/THSTI_287/2021,Supplementary Table 3,Virus isolate,NT50,437.7,6,16384,10,NULL,2022-05-03
+Singh22b,CP_ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Table 1,Virus isolate,NT50,187,6,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Table 1,Virus isolate,NT50,110.2,12,16384,10,NULL,2022-05-03
+Singh22b,CP_ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Table 1,Virus isolate,NT50,105,6,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Table 1,Virus isolate,NT50,53.82,12,16384,10,NULL,2022-05-03
+Singh22b,CP_ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_287/2021,Table 1,Virus isolate,NT50,783.7,6,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_3wk,SARS-CoV-2/human/IND/THSTI_287/2021,Table 1,Virus isolate,NT50,50.4,12,16384,10,NULL,2022-05-03
+Singh22b,CP,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Supplementary Table 1,Virus isolate,NT50,773.0,8,16384,10,NULL,2022-05-03
+Singh22b,CP,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Supplementary Table 1,Virus isolate,NT50,678.5,8,16384,10,NULL,2022-05-03
+Singh22b,CP,SARS-CoV-2/human/IND/THSTI_287/2021,Supplementary Table 1,Virus isolate,NT50,745.3,8,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_seronegative_after__vaccination,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Supplementary Table 2,Virus isolate,NT50,136.4,6,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_seronegative_after__vaccination,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Supplementary Table 2,Virus isolate,NT50,56.35,6,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_seronegative_after__vaccination,SARS-CoV-2/human/IND/THSTI_287/2021,Supplementary Table 2,Virus isolate,NT50,60.40,6,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_seropositive_after__vaccination,SARS-CoV-2/human/IND/THSTI-BL2010D/2020,Supplementary Table 3,Virus isolate,NT50,1022,6,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_seropositive_after__vaccination,SARS-CoV-2/human/IND/THSTI_UK_18022021_CSIR-IGIB/2021,Supplementary Table 3,Virus isolate,NT50,575.4,6,16384,10,NULL,2022-05-03
+Singh22b,ChAdOx_1dose_seropositive_after__vaccination,SARS-CoV-2/human/IND/THSTI_287/2021,Supplementary Table 3,Virus isolate,NT50,437.7,6,16384,10,NULL,2022-05-03
