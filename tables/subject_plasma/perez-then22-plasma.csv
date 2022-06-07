@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Perez-Then22,DR_CoronaVac_2dose,DR_CoronaVac_2dose,~,2021-09-24,Dominican Republic,DR_CoronaVac_2dose,NULL
 Perez-Then22,Yale_mRNA_2dose_d28,Yale_mRNA_2dose_d28,~,2021-03-01,USA,Yale_mRNA_2dose_d28,NULL
 Perez-Then22,Yale_mRNA_2dose_d28_CP,Yale_mRNA_2dose_d28_CP,~,2021-03-01,USA,Yale_mRNA_2dose_d28_CP,NULL

@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Perez-Then22,DR_CoronaVac_2dose,WA1,Figure 2B,Virus isolate,NT50,15,101,2430,10,NULL,2022-06-07
 Perez-Then22,DR_CoronaVac_2dose,B.1.617.2_MZ468047,Figure 2B,Virus isolate,NT50,12,101,2430,10,NULL,2022-06-07
 Perez-Then22,DR_CoronaVac_2dose,SARS-CoV-2/human/USA/Yale-14797/2021,Figure 2B,Virus isolate,NT50,10,80,2430,10,NULL,2022-06-07
