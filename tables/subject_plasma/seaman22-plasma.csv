@@ -1,0 +1,13 @@
+ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Seaman22,CP_delta_boosted,CP_delta_boosted_acute,~,2021-07-05,USA,CP_delta_boosted,NULL
+Seaman22,CP_delta_boosted,CP_delta_boosted_convalescent,~,2021-07-18,USA,CP_delta_boosted,NULL
+Seaman22,CP_delta_vaccinated,CP_delta_vaccinated_acute,~,2021-07-05,USA,CP_delta_vaccinated,NULL
+Seaman22,CP_delta_vaccinated,CP_delta_vaccinated_convalescent,~,2021-07-18,USA,CP_delta_vaccinated,NULL
+Seaman22,CP_delta,CP_delta_acute,~,2021-07-05,USA,CP_delta,NULL
+Seaman22,CP_delta,CP_delta_convalescent,~,2021-07-18,USA,CP_delta,NULL
+Seaman22,CP_ba1_boosted,CP_ba1_boosted_acute,~,2022-01-05,USA,CP_ba1_boosted,NULL
+Seaman22,CP_ba1_boosted,CP_ba1_boosted_convalescent,~,2022-01-18,USA,CP_ba1_boosted,NULL
+Seaman22,CP_ba1_vaccinated,CP_ba1_vaccinated_acute,~,2022-01-05,USA,CP_ba1_vaccinated,NULL
+Seaman22,CP_ba1_vaccinated,CP_ba1_vaccinated_convalescent,~,2022-01-18,USA,CP_ba1_vaccinated,NULL
+Seaman22,CP_ba1,CP_ba1_acute,~,2022-01-05,USA,CP_ba1,NULL
+Seaman22,CP_ba1,CP_ba1_convalescent,~,2022-01-18,USA,CP_ba1,NULL
