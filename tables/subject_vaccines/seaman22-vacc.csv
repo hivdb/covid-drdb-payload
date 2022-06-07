@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Seaman22,CP_delta_boosted,~,2020-04-09,mRNA,1,USA,NULL
 Seaman22,CP_delta_boosted,~,2020-05-09,mRNA,2,USA,NULL
 Seaman22,CP_delta_boosted,~,2020-11-09,mRNA,3,USA,NULL

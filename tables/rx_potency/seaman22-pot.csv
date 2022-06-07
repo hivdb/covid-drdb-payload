@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Seaman22,CP_delta_boosted_acute,BA.2 Spike,Supplementary Figure 3,Pseudovirus,NT50,443,3,100000,20,NULL,2022-06-07
 Seaman22,CP_delta_boosted_convalescent,BA.2 Spike,Supplementary Figure 3,Pseudovirus,NT50,604,3,100000,20,NULL,2022-06-07
 Seaman22,CP_delta_vaccinated_acute,BA.2 Spike,Supplementary Figure 3,Pseudovirus,NT50,20,11,100000,20,NULL,2022-06-07

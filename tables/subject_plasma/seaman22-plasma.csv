@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Seaman22,CP_delta_boosted,CP_delta_boosted_acute,~,2021-07-05,USA,CP_delta_boosted,NULL
 Seaman22,CP_delta_boosted,CP_delta_boosted_convalescent,~,2021-07-18,USA,CP_delta_boosted,NULL
 Seaman22,CP_delta_vaccinated,CP_delta_vaccinated_acute,~,2021-07-05,USA,CP_delta_vaccinated,NULL

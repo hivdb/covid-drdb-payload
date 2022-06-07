@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Seaman22,CP_delta_boosted,~,2021-07-01,Delta,USA,NULL,NULL,NULL
 Seaman22,CP_delta_vaccinated,~,2021-07-01,Delta,USA,NULL,NULL,NULL
 Seaman22,CP_delta,~,2021-07-01,Delta,USA,NULL,NULL,NULL

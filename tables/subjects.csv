@@ -2096,6 +2096,12 @@ Schmidt21b,PT_C079,Human,NULL,1
 Schmidt21b,PT_C080,Human,NULL,1
 Schmidt21b,PT_C081,Human,NULL,1
 Schulz22,Vaccinee,Human,1983,1
+Seaman22,CP_ba1,Human,NULL,1
+Seaman22,CP_ba1_boosted,Human,NULL,1
+Seaman22,CP_ba1_vaccinated,Human,NULL,1
+Seaman22,CP_delta,Human,NULL,1
+Seaman22,CP_delta_boosted,Human,NULL,1
+Seaman22,CP_delta_vaccinated,Human,NULL,1
 Sepulcri21,Donor,Human,NULL,1
 Sepulcri21,Patient,Human,1940,1
 Shen21,CP_Ser_12,Human,NULL,1
