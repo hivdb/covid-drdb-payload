@@ -1,0 +1,14 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Perez-Then22,DR_CoronaVac_2dose,~,2021-03-24,CoronaVac,1,Dominican Republic,NULL
+Perez-Then22,DR_CoronaVac_2dose,~,2021-04-24,CoronaVac,2,Dominican Republic,NULL
+Perez-Then22,DR_CoronaVac_2dose,~,2021-08-15,BNT162b2,3,Dominican Republic,NULL
+Perez-Then22,Yale_mRNA_2dose_d28,~,2021-01-01,mRNA,2,USA,NULL
+Perez-Then22,Yale_mRNA_2dose_d28,~,2021-02-01,mRNA,2,USA,NULL
+Perez-Then22,Yale_mRNA_2dose_d28_CP,~,2021-01-01,mRNA,2,USA,NULL
+Perez-Then22,Yale_mRNA_2dose_d28_CP,~,2021-02-01,mRNA,2,USA,NULL
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28,~,2021-03-24,CoronaVac,1,Dominican Republic,NULL
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28,~,2021-04-24,CoronaVac,2,Dominican Republic,NULL
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28,~,2021-08-15,BNT162b2,3,Dominican Republic,NULL
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28_CP,~,2021-03-24,CoronaVac,1,Dominican Republic,NULL
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28_CP,~,2021-04-24,CoronaVac,2,Dominican Republic,NULL
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28_CP,~,2021-08-15,BNT162b2,3,Dominican Republic,NULL
