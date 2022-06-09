@@ -1,0 +1,22 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Perez-Then22,DR_CoronaVac_2dose,WA1,Figure 2B,Virus isolate,NT50,15,101,2430,10,NULL,2022-06-07
+Perez-Then22,DR_CoronaVac_2dose,B.1.617.2_MZ468047,Figure 2B,Virus isolate,NT50,12,101,2430,10,NULL,2022-06-07
+Perez-Then22,DR_CoronaVac_2dose,SARS-CoV-2/human/USA/Yale-14797/2021,Figure 2B,Virus isolate,NT50,10,80,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28,WA1,Figure 3A,Virus isolate,NT50,116,16,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28,B.1.1.7_MZ202178,Figure 3A,Virus isolate,NT50,68,16,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28,B.1.617.2_MZ468047,Figure 3A,Virus isolate,NT50,36,16,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28,P.1_MZ202306,Figure 3A,Virus isolate,NT50,25,16,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28,B.1.351_MZ468007,Figure 3A,Virus isolate,NT50,18,16,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28,SARS-CoV-2/human/USA/Yale-14797/2021,Figure 3A,Virus isolate,NT50,12,16,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28_CP,WA1,Figure 3A,Virus isolate,NT50,210,15,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28_CP,B.1.1.7_MZ202178,Figure 3A,Virus isolate,NT50,189,15,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28_CP,B.1.617.2_MZ468047,Figure 3A,Virus isolate,NT50,113,15,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28_CP,P.1_MZ202306,Figure 3A,Virus isolate,NT50,59,15,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28_CP,B.1.351_MZ468007,Figure 3A,Virus isolate,NT50,46,15,2430,10,NULL,2022-06-07
+Perez-Then22,Yale_mRNA_2dose_d28_CP,SARS-CoV-2/human/USA/Yale-14797/2021,Figure 3A,Virus isolate,NT50,24,15,2430,10,NULL,2022-06-07
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28,WA1,Figure 3B,Virus isolate,NT50,123,75,2430,10,NULL,2022-06-07
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28,B.1.617.2_MZ468047,Figure 3B,Virus isolate,NT50,76,75,2430,10,NULL,2022-06-07
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28,SARS-CoV-2/human/USA/Yale-14797/2021,Figure 3B,Virus isolate,NT50,26,57,2430,10,NULL,2022-06-07
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28_CP,WA1,Figure 3B,Virus isolate,NT50,225,26,2430,10,NULL,2022-06-07
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28_CP,B.1.617.2_MZ468047,Figure 3B,Virus isolate,NT50,110,26,2430,10,NULL,2022-06-07
+Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28_CP,SARS-CoV-2/human/USA/Yale-14797/2021,Figure 3B,Virus isolate,NT50,30,24,2430,10,NULL,2022-06-07
