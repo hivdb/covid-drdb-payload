@@ -1,0 +1,11 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Seaman22,CP_delta_boosted,~,2020-04-09,mRNA,1,USA,NULL
+Seaman22,CP_delta_boosted,~,2020-05-09,mRNA,2,USA,NULL
+Seaman22,CP_delta_boosted,~,2020-11-09,mRNA,3,USA,NULL
+Seaman22,CP_delta_vaccinated,~,2020-10-09,mRNA,1,USA,NULL
+Seaman22,CP_delta_vaccinated,~,2020-11-09,mRNA,2,USA,NULL
+Seaman22,CP_ba1_boosted,~,2021-01-24,mRNA,1,USA,`NULL
+Seaman22,CP_ba1_boosted,~,2021-02-24,mRNA,2,USA,`NULL
+Seaman22,CP_ba1_boosted,~,2021-08-24,mRNA,3,USA,NULL
+Seaman22,CP_ba1_vaccinated,~,2021-07-24,mRNA,1,USA,`NULL
+Seaman22,CP_ba1_vaccinated,~,2021-08-24,mRNA,2,USA,NULL

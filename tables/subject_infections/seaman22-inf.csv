@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Seaman22,CP_delta_boosted,~,2021-07-01,Delta,USA,NULL,NULL,NULL
+Seaman22,CP_delta_vaccinated,~,2021-07-01,Delta,USA,NULL,NULL,NULL
+Seaman22,CP_delta,~,2021-07-01,Delta,USA,NULL,NULL,NULL
+Seaman22,CP_ba1_boosted,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,NULL
+Seaman22,CP_ba1_vaccinated,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,NULL
+Seaman22,CP_ba1,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,NULL
