@@ -300,10 +300,10 @@ Neumann21,10.3390/vaccines9070700,NULL,"Neumann, F",2021,2021-09-24,2021-10-06
 Uriu21,10.1056/NEJMc2114706,NULL,"Uriu, K",2021,2021-09-24,2021-11-09
 Schmitz21,10.1016/j.immuni.2021.08.013,NULL,"Schmitz, AJ",2021,2021-09-24,NULL
 Graham21,10.1016/j.immuni.2021.03.023,NULL,"Graham, C",2021,2021-09-27,NULL
-WHO21,NULL,https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/,WHO,2021,2021-09-29,2022-02-05
-CDC21,NULL,https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-classifications.html,CDC,2021,2021-09-29,2022-02-05
-ECDC21,NULL,https://www.ecdc.europa.eu/en/covid-19/variants-concern,ECDC,2021,2021-09-29,2022-02-05
-PHE21,NULL,https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data,PHE,2021,2021-09-29,2022-02-05
+WHO21,NULL,https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/,WHO,2021,2021-09-29,2022-06-08
+CDC21,NULL,https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-classifications.html,CDC,2021,2021-09-29,2022-06-08
+ECDC21,NULL,https://www.ecdc.europa.eu/en/covid-19/variants-concern,ECDC,2021,2021-09-29,2022-06-08
+PHE21,NULL,https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data,PHE,2021,2021-09-29,2022-06-08
 Falsey21,10.1056/NEJMc2113468,NULL,"Falsey, AR",2021,2021-10-06,2021-10-28
 Vicenti21,10.3390/life11090896,NULL,"Vicenti, I",2021,2021-10-07,2021-11-08
 Bates21b,10.1001/jama.2021.11656,NULL,"Bates, TA",2021,2021-10-07,NULL
@@ -534,4 +534,7 @@ Cheng22b,10.2807/1560-7917.ES.2022.27.18.2200178,NULL,"Cheng, SMS",2022,2022-06-
 Evans22,10.1016/j.chom.2022.04.014,NULL,"Evans, JP",2022,2022-06-01,NULL
 Wang22e,10.1080/22221751.2022.2027219,NULL,"Wang, Y",2022,2022-06-01,NULL
 Suntronwong22,10.1101/2022.01.17.22269415,NULL,"Suntronwong, N",2022,2022-06-01,NULL
+Seaman22,10.1101/2022.03.02.22271731,NULL,"Seaman, M",2022,2022-06-07,NULL
+Franchini22,10.1111/trf.16887,NULL,"Franchini, M",2022,2022-06-07,NULL
+PHE22,NULL,https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-case-data-7-june-2022,PHE,2022,2022-06-08,NULL
 Perez-Then22,10.1101/2021.12.27.21268459,NULL,"Perez-Then, E",2022,2022-06-07,NULL
