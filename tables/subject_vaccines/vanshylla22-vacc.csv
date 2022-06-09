@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Vanshylla22,BNT162b2,~,2021-01-01,BNT162b2,1,Germany,NULL
 Vanshylla22,BNT162b2,~,2021-01-23,BNT162b2,2,Germany,NULL
 Vanshylla22,BNT162b2,~,2021-08-20,BNT162b2,3,Germany,NULL
