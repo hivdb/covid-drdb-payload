@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Sievers22,CP_d28,WA1 Spike,Figure 1C,Pseudovirus (VSV),NT50,852,23,1200,10,NULL,2022-06-09
 Sievers22,CP_d28,B.1.617.2 Spike:+142D,Figure 1C,Pseudovirus (VSV),NT50,750,23,1200,10,NULL,2022-06-09
 Sievers22,CP_d28,B.1.351 Spike:-242del-243del-244del,Figure 1C,Pseudovirus (VSV),NT50,226,23,1200,10,NULL,2022-06-09
