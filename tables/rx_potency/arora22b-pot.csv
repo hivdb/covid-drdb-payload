@@ -32,26 +32,26 @@ Arora22b,Bamlanivimab/Etesevimab,BA.2 Spike,Supplementary Table 1,Pseudovirus (V
 Arora22b,Cilgavimab,BA.2 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,52.02,1,10000,1,ng/ml,2022-05-24
 Arora22b,Tixagevimab,BA.2 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,987,1,10000,1,ng/ml,2022-05-24
 Arora22b,Cilgavimab/Tixagevimab,BA.2 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,56.39,1,10000,1,ng/ml,2022-05-24
-Arora22b,Regdanvimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
-Arora22b,Sotrovimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,1316,1,10000,1,ng/ml,2022-05-24
-Arora22b,Casirivimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,3475,1,10000,1,ng/ml,2022-05-24
-Arora22b,Imdevimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
-Arora22b,Casirivimab/Imdevimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,5092,1,10000,1,ng/ml,2022-05-24
-Arora22b,Bamlanivimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
-Arora22b,Etesevimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
-Arora22b,Bamlanivimab/Etesevimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
-Arora22b,Cilgavimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,89.45,1,10000,1,ng/ml,2022-05-24
-Arora22b,Tixagevimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,1809,1,10000,1,ng/ml,2022-05-24
-Arora22b,Cilgavimab/Tixagevimab,BA.3 Spike:+417N,Supplementary Table 1,Pseudovirus (VSV),IC50,94.79,1,10000,1,ng/ml,2022-05-24
+Arora22b,Regdanvimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
+Arora22b,Sotrovimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,1316,1,10000,1,ng/ml,2022-05-24
+Arora22b,Casirivimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,3475,1,10000,1,ng/ml,2022-05-24
+Arora22b,Imdevimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
+Arora22b,Casirivimab/Imdevimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,5092,1,10000,1,ng/ml,2022-05-24
+Arora22b,Bamlanivimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
+Arora22b,Etesevimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
+Arora22b,Bamlanivimab/Etesevimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-05-24
+Arora22b,Cilgavimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,89.45,1,10000,1,ng/ml,2022-05-24
+Arora22b,Tixagevimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,1809,1,10000,1,ng/ml,2022-05-24
+Arora22b,Cilgavimab/Tixagevimab,BA.3 Spike,Supplementary Table 1,Pseudovirus (VSV),IC50,94.79,1,10000,1,ng/ml,2022-05-24
 Arora22b,BNT_3dose,S:614G,Figure 3A,Pseudovirus (VSV),NT50,1135,15,1000000,50,NULL,2022-05-24
 Arora22b,BNT_3dose,BA.1 Spike,Figure 3A,Pseudovirus (VSV),NT50,195,15,1000000,50,NULL,2022-05-24
 Arora22b,BNT_3dose,BA.2 Spike,Figure 3A,Pseudovirus (VSV),NT50,263,15,1000000,50,NULL,2022-05-24
-Arora22b,BNT_3dose,BA.3 Spike:+417N,Figure 3A,Pseudovirus (VSV),NT50,270,15,1000000,50,NULL,2022-05-24
+Arora22b,BNT_3dose,BA.3 Spike,Figure 3A,Pseudovirus (VSV),NT50,270,15,1000000,50,NULL,2022-05-24
 Arora22b,AZ_2_BNT_1dose,S:614G,Figure 3B,Pseudovirus (VSV),NT50,7407,15,1000000,50,NULL,2022-05-24
 Arora22b,AZ_2_BNT_1dose,BA.1 Spike,Figure 3B,Pseudovirus (VSV),NT50,1204,15,1000000,50,NULL,2022-05-24
 Arora22b,AZ_2_BNT_1dose,BA.2 Spike,Figure 3B,Pseudovirus (VSV),NT50,1297,15,1000000,50,NULL,2022-05-24
-Arora22b,AZ_2_BNT_1dose,BA.3 Spike:+417N,Figure 3B,Pseudovirus (VSV),NT50,1097,15,1000000,50,NULL,2022-05-24
+Arora22b,AZ_2_BNT_1dose,BA.3 Spike,Figure 3B,Pseudovirus (VSV),NT50,1097,15,1000000,50,NULL,2022-05-24
 Arora22b,AZ_1_BNT_2dose,S:614G,Figure 3C,Pseudovirus (VSV),NT50,7037,15,1000000,50,NULL,2022-05-24
 Arora22b,AZ_1_BNT_2dose,BA.1 Spike,Figure 3C,Pseudovirus (VSV),NT50,1217,15,1000000,50,NULL,2022-05-24
 Arora22b,AZ_1_BNT_2dose,BA.2 Spike,Figure 3C,Pseudovirus (VSV),NT50,1287,15,1000000,50,NULL,2022-05-24
-Arora22b,AZ_1_BNT_2dose,BA.3 Spike:+417N,Figure 3C,Pseudovirus (VSV),NT50,1266,15,1000000,50,NULL,2022-05-24
+Arora22b,AZ_1_BNT_2dose,BA.3 Spike,Figure 3C,Pseudovirus (VSV),NT50,1266,15,1000000,50,NULL,2022-05-24
