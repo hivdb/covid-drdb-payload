@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Wratil22,CP_prior_to_1dose_04,hCoV-19/Germany/BY-MVP-000006057/2021,Source Data Figure 1,Virus isolate,IC50,91.01,1,1000000,10,ng/ml,2022-06-10
 Wratil22,CP_1dose_2wk_04,hCoV-19/Germany/BY-MVP-000006057/2021,Source Data Figure 1,Virus isolate,IC50,2221.00,1,1000000,10,ng/ml,2022-06-10
 Wratil22,CP_2dose_4mo_04,hCoV-19/Germany/BY-MVP-000006057/2021,Source Data Figure 1,Virus isolate,IC50,340.86,1,1000000,10,ng/ml,2022-06-10

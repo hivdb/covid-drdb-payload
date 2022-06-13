@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Wratil22,CP_04,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
 Wratil22,CP_07,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
 Wratil22,CP_09,~,2020-04-15,B.1,Germany,NULL,NULL,NULL

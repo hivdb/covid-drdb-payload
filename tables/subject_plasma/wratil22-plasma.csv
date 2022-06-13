@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Wratil22,CP_04,CP_prior_to_1dose_04,~,2021-01-01,Germany,CP_04,NULL
 Wratil22,CP_04,CP_1dose_2wk_04,~,2021-01-15,Germany,CP_04,NULL
 Wratil22,CP_04,CP_2dose_4mo_04,~,2021-05-01,Germany,CP_04,NULL
