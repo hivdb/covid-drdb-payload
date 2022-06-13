@@ -1,0 +1,296 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Westendorf22,LY-CoV1404,WA1,Table 2,Virus isolate,IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404,WA1,Table 2,Virus isolate,IC90,17,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC50,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404,SARS-CoV-2/human/ITA/INMI1/2020,Table 2,Virus isolate,IC90,142,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404,hCoV-19/Netherlands/Diemen_1363454/2020,Table 2,Virus isolate,IC50,5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404,hCoV-19/Netherlands/Diemen_1363454/2020,Table 2,Virus isolate,IC90,38,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,WA1,Table 3A,Virus isolate,IC50,11,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,WA1,Table 3A,Virus isolate,IC90,108,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,hCoV-19/England/204820464/2020,Table 3A,Virus isolate,IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,hCoV-19/England/204820464/2020,Table 3A,Virus isolate,IC90,44,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,hCoV-19/USA/MD-HP01542/2021,Table 3A,Virus isolate,IC50,7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,hCoV-19/USA/MD-HP01542/2021,Table 3A,Virus isolate,IC90,45,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,B.1.617.2 full genome,Table 3A,Virus isolate,IC50,8,1,10000,0.6,ng/ml,2022-04-18
+Westendorf22,LY-CoV1404_T3A,B.1.617.2 full genome,Table 3A,Virus isolate,IC90,35,1,10000,0.6,ng/ml,2022-04-18
+Westendorf22,LY-CoV1404_T3A,WA1,Table 3A,SARS-CoV-2 recombinant,IC50,15,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,WA1,Table 3A,SARS-CoV-2 recombinant,IC90,56,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,S:484K,Table 3A,SARS-CoV-2 recombinant,IC50,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,S:484K,Table 3A,SARS-CoV-2 recombinant,IC90,47,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,S:484Q,Table 3A,SARS-CoV-2 recombinant,IC50,14,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,S:484Q,Table 3A,SARS-CoV-2 recombinant,IC90,67,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,S:452R,Table 3A,SARS-CoV-2 recombinant,IC50,8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,S:452R,Table 3A,SARS-CoV-2 recombinant,IC90,52,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3A,Omicron/BA.1 full genome,Table 3A,Virus isolate,IC50,16,1,10000,0.6,ng/ml,2022-06-10
+Westendorf22,LY-CoV1404_T3A,Omicron/BA.1 full genome,Table 3A,Virus isolate,IC90,49,1,10000,0.6,ng/ml,2022-06-10
+Westendorf22,LY-CoV1404_T3B,WA1,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,WA1,Table 3B,Pseudovirus (VSV),IC90,24,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,WA1,Table 3B,Pseudovirus (lentivirus),IC50,5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,WA1,Table 3B,Pseudovirus (lentivirus),IC90,21,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:614G,Table 3B,Pseudovirus (lentivirus),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:614G,Table 3B,Pseudovirus (lentivirus),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.1.7 Spike,Table 3B,Pseudovirus (VSV),IC50,1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.1.7 Spike,Table 3B,Pseudovirus (VSV),IC90,9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.1.7 Spike,Table 3B,Pseudovirus (lentivirus),IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.1.7 Spike,Table 3B,Pseudovirus (lentivirus),IC90,11,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:501Y,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:501Y,Table 3B,Pseudovirus (VSV),IC90,7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:501Y,Table 3B,Pseudovirus (lentivirus),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:501Y,Table 3B,Pseudovirus (lentivirus),IC90,9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+501Y,Table 3B,Pseudovirus (VSV),IC50,1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+501Y,Table 3B,Pseudovirus (VSV),IC90,16,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del,Table 3B,Pseudovirus (VSV),IC90,11,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+144del+494P+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+144del+494P+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (VSV),IC90,14,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+494P+501Y,Table 3B,Pseudovirus (VSV),IC50,5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+494P+501Y,Table 3B,Pseudovirus (VSV),IC90,31,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:494P,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:494P,Table 3B,Pseudovirus (VSV),IC90,34,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:494R,Table 3B,Pseudovirus (lentivirus),IC50,6,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:494R,Table 3B,Pseudovirus (lentivirus),IC90,37,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+145del+484K+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+145del+484K+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (VSV),IC90,11,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+145del+484K+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (lentivirus),IC50,8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+145del+484K+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (lentivirus),IC90,22,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:484K+501Y,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:484K+501Y,Table 3B,Pseudovirus (VSV),IC90,12,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:484K+614G,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:484K+614G,Table 3B,Pseudovirus (VSV),IC90,21,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:484K+614G,Table 3B,Pseudovirus (lentivirus),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:484K+614G,Table 3B,Pseudovirus (lentivirus),IC90,11,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+145del+452R+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+145del+452R+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (VSV),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452R+501Y,Table 3B,Pseudovirus (VSV),IC50,0.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452R+501Y,Table 3B,Pseudovirus (VSV),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452R,Table 3B,Pseudovirus (VSV),IC50,0.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452R,Table 3B,Pseudovirus (VSV),IC90,12,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452R,Table 3B,Pseudovirus (lentivirus),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452R,Table 3B,Pseudovirus (lentivirus),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+144del+490S+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+144del+490S+501Y+570D+614G+681H+716I+982A+1118H,Table 3B,Pseudovirus (VSV),IC90,13,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:490S+501Y,Table 3B,Pseudovirus (VSV),IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:490S+501Y,Table 3B,Pseudovirus (VSV),IC90,16,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:490S,Table 3B,Pseudovirus (VSV),IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:490L,Table 3B,Pseudovirus (lentivirus),IC50,5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:490L,Table 3B,Pseudovirus (lentivirus),IC90,19,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.351 Spike,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.351 Spike,Table 3B,Pseudovirus (VSV),IC90,9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.351 Spike,Table 3B,Pseudovirus (lentivirus),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.351 Spike,Table 3B,Pseudovirus (lentivirus),IC90,9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417N+484K+501Y+614G,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417N+484K+501Y+614G,Table 3B,Pseudovirus (VSV),IC90,21,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417N+484K+501Y+614G,Table 3B,Pseudovirus (lentivirus),IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417N+484K+501Y+614G,Table 3B,Pseudovirus (lentivirus),IC90,13,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417N+614G,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417N+614G,Table 3B,Pseudovirus (VSV),IC90,22,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417N+614G,Table 3B,Pseudovirus (lentivirus),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417N+614G,Table 3B,Pseudovirus (lentivirus),IC90,8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,P.1 Spike,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,P.1 Spike,Table 3B,Pseudovirus (VSV),IC90,9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,P.1 Spike,Table 3B,Pseudovirus (lentivirus),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,P.1 Spike,Table 3B,Pseudovirus (lentivirus),IC90,6,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417T+484K+501Y,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417T+484K+501Y,Table 3B,Pseudovirus (VSV),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:417T,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-06-10
+Westendorf22,LY-CoV1404_T3B,S:417T,Table 3B,Pseudovirus (VSV),IC90,11,1,10000,0.6,ng/ml,2022-06-10
+Westendorf22,LY-CoV1404_T3B,B.1.427/9 Spike,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.427/9 Spike,Table 3B,Pseudovirus (VSV),IC90,12,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.427/9 Spike,Table 3B,Pseudovirus (lentivirus),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.427/9 Spike,Table 3B,Pseudovirus (lentivirus),IC90,7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.617.1 Spike,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.617.1 Spike,Table 3B,Pseudovirus (VSV),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452R+484Q,Table 3B,Pseudovirus (VSV),IC50,5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452R+484Q,Table 3B,Pseudovirus (VSV),IC90,27,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:484Q,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:484Q,Table 3B,Pseudovirus (VSV),IC90,9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.617.2 Spike,Table 3B,Pseudovirus (VSV),IC50,1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.617.2 Spike,Table 3B,Pseudovirus (VSV),IC90,7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:19R+95I+142D+156G+157del+158del+452R+478K+614G+681R+950N,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:19R+95I+142D+156G+157del+158del+452R+478K+614G+681R+950N,Table 3B,Pseudovirus (VSV),IC90,11,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:19R+142D+144del+156G+157del+158del+222V+452R+478K+614G+681R+950N,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:19R+142D+144del+156G+157del+158del+222V+452R+478K+614G+681R+950N,Table 3B,Pseudovirus (VSV),IC90,11,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:478K,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:478K,Table 3B,Pseudovirus (VSV),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.526/E484K Spike,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.526/E484K Spike,Table 3B,Pseudovirus (VSV),IC90,13,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.526/E484K Spike,Table 3B,Pseudovirus (lentivirus),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.526/E484K Spike,Table 3B,Pseudovirus (lentivirus),IC90,5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:152L+484K+614G+769V,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:152L+484K+614G+769V,Table 3B,Pseudovirus (VSV),IC90,12,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.1.519 Spike,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.1.519 Spike,Table 3B,Pseudovirus (VSV),IC90,13,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.1.529 Spike,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,B.1.1.529 Spike,Table 3B,Pseudovirus (VSV),IC90,13,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,BA.2 Spike,Table 3B,Pseudovirus (VSV),IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,BA.2 Spike,Table 3B,Pseudovirus (VSV),IC90,23,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:477N,Table 3B,Pseudovirus (VSV),IC50,5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:477N,Table 3B,Pseudovirus (VSV),IC90,26,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:346S+452R,Table 3B,Pseudovirus (VSV),IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:346S+452R,Table 3B,Pseudovirus (VSV),IC90,18,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:346S,Table 3B,Pseudovirus (VSV),IC50,1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:346S,Table 3B,Pseudovirus (VSV),IC90,9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+439K,Table 3B,Pseudovirus (VSV),IC50,0.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:69del+70del+439K,Table 3B,Pseudovirus (VSV),IC90,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:439K+614G,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:439K+614G,Table 3B,Pseudovirus (VSV),IC90,7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:439K+614G,Table 3B,Pseudovirus (lentivirus),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:439K+614G,Table 3B,Pseudovirus (lentivirus),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:453F+614G,Table 3B,Pseudovirus (VSV),IC50,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:453F+614G,Table 3B,Pseudovirus (VSV),IC90,21,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:453F+614G,Table 3B,Pseudovirus (lentivirus),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:453F+614G,Table 3B,Pseudovirus (lentivirus),IC90,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:677H,Table 3B,Pseudovirus (VSV),IC50,6,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:677H,Table 3B,Pseudovirus (VSV),IC90,28,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:614G+677H,Table 3B,Pseudovirus (VSV),IC50,5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:614G+677H,Table 3B,Pseudovirus (VSV),IC90,20,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:677P,Table 3B,Pseudovirus (VSV),IC50,0.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:677P,Table 3B,Pseudovirus (VSV),IC90,7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:614G+677P,Table 3B,Pseudovirus (VSV),IC50,0.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:614G+677P,Table 3B,Pseudovirus (VSV),IC90,4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:415I,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:415I,Table 3B,Pseudovirus (VSV),IC90,36,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452M,Table 3B,Pseudovirus (VSV),IC50,0.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452M,Table 3B,Pseudovirus (VSV),IC90,6,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452Q,Table 3B,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452Q,Table 3B,Pseudovirus (VSV),IC90,18,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452W,Table 3B,Pseudovirus (VSV),IC50,0.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:452W,Table 3B,Pseudovirus (VSV),IC90,14,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:455M,Table 3B,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:455M,Table 3B,Pseudovirus (VSV),IC90,17,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:486R,Table 3B,Pseudovirus (lentivirus),IC50,14,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:486R,Table 3B,Pseudovirus (lentivirus),IC90,45,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:487R,Table 3B,Pseudovirus (lentivirus),IC50,1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3B,S:487R,Table 3B,Pseudovirus (lentivirus),IC90,11,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-COV555,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-COV555,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-COV555,S:614G,Table 3D,Pseudovirus (VSV),IC50,3.4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-COV555,S:614G,Table 3D,Pseudovirus (VSV),IC80,10.5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,CB6,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,CB6,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,CB6,S:614G,Table 3D,Pseudovirus (VSV),IC50,31,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,CB6,S:614G,Table 3D,Pseudovirus (VSV),IC80,83.1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10933,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10933,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10933,S:614G,Table 3D,Pseudovirus (VSV),IC50,5.2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10933,S:614G,Table 3D,Pseudovirus (VSV),IC80,15.7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10987,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10987,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10987,S:614G,Table 3D,Pseudovirus (VSV),IC50,20,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10987,S:614G,Table 3D,Pseudovirus (VSV),IC80,412.2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2196,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,88.3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2196,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,316,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2196,S:614G,Table 3D,Pseudovirus (VSV),IC50,2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2196,S:614G,Table 3D,Pseudovirus (VSV),IC80,3.2,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2130,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,6538.8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2130,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2130,S:614G,Table 3D,Pseudovirus (VSV),IC50,3.7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2130,S:614G,Table 3D,Pseudovirus (VSV),IC80,10.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C144,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C144,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C144,S:614G,Table 3D,Pseudovirus (VSV),IC50,4.1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C144,S:614G,Table 3D,Pseudovirus (VSV),IC80,9.8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C135,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C135,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C135,S:614G,Table 3D,Pseudovirus (VSV),IC50,10.8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C135,S:614G,Table 3D,Pseudovirus (VSV),IC80,64.3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,ADG2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,2083.3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,ADG2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,ADG2,S:614G,Table 3D,Pseudovirus (VSV),IC50,5.1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,ADG2,S:614G,Table 3D,Pseudovirus (VSV),IC80,14.7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,S309,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,284.4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,S309,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,1788.8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,S309,S:614G,Table 3D,Pseudovirus (VSV),IC50,19.5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,S309,S:614G,Table 3D,Pseudovirus (VSV),IC80,130.5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3D,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,1.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3D,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,8.8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3D,S:614G,Table 3D,Pseudovirus (VSV),IC50,2.7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3D,S:614G,Table 3D,Pseudovirus (VSV),IC80,7.5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV555_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV555_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV555_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,3.7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV555_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,9.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV016_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV016_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV016_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,28,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV016_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,129.4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10933_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10933_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10933_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,7.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10933_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,18.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10987_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10987_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10987_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,22.1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,REGN10987_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,119.3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2196_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,268.9,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2196_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,899.8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2196_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,1.1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2196_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2130_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,5849.5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2130_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2130_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,4.7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,COV2-2130_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,10.3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,CT-P59_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,CT-P59_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,CT-P59_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,1.5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,CT-P59_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,4.6,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C144_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C144_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C144_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,3.7,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C144_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C135_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C135_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C135_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,10,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,C135_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,10000,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,ADG2_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,2037.3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,ADG2_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,8113,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,ADG2_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,5.8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,ADG2_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,17.5,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,S309_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,281.4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,S309_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,1336.1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,S309_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,55.6,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,S309_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,388,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3D_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC50,5.1,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3D_2,B.1.1.529 Spike,Table 3D,Pseudovirus (VSV),IC80,14.4,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3D_2,S:614G,Table 3D,Pseudovirus (VSV),IC50,3,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T3D_2,S:614G,Table 3D,Pseudovirus (VSV),IC80,5.8,1,10000,0.6,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,WA1,Table 4A,Pseudovirus (VSV),IC50,3,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:346K,Table 4A,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:439K,Table 4A,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:440D,Table 4A,Pseudovirus (VSV),IC50,6,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:440K,Table 4A,Pseudovirus (VSV),IC50,1,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:444Q,Table 4A,Pseudovirus (VSV),IC50,250,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:445A,Table 4A,Pseudovirus (VSV),IC50,250,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:446S,Table 4A,Pseudovirus (VSV),IC50,6,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:446V,Table 4A,Pseudovirus (VSV),IC50,6,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:450K,Table 4A,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:498R,Table 4A,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:499R,Table 4A,Pseudovirus (VSV),IC50,250,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:499S,Table 4A,Pseudovirus (VSV),IC50,150,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T5,S:501Y,Table 4A,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,WA1,Table 4B,Pseudovirus (VSV),IC50,3,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:417E,Table 4B,Pseudovirus (VSV),IC50,4,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:417N,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:417T,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:420N,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:440D,Table 4B,Pseudovirus (VSV),IC50,5,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:444Q,Table 4B,Pseudovirus (VSV),IC50,250,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:445A,Table 4B,Pseudovirus (VSV),IC50,250,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:446V,Table 4B,Pseudovirus (VSV),IC50,13,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:452R,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:453F,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:460K,Table 4B,Pseudovirus (VSV),IC50,4,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:460S,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:476S,Table 4B,Pseudovirus (VSV),IC50,5,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:477N,Table 4B,Pseudovirus (VSV),IC50,5,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:483A,Table 4B,Pseudovirus (VSV),IC50,1,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:484D,Table 4B,Pseudovirus (VSV),IC50,3,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:484K,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:484Q,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:486I,Table 4B,Pseudovirus (VSV),IC50,5,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:486V,Table 4B,Pseudovirus (VSV),IC50,3,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:489H,Table 4B,Pseudovirus (VSV),IC50,6,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:490S,Table 4B,Pseudovirus (VSV),IC50,6,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:493K,Table 4B,Pseudovirus (VSV),IC50,3,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:493R,Table 4B,Pseudovirus (VSV),IC50,2,1,250,1,ng/ml,2022-01-20
+Westendorf22,LY-CoV1404_T6,S:494P,Table 4B,Pseudovirus (VSV),IC50,1,1,250,1,ng/ml,2022-01-20
