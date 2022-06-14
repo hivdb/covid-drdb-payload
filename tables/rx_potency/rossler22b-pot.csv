@@ -1,0 +1,19 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Rossler22b,CP_Omicron,hCoV-19/Italy/TAA-MUIV-0135/2020,Table S1,Virus isolate,NT50,4.7,18,16384,16,NULL,2022-06-14
+Rossler22b,CP_Omicron,hCoV-19/Austria/MUIV-0140/2021,Table S1,Virus isolate,NT50,4.3,18,16384,16,NULL,2022-06-14
+Rossler22b,CP_Omicron,hCoV-19/Austria/MUIV-0002/2021,Table S1,Virus isolate,NT50,8.1,18,16384,16,NULL,2022-06-14
+Rossler22b,CP_Omicron,hCoV-19/Germany/BY-MVP-000005870/2021,Table S1,Virus isolate,NT50,5.3,18,16384,16,NULL,2022-06-14
+Rossler22b,CP_Omicron,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Table S1,Virus isolate,NT50,19.7,18,16384,16,NULL,2022-06-14
+Rossler22b,CP_Omicron,hCoV-19/Austria/MUIV-0231/2021,Table S1,Virus isolate,NT50,79.5,18,16384,16,NULL,2022-06-14
+Rossler22b,CP_WT_Omicron,hCoV-19/Italy/TAA-MUIV-0135/2020,Figure S2C,Virus isolate,NT50,1332,5,16384,16,NULL,2022-06-14
+Rossler22b,CP_WT_Omicron,hCoV-19/Austria/MUIV-0140/2021,Figure S2C,Virus isolate,NT50,1790,5,16384,16,NULL,2022-06-14
+Rossler22b,CP_WT_Omicron,hCoV-19/Austria/MUIV-0002/2021,Figure S2C,Virus isolate,NT50,1562,5,16384,16,NULL,2022-06-14
+Rossler22b,CP_WT_Omicron,hCoV-19/Germany/BY-MVP-000005870/2021,Figure S2C,Virus isolate,NT50,1654,5,16384,16,NULL,2022-06-14
+Rossler22b,CP_WT_Omicron,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Figure S2C,Virus isolate,NT50,2373,5,16384,16,NULL,2022-06-14
+Rossler22b,CP_WT_Omicron,hCoV-19/Austria/MUIV-0231/2021,Figure S2C,Virus isolate,NT50,573,5,16384,16,NULL,2022-06-14
+Rossler22b,CP_Delta_Omicron,hCoV-19/Italy/TAA-MUIV-0135/2020,Figure S2D,Virus isolate,NT50,271,9,16384,16,NULL,2022-06-14
+Rossler22b,CP_Delta_Omicron,hCoV-19/Austria/MUIV-0140/2021,Figure S2D,Virus isolate,NT50,328,9,16384,16,NULL,2022-06-14
+Rossler22b,CP_Delta_Omicron,hCoV-19/Austria/MUIV-0002/2021,Figure S2D,Virus isolate,NT50,266,9,16384,16,NULL,2022-06-14
+Rossler22b,CP_Delta_Omicron,hCoV-19/Germany/BY-MVP-000005870/2021,Figure S2D,Virus isolate,NT50,315,9,16384,16,NULL,2022-06-14
+Rossler22b,CP_Delta_Omicron,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Figure S2D,Virus isolate,NT50,1646,9,16384,16,NULL,2022-06-14
+Rossler22b,CP_Delta_Omicron,hCoV-19/Austria/MUIV-0231/2021,Figure S2D,Virus isolate,NT50,700,9,16384,16,NULL,2022-06-14

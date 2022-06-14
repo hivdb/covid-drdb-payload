@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chen22d,CoronaVac_2dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,42.3,77,100000,20,NULL,2022-06-13
+Chen22d,CoronaVac_2dose,B.1.617.2 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,19.6,77,100000,20,NULL,2022-06-13
+Chen22d,CoronaVac_2dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,16.1,77,100000,20,NULL,2022-06-13
+Chen22d,CoronaVac_3dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,172.9,77,100000,20,NULL,2022-06-13
+Chen22d,CoronaVac_3dose,B.1.617.2 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,64.8,77,100000,20,NULL,2022-06-13
+Chen22d,CoronaVac_3dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,33.8,77,100000,20,NULL,2022-06-13
+Chen22d,CoronaVac_2dose_BTI,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,3581,10,100000,20,NULL,2022-06-13
+Chen22d,CoronaVac_2dose_BTI,B.1.617.2 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,664,10,100000,20,NULL,2022-06-13
+Chen22d,CoronaVac_2dose_BTI,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,289.5,10,100000,20,NULL,2022-06-13

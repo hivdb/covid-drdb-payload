@@ -1,0 +1,22 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Rossler22c,CP_WT,CP_WT,~,2020-08-15,Australia,CP_WT,Table S1
+Rossler22c,CP_WT,CP_WT_F1B,~,2020-08-15,Australia,CP_WT,Table S1
+Rossler22c,CP_Alpha,CP_Alpha,~,2021-01-15,Australia,CP_Alpha,Table S1
+Rossler22c,CP_Beta,CP_Beta,~,2021-01-15,Australia,CP_Beta,Table S1
+Rossler22c,CP_Delta,CP_Delta,~,2021-07-15,Australia,CP_Delta,Table S1
+Rossler22c,CP_BA.1,CP_BA.1,~,2022-01-15,Australia,CP_BA.1,Table S1
+Rossler22c,CP_BA.2,CP_BA.2,~,2022-03-15,Australia,CP_BA.2,Table S1
+Rossler22c,CP_BA.2,CP_BA.2_F1A,~,2022-03-15,Australia,CP_BA.2,Table S1
+Rossler22c,CP_BA.1_reinf,CP_BA.1_reinf,~,2022-01-15,Australia,CP_BA.1_reinf,Table S1
+Rossler22c,CP_BA.2_reinf,CP_BA.2_reinf,~,2022-03-15,Australia,CP_BA.2_reinf,Table S1
+Rossler22c,MOD_2dose,MOD_2dose,~,2021-04-15,Australia,MOD_2dose,Table S1
+Rossler22c,AZD_2dose,AZD_2dose,~,2021-04-15,Australia,AZD_2dose,Table S1
+Rossler22c,AZD_BNT,AZD_BNT,~,2021-04-15,Australia,AZD_BNT,Table S1
+Rossler22c,BNT_2dose,BNT_2dose,~,2021-04-15,Australia,BNT_2dose,Table S1
+Rossler22c,VP_2dose_BTI_BA.1,VP_2dose_BTI_BA.1,~,2022-01-15,Australia,VP_2dose_BTI_BA.1,Table S1
+Rossler22c,VP_2dose_BTI_BA.2,VP_2dose_BTI_BA.2,~,2022-03-15,Australia,VP_2dose_BTI_BA.2,Table S1
+Rossler22c,VP_2dose_BTI_BA.1_reinf,VP_2dose_BTI_BA.1_reinf,~,2022-01-15,Australia,VP_2dose_BTI_BA.1_reinf,Table S1
+Rossler22c,AZD_2dose_BTI_Delta,AZD_2dose_BTI_Delta,~,2021-07-15,Australia,AZD_2dose_BTI_Delta,Table S1
+Rossler22c,AZD_2dose_BTI_Delta,AZD_2dose_BTI_Delta_F1C,~,2021-07-15,Australia,AZD_2dose_BTI_Delta,Table S1
+Rossler22c,BNT_2dose_BTI_Delta,BNT_2dose_BTI_Delta,~,2021-07-15,Australia,BNT_2dose_BTI_Delta,Table S1
+Rossler22c,BNT_2dose_BTI_Delta,BNT_2dose_BTI_Delta_F1D,~,2021-07-15,Australia,BNT_2dose_BTI_Delta,Table S1

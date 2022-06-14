@@ -1,0 +1,43 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Evans22b,mRNA_2dose,S:614G,Figure S2A,Pseudovirus (lentivirus),NT50,1323,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_2dose,BA.1 Spike,Figure S2A,Pseudovirus (lentivirus),NT50,25,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_2dose,BA.2 Spike,Figure S2A,Pseudovirus (lentivirus),NT50,63,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_2dose,BA.3 Spike_Evans22b,Figure S2A,Pseudovirus (lentivirus),NT50,399,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_2dose,Deltacron_Evans22b,Figure S2A,Pseudovirus (lentivirus),NT50,36,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_2dose,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure S2A,Pseudovirus (lentivirus),NT50,505,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_3dose,S:614G,Figure S2C,Pseudovirus (lentivirus),NT50,5505,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_3dose,BA.1 Spike,Figure S2C,Pseudovirus (lentivirus),NT50,1080,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_3dose,BA.2 Spike,Figure S2C,Pseudovirus (lentivirus),NT50,1247,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_3dose,BA.3 Spike_Evans22b,Figure S2C,Pseudovirus (lentivirus),NT50,1892,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_3dose,Deltacron_Evans22b,Figure S2C,Pseudovirus (lentivirus),NT50,413,10,100000,80,NULL,2022-06-14
+Evans22b,mRNA_3dose,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure S2C,Pseudovirus (lentivirus),NT50,2947,10,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_CP,S:614G,Figure S3C,Pseudovirus (lentivirus),NT50,1845,12,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_CP,BA.1 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,19,12,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_CP,BA.2 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,8,12,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_CP,BA.3 Spike_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,5757,12,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_CP,Deltacron_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,26,12,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_CP,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure S3C,Pseudovirus (lentivirus),NT50,10013,12,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_VP,S:614G,Figure S3C,Pseudovirus (lentivirus),NT50,38900,6,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_VP,BA.1 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,110,6,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_VP,BA.2 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,426,6,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_VP,BA.3 Spike_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,14602,6,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_VP,Deltacron_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,77,6,100000,80,NULL,2022-06-14
+Evans22b,Delta_wave_ICU_VP,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure S3C,Pseudovirus (lentivirus),NT50,2091,6,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_CP,S:614G,Figure S3C,Pseudovirus (lentivirus),NT50,167,15,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_CP,BA.1 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,162,15,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_CP,BA.2 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,102,15,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_CP,BA.3 Spike_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,193,15,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_CP,Deltacron_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,178,15,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_CP,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure S3C,Pseudovirus (lentivirus),NT50,69,15,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP,S:614G,Figure S3C,Pseudovirus (lentivirus),NT50,100,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP,BA.1 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,224,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP,BA.2 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,330,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP,BA.3 Spike_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,104,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP,Deltacron_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,68,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure S3C,Pseudovirus (lentivirus),NT50,89,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,S:614G,Figure S3C,Pseudovirus (lentivirus),NT50,1148,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,BA.1 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,288,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,BA.2 Spike,Figure S3C,Pseudovirus (lentivirus),NT50,231,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,BA.3 Spike_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,420,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,Deltacron_Evans22b,Figure S3C,Pseudovirus (lentivirus),NT50,289,8,100000,80,NULL,2022-06-14
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure S3C,Pseudovirus (lentivirus),NT50,156,8,100000,80,NULL,2022-06-14

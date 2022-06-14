@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Rossler22b,CP_Omicron,~,2022-02-14,Omicron/BA.1,Australia,NULL,Mild,Table S1
+Rossler22b,CP_WT_Omicron,~,2020-12-31,B.1,Australia,NULL,Mild,Table S1
+Rossler22b,CP_WT_Omicron,~,2022-02-01,Omicron/BA.1,Australia,NULL,Mild,Table S1
+Rossler22b,CP_Delta_Omicron,~,2021-07-01,Delta,Australia,NULL,Mild,Table S1
+Rossler22b,CP_Delta_Omicron,~,2022-02-01,Omicron/BA.1,Australia,NULL,Mild,Table S1

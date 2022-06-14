@@ -1,0 +1,59 @@
+﻿iso_name,gene,position,amino_acid,count,total
+BA.3 Spike_Evans22b,S,67,V,NULL,NULL
+BA.3 Spike_Evans22b,S,69,del,NULL,NULL
+BA.3 Spike_Evans22b,S,70,del,NULL,NULL
+BA.3 Spike_Evans22b,S,95,I,NULL,NULL
+BA.3 Spike_Evans22b,S,142,D,NULL,NULL
+BA.3 Spike_Evans22b,S,143,del,NULL,NULL
+BA.3 Spike_Evans22b,S,144,del,NULL,NULL
+BA.3 Spike_Evans22b,S,145,del,NULL,NULL
+BA.3 Spike_Evans22b,S,211,I,NULL,NULL
+BA.3 Spike_Evans22b,S,212,del,NULL,NULL
+BA.3 Spike_Evans22b,S,214,ins,NULL,NULL
+BA.3 Spike_Evans22b,S,478,K,NULL,NULL
+BA.3 Spike_Evans22b,S,484,A,NULL,NULL
+BA.3 Spike_Evans22b,S,493,R,NULL,NULL
+BA.3 Spike_Evans22b,S,614,G,NULL,NULL
+BA.3 Spike_Evans22b,S,655,Y,NULL,NULL
+BA.3 Spike_Evans22b,S,679,K,NULL,NULL
+BA.3 Spike_Evans22b,S,681,H,NULL,NULL
+BA.3 Spike_Evans22b,S,764,K,NULL,NULL
+BA.3 Spike_Evans22b,S,796,Y,NULL,NULL
+BA.3 Spike_Evans22b,S,954,H,NULL,NULL
+BA.3 Spike_Evans22b,S,969,K,NULL,NULL
+Deltacron_Evans22b,S,19,R,NULL,NULL
+Deltacron_Evans22b,S,27,S,NULL,NULL
+Deltacron_Evans22b,S,95,I,NULL,NULL
+Deltacron_Evans22b,S,142,D,NULL,NULL
+Deltacron_Evans22b,S,156,G,NULL,NULL
+Deltacron_Evans22b,S,157,del,NULL,NULL
+Deltacron_Evans22b,S,158,del,NULL,NULL
+Deltacron_Evans22b,S,211,del,NULL,NULL
+Deltacron_Evans22b,S,212,I,NULL,NULL
+Deltacron_Evans22b,S,214,ins,NULL,NULL
+Deltacron_Evans22b,S,339,D,NULL,NULL
+Deltacron_Evans22b,S,371,L,NULL,NULL
+Deltacron_Evans22b,S,373,P,NULL,NULL
+Deltacron_Evans22b,S,375,F,NULL,NULL
+Deltacron_Evans22b,S,417,N,NULL,NULL
+Deltacron_Evans22b,S,440,K,NULL,NULL
+Deltacron_Evans22b,S,446,S,NULL,NULL
+Deltacron_Evans22b,S,477,N,NULL,NULL
+Deltacron_Evans22b,S,478,K,NULL,NULL
+Deltacron_Evans22b,S,484,A,NULL,NULL
+Deltacron_Evans22b,S,493,R,NULL,NULL
+Deltacron_Evans22b,S,496,S,NULL,NULL
+Deltacron_Evans22b,S,498,R,NULL,NULL
+Deltacron_Evans22b,S,501,Y,NULL,NULL
+Deltacron_Evans22b,S,505,H,NULL,NULL
+Deltacron_Evans22b,S,547,K,NULL,NULL
+Deltacron_Evans22b,S,614,G,NULL,NULL
+Deltacron_Evans22b,S,655,Y,NULL,NULL
+Deltacron_Evans22b,S,679,K,NULL,NULL
+Deltacron_Evans22b,S,681,H,NULL,NULL
+Deltacron_Evans22b,S,764,K,NULL,NULL
+Deltacron_Evans22b,S,796,Y,NULL,NULL
+Deltacron_Evans22b,S,856,K,NULL,NULL
+Deltacron_Evans22b,S,954,H,NULL,NULL
+Deltacron_Evans22b,S,969,K,NULL,NULL
+Deltacron_Evans22b,S,981,F,NULL,NULL

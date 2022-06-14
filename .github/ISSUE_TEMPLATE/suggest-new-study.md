@@ -1,8 +1,7 @@
 ---
 name: Suggest new study
 about: Suggest a new study
-title: "[New]"
-labels: enhancement
+title: "[author surname][year] - [DOI]"
 
 ---
 
