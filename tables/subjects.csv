@@ -285,6 +285,8 @@ Chen22c,3dose,Human,NULL,21
 Chen22c,BA2_CP,Human,NULL,10
 Chen22c,PreVOC_CP,Human,NULL,9
 Chen22c,PreVOC_CP_1dose,Human,NULL,15
+Chen22d,CoronaVac_2dose_BTI,Human,1976,10
+Chen22d,CoronaVac_VP,Human,1986,77
 Cheng22,BNT162b2_2_doses,Human,NULL,31
 Cheng22,BNT162b2_3_doses,Human,NULL,25
 Cheng22,CP,Human,NULL,30
