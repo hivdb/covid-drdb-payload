@@ -2079,6 +2079,9 @@ Rossler22,BNT162b2_2dose,Human,NULL,20
 Rossler22,Conv_VP,Human,NULL,5
 Rossler22,Vacc_CP,Human,NULL,5
 Rossler22,mRNA-1273_2dose,Human,NULL,10
+Rossler22b,CP_Delta_Omicron,Human,1986,9
+Rossler22b,CP_Omicron,Human,1975,18
+Rossler22b,CP_WT_Omicron,Human,1986,5
 Saade21,BNT162b2,Human,NULL,30
 Saade21,CP,Human,NULL,34
 Saade21,CP_Mild,Human,NULL,29

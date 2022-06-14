@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Evans22b,mRNA_2dose,S:614G,Figure S2A,Pseudovirus (lentivirus),NT50,1323,10,100000,80,NULL,2022-06-14
 Evans22b,mRNA_2dose,BA.1 Spike,Figure S2A,Pseudovirus (lentivirus),NT50,25,10,100000,80,NULL,2022-06-14
 Evans22b,mRNA_2dose,BA.2 Spike,Figure S2A,Pseudovirus (lentivirus),NT50,63,10,100000,80,NULL,2022-06-14
