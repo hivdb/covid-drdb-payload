@@ -1,0 +1,11 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Rossler22c,MOD_2dose,~,2021-04-01,mRNA-1273,2,Australia,Table S1
+Rossler22c,AZD_2dose,~,2021-04-01,AZD1222,2,Australia,Table S1
+Rossler22c,AZD_BNT,~,2021-02-01,AZD1222,1,Australia,Table S1
+Rossler22c,AZD_BNT,~,2021-04-01,BNT162b2,2,Australia,Table S1
+Rossler22c,BNT_2dose,~,2021-04-01,BNT162b2,2,Australia,Table S1
+Rossler22c,VP_2dose_BTI_BA.1,~,2021-04-01,Unknown vaccine,2,Australia,Table S1
+Rossler22c,VP_2dose_BTI_BA.2,~,2021-04-01,Unknown vaccine,2,Australia,Table S1
+Rossler22c,VP_2dose_BTI_BA.1_reinf,~,2021-04-01,Unknown vaccine,2,Australia,Table S1
+Rossler22c,AZD_2dose_BTI_Delta,~,2021-04-01,AZD1222,2,Australia,Table S1
+Rossler22c,BNT_2dose_BTI_Delta,~,2021-04-01,BNT162b2,2,Australia,Table S1

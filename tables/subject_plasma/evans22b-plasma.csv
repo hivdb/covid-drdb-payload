@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Evans22b,mRNA,mRNA_2dose,~,2021-03-15,USA,mRNA,Table S1
+Evans22b,mRNA,mRNA_3dose,~,2021-11-30,USA,mRNA,Table S1
+Evans22b,Delta_wave_ICU_CP,Delta_wave_ICU_CP,~,2021-11-01,USA,Delta_wave_ICU_CP,Table S1
+Evans22b,Delta_wave_ICU_VP,Delta_wave_ICU_VP,~,2021-11-01,USA,Delta_wave_ICU_VP,Table S1
+Evans22b,Omicron_wave_Hospitalized_CP,Omicron_wave_Hospitalized_CP,~,2022-03-01,USA,Omicron_wave_Hospitalized_CP,Table S1
+Evans22b,Omicron_wave_Hospitalized_VP,Omicron_wave_Hospitalized_VP,~,2022-03-01,USA,Omicron_wave_Hospitalized_VP,Table S1
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,Omicron_wave_Hospitalized_VP_boosted,~,2022-03-01,USA,Omicron_wave_Hospitalized_VP_boosted,Table S1

@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Evans22b,mRNA,~,2021-02-15,mRNA,2,USA,Table S1
+Evans22b,mRNA,~,2021-11-15,mRNA,3,USA,Table S1
+Evans22b,Delta_wave_ICU_VP,~,2021-02-19,Unknown vaccine,2,USA,Table S1
+Evans22b,Omicron_wave_Hospitalized_VP,~,2021-05-30,mRNA,2,USA,Table S1
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,~,2021-09-24,mRNA,3,USA,Table S1
