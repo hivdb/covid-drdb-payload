@@ -1,7 +1,7 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Wratil22,CP_04,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
-Wratil22,CP_07,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
-Wratil22,CP_09,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
+Wratil22,CP_4,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
+Wratil22,CP_7,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
+Wratil22,CP_9,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
 Wratil22,CP_11,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
 Wratil22,CP_12,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
 Wratil22,CP_13,~,2020-04-15,B.1,Germany,NULL,NULL,NULL
