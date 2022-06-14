@@ -1,0 +1,12 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Halfmann22,MOD_2dose_D20,SARS-CoV-2/UT-HP095-1N/Human/2020/Tokyo,Figure 1A,Virus isolate,NT50,233,24,10000,20,NULL,2022-06-13
+Halfmann22,MOD_2dose_D20,hCoV-19/USA/WI-UW-4340/2021,Figure 1A,Virus isolate,NT50,55,24,10000,20,NULL,2022-06-13
+Halfmann22,BNT_2dose_D20,SARS-CoV-2/UT-HP095-1N/Human/2020/Tokyo,Figure 1C,Virus isolate,NT50,131,24,10000,20,NULL,2022-06-13
+Halfmann22,BNT_2dose_D20,hCoV-19/USA/WI-UW-4340/2021,Figure 1C,Virus isolate,NT50,21,24,10000,20,NULL,2022-06-13
+Halfmann22,BNT_2dose_D20,hCoV-19/USA/MD-HP01542/2021,Figure 1C,Virus isolate,NT50,24,24,10000,20,NULL,2022-06-13
+Halfmann22,MOD_2dose_6M,SARS-CoV-2/UT-HP095-1N/Human/2020/Tokyo,Figure S5,Virus isolate,NT50,104,16,10000,20,NULL,2022-06-13
+Halfmann22,MOD_2dose_6M,hCoV-19/USA/WI-UW-4340/2021,Figure S5,Virus isolate,NT50,31,16,10000,20,NULL,2022-06-13
+Halfmann22,BNT_2dose_6M,SARS-CoV-2/UT-HP095-1N/Human/2020/Tokyo,Figure S5,Virus isolate,NT50,76,15,10000,20,NULL,2022-06-13
+Halfmann22,BNT_2dose_6M,hCoV-19/USA/WI-UW-4340/2021,Figure S5,Virus isolate,NT50,12,15,10000,20,NULL,2022-06-13
+Halfmann22,CP_WA1_Hamster,WA1,Figure S6,Virus isolate,NT50,538,4,10000,20,NULL,2022-06-13
+Halfmann22,CP_WA1_Hamster,hCoV-19/USA/WI-UW-4340/2021,Figure S6,Virus isolate,NT50,95,4,10000,20,NULL,2022-06-13
