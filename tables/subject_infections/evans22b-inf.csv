@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Evans22b,Delta_wave_ICU_CP,~,2021-10-28,Delta,USA,NULL,Hospitalized,Vaccinated and hospitalized/ICU patient cohorts
+Evans22b,Delta_wave_ICU_VP,~,2021-10-28,Delta,USA,NULL,Hospitalized,Vaccinated and hospitalized/ICU patient cohorts
+Evans22b,Omicron_wave_Hospitalized_CP,~,2022-02-25,Omicron/BA.1,USA,NULL,Hospitalized,Vaccinated and hospitalized/ICU patient cohorts
+Evans22b,Omicron_wave_Hospitalized_VP,~,2022-02-25,Omicron/BA.1,USA,NULL,Hospitalized,Vaccinated and hospitalized/ICU patient cohorts
+Evans22b,Omicron_wave_Hospitalized_VP_boosted,~,2022-02-25,Omicron/BA.1,USA,NULL,Hospitalized,Vaccinated and hospitalized/ICU patient cohorts
