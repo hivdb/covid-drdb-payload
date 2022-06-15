@@ -1,0 +1,25 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Manali22,VP,S:614G,Figure 4A,Pseudovirus (lentivirus),NT50,357,55,36450,50,NULL,2022-06-15
+Manali22,VP,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 4A,Pseudovirus (lentivirus),NT50,177,55,36450,50,NULL,2022-06-15
+Manali22,VP,B.1.617.2 Spike:+142D,Figure 4A,Pseudovirus (lentivirus),NT50,84,55,36450,50,NULL,2022-06-15
+Manali22,VP,BA.1 Spike,Figure 4A,Pseudovirus (lentivirus),NT50,50,55,36450,50,NULL,2022-06-15
+Manali22,CP_VP_WT,S:614G,Figure 6A,Pseudovirus (lentivirus),NT50,3087,60,36450,50,NULL,2022-06-15
+Manali22,CP_VP_WT,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 6A,Pseudovirus (lentivirus),NT50,2958,60,36450,50,NULL,2022-06-15
+Manali22,CP_VP_WT,B.1.617.2 Spike:+142D,Figure 6A,Pseudovirus (lentivirus),NT50,940,60,36450,50,NULL,2022-06-15
+Manali22,CP_VP_WT,BA.1 Spike,Figure 6A,Pseudovirus (lentivirus),NT50,158,60,36450,50,NULL,2022-06-15
+Manali22,CP_VP_Alpha,S:614G,Figure 6A,Pseudovirus (lentivirus),NT50,1480,69,36450,50,NULL,2022-06-15
+Manali22,CP_VP_Alpha,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 6A,Pseudovirus (lentivirus),NT50,1740,69,36450,50,NULL,2022-06-15
+Manali22,CP_VP_Alpha,B.1.617.2 Spike:+142D,Figure 6A,Pseudovirus (lentivirus),NT50,397,69,36450,50,NULL,2022-06-15
+Manali22,CP_VP_Alpha,BA.1 Spike,Figure 6A,Pseudovirus (lentivirus),NT50,50,69,36450,50,NULL,2022-06-15
+Manali22,CP_VP_Delta,S:614G,Figure 6A,Pseudovirus (lentivirus),NT50,5763,48,36450,50,NULL,2022-06-15
+Manali22,CP_VP_Delta,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 6A,Pseudovirus (lentivirus),NT50,3324,48,36450,50,NULL,2022-06-15
+Manali22,CP_VP_Delta,B.1.617.2 Spike:+142D,Figure 6A,Pseudovirus (lentivirus),NT50,2068,48,36450,50,NULL,2022-06-15
+Manali22,CP_VP_Delta,BA.1 Spike,Figure 6A,Pseudovirus (lentivirus),NT50,199,48,36450,50,NULL,2022-06-15
+Manali22,Inf_Vacc,S:614G,Figure 7B,Pseudovirus (lentivirus),NT50,2171,28,36450,50,NULL,2022-06-15
+Manali22,Vacc_inf,S:614G,Figure 7B,Pseudovirus (lentivirus),NT50,913,41,36450,50,NULL,2022-06-15
+Manali22,Inf_Vacc,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 7B,Pseudovirus (lentivirus),NT50,2736,28,36450,50,NULL,2022-06-15
+Manali22,Vacc_inf,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 7B,Pseudovirus (lentivirus),NT50,1128,41,36450,50,NULL,2022-06-15
+Manali22,Inf_Vacc,B.1.617.2 Spike:+142D,Figure 7B,Pseudovirus (lentivirus),NT50,642,28,36450,50,NULL,2022-06-15
+Manali22,Vacc_inf,B.1.617.2 Spike:+142D,Figure 7B,Pseudovirus (lentivirus),NT50,172,41,36450,50,NULL,2022-06-15
+Manali22,Inf_Vacc,BA.1 Spike,Figure 7B,Pseudovirus (lentivirus),NT50,79,28,36450,50,NULL,2022-06-15
+Manali22,Vacc_inf,BA.1 Spike,Figure 7B,Pseudovirus (lentivirus),NT50,50,41,36450,50,NULL,2022-06-15

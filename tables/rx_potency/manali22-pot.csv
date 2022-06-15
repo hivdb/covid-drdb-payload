@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Manali22,CP_WT,S:614G,Figure 6A,Pseudovirus (lentivirus),NT50,879,37,36450,50,NULL,2022-06-15
+Manali22,CP_WT,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 6A,Pseudovirus (lentivirus),NT50,471,37,36450,50,NULL,2022-06-15
+Manali22,CP_WT,B.1.617.2 Spike:+142D,Figure 6A,Pseudovirus (lentivirus),NT50,242,37,36450,50,NULL,2022-06-15
+Manali22,CP_WT,BA.1 Spike,Figure 6A,Pseudovirus (lentivirus),NT50,50,37,36450,50,NULL,2022-06-15
+Manali22,CP_Alpha,S:614G,Figure 6A,Pseudovirus (lentivirus),NT50,692,39,36450,50,NULL,2022-06-15
+Manali22,CP_Alpha,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 6A,Pseudovirus (lentivirus),NT50,386,39,36450,50,NULL,2022-06-15
+Manali22,CP_Alpha,B.1.617.2 Spike:+142D,Figure 6A,Pseudovirus (lentivirus),NT50,50,39,36450,50,NULL,2022-06-15
+Manali22,CP_Alpha,BA.1 Spike,Figure 6A,Pseudovirus (lentivirus),NT50,50,39,36450,50,NULL,2022-06-15
+Manali22,CP_Delta,S:614G,Figure 6A,Pseudovirus (lentivirus),NT50,199,15,36450,50,NULL,2022-06-15
+Manali22,CP_Delta,S:18F+69del+70del+144del+501Y+570D+614G+681H+716I+982A+1118H,Figure 6A,Pseudovirus (lentivirus),NT50,125,15,36450,50,NULL,2022-06-15
+Manali22,CP_Delta,B.1.617.2 Spike:+142D,Figure 6A,Pseudovirus (lentivirus),NT50,1493,15,36450,50,NULL,2022-06-15
+Manali22,CP_Delta,BA.1 Spike,Figure 6A,Pseudovirus (lentivirus),NT50,50,15,36450,50,NULL,2022-06-15
