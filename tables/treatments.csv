@@ -20789,8 +20789,8 @@ Seaman22,CP_ba1_vaccinated_convalescent
 Seaman22,CP_ba1_acute
 Seaman22,CP_ba1_convalescent
 Seidel22,CP
-Seidel22,mRNA_or_AZD1222_1_dose
-Seidel22,mRNA_or_AZD1222_2_dose
+Seidel22,CP_and_mRNA_or_AZD1222_1_dose
+Seidel22,CP_and_mRNA_or_AZD1222_2_dose
 Sepulcri21,Donor_CP
 Shen21,Mod_Ser_14
 Shen21,Mod_Ser_15
