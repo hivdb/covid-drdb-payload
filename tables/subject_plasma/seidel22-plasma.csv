@@ -1,4 +1,4 @@
 ﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Seidel22,CP,CP,~,2021-05-05,Germany,CP,NULL
-Seidel22,CP_and_mRNA_or_AZD1222_1_dose,mRNA_or_AZD1222_1_dose,~,2021-05-05,Germany,mRNA_or_AZD1222_1_dose,NULL
-Seidel22,CP_and_mRNA_or_AZD1222_2_dose,mRNA_or_AZD1222_2_dose,~,2021-05-05,Germany,mRNA_or_AZD1222_2_dose,NULL
+Seidel22,CP_and_mRNA_or_AZD1222_1_dose,CP_and_mRNA_or_AZD1222_1_dose,~,2021-05-05,Germany,CP_and_mRNA_or_AZD1222_1_dose,NULL
+Seidel22,CP_and_mRNA_or_AZD1222_2_dose,CP_and_mRNA_or_AZD1222_2_dose,~,2021-05-05,Germany,CP_and_mRNA_or_AZD1222_2_dose,NULL
