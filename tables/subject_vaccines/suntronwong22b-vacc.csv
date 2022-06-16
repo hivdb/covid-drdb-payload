@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Suntronwong22b,AZD1222_3dose,~,2021-07-07,CoronaVac,1,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,AZD1222_3dose,~,2021-07-31,AZD1222,2,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,AZD1222_3dose,~,2021-12-03,AZD1222,3,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,BNT_3dose,~,2021-06-29,CoronaVac,1,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,BNT_3dose,~,2021-07-26,AZD1222,2,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,BNT_3dose,~,2021-12-03,BNT162b2,3,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,MOD_3dose,~,2021-06-28,CoronaVac,1,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,MOD_3dose,~,2021-07-25,AZD1222,2,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,MOD_3dose,~,2021-12-03,mRNA-1273,3,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,CoronaVac_AZD1222,~,2021-06-29,CoronaVac,1,Thailand,"Table 1, Figure 1A"
+Suntronwong22b,CoronaVac_AZD1222,~,2021-07-26,AZD1222,2,Thailand,"Table 1, Figure 1A"
