@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Suntronwong22b,VP_2dose,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3A,Virus isolate,NT50,12.75,10,10000,20,NULL,2022-06-16
+Suntronwong22b,AZD1222_3dose,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3A,Virus isolate,NT50,40.34,30,10000,20,NULL,2022-06-16
+Suntronwong22b,VP_2dose_2,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3A,Virus isolate,NT50,17.25,10,10000,20,NULL,2022-06-16
+Suntronwong22b,BNT_3dose,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3A,Virus isolate,NT50,171,30,10000,20,NULL,2022-06-16
+Suntronwong22b,VP_2dose_3,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3A,Virus isolate,NT50,10.96,10,10000,20,NULL,2022-06-16
+Suntronwong22b,MOD_3dose,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3A,Virus isolate,NT50,271.6,30,10000,20,NULL,2022-06-16
+Suntronwong22b,VP_2dose,hCoV-19/Thailand/VOY15/2022,Figure 3B,Virus isolate,NT50,24.4,10,10000,20,NULL,2022-06-16
+Suntronwong22b,AZD1222_3dose,hCoV-19/Thailand/VOY15/2022,Figure 3B,Virus isolate,NT50,59.27,30,10000,20,NULL,2022-06-16
+Suntronwong22b,VP_2dose_2,hCoV-19/Thailand/VOY15/2022,Figure 3B,Virus isolate,NT50,28.25,10,10000,20,NULL,2022-06-16
+Suntronwong22b,BNT_3dose,hCoV-19/Thailand/VOY15/2022,Figure 3B,Virus isolate,NT50,130.7,30,10000,20,NULL,2022-06-16
+Suntronwong22b,VP_2dose_3,hCoV-19/Thailand/VOY15/2022,Figure 3B,Virus isolate,NT50,11.96,10,10000,20,NULL,2022-06-16
+Suntronwong22b,MOD_3dose,hCoV-19/Thailand/VOY15/2022,Figure 3B,Virus isolate,NT50,235.3,30,10000,20,NULL,2022-06-16
