@@ -13012,6 +13012,24 @@ SARS-CoV-2/human/USA/Yale-14797/2021,N,32,del,NULL,NULL
 SARS-CoV-2/human/USA/Yale-14797/2021,N,33,del,NULL,NULL
 SARS-CoV-2/human/USA/Yale-14797/2021,N,203,K,NULL,NULL
 SARS-CoV-2/human/USA/Yale-14797/2021,N,204,R,NULL,NULL
+B.1.526 full genome,nsp2,85,I,NULL,NULL
+B.1.526 full genome,nsp4,438,P,NULL,NULL
+B.1.526 full genome,nsp6,106,del,NULL,NULL
+B.1.526 full genome,nsp6,107,del,NULL,NULL
+B.1.526 full genome,nsp6,108,del,NULL,NULL
+B.1.526 full genome,RdRP,323,L,NULL,NULL
+B.1.526 full genome,nsp13,88,H,NULL,NULL
+B.1.526 full genome,S,5,F,NULL,NULL
+B.1.526 full genome,S,95,I,NULL,NULL
+B.1.526 full genome,S,253,G,NULL,NULL
+B.1.526 full genome,S,484,K,NULL,NULL
+B.1.526 full genome,S,614,G,NULL,NULL
+B.1.526 full genome,S,701,V,NULL,NULL
+B.1.526 full genome,ORF3a,42,L,NULL,NULL
+B.1.526 full genome,ORF3a,57,H,NULL,NULL
+B.1.526 full genome,ORF8,11,I,NULL,NULL
+B.1.526 full genome,N,199,L,NULL,NULL
+B.1.526 full genome,N,234,I,NULL,NULL
 hCoV-19/Germany/BY-MVP-000006057/2021,nsp4,382,T,NULL,NULL
 hCoV-19/Germany/BY-MVP-000006057/2021,RdRP,323,L,NULL,NULL
 hCoV-19/Germany/BY-MVP-000006057/2021,S,13,I,NULL,NULL

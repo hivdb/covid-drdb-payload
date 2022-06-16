@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Manali22,CP_WT,~,2020-07-01,B.1,UK,NULL,NULL,Methods
+Manali22,CP_Alpha,~,2021-01-01,Alpha,UK,NULL,NULL,Methods
+Manali22,CP_Delta,~,2021-07-01,Delta,UK,NULL,NULL,Methods
