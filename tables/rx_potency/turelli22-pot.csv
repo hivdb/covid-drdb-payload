@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Turelli22,CP_Alpha_1,hCoV-19/Switzerland/GE-SNRCI-29943121/2020,Figure 2F,Virus isolate,NT50,215,1,10000,50,NULL,2022-06-16
 Turelli22,CP_Alpha_1,hCoV-19/Switzerland/un-2012212272/2020,Figure 2F,Virus isolate,NT50,482,1,10000,50,NULL,2022-06-16
 Turelli22,CP_Alpha_1,hCoV-19/Switzerland/GE-33128281/2021,Figure 2F,Virus isolate,NT50,67,1,10000,50,NULL,2022-06-16
