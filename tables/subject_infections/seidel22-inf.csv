@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Seidel22,CP,~,2021-01-06,Unknown variant,Germany,NULL,NULL,NULL
 Seidel22,CP_and_mRNA_or_AZD1222_1_dose,~,2020-04-13,Unknown variant,Germany,NULL,NULL,NULL
 Seidel22,CP_and_mRNA_or_AZD1222_2_dose,~,2020-04-13,Unknown variant,Germany,NULL,NULL,NULL
