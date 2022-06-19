@@ -1,0 +1,16 @@
+﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
+Huygens22,Patient 1,~,2022-02-06,Huygens22 BA.1 baseline,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 1,~,2022-02-14,Huygens22 BA.1+E340D+A372G+D936H,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 2,=,2022-01-26,Huygens22 BA.1 baseline,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 2,=,2022-02-02,Huygens22 BA.1+P337L+D796Y,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 2,=,2022-02-22,Huygens22 BA.1+E340A+D796Y+D839N,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 5,~,2022-02-01,Huygens22 BA.1 baseline,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 5,~,2022-02-23,Huygens22 BA.1+P337S,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 7,~,2022-02-01,Huygens22 BA.1 baseline,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 7,~,2022-02-23,Huygens22 BA.1+E340V,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 19,~,2022-03-01,Huygens22 BA.2 baseline,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 19,~,2022-03-04,Huygens22 BA.2+D796Y,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 27,~,2022-03-01,Huygens22 BA.2 baseline,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 27,~,2022-03-08,Huygens22 BA.2+P337S,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 29,~,2022-03-01,Huygens22 BA.2 baseline,NP,FALSE,Netherlands,Figure 1
+Huygens22,Patient 29,~,2022-03-08,Huygens22 BA.2+E340Q+D796Y,NP,FALSE,Netherlands,Figure 1
