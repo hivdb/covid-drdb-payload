@@ -1,0 +1,7 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Seidel22,CP_vaccinated_leq90days,Wuhan-Hu-1 Spike,Figure 1C,Pseudovirus,NT50,4741,17,10000,20,NULL,2022-06-16
+Seidel22,CP_vaccinated_90days,Wuhan-Hu-1 Spike,Figure 1C,Pseudovirus,NT50,1644,19,10000,20,NULL,2022-06-16
+Seidel22,CP_vaccinated_leq90days,B.1.617.2 Spike:+142D,Figure 1C,Pseudovirus,NT50,1496,17,10000,20,NULL,2022-06-16
+Seidel22,CP_vaccinated_90days,B.1.617.2 Spike:+142D,Figure 1C,Pseudovirus,NT50,501,19,10000,20,NULL,2022-06-16
+Seidel22,CP_vaccinated_leq90days,hCoV-19/Botswana/R40B58_BHP_3321001245/2021 Spike,Figure 1C,Pseudovirus,NT50,1953,17,10000,20,NULL,2022-06-16
+Seidel22,CP_vaccinated_90days,hCoV-19/Botswana/R40B58_BHP_3321001245/2021 Spike,Figure 1C,Pseudovirus,NT50,843,19,10000,20,NULL,2022-06-16
