@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Scherer22,Patient 2,Bamlanivimab,=,2021-01-08,=,2021-01-08,NULL,NULL,Table S1
+Scherer22,Patient 3,Bamlanivimab,=,2020-12-23,=,2020-12-23,NULL,NULL,Table S1
+Scherer22,Patient 4,CP,=,2021-01-01,=,2021-01-01,NULL,NULL,Table S1
+Scherer22,Patient 4,CP,=,2021-04-15,=,2021-04-15,NULL,NULL,Table S1
