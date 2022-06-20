@@ -1,10 +1,10 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Seidel22,CP,Wuhan-Hu-1 Spike,Figure 1A,Pseudovirus,NT50,249,29,10000,20,NULL,2022-06-16
 Seidel22,CP,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus,NT50,55,29,10000,20,NULL,2022-06-16
-Seidel22,CP,hCoV-19/Botswana/R40B58_BHP_3321001245/2021 Spike,Figure 1A,Pseudovirus,NT50,20,29,10000,20,NULL,2022-06-16
+Seidel22,CP,BA.1 Spike,Figure 1A,Pseudovirus,NT50,20,29,10000,20,NULL,2022-06-16
 Seidel22,CP_and_mRNA_or_AZD1222_1_dose,Wuhan-Hu-1 Spike,Figure 1B,Pseudovirus,NT50,4102,17,10000,20,NULL,2022-06-16
 Seidel22,CP_and_mRNA_or_AZD1222_2_dose,Wuhan-Hu-1 Spike,Figure 1B,Pseudovirus,NT50,1972,20,10000,20,NULL,2022-06-16
 Seidel22,CP_and_mRNA_or_AZD1222_1_dose,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus,NT50,1038,17,10000,20,NULL,2022-06-16
 Seidel22,CP_and_mRNA_or_AZD1222_2_dose,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus,NT50,704,20,10000,20,NULL,2022-06-16
-Seidel22,CP_and_mRNA_or_AZD1222_1_dose,hCoV-19/Botswana/R40B58_BHP_3321001245/2021 Spike,Figure 1B,Pseudovirus,NT50,160,17,10000,20,NULL,2022-06-16
-Seidel22,CP_and_mRNA_or_AZD1222_2_dose,hCoV-19/Botswana/R40B58_BHP_3321001245/2021 Spike,Figure 1B,Pseudovirus,NT50,943,20,10000,20,NULL,2022-06-16
+Seidel22,CP_and_mRNA_or_AZD1222_1_dose,BA.1 Spike,Figure 1B,Pseudovirus,NT50,160,17,10000,20,NULL,2022-06-16
+Seidel22,CP_and_mRNA_or_AZD1222_2_dose,BA.1 Spike,Figure 1B,Pseudovirus,NT50,943,20,10000,20,NULL,2022-06-16
