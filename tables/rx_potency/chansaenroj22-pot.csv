@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chansaenroj22,BBIBP_2dose_AZD1222_pre,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,10,10,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_AZD1222_D14,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,97,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_AZD1222_D28,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,97,33,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_AZD1222_D90,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,95,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_BNT162b2_pre,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,12,10,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_BNT162b2_D14,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,97,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_BNT162b2_D28,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,97,36,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_BNT162b2_D90,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,97,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_mRNA-1273_pre,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,18,10,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_mRNA-1273_D14,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,97,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_mRNA-1273_D28,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,97,43,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_mRNA-1273_D90,B.1.617.2 Spike,"Figure 5A, Supplementary Table S1 ",sVNT,NC,97,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_AZD1222_pre,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,12,10,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_AZD1222_D14,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,50,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_AZD1222_D28,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,40,33,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_AZD1222_D90,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,15,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_BNT162b2_pre,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,20,10,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_BNT162b2_D14,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,67,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_BNT162b2_D28,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,66,37,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_BNT162b2_D90,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,28,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_mRNA-1273_pre,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,22,10,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_mRNA-1273_D14,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,54,20,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_mRNA-1273_D28,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,50,43,100,30,percent,2022-06-20
+Chansaenroj22,BBIBP_2dose_mRNA-1273_D90,BA.1 Spike,"Figure 5B, Supplementary Table S1 ",sVNT,NC,21,20,100,30,percent,2022-06-20

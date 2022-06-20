@@ -41,5 +41,8 @@ Ad26.COV2.S + BNT162b2,Mixed,,,2,39
 AZD1222 + CoronaVac,Mixed,,,2,40
 AZD1222 + BNT162b2 + CoronaVac,Mixed,,,3,41
 AZD1222 + CoronaVac + mRNA-1273,Mixed,,,3,42
+AZD1222 + BBIBP-CorV,Mixed,,,3,43
+BBIBP-CorV + BNT162b2,Mixed,,,3,44
+BBIBP-CorV + mRNA-1273,Mixed,,,3,45
 AZD1222 + mRNA,Mixed,,,3,100
 Unknown vaccine,Mixed,,,3,1000
