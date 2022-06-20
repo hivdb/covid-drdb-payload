@@ -194,6 +194,10 @@ Cele22,CP_Beta,Human,NULL,9
 Cele22,CP_Delta,Human,NULL,10
 Cele22,CP_first_wave,Human,NULL,8
 Cele22,Patient_adv_HIV,Human,1984,1
+Chalkias22,mRNA-1273_100ug_booster,Human,1969,582
+Chalkias22,mRNA-1273_2dose,Human,1970,584
+Chalkias22,mRNA-1273_50ug_booster,Human,1971,296
+Chalkias22,mRNA-1273_booster,Human,1970,140
 Changrob21,CP,Human,NULL,10
 Chatterjee22,BNT162b2_16wks,Human,NULL,25
 Chatterjee22,BNT162b2_4wks,Human,NULL,19
@@ -943,6 +947,7 @@ Goel21,IHCV2020.042,Human,NULL,1
 Goel21b,mRNA,Human,1984,45
 Goel21b,mRNA_recovered,Human,1983,16
 Gong21,BNT_infected,Human,NULL,5
+Gonzalez-Reiche22,Patient 1,Human,1959,1
 Gottlieb21,Gottlieb21 BAM/ETE Treated,Human,NULL,1
 Graham21,P008,Human,1992,1
 Graham21,P054,Human,1959,1
@@ -1120,6 +1125,13 @@ Huang21b,ZF2001-serum-154,Human,NULL,1
 Huang21b,ZF2001-serum-233,Human,NULL,1
 Huang21b,ZF2001-serum-290,Human,NULL,1
 Huang21b,ZF2001-serum-308,Human,NULL,1
+Huygens22,Patient 1,Human,1959,1
+Huygens22,Patient 19,Human,1959,1
+Huygens22,Patient 2,Human,1959,1
+Huygens22,Patient 27,Human,1959,1
+Huygens22,Patient 29,Human,1959,1
+Huygens22,Patient 5,Human,1959,1
+Huygens22,Patient 7,Human,1959,1
 Ikegame21,SP001,Human,NULL,1
 Ikegame21,SP002,Human,NULL,1
 Ikegame21,SP003,Human,NULL,1
@@ -2146,6 +2158,12 @@ Sapkal21c,AZD_2nd,Human,NULL,31
 Sapkal21c,AZD_Breakthrough,Human,NULL,20
 Sapkal21c,AZD_infect_1st,Human,NULL,15
 Sapkal21c,AZD_infect_2nd,Human,NULL,19
+Scherer22,CP donor,Human,NULL,1
+Scherer22,Patient 1,Human,1956,1
+Scherer22,Patient 2,Human,1975,1
+Scherer22,Patient 3,Human,1983,1
+Scherer22,Patient 4,Human,1977,1
+Scherer22,Patient 5,Human,1975,1
 Schmidt21,ITV15-panel,Human,NULL,15
 Schmidt21,RU27-panel,Human,NULL,27
 Schmidt21,Ran21-panel,Human,NULL,21

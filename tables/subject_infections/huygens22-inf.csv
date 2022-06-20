@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Huygens22,Patient 1,<,2022-01-05,Omicron/BA.1,Netherlands,Medical,Hospitalized,Figure 1
+Huygens22,Patient 2,<,2022-01-08,Omicron/BA.1,Netherlands,Medical,Hospitalized,Figure 1
+Huygens22,Patient 5,<,2022-02-01,Omicron/BA.1,Netherlands,Medical,Hospitalized,Figure 1
+Huygens22,Patient 7,<,2022-01-31,Omicron/BA.1,Netherlands,Medical,Hospitalized,Figure 1
+Huygens22,Patient 19,<,2022-02-28,Omicron/BA.2,Netherlands,Medical,Hospitalized,Figure 1
+Huygens22,Patient 27,<,2022-02-27,Omicron/BA.2,Netherlands,Medical,Hospitalized,Figure 1
+Huygens22,Patient 29,<,2022-03-01,Omicron/BA.2,Netherlands,Medical,Hospitalized,Figure 1

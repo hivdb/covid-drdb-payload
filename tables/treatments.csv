@@ -2501,6 +2501,7 @@ Hu21c,CQ028
 Hu21c,CQ038
 Hu21c,CQ045
 Hu21c,CQ046
+Huygens22,Sotrovimab
 Ikemura21,Imdevimab+Casirivimab
 Ikemura21,Sotrovimab
 Iketani22,CB6
@@ -2872,6 +2873,7 @@ Scheid21,BG4-25_7E
 Scheid21,BG7-15_7F
 Scheid21,BG7-20_7G
 Scheid21,BG1-24_7H
+Scherer22,Bamlanivimab
 Schmitz21,3A11
 Schmitz21,2B06
 Schmitz21,1B12
@@ -5882,6 +5884,20 @@ Cele22,CP_Delta_F1J
 Cele22,CP_Delta_F2L
 Cele22,CP_Delta_F2M
 Cele22,BNT_F2G
+Chalkias22,mRNA-1273_2dose_100ug_D29
+Chalkias22,mRNA-1273_50ug_booster_D181
+Chalkias22,mRNA-1273_50ug_booster_D181_T2
+Chalkias22,mRNA-1273_50ug_booster_D29
+Chalkias22,mRNA-1273_50ug_booster_D29_T2
+Chalkias22,mRNA-1273_50ug_prebooster
+Chalkias22,mRNA-1273.211_100ug_booster_D181
+Chalkias22,mRNA-1273.211_100ug_booster_D29
+Chalkias22,mRNA-1273.211_100ug_prebooster
+Chalkias22,mRNA-1273.211_50ug_booster_D181
+Chalkias22,mRNA-1273.211_50ug_booster_D181_T2
+Chalkias22,mRNA-1273.211_50ug_booster_D29
+Chalkias22,mRNA-1273.211_50ug_booster_D29_T2
+Chalkias22,mRNA-1273.211_50ug_prebooster
 Changrob21,CP
 Chatterjee22,BNT162b2_D614G_16wks_1
 Chatterjee22,BNT162b2_D614G_16wks_2
@@ -20528,6 +20544,7 @@ Sapkal21c,AZD_Breakthrough_17
 Sapkal21c,AZD_Breakthrough_18
 Sapkal21c,AZD_Breakthrough_19
 Sapkal21c,AZD_Breakthrough_20
+Scherer22,CP
 Schmidt21,RU27-panel
 Schmidt21,RU3
 Schmidt21,RU4

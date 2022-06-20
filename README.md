@@ -56,7 +56,4 @@ you can work on the studies in the issue page. You can fork the repository, extr
 format the data into each table, then create a pull request to the main repository. 
 We will regularly check pull requests, make comments, and merge them into main branch.
 
-
-## Wiki
-
-- https://github.com/hivdb/covid-drdb-payload/wiki
+For more details, please read the [wiki page](https://github.com/hivdb/covid-drdb-payload/wiki) about how we curate the database.

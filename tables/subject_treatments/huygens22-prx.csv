@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Huygens22,Patient 1,Sotrovimab,~,2022-02-01,~,2022-02-01,NULL,NULL,Figure 1
+Huygens22,Patient 2,Sotrovimab,=,2022-01-26,=,2022-01-26,NULL,NULL,Figure 1
+Huygens22,Patient 5,Sotrovimab,~,2022-02-01,~,2022-02-01,NULL,NULL,Figure 1
+Huygens22,Patient 7,Sotrovimab,~,2022-02-01,~,2022-02-01,NULL,NULL,Figure 1
+Huygens22,Patient 19,Sotrovimab,~,2022-03-01,~,2022-03-01,NULL,NULL,Figure 1
+Huygens22,Patient 27,Sotrovimab,~,2022-03-01,~,2022-03-01,NULL,NULL,Figure 1
+Huygens22,Patient 29,Sotrovimab,~,2022-03-01,~,2022-03-01,NULL,NULL,Figure 1

@@ -1,0 +1,9 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chalkias22,mRNA-1273.211_50ug_booster_D29,S:614G,Supplementary Table 3,Pseudovirus (lentivirus),NT50,1997,299,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_prebooster_D29,S:614G,Supplementary Table 3,Pseudovirus (lentivirus),NT50,1053,584,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D29,B.1.351 Spike,Supplementary Table 3,Pseudovirus (lentivirus),NT50,953.9,299,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_prebooster_D29,S:614G,Supplementary Table 3,Pseudovirus (lentivirus),NT50,1058,584,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_booster_D29,S:614G,Supplementary Table 3,Pseudovirus (lentivirus),NT50,4324.7,578,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_prebooster_D29,S:614G,Supplementary Table 3,Pseudovirus (lentivirus),NT50,1087.3,584,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_booster_D29,B.1.351 Spike,Supplementary Table 3,Pseudovirus (lentivirus),NT50,1574.6,578,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_prebooster_D29,S:614G,Supplementary Table 3,Pseudovirus (lentivirus),NT50,1085.7,584,100000,20,NULL,2022-06-17

@@ -1,0 +1,49 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chalkias22,mRNA-1273.211_50ug_booster_D29_T2,S:614G,Table 2,Pseudovirus (lentivirus),NT50,2278,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D29_T2,S:614G,Table 2,Pseudovirus (lentivirus),NT50,1782.7,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D181_T2,S:614G,Table 2,Pseudovirus (lentivirus),NT50,1040,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D181_T2,S:614G,Table 2,Pseudovirus (lentivirus),NT50,617.2,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D29_T2,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),NT50,1095.3,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D29_T2,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),NT50,825.6,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D181_T2,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),NT50,343.5,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D181_T2,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),NT50,125.2,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D29_T2,BA.1 Spike,Table 2,Pseudovirus (lentivirus),NT50,1389.8,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D29_T2,BA.1 Spike,Table 2,Pseudovirus (lentivirus),NT50,630.5,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D181_T2,BA.1 Spike,Table 2,Pseudovirus (lentivirus),NT50,312.9,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D181_T2,BA.1 Spike,Table 2,Pseudovirus (lentivirus),NT50,145.6,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D29_T2,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Table 2,Pseudovirus (lentivirus),NT50,1481.2,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D29_T2,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Table 2,Pseudovirus (lentivirus),NT50,844.1,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D181_T2,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Table 2,Pseudovirus (lentivirus),NT50,491.3,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D181_T2,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Table 2,Pseudovirus (lentivirus),NT50,408,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_2dose_100ug_D29,S:614G,Figure 2,Pseudovirus (lentivirus),NT50,1132,584,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_2dose_100ug_D29,B.1.351 Spike,Figure 2,Pseudovirus (lentivirus),NT50,145,584,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_prebooster,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,150,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D29,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,1952,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D181,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,673,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_prebooster,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,103,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D29,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,2172,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D181,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,1006,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_prebooster,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,100,582,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_booster_D29,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,4503,582,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_booster_D181,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,1483,582,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_prebooster,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,38,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D29,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,921,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D181,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,139,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_prebooster,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,26,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D29,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1032,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D181,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,326,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_prebooster,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,24,582,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_booster_D29,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1642,582,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_100ug_booster_D181,B.1.351 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,414,582,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_prebooster,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,38,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D29,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,629,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D181,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,146,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_prebooster,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,39,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D29,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,1408,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D181,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,317,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_prebooster,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 3B,Pseudovirus (lentivirus),NT50,47,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D29,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 3B,Pseudovirus (lentivirus),NT50,828,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273_50ug_booster_D181,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 3B,Pseudovirus (lentivirus),NT50,397,140,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_prebooster,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 3B,Pseudovirus (lentivirus),NT50,53,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D29,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 3B,Pseudovirus (lentivirus),NT50,1507,296,100000,20,NULL,2022-06-17
+Chalkias22,mRNA-1273.211_50ug_booster_D181,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 3B,Pseudovirus (lentivirus),NT50,499,296,100000,20,NULL,2022-06-17

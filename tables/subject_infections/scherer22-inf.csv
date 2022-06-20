@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Scherer22,CP donor,<,2020-12-20,Unknown variant,USA,NULL,NULL,NULL
+Scherer22,Patient 1,<,2021-01-01,B.1.2,"Georgia, USA",Medical,Hospitalized,Figure 1D and Supplementary Appendix
+Scherer22,Patient 2,<,2021-01-04,B.1.2,"Georgia, USA",Medical,Hospitalized,Figure 1D and Supplementary Appendix
+Scherer22,Patient 3,<,2020-12-15,B.1.2,"Georgia, USA",Medical,Hospitalized,Figure 1D and Supplementary Appendix
+Scherer22,Patient 4,<,2021-01-01,B.1.568,"Georgia, USA",Medical,Hospitalized,Figure 1D and Supplementary Appendix
+Scherer22,Patient 5,<,2020-09-25,B.1.493,"Georgia, USA",Medical,Hospitalized,Figure 1D and Supplementary Appendix
