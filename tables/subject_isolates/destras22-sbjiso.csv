@@ -16,7 +16,9 @@ Destras22,P5,=,2022-02-16,hCoV-19/France/ARA-HCL122005810301/2022,Unknown,FALSE,
 Destras22,P6,=,2022-02-01,hCoV-19/France/ARA-HCL022021154301/2022,Unknown,FALSE,France,Table S2
 Destras22,P6,=,2022-02-14,hCoV-19/France/ARA-HCL022029928601/2022,Unknown,FALSE,France,Table S2
 Destras22,P6,=,2022-02-22,hCoV-19/France/ARA-HCL022035008101/2022,Unknown,FALSE,France,Table S2
+Destras22,P6,=,2022-03-17,hCoV-19/France/ARA-HCL122009595001/2022,Unknown,FALSE,France,Table S2
+Destras22,P6,=,2022-03-18,hCoV-19/France/ARA-HCL022050390701/2022,Unknown,FALSE,France,Table S2
 Destras22,P7,<,2022-02-14,Destras22 P7 Baseline,Unknown,FALSE,France,Table S2
 Destras22,P7,=,2022-03-09,hCoV-19/France/ARA-HCL022044350101/2022,Unknown,FALSE,France,Table S2
-Destras22,P8,~,2022-01-15,Omicron/BA.2 full genome,Unknown,FALSE,France,Table S2
-Destras22,P8,~,2022-01-21,Destras22 P8 D6,Unknown,FALSE,France,Table S2
+Destras22,P8,<,2022-03-12,Destras22 P8 Baseline,Unknown,FALSE,France,Table S2
+Destras22,P8,=,2022-03-18,hCoV-19/France/NAQ-HCL022053231601/2022,Unknown,FALSE,France,Table S2
