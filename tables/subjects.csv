@@ -92,11 +92,11 @@ Assawakosri22,AZD122,Human,NULL,55
 Assawakosri22,BBIBP,Human,NULL,57
 Assawakosri22,BNT162b2,Human,NULL,54
 Assawakosri22,mRNA_1273,Human,NULL,58
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose,Human,NULL,50
-Atmar21,Ad26COV2S_2dose_mRNA1273_1dose,Human,NULL,51
-Atmar21,Ad26COV2S_2dose_mRNA1273_1dose_18to55,Human,NULL,21
-Atmar21,Ad26COV2S_2dose_mRNA1273_1dose__geq56,Human,NULL,31
-Atmar21,Ad26COV2S_3dose,Human,NULL,50
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose,Human,NULL,50
+Atmar21,Ad26COV2S_1dose_mRNA1273_1dose,Human,NULL,51
+Atmar21,Ad26COV2S_1dose_mRNA1273_1dose_18to55,Human,NULL,21
+Atmar21,Ad26COV2S_1dose_mRNA1273_1dose__geq56,Human,NULL,31
+Atmar21,Ad26COV2S_2dose,Human,NULL,50
 Atmar21,BNT162b2_2dose_Ad26COV2S_1dose,Human,NULL,50
 Atmar21,BNT162b2_2dose_mRNA1273_1dose,Human,NULL,50
 Atmar21,BNT162b2_2dose_mRNA1273_1dose_18to55,Human,NULL,25

@@ -1,11 +1,11 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Atmar21,Ad26COV2S_3dose_29days,WA1 Spike,Table 2,Pseudovirus (lentivirus),NT50,369,50,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose_29days,WA1 Spike,Table 2,Pseudovirus (lentivirus),NT50,369,50,45118,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_Ad26COV2S_1dose_29days,WA1 Spike,Table 2,Pseudovirus (lentivirus),NT50,4560,49,45118,10,NULL,2022-06-20
 Atmar21,BNT162b2_2dose_Ad26COV2S_1dose_29days,WA1 Spike,Table 2,Pseudovirus (lentivirus),NT50,2600,50,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_3dose_18to55_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,28.42,26,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_3dose_18to55_day15,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,119.66,26,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_3dose__geq56_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,34.67,24,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_3dose__geq56_day15,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,141.87,24,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose_18to55_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,28.42,26,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose_18to55_day15,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,119.66,26,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose__geq56_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,34.67,24,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose__geq56_day15,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,141.87,24,45118,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_Ad26COV2S_1dose_18to55_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,310.10,24,45118,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_Ad26COV2S_1dose_18to55_day15,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,1931.94,24,45118,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_Ad26COV2S_1dose__geq56_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,211.19,25,45118,10,NULL,2022-06-20
@@ -14,10 +14,10 @@ Atmar21,BNT162b2_2dose_Ad26COV2S_1dose_18to55_day01,B.1 Spike,Supplementary Tabl
 Atmar21,BNT162b2_2dose_Ad26COV2S_1dose_18to55_day15,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,1054.66,24,45118,10,NULL,2022-06-20
 Atmar21,BNT162b2_2dose_Ad26COV2S_1dose__geq56_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,59.30,26,45118,10,NULL,2022-06-20
 Atmar21,BNT162b2_2dose_Ad26COV2S_1dose__geq56_day15,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,767.74,26,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose_18to55_day01,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,36.79,31,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose_18to55_day15,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,1353.17,28,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose__geq56_day01,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,41.62,22,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose__geq56_day15,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,1486.97,22,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose_18to55_day01,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,36.79,31,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose_18to55_day15,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,1353.17,28,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose__geq56_day01,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,41.62,22,45118,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose__geq56_day15,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,1486.97,22,45118,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_BNT162b2_1dose_18to55_day01,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,349.09,22,45118,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_BNT162b2_1dose_18to55_day15,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,3573.05,20,45118,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_BNT162b2_1dose__geq56_day01,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,178.03,29,45118,10,NULL,2022-06-20
@@ -26,10 +26,10 @@ Atmar21,BNT162b2_3dose_18to55_day01,B.1 Spike,Supplementary Table 57,Pseudovirus
 Atmar21,BNT162b2_3dose_18to55_day15,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,2075.37,23,45118,10,NULL,2022-06-20
 Atmar21,BNT162b2_3dose__geq56_day01,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,65.73,26,45118,10,NULL,2022-06-20
 Atmar21,BNT162b2_3dose__geq56_day15,B.1 Spike,Supplementary Table 57,Pseudovirus (lentivirus),NT50,1656.82,25,45118,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_3dose_18to55_day01,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,12.18,26,10232,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_3dose_18to55_day15,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,50.15,26,10232,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_3dose__geq56_day01,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,14.67,24,10232,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_3dose__geq56_day15,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,53.75,24,10232,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose_18to55_day01,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,12.18,26,10232,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose_18to55_day15,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,50.15,26,10232,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose__geq56_day01,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,14.67,24,10232,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_2dose__geq56_day15,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,53.75,24,10232,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_Ad26COV2S_1dose_18to55_day01,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,94.86,24,10232,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_Ad26COV2S_1dose_18to55_day15,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,656.02,24,10232,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_Ad26COV2S_1dose__geq56_day01,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,65.86,25,10232,10,NULL,2022-06-20
@@ -38,10 +38,10 @@ Atmar21,BNT162b2_2dose_Ad26COV2S_1dose_18to55_day01,B.1 Spike,Supplementary Tabl
 Atmar21,BNT162b2_2dose_Ad26COV2S_1dose_18to55_day15,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,378.60,24,10232,10,NULL,2022-06-20
 Atmar21,BNT162b2_2dose_Ad26COV2S_1dose__geq56_day01,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,20.57,26,10232,10,NULL,2022-06-20
 Atmar21,BNT162b2_2dose_Ad26COV2S_1dose__geq56_day15,B.1 Spike,Supplementary Table 61,Pseudovirus (lentivirus),NT80,281.04,26,10232,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose_18to55_day01,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,16.75,31,10232,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose_18to55_day15,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,520.75,28,10232,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose__geq56_day01,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,15.53,22,10232,10,NULL,2022-06-20
-Atmar21,Ad26COV2S_2dose_BNT162b2_1dose__geq56_day15,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,496.69,22,10232,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose_18to55_day01,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,16.75,31,10232,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose_18to55_day15,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,520.75,28,10232,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose__geq56_day01,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,15.53,22,10232,10,NULL,2022-06-20
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose__geq56_day15,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,496.69,22,10232,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_BNT162b2_1dose_18to55_day01,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,116.54,22,10232,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_BNT162b2_1dose_18to55_day15,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,1233.06,20,10232,10,NULL,2022-06-20
 Atmar21,mRNA1273_2dose_BNT162b2_1dose__geq56_day01,B.1 Spike,Supplementary Table 63,Pseudovirus (lentivirus),NT80,55.97,29,10232,10,NULL,2022-06-20
