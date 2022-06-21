@@ -110,6 +110,7 @@ Atmar21,mRNA1273_3dose__geq56,Human,NULL,25
 Avanzato20,Donor1,Human,NULL,1
 Avanzato20,Donor2,Human,NULL,1
 Avanzato20,WA-RML,Human,1949,1
+Álvarez22,Patient,Human,1992,1
 Baang21,Donor,Human,NULL,1
 Baang21,Patient,Human,1960,1
 Bailly21,CP Donor,Human,NULL,4
@@ -1406,8 +1407,8 @@ Kimura21,051_3,Human,NULL,1
 Kimura21,056_3,Human,NULL,1
 Kimura21,057_3,Human,NULL,1
 Kimura21,078_3,Human,NULL,1
-Kitchin21,Ad26.COV2.S,Human,NULL,13
-Kitchin21,Ad26.COV2.S_BTI,Human,NULL,6
+Kitchin22,Ad26.COV2.S,Human,NULL,13
+Kitchin22,Ad26.COV2.S_BTI,Human,NULL,6
 Ko22,Patient A,Human,NULL,1
 Ko22,Patient B,Human,NULL,1
 Kumar21,MOD_3dose_1M,Human,NULL,60
