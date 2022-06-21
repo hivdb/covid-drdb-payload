@@ -1,0 +1,9 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhu22,CP_Delta,B.1.617.2 Spike,Figure 1a,Pseudovirus (HIV),NT50,1245,36,10000,30,NULL,2022-06-21
+Zhu22,CP_Delta,WA1,Figure 1a,Pseudovirus (HIV),NT50,563,36,10000,30,NULL,2022-06-21
+Zhu22,CP_Delta,B.1.351 Spike,Figure 1a,Pseudovirus (HIV),NT50,38.5,36,10000,30,NULL,2022-06-21
+Zhu22,CP_Delta,BA.1 Spike,Figure 1a,Pseudovirus (HIV),NT50,19.2,36,10000,30,NULL,2022-06-21
+Zhu22,VP_Delta,B.1.617.2 Spike,Figure 1c,Pseudovirus (HIV),NT50,1160,31,10000,30,NULL,2022-06-21
+Zhu22,VP_Delta,WA1,Figure 1c,Pseudovirus (HIV),NT50,3942,31,10000,30,NULL,2022-06-21
+Zhu22,VP_Delta,B.1.351 Spike,Figure 1c,Pseudovirus (HIV),NT50,1587,31,10000,30,NULL,2022-06-21
+Zhu22,VP_Delta,BA.1 Spike,Figure 1c,Pseudovirus (HIV),NT50,272.1,31,10000,30,NULL,2022-06-21
