@@ -1,4 +1,7 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Atmar21,Ad26COV2S_3dose_29days,WA1 Spike,Table 2,Pseudovirus (lentivirus),NT50,369,50,45118,10,NULL,2022-06-20
+Atmar21,mRNA1273_2dose_Ad26COV2S_1dose_29days,WA1 Spike,Table 2,Pseudovirus (lentivirus),NT50,4560,49,45118,10,NULL,2022-06-20
+Atmar21,BNT162b2_2dose_Ad26COV2S_1dose_29days,WA1 Spike,Table 2,Pseudovirus (lentivirus),NT50,2600,50,45118,10,NULL,2022-06-20
 Atmar21,Ad26COV2S_3dose_18to55_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,28.42,26,45118,10,NULL,2022-06-20
 Atmar21,Ad26COV2S_3dose_18to55_day15,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,119.66,26,45118,10,NULL,2022-06-20
 Atmar21,Ad26COV2S_3dose__geq56_day01,B.1 Spike,Supplementary Table 55,Pseudovirus (lentivirus),NT50,34.67,24,45118,10,NULL,2022-06-20

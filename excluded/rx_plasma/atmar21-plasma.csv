@@ -1,4 +1,7 @@
 ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Atmar21,Ad26COV2S_3dose,Ad26COV2S_3dose_29days,~,2021-07-02,USA,Ad26COV2S_3dose,NULL
+Atmar21,mRNA1273_2dose_Ad26COV2S_1dose,mRNA1273_2dose_Ad26COV2S_1dose_29days,~,2021-07-14,USA,mRNA1273_2dose_Ad26COV2S_1dose,NULL
+Atmar21,BNT162b2_2dose_Ad26COV2S_1dose,BNT162b2_2dose_Ad26COV2S_1dose_29days,~,2021-07-19,USA,BNT162b2_2dose_Ad26COV2S_1dose,NULL
 Atmar21,Ad26COV2S_3dose_18to55,Ad26COV2S_3dose_18to55_day01,~,2021-06-04,USA,Ad26COV2S_3dose_18to55,NULL
 Atmar21,Ad26COV2S_3dose_18to55,Ad26COV2S_3dose_18to55_day15,~,2021-06-18,USA,Ad26COV2S_3dose_18to55,NULL
 Atmar21,Ad26COV2S_3dose__geq56,Ad26COV2S_3dose__geq56_day01,~,2021-06-04,USA,Ad26COV2S_3dose__geq56,NULL
