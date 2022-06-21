@@ -154,6 +154,27 @@ Bekliz21,mRNA_Delta,Human,NULL,4
 Bekliz21,mRNA_Omicron,Human,NULL,4
 Betton21,CP,Human,NULL,107
 Borges21,Patient,Human,1959,1
+Boshier22,Patient A,Human,2011,1
+Boshier22,Patient B,Human,2014,1
+Boshier22,Patient C,Human,2011,1
+Boshier22,Patient D,Human,2020,1
+Boshier22,Patient E,Human,2018,1
+Boshier22,Patient F,Human,2020,1
+Boshier22,Patient G,Human,2006,1
+Boshier22,Patient H,Human,2019,1
+Boshier22,Patient I,Human,2019,1
+Bowen22,AZD1222_2dose,Human,NULL,12
+Bowen22,AZD1222_2dose_booster,Human,NULL,18
+Bowen22,Ad26_1dose_booster,Human,NULL,14
+Bowen22,BBIBP_2dose,Human,NULL,12
+Bowen22,BNT_2dose,Human,NULL,10
+Bowen22,CP_WT,Human,NULL,14
+Bowen22,J&J_1dose,Human,NULL,10
+Bowen22,MOD_2dose,Human,NULL,11
+Bowen22,NVX_2dose,Human,NULL,9
+Bowen22,SputnikV_2dose,Human,NULL,12
+Bowen22,SputnikV_2dose_booster,Human,NULL,14
+Bowen22,mRNA_3dose,Human,NULL,13
 Bronstein21,Donor,Human,NULL,1
 Bronstein21,Patient 1,Human,1953,1
 Bronstein21,Patient 2,Human,1988,1
@@ -427,6 +448,10 @@ Copin21,REGN10987 prevention low dose hamsters,Hamster,NULL,5
 Copin21,REGN10987 treatment high dose hamsters,Hamster,NULL,5
 Copin21,REGN10987 treatment low dose hamsters,Hamster,NULL,5
 Corbett21,mRNA_macaques,Macaque,NULL,24
+Davis21,BNT_1dose,Human,1978,37
+Davis21,BNT_2dose,Human,1978,59
+Davis21,ChAdOx1_1dose,Human,1965,50
+Davis21,ChAdOx1_2dose,Human,1963,18
 Debes22,mRNA,Human,NULL,15
 Dejnirattisai21,AstraZeneca 1,Human,NULL,1
 Dejnirattisai21,AstraZeneca 10,Human,NULL,1

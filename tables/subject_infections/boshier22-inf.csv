@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Boshier22,Patient A,<,2020-04-01,B.1.1,UK,NULL,Hospitalized,Table 1 and table S3
+Boshier22,Patient B,<,2020-03-01,B.1.1.257,UK,Medical,Hospitalized,Table 1 and table S3
+Boshier22,Patient C,<,2020-03-01,B.40,UK,Medical,Hospitalized,Table 1 and table S3
+Boshier22,Patient D,<,2020-02-28,B.1.1,UK,NULL,Hospitalized,Table 1 and table S3
+Boshier22,Patient E,<,2020-03-01,B.1,UK,Medical,Hospitalized,Table 1 and table S3
+Boshier22,Patient F,<,2020-03-01,B.40,UK,Medical,Hospitalized,Table 1 and table S3
+Boshier22,Patient G,<,2020-04-01,B.1.1,UK,NULL,Hospitalized,Table 1 and table S3
+Boshier22,Patient H,<,2020-04-01,B.1.391,UK,Medical,Hospitalized,Table 1 and table S3
+Boshier22,Patient I,<,2020-02-28,B.1,UK,Medical,Hospitalized,Table 1 and table S3
