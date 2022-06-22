@@ -1,0 +1,11 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Peng22,Group1_3x_WT_14days,WT,Figure 2C,Pseudovirus (lentivirus),NT50,138,6,16384,40,NULL,2022-06-16
+Peng22,Group1_3x_WT_28days,WT,Figure 2C,Pseudovirus (lentivirus),NT50,3688,6,16384,40,NULL,2022-06-16
+Peng22,Group1_3x_WT_14days,Omicron,Figure 2C,Pseudovirus (lentivirus),NT50,31,6,16384,40,NULL,2022-06-16
+Peng22,Group1_3x_WT_28days,Omicron,Figure 2C,Pseudovirus (lentivirus),NT50,101,6,16384,40,NULL,2022-06-16
+Peng22,Group2_3x_Omicron_14days,WT,Figure 2D,Pseudovirus (lentivirus),NT50,24,6,16384,40,NULL,2022-06-16
+Peng22,Group2_3x_Omicron_28days,WT,Figure 2D,Pseudovirus (lentivirus),NT50,56,6,16384,40,NULL,2022-06-16
+Peng22,Group2_3x_Omicron_14days,Omicron,Figure 2D,Pseudovirus (lentivirus),NT50,183,6,16384,40,NULL,2022-06-16
+Peng22,Group2_3x_Omicron_28days,Omicron,Figure 2D,Pseudovirus (lentivirus),NT50,5525,6,16384,40,NULL,2022-06-16
+Peng22,Group3_2x_WT_1x_Omicron,WT,Figure 2E,Pseudovirus (lentivirus),NT50,3140,6,16384,40,NULL,2022-06-16
+Peng22,Group3_2x_WT_1x_Omicron,Omicron,Figure 2E,Pseudovirus (lentivirus),NT50,921,6,16384,40,NULL,2022-06-16
