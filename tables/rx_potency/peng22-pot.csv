@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Peng22,CP_WT,B.1.1.7 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,628,13,32768,40,NULL,2022-06-16
 Peng22,CP_WT,B.1.351 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,61,13,32768,40,NULL,2022-06-16
 Peng22,CP_WT,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,208,13,32768,40,NULL,2022-06-16
