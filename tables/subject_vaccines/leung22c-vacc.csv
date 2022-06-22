@@ -1,0 +1,4 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Leung22c,CoronaVac_2dose_BNT162b2_1dose,~,2021-04-19,CoronaVac,1,China,NULL
+Leung22c,CoronaVac_2dose_BNT162b2_1dose,~,2021-05-17,CoronaVac,2,China,NULL
+Leung22c,CoronaVac_2dose_BNT162b2_1dose,~,2021-11-30,BNT162b2,3,China,NULL
