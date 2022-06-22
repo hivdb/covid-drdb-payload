@@ -1,11 +1,41 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Peng22,Group1_3x_WT_14days,WT,Figure 2C,Pseudovirus (lentivirus),NT50,138,6,16384,40,NULL,2022-06-16
-Peng22,Group1_3x_WT_28days,WT,Figure 2C,Pseudovirus (lentivirus),NT50,3688,6,16384,40,NULL,2022-06-16
-Peng22,Group1_3x_WT_14days,Omicron,Figure 2C,Pseudovirus (lentivirus),NT50,31,6,16384,40,NULL,2022-06-16
-Peng22,Group1_3x_WT_28days,Omicron,Figure 2C,Pseudovirus (lentivirus),NT50,101,6,16384,40,NULL,2022-06-16
-Peng22,Group2_3x_Omicron_14days,WT,Figure 2D,Pseudovirus (lentivirus),NT50,24,6,16384,40,NULL,2022-06-16
-Peng22,Group2_3x_Omicron_28days,WT,Figure 2D,Pseudovirus (lentivirus),NT50,56,6,16384,40,NULL,2022-06-16
-Peng22,Group2_3x_Omicron_14days,Omicron,Figure 2D,Pseudovirus (lentivirus),NT50,183,6,16384,40,NULL,2022-06-16
-Peng22,Group2_3x_Omicron_28days,Omicron,Figure 2D,Pseudovirus (lentivirus),NT50,5525,6,16384,40,NULL,2022-06-16
-Peng22,Group3_2x_WT_1x_Omicron,WT,Figure 2E,Pseudovirus (lentivirus),NT50,3140,6,16384,40,NULL,2022-06-16
-Peng22,Group3_2x_WT_1x_Omicron,Omicron,Figure 2E,Pseudovirus (lentivirus),NT50,921,6,16384,40,NULL,2022-06-16
+Peng22,Group1_3x_WT_14days,Wuhan-Hu-1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,138,6,16384,40,NULL,2022-06-16
+Peng22,Group1_3x_WT_28days,Wuhan-Hu-1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,3688,6,16384,40,NULL,2022-06-16
+Peng22,Group1_3x_WT_14days,BA.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,31,6,16384,40,NULL,2022-06-16
+Peng22,Group1_3x_WT_28days,BA.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,101,6,16384,40,NULL,2022-06-16
+Peng22,Group2_3x_Omicron_14days,Wuhan-Hu-1 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,24,6,16384,40,NULL,2022-06-16
+Peng22,Group2_3x_Omicron_28days,Wuhan-Hu-1 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,56,6,16384,40,NULL,2022-06-16
+Peng22,Group2_3x_Omicron_14days,BA.1 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,183,6,16384,40,NULL,2022-06-16
+Peng22,Group2_3x_Omicron_28days,BA.1 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,5525,6,16384,40,NULL,2022-06-16
+Peng22,Group3_2x_WT_1x_Omicron,Wuhan-Hu-1 Spike,Figure 2E,Pseudovirus (lentivirus),NT50,3140,6,16384,40,NULL,2022-06-16
+Peng22,Group3_2x_WT_1x_Omicron,BA.1 Spike,Figure 2E,Pseudovirus (lentivirus),NT50,921,6,16384,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2A,B.1.1.7 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,276,13,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2A,B.1.351 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,42,13,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2A,B.1.617.2 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,117,13,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2A,BA.1 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,33,13,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2A,Wuhan-Hu-1 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,359,13,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2A,B.1.1.7 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,702,20,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2A,B.1.351 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,191,20,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2A,B.1.617.2 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,816,20,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2A,BA.1 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,186,20,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2A,Wuhan-Hu-1 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,652,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2A,B.1.1.7 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,209,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2A,B.1.351 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,113,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2A,B.1.617.2 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,181,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2A,BA.1 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,70,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2A,Wuhan-Hu-1 Spike,Extended Data Figure 2A,Pseudovirus (lentivirus),NT50,152,20,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2B,B.1.1.7 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,1123,13,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2B,B.1.351 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,175,13,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2B,B.1.617.2 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,475,13,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2B,BA.1 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,112,13,32768,40,NULL,2022-06-16
+Peng22,CP_WT_EDfig2B,Wuhan-Hu-1 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,1551,13,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2B,B.1.1.7 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,1426,20,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2B,B.1.351 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,433,20,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2B,B.1.617.2 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,1783,20,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2B,BA.1 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,381,20,32768,40,NULL,2022-06-16
+Peng22,CP_Delta_bti_EDfig2B,Wuhan-Hu-1 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,1341,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2B,B.1.1.7 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,633,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2B,B.1.351 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,246,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2B,B.1.617.2 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,582,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2B,BA.1 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,351,20,32768,40,NULL,2022-06-16
+Peng22,CP_Omicron_bti_EDfig2B,Wuhan-Hu-1 Spike,Extended Data Figure 2B,Pseudovirus (lentivirus),NT50,580,20,32768,40,NULL,2022-06-16

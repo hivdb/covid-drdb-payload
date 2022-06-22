@@ -1,9 +1,4 @@
 ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
-Peng22,CP_WT,CP_WT,~,
-Peng22,CP_Delta_bti,CP_Delta_bti,~,
-Peng22,CP_Omicron_bti,CP_Omicron_bti,~,
-Peng22,Group1_3x_WT_14days,Group1_3x_WT,~,
-Peng22,Group1_3x_WT_28days,Group1_3x_WT,~,
-Peng22,Group2_3x_Omicron_14days,Group2_3x_Omicron,~,
-Peng22,Group2_3x_Omicron_28days,Group2_3x_Omicron,~,
-Peng22,Group3_2x_WT_1x_Omicron,Group3_2x_WT_1x_Omicron,~,
+Peng22,CP_WT,CP_WT,~,2020-01-26,China,CP_WT,NULL
+Peng22,CP_Delta_bti,CP_Delta_bti,~,2021-07-26,China,CP_Delta_bti,NULL
+Peng22,CP_Omicron_bti,CP_Omicron_bti,~,2022-01-26,China,CP_Omicron_bti,NULL
