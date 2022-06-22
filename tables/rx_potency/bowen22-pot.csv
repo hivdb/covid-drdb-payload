@@ -1,0 +1,37 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Bowen22,CP_WT,S:614G,Figure 1,Pseudovirus (VSV),NT50,162,14,100000,25,NULL,2022-06-20
+Bowen22,CP_WT,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,10,14,100000,25,NULL,2022-06-20
+Bowen22,CP_WT,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,15,14,100000,25,NULL,2022-06-20
+Bowen22,MOD_2dose,S:614G,Figure 1,Pseudovirus (VSV),NT50,1155,11,100000,25,NULL,2022-06-20
+Bowen22,MOD_2dose,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,26,11,100000,25,NULL,2022-06-20
+Bowen22,MOD_2dose,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,47,11,100000,25,NULL,2022-06-20
+Bowen22,BNT_2dose,S:614G,Figure 1,Pseudovirus (VSV),NT50,764,10,100000,25,NULL,2022-06-20
+Bowen22,BNT_2dose,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,23,10,100000,25,NULL,2022-06-20
+Bowen22,BNT_2dose,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,34,10,100000,25,NULL,2022-06-20
+Bowen22,NVX_2dose,S:614G,Figure 1,Pseudovirus (VSV),NT50,289,9,100000,25,NULL,2022-06-20
+Bowen22,NVX_2dose,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,11,9,100000,25,NULL,2022-06-20
+Bowen22,NVX_2dose,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,18,9,100000,25,NULL,2022-06-20
+Bowen22,J&J_1dose,S:614G,Figure 1,Pseudovirus (VSV),NT50,80,10,100000,25,NULL,2022-06-20
+Bowen22,J&J_1dose,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,8,10,100000,25,NULL,2022-06-20
+Bowen22,J&J_1dose,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,9,10,100000,25,NULL,2022-06-20
+Bowen22,AZD1222_2dose,S:614G,Figure 1,Pseudovirus (VSV),NT50,656,12,100000,25,NULL,2022-06-20
+Bowen22,AZD1222_2dose,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,15,12,100000,25,NULL,2022-06-20
+Bowen22,AZD1222_2dose,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,31,12,100000,25,NULL,2022-06-20
+Bowen22,SputnikV_2dose,S:614G,Figure 1,Pseudovirus (VSV),NT50,152,12,100000,25,NULL,2022-06-20
+Bowen22,SputnikV_2dose,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,13,12,100000,25,NULL,2022-06-20
+Bowen22,SputnikV_2dose,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,22,12,100000,25,NULL,2022-06-20
+Bowen22,BBIBP_2dose,S:614G,Figure 1,Pseudovirus (VSV),NT50,188,12,100000,25,NULL,2022-06-20
+Bowen22,BBIBP_2dose,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,15,12,100000,25,NULL,2022-06-20
+Bowen22,BBIBP_2dose,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,29,12,100000,25,NULL,2022-06-20
+Bowen22,mRNA_3dose,S:614G,Figure 1,Pseudovirus (VSV),NT50,3324,13,100000,25,NULL,2022-06-20
+Bowen22,mRNA_3dose,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,416,13,100000,25,NULL,2022-06-20
+Bowen22,mRNA_3dose,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,612,13,100000,25,NULL,2022-06-20
+Bowen22,Ad26_1dose_booster,S:614G,Figure 2,Pseudovirus (VSV),NT50,642,14,100000,25,NULL,2022-06-20
+Bowen22,Ad26_1dose_booster,BA.1 Spike,Figure 2,Pseudovirus (VSV),NT50,37,14,100000,25,NULL,2022-06-20
+Bowen22,Ad26_1dose_booster,BA.2 Spike,Figure 2,Pseudovirus (VSV),NT50,74,14,100000,25,NULL,2022-06-20
+Bowen22,AZD1222_2dose_booster,S:614G,Figure 2,Pseudovirus (VSV),NT50,2579,18,100000,25,NULL,2022-06-20
+Bowen22,AZD1222_2dose_booster,BA.1 Spike,Figure 2,Pseudovirus (VSV),NT50,275,18,100000,25,NULL,2022-06-20
+Bowen22,AZD1222_2dose_booster,BA.2 Spike,Figure 2,Pseudovirus (VSV),NT50,414,18,100000,25,NULL,2022-06-20
+Bowen22,SputnikV_2dose_booster,S:614G,Figure 2,Pseudovirus (VSV),NT50,1480,14,100000,25,NULL,2022-06-20
+Bowen22,SputnikV_2dose_booster,BA.1 Spike,Figure 2,Pseudovirus (VSV),NT50,160,14,100000,25,NULL,2022-06-20
+Bowen22,SputnikV_2dose_booster,BA.2 Spike,Figure 2,Pseudovirus (VSV),NT50,247,14,100000,25,NULL,2022-06-20

@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Davis21,BNT_1dose,~,2021-05-01,BNT162b2,1,UK,Introduction
+Davis21,BNT_2dose,~,2021-08-01,BNT162b2,2,UK,Introduction
+Davis21,ChAdOx1_1dose,~,2021-02-01,AZD1222,1,UK,Introduction
+Davis21,ChAdOx1_2dose,~,2021-05-01,AZD1222,2,UK,Introduction

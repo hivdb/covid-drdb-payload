@@ -1,0 +1,15 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Bowen22,MOD_2dose,~,2021-04-01,mRNA-1273,2,USA,Sample donors
+Bowen22,BNT_2dose,~,2021-04-01,BNT162b2,2,USA,Sample donors
+Bowen22,NVX_2dose,~,2021-04-01,NVX-CoV2373,2,USA,Sample donors
+Bowen22,J&J_1dose,~,2021-04-01,Ad26.COV2.S,1,USA,Sample donors
+Bowen22,AZD1222_2dose,~,2021-04-01,AZD1222,2,Italy,Sample donors
+Bowen22,SputnikV_2dose,~,2021-04-01,Sputnik V,2,Argentina,Sample donors
+Bowen22,BBIBP_2dose,~,2021-04-01,BBIBP-CorV,2,Pakistan,Sample donors
+Bowen22,mRNA_3dose,~,2021-10-01,mRNA,3,USA,Sample donors
+Bowen22,Ad26_1dose_booster,~,2021-04-01,Ad26.COV2.S,2,USA,Sample donors
+Bowen22,Ad26_1dose_booster,~,2021-08-01,BNT162b2,3,USA,Sample donors
+Bowen22,AZD1222_2dose_booster,~,2021-04-01,AZD1222,2,Italy,Sample donors
+Bowen22,AZD1222_2dose_booster,~,2021-10-01,mRNA,3,Italy,Sample donors
+Bowen22,SputnikV_2dose_booster,~,2021-04-01,Sputnik V,2,Argentina,Sample donors
+Bowen22,SputnikV_2dose_booster,~,2022-01-01,AZD1222,3,Argentina,Sample donors

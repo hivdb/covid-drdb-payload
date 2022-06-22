@@ -92,9 +92,25 @@ Assawakosri22,AZD122,Human,NULL,55
 Assawakosri22,BBIBP,Human,NULL,57
 Assawakosri22,BNT162b2,Human,NULL,54
 Assawakosri22,mRNA_1273,Human,NULL,58
+Atmar21,Ad26COV2S_1dose_BNT162b2_1dose,Human,NULL,50
+Atmar21,Ad26COV2S_1dose_mRNA1273_1dose,Human,NULL,51
+Atmar21,Ad26COV2S_1dose_mRNA1273_1dose_18to55,Human,NULL,21
+Atmar21,Ad26COV2S_1dose_mRNA1273_1dose__geq56,Human,NULL,31
+Atmar21,Ad26COV2S_2dose,Human,NULL,50
+Atmar21,BNT162b2_2dose_Ad26COV2S_1dose,Human,NULL,50
+Atmar21,BNT162b2_2dose_mRNA1273_1dose,Human,NULL,50
+Atmar21,BNT162b2_2dose_mRNA1273_1dose_18to55,Human,NULL,25
+Atmar21,BNT162b2_2dose_mRNA1273_1dose__geq56,Human,NULL,25
+Atmar21,BNT162b2_3dose,Human,NULL,48
+Atmar21,mRNA1273_2dose_Ad26COV2S_1dose,Human,NULL,49
+Atmar21,mRNA1273_2dose_BNT162b2_1dose,Human,NULL,48
+Atmar21,mRNA1273_3dose,Human,NULL,50
+Atmar21,mRNA1273_3dose_18to55,Human,NULL,26
+Atmar21,mRNA1273_3dose__geq56,Human,NULL,25
 Avanzato20,Donor1,Human,NULL,1
 Avanzato20,Donor2,Human,NULL,1
 Avanzato20,WA-RML,Human,1949,1
+Álvarez22,Patient,Human,1992,1
 Baang21,Donor,Human,NULL,1
 Baang21,Patient,Human,1960,1
 Bailly21,CP Donor,Human,NULL,4
@@ -127,6 +143,27 @@ Bekliz21,mRNA_Delta,Human,NULL,4
 Bekliz21,mRNA_Omicron,Human,NULL,4
 Betton21,CP,Human,NULL,107
 Borges21,Patient,Human,1959,1
+Boshier22,Patient A,Human,2011,1
+Boshier22,Patient B,Human,2014,1
+Boshier22,Patient C,Human,2011,1
+Boshier22,Patient D,Human,2020,1
+Boshier22,Patient E,Human,2018,1
+Boshier22,Patient F,Human,2020,1
+Boshier22,Patient G,Human,2006,1
+Boshier22,Patient H,Human,2019,1
+Boshier22,Patient I,Human,2019,1
+Bowen22,AZD1222_2dose,Human,NULL,12
+Bowen22,AZD1222_2dose_booster,Human,NULL,18
+Bowen22,Ad26_1dose_booster,Human,NULL,14
+Bowen22,BBIBP_2dose,Human,NULL,12
+Bowen22,BNT_2dose,Human,NULL,10
+Bowen22,CP_WT,Human,NULL,14
+Bowen22,J&J_1dose,Human,NULL,10
+Bowen22,MOD_2dose,Human,NULL,11
+Bowen22,NVX_2dose,Human,NULL,9
+Bowen22,SputnikV_2dose,Human,NULL,12
+Bowen22,SputnikV_2dose_booster,Human,NULL,14
+Bowen22,mRNA_3dose,Human,NULL,13
 Bronstein21,Donor,Human,NULL,1
 Bronstein21,Patient 1,Human,1953,1
 Bronstein21,Patient 2,Human,1988,1
@@ -199,6 +236,9 @@ Chalkias22,mRNA-1273_2dose,Human,1970,584
 Chalkias22,mRNA-1273_50ug_booster,Human,1971,296
 Chalkias22,mRNA-1273_booster,Human,1970,140
 Changrob21,CP,Human,NULL,10
+Chansaenroj22,BBIBP_2dose_AZD1222,Human,1980,33
+Chansaenroj22,BBIBP_2dose_BNT162b2,Human,1980,56
+Chansaenroj22,BBIBP_2dose_mRNA-1273,Human,1978,55
 Chatterjee22,BNT162b2_16wks,Human,NULL,25
 Chatterjee22,BNT162b2_4wks,Human,NULL,19
 Chatterjee22b,BNT_2dose_16w_3w,Human,NULL,9
@@ -397,6 +437,10 @@ Copin21,REGN10987 prevention low dose hamsters,Hamster,NULL,5
 Copin21,REGN10987 treatment high dose hamsters,Hamster,NULL,5
 Copin21,REGN10987 treatment low dose hamsters,Hamster,NULL,5
 Corbett21,mRNA_macaques,Macaque,NULL,24
+Davis21,BNT_1dose,Human,1978,37
+Davis21,BNT_2dose,Human,1978,59
+Davis21,ChAdOx1_1dose,Human,1965,50
+Davis21,ChAdOx1_2dose,Human,1963,18
 Debes22,mRNA,Human,NULL,15
 Dejnirattisai21,AstraZeneca 1,Human,NULL,1
 Dejnirattisai21,AstraZeneca 10,Human,NULL,1
@@ -1363,8 +1407,8 @@ Kimura21,051_3,Human,NULL,1
 Kimura21,056_3,Human,NULL,1
 Kimura21,057_3,Human,NULL,1
 Kimura21,078_3,Human,NULL,1
-Kitchin21,Ad26.COV2.S,Human,NULL,13
-Kitchin21,Ad26.COV2.S_BTI,Human,NULL,6
+Kitchin22,Ad26.COV2.S,Human,NULL,13
+Kitchin22,Ad26.COV2.S_BTI,Human,NULL,6
 Ko22,Patient A,Human,NULL,1
 Ko22,Patient B,Human,NULL,1
 Kumar21,MOD_3dose_1M,Human,NULL,60
@@ -1754,6 +1798,8 @@ Liu21l,BNT_infected,Human,NULL,1
 Liu21l,CP,Human,NULL,10
 Liu21l,mRNA-1273,Human,NULL,12
 Liu21l,mRNA-1273_boosted,Human,NULL,2
+Lodi22,CP Donor,Human,NULL,1
+Lodi22,Patient 1,Human,2018,1
 Lohr21,Patient,Human,1966,1
 Lu21b,BNT162b2,Human,1974,1
 Lu21b,CoronaVac,Human,1969,1
@@ -1802,6 +1848,7 @@ Mallm21,BNT162b2,Human,NULL,6
 Manali22,CP_Alpha,Human,NULL,39
 Manali22,CP_Delta,Human,NULL,15
 Manali22,CP_WT,Human,NULL,37
+Mancon22,Patient,Human,NULL,1
 Mannar22,all_convalescent_delta_omicron,Human,NULL,68
 Mannar22,all_convalescent_wt_omicron,Human,NULL,68
 Mannar22,alpha_convalescent_delta__omicron,Human,NULL,27
@@ -1992,6 +2039,36 @@ Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28,Human,NULL,75
 Perez-Then22,DR_CoronaVac_2dose_mRNA_1dose_d28_CP,Human,NULL,26
 Perez-Then22,Yale_mRNA_2dose_d28,Human,NULL,16
 Perez-Then22,Yale_mRNA_2dose_d28_CP,Human,NULL,15
+Pickering22,BNT162b2_2doses_01,Human,NULL,1
+Pickering22,BNT162b2_2doses_02,Human,NULL,1
+Pickering22,BNT162b2_2doses_03,Human,NULL,1
+Pickering22,BNT162b2_2doses_04,Human,NULL,1
+Pickering22,BNT162b2_2doses_05,Human,NULL,1
+Pickering22,BNT162b2_2doses_06,Human,NULL,1
+Pickering22,BNT162b2_2doses_07,Human,NULL,1
+Pickering22,BNT162b2_2doses_08,Human,NULL,1
+Pickering22,BNT162b2_2doses_09,Human,NULL,1
+Pickering22,BNT162b2_2doses_10,Human,NULL,1
+Pickering22,BNT162b2_3doses_01,Human,NULL,1
+Pickering22,BNT162b2_3doses_02,Human,NULL,1
+Pickering22,BNT162b2_3doses_03,Human,NULL,1
+Pickering22,BNT162b2_3doses_04,Human,NULL,1
+Pickering22,BNT162b2_3doses_05,Human,NULL,1
+Pickering22,BNT162b2_3doses_06,Human,NULL,1
+Pickering22,BNT162b2_3doses_07,Human,NULL,1
+Pickering22,BNT162b2_3doses_08,Human,NULL,1
+Pickering22,BNT162b2_3doses_09,Human,NULL,1
+Pickering22,BNT162b2_3doses_10,Human,NULL,1
+Pickering22,CP_01,Human,NULL,1
+Pickering22,CP_02,Human,NULL,1
+Pickering22,CP_03,Human,NULL,1
+Pickering22,CP_04,Human,NULL,1
+Pickering22,CP_05,Human,NULL,1
+Pickering22,CP_06,Human,NULL,1
+Pickering22,CP_07,Human,NULL,1
+Pickering22,CP_08,Human,NULL,1
+Pickering22,CP_09,Human,NULL,1
+Pickering22,CP_10,Human,NULL,1
 Planas21,BNT01,Human,NULL,1
 Planas21,BNT02,Human,NULL,1
 Planas21,BNT03,Human,NULL,1
@@ -2255,8 +2332,139 @@ Seaman22,CP_ba1_vaccinated,Human,NULL,8
 Seaman22,CP_delta,Human,NULL,3
 Seaman22,CP_delta_boosted,Human,NULL,3
 Seaman22,CP_delta_vaccinated,Human,NULL,11
+Seidel22,CP,Human,NULL,29
+Seidel22,CP_and_mRNA_or_AZD1222_1_dose,Human,NULL,17
+Seidel22,CP_and_mRNA_or_AZD1222_2_dose,Human,NULL,20
 Sepulcri21,Donor,Human,NULL,1
 Sepulcri21,Patient,Human,1940,1
+Servellita22,BTI_D1,Human,NULL,1
+Servellita22,BTI_D10,Human,NULL,1
+Servellita22,BTI_D11,Human,NULL,1
+Servellita22,BTI_D12,Human,NULL,1
+Servellita22,BTI_D13,Human,NULL,1
+Servellita22,BTI_D14,Human,NULL,1
+Servellita22,BTI_D15,Human,NULL,1
+Servellita22,BTI_D16,Human,NULL,1
+Servellita22,BTI_D17,Human,NULL,1
+Servellita22,BTI_D18,Human,NULL,1
+Servellita22,BTI_D19,Human,NULL,1
+Servellita22,BTI_D2,Human,NULL,1
+Servellita22,BTI_D20,Human,NULL,1
+Servellita22,BTI_D21,Human,NULL,1
+Servellita22,BTI_D22,Human,NULL,1
+Servellita22,BTI_D23,Human,NULL,1
+Servellita22,BTI_D24,Human,NULL,1
+Servellita22,BTI_D25,Human,NULL,1
+Servellita22,BTI_D26,Human,NULL,1
+Servellita22,BTI_D27,Human,NULL,1
+Servellita22,BTI_D28,Human,NULL,1
+Servellita22,BTI_D29,Human,NULL,1
+Servellita22,BTI_D3,Human,NULL,1
+Servellita22,BTI_D30,Human,NULL,1
+Servellita22,BTI_D31,Human,NULL,1
+Servellita22,BTI_D32,Human,NULL,1
+Servellita22,BTI_D33,Human,NULL,1
+Servellita22,BTI_D34,Human,NULL,1
+Servellita22,BTI_D35,Human,NULL,1
+Servellita22,BTI_D36,Human,NULL,1
+Servellita22,BTI_D37,Human,NULL,1
+Servellita22,BTI_D38,Human,NULL,1
+Servellita22,BTI_D39,Human,NULL,1
+Servellita22,BTI_D4,Human,NULL,1
+Servellita22,BTI_D5,Human,NULL,1
+Servellita22,BTI_D6,Human,NULL,1
+Servellita22,BTI_D7,Human,NULL,1
+Servellita22,BTI_D8,Human,NULL,1
+Servellita22,BTI_D9,Human,NULL,1
+Servellita22,BTI_O1,Human,NULL,1
+Servellita22,BTI_O10,Human,NULL,1
+Servellita22,BTI_O11,Human,NULL,1
+Servellita22,BTI_O12,Human,NULL,1
+Servellita22,BTI_O13,Human,NULL,1
+Servellita22,BTI_O14,Human,NULL,1
+Servellita22,BTI_O15,Human,NULL,1
+Servellita22,BTI_O16,Human,NULL,1
+Servellita22,BTI_O17,Human,NULL,1
+Servellita22,BTI_O18,Human,NULL,1
+Servellita22,BTI_O19,Human,NULL,1
+Servellita22,BTI_O2,Human,NULL,1
+Servellita22,BTI_O20,Human,NULL,1
+Servellita22,BTI_O21,Human,NULL,1
+Servellita22,BTI_O3,Human,NULL,1
+Servellita22,BTI_O4,Human,NULL,1
+Servellita22,BTI_O5,Human,NULL,1
+Servellita22,BTI_O6,Human,NULL,1
+Servellita22,BTI_O7,Human,NULL,1
+Servellita22,BTI_O8,Human,NULL,1
+Servellita22,BTI_O9,Human,NULL,1
+Servellita22,VP_U1,Human,NULL,1
+Servellita22,VP_U10,Human,NULL,1
+Servellita22,VP_U100,Human,NULL,1
+Servellita22,VP_U101,Human,NULL,1
+Servellita22,VP_U103,Human,NULL,1
+Servellita22,VP_U106,Human,NULL,1
+Servellita22,VP_U107,Human,NULL,1
+Servellita22,VP_U110,Human,NULL,1
+Servellita22,VP_U111,Human,NULL,1
+Servellita22,VP_U112,Human,NULL,1
+Servellita22,VP_U113,Human,NULL,1
+Servellita22,VP_U114,Human,NULL,1
+Servellita22,VP_U115,Human,NULL,1
+Servellita22,VP_U118,Human,NULL,1
+Servellita22,VP_U119,Human,NULL,1
+Servellita22,VP_U12,Human,NULL,1
+Servellita22,VP_U121,Human,NULL,1
+Servellita22,VP_U125,Human,NULL,1
+Servellita22,VP_U127,Human,NULL,1
+Servellita22,VP_U128,Human,NULL,1
+Servellita22,VP_U13,Human,NULL,1
+Servellita22,VP_U131,Human,NULL,1
+Servellita22,VP_U132,Human,NULL,1
+Servellita22,VP_U135,Human,NULL,1
+Servellita22,VP_U14,Human,NULL,1
+Servellita22,VP_U148,Human,NULL,1
+Servellita22,VP_U149,Human,NULL,1
+Servellita22,VP_U150,Human,NULL,1
+Servellita22,VP_U151,Human,NULL,1
+Servellita22,VP_U157,Human,NULL,1
+Servellita22,VP_U159,Human,NULL,1
+Servellita22,VP_U163,Human,NULL,1
+Servellita22,VP_U165,Human,NULL,1
+Servellita22,VP_U166,Human,NULL,1
+Servellita22,VP_U168,Human,NULL,1
+Servellita22,VP_U17,Human,NULL,1
+Servellita22,VP_U18,Human,NULL,1
+Servellita22,VP_U182,Human,NULL,1
+Servellita22,VP_U184,Human,NULL,1
+Servellita22,VP_U185,Human,NULL,1
+Servellita22,VP_U187,Human,NULL,1
+Servellita22,VP_U188,Human,NULL,1
+Servellita22,VP_U189,Human,NULL,1
+Servellita22,VP_U190,Human,NULL,1
+Servellita22,VP_U2,Human,NULL,1
+Servellita22,VP_U20,Human,NULL,1
+Servellita22,VP_U22,Human,NULL,1
+Servellita22,VP_U26,Human,NULL,1
+Servellita22,VP_U27,Human,NULL,1
+Servellita22,VP_U28,Human,NULL,1
+Servellita22,VP_U38,Human,NULL,1
+Servellita22,VP_U39,Human,NULL,1
+Servellita22,VP_U5,Human,NULL,1
+Servellita22,VP_U55,Human,NULL,1
+Servellita22,VP_U6,Human,NULL,1
+Servellita22,VP_U67,Human,NULL,1
+Servellita22,VP_U7,Human,NULL,1
+Servellita22,VP_U75,Human,NULL,1
+Servellita22,VP_U84,Human,NULL,1
+Servellita22,VP_U89,Human,NULL,1
+Servellita22,VP_U9,Human,NULL,1
+Servellita22,VP_U91,Human,NULL,1
+Servellita22,VP_U92,Human,NULL,1
+Servellita22,VP_U93,Human,NULL,1
+Servellita22,VP_U94,Human,NULL,1
+Servellita22,VP_U95,Human,NULL,1
+Servellita22,VP_U96,Human,NULL,1
+Servellita22,VP_U99,Human,NULL,1
 Shen21,CP_Ser_12,Human,NULL,1
 Shen21,CP_Ser_16,Human,NULL,1
 Shen21,CP_Ser_26,Human,NULL,1
@@ -2691,6 +2899,24 @@ Vellas21,Patient 2,Human,1940,1
 Vellas21,Patient 3,Human,1940,1
 Vellas21,Patient 4,Human,1940,1
 Vellas21,Patient 5,Human,1940,1
+Vellas22,Patient 1,Human,1960,1
+Vellas22,Patient 10,Human,1960,1
+Vellas22,Patient 11,Human,1960,1
+Vellas22,Patient 12,Human,1960,1
+Vellas22,Patient 13,Human,1960,1
+Vellas22,Patient 14,Human,1960,1
+Vellas22,Patient 15,Human,1960,1
+Vellas22,Patient 16,Human,1960,1
+Vellas22,Patient 17,Human,1960,1
+Vellas22,Patient 18,Human,1960,1
+Vellas22,Patient 2,Human,1960,1
+Vellas22,Patient 3,Human,1960,1
+Vellas22,Patient 4,Human,1960,1
+Vellas22,Patient 5,Human,1960,1
+Vellas22,Patient 6,Human,1960,1
+Vellas22,Patient 7,Human,1960,1
+Vellas22,Patient 8,Human,1960,1
+Vellas22,Patient 9,Human,1960,1
 Vicenti21,CP,Human,1975,20
 Vicenti21,VP,Human,1972,15
 Vidal21,CP,Human,NULL,21
@@ -3258,111 +3484,113 @@ Zhou22b,BNT_2dose,Human,NULL,9
 Zhou22b,Sinovac_2dose,Human,NULL,23
 Zhou22b,Sinovac_2dose_BNT_1dose,Human,NULL,7
 Zhou22b,Sinovac_3dose,Human,NULL,24
+Zhu22,CP_Delta,Human,NULL,36
+Zhu22,VP_Delta,Human,NULL,31
 Zou21,CP,Human,NULL,18
 Zou21,CP_Macaque_d28,Macaque,NULL,6
 Zou21,CP_Macaque_d35,Macaque,NULL,6
 Zou21,CP_Mouse,Mouse,NULL,19
-Zou21b,CP_1m_1,Human,2000,1
-Zou21b,CP_1m_10,Human,1997,1
-Zou21b,CP_1m_11,Human,1988,1
-Zou21b,CP_1m_12,Human,1995,1
-Zou21b,CP_1m_13,Human,1961,1
-Zou21b,CP_1m_14,Human,1954,1
-Zou21b,CP_1m_15,Human,1999,1
-Zou21b,CP_1m_16,Human,1952,1
-Zou21b,CP_1m_17,Human,1948,1
-Zou21b,CP_1m_18,Human,2004,1
-Zou21b,CP_1m_19,Human,1976,1
-Zou21b,CP_1m_2,Human,1983,1
-Zou21b,CP_1m_20,Human,1997,1
-Zou21b,CP_1m_21,Human,1996,1
-Zou21b,CP_1m_22,Human,1946,1
-Zou21b,CP_1m_23,Human,1941,1
-Zou21b,CP_1m_24,Human,1960,1
-Zou21b,CP_1m_25,Human,1943,1
-Zou21b,CP_1m_26,Human,1955,1
-Zou21b,CP_1m_27,Human,1983,1
-Zou21b,CP_1m_28,Human,1987,1
-Zou21b,CP_1m_29,Human,1996,1
-Zou21b,CP_1m_3,Human,2004,1
-Zou21b,CP_1m_30,Human,1955,1
-Zou21b,CP_1m_31,Human,1982,1
-Zou21b,CP_1m_32,Human,1986,1
-Zou21b,CP_1m_33,Human,1966,1
-Zou21b,CP_1m_34,Human,1954,1
-Zou21b,CP_1m_35,Human,1966,1
-Zou21b,CP_1m_36,Human,1981,1
-Zou21b,CP_1m_37,Human,1961,1
-Zou21b,CP_1m_38,Human,1956,1
-Zou21b,CP_1m_39,Human,1952,1
-Zou21b,CP_1m_4,Human,2003,1
-Zou21b,CP_1m_40,Human,1953,1
-Zou21b,CP_1m_41,Human,1971,1
-Zou21b,CP_1m_42,Human,1958,1
-Zou21b,CP_1m_43,Human,1982,1
-Zou21b,CP_1m_44,Human,1949,1
-Zou21b,CP_1m_45,Human,1966,1
-Zou21b,CP_1m_46,Human,1964,1
-Zou21b,CP_1m_47,Human,2020,1
-Zou21b,CP_1m_48,Human,1934,1
-Zou21b,CP_1m_49,Human,1925,1
-Zou21b,CP_1m_5,Human,1995,1
-Zou21b,CP_1m_50,Human,1955,1
-Zou21b,CP_1m_51,Human,1946,1
-Zou21b,CP_1m_52,Human,1958,1
-Zou21b,CP_1m_53,Human,1955,1
-Zou21b,CP_1m_54,Human,1972,1
-Zou21b,CP_1m_55,Human,1965,1
-Zou21b,CP_1m_56,Human,1977,1
-Zou21b,CP_1m_57,Human,1938,1
-Zou21b,CP_1m_58,Human,1946,1
-Zou21b,CP_1m_59,Human,1947,1
-Zou21b,CP_1m_6,Human,1997,1
-Zou21b,CP_1m_60,Human,1973,1
-Zou21b,CP_1m_61,Human,1943,1
-Zou21b,CP_1m_62,Human,1951,1
-Zou21b,CP_1m_63,Human,1972,1
-Zou21b,CP_1m_64,Human,1971,1
-Zou21b,CP_1m_7,Human,1997,1
-Zou21b,CP_1m_8,Human,1986,1
-Zou21b,CP_1m_9,Human,1998,1
-Zou21b,CP_6m_1,Human,2004,1
-Zou21b,CP_6m_10,Human,1960,1
-Zou21b,CP_6m_11,Human,1981,1
-Zou21b,CP_6m_12,Human,1999,1
-Zou21b,CP_6m_13,Human,1971,1
-Zou21b,CP_6m_14,Human,1995,1
-Zou21b,CP_6m_15,Human,2000,1
-Zou21b,CP_6m_16,Human,1995,1
-Zou21b,CP_6m_17,Human,1948,1
-Zou21b,CP_6m_18,Human,1999,1
-Zou21b,CP_6m_19,Human,1974,1
-Zou21b,CP_6m_2,Human,1997,1
-Zou21b,CP_6m_20,Human,1942,1
-Zou21b,CP_6m_21,Human,1944,1
-Zou21b,CP_6m_22,Human,1964,1
-Zou21b,CP_6m_23,Human,1998,1
-Zou21b,CP_6m_24,Human,1981,1
-Zou21b,CP_6m_25,Human,1999,1
-Zou21b,CP_6m_26,Human,1967,1
-Zou21b,CP_6m_27,Human,1957,1
-Zou21b,CP_6m_28,Human,1982,1
-Zou21b,CP_6m_29,Human,1952,1
-Zou21b,CP_6m_3,Human,1997,1
-Zou21b,CP_6m_30,Human,1972,1
-Zou21b,CP_6m_31,Human,1925,1
-Zou21b,CP_6m_32,Human,1941,1
-Zou21b,CP_6m_33,Human,1972,1
-Zou21b,CP_6m_34,Human,1973,1
-Zou21b,CP_6m_35,Human,1955,1
-Zou21b,CP_6m_36,Human,1951,1
-Zou21b,CP_6m_4,Human,1951,1
-Zou21b,CP_6m_5,Human,1992,1
-Zou21b,CP_6m_6,Human,2000,1
-Zou21b,CP_6m_7,Human,1951,1
-Zou21b,CP_6m_8,Human,1994,1
-Zou21b,CP_6m_9,Human,1999,1
 Zou22,CP_OmicronBA1,Human,NULL,20
+Zou22b,CP_1m_1,Human,2000,1
+Zou22b,CP_1m_10,Human,1997,1
+Zou22b,CP_1m_11,Human,1988,1
+Zou22b,CP_1m_12,Human,1995,1
+Zou22b,CP_1m_13,Human,1961,1
+Zou22b,CP_1m_14,Human,1954,1
+Zou22b,CP_1m_15,Human,1999,1
+Zou22b,CP_1m_16,Human,1952,1
+Zou22b,CP_1m_17,Human,1948,1
+Zou22b,CP_1m_18,Human,2004,1
+Zou22b,CP_1m_19,Human,1976,1
+Zou22b,CP_1m_2,Human,1983,1
+Zou22b,CP_1m_20,Human,1997,1
+Zou22b,CP_1m_21,Human,1996,1
+Zou22b,CP_1m_22,Human,1946,1
+Zou22b,CP_1m_23,Human,1941,1
+Zou22b,CP_1m_24,Human,1960,1
+Zou22b,CP_1m_25,Human,1943,1
+Zou22b,CP_1m_26,Human,1955,1
+Zou22b,CP_1m_27,Human,1983,1
+Zou22b,CP_1m_28,Human,1987,1
+Zou22b,CP_1m_29,Human,1996,1
+Zou22b,CP_1m_3,Human,2004,1
+Zou22b,CP_1m_30,Human,1955,1
+Zou22b,CP_1m_31,Human,1982,1
+Zou22b,CP_1m_32,Human,1986,1
+Zou22b,CP_1m_33,Human,1966,1
+Zou22b,CP_1m_34,Human,1954,1
+Zou22b,CP_1m_35,Human,1966,1
+Zou22b,CP_1m_36,Human,1981,1
+Zou22b,CP_1m_37,Human,1961,1
+Zou22b,CP_1m_38,Human,1956,1
+Zou22b,CP_1m_39,Human,1952,1
+Zou22b,CP_1m_4,Human,2003,1
+Zou22b,CP_1m_40,Human,1953,1
+Zou22b,CP_1m_41,Human,1971,1
+Zou22b,CP_1m_42,Human,1958,1
+Zou22b,CP_1m_43,Human,1982,1
+Zou22b,CP_1m_44,Human,1949,1
+Zou22b,CP_1m_45,Human,1966,1
+Zou22b,CP_1m_46,Human,1964,1
+Zou22b,CP_1m_47,Human,2020,1
+Zou22b,CP_1m_48,Human,1934,1
+Zou22b,CP_1m_49,Human,1925,1
+Zou22b,CP_1m_5,Human,1995,1
+Zou22b,CP_1m_50,Human,1955,1
+Zou22b,CP_1m_51,Human,1946,1
+Zou22b,CP_1m_52,Human,1958,1
+Zou22b,CP_1m_53,Human,1955,1
+Zou22b,CP_1m_54,Human,1972,1
+Zou22b,CP_1m_55,Human,1965,1
+Zou22b,CP_1m_56,Human,1977,1
+Zou22b,CP_1m_57,Human,1938,1
+Zou22b,CP_1m_58,Human,1946,1
+Zou22b,CP_1m_59,Human,1947,1
+Zou22b,CP_1m_6,Human,1997,1
+Zou22b,CP_1m_60,Human,1973,1
+Zou22b,CP_1m_61,Human,1943,1
+Zou22b,CP_1m_62,Human,1951,1
+Zou22b,CP_1m_63,Human,1972,1
+Zou22b,CP_1m_64,Human,1971,1
+Zou22b,CP_1m_7,Human,1997,1
+Zou22b,CP_1m_8,Human,1986,1
+Zou22b,CP_1m_9,Human,1998,1
+Zou22b,CP_6m_1,Human,2004,1
+Zou22b,CP_6m_10,Human,1960,1
+Zou22b,CP_6m_11,Human,1981,1
+Zou22b,CP_6m_12,Human,1999,1
+Zou22b,CP_6m_13,Human,1971,1
+Zou22b,CP_6m_14,Human,1995,1
+Zou22b,CP_6m_15,Human,2000,1
+Zou22b,CP_6m_16,Human,1995,1
+Zou22b,CP_6m_17,Human,1948,1
+Zou22b,CP_6m_18,Human,1999,1
+Zou22b,CP_6m_19,Human,1974,1
+Zou22b,CP_6m_2,Human,1997,1
+Zou22b,CP_6m_20,Human,1942,1
+Zou22b,CP_6m_21,Human,1944,1
+Zou22b,CP_6m_22,Human,1964,1
+Zou22b,CP_6m_23,Human,1998,1
+Zou22b,CP_6m_24,Human,1981,1
+Zou22b,CP_6m_25,Human,1999,1
+Zou22b,CP_6m_26,Human,1967,1
+Zou22b,CP_6m_27,Human,1957,1
+Zou22b,CP_6m_28,Human,1982,1
+Zou22b,CP_6m_29,Human,1952,1
+Zou22b,CP_6m_3,Human,1997,1
+Zou22b,CP_6m_30,Human,1972,1
+Zou22b,CP_6m_31,Human,1925,1
+Zou22b,CP_6m_32,Human,1941,1
+Zou22b,CP_6m_33,Human,1972,1
+Zou22b,CP_6m_34,Human,1973,1
+Zou22b,CP_6m_35,Human,1955,1
+Zou22b,CP_6m_36,Human,1951,1
+Zou22b,CP_6m_4,Human,1951,1
+Zou22b,CP_6m_5,Human,1992,1
+Zou22b,CP_6m_6,Human,2000,1
+Zou22b,CP_6m_7,Human,1951,1
+Zou22b,CP_6m_8,Human,1994,1
+Zou22b,CP_6m_9,Human,1999,1
 Zuckerman21,BNT162b2,Human,NULL,18
 Zuckerman21b,BNT162b2,Human,1972,36
 deSouza21,CP_BD0129,Human,NULL,1

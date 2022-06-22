@@ -1,0 +1,151 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Pickering22,BNT162b2_2doses_01,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2780.868,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_02,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,811.03,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_03,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_04,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1390.821,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_05,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1184.834,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_06,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,314.169,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_07,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,314.5643,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_08,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,831.9468,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_09,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,4837.929,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_10,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,678.8866,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_01,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1446.969,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_02,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1492.76,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_03,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,360.8805,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_04,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,21436.23,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_05,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2801.12,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_06,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1441.545,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_07,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1614.466,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_08,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,212.0891,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_09,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1216.397,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_10,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,894.4544,1,156250,50,NULL,2022-06-22
+Pickering22,CP_01,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,137.931,1,156250,50,NULL,2022-06-22
+Pickering22,CP_02,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,4206.984,1,156250,50,NULL,2022-06-22
+Pickering22,CP_03,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,100.7455,1,156250,50,NULL,2022-06-22
+Pickering22,CP_04,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,5973.716,1,156250,50,NULL,2022-06-22
+Pickering22,CP_05,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,47.23666,1,156250,50,NULL,2022-06-22
+Pickering22,CP_06,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3672.42,1,156250,50,NULL,2022-06-22
+Pickering22,CP_07,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2442.599,1,156250,50,NULL,2022-06-22
+Pickering22,CP_08,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,128.7996,1,156250,50,NULL,2022-06-22
+Pickering22,CP_09,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,83.33333,1,156250,50,NULL,2022-06-22
+Pickering22,CP_10,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,568.8282,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_01,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,987.1668,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_02,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2323.96,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_03,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,126.2307,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_04,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,219.9736,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_05,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,262.8812,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_06,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,695.8942,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_07,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,66.88963,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_08,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,489.4763,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_09,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3949.447,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_10,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,487.8049,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_01,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,412.0313,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_02,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,711.2376,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_03,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,265.1113,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_04,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,6527.415,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_05,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1926.04,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_06,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1023.437,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_07,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1084.246,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_08,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,24.64268,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_09,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,424.4482,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_10,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,248.3238,1,156250,50,NULL,2022-06-22
+Pickering22,CP_01,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,201.491,1,156250,50,NULL,2022-06-22
+Pickering22,CP_02,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2575.328,1,156250,50,NULL,2022-06-22
+Pickering22,CP_03,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,391.5427,1,156250,50,NULL,2022-06-22
+Pickering22,CP_04,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3554.924,1,156250,50,NULL,2022-06-22
+Pickering22,CP_05,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,97.18173,1,156250,50,NULL,2022-06-22
+Pickering22,CP_06,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1707.65,1,156250,50,NULL,2022-06-22
+Pickering22,CP_07,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2012.072,1,156250,50,NULL,2022-06-22
+Pickering22,CP_08,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,115.3669,1,156250,50,NULL,2022-06-22
+Pickering22,CP_09,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,159.4388,1,156250,50,NULL,2022-06-22
+Pickering22,CP_10,S:49Y+95I+142D+143del+144del+145del+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,366.5689,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_01,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1146.657,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_02,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,699.7901,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_03,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,451.4673,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_04,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,423.1909,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_05,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,235.6823,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_06,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,439.9472,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_07,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,101.1122,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_08,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,421.4075,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_09,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,5440.696,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_10,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,275.634,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_01,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1029.442,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_02,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,757.0023,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_03,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1076.774,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_04,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3646.973,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_05,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1093.016,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_06,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1259.922,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_07,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1122.586,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_08,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,606.0606,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_09,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,514.4033,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_10,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,206.9108,1,156250,50,NULL,2022-06-22
+Pickering22,CP_01,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,203.252,1,156250,50,NULL,2022-06-22
+Pickering22,CP_02,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2665.956,1,156250,50,NULL,2022-06-22
+Pickering22,CP_03,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,41.58004,1,156250,50,NULL,2022-06-22
+Pickering22,CP_04,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3828.484,1,156250,50,NULL,2022-06-22
+Pickering22,CP_05,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,155.2072,1,156250,50,NULL,2022-06-22
+Pickering22,CP_06,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2108.815,1,156250,50,NULL,2022-06-22
+Pickering22,CP_07,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1942.125,1,156250,50,NULL,2022-06-22
+Pickering22,CP_08,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,29.77077,1,156250,50,NULL,2022-06-22
+Pickering22,CP_09,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,40.71661,1,156250,50,NULL,2022-06-22
+Pickering22,CP_10,S:22I+49Y+95I+142D+143del+144del+145del+247G+486L+501T+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,318.5728,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_01,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2683.123,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_02,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1651.8,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_03,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,81.76615,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_04,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,436.872,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_05,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,525.2101,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_06,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,492.126,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_07,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_08,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,810.3728,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_09,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,13308.49,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_10,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,713.7759,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_01,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2929.115,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_02,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3920.031,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_03,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1174.122,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_04,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,14388.49,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_05,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,25150.91,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_06,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,60679.61,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_07,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,4494.382,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_08,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3181.674,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_09,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1619.433,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_10,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,780.6401,1,156250,50,NULL,2022-06-22
+Pickering22,CP_01,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,4.705882,1,156250,50,NULL,2022-06-22
+Pickering22,CP_02,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,4428.698,1,156250,50,NULL,2022-06-22
+Pickering22,CP_03,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,58.10575,1,156250,50,NULL,2022-06-22
+Pickering22,CP_04,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,4030.633,1,156250,50,NULL,2022-06-22
+Pickering22,CP_05,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,61.61429,1,156250,50,NULL,2022-06-22
+Pickering22,CP_06,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3081.664,1,156250,50,NULL,2022-06-22
+Pickering22,CP_07,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,949.6676,1,156250,50,NULL,2022-06-22
+Pickering22,CP_08,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1,1,156250,50,NULL,2022-06-22
+Pickering22,CP_09,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1,1,156250,50,NULL,2022-06-22
+Pickering22,CP_10,S:49Y+95I+142D+143del+144del+145del+486L+501T+613H+614G,Supplementary Table 6,Pseudovirus (lentivirus),NT50,267.5943,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_01,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1444.878,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_02,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,377.9289,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_03,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,4120.313,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_04,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,3631.082,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_05,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,14.71887,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_06,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,15632.33,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_07,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,168435.2,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_08,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,148.9203,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_09,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,219.6354,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_2doses_10,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,41.42502,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_01,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,412.0313,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_02,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,711.2376,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_03,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,265.1113,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_04,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,6527.415,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_05,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1926.04,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_06,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1023.437,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_07,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1084.246,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_08,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,24.64268,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_09,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,424.4482,1,156250,50,NULL,2022-06-22
+Pickering22,BNT162b2_3doses_10,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,248.3238,1,156250,50,NULL,2022-06-22
+Pickering22,CP_01,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,42.99226,1,156250,50,NULL,2022-06-22
+Pickering22,CP_02,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,813.0081,1,156250,50,NULL,2022-06-22
+Pickering22,CP_03,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1786.991,1,156250,50,NULL,2022-06-22
+Pickering22,CP_04,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,162.5223,1,156250,50,NULL,2022-06-22
+Pickering22,CP_05,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1321.877,1,156250,50,NULL,2022-06-22
+Pickering22,CP_06,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,102.6589,1,156250,50,NULL,2022-06-22
+Pickering22,CP_07,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,79.8722,1,156250,50,NULL,2022-06-22
+Pickering22,CP_08,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2747.253,1,156250,50,NULL,2022-06-22
+Pickering22,CP_09,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1,1,156250,50,NULL,2022-06-22
+Pickering22,CP_10,BA.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1,1,156250,50,NULL,2022-06-22
