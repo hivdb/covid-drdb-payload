@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Leung22c,CoronaVac_2dose_BNT162b2_1dose_day00_01,hCoV-19/Hong Kong/VM20001061-2/2020,Supplementary Table 1,Virus isolate,NT50,1,1,320,10,NULL,2022-06-22
 Leung22c,CoronaVac_2dose_BNT162b2_1dose_day00_02,hCoV-19/Hong Kong/VM20001061-2/2020,Supplementary Table 1,Virus isolate,NT50,1,1,320,10,NULL,2022-06-22
 Leung22c,CoronaVac_2dose_BNT162b2_1dose_day00_03,hCoV-19/Hong Kong/VM20001061-2/2020,Supplementary Table 1,Virus isolate,NT50,1,1,320,10,NULL,2022-06-22
