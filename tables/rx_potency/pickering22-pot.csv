@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Pickering22,BNT162b2_2doses_01,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,2780.868,1,156250,50,NULL,2022-06-22
 Pickering22,BNT162b2_2doses_02,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,811.03,1,156250,50,NULL,2022-06-22
 Pickering22,BNT162b2_2doses_03,B.1 Spike,Supplementary Table 6,Pseudovirus (lentivirus),NT50,1,1,156250,50,NULL,2022-06-22

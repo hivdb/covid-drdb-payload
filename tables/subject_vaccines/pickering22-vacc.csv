@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Pickering22,BNT162b2_2doses_01,~,2021-01-01,BNT162b2,1,Canada,NULL
 Pickering22,BNT162b2_2doses_01,~,2021-02-01,BNT162b2,2,Canada,NULL
 Pickering22,BNT162b2_2doses_02,~,2021-01-01,BNT162b2,1,Canada,NULL
