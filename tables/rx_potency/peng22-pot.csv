@@ -1,0 +1,16 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Peng22,CP_WT,B.1.1.7 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,628,13,32768,40,NULL,2022-06-22
+Peng22,CP_WT,B.1.351 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,61,13,32768,40,NULL,2022-06-22
+Peng22,CP_WT,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,208,13,32768,40,NULL,2022-06-22
+Peng22,CP_WT,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,44,13,32768,40,NULL,2022-06-22
+Peng22,CP_WT,Wuhan-Hu-1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,844,13,32768,40,NULL,2022-06-22
+Peng22,CP_Delta_bti,B.1.1.7 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1590,20,32768,40,NULL,2022-06-22
+Peng22,CP_Delta_bti,B.1.351 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,451,20,32768,40,NULL,2022-06-22
+Peng22,CP_Delta_bti,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,2219,20,32768,40,NULL,2022-06-22
+Peng22,CP_Delta_bti,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,369,20,32768,40,NULL,2022-06-22
+Peng22,CP_Delta_bti,Wuhan-Hu-1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1452,20,32768,40,NULL,2022-06-22
+Peng22,CP_Omicron_bti,B.1.1.7 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1283,20,32768,40,NULL,2022-06-22
+Peng22,CP_Omicron_bti,B.1.351 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,520,20,32768,40,NULL,2022-06-22
+Peng22,CP_Omicron_bti,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,935,20,32768,40,NULL,2022-06-22
+Peng22,CP_Omicron_bti,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1112,20,32768,40,NULL,2022-06-22
+Peng22,CP_Omicron_bti,Wuhan-Hu-1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1131,20,32768,40,NULL,2022-06-22
