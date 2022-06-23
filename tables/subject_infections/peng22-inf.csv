@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Peng22,CP_WT,~,2020-01-01,B.1,China,NULL,NULL,NULL
+Peng22,CP_Delta_bti,~,2021-07-01,Delta,China,NULL,NULL,NULL
+Peng22,CP_Omicron_bti,~,2022-01-01,Omicron/BA.1,China,NULL,NULL,NULL
