@@ -45,5 +45,8 @@ AZD1222 + BBIBP-CorV,Mixed,,,3,43
 BBIBP-CorV + BNT162b2,Mixed,,,3,44
 BBIBP-CorV + mRNA-1273,Mixed,,,3,45
 AZD1222 + Sputnik V,Mixed,,,3,46
+AZD1222 + NVX-CoV2373,Mixed,,,2,47
+AZD1222 + mRNA-1273, Mixed,,,2,48
+BNT162b2 + NVX-CoV2373,Mixed,,,2,49
 AZD1222 + mRNA,Mixed,,,3,100
 Unknown vaccine,Mixed,,,3,1000
