@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Varese22,Sputnik_2dose_unboosted,hCoV-19/Argentina/PAIS-G0001/2020,Figure 1,Virus isolate,NT50,10.3,85,16384,3,NULL,2022-06-24
+Varese22,Sputnik_2dose_ChAdOx-1_1dose,hCoV-19/Argentina/PAIS-G0001/2020,Figure 1,Virus isolate,NT50,331.9,48,16384,3,NULL,2022-06-24
+Varese22,BTI_Omicron,hCoV-19/Argentina/PAIS-G0001/2020,Figure 1,Virus isolate,NT50,2335,37,16384,3,NULL,2022-06-24
+Varese22,Sputnik_2dose_unboosted,hCoV-19/Argentina/INBIRS-398/2021,Figure 1,Virus isolate,NT50,2.6,85,16384,3,NULL,2022-06-24
+Varese22,Sputnik_2dose_ChAdOx-1_1dose,hCoV-19/Argentina/INBIRS-398/2021,Figure 1,Virus isolate,NT50,34.9,48,16384,3,NULL,2022-06-24
+Varese22,BTI_Omicron,hCoV-19/Argentina/INBIRS-398/2021,Figure 1,Virus isolate,NT50,690.9,37,16384,3,NULL,2022-06-24
