@@ -1,0 +1,65 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Du22,87G7,Wuhan-Hu-1,Fig 1E,Pseudovirus,IC50,2.7,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10933,Wuhan-Hu-1,Fig 1E,Pseudovirus,IC50,3.2,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10987,Wuhan-Hu-1,Fig 1E,Pseudovirus,IC50,4.7,1,6000,1,ng/ml,2022-06-24
+Du22,87G7,B.1.1.7 Spike,Fig 1E,Pseudovirus,IC50,1.4,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10933,B.1.1.7 Spike,Fig 1E,Pseudovirus,IC50,2.8,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10987,B.1.1.7 Spike,Fig 1E,Pseudovirus,IC50,4,1,6000,1,ng/ml,2022-06-24
+Du22,87G7,B.1.351 Spike,Fig 1E,Pseudovirus,IC50,5.1,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10933,B.1.351 Spike,Fig 1E,Pseudovirus,IC50,66.9,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10987,B.1.351 Spike,Fig 1E,Pseudovirus,IC50,2.3,1,6000,1,ng/ml,2022-06-24
+Du22,87G7,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Fig 1E,Pseudovirus,IC50,2.9,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10933,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Fig 1E,Pseudovirus,IC50,1.5,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10987,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Fig 1E,Pseudovirus,IC50,10.5,1,6000,1,ng/ml,2022-06-24
+Du22,87G7,BA.1 Spike,Fig 1E,Pseudovirus,IC50,2.4,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10933,BA.1 Spike,Fig 1E,Pseudovirus,IC50,1229,1,6000,1,ng/ml,2022-06-24
+Du22,REGN10987,BA.1 Spike,Fig 1E,Pseudovirus,IC50,6000,1,6000,1,ng/ml,2022-06-24
+Du22,87G7,Wuhan-Hu-1,Fig 1E,Virus isolate,IC50,5.7,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933,Wuhan-Hu-1,Fig 1E,Virus isolate,IC50,3.4,1,1000,1,ng/ml,2022-06-24
+Du22,87G7,B.1.1.7 full genome,Fig 1E,Virus isolate,IC50,3.7,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933,B.1.1.7 full genome,Fig 1E,Virus isolate,IC50,0.7,1,1000,1,ng/ml,2022-06-24
+Du22,87G7,B.1.351 full genome,Fig 1E,Virus isolate,IC50,3.1,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933,B.1.351 full genome,Fig 1E,Virus isolate,IC50,26.4,1,1000,1,ng/ml,2022-06-24
+Du22,87G7,P.1 full genome,Fig 1E,Virus isolate,IC50,12.5,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933,P.1 full genome,Fig 1E,Virus isolate,IC50,54,1,1000,1,ng/ml,2022-06-24
+Du22,87G7,B.1.617.2 full genome,Fig 1E,Virus isolate,IC50,4.2,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933,B.1.617.2 full genome,Fig 1E,Virus isolate,IC50,0.4,1,1000,1,ng/ml,2022-06-24
+Du22,87G7,Omicron/BA.1 full genome,Fig 1E,Virus isolate,IC50,6.7,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933,Omicron/BA.1 full genome,Fig 1E,Virus isolate,IC50,1000,1,1000,1,ng/ml,2022-06-24
+Du22,87G7,Omicron/bA.2 full genome,Fig 1E,Virus isolate,IC50,10.2,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933,Omicron/bA.2 full genome,Fig 1E,Virus isolate,IC50,1000,1,1000,1,ng/ml,2022-06-24
+Du22,87G7,C.37 full genome,Fig 1E,Virus isolate,IC50,1.2,1,1000,1,ng/ml,2022-06-24
+Du22,87G7,B.1.621 full genome,Fig 1E,Virus isolate,IC50,4.8,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,Wuhan-Hu-1,Fig 3B,Pseudovirus,IC50,2.1,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,Wuhan-Hu-1,Fig 3B,Pseudovirus,IC50,3.2,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,Wuhan-Hu-1,Fig 3B,Pseudovirus,IC50,4.7,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:417N,Fig 3B,Pseudovirus,IC50,0.6,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:417N,Fig 3B,Pseudovirus,IC50,38,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:417N,Fig 3B,Pseudovirus,IC50,3,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:452R,Fig 3B,Pseudovirus,IC50,4.9,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:452R,Fig 3B,Pseudovirus,IC50,5,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:452R,Fig 3B,Pseudovirus,IC50,10.5,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:477N,Fig 3B,Pseudovirus,IC50,1,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:477N,Fig 3B,Pseudovirus,IC50,3,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:477N,Fig 3B,Pseudovirus,IC50,3.8,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:478K,Fig 3B,Pseudovirus,IC50,2.8,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:478K,Fig 3B,Pseudovirus,IC50,1.1,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:478K,Fig 3B,Pseudovirus,IC50,5.9,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:484Q,Fig 3B,Pseudovirus,IC50,2.4,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:484Q,Fig 3B,Pseudovirus,IC50,18.2,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:484Q,Fig 3B,Pseudovirus,IC50,2.7,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:484K,Fig 3B,Pseudovirus,IC50,2.9,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:484K,Fig 3B,Pseudovirus,IC50,53.2,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:484K,Fig 3B,Pseudovirus,IC50,3.9,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:490S,Fig 3B,Pseudovirus,IC50,0.9,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:490S,Fig 3B,Pseudovirus,IC50,2.6,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:490S,Fig 3B,Pseudovirus,IC50,3.5,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:493R,Fig 3B,Pseudovirus,IC50,1.2,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:493R,Fig 3B,Pseudovirus,IC50,67,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:493R,Fig 3B,Pseudovirus,IC50,4.3,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:501Y,Fig 3B,Pseudovirus,IC50,0.6,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:501Y,Fig 3B,Pseudovirus,IC50,1.2,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:501Y,Fig 3B,Pseudovirus,IC50,2,1,1000,1,ng/ml,2022-06-24
+Du22,87G7_Fig 3B,S:614G,Fig 3B,Pseudovirus,IC50,1,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10933_Fig 3B,S:614G,Fig 3B,Pseudovirus,IC50,3,1,1000,1,ng/ml,2022-06-24
+Du22,REGN10987_Fig 3B,S:614G,Fig 3B,Pseudovirus,IC50,4.6,1,1000,1,ng/ml,2022-06-24
