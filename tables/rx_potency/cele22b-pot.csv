@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cele22b,CP_Beta,hCoV-19/South Africa/KRISP-K005325/2020,Figure 1C,Virus isolate,NT50,112,18,10000,10,NULL,2022-06-22
+Cele22b,CP_Beta,hCoV-19/South Africa/CERI-KRISP-K032888/2021,Figure 1C,Virus isolate,NT50,6,18,10000,10,NULL,2022-06-22
+Cele22b,VP_Beta_infection,hCoV-19/South Africa/KRISP-K005325/2020,Figure 1D,Virus isolate,NT50,2385,18,100000,10,NULL,2022-06-22
+Cele22b,VP_Beta_infection,hCoV-19/South Africa/CERI-KRISP-K032888/2021,Figure 1D,Virus isolate,NT50,447,18,100000,10,NULL,2022-06-22
+Cele22b,VP_Beta_infection,hCoV-19/South Africa/CERI-KRISP-K034784/2021,Figure 1E,Virus isolate,NT50,569,18,100000,10,NULL,2022-06-22
+Cele22b,VP_Beta_infection,hCoV-19/South Africa/KRISP-K002868/2020,Figure 1F,Virus isolate,NT50,1643,18,100000,10,NULL,2022-06-22
