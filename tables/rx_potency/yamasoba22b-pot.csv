@@ -1,81 +1,111 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Yamasoba22b,Bamlanivimab,S:614G,Figure S1,Pseudovirus (HIV),IC50,12.8,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.2 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.2 Spike:L452R,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.2.12.1 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.4/5 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.2 Spike:L452Q,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.2 Spike:S704L,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.2 Spike:69del+70del,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.2 Spike:F486V,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bamlanivimab,BA.2 Spike:R493Q,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,S:614G,Figure S1,Pseudovirus (HIV),IC50,8.1,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.2 Spike,Figure S1,Pseudovirus (HIV),IC50,3.8,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.2 Spike:L452R,Figure S1,Pseudovirus (HIV),IC50,2.3,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.2.12.1 Spike,Figure S1,Pseudovirus (HIV),IC50,5.5,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.4/5 Spike,Figure S1,Pseudovirus (HIV),IC50,6.3,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.2 Spike:L452Q,Figure S1,Pseudovirus (HIV),IC50,5,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.2 Spike:S704L,Figure S1,Pseudovirus (HIV),IC50,1.1,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.2 Spike:69del+70del,Figure S1,Pseudovirus (HIV),IC50,2.2,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.2 Spike:F486V,Figure S1,Pseudovirus (HIV),IC50,1.1,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Bebtelovimab,BA.2 Spike:R493Q,Figure S1,Pseudovirus (HIV),IC50,4.2,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,S:614G,Figure S1,Pseudovirus (HIV),IC50,9.9,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.2 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.2 Spike:L452R,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.2.12.1 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.4/5 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.2 Spike:L452Q,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.2 Spike:S704L,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.2 Spike:69del+70del,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.2 Spike:F486V,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Casirivimab,BA.2 Spike:R493Q,Figure S1,Pseudovirus (HIV),IC50,3697,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,S:614G,Figure S1,Pseudovirus (HIV),IC50,26,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.2 Spike,Figure S1,Pseudovirus (HIV),IC50,24,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.2 Spike:L452R,Figure S1,Pseudovirus (HIV),IC50,121,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.2.12.1 Spike,Figure S1,Pseudovirus (HIV),IC50,28,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.4/5 Spike,Figure S1,Pseudovirus (HIV),IC50,659,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.2 Spike:L452Q,Figure S1,Pseudovirus (HIV),IC50,58,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.2 Spike:S704L,Figure S1,Pseudovirus (HIV),IC50,20,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.2 Spike:69del+70del,Figure S1,Pseudovirus (HIV),IC50,24,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.2 Spike:F486V,Figure S1,Pseudovirus (HIV),IC50,24,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Cilgavimab,BA.2 Spike:R493Q,Figure S1,Pseudovirus (HIV),IC50,36,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,S:614G,Figure S1,Pseudovirus (HIV),IC50,11.6,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.2 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.2 Spike:L452R,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.2.12.1 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.4/5 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.2 Spike:L452Q,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.2 Spike:S704L,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.2 Spike:69del+70del,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.2 Spike:F486V,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Etesevimab,BA.2 Spike:R493Q,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,S:614G,Figure S1,Pseudovirus (HIV),IC50,79,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.2 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.2 Spike:L452R,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.2.12.1 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.4/5 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.2 Spike:L452Q,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.2 Spike:S704L,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.2 Spike:69del+70del,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.2 Spike:F486V,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Imdevimab,BA.2 Spike:R493Q,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,S:614G,Figure S1,Pseudovirus (HIV),IC50,94,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.2 Spike,Figure S1,Pseudovirus (HIV),IC50,2190,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.2 Spike:L452R,Figure S1,Pseudovirus (HIV),IC50,540,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.2.12.1 Spike,Figure S1,Pseudovirus (HIV),IC50,629,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.4/5 Spike,Figure S1,Pseudovirus (HIV),IC50,1261,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.2 Spike:L452Q,Figure S1,Pseudovirus (HIV),IC50,2443,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.2 Spike:S704L,Figure S1,Pseudovirus (HIV),IC50,1213,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.2 Spike:69del+70del,Figure S1,Pseudovirus (HIV),IC50,774,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.2 Spike:F486V,Figure S1,Pseudovirus (HIV),IC50,1575,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Sotrovimab,BA.2 Spike:R493Q,Figure S1,Pseudovirus (HIV),IC50,1791,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,S:614G,Figure S1,Pseudovirus (HIV),IC50,6.7,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.2 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.2 Spike:L452R,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.2.12.1 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.4/5 Spike,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.2 Spike:L452Q,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.2 Spike:S704L,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.2 Spike:69del+70del,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.2 Spike:F486V,Figure S1,Pseudovirus (HIV),IC50,10000,1,10000,1,ng/ml,2021-05-04
-Yamasoba22b,Tixagevimab,BA.2 Spike:R493Q,Figure S1,Pseudovirus (HIV),IC50,101,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,S:614G,Table,Pseudovirus (HIV),IC50,12.8,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.2 Spike,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bamlanivimab,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,S:614G,Table,Pseudovirus (HIV),IC50,8.1,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.2 Spike,Table,Pseudovirus (HIV),IC50,3.8,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,2.3,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,5.5,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,6.3,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,5,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,1.1,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,2.2,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,1.1,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Bebtelovimab,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,4.2,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,S:614G,Table,Pseudovirus (HIV),IC50,9.9,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.2 Spike,Table,Pseudovirus (HIV),IC50,50417,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,50417,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,50417,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,50417,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,50417,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,50417,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,50417,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,50417,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Casirivimab,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,3697,1,50417,1,ng/ml,2021-05-04
+Yamasoba22b,Cilgavimab,S:614G,Table,Pseudovirus (HIV),IC50,21,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.2 Spike,Table,Pseudovirus (HIV),IC50,19,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,71,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,75,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,443,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,26,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,28,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,19,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,18,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Cilgavimab,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,22,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Etesevimab,S:614G,Table,Pseudovirus (HIV),IC50,12,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.2 Spike,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Etesevimab,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,6050,1,6050,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,S:614G,Table,Pseudovirus (HIV),IC50,79,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.2 Spike,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Imdevimab,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,50000,1,50000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,S:614G,Table,Pseudovirus (HIV),IC50,94,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.2 Spike,Table,Pseudovirus (HIV),IC50,2190,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,540,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,629,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,1261,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,2443,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,1213,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,774,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,1575,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Sotrovimab,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,1791,1,10000,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,S:614G,Table,Pseudovirus (HIV),IC50,6.7,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.2 Spike,Table,Pseudovirus (HIV),IC50,2750,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,2750,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,2750,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,2750,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,2750,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,2750,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,2750,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,2750,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Tixagevimab,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,101,1,2750,1,ng/ml,2021-05-04
+Yamasoba22b,Ronapreve,S:614G,Table,Pseudovirus (HIV),IC50,6.2,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.2 Spike,Table,Pseudovirus (HIV),IC50,2400,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,2400,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,2400,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,2400,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,2400,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,2400,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,2400,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,2400,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,Ronapreve,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,431,1,2400,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,S:614G,Table,Pseudovirus (HIV),IC50,6.7,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.2 Spike,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,ETE+BAM,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,3700,1,3700,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,S:614G,Table,Pseudovirus (HIV),IC50,4.1,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.2 Spike,Table,Pseudovirus (HIV),IC50,33,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.2 Spike:L452R,Table,Pseudovirus (HIV),IC50,154,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.2.12.1 Spike,Table,Pseudovirus (HIV),IC50,135,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.4/5 Spike,Table,Pseudovirus (HIV),IC50,609,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.2 Spike:L452Q,Table,Pseudovirus (HIV),IC50,82,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.2 Spike:S704L,Table,Pseudovirus (HIV),IC50,27,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.2 Spike:69del+70del,Table,Pseudovirus (HIV),IC50,34,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.2 Spike:F486V,Table,Pseudovirus (HIV),IC50,23,1,10000,1,ng/ml,2021-06-24
+Yamasoba22b,Evusheld,BA.2 Spike:R493Q,Table,Pseudovirus (HIV),IC50,31,1,10000,1,ng/ml,2021-06-24
