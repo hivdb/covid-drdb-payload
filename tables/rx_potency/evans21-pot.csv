@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Evans21,mRNA_1dose_inf,S:614G,Figure 2C,Pseudovirus (HIV),NT50,3942,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_1dose_uninf,S:614G,Figure 2C,Pseudovirus (HIV),NT50,268,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_1dose_inf,B.1.1.7 Spike,Figure 2C,Pseudovirus (HIV),NT50,2457,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_1dose_uninf,B.1.1.7 Spike,Figure 2C,Pseudovirus (HIV),NT50,174,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_1dose_inf,B.1.351 Spike,Figure 2C,Pseudovirus (HIV),NT50,1421,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_1dose_uninf,B.1.351 Spike,Figure 2C,Pseudovirus (HIV),NT50,148,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_1dose_inf,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2C,Pseudovirus (HIV),NT50,1439,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_1dose_uninf,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2C,Pseudovirus (HIV),NT50,194,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_inf,S:614G,Figure 2C,Pseudovirus (HIV),NT50,5447,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_uninf,S:614G,Figure 2C,Pseudovirus (HIV),NT50,2143,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_inf,B.1.1.7 Spike,Figure 2C,Pseudovirus (HIV),NT50,3942,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_uninf,B.1.1.7 Spike,Figure 2C,Pseudovirus (HIV),NT50,1713,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_inf,B.1.351 Spike,Figure 2C,Pseudovirus (HIV),NT50,1869,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_uninf,B.1.351 Spike,Figure 2C,Pseudovirus (HIV),NT50,717,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_inf,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2C,Pseudovirus (HIV),NT50,1778,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_uninf,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2C,Pseudovirus (HIV),NT50,1179,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_6M_inf,S:614G,Figure 2C,Pseudovirus (HIV),NT50,1352,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_6m_uninf,S:614G,Figure 2C,Pseudovirus (HIV),NT50,163,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_6M_inf,B.1.1.7 Spike,Figure 2C,Pseudovirus (HIV),NT50,943,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_6m_uninf,B.1.1.7 Spike,Figure 2C,Pseudovirus (HIV),NT50,129,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_6M_inf,B.1.351 Spike,Figure 2C,Pseudovirus (HIV),NT50,666,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_6m_uninf,B.1.351 Spike,Figure 2C,Pseudovirus (HIV),NT50,141,36,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_6M_inf,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2C,Pseudovirus (HIV),NT50,252,12,100000,100,NULL,2022-06-27
+Evans21,mRNA_2dose_6m_uninf,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 2C,Pseudovirus (HIV),NT50,100,36,100000,100,NULL,2022-06-27
