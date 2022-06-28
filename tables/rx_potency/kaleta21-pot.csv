@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Kaleta21,LY-COV555,A.27 full genome,Table 2,Virus isolate,IC50,10000,1,10000,1,ng/ml,2022-06-28
 Kaleta21,LY-COV555,B.1 full genome,Table 2,Virus isolate,IC50,110,1,10000,1,ng/ml,2022-06-28
 Kaleta21,LY-COV555,B.1.1.7 full genome,Table 2,Virus isolate,IC50,60,1,10000,1,ng/ml,2022-06-28

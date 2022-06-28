@@ -1,0 +1,18 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Tober-Lau22,VP_2dose,Wuhan-Hu-1,Appendix Figure D,Pseudovirus (HIV),NT50,573,20,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_non_Omicron,Wuhan-Hu-1,Appendix Figure D,Pseudovirus (HIV),NT50,8144,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_Omicron,Wuhan-Hu-1,Appendix Figure D,Pseudovirus (HIV),NT50,4946,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose,B.1.1.7 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,338,20,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_non_Omicron,B.1.1.7 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,5481,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_Omicron,B.1.1.7 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,2341,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose,B.1.351 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,39,20,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_non_Omicron,B.1.351 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,3329,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_Omicron,B.1.351 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,2376,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose,B.1.617.2 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,154,20,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_non_Omicron,B.1.617.2 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,1576,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_Omicron,B.1.617.2 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,1401,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose,BA.1 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,7,20,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_non_Omicron,BA.1 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,724,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_2dose_BTI_Omicron,BA.1 Spike,Appendix Figure D,Pseudovirus (HIV),NT50,1321,10,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_3dose,Wuhan-Hu-1,Figure D,Pseudovirus (HIV),NT50,6683,20,100000,10,NULL,2022-06-28
+Tober-Lau22,VP_3dose,BA.1 Spike,Figure D,Pseudovirus (HIV),NT50,1296,20,100000,10,NULL,2022-06-28

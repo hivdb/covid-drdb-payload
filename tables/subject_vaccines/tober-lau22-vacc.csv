@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Tober-Lau22,VP_2dose,~,2021-01-01,BNT162b2,1,Germany,Appendix Table
+Tober-Lau22,VP_2dose,~,2021-01-22,BNT162b2,2,Germany,Appendix Table
+Tober-Lau22,VP_2dose_BTI_non_Omicron,~,2021-03-17,BNT162b2,1,Germany,Appendix Table
+Tober-Lau22,VP_2dose_BTI_non_Omicron,~,2021-04-09,BNT162b2,2,Germany,Appendix Table
+Tober-Lau22,VP_2dose_BTI_Omicron,~,2021-05-31,BNT162b2,1,Germany,Appendix Table
+Tober-Lau22,VP_2dose_BTI_Omicron,~,2021-07-12,BNT162b2,2,Germany,Appendix Table
+Tober-Lau22,VP_3dose,~,2021-01-01,BNT162b2,1,Germany,Appendix Table
+Tober-Lau22,VP_3dose,~,2021-01-22,BNT162b2,2,Germany,Appendix Table
+Tober-Lau22,VP_3dose,~,2021-09-14,BNT162b2,3,Germany,Appendix Table

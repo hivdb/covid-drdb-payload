@@ -2810,6 +2810,10 @@ Tarhini21,Patient 2,Human,1949,1
 Tarhini21,Patient 3,Human,1985,1
 Tea21,CP_first_wave,Human,1973,31
 Tea21,CP_second_wave,Human,1977,17
+Tober-Lau22,VP_2dose,Human,NULL,10
+Tober-Lau22,VP_2dose_BTI_Omicron,Human,NULL,10
+Tober-Lau22,VP_2dose_BTI_non_Omicron,Human,NULL,10
+Tober-Lau22,VP_3dose,Human,NULL,10
 Trinite21,BNT_infected,Human,NULL,16
 Trinite21,BNT_uninfected,Human,NULL,16
 Trinite21,CP_Aug20,Human,NULL,16
