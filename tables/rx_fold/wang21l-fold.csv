@@ -1,4 +1,4 @@
-ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
 Wang21l,9G11,S:614G,C.37 Spike:+253N,Figure 3A,Pseudovirus (VSV),IC50,=,100,NULL,NULL,1,2022-06-27
 Wang21l,9G11,S:614G,S:452Q+490S,Figure 3A,Pseudovirus (VSV),IC50,=,100,NULL,NULL,1,2022-06-27
 Wang21l,9G11,S:614G,S:452Q,Figure 3A,Pseudovirus (VSV),IC50,=,4,NULL,NULL,1,2022-06-27

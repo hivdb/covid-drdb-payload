@@ -3247,6 +3247,25 @@ A.27 Spike,S,653,V,NULL,NULL
 A.27 Spike,S,655,Y,NULL,NULL
 A.27 Spike,S,796,Y,NULL,NULL
 A.27 Spike,S,1219,V,NULL,NULL
+A.27 full genome,nsp2,106,L,NULL,NULL
+A.27 full genome,nsp4,217,G,NULL,NULL
+A.27 full genome,nsp6,82,S,NULL,NULL
+A.27 full genome,nsp13,77,L,NULL,NULL
+A.27 full genome,S,18,F,NULL,NULL
+A.27 full genome,S,452,R,NULL,NULL
+A.27 full genome,S,501,Y,NULL,NULL
+A.27 full genome,S,653,V,NULL,NULL
+A.27 full genome,S,655,Y,NULL,NULL
+A.27 full genome,S,796,Y,NULL,NULL
+A.27 full genome,S,1219,V,NULL,NULL
+A.27 full genome,ORF3a,50,A,NULL,NULL
+A.27 full genome,ORF3a,257,del,NULL,NULL
+A.27 full genome,ORF3a,258,del,NULL,NULL
+A.27 full genome,ORF3a,259,del,NULL,NULL
+A.27 full genome,ORF8,84,S,NULL,NULL
+A.27 full genome,ORF8,119,del,NULL,NULL
+A.27 full genome,ORF8,120,del,NULL,NULL
+A.27 full genome,N,202,N,NULL,NULL
 B.1.619.1 Spike,S,210,T,NULL,NULL
 B.1.619.1 Spike,S,440,K,NULL,NULL
 B.1.619.1 Spike,S,484,K,NULL,NULL
