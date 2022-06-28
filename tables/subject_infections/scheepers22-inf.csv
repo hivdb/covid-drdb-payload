@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Scheepers22,CP_Wave1,~,2020-09-01,B.1,South Africa,NULL,NULL,Supplementary Table 3
+Scheepers22,CP_Wave2,~,2021-01-01,Beta,South Africa,NULL,NULL,Supplementary Table 3
+Scheepers22,CP_Wave3,~,2021-07-01,Delta,South Africa,NULL,NULL,Supplementary Table 3
+Scheepers22,CP_Wave2_G2,~,2021-01-01,Beta,South Africa,NULL,NULL,Supplementary Table 5
+Scheepers22,CP_Wave3_G2,~,2021-07-01,Delta,South Africa,NULL,NULL,Supplementary Table 5
