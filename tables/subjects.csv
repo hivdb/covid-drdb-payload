@@ -3219,6 +3219,11 @@ Wang21i,BNT162b2,Human,NULL,50
 Wang21j,CP_Mild,Human,NULL,25
 Wang21j,CP_Moderate,Human,NULL,19
 Wang21j,CP_Severe,Human,NULL,13
+Wang21l,Abogen_mRNA,Human,NULL,5
+Wang21l,CP,Human,NULL,14
+Wang21l,Convidecia,Human,NULL,5
+Wang21l,KCONVAC,Human,NULL,9
+Wang21l,Stemirna_mRNA,Human,NULL,4
 Wang22,BBIBP-CorV_2dose_d14,Human,NULL,10
 Wang22,BBIBP-CorV_3dose_d14,Human,NULL,10
 Wang22,CP_Delta,Human,NULL,10
