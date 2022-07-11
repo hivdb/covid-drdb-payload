@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Agudelo22,CP_Gamma,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,775,12,100000,50,NULL,2022-07-11
 Agudelo22,CP_WT,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,930,26,100000,50,NULL,2022-07-11
 Agudelo22,CP_Gamma,P.1 Spike,Figure 1C,Pseudovirus,NT50,5486,12,100000,50,NULL,2022-07-11
