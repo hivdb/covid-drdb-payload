@@ -1,0 +1,11 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Agudelo22,CP_Gamma,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,775,12,100000,50,NULL,2022-07-11
+Agudelo22,CP_WT,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,930,26,100000,50,NULL,2022-07-11
+Agudelo22,CP_Gamma,P.1 Spike,Figure 1C,Pseudovirus,NT50,5486,12,100000,50,NULL,2022-07-11
+Agudelo22,CP_WT,P.1 Spike,Figure 1C,Pseudovirus,NT50,502,26,100000,50,NULL,2022-07-11
+Agudelo22,CP_Gamma,S:80A+215G+242H+246I+417N+484K+501Y+614G+701V,Figure 1C,Pseudovirus,NT50,3237,12,100000,50,NULL,2022-07-11
+Agudelo22,CP_WT,S:80A+215G+242H+246I+417N+484K+501Y+614G+701V,Figure 1C,Pseudovirus,NT50,264,26,100000,50,NULL,2022-07-11
+Agudelo22,CP_Gamma,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 1C,Pseudovirus,NT50,483,12,100000,50,NULL,2022-07-11
+Agudelo22,CP_WT,S:19R+156del+157del+158del+452R+478K+614G+681R+950N,Figure 1C,Pseudovirus,NT50,310,26,100000,50,NULL,2022-07-11
+Agudelo22,CP_Gamma,BA.1 Spike,Figure 1C,Pseudovirus,NT50,80,12,100000,50,NULL,2022-07-11
+Agudelo22,CP_WT,BA.1 Spike,Figure 1C,Pseudovirus,NT50,81,26,100000,50,NULL,2022-07-11
