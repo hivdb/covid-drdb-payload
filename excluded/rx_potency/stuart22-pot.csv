@@ -1,13 +1,13 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Stuart22,AZD1222_2dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,132,47,10000,20,NULL,2022-06-24
-Stuart22,AZD1222_1dose_mRNA1273_1dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,1358,48,10000,20,NULL,2022-06-24
-Stuart22,AZD1222_1dose_NVXCoV2373_1dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,473,51,10000,20,NULL,2022-06-24
-Stuart22,BNT162b2_2dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,883,46,10000,20,NULL,2022-06-24
-Stuart22,BNT162b2_1dose_mRNA1273_1dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,1260,48,10000,20,NULL,2022-06-24
-Stuart22,BNT162b2_1dose_NVXCoV2373_1dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,787,49,10000,20,NULL,2022-06-24
-Stuart22,AZD1222_2dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,331,47,10000,20,NULL,2022-06-24
-Stuart22,AZD1222_1dose_mRNA1273_1dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,2244,48,10000,20,NULL,2022-06-24
-Stuart22,AZD1222_1dose_NVXCoV2373_1dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,630,51,10000,20,NULL,2022-06-24
-Stuart22,BNT162b2_2dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,3216,46,10000,20,NULL,2022-06-24
-Stuart22,BNT162b2_1dose_mRNA1273_1dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,3252,48,10000,20,NULL,2022-06-24
-Stuart22,BNT162b2_1dose_NVXCoV2373_1dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,868,49,10000,20,NULL,2022-06-24
+Stuart21,AZD1222_2dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,132,47,10000,20,NULL,2022-06-24
+Stuart21,AZD1222_1dose_mRNA1273_1dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,1358,48,10000,20,NULL,2022-06-24
+Stuart21,AZD1222_1dose_NVXCoV2373_1dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,473,51,10000,20,NULL,2022-06-24
+Stuart21,BNT162b2_2dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,883,46,10000,20,NULL,2022-06-24
+Stuart21,BNT162b2_1dose_mRNA1273_1dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,1260,48,10000,20,NULL,2022-06-24
+Stuart21,BNT162b2_1dose_NVXCoV2373_1dose,Wuhan-Hu-1 Spike,Table 2,Pseudovirus,NT50,787,49,10000,20,NULL,2022-06-24
+Stuart21,AZD1222_2dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,331,47,10000,20,NULL,2022-06-24
+Stuart21,AZD1222_1dose_mRNA1273_1dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,2244,48,10000,20,NULL,2022-06-24
+Stuart21,AZD1222_1dose_NVXCoV2373_1dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,630,51,10000,20,NULL,2022-06-24
+Stuart21,BNT162b2_2dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,3216,46,10000,20,NULL,2022-06-24
+Stuart21,BNT162b2_1dose_mRNA1273_1dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,3252,48,10000,20,NULL,2022-06-24
+Stuart21,BNT162b2_1dose_NVXCoV2373_1dose,Wuhan-Hu-1,Table 2,Virus isolate,NT80,868,49,10000,20,NULL,2022-06-24
