@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Chuang22,AZD1222_2dose_BNT162b2_1dose,~,2021-05-20,AZD1222,1,Taiwan,NULL
+Chuang22,AZD1222_2dose_BNT162b2_1dose,~,2021-07-22,AZD1222,2,Taiwan,NULL
+Chuang22,AZD1222_2dose_BNT162b2_1dose,~,2021-12-07,BNT162b2,3,Taiwan,NULL
+Chuang22,AZD1222_2dose_mRNA1273_halfdose,~,2021-05-13,AZD1222,1,Taiwan,NULL
+Chuang22,AZD1222_2dose_mRNA1273_halfdose,~,2021-07-22,AZD1222,2,Taiwan,NULL
+Chuang22,AZD1222_2dose_mRNA1273_halfdose,~,2021-12-07,mRNA-1273,3,Taiwan,NULL
+Chuang22,AZD1222_2dose_mRNA1273_1dose,~,2021-05-20,AZD1222,1,Taiwan,NULL
+Chuang22,AZD1222_2dose_mRNA1273_1dose,~,2021-07-20,AZD1222,2,Taiwan,NULL
+Chuang22,AZD1222_2dose_mRNA1273_1dose,~,2021-12-07,mRNA-1273,3,Taiwan,NULL
+Chuang22,AZD1222_2dose_MVC_COV1901_1dose,~,2021-05-15,AZD1222,1,Taiwan,NULL
+Chuang22,AZD1222_2dose_MVC_COV1901_1dose,~,2021-07-22,AZD1222,2,Taiwan,NULL
+Chuang22,AZD1222_2dose_MVC_COV1901_1dose,~,2021-12-07,MVC-COV1901,3,Taiwan,NULL
