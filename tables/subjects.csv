@@ -414,10 +414,10 @@ Choi21b,mRNA-1273_2dose_351_20ug,Human,NULL,20
 Choi21b,mRNA-1273_2dose_351_50ug,Human,NULL,20
 Choi21b,mRNA-1273_2dose_booster,Human,NULL,20
 Choudhary21,ACTIV-2/A5401 trial,Human,NULL,111
-Chuang22,AZD1222_2dose_BNT162b2_1dose,Human,NULL,1
-Chuang22,AZD1222_2dose_MVC_COV1901_1dose,Human,NULL,1
-Chuang22,AZD1222_2dose_mRNA1273_1dose,Human,NULL,1
-Chuang22,AZD1222_2dose_mRNA1273_halfdose,Human,NULL,1
+Chuang22,AZD1222_2dose_BNT162b2_1dose,Human,NULL,30
+Chuang22,AZD1222_2dose_MVC_COV1901_1dose,Human,NULL,30
+Chuang22,AZD1222_2dose_mRNA1273_1dose,Human,NULL,30
+Chuang22,AZD1222_2dose_mRNA1273_halfdose,Human,NULL,30
 Ciuffreda21,CP Donor,Human,NULL,1
 Ciuffreda21,Patient,Human,1997,1
 Collier21,BNT162b2_1ds,Human,NULL,37
