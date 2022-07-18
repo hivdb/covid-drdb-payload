@@ -1,0 +1,85 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Kaleta21,LY-COV555,A.27 full genome,Table 2,Virus isolate,IC50,10000,1,10000,1,ng/ml,2022-06-28
+Kaleta21,LY-COV555,B.1 full genome,Table 2,Virus isolate,IC50,110,1,10000,1,ng/ml,2022-06-28
+Kaleta21,LY-COV555,B.1.1.7 full genome,Table 2,Virus isolate,IC50,60,1,10000,1,ng/ml,2022-06-28
+Kaleta21,LY-COV555,B.1.351 full genome,Table 2,Virus isolate,IC50,10000,1,10000,1,ng/ml,2022-06-28
+Kaleta21,LY-COV555,P.1 full genome,Table 2,Virus isolate,IC50,10000,1,10000,1,ng/ml,2022-06-28
+Kaleta21,LY-COV555,B.1.617.2 full genome,Table 2,Virus isolate,IC50,10000,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10933,A.27 full genome,Table 2,Virus isolate,IC50,120,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10933,B.1 full genome,Table 2,Virus isolate,IC50,90,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10933,B.1.1.7 full genome,Table 2,Virus isolate,IC50,20,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10933,B.1.351 full genome,Table 2,Virus isolate,IC50,4700,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10933,P.1 full genome,Table 2,Virus isolate,IC50,10000,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10933,B.1.617.2 full genome,Table 2,Virus isolate,IC50,10,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10987,A.27 full genome,Table 2,Virus isolate,IC50,50,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10987,B.1 full genome,Table 2,Virus isolate,IC50,20,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10987,B.1.1.7 full genome,Table 2,Virus isolate,IC50,10,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10987,B.1.351 full genome,Table 2,Virus isolate,IC50,10,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10987,P.1 full genome,Table 2,Virus isolate,IC50,10,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN10987,B.1.617.2 full genome,Table 2,Virus isolate,IC50,40,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN-COV2,A.27 full genome,Table 2,Virus isolate,IC50,50,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN-COV2,B.1 full genome,Table 2,Virus isolate,IC50,30,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN-COV2,B.1.1.7 full genome,Table 2,Virus isolate,IC50,20,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN-COV2,B.1.351 full genome,Table 2,Virus isolate,IC50,50,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN-COV2,P.1 full genome,Table 2,Virus isolate,IC50,20,1,10000,1,ng/ml,2022-06-28
+Kaleta21,REGN-COV2,B.1.617.2 full genome,Table 2,Virus isolate,IC50,20,1,10000,1,ng/ml,2022-06-28
+Kaleta21,CP_1,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,127.8,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_2,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,17.45,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_3,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,364.1,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_4,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,80.17,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_5,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,271.1,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_6,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,82.4,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_7,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,768.1,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_8,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,42.95,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_9,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,33.17,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_10,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,48.07,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_11,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,654.9,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_12,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,56.21,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_13,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,218.7,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_14,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,761.5,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_15,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,327.3,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_16,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,2163,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_1,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,86.05,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_2,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,27.78,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_3,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,47.83,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_4,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,23.53,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_5,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,134,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_6,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,34.02,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_7,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,531.7,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_8,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,24.65,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_9,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,1,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_10,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,5.099,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_11,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,217,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_12,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,28.09,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_13,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,46.55,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_14,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,411.5,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_15,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,190.6,1,4096,32,NULL,2022-06-28
+Kaleta21,CP_16,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6a,Virus isolate,NT50,1904,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_1,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,505,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_2,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,724,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_3,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,986.6,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_4,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,221.2,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_5,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,50.42,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_6,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,306.7,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_7,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,583.1,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_8,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,344.2,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_9,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,51.28,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_10,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,797.8,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_11,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,230,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_12,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,124.3,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_13,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,171.6,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_14,B.1 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,66.41,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_1,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,161.5,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_2,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,336.4,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_3,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,476.2,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_4,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,186.9,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_5,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,1,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_6,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,137.7,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_7,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,318.7,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_8,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,214.2,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_9,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,16.33,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_10,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,504.2,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_11,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,272.1,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_12,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,53.92,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_13,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,63.18,1,4096,32,NULL,2022-06-28
+Kaleta21,VP_14,A.27 full genome,41467_2022_28766_MOESM7_ESM.xlsx Figure 6b,Virus isolate,NT50,94.48,1,4096,32,NULL,2022-06-28

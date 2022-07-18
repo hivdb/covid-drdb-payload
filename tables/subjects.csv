@@ -14,6 +14,8 @@ Aggarwal21,VP_1wave_BNT162b,Human,NULL,3
 Aggarwal21,VP_1wave_ChAdOx1,Human,NULL,7
 Aggarwal21,VP_2wave_BNT162b,Human,NULL,5
 Aggarwal21,VP_2wave_ChAdOx1,Human,NULL,4
+Agudelo22,CP_Gamma,Human,NULL,12
+Agudelo22,CP_WT,Human,NULL,26
 Ai21,BBIBP-CorV_2dose,Human,1987,10
 Ai21,BBIBP-CorV_2dose_ZF2001,Human,1994,10
 Ai21,BBIBP-CorV_3dose,Human,1996,10
@@ -236,6 +238,10 @@ Chalkias22,mRNA-1273_100ug_booster,Human,1969,582
 Chalkias22,mRNA-1273_2dose,Human,1970,584
 Chalkias22,mRNA-1273_50ug_booster,Human,1971,296
 Chalkias22,mRNA-1273_booster,Human,1970,140
+Chandrashekar22,Ad26_1dose_BNT_1dose,Macaque,NULL,6
+Chandrashekar22,Ad26_2dose,Macaque,NULL,6
+Chandrashekar22,BNT_2dose_Ad26_1dose,Macaque,NULL,6
+Chandrashekar22,BNT_3dose,Macaque,NULL,6
 Changrob21,CP,Human,NULL,10
 Chansaenroj22,BBIBP_2dose_AZD1222,Human,1980,33
 Chansaenroj22,BBIBP_2dose_BNT162b2,Human,1980,56
@@ -843,6 +849,8 @@ Edara21d,Moderna_3dose_4w_8,Human,1988,1
 Edara21d,Moderna_3dose_4w_9,Human,1994,1
 Edara22,BBV152,Human,NULL,13
 Emary21,AZD1222,Human,NULL,49
+Evans21,mRNA_inf,Human,1984,12
+Evans21,mRNA_uninf,Human,1984,36
 Evans22,CP_D614G_Hospitalized,Human,NULL,9
 Evans22,CP_D614G_ICU,Human,NULL,9
 Evans22,CP_Delta_wave,Human,NULL,12
@@ -1317,6 +1325,8 @@ Jensen21,Patient 5,Human,1952,1
 Jensen21,Patient 6,Human,1955,1
 Jongeneelen21,Ad26.COV2.S,Human,NULL,8
 Ju22,CP,Human,NULL,19
+Kaleta21,CP,Human,NULL,16
+Kaleta21,VP,Human,NULL,14
 Kant21,Covaxin,Human,1956,40
 Kant21,Covishield,Human,1965,40
 Kant21,Covishield_vovaxin,Human,1959,18
@@ -1484,6 +1494,8 @@ Kurhade22b,CP_Omicron_8,Human,1952,1
 Kurhade22b,CP_Omicron_9,Human,1932,1
 Kuzmina21,BNT,Human,NULL,10
 Kuzmina21,CP,Human,NULL,10
+Kuzmina21b,CP,Human,NULL,10
+Kuzmina21b,VP,Human,NULL,20
 Lang-Meli22,CP Donor,Human,NULL,8
 Lang-Meli22,Patient 1,Human,1959,1
 Lang-Meli22,Patient 2,Human,1965,1
@@ -1496,6 +1508,9 @@ Lassauniere21,BNT162b2,Human,1980,14
 Lassauniere22,BNT_2dose,Human,1970,73
 Lassauniere22,BNT_3dose,Human,1951,55
 Lassauniere22,mRNA_inf,Human,1964,7
+Launay22,VP_BNT_2dose_MVB.1.351,Human,NULL,71
+Launay22,VP_BNT_2dose_MVD614,Human,NULL,76
+Launay22,VP_BNT_3dose,Human,NULL,76
 Lechmere21,AZD1222_delta_infected,Human,NULL,16
 Lechmere21,BNT162b2_delta_infected,Human,NULL,10
 Lechmere21,CP_2A,Human,NULL,19
@@ -2240,6 +2255,15 @@ Sapkal21c,AZD_2nd,Human,NULL,31
 Sapkal21c,AZD_Breakthrough,Human,NULL,20
 Sapkal21c,AZD_infect_1st,Human,NULL,15
 Sapkal21c,AZD_infect_2nd,Human,NULL,19
+Scheepers22,AZD1222,Human,NULL,11
+Scheepers22,Ad26.COV2.S,Human,NULL,10
+Scheepers22,BNT162b2,Human,NULL,7
+Scheepers22,BNT162b2_G2,Human,NULL,6
+Scheepers22,CP_Wave1,Human,NULL,10
+Scheepers22,CP_Wave2,Human,NULL,10
+Scheepers22,CP_Wave2_G2,Human,NULL,7
+Scheepers22,CP_Wave3,Human,NULL,9
+Scheepers22,CP_Wave3_G2,Human,NULL,9
 Scherer22,CP donor,Human,NULL,1
 Scherer22,Patient 1,Human,1956,1
 Scherer22,Patient 2,Human,1975,1
@@ -2806,6 +2830,10 @@ Tarhini21,Patient 2,Human,1949,1
 Tarhini21,Patient 3,Human,1985,1
 Tea21,CP_first_wave,Human,1973,31
 Tea21,CP_second_wave,Human,1977,17
+Tober-Lau22,VP_2dose,Human,NULL,10
+Tober-Lau22,VP_2dose_BTI_Omicron,Human,NULL,10
+Tober-Lau22,VP_2dose_BTI_non_Omicron,Human,NULL,10
+Tober-Lau22,VP_3dose,Human,NULL,10
 Trinite21,BNT_infected,Human,NULL,16
 Trinite21,BNT_uninfected,Human,NULL,16
 Trinite21,CP_Aug20,Human,NULL,16
@@ -3217,6 +3245,11 @@ Wang21i,BNT162b2,Human,NULL,50
 Wang21j,CP_Mild,Human,NULL,25
 Wang21j,CP_Moderate,Human,NULL,19
 Wang21j,CP_Severe,Human,NULL,13
+Wang21l,Abogen_mRNA,Human,NULL,5
+Wang21l,CP,Human,NULL,14
+Wang21l,Convidecia,Human,NULL,5
+Wang21l,KCONVAC,Human,NULL,9
+Wang21l,Stemirna_mRNA,Human,NULL,4
 Wang22,BBIBP-CorV_2dose_d14,Human,NULL,10
 Wang22,BBIBP-CorV_3dose_d14,Human,NULL,10
 Wang22,CP_Delta,Human,NULL,10

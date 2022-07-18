@@ -3,49 +3,53 @@ BNT162b2,mRNA,BioNTech,Germany,2,1
 mRNA-1273,mRNA,"Moderna, NIAID and BARDA",United States,2,2
 AZD1222,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,3
 AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,4
-AZD1222 + AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,5
-AZD1222 + BNT162b2,Mixed,,,2,6
-AZD1222 + mRNA-1273,Mixed,,,2,7
-BBIBP-CorV,Inactivated virus,Sinopharm Beijing,China,2,8
-BBV152,Inactivated virus,Bharat Biotech,India,2,9
-CoronaVac,Inactivated virus,Sinovac Biotech,China,2,10
-NVX-CoV2373,Protein subunit,Novavax,United States,2,11
-MVC-COV1901,Protein subunit,Medigen Vaccine Biologics and Dynavax Technologies,Taiwan,2,12
-ZF2001,Protein subunit,Anhui Zhifei Longcom and Chinese Academy of Sciences,China,3,13
-Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,14
-Ad26.COV2.S,Viral vector,Janssen Vaccines,Netherlands,1,15
-mRNA-1273.211,mRNA,Moderna,United States,2,16
-mRNA-1273.351,mRNA,Moderna,United States,2,17
-mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,2,18
-mRNA-1273 + mRNA-1273.211,mRNA,Moderna,United States,2,19
-BBV154,Viral vector,"Bharat Biotech, Washington University",India,2,20
-INO-4800,DNA,Inovio Pharmaceuticals,United States,2,21
-KCONVAC,Inactivated virus,"Shenzhen Kangtai Biological Products ",China,3,22
-Convidecia,Viral vector,CanSino Biologics,China,1,23
-mRNA,mRNA,BioNTech or Moderna,,2,24
-BNT162b2 + mRNA-1273,mRNA,BioNTech and Moderna,,3,25
-BNT162b2 or AZD1222,Mixed,,,2,26
-AZD1222 + BBV152,Mixed,,,2,27
-Inactivated,Inactivated virus,,,2,28
-Sputnik Light,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,29
+BBIBP-CorV,Inactivated virus,Sinopharm Beijing,China,2,5
+BBV152,Inactivated virus,Bharat Biotech,India,2,6
+CoronaVac,Inactivated virus,Sinovac Biotech,China,2,7
+NVX-CoV2373,Protein subunit,Novavax,United States,2,8
+MVC-COV1901,Protein subunit,Medigen Vaccine Biologics and Dynavax Technologies,Taiwan,2,9
+ZF2001,Protein subunit,Anhui Zhifei Longcom and Chinese Academy of Sciences,China,3,10
+Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,11
+Ad26.COV2.S,Viral vector,Janssen Vaccines,Netherlands,1,12
+mRNA-1273.211,mRNA,Moderna,United States,2,13
+mRNA-1273.351,mRNA,Moderna,United States,2,14
+BBV154,Viral vector,"Bharat Biotech, Washington University",India,2,15
+INO-4800,DNA,Inovio Pharmaceuticals,United States,2,16
+KCONVAC,Inactivated virus,Shenzhen Kangtai Biological Products ,China,3,17
+Convidecia,Viral vector,CanSino Biologics,China,1,18
+Sputnik Light,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,19
+Nanocovax,Protein subunit,Nanogen Pharmaceutical Biotechnology JSC,Vietnam,2,20
+mRNA-1273.529,mRNA,Moderna,United States,2,21
+Abogen_mRNA,mRNA,Suzhou Abogen Biosciences,China,2,22
+Stemirna_mRNA,mRNA,Stemirna Company,China,2,23
+MVD614,Protein subunit,GSK/Sanofi,France,1,24
+MVB.1.351,Protein subunit,GSK/Sanofi,France,1,25
+BNT162b2 + mRNA-1273,mRNA,BioNTech and Moderna,,3,26
+mRNA-1273 or mRNA-1273.529,mRNA,Moderna,United States,2,27
+mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,2,28
+mRNA-1273 + mRNA-1273.211,mRNA,Moderna,United States,2,29
 Sputnik Light + Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,3,30
-BBIBP-CorV + ZF2001,Mixed,Sinopharm Beijing,China,3,31
-Ad26.COV2.S + mRNA-1273,Mixed,,,2,32
-Nanocovax,Protein subunit,Nanogen Pharmaceutical Biotechnology JSC,Vietnam,2,33
-BNT162b2 + CoronaVac,Mixed,,,2,34
-mRNA-1273.529,mRNA,Moderna,United States,2,35
-mRNA-1273 or mRNA-1273.529,mRNA,Moderna,United States,2,36
-CoronaVac or BBIBP-CorV,Inactivated virus,,,3,37
-CoronaVac + ZF2001,Mixed,,,2,38
-Ad26.COV2.S + BNT162b2,Mixed,,,2,39
-AZD1222 + CoronaVac,Mixed,,,2,40
-AZD1222 + BNT162b2 + CoronaVac,Mixed,,,3,41
-AZD1222 + CoronaVac + mRNA-1273,Mixed,,,3,42
-AZD1222 + BBIBP-CorV,Mixed,,,3,43
-BBIBP-CorV + BNT162b2,Mixed,,,3,44
-BBIBP-CorV + mRNA-1273,Mixed,,,3,45
-AZD1222 + Sputnik V,Mixed,,,3,46
-AZD1222 + NVX-CoV2373,Mixed,,,2,47
-BNT162b2 + NVX-CoV2373,Mixed,,,2,48
-AZD1222 + mRNA,Mixed,,,3,100
+AZD1222 + AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,31
+AZD1222 + Sputnik V,Viral vector,,,3,32
+CoronaVac or BBIBP-CorV,Inactivated virus,,,3,33
+BBIBP-CorV + ZF2001,Mixed,,China,3,34
+Ad26.COV2.S + mRNA-1273,Mixed,,,2,35
+BNT162b2 + CoronaVac,Mixed,,,2,36
+CoronaVac + ZF2001,Mixed,,China,2,37
+Ad26.COV2.S + BNT162b2,Mixed,,,2,38
+AZD1222 + CoronaVac,Mixed,,,2,39
+AZD1222 + BNT162b2 + CoronaVac,Mixed,,,3,40
+AZD1222 + CoronaVac + mRNA-1273,Mixed,,,3,41
+AZD1222 + BBIBP-CorV,Mixed,,,3,42
+AZD1222 + BNT162b2,Mixed,,,2,43
+AZD1222 + mRNA-1273,Mixed,,,2,44
+BNT162b2 or AZD1222,Mixed,,,2,45
+AZD1222 + BBV152,Mixed,,,2,46
+BBIBP-CorV + BNT162b2,Mixed,,,3,47
+BBIBP-CorV + mRNA-1273,Mixed,,,3,48
+AZD1222 + mRNA,Mixed,,,3,49
+BNT162b2 + MVB.1.351,Mixed,,,3,50
+BNT162b2 + MVD614,Mixed,,,3,51
+mRNA,mRNA,Unknown mRNA vaccine,,2,52
+Inactivated,Inactivated virus,Unknown inactivated virus vaccine,,2,53
 Unknown vaccine,Mixed,,,3,1000

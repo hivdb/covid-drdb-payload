@@ -1,0 +1,33 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Scheepers22,AZD1222,S:614G,Figure 2C,Pseudovirus (lentivirus),NT50,539,11,100000,20,NULL,2022-06-28
+Scheepers22,AZD1222,B.1.351 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,28,11,100000,20,NULL,2022-06-28
+Scheepers22,AZD1222,S:9L+136F+144del+190S+215G+242del+243del+449H+484K+501Y+614G+655Y+679K+716I+859N,Figure 2C,Pseudovirus (lentivirus),NT50,46,11,100000,20,NULL,2022-06-28
+Scheepers22,AZD1222,B.1.617.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,52,11,100000,20,NULL,2022-06-28
+Scheepers22,Ad26.COV2.S,S:614G,Figure 2C,Pseudovirus (lentivirus),NT50,145,10,100000,20,NULL,2022-06-28
+Scheepers22,Ad26.COV2.S,B.1.351 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,25,10,100000,20,NULL,2022-06-28
+Scheepers22,Ad26.COV2.S,S:9L+136F+144del+190S+215G+242del+243del+449H+484K+501Y+614G+655Y+679K+716I+859N,Figure 2C,Pseudovirus (lentivirus),NT50,38,9,100000,20,NULL,2022-06-28
+Scheepers22,Ad26.COV2.S,B.1.617.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,36,10,100000,20,NULL,2022-06-28
+Scheepers22,BNT162b2,S:614G,Figure 2C,Pseudovirus (lentivirus),NT50,711,6,100000,20,NULL,2022-06-28
+Scheepers22,BNT162b2,B.1.351 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,133,6,100000,20,NULL,2022-06-28
+Scheepers22,BNT162b2,S:9L+136F+144del+190S+215G+242del+243del+449H+484K+501Y+614G+655Y+679K+716I+859N,Figure 2C,Pseudovirus (lentivirus),NT50,115,7,100000,20,NULL,2022-06-28
+Scheepers22,BNT162b2,B.1.617.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,141,6,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave1,S:614G,Figure 2D,Pseudovirus (lentivirus),NT50,466,10,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave1,B.1.351 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,64,5,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave1,S:9L+136F+144del+190S+215G+242del+243del+449H+484K+501Y+614G+655Y+679K+716I+859N,Figure 2D,Pseudovirus (lentivirus),NT50,55,7,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave1,B.1.617.2 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,69,5,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave2,S:614G,Figure 2D,Pseudovirus (lentivirus),NT50,446,10,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave2,B.1.351 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,507,10,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave2,S:9L+136F+144del+190S+215G+242del+243del+449H+484K+501Y+614G+655Y+679K+716I+859N,Figure 2D,Pseudovirus (lentivirus),NT50,1419,7,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave2,B.1.617.2 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,110,10,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave3,S:614G,Figure 2D,Pseudovirus (lentivirus),NT50,901,9,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave3,B.1.351 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,138,9,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave3,S:9L+136F+144del+190S+215G+242del+243del+449H+484K+501Y+614G+655Y+679K+716I+859N,Figure 2D,Pseudovirus (lentivirus),NT50,2814,7,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave3,B.1.617.2 Spike,Figure 2D,Pseudovirus (lentivirus),NT50,5451,9,100000,20,NULL,2022-06-28
+Scheepers22,BNT162b2_G2,B.1 full genome,Supplementary Figure 3a,Virus isolate,NT50,104,6,100000,20,NULL,2022-06-28
+Scheepers22,BNT162b2_G2,B.1.351 full genome,Supplementary Figure 3a,Virus isolate,NT50,25,6,100000,20,NULL,2022-06-28
+Scheepers22,BNT162b2_G2,C.1.2 full genome,Supplementary Figure 3a,Virus isolate,NT50,52,6,100000,20,NULL,2022-06-28
+Scheepers22,BNT162b2_G2,B.1.617.2 full genome,Supplementary Figure 3a,Virus isolate,NT50,46,6,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave2_G2,B.1.351 full genome,Supplementary Figure 3a,Virus isolate,NT50,630,7,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave2_G2,C.1.2 full genome,Supplementary Figure 3a,Virus isolate,NT50,267,7,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave3_G2,B.1.351 full genome,Supplementary Figure 3a,Virus isolate,NT50,444,9,100000,20,NULL,2022-06-28
+Scheepers22,CP_Wave3_G2,C.1.2 full genome,Supplementary Figure 3a,Virus isolate,NT50,2443,9,100000,20,NULL,2022-06-28

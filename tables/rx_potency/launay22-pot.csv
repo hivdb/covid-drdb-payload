@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Launay22,VP_BNT_2dose_MVD614_preboost,B.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,86.8,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVD614_boost,B.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,1168.4,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVD614_preboost,B.1.351 full genome,"Table S2, Figure 1",Virus isolate,NT50,38.6,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVD614_boost,B.1.351 full genome,"Table S2, Figure 1",Virus isolate,NT50,416.9,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVD614_preboost,B.1.617.2 full genome,"Table S2, Figure 1",Virus isolate,NT50,45.9,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVD614_boost,B.1.617.2 full genome,"Table S2, Figure 1",Virus isolate,NT50,491.3,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVD614_preboost,Omicron/BA.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,22.5,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVD614_boost,Omicron/BA.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,123.9,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVB.1.351_preboost,B.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,84,71,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVB.1.351_boost,B.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,1801.4,71,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVB.1.351_preboost,B.1.351 full genome,"Table S2, Figure 1",Virus isolate,NT50,33.2,71,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVB.1.351_boost,B.1.351 full genome,"Table S2, Figure 1",Virus isolate,NT50,1053,71,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVB.1.351_preboost,B.1.617.2 full genome,"Table S2, Figure 1",Virus isolate,NT50,39.2,71,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVB.1.351_boost,B.1.617.2 full genome,"Table S2, Figure 1",Virus isolate,NT50,894.4,71,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVB.1.351_preboost,Omicron/BA.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,17.4,71,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_2dose_MVB.1.351_boost,Omicron/BA.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,253.2,71,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_3dose_preboost,B.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,96,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_3dose_boost,B.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,1364.4,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_3dose_preboost,B.1.351 full genome,"Table S2, Figure 1",Virus isolate,NT50,38.6,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_3dose_boost,B.1.351 full genome,"Table S2, Figure 1",Virus isolate,NT50,428.4,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_3dose_preboost,B.1.617.2 full genome,"Table S2, Figure 1",Virus isolate,NT50,41.5,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_3dose_boost,B.1.617.2 full genome,"Table S2, Figure 1",Virus isolate,NT50,553.1,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_3dose_preboost,Omicron/BA.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,19.1,76,65536,20,NULL,2022-07-11
+Launay22,VP_BNT_3dose_boost,Omicron/BA.1 full genome,"Table S2, Figure 1",Virus isolate,NT50,139.5,76,65536,20,NULL,2022-07-11

@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Evans21,mRNA_inf,mRNA_1dose_inf,~,2021-01-21,USA,mRNA_inf,Health Care Worker Cohort
+Evans21,mRNA_uninf,mRNA_1dose_uninf,~,2021-01-21,USA,mRNA_uninf,Health Care Worker Cohort
+Evans21,mRNA_inf,mRNA_2dose_inf,~,2021-02-17,USA,mRNA_inf,Health Care Worker Cohort
+Evans21,mRNA_uninf,mRNA_2dose_uninf,~,2021-02-17,USA,mRNA_uninf,Health Care Worker Cohort
+Evans21,mRNA_inf,mRNA_2dose_6M_inf,~,2021-08-04,USA,mRNA_inf,Health Care Worker Cohort
+Evans21,mRNA_uninf,mRNA_2dose_6m_uninf,~,2021-08-04,USA,mRNA_uninf,Health Care Worker Cohort
