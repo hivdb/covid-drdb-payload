@@ -1,0 +1,414 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Tada22b,CP_1,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,239,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_1,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,72,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_1,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,52,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_1,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,96,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_1,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,25,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_1,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,17,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_2,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,167,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_2,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,97,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_2,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,77,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_2,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,92,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_2,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,61,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_2,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,10,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_3,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,74,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_3,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,74,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_3,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,167,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_3,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,171,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_3,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,143,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_3,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,61,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_4,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,394,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_4,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,39,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_4,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,48,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_4,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,56,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_4,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,85,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_4,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,41,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_5,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,583,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_5,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,61,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_5,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,98,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_5,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,59,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_5,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,59,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_5,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,27,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_6,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,369,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_6,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,131,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_6,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,62,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_6,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,105,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_6,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,161,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_6,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,92,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_7,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,503,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_7,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,107,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_7,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,106,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_7,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,66,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_7,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,12,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_7,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,54,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_8,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,345,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_8,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,25,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_8,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,83,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_8,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,77,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_8,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,19,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_8,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,40,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_1,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,740,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_1,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,98,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_1,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,219,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_1,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,283,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_1,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,86,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_1,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,99,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_2,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1713,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_2,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,119,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_2,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,451,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_2,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,636,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_2,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,96,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_2,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,77,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_3,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1320,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_3,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,399,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_3,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,543,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_3,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,412,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_3,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,273,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_3,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,315,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_4,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,738,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_4,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,205,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_4,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,393,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_4,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,325,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_4,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,199,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_4,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,127,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_5,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1308,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_5,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,80,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_5,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,113,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_5,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,88,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_5,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,49,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_5,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,46,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_6,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,374,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_6,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,62,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_6,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,72,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_6,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,109,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_6,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_6,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_7,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,694,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_7,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,369,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_7,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,148,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_7,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,126,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_7,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,269,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_7,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,271,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_8,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,389,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_8,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,166,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_8,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,131,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_8,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,130,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_8,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,55,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_8,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_9,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,485,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_9,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,112,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_9,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,238,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_9,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,209,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_9,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,119,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_9,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,46,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_1,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1378,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_1,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,188,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_1,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,296,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_1,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,557,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_1,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,198,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_1,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,111,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_2,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1379,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_2,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,390,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_2,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,358,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_2,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,390,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_2,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,254,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_2,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,124,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_3,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1053,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_3,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,100,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_3,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,122,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_3,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,407,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_3,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,251,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_3,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,97,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_4,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,570,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_4,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,60,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_4,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,296,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_4,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,135,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_4,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_4,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_5,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1162,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_5,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,447,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_5,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,325,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_5,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,553,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_5,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,255,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_5,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,191,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_6,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1355,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_6,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,516,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_6,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,481,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_6,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,524,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_6,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,148,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_6,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_7,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1426,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_7,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,228,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_7,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,500,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_7,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,328,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_7,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,187,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_7,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,122,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_8,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,656,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_8,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,394,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_8,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,286,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_8,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,262,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_8,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,253,1,10000,50,ng/ml,2022-07-18
+Tada22b,mRNA1273_2dose_8,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,151,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_1,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,47,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_1,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,58,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_1,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,43,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_1,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,32,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_1,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,54,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_1,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,14,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_2,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,138,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_2,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,38,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_2,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,49,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_2,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,97,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_2,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,48,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_2,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,58,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_3,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,521,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_3,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_3,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_3,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_3,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,48,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_3,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_4,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,344,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_4,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,18,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_4,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,36,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_4,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,29,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_4,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_4,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_5,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,253,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_5,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_5,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,45,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_5,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,107,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_5,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_5,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_6,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,280,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_6,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,61,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_6,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,61,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_6,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,26,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_6,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_6,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_7,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,260,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_7,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,52,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_7,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,55,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_7,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,95,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_7,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,42,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_7,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,17,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_8,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,304,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_8,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,57,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_8,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,82,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_8,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,87,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_8,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,8,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_8,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_9,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,58,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_9,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,6,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_9,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,76,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_9,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,48,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_9,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,52,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_9,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,51,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_10,B.1 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,487,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_10,B.1.351 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,48,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_10,B.1.617.2 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,55,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_10,B.1.617.2 Spike:+142D,Supplementary Table 1,Pseudovirus (lentivirus),IC50,79,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_10,B.1.621 Spike,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,Ad26COV2S_2dose_10,C.1.2 Spike:-T716I,Supplementary Table 1,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_10,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,1824,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_10,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,285,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_10,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,882,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_10,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,871,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_10,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,141,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_10,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,136,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_10,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,80,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_11,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,1307,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_11,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,171,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_11,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,802,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_11,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,825,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_11,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,267,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_11,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,322,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_11,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_12,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,1109,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_12,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,287,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_12,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,804,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_12,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,687,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_12,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,221,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_12,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,141,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_12,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,93,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_13,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,713,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_13,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,120,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_13,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,251,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_13,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,317,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_13,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_13,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,251,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_13,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,110,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_14,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,481,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_14,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_14,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,201,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_14,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,341,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_14,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_14,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,BNT162b2_2dose_14,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,107,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_1,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,66,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_1,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,5477,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_1,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,107,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_1,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,2462,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_1,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,129,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_1,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1957,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_1,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,165,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_1,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,2157,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_1,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,31,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_1,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,755,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_1,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,69,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_1,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,1660,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_1,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,29,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_1,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,838,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_2,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,163,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_2,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,7844,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_2,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,51,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_2,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,3183,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_2,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,171,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_2,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,4964,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_2,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,192,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_2,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,4157,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_2,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,17,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_2,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,2118,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_2,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,71,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_2,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,2585,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_2,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,3,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_2,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,660,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_3,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,287,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_3,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,3852,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_3,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,129,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_3,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,3133,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_3,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,125,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_3,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,3823,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_3,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,120,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_3,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,5268,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_3,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,76,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_3,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,2501,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_3,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,184,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_3,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,1731,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_3,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,53,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_3,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,807,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_4,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,470,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_4,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,2179,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_4,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,40,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_4,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,853,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_4,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,90,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_4,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,652,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_4,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,86,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_4,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,752,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_4,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,62,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_4,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,570,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_4,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_4,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,939,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_4,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_4,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,863,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_5,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,237,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_5,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,1829,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_5,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,51,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_5,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,1421,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_5,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,79,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_5,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1539,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_5,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,111,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_5,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,979,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_5,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_5,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,1247,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_5,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,61,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_5,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,771,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_5,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_5,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,311,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_6,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,236,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_6,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,2760,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_6,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,89,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_6,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,3299,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_6,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,112,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_6,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,4007,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_6,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,105,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_6,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,4488,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_6,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,63,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_6,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,1029,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_6,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,94,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_6,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,668,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_6,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,61,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_6,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,696,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_7,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,156,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_7,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,2101,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_7,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,125,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_7,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,2246,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_7,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,148,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_7,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1178,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_7,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,168,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_7,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,794,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_7,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,23,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_7,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,1051,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_7,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,105,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_7,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,461,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_7,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,12,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_7,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,468,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_8,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,220,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_8,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,1739,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_8,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,72,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_8,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,1368,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_8,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,141,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_8,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1218,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_8,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,199,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_8,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,1592,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_8,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,11,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_8,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,1080,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_8,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,98,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_8,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,454,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_8,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_8,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,468,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_9,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,54,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_9,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,1970,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_9,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,74,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_9,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,667,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_9,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,86,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_9,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1025,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_9,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,107,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_9,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,797,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_9,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,88,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_9,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,453,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_9,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_9,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,437,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_9,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,22,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_9,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,471,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_10,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,179,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_10,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,2412,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_10,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,109,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_10,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,1793,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_10,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,114,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_10,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,2485,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_10,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,93,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_10,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,2027,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_10,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,20,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_10,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,577,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_10,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,15,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_10,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,771,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_10,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,13,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_10,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,785,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_11,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,126,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_11,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,1343,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_11,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,133,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_11,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,591,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_11,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,135,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_11,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1742,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_11,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,127,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_11,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,2395,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_11,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,35,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_11,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,651,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_11,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,9,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_11,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,610,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_11,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,5,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_11,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,618,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_12,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,51,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_12,B.1 Spike,Table 2,Pseudovirus (lentivirus),IC50,2664,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_12,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,125,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_12,B.1.351 Spike,Table 2,Pseudovirus (lentivirus),IC50,993,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_12,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,82,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_12,B.1.617.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1754,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_12,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,98,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_12,B.1.617.2 Spike:+142D,Table 2,Pseudovirus (lentivirus),IC50,1783,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_12,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,28,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_12,B.1.621 Spike,Table 2,Pseudovirus (lentivirus),IC50,921,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_12,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_12,C.1.2 Spike:-T716I,Table 2,Pseudovirus (lentivirus),IC50,1357,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_before_12,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1,1,10000,50,ng/ml,2022-07-18
+Tada22b,CP_BNT162b2_2dose_12,C.1.2 Spike,Table 2,Pseudovirus (lentivirus),IC50,1388,1,10000,50,ng/ml,2022-07-18

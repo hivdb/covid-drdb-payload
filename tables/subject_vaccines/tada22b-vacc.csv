@@ -1,0 +1,9 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Tada22b,BNT162b2_2dose,~,2021-01-01,BNT162b2,1,USA,NULL
+Tada22b,BNT162b2_2dose,~,2021-02-01,BNT162b2,2,USA,NULL
+Tada22b,mRNA1273_2dose,~,2021-01-01,mRNA-1273,1,USA,NULL
+Tada22b,mRNA1273_2dose,~,2021-02-01,mRNA-1273,2,USA,NULL
+Tada22b,Ad26COV2S_2dose,~,2021-01-01,Ad26.COV2.S,1,USA,NULL
+Tada22b,Ad26COV2S_2dose,~,2021-02-01,Ad26.COV2.S,2,USA,NULL
+Tada22b,CP_BNT162b2_2dose,~,2021-01-01,BNT162b2,1,USA,NULL
+Tada22b,CP_BNT162b2_2dose,~,2021-02-01,BNT162b2,2,USA,NULL
