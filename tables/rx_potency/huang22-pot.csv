@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Huang22,Etesevimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+371L+373P+375F+417N+440K+446S+477N+478K+484A+493R+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 2,Pseudovirus (VSV),NC50,100000,1,100000,1,ng/ml,2022-07-18
 Huang22,Etesevimab,S:67V+69del+70del+95I+142D+143del+144del+145del+211I+212del+214EPEins+339D+346K+371L+373P+375F+417N+440K+446S+477N+478K+484A+493R+496S+498R+501Y+505H+547K+614G+655Y+679K+681H+764K+796Y+856K+954H+969K+981F,Figure 2,Pseudovirus (VSV),NC50,100000,1,100000,1,ng/ml,2022-07-18
 Huang22,Etesevimab,BA.2 Spike,Figure 2,Pseudovirus (VSV),NC50,100000,1,100000,1,ng/ml,2022-07-18
