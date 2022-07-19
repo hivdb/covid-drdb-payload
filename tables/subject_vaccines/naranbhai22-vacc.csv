@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Naranbhai22,mRNA1273_2dose,~,2021-01-01,mRNA-1273,1,USA,NULL
 Naranbhai22,mRNA1273_2dose,~,2021-01-30,mRNA-1273,2,USA,NULL
 Naranbhai22,BNT162b2_2dose,~,2021-01-01,BNT162b2,1,USA,NULL

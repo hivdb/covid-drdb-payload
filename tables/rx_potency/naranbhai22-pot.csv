@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Naranbhai22,mRNA1273_2dose,B.1 Spike,Figure 4A,Pseudovirus (lentivirus),NT50,836,27,10000,12,NULL,2022-07-19
 Naranbhai22,mRNA1273_2dose,B.1.351 Spike,Figure 4A,Pseudovirus (lentivirus),NT50,28,27,10000,12,NULL,2022-07-19
 Naranbhai22,mRNA1273_2dose,P.1 Spike,Figure 4A,Pseudovirus (lentivirus),NT50,254,27,10000,12,NULL,2022-07-19
