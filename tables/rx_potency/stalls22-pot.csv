@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Stalls22,DH1044,B.1 Spike,Supplementary Figure 5,Pseudovirus,NC50,40,1,25000,1,ng/ml,2022-07-19
 Stalls22,DH1044,B.1 Spike,Supplementary Figure 5,Pseudovirus,NC80,170,1,25000,1,ng/ml,2022-07-19
 Stalls22,DH1044,BA.1 Spike,Supplementary Figure 5,Pseudovirus,NC50,520,1,25000,1,ng/ml,2022-07-19
