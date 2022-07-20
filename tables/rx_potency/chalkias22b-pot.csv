@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Chalkias22b,mRNA_1273_3dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,1521,260,45118,18.5,NULL,2022-07-20
 Chalkias22b,mRNA_1273_4dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,5649,260,45118,18.5,NULL,2022-07-20
 Chalkias22b,mRNA_1273214_3dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,1267,334,45118,18.5,NULL,2022-07-20
