@@ -1,0 +1,53 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yamasoba22c,Adintrevimab,S:614G,Table 1,Pseudovirus,IC50,6.3,1,2750,1,ng/ml,2022-07-19
+Yamasoba22c,Bamlanivimab,S:614G,Table 1,Pseudovirus,IC50,6.7,1,4725,1,ng/ml,2022-07-19
+Yamasoba22c,Bebtelovimab,S:614G,Table 1,Pseudovirus,IC50,2.4,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Casirivimab,S:614G,Table 1,Pseudovirus,IC50,3.4,1,5042,1,ng/ml,2022-07-19
+Yamasoba22c,Cilgavimab,S:614G,Table 1,Pseudovirus,IC50,14,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Etesevimab,S:614G,Table 1,Pseudovirus,IC50,12,1,4600,1,ng/ml,2022-07-19
+Yamasoba22c,Imdevimab,S:614G,Table 1,Pseudovirus,IC50,8,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Regdanvimab,S:614G,Table 1,Pseudovirus,IC50,1,1,4025,1,ng/ml,2022-07-19
+Yamasoba22c,Sotrovimab,S:614G,Table 1,Pseudovirus,IC50,47,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Tixagevimab,S:614G,Table 1,Pseudovirus,IC50,1.5,1,4375,1,ng/ml,2022-07-19
+Yamasoba22c,Ronapreve,S:614G,Table 1,Pseudovirus,IC50,3.9,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Evusheld,S:614G,Table 1,Pseudovirus,IC50,4.7,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,ETE+BAM,S:614G,Table 1,Pseudovirus,IC50,8.3,1,4600,1,ng/ml,2022-07-19
+Yamasoba22c,Adintrevimab,BA.2 Spike,Table 1,Pseudovirus,IC50,2750,1,2750,1,ng/ml,2022-07-19
+Yamasoba22c,Bamlanivimab,BA.2 Spike,Table 1,Pseudovirus,IC50,4725,1,4725,1,ng/ml,2022-07-19
+Yamasoba22c,Bebtelovimab,BA.2 Spike,Table 1,Pseudovirus,IC50,1.7,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Casirivimab,BA.2 Spike,Table 1,Pseudovirus,IC50,5042,1,5042,1,ng/ml,2022-07-19
+Yamasoba22c,Cilgavimab,BA.2 Spike,Table 1,Pseudovirus,IC50,21,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Etesevimab,BA.2 Spike,Table 1,Pseudovirus,IC50,4600,1,4600,1,ng/ml,2022-07-19
+Yamasoba22c,Imdevimab,BA.2 Spike,Table 1,Pseudovirus,IC50,5000,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Regdanvimab,BA.2 Spike,Table 1,Pseudovirus,IC50,4025,1,4025,1,ng/ml,2022-07-19
+Yamasoba22c,Sotrovimab,BA.2 Spike,Table 1,Pseudovirus,IC50,1213,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Tixagevimab,BA.2 Spike,Table 1,Pseudovirus,IC50,3815,1,4375,1,ng/ml,2022-07-19
+Yamasoba22c,Ronapreve,BA.2 Spike,Table 1,Pseudovirus,IC50,5000,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Evusheld,BA.2 Spike,Table 1,Pseudovirus,IC50,42,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,ETE+BAM,BA.2 Spike,Table 1,Pseudovirus,IC50,4600,1,4600,1,ng/ml,2022-07-19
+Yamasoba22c,Adintrevimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,2750,1,2750,1,ng/ml,2022-07-19
+Yamasoba22c,Bamlanivimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,4725,1,4725,1,ng/ml,2022-07-19
+Yamasoba22c,Bebtelovimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,1.3,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Casirivimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,5042,1,5042,1,ng/ml,2022-07-19
+Yamasoba22c,Cilgavimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,305,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Etesevimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,4600,1,4600,1,ng/ml,2022-07-19
+Yamasoba22c,Imdevimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,5000,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Regdanvimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,4025,1,4025,1,ng/ml,2022-07-19
+Yamasoba22c,Sotrovimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,1149,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Tixagevimab,BA.4/5 Spike,Table 1,Pseudovirus,IC50,4375,1,4375,1,ng/ml,2022-07-19
+Yamasoba22c,Ronapreve,BA.4/5 Spike,Table 1,Pseudovirus,IC50,5000,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Evusheld,BA.4/5 Spike,Table 1,Pseudovirus,IC50,586,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,ETE+BAM,BA.4/5 Spike,Table 1,Pseudovirus,IC50,4600,1,4600,1,ng/ml,2022-07-19
+Yamasoba22c,Adintrevimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,2750,1,2750,1,ng/ml,2022-07-19
+Yamasoba22c,Bamlanivimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,4725,1,4725,1,ng/ml,2022-07-19
+Yamasoba22c,Bebtelovimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,34,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Casirivimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,2303,1,5042,1,ng/ml,2022-07-19
+Yamasoba22c,Cilgavimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,479,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Etesevimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,4600,1,4600,1,ng/ml,2022-07-19
+Yamasoba22c,Imdevimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,5000,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Regdanvimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,42,1,4025,1,ng/ml,2022-07-19
+Yamasoba22c,Sotrovimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,240,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Tixagevimab,BA.2.75 Spike,Table 1,Pseudovirus,IC50,45,1,4375,1,ng/ml,2022-07-19
+Yamasoba22c,Ronapreve,BA.2.75 Spike,Table 1,Pseudovirus,IC50,5000,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,Evusheld,BA.2.75 Spike,Table 1,Pseudovirus,IC50,113,1,5000,1,ng/ml,2022-07-19
+Yamasoba22c,ETE+BAM,BA.2.75 Spike,Table 1,Pseudovirus,IC50,4600,1,4600,1,ng/ml,2022-07-19
