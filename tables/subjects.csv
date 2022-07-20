@@ -238,10 +238,10 @@ Chalkias22,mRNA-1273_100ug_booster,Human,1969,582
 Chalkias22,mRNA-1273_2dose,Human,1970,584
 Chalkias22,mRNA-1273_50ug_booster,Human,1971,296
 Chalkias22,mRNA-1273_booster,Human,1970,140
-Chalkias22b,CP_mRNA_1273,Human,NULL,1
-Chalkias22b,CP_mRNA_1273214,Human,NULL,1
-Chalkias22b,mRNA_1273,Human,NULL,1
-Chalkias22b,mRNA_1273214,Human,NULL,1
+Chalkias22b,CP_mRNA_1273,Human,NULL,98
+Chalkias22b,CP_mRNA_1273214,Human,NULL,334
+Chalkias22b,mRNA_1273,Human,NULL,260
+Chalkias22b,mRNA_1273214,Human,NULL,94
 Chandrashekar22,Ad26_1dose_BNT_1dose,Macaque,NULL,6
 Chandrashekar22,Ad26_2dose,Macaque,NULL,6
 Chandrashekar22,BNT_2dose_Ad26_1dose,Macaque,NULL,6
