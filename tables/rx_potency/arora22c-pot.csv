@@ -1,46 +1,46 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Arora22c,CP,b_1,Figure 2F,Pseudovirus (VSV),NT50,813,10,12800,50,NULL,2022-07-19
-Arora22c,CP,C12early,Figure 2F,Pseudovirus (VSV),NT50,222,10,12800,50,NULL,2022-07-19
-Arora22c,CP,C12late,Figure 2F,Pseudovirus (VSV),NT50,177,10,12800,50,NULL,2022-07-19
-Arora22c,CP,B_1_621,Figure 2F,Pseudovirus (VSV),NT50,274,10,12800,50,NULL,2022-07-19
-Arora22c,CP,B_1_351,Figure 2F,Pseudovirus (VSV),NT50,147,10,12800,50,NULL,2022-07-19
-Arora22c,BNT162b2_2dose,b_1,Figure 2G,Pseudovirus (VSV),NT50,282,10,6400,25,NULL,2022-07-19
-Arora22c,BNT162b2_2dose,C12early,Figure 2G,Pseudovirus (VSV),NT50,58,10,6400,25,NULL,2022-07-19
-Arora22c,BNT162b2_2dose,C12late,Figure 2G,Pseudovirus (VSV),NT50,53,10,6400,25,NULL,2022-07-19
-Arora22c,BNT162b2_2dose,B_1_621,Figure 2G,Pseudovirus (VSV),NT50,66,10,6400,25,NULL,2022-07-19
-Arora22c,BNT162b2_2dose,B_1_351,Figure 2G,Pseudovirus (VSV),NT50,76,10,6400,25,NULL,2022-07-19
-Arora22c,AZD1222_2dose,b_1,Figure 2H,Pseudovirus (VSV),NT50,119,10,6400,25,NULL,2022-07-19
-Arora22c,AZD1222_2dose,C12early,Figure 2H,Pseudovirus (VSV),NT50,34,10,6400,25,NULL,2022-07-19
-Arora22c,AZD1222_2dose,C12late,Figure 2H,Pseudovirus (VSV),NT50,33,10,6400,25,NULL,2022-07-19
-Arora22c,AZD1222_2dose,B_1_621,Figure 2H,Pseudovirus (VSV),NT50,47,10,6400,25,NULL,2022-07-19
-Arora22c,AZD1222_2dose,B_1_351,Figure 2H,Pseudovirus (VSV),NT50,30,10,6400,25,NULL,2022-07-19
-Arora22c,Casirivimab,b_1,Supplementary Figure 1D,Pseudovirus (VSV),IC50,9.7,1,2000,0.002,NULL,2022-07-19
-Arora22c,Imdevimab,b_1,Supplementary Figure 1D,Pseudovirus (VSV),IC50,10.5,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab_Imdevimab,b_1,Supplementary Figure 1D,Pseudovirus (VSV),IC50,11.1,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab,b_1,Supplementary Figure 1D,Pseudovirus (VSV),IC50,11.7,1,2000,0.002,NULL,2022-07-19
-Arora22c,Etesevimab,b_1,Supplementary Figure 1D,Pseudovirus (VSV),IC50,29.4,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab_Etesevimab,b_1,Supplementary Figure 1D,Pseudovirus (VSV),IC50,11.2,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab,C12early,Supplementary Figure 1D,Pseudovirus (VSV),IC50,71.6,1,2000,0.002,NULL,2022-07-19
-Arora22c,Imdevimab,C12early,Supplementary Figure 1D,Pseudovirus (VSV),IC50,8.6,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab_Imdevimab,C12early,Supplementary Figure 1D,Pseudovirus (VSV),IC50,9.0,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab,C12early,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
-Arora22c,Etesevimab,C12early,Supplementary Figure 1D,Pseudovirus (VSV),IC50,348.2,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab_Etesevimab,C12early,Supplementary Figure 1D,Pseudovirus (VSV),IC50,89.7,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab,C12late,Supplementary Figure 1D,Pseudovirus (VSV),IC50,29.5,1,2000,0.002,NULL,2022-07-19
-Arora22c,Imdevimab,C12late,Supplementary Figure 1D,Pseudovirus (VSV),IC50,7.3,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab_Imdevimab,C12late,Supplementary Figure 1D,Pseudovirus (VSV),IC50,6.7,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab,C12late,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
-Arora22c,Etesevimab,C12late,Supplementary Figure 1D,Pseudovirus (VSV),IC50,94.9,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab_Etesevimab,C12late,Supplementary Figure 1D,Pseudovirus (VSV),IC50,68.3,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab,B_1_621,Supplementary Figure 1D,Pseudovirus (VSV),IC50,58.6,1,2000,0.002,NULL,2022-07-19
-Arora22c,Imdevimab,B_1_621,Supplementary Figure 1D,Pseudovirus (VSV),IC50,10.1,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab_Imdevimab,B_1_621,Supplementary Figure 1D,Pseudovirus (VSV),IC50,18.7,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab,B_1_621,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
-Arora22c,Etesevimab,B_1_621,Supplementary Figure 1D,Pseudovirus (VSV),IC50,137.0,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab_Etesevimab,B_1_621,Supplementary Figure 1D,Pseudovirus (VSV),IC50,111.5,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab,B_1_351,Supplementary Figure 1D,Pseudovirus (VSV),IC50,220.6,1,2000,0.002,NULL,2022-07-19
-Arora22c,Imdevimab,B_1_351,Supplementary Figure 1D,Pseudovirus (VSV),IC50,5.8,1,2000,0.002,NULL,2022-07-19
-Arora22c,Casirivimab_Imdevimab,B_1_351,Supplementary Figure 1D,Pseudovirus (VSV),IC50,17.8,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab,B_1_351,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
-Arora22c,Etesevimab,B_1_351,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
-Arora22c,Bamlanivimab_Etesevimab,B_1_351,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
+Arora22c,CP,B.1 Spike,Figure 2F,Pseudovirus (VSV),NT50,813,10,12800,50,NULL,2022-07-19
+Arora22c,CP,C.1.2 Spike:-144del-243del-244del-859N,Figure 2F,Pseudovirus (VSV),NT50,222,10,12800,50,NULL,2022-07-19
+Arora22c,CP,C.1.2 Spike:25L+152R+478K+879T,Figure 2F,Pseudovirus (VSV),NT50,177,10,12800,50,NULL,2022-07-19
+Arora22c,CP,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Figure 2F,Pseudovirus (VSV),NT50,274,10,12800,50,NULL,2022-07-19
+Arora22c,CP,B.1.351 Spike,Figure 2F,Pseudovirus (VSV),NT50,147,10,12800,50,NULL,2022-07-19
+Arora22c,BNT162b2_2dose,B.1 Spike,Figure 2G,Pseudovirus (VSV),NT50,282,10,6400,25,NULL,2022-07-19
+Arora22c,BNT162b2_2dose,C.1.2 Spike:-144del-243del-244del-859N,Figure 2G,Pseudovirus (VSV),NT50,58,10,6400,25,NULL,2022-07-19
+Arora22c,BNT162b2_2dose,C.1.2 Spike:25L+152R+478K+879T,Figure 2G,Pseudovirus (VSV),NT50,53,10,6400,25,NULL,2022-07-19
+Arora22c,BNT162b2_2dose,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Figure 2G,Pseudovirus (VSV),NT50,66,10,6400,25,NULL,2022-07-19
+Arora22c,BNT162b2_2dose,B.1.351 Spike,Figure 2G,Pseudovirus (VSV),NT50,76,10,6400,25,NULL,2022-07-19
+Arora22c,AZD1222_2dose,B.1 Spike,Figure 2H,Pseudovirus (VSV),NT50,119,10,6400,25,NULL,2022-07-19
+Arora22c,AZD1222_2dose,C.1.2 Spike:-144del-243del-244del-859N,Figure 2H,Pseudovirus (VSV),NT50,34,10,6400,25,NULL,2022-07-19
+Arora22c,AZD1222_2dose,C.1.2 Spike:25L+152R+478K+879T,Figure 2H,Pseudovirus (VSV),NT50,33,10,6400,25,NULL,2022-07-19
+Arora22c,AZD1222_2dose,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Figure 2H,Pseudovirus (VSV),NT50,47,10,6400,25,NULL,2022-07-19
+Arora22c,AZD1222_2dose,B.1.351 Spike,Figure 2H,Pseudovirus (VSV),NT50,30,10,6400,25,NULL,2022-07-19
+Arora22c,Casirivimab,B.1 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,9.7,1,2000,0.002,NULL,2022-07-19
+Arora22c,Imdevimab,B.1 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,10.5,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab_Imdevimab,B.1 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,11.1,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab,B.1 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,11.7,1,2000,0.002,NULL,2022-07-19
+Arora22c,Etesevimab,B.1 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,29.4,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab_Etesevimab,B.1 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,11.2,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab,C.1.2 Spike:-144del-243del-244del-859N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,71.6,1,2000,0.002,NULL,2022-07-19
+Arora22c,Imdevimab,C.1.2 Spike:-144del-243del-244del-859N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,8.6,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab_Imdevimab,C.1.2 Spike:-144del-243del-244del-859N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,9.0,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab,C.1.2 Spike:-144del-243del-244del-859N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
+Arora22c,Etesevimab,C.1.2 Spike:-144del-243del-244del-859N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,348.2,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab_Etesevimab,C.1.2 Spike:-144del-243del-244del-859N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,89.7,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab,C.1.2 Spike:25L+152R+478K+879T,Supplementary Figure 1D,Pseudovirus (VSV),IC50,29.5,1,2000,0.002,NULL,2022-07-19
+Arora22c,Imdevimab,C.1.2 Spike:25L+152R+478K+879T,Supplementary Figure 1D,Pseudovirus (VSV),IC50,7.3,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab_Imdevimab,C.1.2 Spike:25L+152R+478K+879T,Supplementary Figure 1D,Pseudovirus (VSV),IC50,6.7,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab,C.1.2 Spike:25L+152R+478K+879T,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
+Arora22c,Etesevimab,C.1.2 Spike:25L+152R+478K+879T,Supplementary Figure 1D,Pseudovirus (VSV),IC50,94.9,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab_Etesevimab,C.1.2 Spike:25L+152R+478K+879T,Supplementary Figure 1D,Pseudovirus (VSV),IC50,68.3,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,58.6,1,2000,0.002,NULL,2022-07-19
+Arora22c,Imdevimab,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,10.1,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab_Imdevimab,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,18.7,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
+Arora22c,Etesevimab,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,137.0,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab_Etesevimab,S:95I+144S+145N+346K+484K+501Y+614G+681H+950N,Supplementary Figure 1D,Pseudovirus (VSV),IC50,111.5,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab,B.1.351 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,220.6,1,2000,0.002,NULL,2022-07-19
+Arora22c,Imdevimab,B.1.351 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,5.8,1,2000,0.002,NULL,2022-07-19
+Arora22c,Casirivimab_Imdevimab,B.1.351 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,17.8,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab,B.1.351 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
+Arora22c,Etesevimab,B.1.351 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
+Arora22c,Bamlanivimab_Etesevimab,B.1.351 Spike,Supplementary Figure 1D,Pseudovirus (VSV),IC50,0,1,2000,0.002,NULL,2022-07-19
