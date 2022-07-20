@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Arora22c,CP,B.1 Spike,Figure 2F,Pseudovirus (VSV),NT50,813,10,12800,50,NULL,2022-07-19
 Arora22c,CP,C.1.2 Spike:-144del-243del-244del-859N,Figure 2F,Pseudovirus (VSV),NT50,222,10,12800,50,NULL,2022-07-19
 Arora22c,CP,C.1.2 Spike:25L+152R+478K+879T,Figure 2F,Pseudovirus (VSV),NT50,177,10,12800,50,NULL,2022-07-19
