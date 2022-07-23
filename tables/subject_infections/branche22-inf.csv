@@ -1,0 +1,11 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Branche22,Arm_1_mRNA-1273_uninfected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_1_mRNA-1273_infected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_2_3_Beta_BA1_uninfected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_2_3_Beta_BA1_infected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_4_Delta_BA1_uninfected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_4_Delta_BA1_infected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_5_BA1_uninfected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_5_BA1_infected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_6_BA1_mRNA-1273_uninfected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1
+Branche22,Arm_6_BA1_mRNA-1273_infected,<,2022-01-01,Unknown variant,USA,NULL,NULL,Table 1

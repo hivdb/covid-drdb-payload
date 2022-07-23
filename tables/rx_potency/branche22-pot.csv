@@ -1,0 +1,97 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Branche22,Arm_1_mRNA-1273_uninfected_D1,S:614G,Table S4,Pseudovirus,NT50,2313,76,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,1138,76,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,550,76,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,170,76,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_infected_D1,S:614G,Table S4,Pseudovirus,NT50,13117,21,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_infected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,6586,21,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_infected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,4262,21,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_infected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,1573,21,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D15,S:614G,Table S4,Pseudovirus,NT50,16976,76,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,9327,76,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,5982,76,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,1997,76,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_infected_D15,S:614G,Table S4,Pseudovirus,NT50,44587,21,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_infected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,25152,21,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_infected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,18863,21,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_infected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,7906,21,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_uninfected_D1,S:614G,Table S4,Pseudovirus,NT50,2854,160,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_uninfected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,1313,160,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_uninfected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,678,160,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_uninfected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,195,160,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_infected_D1,S:614G,Table S4,Pseudovirus,NT50,10923,38,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_infected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,4819,38,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_infected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,4327,38,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_infected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,1348,38,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_uninfected_D15,S:614G,Table S4,Pseudovirus,NT50,16115,160,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_uninfected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,9807,160,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_uninfected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,9603,160,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_uninfected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,3724,160,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_infected_D15,S:614G,Table S4,Pseudovirus,NT50,46135,38,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_infected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,25847,38,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_infected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,35903,38,100000,40,NULL,2022-07-21
+Branche22,Arm_2_3_Beta_BA1_infected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,13558,38,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D1,S:614G,Table S4,Pseudovirus,NT50,2773,83,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,1379,83,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,659,83,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,208,83,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_infected_D1,S:614G,Table S4,Pseudovirus,NT50,12116,16,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_infected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,6290,16,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_infected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,3393,16,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_infected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,1117,16,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D15,S:614G,Table S4,Pseudovirus,NT50,21972,83,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,12773,83,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,8608,83,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,3808,83,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_infected_D15,S:614G,Table S4,Pseudovirus,NT50,42845,16,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_infected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,29734,16,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_infected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,21095,16,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_infected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,11385,16,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_uninfected_D1,S:614G,Table S4,Pseudovirus,NT50,2876,73,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_uninfected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,1409,73,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_uninfected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,590,73,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_uninfected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,210,73,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_infected_D1,S:614G,Table S4,Pseudovirus,NT50,10645,23,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_infected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,5421,23,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_infected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,4416,23,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_infected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,1860,23,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_uninfected_D15,S:614G,Table S4,Pseudovirus,NT50,16467,73,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_uninfected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,9490,73,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_uninfected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,8642,73,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_uninfected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,4561,73,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_infected_D15,S:614G,Table S4,Pseudovirus,NT50,31039,23,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_infected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,21107,23,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_infected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,25132,23,100000,40,NULL,2022-07-21
+Branche22,Arm_5_BA1_infected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,14441,23,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D1,S:614G,Table S4,Pseudovirus,NT50,2598,76,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,1292,76,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,651,76,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,230,76,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_infected_D1,S:614G,Table S4,Pseudovirus,NT50,10902,20,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_infected_D1,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,5370,20,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_infected_D1,B.1.351 Spike,Table S4,Pseudovirus,NT50,4165,20,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_infected_D1,BA.1 Spike,Table S4,Pseudovirus,NT50,1763,20,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D15,S:614G,Table S4,Pseudovirus,NT50,21096,76,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,10798,76,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,7814,76,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,3747,76,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_infected_D15,S:614G,Table S4,Pseudovirus,NT50,57011,20,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_infected_D15,B.1.617.2 Spike,Table S4,Pseudovirus,NT50,33893,20,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_infected_D15,B.1.351 Spike,Table S4,Pseudovirus,NT50,34324,20,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_infected_D15,BA.1 Spike,Table S4,Pseudovirus,NT50,19160,20,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D15_TS5,S:614G,Table S5,Pseudovirus,NT50,3320,20,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D15_TS5,BA.1 Spike,Table S5,Pseudovirus,NT50,1503,20,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D15_TS5,BA.2.12.1 Spike,Table S5,Pseudovirus,NT50,936,20,100000,40,NULL,2022-07-21
+Branche22,Arm_1_mRNA-1273_uninfected_D15_TS5,BA.4/5 Spike,Table S5,Pseudovirus,NT50,517,20,100000,40,NULL,2022-07-21
+Branche22,Arm_2_Beta_BA1_uninfected_D15_TS5,S:614G,Table S5,Pseudovirus,NT50,2993,21,100000,40,NULL,2022-07-21
+Branche22,Arm_2_Beta_BA1_uninfected_D15_TS5,BA.1 Spike,Table S5,Pseudovirus,NT50,2125,21,100000,40,NULL,2022-07-21
+Branche22,Arm_2_Beta_BA1_uninfected_D15_TS5,BA.2.12.1 Spike,Table S5,Pseudovirus,NT50,1279,21,100000,40,NULL,2022-07-21
+Branche22,Arm_2_Beta_BA1_uninfected_D15_TS5,BA.4/5 Spike,Table S5,Pseudovirus,NT50,628,21,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D15_TS5,S:614G,Table S5,Pseudovirus,NT50,4593,24,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D15_TS5,BA.1 Spike,Table S5,Pseudovirus,NT50,2242,24,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D15_TS5,BA.2.12.1 Spike,Table S5,Pseudovirus,NT50,1660,24,100000,40,NULL,2022-07-21
+Branche22,Arm_4_Delta_BA1_uninfected_D15_TS5,BA.4/5 Spike,Table S5,Pseudovirus,NT50,765,24,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D15_TS5,S:614G,Table S5,Pseudovirus,NT50,3748,22,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D15_TS5,BA.1 Spike,Table S5,Pseudovirus,NT50,1972,22,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D15_TS5,BA.2.12.1 Spike,Table S5,Pseudovirus,NT50,1338,22,100000,40,NULL,2022-07-21
+Branche22,Arm_6_BA1_mRNA-1273_uninfected_D15_TS5,BA.4/5 Spike,Table S5,Pseudovirus,NT50,635,22,100000,40,NULL,2022-07-21
