@@ -54,8 +54,13 @@ AZD1222 + mRNA,Mixed,,,3,52
 BNT162b2 + MVB.1.351,Mixed,,,3,53
 BNT162b2 + MVD614,Mixed,,,3,54
 mRNA,mRNA,Unknown mRNA vaccine,,2,55
-Inactivated,Inactivated virus,Unknown inactivated virus vaccine,,2,56
-AZD1222 + NVX-CoV2373,Mixed,,,2,57
-BNT162b2 + NVX-CoV2373,Mixed,,,2,58
-AZD1222 + MVC-COV1901,Mixed,,,3,59
+mRNA + mRNA-1273,mRNA,Unknown mRNA vaccine,,4,56
+mRNA + mRNA-1273.351 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,57
+mRNA + mRNA-1273.617.2 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,58
+mRNA + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,59
+mRNA + mRNA-1273 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,60
+Inactivated,Inactivated virus,Unknown inactivated virus vaccine,,2,61
+AZD1222 + NVX-CoV2373,Mixed,,,2,62
+BNT162b2 + NVX-CoV2373,Mixed,,,2,63
+AZD1222 + MVC-COV1901,Mixed,,,3,64
 Unknown vaccine,Mixed,,,3,1000
