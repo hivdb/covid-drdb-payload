@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Sahay22,Covishield_2dose_recovered,<,2021-04-01,Unknown variant,India,NULL,NULL,NULL
+Sahay22,Covishield_2dose_BTI,~,2021-06-01,Delta,India,NULL,NULL,NULL
