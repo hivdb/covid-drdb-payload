@@ -1,0 +1,21 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Chalkias22b,mRNA_1273_3dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,1521,260,45118,18.5,NULL,2022-07-20
+Chalkias22b,mRNA_1273_4dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,5649,260,45118,18.5,NULL,2022-07-20
+Chalkias22b,mRNA_1273214_3dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,1267,334,45118,18.5,NULL,2022-07-20
+Chalkias22b,mRNA_1273214_4dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,5977,334,45118,18.5,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273_3dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,3638,98,45118,18.5,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273_4dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,7004,98,45118,18.5,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273214_3dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,3704,94,45118,18.5,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273214_4dose,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,9510,94,45118,18.5,NULL,2022-07-20
+Chalkias22b,mRNA_1273_3dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,332,260,15502,19.9,NULL,2022-07-20
+Chalkias22b,mRNA_1273_4dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1473,260,15502,19.9,NULL,2022-07-20
+Chalkias22b,mRNA_1273214_3dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,298,334,15502,19.9,NULL,2022-07-20
+Chalkias22b,mRNA_1273214_4dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,2372,334,15502,19.9,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273_3dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1558,98,15502,19.9,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273_4dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,3886,98,15502,19.9,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273214_3dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1615,94,15502,19.9,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273214_4dose,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,7676,94,15502,19.9,NULL,2022-07-20
+Chalkias22b,mRNA_1273214_3dose,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,116,334,15502,19.9,NULL,2022-07-20
+Chalkias22b,mRNA_1273214_4dose,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,727,333,15502,19.9,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273214_3dose,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,720,94,15502,19.9,NULL,2022-07-20
+Chalkias22b,CP_mRNA_1273214_4dose,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,2337,94,15502,19.9,NULL,2022-07-20
