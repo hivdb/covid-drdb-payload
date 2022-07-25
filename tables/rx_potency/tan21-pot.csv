@@ -1,0 +1,37 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W0,WA1,Figure 1A,Pseudovirus (lentivirus),NT50,281,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W0,B.1.1.7 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,66,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W0,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),NT50,57,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W0,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),NT50,21,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W2,WA1,Figure 1A,Pseudovirus (lentivirus),NT50,1462,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W2,B.1.1.7 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,1009,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W2,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),NT50,899,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W2,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),NT50,591,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W4,WA1,Figure 1A,Pseudovirus (lentivirus),NT50,3597,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W4,B.1.1.7 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,2148,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W4,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),NT50,1924,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W4,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),NT50,859,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W0,WA1,Figure 1A,Pseudovirus (lentivirus),NT50,129,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W0,B.1.1.7 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,56,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W0,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),NT50,34,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W0,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),NT50,20,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W2,WA1,Figure 1A,Pseudovirus (lentivirus),NT50,7554,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W2,B.1.1.7 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,3040,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W2,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),NT50,1865,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W2,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),NT50,1018,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W4,WA1,Figure 1A,Pseudovirus (lentivirus),NT50,3986,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W4,B.1.1.7 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,1541,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W4,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),NT50,1472,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W4,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),NT50,345,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W0,hCoV-19/Wuhan/WIV04/2019,Figure S1,Virus isolate,NT50,437,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W0,hCoV-19/South Africa/N00344/2020,Figure S1,Virus isolate,NT50,277,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W2,hCoV-19/Wuhan/WIV04/2019,Figure S1,Virus isolate,NT50,7962,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W2,hCoV-19/South Africa/N00344/2020,Figure S1,Virus isolate,NT50,3023,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W4,hCoV-19/Wuhan/WIV04/2019,Figure S1,Virus isolate,NT50,11556,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose_W4,hCoV-19/South Africa/N00344/2020,Figure S1,Virus isolate,NT50,4508,41,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W0,hCoV-19/Wuhan/WIV04/2019,Figure S1,Virus isolate,NT50,439,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W0,hCoV-19/South Africa/N00344/2020,Figure S1,Virus isolate,NT50,358,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W2,hCoV-19/Wuhan/WIV04/2019,Figure S1,Virus isolate,NT50,20675,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W2,hCoV-19/South Africa/N00344/2020,Figure S1,Virus isolate,NT50,19904,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W4,hCoV-19/Wuhan/WIV04/2019,Figure S1,Virus isolate,NT50,13731,24,100000,10,NULL,2022-07-25
+Tan21,BNT162b2_3dose_W4,hCoV-19/South Africa/N00344/2020,Figure S1,Virus isolate,NT50,5815,24,100000,10,NULL,2022-07-25

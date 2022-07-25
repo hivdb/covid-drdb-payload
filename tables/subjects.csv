@@ -2269,6 +2269,9 @@ Saade21,CP,Human,NULL,34
 Saade21,CP_Mild,Human,NULL,29
 Saade21,CP_Severe,Human,NULL,25
 Sabin22,Household contacts,Human,NULL,6
+Sahay22,Covishield_2dose,Human,NULL,19
+Sahay22,Covishield_2dose_BTI,Human,NULL,16
+Sahay22,Covishield_2dose_recovered,Human,NULL,26
 Sahin20,Subject_PSV,Human,NULL,5
 Sahin21,BNT_Fig1b,Human,NULL,12
 Sahin21,BNT_Fig4d,Human,NULL,5
@@ -2280,9 +2283,6 @@ Sapkal21c,AZD_2nd,Human,NULL,31
 Sapkal21c,AZD_Breakthrough,Human,NULL,20
 Sapkal21c,AZD_infect_1st,Human,NULL,15
 Sapkal21c,AZD_infect_2nd,Human,NULL,19
-Sahay22,Covishield_2dose,Human,NULL,19
-Sahay22,Covishield_2dose_BTI,Human,NULL,16
-Sahay22,Covishield_2dose_recovered,Human,NULL,26
 Scheepers22,AZD1222,Human,NULL,11
 Scheepers22,Ad26.COV2.S,Human,NULL,10
 Scheepers22,BNT162b2,Human,NULL,7
@@ -2856,6 +2856,8 @@ Tada22b,CP,Human,NULL,8
 Tada22b,CP_BNT162b2_2dose,Human,NULL,12
 Tada22b,mRNA1273_2dose,Human,NULL,8
 Taha21,Case 1,Human,1965,1
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose,Human,1985,41
+Tan21,BNT162b2_3dose,Human,1987,24
 Tang21,CP,Human,NULL,9
 Tang21,hCoV-2IG,Human,NULL,6
 Tarhini21,Patient 1,Human,1954,1
