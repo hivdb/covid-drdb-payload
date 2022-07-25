@@ -1,0 +1,53 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Sheward22b,Cilgavimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,6,1,10000,1,ng/ml,2022-07-25
+Sheward22b,Tixagevimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-07-25
+Sheward22b,Sotrovimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,78,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Casirivimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,11,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Imdevimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,7,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Bebtelovimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,2,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Bamlanivimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,7,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Etesevimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,34,1,1000,1,ng/ml,2022-07-25
+Sheward22b,S2E12,S:614G,Table S1,Pseudovirus (lentivirus),IC50,3,1,1000,1,ng/ml,2022-07-25
+Sheward22b,S2K146,S:614G,Table S1,Pseudovirus (lentivirus),IC50,18,1,1000,1,ng/ml,2022-07-25
+Sheward22b,ADG20,S:614G,Table S1,Pseudovirus (lentivirus),IC50,13,1,1000,1,ng/ml,2022-07-25
+Sheward22b,A23-58.1,S:614G,Table S1,Pseudovirus (lentivirus),IC50,4,1,1000,1,ng/ml,2022-07-25
+Sheward22b,G32A4,S:614G,Table S1,Pseudovirus (lentivirus),IC50,34,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Cilgavimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,15,1,10000,1,ng/ml,2022-07-25
+Sheward22b,Tixagevimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-07-25
+Sheward22b,Sotrovimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Casirivimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Imdevimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Bebtelovimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,3,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Bamlanivimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Etesevimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,S2E12,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,79,1,1000,1,ng/ml,2022-07-25
+Sheward22b,S2K146,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,23,1,1000,1,ng/ml,2022-07-25
+Sheward22b,ADG20,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,A23-58.1,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,358,1,1000,1,ng/ml,2022-07-25
+Sheward22b,G32A4,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Cilgavimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,86,1,10000,1,ng/ml,2022-07-25
+Sheward22b,Tixagevimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-07-25
+Sheward22b,Sotrovimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Casirivimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Imdevimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Bebtelovimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,2,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Bamlanivimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Etesevimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,S2E12,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,S2K146,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,103,1,1000,1,ng/ml,2022-07-25
+Sheward22b,ADG20,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,A23-58.1,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,G32A4,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Cilgavimab,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,83,1,10000,1,ng/ml,2022-07-25
+Sheward22b,Tixagevimab,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,119,1,10000,1,ng/ml,2022-07-25
+Sheward22b,Sotrovimab,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Casirivimab,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Imdevimab,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Bebtelovimab,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,12,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Bamlanivimab,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,Etesevimab,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,S2E12,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,8,1,1000,1,ng/ml,2022-07-25
+Sheward22b,S2K146,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,11,1,1000,1,ng/ml,2022-07-25
+Sheward22b,ADG20,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2022-07-25
+Sheward22b,A23-58.1,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,13,1,1000,1,ng/ml,2022-07-25
+Sheward22b,G32A4,BA.2.75 Spike,Table S1,Pseudovirus (lentivirus),IC50,78,1,1000,1,ng/ml,2022-07-25
