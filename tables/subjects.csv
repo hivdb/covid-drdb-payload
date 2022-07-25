@@ -169,6 +169,16 @@ Bowen22,NVX_2dose,Human,NULL,9
 Bowen22,SputnikV_2dose,Human,NULL,12
 Bowen22,SputnikV_2dose_booster,Human,NULL,14
 Bowen22,mRNA_3dose,Human,NULL,13
+Branche22,Arm_1_mRNA-1273_infected,Human,NULL,21
+Branche22,Arm_1_mRNA-1273_uninfected,Human,NULL,76
+Branche22,Arm_2_3_Beta_BA1_infected,Human,NULL,38
+Branche22,Arm_2_3_Beta_BA1_uninfected,Human,NULL,160
+Branche22,Arm_4_Delta_BA1_infected,Human,NULL,16
+Branche22,Arm_4_Delta_BA1_uninfected,Human,NULL,83
+Branche22,Arm_5_BA1_infected,Human,NULL,23
+Branche22,Arm_5_BA1_uninfected,Human,NULL,73
+Branche22,Arm_6_BA1_mRNA-1273_infected,Human,NULL,20
+Branche22,Arm_6_BA1_mRNA-1273_uninfected,Human,NULL,76
 Bronstein21,Donor,Human,NULL,1
 Bronstein21,Patient 1,Human,1953,1
 Bronstein21,Patient 2,Human,1988,1
@@ -1831,6 +1841,7 @@ Lodi22,Patient 1,Human,2018,1
 Lohr21,Patient,Human,1966,1
 Lu21b,BNT162b2,Human,1974,1
 Lu21b,CoronaVac,Human,1969,1
+Lu21c,CP,Human,NULL,9
 Lucas21,VP_naive,Human,NULL,17
 Lucas21,VP_recoved,Human,NULL,15
 Lustig21,BNT162b2,Human,NULL,34
@@ -2269,6 +2280,9 @@ Sapkal21c,AZD_2nd,Human,NULL,31
 Sapkal21c,AZD_Breakthrough,Human,NULL,20
 Sapkal21c,AZD_infect_1st,Human,NULL,15
 Sapkal21c,AZD_infect_2nd,Human,NULL,19
+Sahay22,Covishield_2dose,Human,NULL,19
+Sahay22,Covishield_2dose_BTI,Human,NULL,16
+Sahay22,Covishield_2dose_recovered,Human,NULL,26
 Scheepers22,AZD1222,Human,NULL,11
 Scheepers22,Ad26.COV2.S,Human,NULL,10
 Scheepers22,BNT162b2,Human,NULL,7
@@ -3281,6 +3295,9 @@ Wang22d,VP_BA.2_BI,Human,NULL,11
 Wang22d,VP_non_Omicron_inf,Human,NULL,20
 Wang22e,CP,Human,NULL,16
 Wang22e,CoronaVac_2dose,Human,NULL,20
+Wang22f,mRNA_2dose,Human,NULL,20
+Wang22f,mRNA_2dose_preboost,Human,NULL,20
+Wang22f,mRNA_3dose,Human,NULL,20
 Weigang21,BNT162b2,Human,NULL,1
 Weigang21,BW-FR,Human,1962,1
 Weigang21,CP_Human,Human,NULL,2

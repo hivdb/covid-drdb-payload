@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Sahay22,Covishield_2dose,hCoV-19/India/un-NIV_P1_20203524/2020,"Fig 1, Paragraph 3",Virus isolate,NT50,30.8,19,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose,hCoV-19/India/TN-ICMR-MCL_3687_4681_Iso/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,1.1,19,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,9.8,19,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose,hCoV-19/India/MH-ICMR-202356035_isolate/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,1.6,19,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose_recovered,hCoV-19/India/un-NIV_P1_20203524/2020,"Fig 1, Paragraph 3",Virus isolate,NT50,1248,16,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose_recovered,hCoV-19/India/TN-ICMR-MCL_3687_4681_Iso/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,489.8,16,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose_recovered,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,403.8,16,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose_recovered,hCoV-19/India/MH-ICMR-202356035_isolate/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,314,16,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose_BTI,hCoV-19/India/un-NIV_P1_20203524/2020,"Fig 1, Paragraph 3",Virus isolate,NT50,876.7,26,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose_BTI,hCoV-19/India/TN-ICMR-MCL_3687_4681_Iso/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,499.8,26,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose_BTI,hCoV-19/India/DL-ICMR-30100647IST_P3/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,415.8,26,100000,20,NULL,2022-07-25
+Sahay22,Covishield_2dose_BTI,hCoV-19/India/MH-ICMR-202356035_isolate/2021,"Fig 1, Paragraph 3",Virus isolate,NT50,235.8,26,100000,20,NULL,2022-07-25
