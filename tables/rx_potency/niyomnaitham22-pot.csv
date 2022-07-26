@@ -1,0 +1,37 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Niyomnaitham22,CoronaVac_ChAdOx1,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,78.65,30,640,10,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_ChAdOx1,B.1.351 full genome,Figure 3a,Virus isolate,NT50,30.55,30,640,10,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_BNT162b2,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,196.97,30,640,10,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_BNT162b2,B.1.351 full genome,Figure 3a,Virus isolate,NT50,62.36,30,640,10,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_CoronaVac,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,20.36,30,640,10,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_CoronaVac,B.1.351 full genome,Figure 3a,Virus isolate,NT50,9.01,30,640,10,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_BNT162b2,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,195.12,29,640,10,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_BNT162b2,B.1.351 full genome,Figure 3a,Virus isolate,NT50,43.28,29,640,10,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_CoronaVac,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,22.69,29,640,10,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_CoronaVac,B.1.351 full genome,Figure 3a,Virus isolate,NT50,8.18,29,640,10,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_ChAdOx1,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,112.6,29,640,10,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_ChAdOx1,B.1.351 full genome,Figure 3a,Virus isolate,NT50,20.43,29,640,10,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_2dose,B.1.617.2 full genome,Figure 3a,Virus isolate,NT50,178.9,29,640,10,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_2dose,B.1.351 full genome,Figure 3a,Virus isolate,NT50,40.06,29,640,10,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_ChAdOx1,B.1.617.2 Spike,Figure 3b,Pseudovirus,NT50,235.25,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_ChAdOx1,BA.1 Spike,Figure 3b,Pseudovirus,NT50,1.03,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_BNT162b2,B.1.617.2 Spike,Figure 3b,Pseudovirus,NT50,565.06,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_BNT162b2,BA.1 Spike,Figure 3b,Pseudovirus,NT50,21.99,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_CoronaVac,B.1.617.2 Spike,Figure 3b,Pseudovirus,NT50,3.32,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_CoronaVac,BA.1 Spike,Figure 3b,Pseudovirus,NT50,1,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_BNT162b2,B.1.617.2 Spike,Figure 3b,Pseudovirus,NT50,681.23,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_BNT162b2,BA.1 Spike,Figure 3b,Pseudovirus,NT50,12.65,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_CoronaVac,B.1.617.2 Spike,Figure 3b,Pseudovirus,NT50,28.54,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_CoronaVac,BA.1 Spike,Figure 3b,Pseudovirus,NT50,1,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_ChAdOx1,B.1.617.2 Spike,Figure 3b,Pseudovirus,NT50,249.67,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_ChAdOx1,BA.1 Spike,Figure 3b,Pseudovirus,NT50,1.9,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_2dose,B.1.617.2 Spike,Figure 3b,Pseudovirus,NT50,748.39,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,BNT162b2_2dose,BA.1 Spike,Figure 3b,Pseudovirus,NT50,6.26,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_ChAdOx1_BNT162b2_2dose,B.1.617.2 Spike,Figure 5b,Pseudovirus,NT50,235.25,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_ChAdOx1_BNT162b2_3dose,B.1.617.2 Spike,Figure 5b,Pseudovirus,NT50,528.42,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_CoronaVac_BNT162b2_2dose,B.1.617.2 Spike,Figure 5b,Pseudovirus,NT50,19.28,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_CoronaVac_BNT162b2_3dose,B.1.617.2 Spike,Figure 5b,Pseudovirus,NT50,1085.69,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_ChAdOx1_BNT162b2_2dose,BA.1 Spike,Figure 5b,Pseudovirus,NT50,1.03,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,CoronaVac_ChAdOx1_BNT162b2_3dose,BA.1 Spike,Figure 5b,Pseudovirus,NT50,149.51,30,5120,40,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_CoronaVac_BNT162b2_2dose,BA.1 Spike,Figure 5b,Pseudovirus,NT50,1,29,5120,40,NULL,2022-07-26
+Niyomnaitham22,ChAdOx1_CoronaVac_BNT162b2_3dose,BA.1 Spike,Figure 5b,Pseudovirus,NT50,419.14,29,5120,40,NULL,2022-07-26
