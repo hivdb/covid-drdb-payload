@@ -1,0 +1,361 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Liu22,10-40,S:614G,Fig2A,Pseudovirus (VSV),IC50,29,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,50,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,92,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,84,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,88,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,95,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,232,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,48,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,126,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,99,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,94,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,S:614G,Fig2A,Pseudovirus (VSV),IC50,698,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,631,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,456,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,398,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,500,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,1024,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,1647,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,503,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,782,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,983,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,855,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,S:614G,Fig2A,Pseudovirus (VSV),IC50,435,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,1074,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,258,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,285,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,154,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,425,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,531,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,229,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,271,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,256,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,263,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,S:614G,Fig2A,Pseudovirus (VSV),IC50,80,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,115,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,197,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,148,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,179,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,161,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,649,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,36,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,205,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,219,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,117,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,S:614G,Fig2A,Pseudovirus (VSV),IC50,71,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,65,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,24,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,22,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,45,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,76,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,92,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,27,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,45,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,35,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,30,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,S:614G,Fig2A,Pseudovirus (VSV),IC50,35,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,40,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,40,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,30,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,45,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,71,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,58,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,25,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,63,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,41,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,54,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,S:614G,Fig2A,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,39,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,21,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,19,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,25,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,37,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,23,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,27,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,18,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,S:614G,Fig2A,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,S:614G,Fig2A,Pseudovirus (VSV),IC50,397,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,251,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,161,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,139,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,188,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,554,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,70,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,175,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,166,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,126,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,S:614G,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,S:614G,Fig2A,Pseudovirus (VSV),IC50,124,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,281,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,355,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,100,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,244,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,440,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,976,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,216,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,708,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,414,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,283,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,S:614G,Fig2A,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,B.1.1.7 Spike,Fig2A,Pseudovirus (VSV),IC50,62,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,B.1.351 Spike,Fig2A,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,P.1 Spike,Fig2A,Pseudovirus (VSV),IC50,24,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,B.1.617.2 Spike,Fig2A,Pseudovirus (VSV),IC50,32,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,C.37 Spike,Fig2A,Pseudovirus (VSV),IC50,57,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,B.1.621 Spike,Fig2A,Pseudovirus (VSV),IC50,26,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,B.1.429 Spike,Fig2A,Pseudovirus (VSV),IC50,32,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,B.1.526/E484K Spike,Fig2A,Pseudovirus (VSV),IC50,22,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,B.1.617.1 Spike,Fig2A,Pseudovirus (VSV),IC50,27,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,R.1 Spike,Fig2A,Pseudovirus (VSV),IC50,30,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,WA1,Fig2B,Virus isolate,IC50,87,1,5000,1,ng/ml,2022-07-26
+Liu22,10-40,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,45,1,5000,1,ng/ml,2022-07-26
+Liu22,10-40,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,104,1,5000,1,ng/ml,2022-07-26
+Liu22,10-40,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,79,1,5000,1,ng/ml,2022-07-26
+Liu22,10-40,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,298,1,5000,1,ng/ml,2022-07-26
+Liu22,10-40,C.37 full genome,Fig2B,Virus isolate,IC50,139,1,5000,1,ng/ml,2022-07-26
+Liu22,10-40,B.1.621 full genome,Fig2B,Virus isolate,IC50,225,1,5000,1,ng/ml,2022-07-26
+Liu22,10-28,WA1,Fig2B,Virus isolate,IC50,1484,1,5000,1,ng/ml,2022-07-26
+Liu22,10-28,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,874,1,5000,1,ng/ml,2022-07-26
+Liu22,10-28,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,1907,1,5000,1,ng/ml,2022-07-26
+Liu22,10-28,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,1141,1,5000,1,ng/ml,2022-07-26
+Liu22,10-28,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,921,1,5000,1,ng/ml,2022-07-26
+Liu22,10-28,C.37 full genome,Fig2B,Virus isolate,IC50,2946,1,5000,1,ng/ml,2022-07-26
+Liu22,10-28,B.1.621 full genome,Fig2B,Virus isolate,IC50,1995,1,5000,1,ng/ml,2022-07-26
+Liu22,11-11,WA1,Fig2B,Virus isolate,IC50,583,1,5000,1,ng/ml,2022-07-26
+Liu22,11-11,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,629,1,5000,1,ng/ml,2022-07-26
+Liu22,11-11,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,776,1,5000,1,ng/ml,2022-07-26
+Liu22,11-11,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,336,1,5000,1,ng/ml,2022-07-26
+Liu22,11-11,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,1017,1,5000,1,ng/ml,2022-07-26
+Liu22,11-11,C.37 full genome,Fig2B,Virus isolate,IC50,565,1,5000,1,ng/ml,2022-07-26
+Liu22,11-11,B.1.621 full genome,Fig2B,Virus isolate,IC50,793,1,5000,1,ng/ml,2022-07-26
+Liu22,2-36,WA1,Fig2B,Virus isolate,IC50,117,1,5000,1,ng/ml,2022-07-26
+Liu22,2-36,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,53,1,5000,1,ng/ml,2022-07-26
+Liu22,2-36,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,204,1,5000,1,ng/ml,2022-07-26
+Liu22,2-36,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,99,1,5000,1,ng/ml,2022-07-26
+Liu22,2-36,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,171,1,5000,1,ng/ml,2022-07-26
+Liu22,2-36,C.37 full genome,Fig2B,Virus isolate,IC50,254,1,5000,1,ng/ml,2022-07-26
+Liu22,2-36,B.1.621 full genome,Fig2B,Virus isolate,IC50,298,1,5000,1,ng/ml,2022-07-26
+Liu22,DH1047,WA1,Fig2B,Virus isolate,IC50,91,1,5000,1,ng/ml,2022-07-26
+Liu22,DH1047,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,58,1,5000,1,ng/ml,2022-07-26
+Liu22,DH1047,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,42,1,5000,1,ng/ml,2022-07-26
+Liu22,DH1047,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,58,1,5000,1,ng/ml,2022-07-26
+Liu22,DH1047,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,92,1,5000,1,ng/ml,2022-07-26
+Liu22,DH1047,C.37 full genome,Fig2B,Virus isolate,IC50,93,1,5000,1,ng/ml,2022-07-26
+Liu22,DH1047,B.1.621 full genome,Fig2B,Virus isolate,IC50,94,1,5000,1,ng/ml,2022-07-26
+Liu22,S2X259,WA1,Fig2B,Virus isolate,IC50,49,1,5000,1,ng/ml,2022-07-26
+Liu22,S2X259,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,39,1,5000,1,ng/ml,2022-07-26
+Liu22,S2X259,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,64,1,5000,1,ng/ml,2022-07-26
+Liu22,S2X259,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,152,1,5000,1,ng/ml,2022-07-26
+Liu22,S2X259,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,33,1,5000,1,ng/ml,2022-07-26
+Liu22,S2X259,C.37 full genome,Fig2B,Virus isolate,IC50,58,1,5000,1,ng/ml,2022-07-26
+Liu22,S2X259,B.1.621 full genome,Fig2B,Virus isolate,IC50,66,1,5000,1,ng/ml,2022-07-26
+Liu22,REGN10985,WA1,Fig2B,Virus isolate,IC50,72,1,5000,1,ng/ml,2022-07-26
+Liu22,REGN10985,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,26,1,5000,1,ng/ml,2022-07-26
+Liu22,REGN10985,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,19,1,5000,1,ng/ml,2022-07-26
+Liu22,REGN10985,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,52,1,5000,1,ng/ml,2022-07-26
+Liu22,REGN10985,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,54,1,5000,1,ng/ml,2022-07-26
+Liu22,REGN10985,C.37 full genome,Fig2B,Virus isolate,IC50,16,1,5000,1,ng/ml,2022-07-26
+Liu22,REGN10985,B.1.621 full genome,Fig2B,Virus isolate,IC50,20,1,5000,1,ng/ml,2022-07-26
+Liu22,ADG-2,WA1,Fig2B,Virus isolate,IC50,1,1,5000,1,ng/ml,2022-07-26
+Liu22,ADG-2,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,1,1,5000,1,ng/ml,2022-07-26
+Liu22,ADG-2,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,3,1,5000,1,ng/ml,2022-07-26
+Liu22,ADG-2,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,2,1,5000,1,ng/ml,2022-07-26
+Liu22,ADG-2,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,9,1,5000,1,ng/ml,2022-07-26
+Liu22,ADG-2,C.37 full genome,Fig2B,Virus isolate,IC50,1,1,5000,1,ng/ml,2022-07-26
+Liu22,ADG-2,B.1.621 full genome,Fig2B,Virus isolate,IC50,40,1,5000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,WA1,Fig2B,Virus isolate,IC50,410,1,5000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,391,1,5000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,509,1,5000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,621,1,5000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,458,1,5000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,C.37 full genome,Fig2B,Virus isolate,IC50,474,1,5000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,B.1.621 full genome,Fig2B,Virus isolate,IC50,484,1,5000,1,ng/ml,2022-07-26
+Liu22,CR3022,WA1,Fig2B,Virus isolate,IC50,5000,1,5000,1,ng/ml,2022-07-26
+Liu22,CR3022,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,5000,1,5000,1,ng/ml,2022-07-26
+Liu22,CR3022,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,5000,1,5000,1,ng/ml,2022-07-26
+Liu22,CR3022,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,5000,1,5000,1,ng/ml,2022-07-26
+Liu22,CR3022,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,5000,1,5000,1,ng/ml,2022-07-26
+Liu22,CR3022,C.37 full genome,Fig2B,Virus isolate,IC50,5000,1,5000,1,ng/ml,2022-07-26
+Liu22,CR3022,B.1.621 full genome,Fig2B,Virus isolate,IC50,5000,1,5000,1,ng/ml,2022-07-26
+Liu22,S2H97,WA1,Fig2B,Virus isolate,IC50,101,1,5000,1,ng/ml,2022-07-26
+Liu22,S2H97,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,75,1,5000,1,ng/ml,2022-07-26
+Liu22,S2H97,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,237,1,5000,1,ng/ml,2022-07-26
+Liu22,S2H97,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,176,1,5000,1,ng/ml,2022-07-26
+Liu22,S2H97,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,314,1,5000,1,ng/ml,2022-07-26
+Liu22,S2H97,C.37 full genome,Fig2B,Virus isolate,IC50,969,1,5000,1,ng/ml,2022-07-26
+Liu22,S2H97,B.1.621 full genome,Fig2B,Virus isolate,IC50,534,1,5000,1,ng/ml,2022-07-26
+Liu22,S309,WA1,Fig2B,Virus isolate,IC50,39,1,5000,1,ng/ml,2022-07-26
+Liu22,S309,hCoV-19/USA/CA-SEARCH-5574/2020,Fig2B,Virus isolate,IC50,17,1,5000,1,ng/ml,2022-07-26
+Liu22,S309,hCoV-19/South Africa/KRISP-EC-K005321/2020,Fig2B,Virus isolate,IC50,27,1,5000,1,ng/ml,2022-07-26
+Liu22,S309,hCoV-19/Japan/TY7-503/2021,Fig2B,Virus isolate,IC50,21,1,5000,1,ng/ml,2022-07-26
+Liu22,S309,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Fig2B,Virus isolate,IC50,21,1,5000,1,ng/ml,2022-07-26
+Liu22,S309,C.37 full genome,Fig2B,Virus isolate,IC50,30,1,5000,1,ng/ml,2022-07-26
+Liu22,S309,B.1.621 full genome,Fig2B,Virus isolate,IC50,21,1,5000,1,ng/ml,2022-07-26
+Liu22,10-40,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,90,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,46,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,236,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,493,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,5359,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,1023,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,1175,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,5074,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,4669,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,66,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,63,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,76,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,24,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,14,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,76,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,197,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,1597,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,667,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,832,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,3195,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,35,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,82,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,37,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,107,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,21,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,11,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,215,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,4043,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,42,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,39,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,22,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,8,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,248,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,1259,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,647,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,1947,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,1092,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,484,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,408,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,133,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,29,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,388,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,763,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,9,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,6330,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,7058,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,2888,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,1401,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,1561,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,1659,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,5684,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,698,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,956,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,1475,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,GD-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,140,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,GX-Pangolin Spike,Fig2C,Pseudovirus (VSV),IC50,3526,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,RaTG13 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,SARS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,28,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,WIV1 Spike,Fig2C,Pseudovirus (VSV),IC50,1117,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,SHC014 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,LYRa11 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,Rs7327 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,Rs4231 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S309,Rs4084 Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,59,1,10000,1,ng/ml,2022-07-26
+Liu22,10-40_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,1375,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,1048,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,2632,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,416,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,7253,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,73,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,3817,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,47,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,6085,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,24,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,325,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,212,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,317,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,5719,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,333,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,242,1,10000,1,ng/ml,2022-07-26
+Liu22,S309_Fig3C,S:614G,Fig3C,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-07-26
+Liu22,S309_Fig3C,BA.1 Spike,Fig3C,Pseudovirus (VSV),IC50,49,1,10000,1,ng/ml,2022-07-26
