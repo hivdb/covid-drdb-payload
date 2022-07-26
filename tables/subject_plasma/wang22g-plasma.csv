@@ -1,0 +1,17 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Wang22g,B.1_inf,B.1_inf,~,2020-08-17,USA,B.1_inf,Table S1
+Wang22g,Alpha_inf,Alpha_inf,~,2021-02-17,USA,Alpha_inf,Table S1
+Wang22g,Beta_inf,Beta_inf,~,2021-02-17,USA,Beta_inf,Table S1
+Wang22g,Gamma_inf,Gamma_inf,~,2021-02-17,USA,Gamma_inf,Table S1
+Wang22g,Delta_inf,Delta_inf,~,2021-08-17,USA,Delta_inf,Table S1
+Wang22g,Epsilon_inf,Epsilon_inf,~,2021-02-17,USA,Epsilon_inf,Table S1
+Wang22g,Iota_inf,Iota_inf,~,2021-02-17,USA,Iota_inf,Table S1
+Wang22g,Lambda_inf,Lambda_inf,~,2021-02-17,USA,Lambda_inf,Table S1
+Wang22g,BA.1_inf,BA.1_inf,~,2022-02-17,USA,BA.1_inf,Table S1
+Wang22g,Other_inf,Other_inf,~,2021-02-17,USA,Other_inf,Table S1
+Wang22g,mRNA_2dose,mRNA_2dose,~,2021-02-26,USA,mRNA_2dose,Table S2
+Wang22g,mRNA_3dose,mRNA_3dose,~,2021-12-31,USA,mRNA_3dose,Table S2
+Wang22g,Delta_inf_mRNA_2dose,Delta_inf_mRNA_2dose,~,2021-07-28,USA,Delta_inf_mRNA_2dose,Table S1
+Wang22g,mRNA_2dose_BTI_Delta,mRNA_2dose_BTI_Delta,~,2021-08-28,USA,mRNA_2dose_BTI_Delta,Table S1
+Wang22g,mRNA_2dose_BTI_BA.1,mRNA_2dose_BTI_BA.1,~,2022-01-28,USA,mRNA_2dose_BTI_BA.1,Table S1
+Wang22g,mRNA_3dose_BTI_BA.1,mRNA_3dose_BTI_BA.1,~,2022-01-11,USA,mRNA_3dose_BTI_BA.1,Table S1
