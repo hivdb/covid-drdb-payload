@@ -147,6 +147,10 @@ Bekliz21,mRNA,Human,NULL,16
 Bekliz21,mRNA_Delta,Human,NULL,4
 Bekliz21,mRNA_Omicron,Human,NULL,4
 Betton21,CP,Human,NULL,107
+Bhiman22,Ad26.CoV.2_2dose,Human,NULL,8
+Bhiman22,BNT162b2_3dose,Human,NULL,12
+Bhiman22,NVX-CoV2373_2dose,Human,NULL,29
+Bhiman22,NVX-CoV2373_3dose,Human,NULL,48
 Borges21,Patient,Human,1959,1
 Boshier22,Patient A,Human,2011,1
 Boshier22,Patient B,Human,2014,1
@@ -203,6 +207,7 @@ Caniels21,CP_hosp,Human,NULL,28
 Caniels21,CP_non-hosp,Human,NULL,41
 Cantoni21,CP,Human,NULL,61
 Cao21b,CE1,Human,1957,1
+Cao21b,CE10,Human,1954,1
 Cao21b,CE2,Human,1956,1
 Cao21b,CE3,Human,1983,1
 Cao21b,CE4,Human,1951,1
@@ -211,8 +216,8 @@ Cao21b,CE6,Human,1969,1
 Cao21b,CE7,Human,1962,1
 Cao21b,CE8,Human,1985,1
 Cao21b,CE9,Human,1982,1
-Cao21b,CE10,Human,1954,1
 Cao21b,I1,Human,1995,1
+Cao21b,I10,Human,1987,1
 Cao21b,I2,Human,1990,1
 Cao21b,I3,Human,1969,1
 Cao21b,I4,Human,1976,1
@@ -221,16 +226,7 @@ Cao21b,I6,Human,1986,1
 Cao21b,I7,Human,1973,1
 Cao21b,I8,Human,1979,1
 Cao21b,I9,Human,1989,1
-Cao21b,I10,Human,1987,1
 Cao21b,R1,Human,1991,1
-Cao21b,R2,Human,1989,1
-Cao21b,R3,Human,1977,1
-Cao21b,R4,Human,1991,1
-Cao21b,R5,Human,1992,1
-Cao21b,R6,Human,1990,1
-Cao21b,R7,Human,1991,1
-Cao21b,R8,Human,1993,1
-Cao21b,R9,Human,1982,1
 Cao21b,R10,Human,1990,1
 Cao21b,R11,Human,1986,1
 Cao21b,R12,Human,1966,1
@@ -241,7 +237,15 @@ Cao21b,R16,Human,1993,1
 Cao21b,R17,Human,1994,1
 Cao21b,R18,Human,1995,1
 Cao21b,R19,Human,1986,1
+Cao21b,R2,Human,1989,1
 Cao21b,R20,Human,1993,1
+Cao21b,R3,Human,1977,1
+Cao21b,R4,Human,1991,1
+Cao21b,R5,Human,1992,1
+Cao21b,R6,Human,1990,1
+Cao21b,R7,Human,1991,1
+Cao21b,R8,Human,1993,1
+Cao21b,R9,Human,1982,1
 Cao22b,CoronaVac_2dose_ZF2001_1dose,Human,NULL,38
 Cao22b,CoronaVac_3dose,Human,NULL,40
 Cao22b,CoronaVac_3dose_BA1_CP,Human,NULL,50
