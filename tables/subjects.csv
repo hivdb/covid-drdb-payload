@@ -3377,6 +3377,9 @@ Wang21l,CP,Human,NULL,14
 Wang21l,Convidecia,Human,NULL,5
 Wang21l,KCONVAC,Human,NULL,9
 Wang21l,Stemirna_mRNA,Human,NULL,4
+Wang21m,mRNA_2dose,Human,NULL,20
+Wang21m,mRNA_2dose_preboost,Human,NULL,20
+Wang21m,mRNA_3dose,Human,NULL,20
 Wang22,BBIBP-CorV_2dose_d14,Human,NULL,10
 Wang22,BBIBP-CorV_3dose_d14,Human,NULL,10
 Wang22,CP_Delta,Human,NULL,10
@@ -3389,9 +3392,6 @@ Wang22d,VP_BA.2_BI,Human,NULL,11
 Wang22d,VP_non_Omicron_inf,Human,NULL,20
 Wang22e,CP,Human,NULL,16
 Wang22e,CoronaVac_2dose,Human,NULL,20
-Wang22f,mRNA_2dose,Human,NULL,20
-Wang22f,mRNA_2dose_preboost,Human,NULL,20
-Wang22f,mRNA_3dose,Human,NULL,20
 Wang22g,Alpha_inf,Human,NULL,11
 Wang22g,B.1_inf,Human,NULL,20
 Wang22g,BA.1_inf,Human,NULL,1

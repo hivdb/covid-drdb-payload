@@ -25131,6 +25131,9 @@ Wang21l,Stemirna_mRNA
 Wang21l,Abogen_mRNA
 Wang21l,inactivated_vaccine
 Wang21l,Ad25_vaccine
+Wang21m,mRNA_2dose
+Wang21m,mRNA_2dose_preboost
+Wang21m,mRNA_3dose
 Wang22,CP_Delta_1
 Wang22,CP_Delta_2
 Wang22,CP_Delta_3
@@ -25179,9 +25182,6 @@ Wang22d,VP_BA.1_BI
 Wang22d,VP_BA.2_BI
 Wang22e,CP
 Wang22e,CoronaVac_2dose
-Wang22f,mRNA_2dose
-Wang22f,mRNA_2dose_preboost
-Wang22f,mRNA_3dose
 Wang22g,B.1_inf
 Wang22g,Alpha_inf
 Wang22g,Beta_inf
