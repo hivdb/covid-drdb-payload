@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Assawakosri22b,AZD1222_3dose_preboost,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,13,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_3dose_D28,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,32.2,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_3dose_D90,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,21.6,46,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_BNT162b2_preboost,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,10,61,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_BNT162b2_D28,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,166,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_BNT162b2_D90,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,78.1,44,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_mRNA1273_preboost,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,16.6,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_mRNA1273_D28,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,548,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_mRNA1273_D90,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,141,53,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_half_mRNA1273_preboost,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,14.6,50,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_half_mRNA1273_D28,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,396,50,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_half_mRNA1273_D90,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,,NT50,119,38,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_3dose_preboost,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,12.5,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_3dose_D28,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,45.6,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_3dose_D90,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,32.6,46,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_BNT162b2_preboost,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,15,61,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_BNT162b2_D28,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,248,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_BNT162b2_D90,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,73.8,44,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_mRNA1273_preboost,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,11,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_mRNA1273_D28,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,324,59,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_mRNA1273_D90,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,122,53,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_half_mRNA1273_preboost,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,13,50,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_half_mRNA1273_D28,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,224,50,10000,20,NULL,2022-07-28
+Assawakosri22b,AZD1222_2dose_half_mRNA1273_D90,hCoV-19/Thailand/VOY15/2022,Figure 4B,,NT50,111,38,10000,20,NULL,2022-07-28
