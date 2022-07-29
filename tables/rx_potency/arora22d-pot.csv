@@ -1,0 +1,30 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Arora22d,Bamlanivimab,S:614G,Figure 1F,Pseudovirus (VSV),IC50,4.4,1,10000,1,ng/ml,2022-07-29
+Arora22d,Bamlanivimab,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-29
+Arora22d,Etesevimab,S:614G,Figure 1F,Pseudovirus (VSV),IC50,21.0,1,10000,1,ng/ml,2022-07-29
+Arora22d,Etesevimab,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,16.4,1,10000,1,ng/ml,2022-07-29
+Arora22d,BAM+ETE,S:614G,Figure 1F,Pseudovirus (VSV),IC50,4.3,1,10000,1,ng/ml,2022-07-29
+Arora22d,BAM+ETE,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,38.6,1,10000,1,ng/ml,2022-07-29
+Arora22d,Sotrovimab,S:614G,Figure 1F,Pseudovirus (VSV),IC50,28.0,1,10000,1,ng/ml,2022-07-29
+Arora22d,Sotrovimab,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,122.8,1,10000,1,ng/ml,2022-07-29
+Arora22d,Casirivimab,S:614G,Figure 1F,Pseudovirus (VSV),IC50,3.6,1,10000,1,ng/ml,2022-07-29
+Arora22d,Casirivimab,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,10.0,1,10000,1,ng/ml,2022-07-29
+Arora22d,Imdevimab,S:614G,Figure 1F,Pseudovirus (VSV),IC50,4.9,1,10000,1,ng/ml,2022-07-29
+Arora22d,Imdevimab,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,2.1,1,10000,1,ng/ml,2022-07-29
+Arora22d,CAS+IMD,S:614G,Figure 1F,Pseudovirus (VSV),IC50,2.5,1,10000,1,ng/ml,2022-07-29
+Arora22d,CAS+IMD,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,2.5,1,10000,1,ng/ml,2022-07-29
+Arora22d,Cilgavimab,S:614G,Figure 1F,Pseudovirus (VSV),IC50,7.8,1,10000,1,ng/ml,2022-07-29
+Arora22d,Cilgavimab,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-29
+Arora22d,Tixagevimab,S:614G,Figure 1F,Pseudovirus (VSV),IC50,1.8,1,10000,1,ng/ml,2022-07-29
+Arora22d,Tixagevimab,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,1.8,1,10000,1,ng/ml,2022-07-29
+Arora22d,CIL+TIX,S:614G,Figure 1F,Pseudovirus (VSV),IC50,2.9,1,10000,1,ng/ml,2022-07-29
+Arora22d,CIL+TIX,B.1.640.2 Spike,Figure 1F,Pseudovirus (VSV),IC50,6.9,1,10000,1,ng/ml,2022-07-29
+Arora22d,CP,S:614G,Figure 1g,Pseudovirus (VSV),NT50,877,10,1000000,50,NULL,2022-07-29
+Arora22d,CP,B.1.640.2 Spike,Figure 1g,Pseudovirus (VSV),NT50,179,10,1000000,50,NULL,2022-07-29
+Arora22d,CP,BA.1 Spike,Figure 1g,Pseudovirus (VSV),NT50,1,10,1000000,50,NULL,2022-07-29
+Arora22d,BNT_2dose,S:614G,Figure 1g,Pseudovirus (VSV),NT50,729,10,1000000,50,NULL,2022-07-29
+Arora22d,BNT_2dose,B.1.640.2 Spike,Figure 1g,Pseudovirus (VSV),NT50,94,10,1000000,50,NULL,2022-07-29
+Arora22d,BNT_2dose,BA.1 Spike,Figure 1g,Pseudovirus (VSV),NT50,1,10,1000000,50,NULL,2022-07-29
+Arora22d,BNT_3dose,S:614G,Figure 1g,Pseudovirus (VSV),NT50,3319,10,1000000,50,NULL,2022-07-29
+Arora22d,BNT_3dose,B.1.640.2 Spike,Figure 1g,Pseudovirus (VSV),NT50,303,10,1000000,50,NULL,2022-07-29
+Arora22d,BNT_3dose,BA.1 Spike,Figure 1g,Pseudovirus (VSV),NT50,526,10,1000000,50,NULL,2022-07-29

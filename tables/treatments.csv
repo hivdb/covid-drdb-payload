@@ -76,6 +76,16 @@ Arora22c,Casirivimab_Imdevimab
 Arora22c,Bamlanivimab
 Arora22c,Etesevimab
 Arora22c,Bamlanivimab_Etesevimab
+Arora22d,Bamlanivimab
+Arora22d,Etesevimab
+Arora22d,BAM+ETE
+Arora22d,Sotrovimab
+Arora22d,Casirivimab
+Arora22d,Imdevimab
+Arora22d,CAS+IMD
+Arora22d,Cilgavimab
+Arora22d,Tixagevimab
+Arora22d,CIL+TIX
 AstraZenica21c,AZD8895
 AstraZenica21c,AZD1061
 AstraZenica21c,AZD7442
@@ -4811,6 +4821,9 @@ Arora22b,AZ_1_BNT_2dose
 Arora22c,CP
 Arora22c,BNT162b2_2dose
 Arora22c,AZD1222_2dose
+Arora22d,CP
+Arora22d,BNT_2dose
+Arora22d,BNT_3dose
 Arunachalam21,BNT_0
 Arunachalam21,BNT_1
 Arunachalam21,BNT_10
