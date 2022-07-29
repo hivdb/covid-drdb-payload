@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Assawakosri22b,AZD1222_3dose_preboost,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,Virus isolate,NT50,13,59,10000,20,NULL,2022-07-28
 Assawakosri22b,AZD1222_3dose_D28,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,Virus isolate,NT50,32.2,59,10000,20,NULL,2022-07-28
 Assawakosri22b,AZD1222_3dose_D90,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 4A,Virus isolate,NT50,21.6,46,10000,20,NULL,2022-07-28

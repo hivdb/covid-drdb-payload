@@ -1,0 +1,13 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Richardson22,CP_BA.4,S:614G,Figure 1A,Pseudovirus (lentivirus),NT50,904,13,1000000,20,NULL,2022-07-28
+Richardson22,CP_BA.4,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),NT50,859,13,1000000,20,NULL,2022-07-28
+Richardson22,CP_BA.4,B.1.617.2 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,258,13,1000000,20,NULL,2022-07-28
+Richardson22,CP_BA.4,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,557,13,1000000,20,NULL,2022-07-28
+Richardson22,CP_BA.4,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,884,13,1000000,20,NULL,2022-07-28
+Richardson22,CP_BA.4,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,1047,13,1000000,20,NULL,2022-07-28
+Richardson22,VP_BA.4_BTI,S:614G,Figure 1B,Pseudovirus (lentivirus),NT50,5484,9,1000000,20,NULL,2022-07-28
+Richardson22,VP_BA.4_BTI,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),NT50,2972,9,1000000,20,NULL,2022-07-28
+Richardson22,VP_BA.4_BTI,B.1.617.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,2785,9,1000000,20,NULL,2022-07-28
+Richardson22,VP_BA.4_BTI,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,4244,9,1000000,20,NULL,2022-07-28
+Richardson22,VP_BA.4_BTI,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,3779,9,1000000,20,NULL,2022-07-28
+Richardson22,VP_BA.4_BTI,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1984,9,1000000,20,NULL,2022-07-28
