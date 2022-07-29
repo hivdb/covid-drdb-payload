@@ -48,28 +48,28 @@ Iketani22,REGN10987+REGN10933,BA.2 Spike,Figure 2a,Pseudovirus (VSV),IC50,2303.2
 Iketani22,CP_WT_1,S:614G,Figure 1c,Pseudovirus (VSV),NT50,1402.0,10,1000000,100,NULL,2022-02-10
 Iketani22,CP_WT_2,BA.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,109.0,1,1000000,100,NULL,2022-02-10
 Iketani22,CP_WT_3,BA.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,9,1000000,100,NULL,2022-02-10
-Iketani22,CP_WT_4,BA.1 Spike:+346K,Figure 1c,Pseudovirus (VSV),NT50,112.0,1,1000000,100,NULL,2022-02-10
-Iketani22,CP_WT_5,BA.1 Spike:+346K,Figure 1c,Pseudovirus (VSV),NT50,100.0,9,1000000,100,NULL,2022-02-10
+Iketani22,CP_WT_4,BA.1.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,112.0,1,1000000,100,NULL,2022-02-10
+Iketani22,CP_WT_5,BA.1.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,9,1000000,100,NULL,2022-02-10
 Iketani22,CP_WT_6,BA.2 Spike,Figure 1c,Pseudovirus (VSV),NT50,112.0,1,1000000,100,NULL,2022-02-10
 Iketani22,CP_WT_7,BA.2 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,9,1000000,100,NULL,2022-02-10
 Iketani22,MOD_2dose_1,S:614G,Figure 1c,Pseudovirus (VSV),NT50,2633.0,12,1000000,100,NULL,2022-02-10
 Iketani22,MOD_2dose_2,BA.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,279.0,7,1000000,100,NULL,2022-02-10
 Iketani22,MOD_2dose_3,BA.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,5,1000000,100,NULL,2022-02-10
-Iketani22,MOD_2dose_4,BA.1 Spike:+346K,Figure 1c,Pseudovirus (VSV),NT50,252.0,6,1000000,100,NULL,2022-02-10
-Iketani22,MOD_2dose_5,BA.1 Spike:+346K,Figure 1c,Pseudovirus (VSV),NT50,100.0,6,1000000,100,NULL,2022-02-10
+Iketani22,MOD_2dose_4,BA.1.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,252.0,6,1000000,100,NULL,2022-02-10
+Iketani22,MOD_2dose_5,BA.1.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,6,1000000,100,NULL,2022-02-10
 Iketani22,MOD_2dose_6,BA.2 Spike,Figure 1c,Pseudovirus (VSV),NT50,276.0,9,1000000,100,NULL,2022-02-10
 Iketani22,MOD_2dose_7,BA.2 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,3,1000000,100,NULL,2022-02-10
 Iketani22,BNT_2dose_1,S:614G,Figure 1c,Pseudovirus (VSV),NT50,1612.0,13,1000000,100,NULL,2022-02-10
 Iketani22,BNT_2dose_2,BA.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,180.0,4,1000000,100,NULL,2022-02-10
 Iketani22,BNT_2dose_3,BA.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,9,1000000,100,NULL,2022-02-10
-Iketani22,BNT_2dose_4,BA.1 Spike:+346K,Figure 1c,Pseudovirus (VSV),NT50,180.0,4,1000000,100,NULL,2022-02-10
-Iketani22,BNT_2dose_5,BA.1 Spike:+346K,Figure 1c,Pseudovirus (VSV),NT50,100.0,9,1000000,100,NULL,2022-02-10
+Iketani22,BNT_2dose_4,BA.1.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,180.0,4,1000000,100,NULL,2022-02-10
+Iketani22,BNT_2dose_5,BA.1.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,9,1000000,100,NULL,2022-02-10
 Iketani22,BNT_2dose_6,BA.2 Spike,Figure 1c,Pseudovirus (VSV),NT50,196.0,3,1000000,100,NULL,2022-02-10
 Iketani22,BNT_2dose_7,BA.2 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,10,1000000,100,NULL,2022-02-10
 Iketani22,mRNA_3dose_1,S:614G,Figure 1c,Pseudovirus (VSV),NT50,1586.0,16,1000000,100,NULL,2022-02-10
 Iketani22,mRNA_3dose_2,BA.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,489.0,15,1000000,100,NULL,2022-02-10
 Iketani22,mRNA_3dose_3,BA.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,1,1000000,100,NULL,2022-02-10
-Iketani22,mRNA_3dose_4,BA.1 Spike:+346K,Figure 1c,Pseudovirus (VSV),NT50,359.0,13,1000000,100,NULL,2022-02-10
-Iketani22,mRNA_3dose_5,BA.1 Spike:+346K,Figure 1c,Pseudovirus (VSV),NT50,100.0,3,1000000,100,NULL,2022-02-10
+Iketani22,mRNA_3dose_4,BA.1.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,359.0,13,1000000,100,NULL,2022-02-10
+Iketani22,mRNA_3dose_5,BA.1.1 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,3,1000000,100,NULL,2022-02-10
 Iketani22,mRNA_3dose_6,BA.2 Spike,Figure 1c,Pseudovirus (VSV),NT50,264.0,13,1000000,100,NULL,2022-02-10
 Iketani22,mRNA_3dose_7,BA.2 Spike,Figure 1c,Pseudovirus (VSV),NT50,100.0,3,1000000,100,NULL,2022-02-10

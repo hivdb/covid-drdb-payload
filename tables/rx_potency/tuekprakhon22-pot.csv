@@ -1,25 +1,25 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Tuekprakhon22,AZD1222_3dose_28d,VIC,Figure 2A,Pseudovirus (lentivirus),NT50,516,41,100000,1,NULL,2022-06-01
 Tuekprakhon22,AZD1222_3dose_28d,BA.1 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,89,41,100000,1,NULL,2022-06-01
-Tuekprakhon22,AZD1222_3dose_28d,BA.1 Spike:+346K,Figure 2A,Pseudovirus (lentivirus),NT50,69,41,100000,1,NULL,2022-06-01
+Tuekprakhon22,AZD1222_3dose_28d,BA.1.1 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,69,41,100000,1,NULL,2022-06-01
 Tuekprakhon22,AZD1222_3dose_28d,BA.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,76,41,100000,1,NULL,2022-06-01
 Tuekprakhon22,AZD1222_3dose_28d,BA.3 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,61,41,100000,1,NULL,2022-06-01
 Tuekprakhon22,AZD1222_3dose_28d,BA.4/5 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,43,41,100000,1,NULL,2022-06-01
 Tuekprakhon22,BNT162b2_3dose_28d,VIC,Figure 2B,Pseudovirus (lentivirus),NT50,4261,20,100000,1,NULL,2022-06-01
 Tuekprakhon22,BNT162b2_3dose_28d,BA.1 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,1163,20,100000,1,NULL,2022-06-01
-Tuekprakhon22,BNT162b2_3dose_28d,BA.1 Spike:+346K,Figure 2B,Pseudovirus (lentivirus),NT50,1105,20,100000,1,NULL,2022-06-01
+Tuekprakhon22,BNT162b2_3dose_28d,BA.1.1 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,1105,20,100000,1,NULL,2022-06-01
 Tuekprakhon22,BNT162b2_3dose_28d,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,1156,20,100000,1,NULL,2022-06-01
 Tuekprakhon22,BNT162b2_3dose_28d,BA.3 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,1111,20,100000,1,NULL,2022-06-01
 Tuekprakhon22,BNT162b2_3dose_28d,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,360,20,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_14D,VIC,Figure 2C,Pseudovirus (lentivirus),NT50,2703,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_14D,BA.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,1048,16,100000,1,NULL,2022-06-01
-Tuekprakhon22,BTI_BA.1_14D,BA.1 Spike:+346K,Figure 2C,Pseudovirus (lentivirus),NT50,1126,16,100000,1,NULL,2022-06-01
+Tuekprakhon22,BTI_BA.1_14D,BA.1.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,1126,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_14D,BA.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,817,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_14D,BA.3 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,1255,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_14D,BA.4/5 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,545,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_21D,VIC,Figure 2C,Pseudovirus (lentivirus),NT50,5861,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_21D,BA.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,3563,16,100000,1,NULL,2022-06-01
-Tuekprakhon22,BTI_BA.1_21D,BA.1 Spike:+346K,Figure 2C,Pseudovirus (lentivirus),NT50,2967,16,100000,1,NULL,2022-06-01
+Tuekprakhon22,BTI_BA.1_21D,BA.1.1 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,2967,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_21D,BA.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,2119,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_21D,BA.3 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,1967,16,100000,1,NULL,2022-06-01
 Tuekprakhon22,BTI_BA.1_21D,BA.4/5 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,1064,16,100000,1,NULL,2022-06-01
@@ -45,17 +45,17 @@ Tuekprakhon22,ADG30,BA.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),I
 Tuekprakhon22,LY-CoV555,BA.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
 Tuekprakhon22,LY-CoV16,BA.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
 Tuekprakhon22,S309,BA.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,94,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,REGN10987,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,REGN10933,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,AZD1061,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,AZD8895,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,100,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,AZD7442,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,806,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,ADG10,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,ADG20,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,253,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,ADG30,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,LY-CoV555,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,LY-CoV16,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
-Tuekprakhon22,S309,BA.1 Spike:+346K,Supplementary table 1B,Pseudovirus (lentivirus),IC50,138,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,REGN10987,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,REGN10933,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,AZD1061,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,AZD8895,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,100,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,AZD7442,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,806,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,ADG10,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,ADG20,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,253,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,ADG30,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,LY-CoV555,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,LY-CoV16,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
+Tuekprakhon22,S309,BA.1.1 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,138,1,10000,1,ng/ml,2022-06-01
 Tuekprakhon22,REGN10987,BA.2 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,616,1,10000,1,ng/ml,2022-06-01
 Tuekprakhon22,REGN10933,BA.2 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-06-01
 Tuekprakhon22,AZD1061,BA.2 Spike,Supplementary table 1B,Pseudovirus (lentivirus),IC50,8,1,10000,1,ng/ml,2022-06-01

@@ -1,4 +1,4 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Cui22,BRII-198,S:614G,Figure 5C,Pseudovirus (VSV),IC50,410,1,10000,0.1,ng/ml,2022-02-09
 Cui22,BRII-198,BA.1 Spike,Figure 5C,Pseudovirus (VSV),IC50,204,1,10000,0.1,ng/ml,2022-02-09
-Cui22,BRII-198,BA.1 Spike:+346K,Figure 5C,Pseudovirus (VSV),IC50,8610,1,10000,0.1,ng/ml,2022-02-09
+Cui22,BRII-198,BA.1.1 Spike,Figure 5C,Pseudovirus (VSV),IC50,8610,1,10000,0.1,ng/ml,2022-02-09

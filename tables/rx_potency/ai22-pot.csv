@@ -1,121 +1,121 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Ai22,REGN10987,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,3,1,10000,0.1,ng/ml,2022-04-12
 Ai22,REGN10987,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,REGN10987,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,REGN10987,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,REGN10987,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,353,1,10000,0.1,ng/ml,2022-04-12
 Ai22,REGN10987,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,REGN10933,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,2,1,10000,0.1,ng/ml,2022-04-12
 Ai22,REGN10933,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,REGN10933,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,REGN10933,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,REGN10933,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,REGN10933,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,LY-CoV555,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,3,1,10000,0.1,ng/ml,2022-04-12
 Ai22,LY-CoV555,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,LY-CoV555,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,LY-CoV555,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,LY-CoV555,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,LY-CoV555,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,CB6,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,7,1,10000,0.1,ng/ml,2022-04-12
 Ai22,CB6,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,CB6,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,CB6,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,CB6,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,CB6,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,S309,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,9,1,10000,0.1,ng/ml,2022-04-12
 Ai22,S309,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,62,1,10000,0.1,ng/ml,2022-04-12
-Ai22,S309,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,24,1,10000,0.1,ng/ml,2022-04-12
+Ai22,S309,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,24,1,10000,0.1,ng/ml,2022-04-12
 Ai22,S309,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,160,1,10000,0.1,ng/ml,2022-04-12
 Ai22,S309,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,222,1,10000,0.1,ng/ml,2022-04-12
 Ai22,COV2-2130,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,1,1,10000,0.1,ng/ml,2022-04-12
 Ai22,COV2-2130,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,COV2-2130,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,COV2-2130,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,COV2-2130,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,4,1,10000,0.1,ng/ml,2022-04-12
 Ai22,COV2-2130,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,13,1,10000,0.1,ng/ml,2022-04-12
 Ai22,COV2-2196,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,1,1,10000,0.1,ng/ml,2022-04-12
 Ai22,COV2-2196,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,COV2-2196,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,COV2-2196,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,COV2-2196,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,COV2-2196,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,CT-P59,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,1,1,10000,0.1,ng/ml,2022-04-12
 Ai22,CT-P59,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,CT-P59,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,CT-P59,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,CT-P59,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,CT-P59,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,BRII-196,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,9,1,10000,0.1,ng/ml,2022-04-12
 Ai22,BRII-196,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,4048,1,10000,0.1,ng/ml,2022-04-12
-Ai22,BRII-196,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,3593,1,10000,0.1,ng/ml,2022-04-12
+Ai22,BRII-196,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,3593,1,10000,0.1,ng/ml,2022-04-12
 Ai22,BRII-196,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,1340,1,10000,0.1,ng/ml,2022-04-12
 Ai22,BRII-196,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,2944,1,10000,0.1,ng/ml,2022-04-12
 Ai22,LY-CoV1404,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,1.5,1,10000,0.1,ng/ml,2022-04-12
 Ai22,LY-CoV1404,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,1.3,1,10000,0.1,ng/ml,2022-04-12
-Ai22,LY-CoV1404,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,0.7,1,10000,0.1,ng/ml,2022-04-12
+Ai22,LY-CoV1404,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,0.7,1,10000,0.1,ng/ml,2022-04-12
 Ai22,LY-CoV1404,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,0.7,1,10000,0.1,ng/ml,2022-04-12
 Ai22,LY-CoV1404,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,170,1,10000,0.1,ng/ml,2022-04-12
 Ai22,1-20,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,1.7,1,10000,0.1,ng/ml,2022-04-12
 Ai22,1-20,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,1-20,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,1-20,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,1-20,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,1-20,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,1-57,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,16,1,10000,0.1,ng/ml,2022-04-12
 Ai22,1-57,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,1-57,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,1-57,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,1-57,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,763,1,10000,0.1,ng/ml,2022-04-12
 Ai22,1-57,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-36,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,51,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-36,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,1238,1,10000,0.1,ng/ml,2022-04-12
-Ai22,2-36,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,1104,1,10000,0.1,ng/ml,2022-04-12
+Ai22,2-36,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,1104,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-36,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-36,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-15,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,1.8,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-15,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,2-15,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,2-15,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-15,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-15,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-7,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,14,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-7,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,2-7,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,2-7,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-7,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,46,1,10000,0.1,ng/ml,2022-04-12
 Ai22,2-7,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,ADG-2,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,2.6,1,10000,0.1,ng/ml,2022-04-12
 Ai22,ADG-2,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,266,1,10000,0.1,ng/ml,2022-04-12
-Ai22,ADG-2,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,430,1,10000,0.1,ng/ml,2022-04-12
+Ai22,ADG-2,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,430,1,10000,0.1,ng/ml,2022-04-12
 Ai22,ADG-2,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,ADG-2,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,5-24,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,44,1,10000,0.1,ng/ml,2022-04-12
 Ai22,5-24,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,5-24,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,5-24,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,5-24,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,5-24,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,4-18,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,44,1,10000,0.1,ng/ml,2022-04-12
 Ai22,4-18,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,4-18,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,4-18,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,4-18,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,4-18,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,4-19,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,145,1,10000,0.1,ng/ml,2022-04-12
 Ai22,4-19,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
-Ai22,4-19,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
+Ai22,4-19,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,4-19,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,4-19,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,5-7,Wuhan-Hu-1,Figure 3A,Pseudovirus (VSV),IC50,41,1,10000,0.1,ng/ml,2022-04-12
 Ai22,5-7,BA.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,165,1,10000,0.1,ng/ml,2022-04-12
-Ai22,5-7,BA.1 Spike:+346K,Figure 3A,Pseudovirus (VSV),IC50,145,1,10000,0.1,ng/ml,2022-04-12
+Ai22,5-7,BA.1.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,145,1,10000,0.1,ng/ml,2022-04-12
 Ai22,5-7,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,10000,1,10000,0.1,ng/ml,2022-04-12
 Ai22,5-7,BA.3 Spike,Figure 3A,Pseudovirus (VSV),IC50,123,1,10000,0.1,ng/ml,2022-04-12
 Ai22,BBIBP_2dose,Wuhan-Hu-1,Figure 2A,Pseudovirus (VSV),NT50,55,10,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose,BA.1 Spike,Figure 2A,Pseudovirus (VSV),NT50,10,10,100000,10,NULL,2022-05-24
-Ai22,BBIBP_2dose,BA.1 Spike:+346K,Figure 2A,Pseudovirus (VSV),NT50,10,10,100000,10,NULL,2022-05-24
+Ai22,BBIBP_2dose,BA.1.1 Spike,Figure 2A,Pseudovirus (VSV),NT50,10,10,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose,BA.2 Spike,Figure 2A,Pseudovirus (VSV),NT50,10,10,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose,BA.3 Spike,Figure 2A,Pseudovirus (VSV),NT50,10,10,100000,10,NULL,2022-05-24
 Ai22,BBIBP_3dose,Wuhan-Hu-1,Figure 2B,Pseudovirus (VSV),NT50,225,20,100000,10,NULL,2022-05-24
 Ai22,BBIBP_3dose,BA.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,32,20,100000,10,NULL,2022-05-24
-Ai22,BBIBP_3dose,BA.1 Spike:+346K,Figure 2B,Pseudovirus (VSV),NT50,24,20,100000,10,NULL,2022-05-24
+Ai22,BBIBP_3dose,BA.1.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,24,20,100000,10,NULL,2022-05-24
 Ai22,BBIBP_3dose,BA.2 Spike,Figure 2B,Pseudovirus (VSV),NT50,28,20,100000,10,NULL,2022-05-24
 Ai22,BBIBP_3dose,BA.3 Spike,Figure 2B,Pseudovirus (VSV),NT50,28,20,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose_ZF2001,Wuhan-Hu-1,Figure 2C,Pseudovirus (VSV),NT50,537,18,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose_ZF2001,BA.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,108,18,100000,10,NULL,2022-05-24
-Ai22,BBIBP_2dose_ZF2001,BA.1 Spike:+346K,Figure 2C,Pseudovirus (VSV),NT50,81,18,100000,10,NULL,2022-05-24
+Ai22,BBIBP_2dose_ZF2001,BA.1.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,81,18,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose_ZF2001,BA.2 Spike,Figure 2C,Pseudovirus (VSV),NT50,21,18,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose_ZF2001,BA.3 Spike,Figure 2C,Pseudovirus (VSV),NT50,69,18,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose_Delta,Wuhan-Hu-1,Figure 2D,Pseudovirus (VSV),NT50,1740,10,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose_Delta,BA.1 Spike,Figure 2D,Pseudovirus (VSV),NT50,16,10,100000,10,NULL,2022-05-24
-Ai22,BBIBP_2dose_Delta,BA.1 Spike:+346K,Figure 2D,Pseudovirus (VSV),NT50,14,10,100000,10,NULL,2022-05-24
+Ai22,BBIBP_2dose_Delta,BA.1.1 Spike,Figure 2D,Pseudovirus (VSV),NT50,14,10,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose_Delta,BA.2 Spike,Figure 2D,Pseudovirus (VSV),NT50,11,10,100000,10,NULL,2022-05-24
 Ai22,BBIBP_2dose_Delta,BA.3 Spike,Figure 2D,Pseudovirus (VSV),NT50,14,10,100000,10,NULL,2022-05-24

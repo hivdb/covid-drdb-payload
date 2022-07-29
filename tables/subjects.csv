@@ -3640,6 +3640,12 @@ Zhang21g,CP_1M,Human,NULL,15
 Zhang21g,CP_3M,Human,NULL,13
 Zhao21,CoronaVac_Regimen1,Human,NULL,16
 Zhao21,CoronaVac_Regimen2,Human,NULL,12
+Zhao22,Inactivated_vaccine,Human,1996,16
+Zhao22,"ZF2001(0,1,2)",Human,1986,20
+Zhao22,"ZF2001(0,1,3)",Human,1986,9
+Zhao22,ZF2001(Prolonged-interval),Human,1990,16
+Zhao22,ZF2001_4-7Mo,Human,1995,16
+Zhao22,heterologous_boost,Human,1978,20
 Zhou21b,AZD1222_14d,Human,NULL,15
 Zhou21b,AZD1222_28d,Human,NULL,10
 Zhou21b,BNT162b2_1,Human,NULL,1

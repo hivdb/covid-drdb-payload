@@ -28,9 +28,9 @@ FDA21c,TIX,Wuhan-Hu-1,B.1.1.7 Spike+S:484K,"Feb 2022, Page 17, Antiviral resista
 FDA21c,TIX,Wuhan-Hu-1,B.1.351 Spike,"Feb 2022, Page 17, Antiviral resistance paragraph 4",Pseudovirus,IC50,=,9.3,NULL,NULL,1,2022-03-17
 FDA21c,TIX,Wuhan-Hu-1,P.2 Spike,"Feb 2022, Page 17, Antiviral resistance paragraph 4",Pseudovirus,IC50,=,7.3,NULL,NULL,1,2022-03-17
 FDA21c,TIX,Wuhan-Hu-1,BA.1 Spike,"Feb 2022, Page 17, Antiviral resistance paragraph 5",Pseudovirus,IC50,>,1000,NULL,NULL,1,2022-03-17
-FDA21c,TIX,Wuhan-Hu-1,BA.1 Spike:+346K,"Feb 2022, Page 17, Antiviral resistance paragraph 5",Pseudovirus,IC50,=,460,NULL,NULL,1,2022-03-17
+FDA21c,TIX,Wuhan-Hu-1,BA.1.1 Spike,"Feb 2022, Page 17, Antiviral resistance paragraph 5",Pseudovirus,IC50,=,460,NULL,NULL,1,2022-03-17
 FDA21c,CIL,Wuhan-Hu-1,BA.1 Spike,"Feb 2022, Page 17, Antiviral resistance paragraph 5",Pseudovirus,IC50,>,1000,NULL,NULL,1,2022-03-17
-FDA21c,CIL,Wuhan-Hu-1,BA.1 Spike:+346K,"Feb 2022, Page 17, Antiviral resistance paragraph 5",Pseudovirus,IC50,>,500,NULL,NULL,1,2022-03-17
+FDA21c,CIL,Wuhan-Hu-1,BA.1.1 Spike,"Feb 2022, Page 17, Antiviral resistance paragraph 5",Pseudovirus,IC50,>,500,NULL,NULL,1,2022-03-17
 FDA21c,TIX,Wuhan-Hu-1,BA.2 Spike,"Feb 2022, Page 17, Antiviral resistance paragraph 5",Pseudovirus,IC50,>,1000,NULL,NULL,1,2022-03-17
 FDA21c,CIL,Wuhan-Hu-1,BA.2 Spike,"Feb 2022, Page 17, Antiviral resistance paragraph 5",Pseudovirus,IC50,=,1.9,NULL,NULL,1,2022-03-17
 FDA21c,CIL+TIX,Wuhan-Hu-1,B.1.1.7 Spike,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 6",Pseudovirus,IC50,=,2.9,NULL,NULL,1,2022-03-17
@@ -39,7 +39,7 @@ FDA21c,CIL+TIX,Wuhan-Hu-1,P.1 Spike,"Feb 2022, Table 6, Page 17, Antiviral resis
 FDA21c,CIL+TIX,Wuhan-Hu-1,B.1.617.2 Spike,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 6",Pseudovirus,IC50,=,1.2,NULL,NULL,1,2022-03-17
 FDA21c,CIL+TIX,Wuhan-Hu-1,B.1.617.2 Spike:+417N,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 6",Pseudovirus,IC50,=,1,NULL,NULL,1,2022-03-17
 FDA21c,CIL+TIX,Wuhan-Hu-1,BA.1 Spike,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 7",Pseudovirus,IC50,=,157.5,NULL,NULL,1,2022-03-17
-FDA21c,CIL+TIX,Wuhan-Hu-1,BA.1 Spike:+346K,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 7",Pseudovirus,IC50,=,424,NULL,NULL,1,2022-03-17
+FDA21c,CIL+TIX,Wuhan-Hu-1,BA.1.1 Spike,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 7",Pseudovirus,IC50,=,424,NULL,NULL,1,2022-03-17
 FDA21c,CIL+TIX,Wuhan-Hu-1,BA.2 Spike,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 7",Pseudovirus,IC50,=,3.2,NULL,NULL,1,2022-03-17
 FDA21c,CIL+TIX,Wuhan-Hu-1,B.1.525 Spike,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 6",Pseudovirus,IC50,=,3.1,NULL,NULL,1,2022-03-17
 FDA21c,CIL+TIX,Wuhan-Hu-1,B.1.526/E484K Spike,"Feb 2022, Table 6, Page 17, Antiviral resistance paragraph 6",Pseudovirus,IC50,=,1.9,NULL,NULL,1,2022-03-17

@@ -1,4 +1,4 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Evans22,CP_Omicron,BA.1 Spike:+346K,Figure 3H,Pseudovirus (lentivirus),NT50,226,15,100000,80,NULL,2022-06-01
-Evans22,VP_Omicron_2dose,BA.1 Spike:+346K,Figure 3H,Pseudovirus (lentivirus),NT50,229,8,100000,80,NULL,2022-06-01
-Evans22,VP_Omicron_Boosted,BA.1 Spike:+346K,Figure 3H,Pseudovirus (lentivirus),NT50,263,8,100000,80,NULL,2022-06-01
+Evans22,CP_Omicron,BA.1.1 Spike,Figure 3H,Pseudovirus (lentivirus),NT50,226,15,100000,80,NULL,2022-06-01
+Evans22,VP_Omicron_2dose,BA.1.1 Spike,Figure 3H,Pseudovirus (lentivirus),NT50,229,8,100000,80,NULL,2022-06-01
+Evans22,VP_Omicron_Boosted,BA.1.1 Spike,Figure 3H,Pseudovirus (lentivirus),NT50,263,8,100000,80,NULL,2022-06-01
