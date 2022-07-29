@@ -254,6 +254,10 @@ Cao22b,CoronaVac_2dose_ZF2001_1dose,Human,NULL,38
 Cao22b,CoronaVac_3dose,Human,NULL,40
 Cao22b,CoronaVac_3dose_BA1_CP,Human,NULL,50
 Cao22b,SARS_CoV_1_CP_CoronaVac_2dose_ZF2001_1dose,Human,NULL,28
+Cao22c,CoronaVac_2dose_BTI_Delta,Human,1992,6
+Cao22c,CoronaVac_3dose,Human,1985,40
+Cao22c,CoronaVac_3dose_BTI_BA.1,Human,1979,50
+Cao22c,CoronaVac_3dose_BTI_BA.2,Human,1975,39
 Carreno21,BNT162b2,Human,NULL,15
 Carreno21,CP,Human,NULL,8
 Carreno21,mRNA-1273,Human,NULL,15
