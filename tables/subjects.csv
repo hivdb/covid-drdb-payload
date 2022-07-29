@@ -513,6 +513,10 @@ Copin21,REGN10987 prevention low dose hamsters,Hamster,NULL,5
 Copin21,REGN10987 treatment high dose hamsters,Hamster,NULL,5
 Copin21,REGN10987 treatment low dose hamsters,Hamster,NULL,5
 Corbett21,mRNA_macaques,Macaque,NULL,24
+Cowling22,CoronaVac_2dose_BNT162b2_1dose,Human,1968,39
+Cowling22,CoronaVac_2dose_BNT162b2_1dose_BTI,Human,1968,42
+Cowling22,CoronaVac_2dose_BNT162b2_2dose,Human,1968,21
+Cowling22,CoronaVac_2dose_preboost,Human,1968,39
 Davis21,BNT_1dose,Human,1978,37
 Davis21,BNT_2dose,Human,1978,59
 Davis21,ChAdOx1_1dose,Human,1965,50

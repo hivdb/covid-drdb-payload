@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cowling22,CoronaVac_2dose_preboost,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,8,39,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_BNT162b2_1dose_D28,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,338,39,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_BNT162b2_1dose_D182,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,112,39,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_BNT162b2_1dose_BTI_D182,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,320,42,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_BNT162b2_2dose,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,320,21,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_preboost,BA.2 full genome,Figure 1D,Pseudovirus,NT50,5,39,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_BNT162b2_1dose_D28,BA.2 full genome,Figure 1D,Pseudovirus,NT50,55,39,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_BNT162b2_1dose_D182,BA.2 full genome,Figure 1D,Pseudovirus,NT50,14,39,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_BNT162b2_1dose_BTI_D182,BA.2 full genome,Figure 1D,Pseudovirus,NT50,160,42,320,10,NULL,2022-07-29
+Cowling22,CoronaVac_2dose_BNT162b2_2dose,BA.2 full genome,Figure 1D,Pseudovirus,NT50,70,21,320,10,NULL,2022-07-29
