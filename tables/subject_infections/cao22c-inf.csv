@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Cao22c,CoronaVac_3dose_BTI_BA.1,~,2022-01-24,Omicron/BA.1,China,NULL,NULL,Supplementary File
+Cao22c,CoronaVac_3dose_BTI_BA.2,~,2022-05-25,Omicron/BA.2,China,NULL,NULL,Supplementary File
+Cao22c,CoronaVac_2dose_BTI_Delta,~,2021-07-31,Delta,China,NULL,NULL,Supplementary File

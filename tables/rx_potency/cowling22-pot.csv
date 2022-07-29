@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Cowling22,CoronaVac_2dose_preboost,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,8,39,320,10,NULL,2022-07-29
 Cowling22,CoronaVac_2dose_BNT162b2_1dose_D28,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,338,39,320,10,NULL,2022-07-29
 Cowling22,CoronaVac_2dose_BNT162b2_1dose_D182,Wuhan-Hu-1,Figure 1C,Pseudovirus,NT50,112,39,320,10,NULL,2022-07-29
