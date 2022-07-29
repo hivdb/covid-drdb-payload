@@ -1,0 +1,14 @@
+ref_name,rx_name,ab_name
+Arora22d,Bamlanivimab,Bamlanivimab
+Arora22d,Etesevimab,Etesevimab
+Arora22d,BAM+ETE,Bamlanivimab
+Arora22d,BAM+ETE,Etesevimab
+Arora22d,Sotrovimab,Sotrovimab
+Arora22d,Casirivimab,Casirivimab
+Arora22d,Imdevimab,Imdevimab
+Arora22d,CAS+IMD,Casirivimab
+Arora22d,CAS+IMD,Imdevimab
+Arora22d,Cilgavimab,Cilgavimab
+Arora22d,Tixagevimab,Tixagevimab
+Arora22d,CIL+TIX,Cilgavimab
+Arora22d,CIL+TIX,Tixagevimab
