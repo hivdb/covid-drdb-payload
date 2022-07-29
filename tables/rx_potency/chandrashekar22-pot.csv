@@ -1,37 +1,37 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Chandrashekar22,BNT_3dose_W8,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,5690,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_3dose_W8,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,551,6,10000,20,NULL,2022-06-24
-Chandrashekar22,BNT_3dose_W8,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,137,6,10000,20,NULL,2022-06-24
+Chandrashekar22,BNT_3dose_W8,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,137,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W8,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,10000,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W8,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,268,6,10000,20,NULL,2022-06-24
-Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W8,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,31,6,10000,20,NULL,2022-06-24
+Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W8,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,31,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_1dose_BNT_1dose_W8,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,882,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_1dose_BNT_1dose_W8,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,113,6,10000,20,NULL,2022-06-24
-Chandrashekar22,Ad26_1dose_BNT_1dose_W8,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,20,6,10000,20,NULL,2022-06-24
+Chandrashekar22,Ad26_1dose_BNT_1dose_W8,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,20,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_2dose_W8,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,304,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_2dose_W8,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,61,6,10000,20,NULL,2022-06-24
-Chandrashekar22,Ad26_2dose_W8,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,20,6,10000,20,NULL,2022-06-24
+Chandrashekar22,Ad26_2dose_W8,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,20,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_3dose_W14,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,378,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_3dose_W14,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,261,6,10000,20,NULL,2022-06-24
-Chandrashekar22,BNT_3dose_W14,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,194,6,10000,20,NULL,2022-06-24
+Chandrashekar22,BNT_3dose_W14,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,194,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W14,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,743,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W14,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,169,6,10000,20,NULL,2022-06-24
-Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W14,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,55,6,10000,20,NULL,2022-06-24
+Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W14,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,55,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_1dose_BNT_1dose_W14,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,122,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_1dose_BNT_1dose_W14,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,114,6,10000,20,NULL,2022-06-24
-Chandrashekar22,Ad26_1dose_BNT_1dose_W14,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,35,6,10000,20,NULL,2022-06-24
+Chandrashekar22,Ad26_1dose_BNT_1dose_W14,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,35,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_2dose_W14,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,74,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_2dose_W14,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,63,6,10000,20,NULL,2022-06-24
-Chandrashekar22,Ad26_2dose_W14,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,20,6,10000,20,NULL,2022-06-24
+Chandrashekar22,Ad26_2dose_W14,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,20,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_3dose_W18,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,19901,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_3dose_W18,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,4462,6,10000,20,NULL,2022-06-24
-Chandrashekar22,BNT_3dose_W18,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,1901,6,10000,20,NULL,2022-06-24
+Chandrashekar22,BNT_3dose_W18,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,1901,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W18,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,15451,6,10000,20,NULL,2022-06-24
 Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W18,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,3238,6,10000,20,NULL,2022-06-24
-Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W18,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,650,6,10000,20,NULL,2022-06-24
+Chandrashekar22,BNT_2dose_Ad26_1dose_BNT_1dose_W18,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,650,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_1dose_BNT_1dose_W18,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,7461,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_1dose_BNT_1dose_W18,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,2323,6,10000,20,NULL,2022-06-24
-Chandrashekar22,Ad26_1dose_BNT_1dose_W18,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,810,6,10000,20,NULL,2022-06-24
+Chandrashekar22,Ad26_1dose_BNT_1dose_W18,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,810,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_2dose_W18,Wuhan-Hu-1,Figure 2,Pseudovirus,NT50,2215,6,10000,20,NULL,2022-06-24
 Chandrashekar22,Ad26_2dose_W18,S:19R+142D+156G+157del+158del+452R+478K+614G+681R+950N,Figure 2,Pseudovirus,NT50,1000,6,10000,20,NULL,2022-06-24
-Chandrashekar22,Ad26_2dose_W18,BA.1 Spike:+346K,Figure 2,Pseudovirus,NT50,168,6,10000,20,NULL,2022-06-24
+Chandrashekar22,Ad26_2dose_W18,BA.1.1 Spike,Figure 2,Pseudovirus,NT50,168,6,10000,20,NULL,2022-06-24
