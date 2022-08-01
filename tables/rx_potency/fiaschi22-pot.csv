@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Fiaschi22,BAM+ETE,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,6295,12,1000000,5,NULL,2022-08-01
 Fiaschi22,CAS+IMD,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,18214,14,1000000,5,NULL,2022-08-01
 Fiaschi22,SOT,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,456,14,1000000,5,NULL,2022-08-01
