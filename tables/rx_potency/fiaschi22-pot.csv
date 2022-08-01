@@ -1,13 +1,13 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Fiaschi22,BAM+ETE,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,6295,12,1000000,5,NULL,2022-08-01
-Fiaschi22,CAS+IMD,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,18214,14,1000000,5,NULL,2022-08-01
-Fiaschi22,SOT,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,NT50,456,14,1000000,5,NULL,2022-08-01
-Fiaschi22,BAM+ETE,hCoV-19/Italy/LIG-181478082/2021,Figure 1,Virus isolate,NT50,14780,12,1000000,5,NULL,2022-08-01
-Fiaschi22,CAS+IMD,hCoV-19/Italy/LIG-181478082/2021,Figure 1,Virus isolate,NT50,63937,14,1000000,5,NULL,2022-08-01
-Fiaschi22,SOT,hCoV-19/Italy/LIG-181478082/2021,Figure 1,Virus isolate,NT50,1103,14,1000000,5,NULL,2022-08-01
-Fiaschi22,BAM+ETE,hCoV-19/Italy/LOM-563/2021,Figure 1,Virus isolate,NT50,5,12,1000000,5,NULL,2022-08-01
-Fiaschi22,CAS+IMD,hCoV-19/Italy/LOM-563/2021,Figure 1,Virus isolate,NT50,5,14,1000000,5,NULL,2022-08-01
-Fiaschi22,SOT,hCoV-19/Italy/LOM-563/2021,Figure 1,Virus isolate,NT50,200,14,1000000,5,NULL,2022-08-01
-Fiaschi22,BAM+ETE,hCoV-19/Italy/LOM-UniMIBA2/2022,Figure 1,Virus isolate,NT50,5,12,1000000,5,NULL,2022-08-01
-Fiaschi22,CAS+IMD,hCoV-19/Italy/LOM-UniMIBA2/2022,Figure 1,Virus isolate,NT50,174,14,1000000,5,NULL,2022-08-01
-Fiaschi22,SOT,hCoV-19/Italy/LOM-UniMIBA2/2022,Figure 1,Virus isolate,NT50,20,14,1000000,5,NULL,2022-08-01
+Fiaschi22,BAM+ETE,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,IC50,6295,12,1000000,5,NULL,2022-08-01
+Fiaschi22,CAS+IMD,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,IC50,18214,14,1000000,5,NULL,2022-08-01
+Fiaschi22,SOT,hCoV-19/Italy/LOM-UniMI32/2020,Figure 1,Virus isolate,IC50,456,14,1000000,5,NULL,2022-08-01
+Fiaschi22,BAM+ETE,hCoV-19/Italy/LIG-181478082/2021,Figure 1,Virus isolate,IC50,14780,12,1000000,5,NULL,2022-08-01
+Fiaschi22,CAS+IMD,hCoV-19/Italy/LIG-181478082/2021,Figure 1,Virus isolate,IC50,63937,14,1000000,5,NULL,2022-08-01
+Fiaschi22,SOT,hCoV-19/Italy/LIG-181478082/2021,Figure 1,Virus isolate,IC50,1103,14,1000000,5,NULL,2022-08-01
+Fiaschi22,BAM+ETE,hCoV-19/Italy/LOM-563/2021,Figure 1,Virus isolate,IC50,5,12,1000000,5,NULL,2022-08-01
+Fiaschi22,CAS+IMD,hCoV-19/Italy/LOM-563/2021,Figure 1,Virus isolate,IC50,5,14,1000000,5,NULL,2022-08-01
+Fiaschi22,SOT,hCoV-19/Italy/LOM-563/2021,Figure 1,Virus isolate,IC50,200,14,1000000,5,NULL,2022-08-01
+Fiaschi22,BAM+ETE,hCoV-19/Italy/LOM-UniMIBA2/2022,Figure 1,Virus isolate,IC50,5,12,1000000,5,NULL,2022-08-01
+Fiaschi22,CAS+IMD,hCoV-19/Italy/LOM-UniMIBA2/2022,Figure 1,Virus isolate,IC50,174,14,1000000,5,NULL,2022-08-01
+Fiaschi22,SOT,hCoV-19/Italy/LOM-UniMIBA2/2022,Figure 1,Virus isolate,IC50,20,14,1000000,5,NULL,2022-08-01
