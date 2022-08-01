@@ -1,0 +1,25 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Liu22,10-40,SARS-CoV,Fig2B,Virus isolate,IC50,151,1,5000,1,ng/ml,2022-07-26
+Liu22,10-28,SARS-CoV,Fig2B,Virus isolate,IC50,,1,5000,1,ng/ml,2022-07-26
+Liu22,11-11,SARS-CoV,Fig2B,Virus isolate,IC50,,1,5000,1,ng/ml,2022-07-26
+Liu22,2-36,SARS-CoV,Fig2B,Virus isolate,IC50,13790,1,5000,1,ng/ml,2022-07-26
+Liu22,DH1047,SARS-CoV,Fig2B,Virus isolate,IC50,221,1,5000,1,ng/ml,2022-07-26
+Liu22,S2X259,SARS-CoV,Fig2B,Virus isolate,IC50,170,1,5000,1,ng/ml,2022-07-26
+Liu22,REGN10985,SARS-CoV,Fig2B,Virus isolate,IC50,3801,1,5000,1,ng/ml,2022-07-26
+Liu22,ADG-2,SARS-CoV,Fig2B,Virus isolate,IC50,8,1,5000,1,ng/ml,2022-07-26
+Liu22,COVA1-16,SARS-CoV,Fig2B,Virus isolate,IC50,,1,5000,1,ng/ml,2022-07-26
+Liu22,CR3022,SARS-CoV,Fig2B,Virus isolate,IC50,,1,5000,1,ng/ml,2022-07-26
+Liu22,S2H97,SARS-CoV,Fig2B,Virus isolate,IC50,,1,5000,1,ng/ml,2022-07-26
+Liu22,S309,SARS-CoV,Fig2B,Virus isolate,IC50,,1,5000,1,ng/ml,2022-07-26
+Liu22,10-40_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,10-28_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,11-11_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,2-36_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,DH1047_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2X259_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,REGN10985_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,ADG-2_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,COVA1-16_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,CR3022_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S2H97_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26
+Liu22,S309_Fig3C,MERS-CoV Spike,Fig2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-07-26

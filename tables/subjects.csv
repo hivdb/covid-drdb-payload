@@ -89,11 +89,21 @@ Arora22,VACC_CP,Human,NULL,10
 Arora22b,AZ_1_BNT_2dose,Human,1981,15
 Arora22b,AZ_2_BNT_1dose,Human,1979,15
 Arora22b,BNT_3dose,Human,1978,15
+Arora22c,AZD1222_2dose,Human,NULL,10
+Arora22c,BNT162b2_2dose,Human,NULL,10
+Arora22c,CP,Human,NULL,10
+Arora22d,BNT_2dose,Human,NULL,10
+Arora22d,BNT_3dose,Human,NULL,10
+Arora22d,CP,Human,NULL,10
 Arunachalam21,BNT,Human,NULL,30
 Assawakosri22,AZD122,Human,NULL,55
 Assawakosri22,BBIBP,Human,NULL,57
 Assawakosri22,BNT162b2,Human,NULL,54
 Assawakosri22,mRNA_1273,Human,NULL,58
+Assawakosri22b,AZD1222_2dose_BNT162b2,Human,NULL,61
+Assawakosri22b,AZD1222_2dose_half_mRNA1273,Human,NULL,50
+Assawakosri22b,AZD1222_2dose_mRNA1273,Human,NULL,59
+Assawakosri22b,AZD1222_3dose,Human,NULL,59
 Atmar21,Ad26COV2S_1dose_BNT162b2_1dose,Human,NULL,50
 Atmar21,Ad26COV2S_1dose_mRNA1273_1dose,Human,NULL,51
 Atmar21,Ad26COV2S_1dose_mRNA1273_1dose_18to55,Human,NULL,21
@@ -144,6 +154,10 @@ Bekliz21,mRNA,Human,NULL,16
 Bekliz21,mRNA_Delta,Human,NULL,4
 Bekliz21,mRNA_Omicron,Human,NULL,4
 Betton21,CP,Human,NULL,107
+Bhiman22,Ad26.CoV.2_2dose,Human,NULL,8
+Bhiman22,BNT162b2_3dose,Human,NULL,12
+Bhiman22,NVX-CoV2373_2dose,Human,NULL,29
+Bhiman22,NVX-CoV2373_3dose,Human,NULL,48
 Borges21,Patient,Human,1959,1
 Boshier22,Patient A,Human,2011,1
 Boshier22,Patient B,Human,2014,1
@@ -166,6 +180,16 @@ Bowen22,NVX_2dose,Human,NULL,9
 Bowen22,SputnikV_2dose,Human,NULL,12
 Bowen22,SputnikV_2dose_booster,Human,NULL,14
 Bowen22,mRNA_3dose,Human,NULL,13
+Branche22,Arm_1_mRNA-1273_infected,Human,NULL,21
+Branche22,Arm_1_mRNA-1273_uninfected,Human,NULL,76
+Branche22,Arm_2_3_Beta_BA1_infected,Human,NULL,38
+Branche22,Arm_2_3_Beta_BA1_uninfected,Human,NULL,160
+Branche22,Arm_4_Delta_BA1_infected,Human,NULL,16
+Branche22,Arm_4_Delta_BA1_uninfected,Human,NULL,83
+Branche22,Arm_5_BA1_infected,Human,NULL,23
+Branche22,Arm_5_BA1_uninfected,Human,NULL,73
+Branche22,Arm_6_BA1_mRNA-1273_infected,Human,NULL,20
+Branche22,Arm_6_BA1_mRNA-1273_uninfected,Human,NULL,76
 Bronstein21,Donor,Human,NULL,1
 Bronstein21,Patient 1,Human,1953,1
 Bronstein21,Patient 2,Human,1988,1
@@ -189,10 +213,54 @@ Caniels21,BNT162b2,Human,NULL,50
 Caniels21,CP_hosp,Human,NULL,28
 Caniels21,CP_non-hosp,Human,NULL,41
 Cantoni21,CP,Human,NULL,61
+Cao21b,CE1,Human,1957,1
+Cao21b,CE10,Human,1954,1
+Cao21b,CE2,Human,1956,1
+Cao21b,CE3,Human,1983,1
+Cao21b,CE4,Human,1951,1
+Cao21b,CE5,Human,1986,1
+Cao21b,CE6,Human,1969,1
+Cao21b,CE7,Human,1962,1
+Cao21b,CE8,Human,1985,1
+Cao21b,CE9,Human,1982,1
+Cao21b,I1,Human,1995,1
+Cao21b,I10,Human,1987,1
+Cao21b,I2,Human,1990,1
+Cao21b,I3,Human,1969,1
+Cao21b,I4,Human,1976,1
+Cao21b,I5,Human,1987,1
+Cao21b,I6,Human,1986,1
+Cao21b,I7,Human,1973,1
+Cao21b,I8,Human,1979,1
+Cao21b,I9,Human,1989,1
+Cao21b,R1,Human,1991,1
+Cao21b,R10,Human,1990,1
+Cao21b,R11,Human,1986,1
+Cao21b,R12,Human,1966,1
+Cao21b,R13,Human,1985,1
+Cao21b,R14,Human,1994,1
+Cao21b,R15,Human,1995,1
+Cao21b,R16,Human,1993,1
+Cao21b,R17,Human,1994,1
+Cao21b,R18,Human,1995,1
+Cao21b,R19,Human,1986,1
+Cao21b,R2,Human,1989,1
+Cao21b,R20,Human,1993,1
+Cao21b,R3,Human,1977,1
+Cao21b,R4,Human,1991,1
+Cao21b,R5,Human,1992,1
+Cao21b,R6,Human,1990,1
+Cao21b,R7,Human,1991,1
+Cao21b,R8,Human,1993,1
+Cao21b,R9,Human,1982,1
 Cao22b,CoronaVac_2dose_ZF2001_1dose,Human,NULL,38
 Cao22b,CoronaVac_3dose,Human,NULL,40
 Cao22b,CoronaVac_3dose_BA1_CP,Human,NULL,50
 Cao22b,SARS_CoV_1_CP_CoronaVac_2dose_ZF2001_1dose,Human,NULL,28
+Cao22c,CoronaVac_2dose_BTI_Delta,Human,1992,6
+Cao22c,CoronaVac_3dose,Human,1985,40
+Cao22c,CoronaVac_3dose_BTI_BA.1,Human,1979,50
+Cao22c,CoronaVac_3dose_BTI_BA.2,Human,1975,39
 Carreno21,BNT162b2,Human,NULL,15
 Carreno21,CP,Human,NULL,8
 Carreno21,mRNA-1273,Human,NULL,15
@@ -238,6 +306,10 @@ Chalkias22,mRNA-1273_100ug_booster,Human,1969,582
 Chalkias22,mRNA-1273_2dose,Human,1970,584
 Chalkias22,mRNA-1273_50ug_booster,Human,1971,296
 Chalkias22,mRNA-1273_booster,Human,1970,140
+Chalkias22b,CP_mRNA_1273,Human,NULL,98
+Chalkias22b,CP_mRNA_1273214,Human,NULL,334
+Chalkias22b,mRNA_1273,Human,NULL,260
+Chalkias22b,mRNA_1273214,Human,NULL,94
 Chandrashekar22,Ad26_1dose_BNT_1dose,Macaque,NULL,6
 Chandrashekar22,Ad26_2dose,Macaque,NULL,6
 Chandrashekar22,BNT_2dose_Ad26_1dose,Macaque,NULL,6
@@ -448,6 +520,10 @@ Copin21,REGN10987 prevention low dose hamsters,Hamster,NULL,5
 Copin21,REGN10987 treatment high dose hamsters,Hamster,NULL,5
 Copin21,REGN10987 treatment low dose hamsters,Hamster,NULL,5
 Corbett21,mRNA_macaques,Macaque,NULL,24
+Cowling22,CoronaVac_2dose_BNT162b2_1dose,Human,1968,39
+Cowling22,CoronaVac_2dose_BNT162b2_1dose_BTI,Human,1968,42
+Cowling22,CoronaVac_2dose_BNT162b2_2dose,Human,1968,21
+Cowling22,CoronaVac_2dose_preboost,Human,1968,39
 Davis21,BNT_1dose,Human,1978,37
 Davis21,BNT_2dose,Human,1978,59
 Davis21,ChAdOx1_1dose,Human,1965,50
@@ -1030,6 +1106,46 @@ Greaney21c,Subject_G,Human,NULL,1
 Greaney21c,Subject_I,Human,NULL,1
 Greaney21d,B.1.351_infection,Human,NULL,11
 Greaney21d,Early_infection,Human,NULL,6
+Greaney22,267C,Human,NULL,1
+Greaney22,268C,Human,NULL,1
+Greaney22,273C,Human,NULL,1
+Greaney22,274C,Human,NULL,1
+Greaney22,276C,Human,NULL,1
+Greaney22,277C,Human,NULL,1
+Greaney22,278C,Human,NULL,1
+Greaney22,279C,Human,NULL,1
+Greaney22,Delta_1,Human,NULL,1
+Greaney22,Delta_10,Human,NULL,1
+Greaney22,Delta_11,Human,NULL,1
+Greaney22,Delta_3,Human,NULL,1
+Greaney22,Delta_4,Human,NULL,1
+Greaney22,Delta_6,Human,NULL,1
+Greaney22,Delta_7,Human,NULL,1
+Greaney22,Delta_8,Human,NULL,1
+Greaney22,M03 (day 119),Human,NULL,1
+Greaney22,M05 (day 119),Human,NULL,1
+Greaney22,M06 (day 119),Human,NULL,1
+Greaney22,M11 (day 119),Human,NULL,1
+Greaney22,M12 (day 119),Human,NULL,1
+Greaney22,M14 (day 119),Human,NULL,1
+Greaney22,P02,Human,NULL,1
+Greaney22,P03,Human,NULL,1
+Greaney22,P04,Human,NULL,1
+Greaney22,P05,Human,NULL,1
+Greaney22,P08,Human,NULL,1
+Greaney22,P09,Human,NULL,1
+Greaney22,P12,Human,NULL,1
+Greaney22,P14,Human,NULL,1
+Greaney22,participant A (day 120),Human,NULL,1
+Greaney22,participant A (day 21),Human,NULL,1
+Greaney22,participant B (day 113),Human,NULL,1
+Greaney22,participant B (day 26),Human,NULL,1
+Greaney22,participant C (day 104),Human,NULL,1
+Greaney22,participant C (day 32),Human,NULL,1
+Greaney22,participant E (day 104),Human,NULL,1
+Greaney22,participant G (day 94),Human,NULL,1
+Greaney22,participant I (day 102),Human,NULL,1
+Greaney22,participant I (day 26),Human,NULL,1
 Gross21,BNT162b2_2x,Human,NULL,12
 Gross21,ChAdOx1_BNT162b2,Human,NULL,26
 Gruell22,BNT,Human,NULL,30
@@ -1824,6 +1940,7 @@ Lodi22,Patient 1,Human,2018,1
 Lohr21,Patient,Human,1966,1
 Lu21b,BNT162b2,Human,1974,1
 Lu21b,CoronaVac,Human,1969,1
+Lu21c,CP,Human,NULL,9
 Lucas21,VP_naive,Human,NULL,17
 Lucas21,VP_recoved,Human,NULL,15
 Lustig21,BNT162b2,Human,NULL,34
@@ -2036,10 +2153,17 @@ Neumann21,BNT162b2,Human,1976,11
 Neumann21,CP_B.1.1.7,Human,1969,11
 Neumann21,CP_B.1.351,Human,NULL,1
 Neumann21,mRNA-1273,Human,1973,11
-Newman21,BNT,Human,NULL,37
+Newman22,BNT,Human,NULL,37
 Nguyen21,CP_first_wave,Human,NULL,22
 Nguyen21,CP_second_wave,Human,NULL,50
 Nguyen21b,Nanocovax,Human,NULL,112
+Niyomnaitham22,BNT162b2_2dose,Human,1984,30
+Niyomnaitham22,BNT162b2_ChAdOx1,Human,1988,30
+Niyomnaitham22,BNT162b2_CoronaVac,Human,1986,30
+Niyomnaitham22,ChAdOx1_BNT162b2,Human,1982,30
+Niyomnaitham22,ChAdOx1_CoronaVac_BNT162b2,Human,1980,30
+Niyomnaitham22,CoronaVac_BNT162b2,Human,1990,30
+Niyomnaitham22,CoronaVac_ChAdOx1_BNT162b2,Human,1982,30
 Nussenblatt21,Donor,Human,NULL,1
 Nussenblatt21,Patient,Human,1972,1
 Pannus21,Infected_Resident,Human,NULL,19
@@ -2195,6 +2319,8 @@ Ren21,CP_Group2,Human,1969,10
 Ren21,CP_Group3,Human,1972,9
 Reynolds21,BNT162b2,Human,1978,20
 Reynolds21,BNT162b2_infected,Human,1978,24
+Richardson22,CP_BA.4,Human,NULL,13
+Richardson22,VP_BA.4_BTI,Human,NULL,9
 Riou21,CP_wave1,Human,NULL,18
 Riou21,CP_wave2,Human,NULL,19
 Rockett22,R001,Human,1986,1
@@ -2251,6 +2377,9 @@ Saade21,CP,Human,NULL,34
 Saade21,CP_Mild,Human,NULL,29
 Saade21,CP_Severe,Human,NULL,25
 Sabin22,Household contacts,Human,NULL,6
+Sahay22,Covishield_2dose,Human,NULL,19
+Sahay22,Covishield_2dose_BTI,Human,NULL,16
+Sahay22,Covishield_2dose_recovered,Human,NULL,26
 Sahin20,Subject_PSV,Human,NULL,5
 Sahin21,BNT_Fig1b,Human,NULL,12
 Sahin21,BNT_Fig4d,Human,NULL,5
@@ -2368,6 +2497,7 @@ Seaman22,CP_delta_vaccinated,Human,NULL,11
 Seidel22,CP,Human,NULL,29
 Seidel22,CP_and_mRNA_or_AZD1222_1_dose,Human,NULL,17
 Seidel22,CP_and_mRNA_or_AZD1222_2_dose,Human,NULL,20
+Seki22,BNT162b2,Human,1980,38
 Sepulcri21,Donor,Human,NULL,1
 Sepulcri21,Patient,Human,1940,1
 Servellita22,BTI_D1,Human,NULL,1
@@ -2835,6 +2965,8 @@ Tada22b,CP,Human,NULL,8
 Tada22b,CP_BNT162b2_2dose,Human,NULL,12
 Tada22b,mRNA1273_2dose,Human,NULL,8
 Taha21,Case 1,Human,1965,1
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose,Human,1985,41
+Tan21,BNT162b2_3dose,Human,1987,24
 Tang21,CP,Human,NULL,9
 Tang21,hCoV-2IG,Human,NULL,6
 Tarhini21,Patient 1,Human,1954,1
@@ -3262,6 +3394,9 @@ Wang21l,CP,Human,NULL,14
 Wang21l,Convidecia,Human,NULL,5
 Wang21l,KCONVAC,Human,NULL,9
 Wang21l,Stemirna_mRNA,Human,NULL,4
+Wang21m,mRNA_2dose,Human,NULL,20
+Wang21m,mRNA_2dose_preboost,Human,NULL,20
+Wang21m,mRNA_3dose,Human,NULL,20
 Wang22,BBIBP-CorV_2dose_d14,Human,NULL,10
 Wang22,BBIBP-CorV_3dose_d14,Human,NULL,10
 Wang22,CP_Delta,Human,NULL,10
@@ -3274,6 +3409,22 @@ Wang22d,VP_BA.2_BI,Human,NULL,11
 Wang22d,VP_non_Omicron_inf,Human,NULL,20
 Wang22e,CP,Human,NULL,16
 Wang22e,CoronaVac_2dose,Human,NULL,20
+Wang22g,Alpha_inf,Human,NULL,11
+Wang22g,B.1_inf,Human,NULL,20
+Wang22g,BA.1_inf,Human,NULL,1
+Wang22g,Beta_inf,Human,NULL,2
+Wang22g,Delta_inf,Human,NULL,15
+Wang22g,Delta_inf_mRNA_2dose,Human,NULL,12
+Wang22g,Epsilon_inf,Human,NULL,5
+Wang22g,Gamma_inf,Human,NULL,5
+Wang22g,Iota_inf,Human,NULL,10
+Wang22g,Lambda_inf,Human,NULL,3
+Wang22g,Other_inf,Human,NULL,10
+Wang22g,mRNA_2dose,Human,NULL,39
+Wang22g,mRNA_2dose_BTI_BA.1,Human,NULL,10
+Wang22g,mRNA_2dose_BTI_Delta,Human,NULL,4
+Wang22g,mRNA_3dose,Human,NULL,39
+Wang22g,mRNA_3dose_BTI_BA.1,Human,NULL,10
 Weigang21,BNT162b2,Human,NULL,1
 Weigang21,BW-FR,Human,1962,1
 Weigang21,CP_Human,Human,NULL,2
@@ -3492,6 +3643,12 @@ Zhang21g,CP_1M,Human,NULL,15
 Zhang21g,CP_3M,Human,NULL,13
 Zhao21,CoronaVac_Regimen1,Human,NULL,16
 Zhao21,CoronaVac_Regimen2,Human,NULL,12
+Zhao22,Inactivated_vaccine,Human,1996,16
+Zhao22,"ZF2001(0,1,2)",Human,1986,20
+Zhao22,"ZF2001(0,1,3)",Human,1986,9
+Zhao22,ZF2001(Prolonged-interval),Human,1990,16
+Zhao22,ZF2001_4-7Mo,Human,1995,16
+Zhao22,heterologous_boost,Human,1978,20
 Zhou21b,AZD1222_14d,Human,NULL,15
 Zhou21b,AZD1222_28d,Human,NULL,10
 Zhou21b,BNT162b2_1,Human,NULL,1

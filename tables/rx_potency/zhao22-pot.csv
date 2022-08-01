@@ -1,0 +1,55 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhao22,"ZF2001(0,1,2)",Wuhan-Hu-1,Table S2a,Pseudovirus (VSV),NT50,261.5,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,2)",BA.1 Spike,Table S2a,Pseudovirus (VSV),NT50,14.1,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,2)",BA.1.1 Spike,Table S2a,Pseudovirus (VSV),NT50,11.5,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,2)",BA.2 Spike,Table S2a,Pseudovirus (VSV),NT50,12.6,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,2)",BA.3 Spike:-69del-70del-95I-142D,Table S2a,Pseudovirus (VSV),NT50,9.3,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)",Wuhan-Hu-1,Table S2a,Pseudovirus (VSV),NT50,437.3,9,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)",BA.1 Spike,Table S2a,Pseudovirus (VSV),NT50,54.7,9,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)",BA.1.1 Spike,Table S2a,Pseudovirus (VSV),NT50,46,9,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)",BA.2 Spike,Table S2a,Pseudovirus (VSV),NT50,42.4,9,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)",BA.3 Spike:-69del-70del-95I-142D,Table S2a,Pseudovirus (VSV),NT50,29,9,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval),Wuhan-Hu-1,Table S2a,Pseudovirus (VSV),NT50,2549,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval),BA.1 Spike,Table S2a,Pseudovirus (VSV),NT50,438.3,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval),BA.1.1 Spike,Table S2a,Pseudovirus (VSV),NT50,402.6,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval),BA.2 Spike,Table S2a,Pseudovirus (VSV),NT50,380,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval),BA.3 Spike:-69del-70del-95I-142D,Table S2a,Pseudovirus (VSV),NT50,243.5,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine,Wuhan-Hu-1,Table S2a,Pseudovirus (VSV),NT50,294.5,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine,BA.1 Spike,Table S2a,Pseudovirus (VSV),NT50,31.3,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine,BA.1.1 Spike,Table S2a,Pseudovirus (VSV),NT50,25.5,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine,BA.2 Spike,Table S2a,Pseudovirus (VSV),NT50,39.4,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine,BA.3 Spike:-69del-70del-95I-142D,Table S2a,Pseudovirus (VSV),NT50,21.7,16,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost,Wuhan-Hu-1,Table S2a,Pseudovirus (VSV),NT50,664.1,20,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost,BA.1 Spike,Table S2a,Pseudovirus (VSV),NT50,89.9,20,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost,BA.1.1 Spike,Table S2a,Pseudovirus (VSV),NT50,71.9,20,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost,BA.2 Spike,Table S2a,Pseudovirus (VSV),NT50,73.5,20,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost,BA.3 Spike:-69del-70del-95I-142D,Table S2a,Pseudovirus (VSV),NT50,51.6,20,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo,Wuhan-Hu-1,Table S2a,Pseudovirus (VSV),NT50,257.5,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo,BA.1 Spike,Table S2a,Pseudovirus (VSV),NT50,44,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo,BA.1.1 Spike,Table S2a,Pseudovirus (VSV),NT50,42.7,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo,BA.2 Spike,Table S2a,Pseudovirus (VSV),NT50,28.7,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo,BA.3 Spike:-69del-70del-95I-142D,Table S2a,Pseudovirus (VSV),NT50,20.3,16,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,2)_S2b",Wuhan-Hu-1,Table S2b,Pseudovirus (VSV),NT50,243.7,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,2)_S2b",BA.2 Spike,Table S2b,Pseudovirus (VSV),NT50,18.4,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,2)_S2b",BA.2.12.1 Spike,Table S2b,Pseudovirus (VSV),NT50,10.7,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,2)_S2b",BA.4/5 Spike,Table S2b,Pseudovirus (VSV),NT50,7.7,20,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)_S2b",Wuhan-Hu-1,Table S2b,Pseudovirus (VSV),NT50,572.9,9,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)_S2b",BA.2 Spike,Table S2b,Pseudovirus (VSV),NT50,59,9,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)_S2b",BA.2.12.1 Spike,Table S2b,Pseudovirus (VSV),NT50,41,9,100000,10,NULL,2022-07-29
+Zhao22,"ZF2001(0,1,3)_S2b",BA.4/5 Spike,Table S2b,Pseudovirus (VSV),NT50,24.5,9,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval)_S2b,Wuhan-Hu-1,Table S2b,Pseudovirus (VSV),NT50,2922.8,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval)_S2b,BA.2 Spike,Table S2b,Pseudovirus (VSV),NT50,629.6,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval)_S2b,BA.2.12.1 Spike,Table S2b,Pseudovirus (VSV),NT50,457.5,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001(Prolonged-interval)_S2b,BA.4/5 Spike,Table S2b,Pseudovirus (VSV),NT50,270,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine_S2b,Wuhan-Hu-1,Table S2b,Pseudovirus (VSV),NT50,227.9,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine_S2b,BA.2 Spike,Table S2b,Pseudovirus (VSV),NT50,41.8,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine_S2b,BA.2.12.1 Spike,Table S2b,Pseudovirus (VSV),NT50,30.7,16,100000,10,NULL,2022-07-29
+Zhao22,Inactivated_vaccine_S2b,BA.4/5 Spike,Table S2b,Pseudovirus (VSV),NT50,19.6,16,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost_S2b,Wuhan-Hu-1,Table S2b,Pseudovirus (VSV),NT50,597.9,20,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost_S2b,BA.2 Spike,Table S2b,Pseudovirus (VSV),NT50,80.1,20,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost_S2b,BA.2.12.1 Spike,Table S2b,Pseudovirus (VSV),NT50,56.3,20,100000,10,NULL,2022-07-29
+Zhao22,heterologous_boost_S2b,BA.4/5 Spike,Table S2b,Pseudovirus (VSV),NT50,30.8,20,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo_S2b,Wuhan-Hu-1,Table S2b,Pseudovirus (VSV),NT50,210.6,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo_S2b,BA.2 Spike,Table S2b,Pseudovirus (VSV),NT50,40.3,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo_S2b,BA.2.12.1 Spike,Table S2b,Pseudovirus (VSV),NT50,25.9,16,100000,10,NULL,2022-07-29
+Zhao22,ZF2001_4-7Mo_S2b,BA.4/5 Spike,Table S2b,Pseudovirus (VSV),NT50,16.7,16,100000,10,NULL,2022-07-29

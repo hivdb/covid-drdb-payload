@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose,~,2021-02-01,BNT162b2,2,Israel,NULL
+Tan21,BNT162b2_2dose_Ad26.COV2.S_1dose,~,2021-09-24,Ad26.COV2.S,3,Israel,NULL
+Tan21,BNT162b2_3dose,~,2021-02-01,BNT162b2,2,Israel,NULL
+Tan21,BNT162b2_3dose,~,2021-10-13,BNT162b2,3,Israel,NULL

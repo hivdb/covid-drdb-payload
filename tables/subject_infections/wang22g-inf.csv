@@ -1,0 +1,15 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Wang22g,B.1_inf,~,2020-07-01,B.1,USA,NULL,NULL,Table S1
+Wang22g,Alpha_inf,~,2021-01-01,Alpha,USA,NULL,NULL,Table S1
+Wang22g,Beta_inf,~,2021-01-01,Beta,USA,NULL,NULL,Table S1
+Wang22g,Gamma_inf,~,2021-01-01,Gamma,USA,NULL,NULL,Table S1
+Wang22g,Delta_inf,~,2021-07-01,Delta,USA,NULL,NULL,Table S1
+Wang22g,Epsilon_inf,~,2021-01-01,Epsilon,USA,NULL,NULL,Table S1
+Wang22g,Iota_inf,~,2021-01-01,Iota,USA,NULL,NULL,Table S1
+Wang22g,Lambda_inf,~,2021-01-01,Lambda,USA,NULL,NULL,Table S1
+Wang22g,BA.1_inf,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,Table S1
+Wang22g,Other_inf,~,2021-01-01,Unknown variant,USA,NULL,NULL,Table S1
+Wang22g,Delta_inf_mRNA_2dose,~,2021-06-01,Delta,USA,NULL,NULL,Table S1
+Wang22g,mRNA_2dose_BTI_Delta,~,2021-08-01,Delta,USA,NULL,NULL,Table S1
+Wang22g,mRNA_2dose_BTI_BA.1,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,Table S1
+Wang22g,mRNA_3dose_BTI_BA.1,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,Table S1

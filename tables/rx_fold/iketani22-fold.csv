@@ -1,6 +1,6 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
 Iketani22,CB6,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,428,NULL,NULL,1,2022-02-10
-Iketani22,CB6,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,>,428,NULL,NULL,1,2022-02-10
+Iketani22,CB6,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,428,NULL,NULL,1,2022-02-10
 Iketani22,CB6,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,3,NULL,NULL,1,2022-02-10
 Iketani22,CB6,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2.9,NULL,NULL,1,2022-02-10
 Iketani22,CB6,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2022-02-10
@@ -10,7 +10,7 @@ Iketani22,CB6,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1.9,NULL,NULL,1,2
 Iketani22,CB6,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,26,NULL,NULL,1,2022-02-10
 Iketani22,CB6,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,0.7,NULL,NULL,1,2022-02-10
 Iketani22,BRII-196,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,298,NULL,NULL,1,2022-02-10
-Iketani22,BRII-196,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,135,NULL,NULL,1,2022-02-10
+Iketani22,BRII-196,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,135,NULL,NULL,1,2022-02-10
 Iketani22,BRII-196,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,4.9,NULL,NULL,1,2022-02-10
 Iketani22,BRII-196,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,4,NULL,NULL,1,2022-02-10
 Iketani22,BRII-196,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,2.6,NULL,NULL,1,2022-02-10
@@ -20,7 +20,7 @@ Iketani22,BRII-196,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,3.1,NULL,NUL
 Iketani22,BRII-196,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,2.3,NULL,NULL,1,2022-02-10
 Iketani22,BRII-196,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1.1,NULL,NULL,1,2022-02-10
 Iketani22,1-20,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,429,NULL,NULL,1,2022-02-10
-Iketani22,1-20,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,>,429,NULL,NULL,1,2022-02-10
+Iketani22,1-20,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,429,NULL,NULL,1,2022-02-10
 Iketani22,1-20,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,5.3,NULL,NULL,1,2022-02-10
 Iketani22,1-20,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,4.6,NULL,NULL,1,2022-02-10
 Iketani22,1-20,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,2,NULL,NULL,1,2022-02-10
@@ -30,7 +30,7 @@ Iketani22,1-20,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,2.5,NULL,NULL,1,
 Iketani22,1-20,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,2.9,NULL,NULL,1,2022-02-10
 Iketani22,1-20,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,2022-02-10
 Iketani22,REGN10933,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,2201,NULL,NULL,1,2022-02-10
-Iketani22,REGN10933,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,415,NULL,NULL,1,2022-02-10
+Iketani22,REGN10933,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,415,NULL,NULL,1,2022-02-10
 Iketani22,REGN10933,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,3.7,NULL,NULL,1,2022-02-10
 Iketani22,REGN10933,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,3.2,NULL,NULL,1,2022-02-10
 Iketani22,REGN10933,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,2022-02-10
@@ -40,7 +40,7 @@ Iketani22,REGN10933,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,2.1,NULL,NU
 Iketani22,REGN10933,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,2.8,NULL,NULL,1,2022-02-10
 Iketani22,REGN10933,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1.1,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2196,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,306,NULL,NULL,1,2022-02-10
-Iketani22,COV2-2196,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,187,NULL,NULL,1,2022-02-10
+Iketani22,COV2-2196,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,187,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2196,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,1.9,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2196,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2.4,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2196,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2022-02-10
@@ -50,7 +50,7 @@ Iketani22,COV2-2196,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1.3,NULL,NU
 Iketani22,COV2-2196,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,2.1,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2196,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,0.7,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV555,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,1496,NULL,NULL,1,2022-02-10
-Iketani22,LY-CoV555,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,>,1496,NULL,NULL,1,2022-02-10
+Iketani22,LY-CoV555,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,1496,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV555,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,2.2,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV555,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2.4,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV555,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2022-02-10
@@ -60,7 +60,7 @@ Iketani22,LY-CoV555,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1.7,NULL,NU
 Iketani22,LY-CoV555,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,1.9,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV555,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1.6,NULL,NULL,1,2022-02-10
 Iketani22,2-15,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,2716,NULL,NULL,1,2022-02-10
-Iketani22,2-15,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,>,2716,NULL,NULL,1,2022-02-10
+Iketani22,2-15,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,2716,NULL,NULL,1,2022-02-10
 Iketani22,2-15,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,2,NULL,NULL,1,2022-02-10
 Iketani22,2-15,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2.8,NULL,NULL,1,2022-02-10
 Iketani22,2-15,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2022-02-10
@@ -70,7 +70,7 @@ Iketani22,2-15,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,
 Iketani22,2-15,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,1.7,NULL,NULL,1,2022-02-10
 Iketani22,2-15,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,2022-02-10
 Iketani22,REGN10987,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,1716,NULL,NULL,1,2022-02-10
-Iketani22,REGN10987,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,>,1716,NULL,NULL,1,2022-02-10
+Iketani22,REGN10987,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,1716,NULL,NULL,1,2022-02-10
 Iketani22,REGN10987,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,2.1,NULL,NULL,1,2022-02-10
 Iketani22,REGN10987,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,4.2,NULL,NULL,1,2022-02-10
 Iketani22,REGN10987,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,2022-02-10
@@ -80,7 +80,7 @@ Iketani22,REGN10987,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1.9,NULL,NU
 Iketani22,REGN10987,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,1.6,NULL,NULL,1,2022-02-10
 Iketani22,REGN10987,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,0.8,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2130,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,84,NULL,NULL,1,2022-02-10
-Iketani22,COV2-2130,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,687,NULL,NULL,1,2022-02-10
+Iketani22,COV2-2130,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,687,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2130,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2130,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2.1,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2130,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2022-02-10
@@ -90,7 +90,7 @@ Iketani22,COV2-2130,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1.8,NULL,NU
 Iketani22,COV2-2130,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2022-02-10
 Iketani22,COV2-2130,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2022-02-10
 Iketani22,S309,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,6.9,NULL,NULL,1,2022-02-10
-Iketani22,S309,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,4.5,NULL,NULL,1,2022-02-10
+Iketani22,S309,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,4.5,NULL,NULL,1,2022-02-10
 Iketani22,S309,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,1.8,NULL,NULL,1,2022-02-10
 Iketani22,S309,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2022-02-10
 Iketani22,S309,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,2022-02-10
@@ -100,7 +100,7 @@ Iketani22,S309,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,20
 Iketani22,S309,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,0.7,NULL,NULL,1,2022-02-10
 Iketani22,S309,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1,NULL,NULL,1,2022-02-10
 Iketani22,2-7,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,195,NULL,NULL,1,2022-02-10
-Iketani22,2-7,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,82,NULL,NULL,1,2022-02-10
+Iketani22,2-7,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,82,NULL,NULL,1,2022-02-10
 Iketani22,2-7,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,5.1,NULL,NULL,1,2022-02-10
 Iketani22,2-7,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2.6,NULL,NULL,1,2022-02-10
 Iketani22,2-7,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,2.8,NULL,NULL,1,2022-02-10
@@ -110,7 +110,7 @@ Iketani22,2-7,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,2.7,NULL,NULL,1,2
 Iketani22,2-7,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,3.1,NULL,NULL,1,2022-02-10
 Iketani22,2-7,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,0.8,NULL,NULL,1,2022-02-10
 Iketani22,BRII-198,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,0.4,NULL,NULL,1,2022-02-10
-Iketani22,BRII-198,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,>,22,NULL,NULL,1,2022-02-10
+Iketani22,BRII-198,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,22,NULL,NULL,1,2022-02-10
 Iketani22,BRII-198,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,1.6,NULL,NULL,1,2022-02-10
 Iketani22,BRII-198,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2.2,NULL,NULL,1,2022-02-10
 Iketani22,BRII-198,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,0.5,NULL,NULL,1,2022-02-10
@@ -120,7 +120,7 @@ Iketani22,BRII-198,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,0.5,NULL,NUL
 Iketani22,BRII-198,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,1.6,NULL,NULL,1,2022-02-10
 Iketani22,BRII-198,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,0.7,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV1404,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,0.7,NULL,NULL,1,2022-02-10
-Iketani22,LY-CoV1404,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,0.7,NULL,NULL,1,2022-02-10
+Iketani22,LY-CoV1404,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,0.7,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV1404,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,1.7,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV1404,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,1.6,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV1404,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2022-02-10
@@ -130,7 +130,7 @@ Iketani22,LY-CoV1404,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1.7,NULL,N
 Iketani22,LY-CoV1404,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,0.8,NULL,NULL,1,2022-02-10
 Iketani22,LY-CoV1404,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2022-02-10
 Iketani22,ADG-2,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,11,NULL,NULL,1,2022-02-10
-Iketani22,ADG-2,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,16,NULL,NULL,1,2022-02-10
+Iketani22,ADG-2,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,16,NULL,NULL,1,2022-02-10
 Iketani22,ADG-2,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,1.7,NULL,NULL,1,2022-02-10
 Iketani22,ADG-2,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,2022-02-10
 Iketani22,ADG-2,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,0.9,NULL,NULL,1,2022-02-10
@@ -140,7 +140,7 @@ Iketani22,ADG-2,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,0.9,NULL,NULL,1
 Iketani22,ADG-2,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,0.3,NULL,NULL,1,2022-02-10
 Iketani22,ADG-2,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1.6,NULL,NULL,1,2022-02-10
 Iketani22,DH1047,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,14,NULL,NULL,1,2022-02-10
-Iketani22,DH1047,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,7.9,NULL,NULL,1,2022-02-10
+Iketani22,DH1047,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,7.9,NULL,NULL,1,2022-02-10
 Iketani22,DH1047,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2022-02-10
 Iketani22,DH1047,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,1.1,NULL,NULL,1,2022-02-10
 Iketani22,DH1047,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,0.6,NULL,NULL,1,2022-02-10
@@ -150,7 +150,7 @@ Iketani22,DH1047,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,0.9,NULL,NULL,
 Iketani22,DH1047,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2022-02-10
 Iketani22,DH1047,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,2.1,NULL,NULL,1,2022-02-10
 Iketani22,10-40,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,21,NULL,NULL,1,2022-02-10
-Iketani22,10-40,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,21,NULL,NULL,1,2022-02-10
+Iketani22,10-40,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,21,NULL,NULL,1,2022-02-10
 Iketani22,10-40,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,2.7,NULL,NULL,1,2022-02-10
 Iketani22,10-40,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2.4,NULL,NULL,1,2022-02-10
 Iketani22,10-40,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,1.8,NULL,NULL,1,2022-02-10
@@ -160,7 +160,7 @@ Iketani22,10-40,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1
 Iketani22,10-40,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,3.9,NULL,NULL,1,2022-02-10
 Iketani22,10-40,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2022-02-10
 Iketani22,S2X259,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,14,NULL,NULL,1,2022-02-10
-Iketani22,S2X259,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,7.5,NULL,NULL,1,2022-02-10
+Iketani22,S2X259,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,7.5,NULL,NULL,1,2022-02-10
 Iketani22,S2X259,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,2.9,NULL,NULL,1,2022-02-10
 Iketani22,S2X259,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,2,NULL,NULL,1,2022-02-10
 Iketani22,S2X259,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,0.9,NULL,NULL,1,2022-02-10
@@ -170,7 +170,7 @@ Iketani22,S2X259,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,2.3,NULL,NULL,
 Iketani22,S2X259,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,2.2,NULL,NULL,1,2022-02-10
 Iketani22,S2X259,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,3.6,NULL,NULL,1,2022-02-10
 Iketani22,4-18,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,27,NULL,NULL,1,2022-02-10
-Iketani22,4-18,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,>,27,NULL,NULL,1,2022-02-10
+Iketani22,4-18,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,>,27,NULL,NULL,1,2022-02-10
 Iketani22,4-18,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,6.1,NULL,NULL,1,2022-02-10
 Iketani22,4-18,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,3.1,NULL,NULL,1,2022-02-10
 Iketani22,4-18,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,23,NULL,NULL,1,2022-02-10
@@ -180,7 +180,7 @@ Iketani22,4-18,S:614G,S:376A,Figure 2b,Pseudovirus (VSV),IC50,=,0.8,NULL,NULL,1,
 Iketani22,4-18,S:614G,S:405N,Figure 2b,Pseudovirus (VSV),IC50,=,0.2,NULL,NULL,1,2022-02-10
 Iketani22,4-18,S:614G,S:408S,Figure 2b,Pseudovirus (VSV),IC50,=,0.9,NULL,NULL,1,2022-02-10
 Iketani22,5-7,S:614G,BA.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,4.1,NULL,NULL,1,2022-02-10
-Iketani22,5-7,S:614G,BA.1 Spike:+346K,Figure 2b,Pseudovirus (VSV),IC50,=,5.5,NULL,NULL,1,2022-02-10
+Iketani22,5-7,S:614G,BA.1.1 Spike,Figure 2b,Pseudovirus (VSV),IC50,=,5.5,NULL,NULL,1,2022-02-10
 Iketani22,5-7,S:614G,S:19I,Figure 2b,Pseudovirus (VSV),IC50,=,3.3,NULL,NULL,1,2022-02-10
 Iketani22,5-7,S:614G,S:24S,Figure 2b,Pseudovirus (VSV),IC50,=,1.1,NULL,NULL,1,2022-02-10
 Iketani22,5-7,S:614G,S:25del+26del+27del,Figure 2b,Pseudovirus (VSV),IC50,=,17,NULL,NULL,1,2022-02-10

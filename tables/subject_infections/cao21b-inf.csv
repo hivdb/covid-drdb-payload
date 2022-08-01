@@ -1,0 +1,11 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Cao21b,CE1,=,2020-02-02,B,China,NULL,NULL,Table S1
+Cao21b,CE2,=,2020-01-23,B,China,NULL,Severe,Table S1
+Cao21b,CE3,=,2020-01-25,B,China,NULL,NULL,Table S1
+Cao21b,CE4,=,2020-02-05,B,China,NULL,NULL,Table S1
+Cao21b,CE5,=,2020-01-24,B,China,NULL,NULL,Table S1
+Cao21b,CE6,=,2020-02-06,B,China,NULL,Severe,Table S1
+Cao21b,CE7,=,2020-02-10,B,China,NULL,NULL,Table S1
+Cao21b,CE8,=,2020-02-05,B,China,NULL,NULL,Table S1
+Cao21b,CE9,=,2020-02-16,B,China,NULL,NULL,Table S1
+Cao21b,CE10,=,2020-02-07,B,China,NULL,Severe,Table S1
