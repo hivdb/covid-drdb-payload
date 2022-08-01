@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Moy22,BNT162b2_2dose,S:614G,Figure1a,Pseudovirus,NT50,602.6,29,10000,20,NULL,2022-08-01
+Moy22,BNT162b2_2dose,B.1.617.2 Spike,Figure1a,Pseudovirus,NT50,275.4,29,10000,20,NULL,2022-08-01
+Moy22,BNT162b2_2dose,BA.1 Spike,Figure1a,Pseudovirus,NT50,17.14,29,10000,20,NULL,2022-08-01
+Moy22,BNT162b2_2dose_infected,S:614G,Figure1a,Pseudovirus,NT50,2526,27,10000,20,NULL,2022-08-01
+Moy22,BNT162b2_2dose_infected,B.1.617.2 Spike,Figure1a,Pseudovirus,NT50,915,27,10000,20,NULL,2022-08-01
+Moy22,BNT162b2_2dose_infected,BA.1 Spike,Figure1a,Pseudovirus,NT50,352,27,10000,20,NULL,2022-08-01
