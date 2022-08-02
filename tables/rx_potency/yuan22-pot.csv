@@ -1,191 +1,191 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Yuan22,LY-CoV16,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,9,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,9,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,1,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,1,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,7,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,11,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,122,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,25,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,81,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,355,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,262,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,187,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,72,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,133,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,29,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,17,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,0.3,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,16,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,120,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,3,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,9,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,77,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,181,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,125,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,371,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,76,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,4,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,295,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,13,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,7,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,20,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,15,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,85,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,157,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,85,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,169,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,233,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,231,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,10,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,4,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,17,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,13,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,46,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,330,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,42,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,39,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,37,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,4,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,484,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,1,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,7,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,27,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,60,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,174,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,14,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,133,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,487,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,86,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,149,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,162,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,33,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,24,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,234,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,3,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,19,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,167,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,37,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,13,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,11,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,15,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,104,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,457,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,114,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,266,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,88,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,1313,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,1203,1,5000,1,ng/ml,3/17/22
+Yuan22,LY-CoV16,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,9,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,9,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,1,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,1,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,7,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,11,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,122,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,25,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,81,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,355,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,262,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,187,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,Wuhan-Hu-1,Figure 2A,Pseudovirus (MLV),IC50,72,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,133,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,29,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,17,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,0.3,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,16,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,120,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,3,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,5,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,9,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,77,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,181,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,125,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,371,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,B.1.1.7 Spike,Figure 2A,Pseudovirus (MLV),IC50,76,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,4,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,295,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,13,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,7,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,20,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,15,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,85,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,157,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,85,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,169,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,B.1.351 Spike,Figure 2A,Pseudovirus (MLV),IC50,233,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,231,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,10,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,4,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,17,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,13,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,46,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,330,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,42,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,39,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,P.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,37,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,4,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,484,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,1,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,7,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,27,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,60,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,174,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,12,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,14,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,133,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,487,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,86,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,149,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,B.1.617.2 Spike,Figure 2A,Pseudovirus (MLV),IC50,162,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,33,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,24,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,234,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,3,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,19,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,167,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,37,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,13,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,11,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,15,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,104,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,457,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,114,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,266,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,B.1.621 Spike,Figure 2A,Pseudovirus (MLV),IC50,88,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,1313,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,1203,1,5000,1,ng/ml,2022-03-17
 Yuan22,K398.22,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,79,1,5000,1,ng/ml,2022-08-02
-Yuan22,S2X259,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,1612,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,925,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,13,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,110,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,31,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,31,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,138,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,184,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,19,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,2064,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,47,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,60,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,45,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CC12.3,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV16 + LY-CoV555,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C121,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD8895,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10933,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,LY-CoV555,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,C144,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,CV07-270,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,AZD1061+AZD8895,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,REGN10987+REGN10933,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,ADG20,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,3/17/22
-Yuan22,K398.22,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,21,1,5000,1,ng/ml,3/17/22
-Yuan22,S2X259,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,55,1,5000,1,ng/ml,3/17/22
-Yuan22,DH1047,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,62,1,5000,1,ng/ml,3/17/22
-Yuan22,COVA1-16,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,3/17/22
-Yuan22,S309,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,37,1,5000,1,ng/ml,3/17/22
+Yuan22,S2X259,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,1612,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,BA.1 Spike,Figure 2A,Pseudovirus (MLV),IC50,925,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,2,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,13,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,110,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,31,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,SARS-CoV Spike,Figure 2A,Pseudovirus (MLV),IC50,31,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,138,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,184,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,19,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,2064,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,47,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,60,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,Pang17 Spike,Figure 2A,Pseudovirus (MLV),IC50,45,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CC12.3,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV16 + LY-CoV555,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C121,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD8895,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10933,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,LY-CoV555,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,C144,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,CV07-270,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,AZD1061+AZD8895,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,REGN10987+REGN10933,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,ADG20,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,6,1,5000,1,ng/ml,2022-03-17
+Yuan22,K398.22,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,21,1,5000,1,ng/ml,2022-03-17
+Yuan22,S2X259,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,55,1,5000,1,ng/ml,2022-03-17
+Yuan22,DH1047,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,62,1,5000,1,ng/ml,2022-03-17
+Yuan22,COVA1-16,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,5000,1,5000,1,ng/ml,2022-03-17
+Yuan22,S309,WIV1 Spike,Figure 2A,Pseudovirus (MLV),IC50,37,1,5000,1,ng/ml,2022-03-17
