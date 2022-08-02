@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Choi22,AZD1222_2dose_BNT162b2_1dose,AZD1222_2dose_BNT162b2_1dose_after__2nd,~,2021-02-18,South Korea,AZD1222_2dose_BNT162b2_1dose,NULL
+Choi22,AZD1222_2dose_BNT162b2_1dose,AZD1222_2dose_BNT162b2_1dose_before_3rd,~,2021-07-01,South Korea,AZD1222_2dose_BNT162b2_1dose,NULL
+Choi22,AZD1222_2dose_BNT162b2_1dose,AZD1222_2dose_BNT162b2_1dose_after__3rd,~,2021-08-18,South Korea,AZD1222_2dose_BNT162b2_1dose,NULL
+Choi22,AZD1222_1dose_BNT162b2_2dose,AZD1222_1dose_BNT162b2_2dose_after__2nd,~,2021-02-18,South Korea,AZD1222_1dose_BNT162b2_2dose,NULL
+Choi22,AZD1222_1dose_BNT162b2_2dose,AZD1222_1dose_BNT162b2_2dose_before_3rd,~,2021-07-01,South Korea,AZD1222_1dose_BNT162b2_2dose,NULL
+Choi22,AZD1222_1dose_BNT162b2_2dose,AZD1222_1dose_BNT162b2_2dose_after__3rd,~,2021-08-18,South Korea,AZD1222_1dose_BNT162b2_2dose,NULL
+Choi22,BNT162b2_3dose,BNT162b2_3dose_after__2nd,~,2021-02-18,South Korea,BNT162b2_3dose,NULL
+Choi22,BNT162b2_3dose,BNT162b2_3dose_before_3rd,~,2021-07-01,South Korea,BNT162b2_3dose,NULL
+Choi22,BNT162b2_3dose,BNT162b2_3dose_after__3rd,~,2021-08-18,South Korea,BNT162b2_3dose,NULL

@@ -1,0 +1,28 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Choi22,AZD1222_2dose_BNT162b2_1dose_after__2nd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,25,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_2dose_BNT162b2_1dose_before_3rd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,9,15,32768,5,NULL,2022-08-01
+Choi22,AZD1222_2dose_BNT162b2_1dose_after__3rd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,260,15,32768,5,NULL,2022-08-01
+Choi22,AZD1222_2dose_BNT162b2_1dose_after__2nd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,163,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_2dose_BNT162b2_1dose_before_3rd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,23,15,32768,5,NULL,2022-08-01
+Choi22,AZD1222_2dose_BNT162b2_1dose_after__3rd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,988,15,32768,5,NULL,2022-08-01
+Choi22,AZD1222_2dose_BNT162b2_1dose_after__2nd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,449,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_2dose_BNT162b2_1dose_before_3rd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,221,15,32768,5,NULL,2022-08-01
+Choi22,AZD1222_2dose_BNT162b2_1dose_after__3rd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,4632,15,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_after__2nd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,107,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_before_3rd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,24,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_after__3rd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,230,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_after__2nd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,1097,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_before_3rd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,90,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_after__3rd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,1279,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_after__2nd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,2463,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_before_3rd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,249,20,32768,5,NULL,2022-08-01
+Choi22,AZD1222_1dose_BNT162b2_2dose_after__3rd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,2757,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_after__2nd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,38,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_before_3rd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,35,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_after__3rd,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,628,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_after__2nd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,674,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_before_3rd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,86,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_after__3rd,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,2315,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_after__2nd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,2364,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_before_3rd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,342,20,32768,5,NULL,2022-08-01
+Choi22,BNT162b2_3dose_after__3rd,Wuhan-Hu-1,Figure 1,Virus isolate,NT50,3916,20,32768,5,NULL,2022-08-01
