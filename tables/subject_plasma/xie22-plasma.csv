@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Xie22,mRNA_4dose,mRNA_3dose_3to8months,~,2022-01-01,USA,mRNA_4dose,NULL
+Xie22,mRNA_4dose,mRNA_4dose_1to3months,~,2022-03-15,USA,mRNA_4dose,NULL
+Xie22,BA1_infection_mRNA_2dose,BA1_infection_mRNA_2dose_3to13months,~,2021-10-01,USA,BA1_infection_mRNA_2dose,NULL
+Xie22,BA1_infection_mRNA_3dose,BA1_infection_mRNA_3dose_1to5months,~,2021-11-01,USA,BA1_infection_mRNA_3dose,NULL
