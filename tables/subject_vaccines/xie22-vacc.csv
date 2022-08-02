@@ -1,10 +1,10 @@
 ﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
-Xie22,mRNA_4dose,~,2021-01-01,mRNA,1,USA,NULL
-Xie22,mRNA_4dose,~,2021-02-01,mRNA,2,USA,NULL
-Xie22,mRNA_4dose,~,2021-08-01,mRNA,3,USA,NULL
-Xie22,mRNA_4dose,~,2022-01-15,mRNA,4,USA,NULL
-Xie22,BA1_infection_mRNA_2dose,~,2021-01-01,mRNA,1,USA,NULL
-Xie22,BA1_infection_mRNA_2dose,~,2021-02-01,mRNA,2,USA,NULL
-Xie22,BA1_infection_mRNA_3dose,~,2021-01-01,mRNA,1,USA,NULL
-Xie22,BA1_infection_mRNA_3dose,~,2021-02-01,mRNA,2,USA,NULL
-Xie22,BA1_infection_mRNA_3dose,~,2021-08-01,mRNA,3,USA,NULL
+Xie22,mRNA_4dose,~,2021-01-01,BNT162b2 or mRNA-1273,1,USA,NULL
+Xie22,mRNA_4dose,~,2021-02-01,BNT162b2 or mRNA-1273,2,USA,NULL
+Xie22,mRNA_4dose,~,2021-08-01,BNT162b2 or mRNA-1273,3,USA,NULL
+Xie22,mRNA_4dose,~,2022-01-15,BNT162b2 or mRNA-1273,4,USA,NULL
+Xie22,BA1_infection_mRNA_2dose,~,2021-01-01,BNT162b2 or mRNA-1273,1,USA,NULL
+Xie22,BA1_infection_mRNA_2dose,~,2021-02-01,BNT162b2 or mRNA-1273,2,USA,NULL
+Xie22,BA1_infection_mRNA_3dose,~,2021-01-01,BNT162b2 or mRNA-1273,1,USA,NULL
+Xie22,BA1_infection_mRNA_3dose,~,2021-02-01,BNT162b2 or mRNA-1273,2,USA,NULL
+Xie22,BA1_infection_mRNA_3dose,~,2021-08-01,BNT162b2 or mRNA-1273,3,USA,NULL
