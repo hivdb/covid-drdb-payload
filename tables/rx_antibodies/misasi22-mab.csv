@@ -1,0 +1,26 @@
+ref_name,rx_name,ab_name
+Misasi22,B1-182.1,B1-182.1
+Misasi22,COV2-2196,Tixagevimab
+Misasi22,CB6,Etesevimab
+Misasi22,REGN10933,Casirivimab
+Misasi22,CT-P59,Regdanvimab
+Misasi22,A19-46.1,A19-46.1
+Misasi22,LY-COV555,Bamlanivimab
+Misasi22,A19-61.1,A19-61.1
+Misasi22,REGN10987,Imdevimab
+Misasi22,COV2-2130,Cilgavimab
+Misasi22,S309,Sotrovimab
+Misasi22,LY-CoV1404,Bebtelovimab
+Misasi22,CB6 + LY-CoV555,Etesevimab
+Misasi22,CB6 + LY-CoV555,Bamlanivimab
+Misasi22,REGN10933 + REGN10987,Casirivimab
+Misasi22,REGN10933 + REGN10987,Imdevimab
+Misasi22,COV2-2196 + COV2-2130,Tixagevimab
+Misasi22,COV2-2196 + COV2-2130,Cilgavimab
+Misasi22,B1-182.1 + A19-46.1,B1-182.1
+Misasi22,B1-182.1 + A19-46.1,A19-46.1
+Misasi22,B1-182.1 + A19-61.1,B1-182.1
+Misasi22,B1-182.1 + A19-61.1,A19-61.1
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B1-182.1
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,A19-46.1
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,A19-61.1
