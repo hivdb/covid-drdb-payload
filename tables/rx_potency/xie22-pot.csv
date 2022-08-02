@@ -1,0 +1,25 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Xie22,mRNA_3dose_3to8months,WA1,Figure 1A,VSV chimeric virus,NT50,144,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_3dose_3to8months,BA.1 Spike,Figure 1A,VSV chimeric virus,NT50,32,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_3dose_3to8months,BA.2 Spike,Figure 1A,VSV chimeric virus,NT50,24,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_3dose_3to8months,BA.2.12.1 Spike,Figure 1A,VSV chimeric virus,NT50,25,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_3dose_3to8months,BA.3 Spike,Figure 1A,VSV chimeric virus,NT50,20,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_3dose_3to8months,BA.4/5 Spike,Figure 1A,VSV chimeric virus,NT50,17,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_4dose_1to3months,WA1,Figure 1B,VSV chimeric virus,NT50,1554,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_4dose_1to3months,BA.1 Spike,Figure 1B,VSV chimeric virus,NT50,357,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_4dose_1to3months,BA.2 Spike,Figure 1B,VSV chimeric virus,NT50,236,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_4dose_1to3months,BA.2.12.1 Spike,Figure 1B,VSV chimeric virus,NT50,236,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_4dose_1to3months,BA3_Spike,Figure 1B,VSV chimeric virus,NT50,165,25,20480,20,NULL,2022-08-02
+Xie22,mRNA_4dose_1to3months,BA.4/5 Spike,Figure 1B,VSV chimeric virus,NT50,95,25,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_2dose_3to13months,WA1,Figure 2A,VSV chimeric virus,NT50,2114,29,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_2dose_3to13months,BA.1 Spike,Figure 2A,VSV chimeric virus,NT50,1705,29,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_2dose_3to13months,BA.2 Spike,Figure 2A,VSV chimeric virus,NT50,730,29,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_2dose_3to13months,BA.2.12.1 Spike,Figure 2A,VSV chimeric virus,NT50,961,29,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_2dose_3to13months,BA3_Spike,Figure 2A,VSV chimeric virus,NT50,813,29,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_2dose_3to13months,BA.4/5 Spike,Figure 2A,VSV chimeric virus,NT50,274,29,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_3dose_1to5months,WA1,Figure 2A,VSV chimeric virus,NT50,2962,38,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_3dose_1to5months,BA.1 Spike,Figure 2A,VSV chimeric virus,NT50,2038,38,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_3dose_1to5months,BA.2 Spike,Figure 2A,VSV chimeric virus,NT50,983,38,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_3dose_1to5months,BA.2.12.1 Spike,Figure 2A,VSV chimeric virus,NT50,1190,38,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_3dose_1to5months,BA3_Spike,Figure 2A,VSV chimeric virus,NT50,1019,38,20480,20,NULL,2022-08-02
+Xie22,BA1_infection_mRNA_3dose_1to5months,BA.4/5 Spike,Figure 2A,VSV chimeric virus,NT50,297,38,20480,20,NULL,2022-08-02
