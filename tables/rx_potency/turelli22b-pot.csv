@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Turelli22b,P2G3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,15,1,20000,10,ng/ml,2022-08-02
 Turelli22b,P5C3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,20000,1,20000,10,ng/ml,2022-08-02
 Turelli22b,P2G3 + P5C3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,32,1,20000,10,ng/ml,2022-08-02
