@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Xie22,mRNA_3dose_3to8months,WA1,Figure 1A,VSV chimeric virus,NT50,144,25,20480,20,NULL,2022-08-02
 Xie22,mRNA_3dose_3to8months,BA.1 Spike,Figure 1A,VSV chimeric virus,NT50,32,25,20480,20,NULL,2022-08-02
 Xie22,mRNA_3dose_3to8months,BA.2 Spike,Figure 1A,VSV chimeric virus,NT50,24,25,20480,20,NULL,2022-08-02
