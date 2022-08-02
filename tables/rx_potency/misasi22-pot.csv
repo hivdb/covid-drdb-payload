@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Misasi22,B1-182.1,S:614G,Figure 1A,Pseudovirus (lentivirus),NC50,10.0,1,67000,10,ng/ml,2022-08-02
 Misasi22,COV2-2196,S:614G,Figure 1A,Pseudovirus (lentivirus),NC50,9.8,1,67000,10,ng/ml,2022-08-02
 Misasi22,CB6,S:614G,Figure 1A,Pseudovirus (lentivirus),NC50,155,1,67000,10,ng/ml,2022-08-02
