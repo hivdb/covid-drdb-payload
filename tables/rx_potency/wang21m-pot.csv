@@ -1,5 +1,5 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Wang21m,mRNA_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,870,20,10000,40,NULL,2022-08-03
+Wang21m,mRNA_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,870,20,10000,40,NULL,2022-08-03
 Wang21m,mRNA_2dose,S:614G,Figure 2a,SARS-CoV-2 recombinant,NT50,847,20,10000,40,NULL,2022-08-03
 Wang21m,mRNA_2dose,B.1.1.7 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,687,20,10000,40,NULL,2022-08-03
 Wang21m,mRNA_2dose,B.1.351 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,142,20,10000,40,NULL,2022-08-03
@@ -17,7 +17,7 @@ Wang21m,mRNA_2dose,B.1.617.3 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,463,20,
 Wang21m,mRNA_2dose,C.37 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,305,20,10000,40,NULL,2022-08-03
 Wang21m,mRNA_2dose,B.1.621 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,170,20,10000,40,NULL,2022-08-03
 Wang21m,mRNA_2dose,BA.1 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,28,20,10000,5,NULL,2022-08-03
-Wang21m,mRNA_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,614,20,10000,10,NULL,2022-08-03
+Wang21m,mRNA_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,614,20,10000,10,NULL,2022-08-03
 Wang21m,mRNA_2dose,B.1.1.7 full genome,Figure 2b,Virus isolate,NT50,568,20,10000,10,NULL,2022-08-03
 Wang21m,mRNA_2dose,B.1.351 full genome,Figure 2b,Virus isolate,NT50,162,20,10000,10,NULL,2022-08-03
 Wang21m,mRNA_2dose,P.1 full genome,Figure 2b,Virus isolate,NT50,381,20,10000,10,NULL,2022-08-03
@@ -31,32 +31,32 @@ Wang21m,mRNA_2dose,S:18F+80A+215G+242del+243del+244del+417N+484K+614G+701V,Figur
 Wang21m,mRNA_2dose,S:18F+80A+215G+242del+243del+244del+417N+501Y+614G+701V,Figure 2c,SARS-CoV-2 recombinant,NT50,489,20,10000,40,NULL,2022-07-25
 Wang21m,mRNA_2dose,B.1.351 RBD,Figure 2c,SARS-CoV-2 recombinant,NT50,268,20,10000,40,NULL,2022-07-25
 Wang21m,mRNA_2dose,B.1.351 NTD,Figure 2c,SARS-CoV-2 recombinant,NT50,307,20,10000,40,NULL,2022-07-25
-Wang21m,mRNA_2dose_preboost,Wuhan-Hu-1,Extended Data Fig 1,Virus isolate,NT50,171,10,10000,5,NULL,2022-07-25
+Wang21m,mRNA_2dose_preboost,CDC-RG-3015781631,Extended Data Fig 1,Virus isolate,NT50,171,10,10000,5,NULL,2022-07-25
 Wang21m,mRNA_2dose_preboost,B.1.351 full genome,Extended Data Fig 1,Virus isolate,NT50,9,10,10000,5,NULL,2022-07-25
 Wang21m,mRNA_2dose_preboost,Omicron/BA.1 full genome,Extended Data Fig 1,Virus isolate,NT50,5,10,10000,5,NULL,2022-07-25
-Wang21m,mRNA_3dose,Wuhan-Hu-1,Extended Data Fig 1,Virus isolate,NT50,4130,10,10000,5,NULL,2022-07-25
+Wang21m,mRNA_3dose,CDC-RG-3015781631,Extended Data Fig 1,Virus isolate,NT50,4130,10,10000,5,NULL,2022-07-25
 Wang21m,mRNA_3dose,B.1.351 full genome,Extended Data Fig 1,Virus isolate,NT50,483,10,10000,5,NULL,2022-07-25
 Wang21m,mRNA_3dose,Omicron/BA.1 full genome,Extended Data Fig 1,Virus isolate,NT50,214,10,10000,5,NULL,2022-07-25
-Wang21m,S1_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,2977,1,10000,40,NULL,2022-08-03
-Wang21m,S2_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,242,1,10000,40,NULL,2022-08-03
-Wang21m,S3_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,1327,1,10000,40,NULL,2022-08-03
-Wang21m,S4_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,1554,1,10000,40,NULL,2022-08-03
-Wang21m,S5_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,970,1,10000,40,NULL,2022-08-03
-Wang21m,S6_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,975,1,10000,40,NULL,2022-08-03
-Wang21m,S7_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,4177,1,10000,40,NULL,2022-08-03
-Wang21m,S8_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,905,1,10000,40,NULL,2022-08-03
-Wang21m,S9_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,755,1,10000,40,NULL,2022-08-03
-Wang21m,S10_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,446,1,10000,40,NULL,2022-08-03
-Wang21m,S11_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,753,1,10000,40,NULL,2022-08-03
-Wang21m,S12_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,162,1,10000,40,NULL,2022-08-03
-Wang21m,S13_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,628,1,10000,40,NULL,2022-08-03
-Wang21m,S14_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,613,1,10000,40,NULL,2022-08-03
-Wang21m,S15_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,1132,1,10000,40,NULL,2022-08-03
-Wang21m,S16_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,993,1,10000,40,NULL,2022-08-03
-Wang21m,S17_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,878,1,10000,40,NULL,2022-08-03
-Wang21m,S18_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,875,1,10000,40,NULL,2022-08-03
-Wang21m,S19_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,1332,1,10000,40,NULL,2022-08-03
-Wang21m,S20_2dose,Wuhan-Hu-1,Figure 2a,SARS-CoV-2 recombinant,NT50,629,1,10000,40,NULL,2022-08-03
+Wang21m,S1_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,2977,1,10000,40,NULL,2022-08-03
+Wang21m,S2_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,242,1,10000,40,NULL,2022-08-03
+Wang21m,S3_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,1327,1,10000,40,NULL,2022-08-03
+Wang21m,S4_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,1554,1,10000,40,NULL,2022-08-03
+Wang21m,S5_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,970,1,10000,40,NULL,2022-08-03
+Wang21m,S6_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,975,1,10000,40,NULL,2022-08-03
+Wang21m,S7_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,4177,1,10000,40,NULL,2022-08-03
+Wang21m,S8_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,905,1,10000,40,NULL,2022-08-03
+Wang21m,S9_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,755,1,10000,40,NULL,2022-08-03
+Wang21m,S10_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,446,1,10000,40,NULL,2022-08-03
+Wang21m,S11_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,753,1,10000,40,NULL,2022-08-03
+Wang21m,S12_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,162,1,10000,40,NULL,2022-08-03
+Wang21m,S13_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,628,1,10000,40,NULL,2022-08-03
+Wang21m,S14_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,613,1,10000,40,NULL,2022-08-03
+Wang21m,S15_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,1132,1,10000,40,NULL,2022-08-03
+Wang21m,S16_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,993,1,10000,40,NULL,2022-08-03
+Wang21m,S17_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,878,1,10000,40,NULL,2022-08-03
+Wang21m,S18_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,875,1,10000,40,NULL,2022-08-03
+Wang21m,S19_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,1332,1,10000,40,NULL,2022-08-03
+Wang21m,S20_2dose,CDC-RG-3015781631,Figure 2a,SARS-CoV-2 recombinant,NT50,629,1,10000,40,NULL,2022-08-03
 Wang21m,S1_2dose,S:614G,Figure 2a,SARS-CoV-2 recombinant,NT50,3471,1,10000,40,NULL,2022-08-03
 Wang21m,S2_2dose,S:614G,Figure 2a,SARS-CoV-2 recombinant,NT50,196,1,10000,40,NULL,2022-08-03
 Wang21m,S3_2dose,S:614G,Figure 2a,SARS-CoV-2 recombinant,NT50,1535,1,10000,40,NULL,2022-08-03
@@ -357,32 +357,32 @@ Wang21m,S17_2dose,BA.2 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,44,1,10000,5,
 Wang21m,S18_2dose,BA.2 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,20,1,10000,5,NULL,2022-08-03
 Wang21m,S19_2dose,BA.2 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,20,1,10000,5,NULL,2022-08-03
 Wang21m,S20_2dose,BA.2 Spike,Figure 2a,SARS-CoV-2 recombinant,NT50,14,1,10000,5,NULL,2022-08-03
-Wang21m,S1_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,1112,1,10000,10,NULL,2022-08-03
-Wang21m,S2_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,446,1,10000,10,NULL,2022-08-03
-Wang21m,S3_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,557,1,10000,10,NULL,2022-08-03
-Wang21m,S4_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,737,1,10000,10,NULL,2022-08-03
-Wang21m,S5_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,959,1,10000,10,NULL,2022-08-03
-Wang21m,S6_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,1798,1,10000,10,NULL,2022-08-03
-Wang21m,S7_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,409,1,10000,10,NULL,2022-08-03
-Wang21m,S8_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,1365,1,10000,10,NULL,2022-08-03
-Wang21m,S9_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,1172,1,10000,10,NULL,2022-08-03
-Wang21m,S10_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,129,1,10000,10,NULL,2022-08-03
-Wang21m,S11_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,881,1,10000,10,NULL,2022-08-03
-Wang21m,S12_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,485,1,10000,10,NULL,2022-08-03
-Wang21m,S13_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,665,1,10000,10,NULL,2022-08-03
-Wang21m,S14_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,374,1,10000,10,NULL,2022-08-03
-Wang21m,S15_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,612,1,10000,10,NULL,2022-08-03
-Wang21m,S16_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,317,1,10000,10,NULL,2022-08-03
-Wang21m,S17_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,510,1,10000,10,NULL,2022-08-03
-Wang21m,S18_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,992,1,10000,10,NULL,2022-08-03
-Wang21m,S19_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,2296,1,10000,10,NULL,2022-08-03
-Wang21m,S20_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,302,1,10000,10,NULL,2022-08-03
-Wang21m,S21_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,687,1,10000,10,NULL,2022-08-03
-Wang21m,S22_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,456,1,10000,10,NULL,2022-08-03
-Wang21m,S23_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,144,1,10000,10,NULL,2022-08-03
-Wang21m,S24_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,1020,1,10000,10,NULL,2022-08-03
-Wang21m,S25_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,799,1,10000,10,NULL,2022-08-03
-Wang21m,S26_2dose,Wuhan-Hu-1,Figure 2b,Virus isolate,NT50,402,1,10000,10,NULL,2022-08-03
+Wang21m,S1_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,1112,1,10000,10,NULL,2022-08-03
+Wang21m,S2_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,446,1,10000,10,NULL,2022-08-03
+Wang21m,S3_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,557,1,10000,10,NULL,2022-08-03
+Wang21m,S4_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,737,1,10000,10,NULL,2022-08-03
+Wang21m,S5_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,959,1,10000,10,NULL,2022-08-03
+Wang21m,S6_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,1798,1,10000,10,NULL,2022-08-03
+Wang21m,S7_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,409,1,10000,10,NULL,2022-08-03
+Wang21m,S8_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,1365,1,10000,10,NULL,2022-08-03
+Wang21m,S9_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,1172,1,10000,10,NULL,2022-08-03
+Wang21m,S10_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,129,1,10000,10,NULL,2022-08-03
+Wang21m,S11_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,881,1,10000,10,NULL,2022-08-03
+Wang21m,S12_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,485,1,10000,10,NULL,2022-08-03
+Wang21m,S13_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,665,1,10000,10,NULL,2022-08-03
+Wang21m,S14_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,374,1,10000,10,NULL,2022-08-03
+Wang21m,S15_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,612,1,10000,10,NULL,2022-08-03
+Wang21m,S16_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,317,1,10000,10,NULL,2022-08-03
+Wang21m,S17_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,510,1,10000,10,NULL,2022-08-03
+Wang21m,S18_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,992,1,10000,10,NULL,2022-08-03
+Wang21m,S19_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,2296,1,10000,10,NULL,2022-08-03
+Wang21m,S20_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,302,1,10000,10,NULL,2022-08-03
+Wang21m,S21_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,687,1,10000,10,NULL,2022-08-03
+Wang21m,S22_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,456,1,10000,10,NULL,2022-08-03
+Wang21m,S23_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,144,1,10000,10,NULL,2022-08-03
+Wang21m,S24_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,1020,1,10000,10,NULL,2022-08-03
+Wang21m,S25_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,799,1,10000,10,NULL,2022-08-03
+Wang21m,S26_2dose,CDC-RG-3015781631,Figure 2b,Virus isolate,NT50,402,1,10000,10,NULL,2022-08-03
 Wang21m,S1_2dose,B.1.1.7 full genome,Figure 2b,Virus isolate,NT50,1198,1,10000,10,NULL,2022-08-03
 Wang21m,S2_2dose,B.1.1.7 full genome,Figure 2b,Virus isolate,NT50,415,1,10000,10,NULL,2022-08-03
 Wang21m,S3_2dose,B.1.1.7 full genome,Figure 2b,Virus isolate,NT50,788,1,10000,10,NULL,2022-08-03
@@ -565,26 +565,26 @@ Wang21m,S23_2dose,B.1.621 full genome,Figure 2b,Virus isolate,NT50,35,1,10000,10
 Wang21m,S24_2dose,B.1.621 full genome,Figure 2b,Virus isolate,NT50,337,1,10000,10,NULL,2022-08-03
 Wang21m,S25_2dose,B.1.621 full genome,Figure 2b,Virus isolate,NT50,276,1,10000,10,NULL,2022-08-03
 Wang21m,S26_2dose,B.1.621 full genome,Figure 2b,Virus isolate,NT50,161,1,10000,10,NULL,2022-08-03
-Wang21m,S1_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,1556,1,10000,5,NULL,2022-08-03
-Wang21m,S2_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,774,1,10000,5,NULL,2022-08-03
-Wang21m,S3_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,1467,1,10000,5,NULL,2022-08-03
-Wang21m,S4_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,1221,1,10000,5,NULL,2022-08-03
-Wang21m,S5_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,534,1,10000,5,NULL,2022-08-03
-Wang21m,S6_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,399,1,10000,5,NULL,2022-08-03
-Wang21m,S7_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,704,1,10000,5,NULL,2022-08-03
-Wang21m,S8_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,603,1,10000,5,NULL,2022-08-03
-Wang21m,S9_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,2314,1,10000,5,NULL,2022-08-03
-Wang21m,S10_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,727,1,10000,5,NULL,2022-08-03
-Wang21m,S11_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,992,1,10000,5,NULL,2022-08-03
-Wang21m,S12_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,183,1,10000,5,NULL,2022-08-03
-Wang21m,S13_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,820,1,10000,5,NULL,2022-08-03
-Wang21m,S14_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,674,1,10000,5,NULL,2022-08-03
-Wang21m,S15_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,1202,1,10000,5,NULL,2022-08-03
-Wang21m,S16_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,551,1,10000,5,NULL,2022-08-03
-Wang21m,S17_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,546,1,10000,5,NULL,2022-08-03
-Wang21m,S18_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,489,1,10000,5,NULL,2022-08-03
-Wang21m,S19_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,529,1,10000,5,NULL,2022-08-03
-Wang21m,S20_2dose_fig2c,Wuhan-Hu-1,Figure 2c,Virus isolate,NT50,365,1,10000,5,NULL,2022-08-03
+Wang21m,S1_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,1556,1,10000,5,NULL,2022-08-03
+Wang21m,S2_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,774,1,10000,5,NULL,2022-08-03
+Wang21m,S3_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,1467,1,10000,5,NULL,2022-08-03
+Wang21m,S4_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,1221,1,10000,5,NULL,2022-08-03
+Wang21m,S5_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,534,1,10000,5,NULL,2022-08-03
+Wang21m,S6_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,399,1,10000,5,NULL,2022-08-03
+Wang21m,S7_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,704,1,10000,5,NULL,2022-08-03
+Wang21m,S8_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,603,1,10000,5,NULL,2022-08-03
+Wang21m,S9_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,2314,1,10000,5,NULL,2022-08-03
+Wang21m,S10_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,727,1,10000,5,NULL,2022-08-03
+Wang21m,S11_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,992,1,10000,5,NULL,2022-08-03
+Wang21m,S12_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,183,1,10000,5,NULL,2022-08-03
+Wang21m,S13_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,820,1,10000,5,NULL,2022-08-03
+Wang21m,S14_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,674,1,10000,5,NULL,2022-08-03
+Wang21m,S15_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,1202,1,10000,5,NULL,2022-08-03
+Wang21m,S16_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,551,1,10000,5,NULL,2022-08-03
+Wang21m,S17_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,546,1,10000,5,NULL,2022-08-03
+Wang21m,S18_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,489,1,10000,5,NULL,2022-08-03
+Wang21m,S19_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,529,1,10000,5,NULL,2022-08-03
+Wang21m,S20_2dose_fig2c,CDC-RG-3015781631,Figure 2c,Virus isolate,NT50,365,1,10000,5,NULL,2022-08-03
 Wang21m,S1_2dose_fig2c,Omicron/BA.1 full genome,Figure 2c,Virus isolate,NT50,121,1,10000,5,NULL,2022-08-03
 Wang21m,S2_2dose_fig2c,Omicron/BA.1 full genome,Figure 2c,Virus isolate,NT50,23,1,10000,5,NULL,2022-08-03
 Wang21m,S3_2dose_fig2c,Omicron/BA.1 full genome,Figure 2c,Virus isolate,NT50,19,1,10000,5,NULL,2022-08-03
@@ -645,26 +645,26 @@ Wang21m,S17_2dose_fig2c,Omicron/BA.2 full genome,Figure 2c,Virus isolate,NT50,11
 Wang21m,S18_2dose_fig2c,Omicron/BA.2 full genome,Figure 2c,Virus isolate,NT50,11,1,10000,5,NULL,2022-08-03
 Wang21m,S19_2dose_fig2c,Omicron/BA.2 full genome,Figure 2c,Virus isolate,NT50,19,1,10000,5,NULL,2022-08-03
 Wang21m,S20_2dose_fig2c,Omicron/BA.2 full genome,Figure 2c,Virus isolate,NT50,9,1,10000,5,NULL,2022-08-03
-Wang21m,S1_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,1073,1,10000,5,NULL,2022-08-03
-Wang21m,S2_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,120,1,10000,5,NULL,2022-08-03
-Wang21m,S3_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,83,1,10000,5,NULL,2022-08-03
-Wang21m,S4_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,67,1,10000,5,NULL,2022-08-03
-Wang21m,S5_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,73,1,10000,5,NULL,2022-08-03
-Wang21m,S6_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,11,1,10000,5,NULL,2022-08-03
-Wang21m,S7_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,73,1,10000,5,NULL,2022-08-03
-Wang21m,S8_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,68,1,10000,5,NULL,2022-08-03
-Wang21m,S9_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,71,1,10000,5,NULL,2022-08-03
-Wang21m,S10_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,47,1,10000,5,NULL,2022-08-03
-Wang21m,S11_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,39,1,10000,5,NULL,2022-08-03
-Wang21m,S12_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,31,1,10000,5,NULL,2022-08-03
-Wang21m,S13_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,121,1,10000,5,NULL,2022-08-03
-Wang21m,S14_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,97,1,10000,5,NULL,2022-08-03
-Wang21m,S15_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,25,1,10000,5,NULL,2022-08-03
-Wang21m,S16_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,97,1,10000,5,NULL,2022-08-03
-Wang21m,S17_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,1,1,10000,5,NULL,2022-08-03
-Wang21m,S18_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,59,1,10000,5,NULL,2022-08-03
-Wang21m,S19_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,269,1,10000,5,NULL,2022-08-03
-Wang21m,S20_2dose_preboost,Wuhan-Hu-1,Figure 3a,SARS-CoV-2 recombinant,NT50,107,1,10000,5,NULL,2022-08-03
+Wang21m,S1_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,1073,1,10000,5,NULL,2022-08-03
+Wang21m,S2_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,120,1,10000,5,NULL,2022-08-03
+Wang21m,S3_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,83,1,10000,5,NULL,2022-08-03
+Wang21m,S4_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,67,1,10000,5,NULL,2022-08-03
+Wang21m,S5_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,73,1,10000,5,NULL,2022-08-03
+Wang21m,S6_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,11,1,10000,5,NULL,2022-08-03
+Wang21m,S7_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,73,1,10000,5,NULL,2022-08-03
+Wang21m,S8_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,68,1,10000,5,NULL,2022-08-03
+Wang21m,S9_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,71,1,10000,5,NULL,2022-08-03
+Wang21m,S10_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,47,1,10000,5,NULL,2022-08-03
+Wang21m,S11_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,39,1,10000,5,NULL,2022-08-03
+Wang21m,S12_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,31,1,10000,5,NULL,2022-08-03
+Wang21m,S13_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,121,1,10000,5,NULL,2022-08-03
+Wang21m,S14_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,97,1,10000,5,NULL,2022-08-03
+Wang21m,S15_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,25,1,10000,5,NULL,2022-08-03
+Wang21m,S16_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,97,1,10000,5,NULL,2022-08-03
+Wang21m,S17_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,1,1,10000,5,NULL,2022-08-03
+Wang21m,S18_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,59,1,10000,5,NULL,2022-08-03
+Wang21m,S19_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,269,1,10000,5,NULL,2022-08-03
+Wang21m,S20_2dose_preboost,CDC-RG-3015781631,Figure 3a,SARS-CoV-2 recombinant,NT50,107,1,10000,5,NULL,2022-08-03
 Wang21m,S1_2dose_preboost,B.1.351 Spike,Figure 3a,SARS-CoV-2 recombinant,NT50,508,1,10000,5,NULL,2022-08-03
 Wang21m,S2_2dose_preboost,B.1.351 Spike,Figure 3a,SARS-CoV-2 recombinant,NT50,35,1,10000,5,NULL,2022-08-03
 Wang21m,S3_2dose_preboost,B.1.351 Spike,Figure 3a,SARS-CoV-2 recombinant,NT50,18,1,10000,5,NULL,2022-08-03
@@ -725,26 +725,26 @@ Wang21m,S17_2dose_preboost,BA.2 Spike,Figure 3a,SARS-CoV-2 recombinant,NT50,4,1,
 Wang21m,S18_2dose_preboost,BA.2 Spike,Figure 3a,SARS-CoV-2 recombinant,NT50,5,1,10000,5,NULL,2022-08-03
 Wang21m,S19_2dose_preboost,BA.2 Spike,Figure 3a,SARS-CoV-2 recombinant,NT50,29,1,10000,5,NULL,2022-08-03
 Wang21m,S20_2dose_preboost,BA.2 Spike,Figure 3a,SARS-CoV-2 recombinant,NT50,12,1,10000,5,NULL,2022-08-03
-Wang21m,S1_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,10463,1,10000,10,NULL,2022-08-03
-Wang21m,S2_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,3928,1,10000,10,NULL,2022-08-03
-Wang21m,S3_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,488,1,10000,10,NULL,2022-08-03
-Wang21m,S4_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,2317,1,10000,10,NULL,2022-08-03
-Wang21m,S5_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,3025,1,10000,10,NULL,2022-08-03
-Wang21m,S6_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,3636,1,10000,10,NULL,2022-08-03
-Wang21m,S7_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,33300,1,10000,10,NULL,2022-08-03
-Wang21m,S8_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,3212,1,10000,10,NULL,2022-08-03
-Wang21m,S9_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,2778,1,10000,10,NULL,2022-08-03
-Wang21m,S10_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,4136,1,10000,10,NULL,2022-08-03
-Wang21m,S11_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,4281,1,10000,10,NULL,2022-08-03
-Wang21m,S12_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,3039,1,10000,10,NULL,2022-08-03
-Wang21m,S13_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,3954,1,10000,10,NULL,2022-08-03
-Wang21m,S14_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,5994,1,10000,10,NULL,2022-08-03
-Wang21m,S15_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,2841,1,10000,10,NULL,2022-08-03
-Wang21m,S16_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,3073,1,10000,10,NULL,2022-08-03
-Wang21m,S17_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,4211,1,10000,10,NULL,2022-08-03
-Wang21m,S18_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,1128,1,10000,10,NULL,2022-08-03
-Wang21m,S19_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,752,1,10000,10,NULL,2022-08-03
-Wang21m,S20_3dose,Wuhan-Hu-1,Figure 3b,SARS-CoV-2 recombinant,NT50,1573,1,10000,10,NULL,2022-08-03
+Wang21m,S1_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,10463,1,10000,10,NULL,2022-08-03
+Wang21m,S2_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,3928,1,10000,10,NULL,2022-08-03
+Wang21m,S3_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,488,1,10000,10,NULL,2022-08-03
+Wang21m,S4_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,2317,1,10000,10,NULL,2022-08-03
+Wang21m,S5_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,3025,1,10000,10,NULL,2022-08-03
+Wang21m,S6_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,3636,1,10000,10,NULL,2022-08-03
+Wang21m,S7_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,33300,1,10000,10,NULL,2022-08-03
+Wang21m,S8_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,3212,1,10000,10,NULL,2022-08-03
+Wang21m,S9_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,2778,1,10000,10,NULL,2022-08-03
+Wang21m,S10_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,4136,1,10000,10,NULL,2022-08-03
+Wang21m,S11_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,4281,1,10000,10,NULL,2022-08-03
+Wang21m,S12_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,3039,1,10000,10,NULL,2022-08-03
+Wang21m,S13_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,3954,1,10000,10,NULL,2022-08-03
+Wang21m,S14_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,5994,1,10000,10,NULL,2022-08-03
+Wang21m,S15_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,2841,1,10000,10,NULL,2022-08-03
+Wang21m,S16_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,3073,1,10000,10,NULL,2022-08-03
+Wang21m,S17_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,4211,1,10000,10,NULL,2022-08-03
+Wang21m,S18_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,1128,1,10000,10,NULL,2022-08-03
+Wang21m,S19_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,752,1,10000,10,NULL,2022-08-03
+Wang21m,S20_3dose,CDC-RG-3015781631,Figure 3b,SARS-CoV-2 recombinant,NT50,1573,1,10000,10,NULL,2022-08-03
 Wang21m,S1_3dose,B.1.351 Spike,Figure 3b,SARS-CoV-2 recombinant,NT50,3695,1,10000,10,NULL,2022-08-03
 Wang21m,S2_3dose,B.1.351 Spike,Figure 3b,SARS-CoV-2 recombinant,NT50,1136,1,10000,10,NULL,2022-08-03
 Wang21m,S3_3dose,B.1.351 Spike,Figure 3b,SARS-CoV-2 recombinant,NT50,225,1,10000,10,NULL,2022-08-03
@@ -805,21 +805,21 @@ Wang21m,S17_3dose,BA.2 Spike,Figure 3b,SARS-CoV-2 recombinant,NT50,598,1,10000,1
 Wang21m,S18_3dose,BA.2 Spike,Figure 3b,SARS-CoV-2 recombinant,NT50,144,1,10000,10,NULL,2022-08-03
 Wang21m,S19_3dose,BA.2 Spike,Figure 3b,SARS-CoV-2 recombinant,NT50,100,1,10000,10,NULL,2022-08-03
 Wang21m,S20_3dose,BA.2 Spike,Figure 3b,SARS-CoV-2 recombinant,NT50,405,1,10000,10,NULL,2022-08-03
-Wang21m,S1_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,2539,1,10000,10,NULL,2022-08-03
-Wang21m,S2_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,834,1,10000,10,NULL,2022-08-03
-Wang21m,S3_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,9402,1,10000,10,NULL,2022-08-03
-Wang21m,S5_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,6918,1,10000,10,NULL,2022-08-03
-Wang21m,S6_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,6959,1,10000,10,NULL,2022-08-03
-Wang21m,S7_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,731,1,10000,10,NULL,2022-08-03
-Wang21m,S9_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,3472,1,10000,10,NULL,2022-08-03
-Wang21m,S10_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,2491,1,10000,10,NULL,2022-08-03
-Wang21m,S15_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,4448,1,10000,10,NULL,2022-08-03
-Wang21m,S16_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,3723,1,10000,10,NULL,2022-08-03
-Wang21m,S17_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,2441,1,10000,10,NULL,2022-08-03
-Wang21m,S19_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,1531,1,10000,10,NULL,2022-08-03
-Wang21m,S20_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,2667,1,10000,10,NULL,2022-08-03
-Wang21m,S21_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,7807,1,10000,10,NULL,2022-08-03
-Wang21m,S22_3dose,Wuhan-Hu-1,Figure 3c,Virus isolate,NT50,2073,1,10000,10,NULL,2022-08-03
+Wang21m,S1_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,2539,1,10000,10,NULL,2022-08-03
+Wang21m,S2_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,834,1,10000,10,NULL,2022-08-03
+Wang21m,S3_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,9402,1,10000,10,NULL,2022-08-03
+Wang21m,S5_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,6918,1,10000,10,NULL,2022-08-03
+Wang21m,S6_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,6959,1,10000,10,NULL,2022-08-03
+Wang21m,S7_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,731,1,10000,10,NULL,2022-08-03
+Wang21m,S9_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,3472,1,10000,10,NULL,2022-08-03
+Wang21m,S10_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,2491,1,10000,10,NULL,2022-08-03
+Wang21m,S15_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,4448,1,10000,10,NULL,2022-08-03
+Wang21m,S16_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,3723,1,10000,10,NULL,2022-08-03
+Wang21m,S17_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,2441,1,10000,10,NULL,2022-08-03
+Wang21m,S19_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,1531,1,10000,10,NULL,2022-08-03
+Wang21m,S20_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,2667,1,10000,10,NULL,2022-08-03
+Wang21m,S21_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,7807,1,10000,10,NULL,2022-08-03
+Wang21m,S22_3dose,CDC-RG-3015781631,Figure 3c,Virus isolate,NT50,2073,1,10000,10,NULL,2022-08-03
 Wang21m,S1_3dose,Omicron/BA.1 full genome,Figure 3c,Virus isolate,NT50,1379,1,10000,10,NULL,2022-08-03
 Wang21m,S2_3dose,Omicron/BA.1 full genome,Figure 3c,Virus isolate,NT50,357,1,10000,10,NULL,2022-08-03
 Wang21m,S3_3dose,Omicron/BA.1 full genome,Figure 3c,Virus isolate,NT50,897,1,10000,10,NULL,2022-08-03
