@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Muik22b,mRNA_3dose_BA1_CP_14,~,2021-11-01,Omicron/BA.1,Germany,NULL,NULL,NULL
 Muik22b,mRNA_3dose_BA1_CP_15,~,2021-11-01,Omicron/BA.1,Germany,NULL,NULL,NULL
 Muik22b,mRNA_3dose_BA1_CP_16,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
