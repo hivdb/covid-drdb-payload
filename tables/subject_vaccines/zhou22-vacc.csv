@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Zhou22,BNT_infected,~,2021-03-01,BNT162b2,2,USA,NULL
+Zhou22,BNT_infected,~,2021-11-01,BNT162b2,3,USA,NULL
+Zhou22,BNT,~,2021-03-01,BNT162b2,2,USA,NULL
+Zhou22,BNT,~,2021-11-01,BNT162b2,3,USA,NULL

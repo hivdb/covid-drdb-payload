@@ -3704,6 +3704,8 @@ Zhou21b,CP_B.1.1.7_9,Human,NULL,1
 Zhou21c,BNT162b2,Human,NULL,5
 Zhou21c,CP,Human,NULL,6
 Zhou21c,mRNA-1273,Human,NULL,3
+Zhou22,BNT,Human,NULL,9
+Zhou22,BNT_infected,Human,NULL,7
 Zhou22b,BNT_2dose,Human,NULL,9
 Zhou22b,Sinovac_2dose,Human,NULL,23
 Zhou22b,Sinovac_2dose_BNT_1dose,Human,NULL,7
