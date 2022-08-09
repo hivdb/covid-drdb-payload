@@ -1,0 +1,81 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Arora22e,Casirivimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,12.1,1,5000,1,ng/ml,2022-07-30
+Arora22e,Imdevimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,11.8,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,11.3,1,5000,1,ng/ml,2022-07-30
+Arora22e,Etesevimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,22.2,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,21.7,1,5000,1,ng/ml,2022-07-30
+Arora22e,Tixagevimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,5.1,1,5000,1,ng/ml,2022-07-30
+Arora22e,Regdanvimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,2.9,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bebtelovimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,3.7,1,5000,1,ng/ml,2022-07-30
+Arora22e,Sotrovimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,77.5,1,5000,1,ng/ml,2022-07-30
+Arora22e,S2H97,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,1269,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab+Imdevimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,6.6,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab+Etesevimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,16.9,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab+Tixagevimab,S:614G,Supplementary Figure B,Pseudovirus (VSV),IC50,7.6,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,1456,1,5000,1,ng/ml,2022-07-30
+Arora22e,Imdevimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Etesevimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,2036,1,5000,1,ng/ml,2022-07-30
+Arora22e,Tixagevimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,1253,1,5000,1,ng/ml,2022-07-30
+Arora22e,Regdanvimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bebtelovimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,3.1,1,5000,1,ng/ml,2022-07-30
+Arora22e,Sotrovimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,501,1,5000,1,ng/ml,2022-07-30
+Arora22e,S2H97,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,1849,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab+Imdevimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,1469,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab+Etesevimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab+Tixagevimab,BA.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,269,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,938,1,5000,1,ng/ml,2022-07-30
+Arora22e,Imdevimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,415,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Etesevimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,48.9,1,5000,1,ng/ml,2022-07-30
+Arora22e,Tixagevimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,1460,1,5000,1,ng/ml,2022-07-30
+Arora22e,Regdanvimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bebtelovimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,3.9,1,5000,1,ng/ml,2022-07-30
+Arora22e,Sotrovimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,3060,1,5000,1,ng/ml,2022-07-30
+Arora22e,S2H97,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,4958,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab+Imdevimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,267,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab+Etesevimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab+Tixagevimab,BA.2 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,70.9,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,480,1,5000,1,ng/ml,2022-07-30
+Arora22e,Imdevimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,345,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Etesevimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,47.7,1,5000,1,ng/ml,2022-07-30
+Arora22e,Tixagevimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,1322,1,5000,1,ng/ml,2022-07-30
+Arora22e,Regdanvimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bebtelovimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,3.1,1,5000,1,ng/ml,2022-07-30
+Arora22e,Sotrovimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,3032,1,5000,1,ng/ml,2022-07-30
+Arora22e,S2H97,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,4893,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab+Imdevimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,293,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab+Etesevimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab+Tixagevimab,BA.2.12.1 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,71.9,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Imdevimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,844,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Etesevimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,83.4,1,5000,1,ng/ml,2022-07-30
+Arora22e,Tixagevimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Regdanvimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bebtelovimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,4.1,1,5000,1,ng/ml,2022-07-30
+Arora22e,Sotrovimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,3840,1,5000,1,ng/ml,2022-07-30
+Arora22e,S2H97,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,4771,1,5000,1,ng/ml,2022-07-30
+Arora22e,Casirivimab+Imdevimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,966,1,5000,1,ng/ml,2022-07-30
+Arora22e,Bamlanivimab+Etesevimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,5000,1,5000,1,ng/ml,2022-07-30
+Arora22e,Cilgavimab+Tixagevimab,BA.4/5 Spike,Supplementary Figure B,Pseudovirus (VSV),IC50,117,1,5000,1,ng/ml,2022-07-30
+Arora22e,CP_Omicron_infected,S:614G,Supplementary Figure D,Pseudovirus (VSV),NT50,9,10,100000,10,NULL,2022-08-03
+Arora22e,CP_Omicron_infected,BA.1 Spike,Supplementary Figure D,Pseudovirus (VSV),NT50,26,10,100000,10,NULL,2022-08-03
+Arora22e,CP_Omicron_infected,BA.2 Spike,Supplementary Figure D,Pseudovirus (VSV),NT50,240,10,100000,10,NULL,2022-08-03
+Arora22e,CP_Omicron_infected,BA.2.12.1 Spike,Supplementary Figure D,Pseudovirus (VSV),NT50,208,10,100000,10,NULL,2022-08-03
+Arora22e,CP_Omicron_infected,BA.4/5 Spike,Supplementary Figure D,Pseudovirus (VSV),NT50,14,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Not_infected,S:614G,Supplementary Figure E,Pseudovirus (VSV),NT50,1848,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Not_infected,BA.1 Spike,Supplementary Figure E,Pseudovirus (VSV),NT50,430,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Not_infected,BA.2 Spike,Supplementary Figure E,Pseudovirus (VSV),NT50,439,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Not_infected,BA.2.12.1 Spike,Supplementary Figure E,Pseudovirus (VSV),NT50,303,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Not_infected,BA.4/5 Spike,Supplementary Figure E,Pseudovirus (VSV),NT50,229,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Omicron_infected,S:614G,Supplementary Figure F,Pseudovirus (VSV),NT50,7524,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Omicron_infected,BA.1 Spike,Supplementary Figure F,Pseudovirus (VSV),NT50,5278,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Omicron_infected,BA.2 Spike,Supplementary Figure F,Pseudovirus (VSV),NT50,4118,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Omicron_infected,BA.2.12.1 Spike,Supplementary Figure F,Pseudovirus (VSV),NT50,2262,10,100000,10,NULL,2022-08-03
+Arora22e,VP_Omicron_infected,BA.4/5 Spike,Supplementary Figure F,Pseudovirus (VSV),NT50,1868,10,100000,10,NULL,2022-08-03
