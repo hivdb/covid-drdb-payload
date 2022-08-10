@@ -1,0 +1,41 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Turelli22b,P2G3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,15,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P5C3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P2G3 + P5C3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,32,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD1061,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,121,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD8895,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD1061 + AZD8895,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,249,1,20000,10,ng/ml,2022-08-02
+Turelli22b,REGN10933 + REGN10987,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,2000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,ADG-2,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,4100,1,20000,10,ng/ml,2022-08-02
+Turelli22b,Sotrovimab,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,Bebtelovimab,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC50,12,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P2G3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,27,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P5C3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P2G3 + P5C3,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,56,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD1061,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,216,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD8895,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD1061 + AZD8895,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,444,1,20000,10,ng/ml,2022-08-02
+Turelli22b,REGN10933 + REGN10987,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,3600,1,20000,10,ng/ml,2022-08-02
+Turelli22b,ADG-2,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,7300,1,20000,10,ng/ml,2022-08-02
+Turelli22b,Sotrovimab,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,Bebtelovimab,hCoV-19/South Africa/CERI-KRISP-K040015/2022,Table 2,Virus isolate,IC80,22,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P2G3,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,16,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P5C3,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P2G3 + P5C3,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,32,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD1061,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,143,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD8895,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD1061 + AZD8895,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,281,1,20000,10,ng/ml,2022-08-02
+Turelli22b,REGN10933 + REGN10987,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,2800,1,20000,10,ng/ml,2022-08-02
+Turelli22b,ADG-2,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,4100,1,20000,10,ng/ml,2022-08-02
+Turelli22b,Sotrovimab,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,Bebtelovimab,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC50,15,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P2G3,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,29,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P5C3,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,P2G3 + P5C3,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,57,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD1061,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,255,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD8895,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,AZD1061 + AZD8895,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,500,1,20000,10,ng/ml,2022-08-02
+Turelli22b,REGN10933 + REGN10987,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,4900,1,20000,10,ng/ml,2022-08-02
+Turelli22b,ADG-2,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,7300,1,20000,10,ng/ml,2022-08-02
+Turelli22b,Sotrovimab,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,20000,1,20000,10,ng/ml,2022-08-02
+Turelli22b,Bebtelovimab,hCoV-19/South Africa/CERI-KRISP-K040013/2022,Table 2,Virus isolate,IC80,26,1,20000,10,ng/ml,2022-08-02
