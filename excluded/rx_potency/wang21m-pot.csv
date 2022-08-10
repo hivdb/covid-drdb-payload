@@ -1,0 +1,27 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Wang21m,S1_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,971,1,10000,10,NULL,2022-08-03
+Wang21m,S2_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,745,1,10000,10,NULL,2022-08-03
+Wang21m,S3_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,1029,1,10000,10,NULL,2022-08-03
+Wang21m,S4_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,793,1,10000,10,NULL,2022-08-03
+Wang21m,S5_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,949,1,10000,10,NULL,2022-08-03
+Wang21m,S6_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,1656,1,10000,10,NULL,2022-08-03
+Wang21m,S7_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,374,1,10000,10,NULL,2022-08-03
+Wang21m,S8_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,1550,1,10000,10,NULL,2022-08-03
+Wang21m,S9_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,1186,1,10000,10,NULL,2022-08-03
+Wang21m,S10_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,133,1,10000,10,NULL,2022-08-03
+Wang21m,S11_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,976,1,10000,10,NULL,2022-08-03
+Wang21m,S12_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,819,1,10000,10,NULL,2022-08-03
+Wang21m,S13_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,694,1,10000,10,NULL,2022-08-03
+Wang21m,S14_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,617,1,10000,10,NULL,2022-08-03
+Wang21m,S15_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,362,1,10000,10,NULL,2022-08-03
+Wang21m,S16_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,352,1,10000,10,NULL,2022-08-03
+Wang21m,S17_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,365,1,10000,10,NULL,2022-08-03
+Wang21m,S18_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,1115,1,10000,10,NULL,2022-08-03
+Wang21m,S19_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,2017,1,10000,10,NULL,2022-08-03
+Wang21m,S20_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,193,1,10000,10,NULL,2022-08-03
+Wang21m,S21_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,628,1,10000,10,NULL,2022-08-03
+Wang21m,S22_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,238,1,10000,10,NULL,2022-08-03
+Wang21m,S23_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,198,1,10000,10,NULL,2022-08-03
+Wang21m,S24_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,1050,1,10000,10,NULL,2022-08-03
+Wang21m,S25_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,750,1,10000,10,NULL,2022-08-03
+Wang21m,S26_2dose,Lambda_S2,Figure 2b,Virus isolate,NT50,422,1,10000,10,NULL,2022-08-03
