@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Arora22e,Unvaccinated_then_infected_then_sampled,~,2022-03-01,Omicron/BA.1,Germany,NULL,NULL,Supplementary Table
+Arora22e,Vaccinated_then_Infected_then_Sampled,~,2022-03-01,Omicron/BA.1,Germany,NULL,NULL,Supplementary Table

@@ -1,0 +1,16 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+EMA21,REGN10933,S:417N,page 25. Table 8.,Pseudovirus (VSV),IC50,71.7,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10933,S:484K,page 25. Table 8.,Pseudovirus (VSV),IC50,169.5,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10933,S:501Y,page 25. Table 8.,Pseudovirus (VSV),IC50,26.2,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10933,S:614G,page 25. Table 8.,Pseudovirus (VSV),IC50,6.5,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10933,B.1.1.7 Spike,page 25. Table 8.,Pseudovirus (VSV),IC50,22.8,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10987,S:417N,page 25. Table 8.,Pseudovirus (VSV),IC50,5.3,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10987,S:484K,page 25. Table 8.,Pseudovirus (VSV),IC50,9.4,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10987,S:501Y,page 25. Table 8.,Pseudovirus (VSV),IC50,24.75,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10987,S:614G,page 25. Table 8.,Pseudovirus (VSV),IC50,6.9,1,10000,1,ng/ml,2022-08-09
+EMA21,REGN10987,B.1.1.7 Spike,page 25. Table 8.,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-08-09
+EMA21,REGEN-COV,S:417N,page 25. Table 8.,Pseudovirus (VSV),IC50,7.9,1,10000,1,ng/ml,2022-08-09
+EMA21,REGEN-COV,S:484K,page 25. Table 8.,Pseudovirus (VSV),IC50,4.9,1,10000,1,ng/ml,2022-08-09
+EMA21,REGEN-COV,S:501Y,page 25. Table 8.,Pseudovirus (VSV),IC50,28.5,1,10000,1,ng/ml,2022-08-09
+EMA21,REGEN-COV,S:614G,page 25. Table 8.,Pseudovirus (VSV),IC50,4.9,1,10000,1,ng/ml,2022-08-09
+EMA21,REGEN-COV,B.1.1.7 Spike,page 25. Table 8.,Pseudovirus (VSV),IC50,21,1,10000,1,ng/ml,2022-08-09

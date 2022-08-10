@@ -96,6 +96,9 @@ Arora22c,CP,Human,NULL,10
 Arora22d,BNT_2dose,Human,NULL,10
 Arora22d,BNT_3dose,Human,NULL,10
 Arora22d,CP,Human,NULL,10
+Arora22e,Unvaccinated_then_infected_then_sampled,Human,NULL,10
+Arora22e,Vaccinated_Not_Infected_then_Sampled,Human,NULL,10
+Arora22e,Vaccinated_then_Infected_then_Sampled,Human,NULL,10
 Arunachalam21,BNT,Human,NULL,30
 Assawakosri22,AZD122,Human,NULL,55
 Assawakosri22,BBIBP,Human,NULL,57
@@ -3732,6 +3735,8 @@ Zhou21b,CP_B.1.1.7_9,Human,NULL,1
 Zhou21c,BNT162b2,Human,NULL,5
 Zhou21c,CP,Human,NULL,6
 Zhou21c,mRNA-1273,Human,NULL,3
+Zhou22,BNT,Human,NULL,9
+Zhou22,BNT_infected,Human,NULL,7
 Zhou22b,BNT_2dose,Human,NULL,9
 Zhou22b,Sinovac_2dose,Human,NULL,23
 Zhou22b,Sinovac_2dose_BNT_1dose,Human,NULL,7
