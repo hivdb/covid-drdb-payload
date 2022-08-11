@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Wang22i,BBIBP_3dose,Wuhan-Hu-1 Spike,Figure 1B,Psuedovirus (VSV),NT50,278,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_3dose,B.1.617.2 Spike:+142D,Figure 1B,Psuedovirus (VSV),NT50,133,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_3dose,BA.1 Spike,Figure 1B,Psuedovirus (VSV),NT50,52,10,100000,10,NULL,2022-08-11
