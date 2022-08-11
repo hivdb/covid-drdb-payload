@@ -4051,258 +4051,474 @@ B.1.1.63,S,614,G
 B.1.1.63,N,12,G
 B.1.1.63,N,203,K
 B.1.1.63,N,204,R
-BA.2 Spike:K147E,S,19,I
-BA.2 Spike:K147E,S,24,S
-BA.2 Spike:K147E,S,25,del
-BA.2 Spike:K147E,S,26,del
-BA.2 Spike:K147E,S,27,del
-BA.2 Spike:K147E,S,142,D
-BA.2 Spike:K147E,S,147,E
-BA.2 Spike:K147E,S,213,G
-BA.2 Spike:K147E,S,339,D
-BA.2 Spike:K147E,S,371,F
-BA.2 Spike:K147E,S,373,P
-BA.2 Spike:K147E,S,375,F
-BA.2 Spike:K147E,S,376,A
-BA.2 Spike:K147E,S,405,N
-BA.2 Spike:K147E,S,408,S
-BA.2 Spike:K147E,S,417,N
-BA.2 Spike:K147E,S,440,K
-BA.2 Spike:K147E,S,477,N
-BA.2 Spike:K147E,S,478,K
-BA.2 Spike:K147E,S,484,A
-BA.2 Spike:K147E,S,493,R
-BA.2 Spike:K147E,S,498,R
-BA.2 Spike:K147E,S,501,Y
-BA.2 Spike:K147E,S,505,H
-BA.2 Spike:K147E,S,614,G
-BA.2 Spike:K147E,S,655,Y
-BA.2 Spike:K147E,S,679,K
-BA.2 Spike:K147E,S,681,H
-BA.2 Spike:K147E,S,764,K
-BA.2 Spike:K147E,S,796,Y
-BA.2 Spike:K147E,S,954,H
-BA.2 Spike:K147E,S,969,K
-BA.2 Spike:W152R,S,19,I
-BA.2 Spike:W152R,S,24,S
-BA.2 Spike:W152R,S,25,del
-BA.2 Spike:W152R,S,26,del
-BA.2 Spike:W152R,S,27,del
-BA.2 Spike:W152R,S,142,D
-BA.2 Spike:W152R,S,152,R
-BA.2 Spike:W152R,S,213,G
-BA.2 Spike:W152R,S,339,D
-BA.2 Spike:W152R,S,371,F
-BA.2 Spike:W152R,S,373,P
-BA.2 Spike:W152R,S,375,F
-BA.2 Spike:W152R,S,376,A
-BA.2 Spike:W152R,S,405,N
-BA.2 Spike:W152R,S,408,S
-BA.2 Spike:W152R,S,417,N
-BA.2 Spike:W152R,S,440,K
-BA.2 Spike:W152R,S,477,N
-BA.2 Spike:W152R,S,478,K
-BA.2 Spike:W152R,S,484,A
-BA.2 Spike:W152R,S,493,R
-BA.2 Spike:W152R,S,498,R
-BA.2 Spike:W152R,S,501,Y
-BA.2 Spike:W152R,S,505,H
-BA.2 Spike:W152R,S,614,G
-BA.2 Spike:W152R,S,655,Y
-BA.2 Spike:W152R,S,679,K
-BA.2 Spike:W152R,S,681,H
-BA.2 Spike:W152R,S,764,K
-BA.2 Spike:W152R,S,796,Y
-BA.2 Spike:W152R,S,954,H
-BA.2 Spike:W152R,S,969,K
-BA.2 Spike:F157L,S,19,I
-BA.2 Spike:F157L,S,24,S
-BA.2 Spike:F157L,S,25,del
-BA.2 Spike:F157L,S,26,del
-BA.2 Spike:F157L,S,27,del
-BA.2 Spike:F157L,S,142,D
-BA.2 Spike:F157L,S,157,L
-BA.2 Spike:F157L,S,213,G
-BA.2 Spike:F157L,S,339,D
-BA.2 Spike:F157L,S,371,F
-BA.2 Spike:F157L,S,373,P
-BA.2 Spike:F157L,S,375,F
-BA.2 Spike:F157L,S,376,A
-BA.2 Spike:F157L,S,405,N
-BA.2 Spike:F157L,S,408,S
-BA.2 Spike:F157L,S,417,N
-BA.2 Spike:F157L,S,440,K
-BA.2 Spike:F157L,S,477,N
-BA.2 Spike:F157L,S,478,K
-BA.2 Spike:F157L,S,484,A
-BA.2 Spike:F157L,S,493,R
-BA.2 Spike:F157L,S,498,R
-BA.2 Spike:F157L,S,501,Y
-BA.2 Spike:F157L,S,505,H
-BA.2 Spike:F157L,S,614,G
-BA.2 Spike:F157L,S,655,Y
-BA.2 Spike:F157L,S,679,K
-BA.2 Spike:F157L,S,681,H
-BA.2 Spike:F157L,S,764,K
-BA.2 Spike:F157L,S,796,Y
-BA.2 Spike:F157L,S,954,H
-BA.2 Spike:F157L,S,969,K
-BA.2 Spike:I210V,S,19,I
-BA.2 Spike:I210V,S,24,S
-BA.2 Spike:I210V,S,25,del
-BA.2 Spike:I210V,S,26,del
-BA.2 Spike:I210V,S,27,del
-BA.2 Spike:I210V,S,142,D
-BA.2 Spike:I210V,S,210,V
-BA.2 Spike:I210V,S,213,G
-BA.2 Spike:I210V,S,339,D
-BA.2 Spike:I210V,S,371,F
-BA.2 Spike:I210V,S,373,P
-BA.2 Spike:I210V,S,375,F
-BA.2 Spike:I210V,S,376,A
-BA.2 Spike:I210V,S,405,N
-BA.2 Spike:I210V,S,408,S
-BA.2 Spike:I210V,S,417,N
-BA.2 Spike:I210V,S,440,K
-BA.2 Spike:I210V,S,477,N
-BA.2 Spike:I210V,S,478,K
-BA.2 Spike:I210V,S,484,A
-BA.2 Spike:I210V,S,493,R
-BA.2 Spike:I210V,S,498,R
-BA.2 Spike:I210V,S,501,Y
-BA.2 Spike:I210V,S,505,H
-BA.2 Spike:I210V,S,614,G
-BA.2 Spike:I210V,S,655,Y
-BA.2 Spike:I210V,S,679,K
-BA.2 Spike:I210V,S,681,H
-BA.2 Spike:I210V,S,764,K
-BA.2 Spike:I210V,S,796,Y
-BA.2 Spike:I210V,S,954,H
-BA.2 Spike:I210V,S,969,K
-BA.2 Spike:G257S,S,19,I
-BA.2 Spike:G257S,S,24,S
-BA.2 Spike:G257S,S,25,del
-BA.2 Spike:G257S,S,26,del
-BA.2 Spike:G257S,S,27,del
-BA.2 Spike:G257S,S,142,D
-BA.2 Spike:G257S,S,213,G
-BA.2 Spike:G257S,S,257,S
-BA.2 Spike:G257S,S,339,D
-BA.2 Spike:G257S,S,371,F
-BA.2 Spike:G257S,S,373,P
-BA.2 Spike:G257S,S,375,F
-BA.2 Spike:G257S,S,376,A
-BA.2 Spike:G257S,S,405,N
-BA.2 Spike:G257S,S,408,S
-BA.2 Spike:G257S,S,417,N
-BA.2 Spike:G257S,S,440,K
-BA.2 Spike:G257S,S,477,N
-BA.2 Spike:G257S,S,478,K
-BA.2 Spike:G257S,S,484,A
-BA.2 Spike:G257S,S,493,R
-BA.2 Spike:G257S,S,498,R
-BA.2 Spike:G257S,S,501,Y
-BA.2 Spike:G257S,S,505,H
-BA.2 Spike:G257S,S,614,G
-BA.2 Spike:G257S,S,655,Y
-BA.2 Spike:G257S,S,679,K
-BA.2 Spike:G257S,S,681,H
-BA.2 Spike:G257S,S,764,K
-BA.2 Spike:G257S,S,796,Y
-BA.2 Spike:G257S,S,954,H
-BA.2 Spike:G257S,S,969,K
-BA.2 Spike:D339H,S,19,I
-BA.2 Spike:D339H,S,24,S
-BA.2 Spike:D339H,S,25,del
-BA.2 Spike:D339H,S,26,del
-BA.2 Spike:D339H,S,27,del
-BA.2 Spike:D339H,S,142,D
-BA.2 Spike:D339H,S,213,G
-BA.2 Spike:D339H,S,339,H
-BA.2 Spike:D339H,S,371,F
-BA.2 Spike:D339H,S,373,P
-BA.2 Spike:D339H,S,375,F
-BA.2 Spike:D339H,S,376,A
-BA.2 Spike:D339H,S,405,N
-BA.2 Spike:D339H,S,408,S
-BA.2 Spike:D339H,S,417,N
-BA.2 Spike:D339H,S,440,K
-BA.2 Spike:D339H,S,477,N
-BA.2 Spike:D339H,S,478,K
-BA.2 Spike:D339H,S,484,A
-BA.2 Spike:D339H,S,493,R
-BA.2 Spike:D339H,S,498,R
-BA.2 Spike:D339H,S,501,Y
-BA.2 Spike:D339H,S,505,H
-BA.2 Spike:D339H,S,614,G
-BA.2 Spike:D339H,S,655,Y
-BA.2 Spike:D339H,S,679,K
-BA.2 Spike:D339H,S,681,H
-BA.2 Spike:D339H,S,764,K
-BA.2 Spike:D339H,S,796,Y
-BA.2 Spike:D339H,S,954,H
-BA.2 Spike:D339H,S,969,K
-BA.2 Spike:G446S,S,19,I
-BA.2 Spike:G446S,S,24,S
-BA.2 Spike:G446S,S,25,del
-BA.2 Spike:G446S,S,26,del
-BA.2 Spike:G446S,S,27,del
-BA.2 Spike:G446S,S,142,D
-BA.2 Spike:G446S,S,213,G
-BA.2 Spike:G446S,S,339,D
-BA.2 Spike:G446S,S,371,F
-BA.2 Spike:G446S,S,373,P
-BA.2 Spike:G446S,S,375,F
-BA.2 Spike:G446S,S,376,A
-BA.2 Spike:G446S,S,405,N
-BA.2 Spike:G446S,S,408,S
-BA.2 Spike:G446S,S,417,N
-BA.2 Spike:G446S,S,440,K
-BA.2 Spike:G446S,S,446,S
-BA.2 Spike:G446S,S,477,N
-BA.2 Spike:G446S,S,478,K
-BA.2 Spike:G446S,S,484,A
-BA.2 Spike:G446S,S,493,R
-BA.2 Spike:G446S,S,498,R
-BA.2 Spike:G446S,S,501,Y
-BA.2 Spike:G446S,S,505,H
-BA.2 Spike:G446S,S,614,G
-BA.2 Spike:G446S,S,655,Y
-BA.2 Spike:G446S,S,679,K
-BA.2 Spike:G446S,S,681,H
-BA.2 Spike:G446S,S,764,K
-BA.2 Spike:G446S,S,796,Y
-BA.2 Spike:G446S,S,954,H
-BA.2 Spike:G446S,S,969,K
-BA.2 Spike:N460K,S,19,I
-BA.2 Spike:N460K,S,24,S
-BA.2 Spike:N460K,S,25,del
-BA.2 Spike:N460K,S,26,del
-BA.2 Spike:N460K,S,27,del
-BA.2 Spike:N460K,S,142,D
-BA.2 Spike:N460K,S,213,G
-BA.2 Spike:N460K,S,339,D
-BA.2 Spike:N460K,S,371,F
-BA.2 Spike:N460K,S,373,P
-BA.2 Spike:N460K,S,375,F
-BA.2 Spike:N460K,S,376,A
-BA.2 Spike:N460K,S,405,N
-BA.2 Spike:N460K,S,408,S
-BA.2 Spike:N460K,S,417,N
-BA.2 Spike:N460K,S,440,K
-BA.2 Spike:N460K,S,460,K
-BA.2 Spike:N460K,S,477,N
-BA.2 Spike:N460K,S,478,K
-BA.2 Spike:N460K,S,484,A
-BA.2 Spike:N460K,S,493,R
-BA.2 Spike:N460K,S,498,R
-BA.2 Spike:N460K,S,501,Y
-BA.2 Spike:N460K,S,505,H
-BA.2 Spike:N460K,S,614,G
-BA.2 Spike:N460K,S,655,Y
-BA.2 Spike:N460K,S,679,K
-BA.2 Spike:N460K,S,681,H
-BA.2 Spike:N460K,S,764,K
-BA.2 Spike:N460K,S,796,Y
-BA.2 Spike:N460K,S,954,H
-BA.2 Spike:N460K,S,969,K
+Omicron/BA.2/K147E,nsp1,135,R
+Omicron/BA.2/K147E,PLpro,24,I
+Omicron/BA.2/K147E,PLpro,489,S
+Omicron/BA.2/K147E,nsp4,264,F
+Omicron/BA.2/K147E,nsp4,327,I
+Omicron/BA.2/K147E,nsp4,438,F
+Omicron/BA.2/K147E,nsp4,492,I
+Omicron/BA.2/K147E,_3CLpro,132,H
+Omicron/BA.2/K147E,nsp6,106,del
+Omicron/BA.2/K147E,nsp6,107,del
+Omicron/BA.2/K147E,nsp6,108,del
+Omicron/BA.2/K147E,RdRP,323,L
+Omicron/BA.2/K147E,nsp13,392,C
+Omicron/BA.2/K147E,nsp14,42,V
+Omicron/BA.2/K147E,nsp15,112,I
+Omicron/BA.2/K147E,S,19,I
+Omicron/BA.2/K147E,S,24,S
+Omicron/BA.2/K147E,S,25,del
+Omicron/BA.2/K147E,S,26,del
+Omicron/BA.2/K147E,S,27,del
+Omicron/BA.2/K147E,S,142,D
+Omicron/BA.2/K147E,S,147,E
+Omicron/BA.2/K147E,S,213,G
+Omicron/BA.2/K147E,S,339,D
+Omicron/BA.2/K147E,S,371,F
+Omicron/BA.2/K147E,S,373,P
+Omicron/BA.2/K147E,S,375,F
+Omicron/BA.2/K147E,S,376,A
+Omicron/BA.2/K147E,S,405,N
+Omicron/BA.2/K147E,S,408,S
+Omicron/BA.2/K147E,S,417,N
+Omicron/BA.2/K147E,S,440,K
+Omicron/BA.2/K147E,S,477,N
+Omicron/BA.2/K147E,S,478,K
+Omicron/BA.2/K147E,S,484,A
+Omicron/BA.2/K147E,S,493,R
+Omicron/BA.2/K147E,S,498,R
+Omicron/BA.2/K147E,S,501,Y
+Omicron/BA.2/K147E,S,505,H
+Omicron/BA.2/K147E,S,614,G
+Omicron/BA.2/K147E,S,655,Y
+Omicron/BA.2/K147E,S,679,K
+Omicron/BA.2/K147E,S,681,H
+Omicron/BA.2/K147E,S,764,K
+Omicron/BA.2/K147E,S,796,Y
+Omicron/BA.2/K147E,S,954,H
+Omicron/BA.2/K147E,S,969,K
+Omicron/BA.2/K147E,ORF3a,223,I
+Omicron/BA.2/K147E,E,9,I
+Omicron/BA.2/K147E,M,19,E
+Omicron/BA.2/K147E,M,63,T
+Omicron/BA.2/K147E,ORF6,61,L
+Omicron/BA.2/K147E,N,13,L
+Omicron/BA.2/K147E,N,31,del
+Omicron/BA.2/K147E,N,32,del
+Omicron/BA.2/K147E,N,33,del
+Omicron/BA.2/K147E,N,203,K
+Omicron/BA.2/K147E,N,204,R
+Omicron/BA.2/K147E,N,413,R
+Omicron/BA.2/W152R,nsp1,135,R
+Omicron/BA.2/W152R,PLpro,24,I
+Omicron/BA.2/W152R,PLpro,489,S
+Omicron/BA.2/W152R,nsp4,264,F
+Omicron/BA.2/W152R,nsp4,327,I
+Omicron/BA.2/W152R,nsp4,438,F
+Omicron/BA.2/W152R,nsp4,492,I
+Omicron/BA.2/W152R,_3CLpro,132,H
+Omicron/BA.2/W152R,nsp6,106,del
+Omicron/BA.2/W152R,nsp6,107,del
+Omicron/BA.2/W152R,nsp6,108,del
+Omicron/BA.2/W152R,RdRP,323,L
+Omicron/BA.2/W152R,nsp13,392,C
+Omicron/BA.2/W152R,nsp14,42,V
+Omicron/BA.2/W152R,nsp15,112,I
+Omicron/BA.2/W152R,S,19,I
+Omicron/BA.2/W152R,S,24,S
+Omicron/BA.2/W152R,S,25,del
+Omicron/BA.2/W152R,S,26,del
+Omicron/BA.2/W152R,S,27,del
+Omicron/BA.2/W152R,S,142,D
+Omicron/BA.2/W152R,S,152,R
+Omicron/BA.2/W152R,S,213,G
+Omicron/BA.2/W152R,S,339,D
+Omicron/BA.2/W152R,S,371,F
+Omicron/BA.2/W152R,S,373,P
+Omicron/BA.2/W152R,S,375,F
+Omicron/BA.2/W152R,S,376,A
+Omicron/BA.2/W152R,S,405,N
+Omicron/BA.2/W152R,S,408,S
+Omicron/BA.2/W152R,S,417,N
+Omicron/BA.2/W152R,S,440,K
+Omicron/BA.2/W152R,S,477,N
+Omicron/BA.2/W152R,S,478,K
+Omicron/BA.2/W152R,S,484,A
+Omicron/BA.2/W152R,S,493,R
+Omicron/BA.2/W152R,S,498,R
+Omicron/BA.2/W152R,S,501,Y
+Omicron/BA.2/W152R,S,505,H
+Omicron/BA.2/W152R,S,614,G
+Omicron/BA.2/W152R,S,655,Y
+Omicron/BA.2/W152R,S,679,K
+Omicron/BA.2/W152R,S,681,H
+Omicron/BA.2/W152R,S,764,K
+Omicron/BA.2/W152R,S,796,Y
+Omicron/BA.2/W152R,S,954,H
+Omicron/BA.2/W152R,S,969,K
+Omicron/BA.2/W152R,ORF3a,223,I
+Omicron/BA.2/W152R,E,9,I
+Omicron/BA.2/W152R,M,19,E
+Omicron/BA.2/W152R,M,63,T
+Omicron/BA.2/W152R,ORF6,61,L
+Omicron/BA.2/W152R,N,13,L
+Omicron/BA.2/W152R,N,31,del
+Omicron/BA.2/W152R,N,32,del
+Omicron/BA.2/W152R,N,33,del
+Omicron/BA.2/W152R,N,203,K
+Omicron/BA.2/W152R,N,204,R
+Omicron/BA.2/W152R,N,413,R
+Omicron/BA.2/F157L,nsp1,135,R
+Omicron/BA.2/F157L,PLpro,24,I
+Omicron/BA.2/F157L,PLpro,489,S
+Omicron/BA.2/F157L,nsp4,264,F
+Omicron/BA.2/F157L,nsp4,327,I
+Omicron/BA.2/F157L,nsp4,438,F
+Omicron/BA.2/F157L,nsp4,492,I
+Omicron/BA.2/F157L,_3CLpro,132,H
+Omicron/BA.2/F157L,nsp6,106,del
+Omicron/BA.2/F157L,nsp6,107,del
+Omicron/BA.2/F157L,nsp6,108,del
+Omicron/BA.2/F157L,RdRP,323,L
+Omicron/BA.2/F157L,nsp13,392,C
+Omicron/BA.2/F157L,nsp14,42,V
+Omicron/BA.2/F157L,nsp15,112,I
+Omicron/BA.2/F157L,S,19,I
+Omicron/BA.2/F157L,S,24,S
+Omicron/BA.2/F157L,S,25,del
+Omicron/BA.2/F157L,S,26,del
+Omicron/BA.2/F157L,S,27,del
+Omicron/BA.2/F157L,S,142,D
+Omicron/BA.2/F157L,S,157,L
+Omicron/BA.2/F157L,S,213,G
+Omicron/BA.2/F157L,S,339,D
+Omicron/BA.2/F157L,S,371,F
+Omicron/BA.2/F157L,S,373,P
+Omicron/BA.2/F157L,S,375,F
+Omicron/BA.2/F157L,S,376,A
+Omicron/BA.2/F157L,S,405,N
+Omicron/BA.2/F157L,S,408,S
+Omicron/BA.2/F157L,S,417,N
+Omicron/BA.2/F157L,S,440,K
+Omicron/BA.2/F157L,S,477,N
+Omicron/BA.2/F157L,S,478,K
+Omicron/BA.2/F157L,S,484,A
+Omicron/BA.2/F157L,S,493,R
+Omicron/BA.2/F157L,S,498,R
+Omicron/BA.2/F157L,S,501,Y
+Omicron/BA.2/F157L,S,505,H
+Omicron/BA.2/F157L,S,614,G
+Omicron/BA.2/F157L,S,655,Y
+Omicron/BA.2/F157L,S,679,K
+Omicron/BA.2/F157L,S,681,H
+Omicron/BA.2/F157L,S,764,K
+Omicron/BA.2/F157L,S,796,Y
+Omicron/BA.2/F157L,S,954,H
+Omicron/BA.2/F157L,S,969,K
+Omicron/BA.2/F157L,ORF3a,223,I
+Omicron/BA.2/F157L,E,9,I
+Omicron/BA.2/F157L,M,19,E
+Omicron/BA.2/F157L,M,63,T
+Omicron/BA.2/F157L,ORF6,61,L
+Omicron/BA.2/F157L,N,13,L
+Omicron/BA.2/F157L,N,31,del
+Omicron/BA.2/F157L,N,32,del
+Omicron/BA.2/F157L,N,33,del
+Omicron/BA.2/F157L,N,203,K
+Omicron/BA.2/F157L,N,204,R
+Omicron/BA.2/F157L,N,413,R
+Omicron/BA.2/I210V,nsp1,135,R
+Omicron/BA.2/I210V,PLpro,24,I
+Omicron/BA.2/I210V,PLpro,489,S
+Omicron/BA.2/I210V,nsp4,264,F
+Omicron/BA.2/I210V,nsp4,327,I
+Omicron/BA.2/I210V,nsp4,438,F
+Omicron/BA.2/I210V,nsp4,492,I
+Omicron/BA.2/I210V,_3CLpro,132,H
+Omicron/BA.2/I210V,nsp6,106,del
+Omicron/BA.2/I210V,nsp6,107,del
+Omicron/BA.2/I210V,nsp6,108,del
+Omicron/BA.2/I210V,RdRP,323,L
+Omicron/BA.2/I210V,nsp13,392,C
+Omicron/BA.2/I210V,nsp14,42,V
+Omicron/BA.2/I210V,nsp15,112,I
+Omicron/BA.2/I210V,S,19,I
+Omicron/BA.2/I210V,S,24,S
+Omicron/BA.2/I210V,S,25,del
+Omicron/BA.2/I210V,S,26,del
+Omicron/BA.2/I210V,S,27,del
+Omicron/BA.2/I210V,S,142,D
+Omicron/BA.2/I210V,S,210,V
+Omicron/BA.2/I210V,S,213,G
+Omicron/BA.2/I210V,S,339,D
+Omicron/BA.2/I210V,S,371,F
+Omicron/BA.2/I210V,S,373,P
+Omicron/BA.2/I210V,S,375,F
+Omicron/BA.2/I210V,S,376,A
+Omicron/BA.2/I210V,S,405,N
+Omicron/BA.2/I210V,S,408,S
+Omicron/BA.2/I210V,S,417,N
+Omicron/BA.2/I210V,S,440,K
+Omicron/BA.2/I210V,S,477,N
+Omicron/BA.2/I210V,S,478,K
+Omicron/BA.2/I210V,S,484,A
+Omicron/BA.2/I210V,S,493,R
+Omicron/BA.2/I210V,S,498,R
+Omicron/BA.2/I210V,S,501,Y
+Omicron/BA.2/I210V,S,505,H
+Omicron/BA.2/I210V,S,614,G
+Omicron/BA.2/I210V,S,655,Y
+Omicron/BA.2/I210V,S,679,K
+Omicron/BA.2/I210V,S,681,H
+Omicron/BA.2/I210V,S,764,K
+Omicron/BA.2/I210V,S,796,Y
+Omicron/BA.2/I210V,S,954,H
+Omicron/BA.2/I210V,S,969,K
+Omicron/BA.2/I210V,ORF3a,223,I
+Omicron/BA.2/I210V,E,9,I
+Omicron/BA.2/I210V,M,19,E
+Omicron/BA.2/I210V,M,63,T
+Omicron/BA.2/I210V,ORF6,61,L
+Omicron/BA.2/I210V,N,13,L
+Omicron/BA.2/I210V,N,31,del
+Omicron/BA.2/I210V,N,32,del
+Omicron/BA.2/I210V,N,33,del
+Omicron/BA.2/I210V,N,203,K
+Omicron/BA.2/I210V,N,204,R
+Omicron/BA.2/I210V,N,413,R
+Omicron/BA.2/G257S,nsp1,135,R
+Omicron/BA.2/G257S,PLpro,24,I
+Omicron/BA.2/G257S,PLpro,489,S
+Omicron/BA.2/G257S,nsp4,264,F
+Omicron/BA.2/G257S,nsp4,327,I
+Omicron/BA.2/G257S,nsp4,438,F
+Omicron/BA.2/G257S,nsp4,492,I
+Omicron/BA.2/G257S,_3CLpro,132,H
+Omicron/BA.2/G257S,nsp6,106,del
+Omicron/BA.2/G257S,nsp6,107,del
+Omicron/BA.2/G257S,nsp6,108,del
+Omicron/BA.2/G257S,RdRP,323,L
+Omicron/BA.2/G257S,nsp13,392,C
+Omicron/BA.2/G257S,nsp14,42,V
+Omicron/BA.2/G257S,nsp15,112,I
+Omicron/BA.2/G257S,S,19,I
+Omicron/BA.2/G257S,S,24,S
+Omicron/BA.2/G257S,S,25,del
+Omicron/BA.2/G257S,S,26,del
+Omicron/BA.2/G257S,S,27,del
+Omicron/BA.2/G257S,S,142,D
+Omicron/BA.2/G257S,S,213,G
+Omicron/BA.2/G257S,S,257,S
+Omicron/BA.2/G257S,S,339,D
+Omicron/BA.2/G257S,S,371,F
+Omicron/BA.2/G257S,S,373,P
+Omicron/BA.2/G257S,S,375,F
+Omicron/BA.2/G257S,S,376,A
+Omicron/BA.2/G257S,S,405,N
+Omicron/BA.2/G257S,S,408,S
+Omicron/BA.2/G257S,S,417,N
+Omicron/BA.2/G257S,S,440,K
+Omicron/BA.2/G257S,S,477,N
+Omicron/BA.2/G257S,S,478,K
+Omicron/BA.2/G257S,S,484,A
+Omicron/BA.2/G257S,S,493,R
+Omicron/BA.2/G257S,S,498,R
+Omicron/BA.2/G257S,S,501,Y
+Omicron/BA.2/G257S,S,505,H
+Omicron/BA.2/G257S,S,614,G
+Omicron/BA.2/G257S,S,655,Y
+Omicron/BA.2/G257S,S,679,K
+Omicron/BA.2/G257S,S,681,H
+Omicron/BA.2/G257S,S,764,K
+Omicron/BA.2/G257S,S,796,Y
+Omicron/BA.2/G257S,S,954,H
+Omicron/BA.2/G257S,S,969,K
+Omicron/BA.2/G257S,ORF3a,223,I
+Omicron/BA.2/G257S,E,9,I
+Omicron/BA.2/G257S,M,19,E
+Omicron/BA.2/G257S,M,63,T
+Omicron/BA.2/G257S,ORF6,61,L
+Omicron/BA.2/G257S,N,13,L
+Omicron/BA.2/G257S,N,31,del
+Omicron/BA.2/G257S,N,32,del
+Omicron/BA.2/G257S,N,33,del
+Omicron/BA.2/G257S,N,203,K
+Omicron/BA.2/G257S,N,204,R
+Omicron/BA.2/G257S,N,413,R
+Omicron/BA.2/D339H,nsp1,135,R
+Omicron/BA.2/D339H,PLpro,24,I
+Omicron/BA.2/D339H,PLpro,489,S
+Omicron/BA.2/D339H,nsp4,264,F
+Omicron/BA.2/D339H,nsp4,327,I
+Omicron/BA.2/D339H,nsp4,438,F
+Omicron/BA.2/D339H,nsp4,492,I
+Omicron/BA.2/D339H,_3CLpro,132,H
+Omicron/BA.2/D339H,nsp6,106,del
+Omicron/BA.2/D339H,nsp6,107,del
+Omicron/BA.2/D339H,nsp6,108,del
+Omicron/BA.2/D339H,RdRP,323,L
+Omicron/BA.2/D339H,nsp13,392,C
+Omicron/BA.2/D339H,nsp14,42,V
+Omicron/BA.2/D339H,nsp15,112,I
+Omicron/BA.2/D339H,S,19,I
+Omicron/BA.2/D339H,S,24,S
+Omicron/BA.2/D339H,S,25,del
+Omicron/BA.2/D339H,S,26,del
+Omicron/BA.2/D339H,S,27,del
+Omicron/BA.2/D339H,S,142,D
+Omicron/BA.2/D339H,S,213,G
+Omicron/BA.2/D339H,S,339,H
+Omicron/BA.2/D339H,S,371,F
+Omicron/BA.2/D339H,S,373,P
+Omicron/BA.2/D339H,S,375,F
+Omicron/BA.2/D339H,S,376,A
+Omicron/BA.2/D339H,S,405,N
+Omicron/BA.2/D339H,S,408,S
+Omicron/BA.2/D339H,S,417,N
+Omicron/BA.2/D339H,S,440,K
+Omicron/BA.2/D339H,S,477,N
+Omicron/BA.2/D339H,S,478,K
+Omicron/BA.2/D339H,S,484,A
+Omicron/BA.2/D339H,S,493,R
+Omicron/BA.2/D339H,S,498,R
+Omicron/BA.2/D339H,S,501,Y
+Omicron/BA.2/D339H,S,505,H
+Omicron/BA.2/D339H,S,614,G
+Omicron/BA.2/D339H,S,655,Y
+Omicron/BA.2/D339H,S,679,K
+Omicron/BA.2/D339H,S,681,H
+Omicron/BA.2/D339H,S,764,K
+Omicron/BA.2/D339H,S,796,Y
+Omicron/BA.2/D339H,S,954,H
+Omicron/BA.2/D339H,S,969,K
+Omicron/BA.2/D339H,ORF3a,223,I
+Omicron/BA.2/D339H,E,9,I
+Omicron/BA.2/D339H,M,19,E
+Omicron/BA.2/D339H,M,63,T
+Omicron/BA.2/D339H,ORF6,61,L
+Omicron/BA.2/D339H,N,13,L
+Omicron/BA.2/D339H,N,31,del
+Omicron/BA.2/D339H,N,32,del
+Omicron/BA.2/D339H,N,33,del
+Omicron/BA.2/D339H,N,203,K
+Omicron/BA.2/D339H,N,204,R
+Omicron/BA.2/D339H,N,413,R
+Omicron/BA.2/G446S,nsp1,135,R
+Omicron/BA.2/G446S,PLpro,24,I
+Omicron/BA.2/G446S,PLpro,489,S
+Omicron/BA.2/G446S,nsp4,264,F
+Omicron/BA.2/G446S,nsp4,327,I
+Omicron/BA.2/G446S,nsp4,438,F
+Omicron/BA.2/G446S,nsp4,492,I
+Omicron/BA.2/G446S,_3CLpro,132,H
+Omicron/BA.2/G446S,nsp6,106,del
+Omicron/BA.2/G446S,nsp6,107,del
+Omicron/BA.2/G446S,nsp6,108,del
+Omicron/BA.2/G446S,RdRP,323,L
+Omicron/BA.2/G446S,nsp13,392,C
+Omicron/BA.2/G446S,nsp14,42,V
+Omicron/BA.2/G446S,nsp15,112,I
+Omicron/BA.2/G446S,S,19,I
+Omicron/BA.2/G446S,S,24,S
+Omicron/BA.2/G446S,S,25,del
+Omicron/BA.2/G446S,S,26,del
+Omicron/BA.2/G446S,S,27,del
+Omicron/BA.2/G446S,S,142,D
+Omicron/BA.2/G446S,S,213,G
+Omicron/BA.2/G446S,S,339,D
+Omicron/BA.2/G446S,S,371,F
+Omicron/BA.2/G446S,S,373,P
+Omicron/BA.2/G446S,S,375,F
+Omicron/BA.2/G446S,S,376,A
+Omicron/BA.2/G446S,S,405,N
+Omicron/BA.2/G446S,S,408,S
+Omicron/BA.2/G446S,S,417,N
+Omicron/BA.2/G446S,S,440,K
+Omicron/BA.2/G446S,S,446,S
+Omicron/BA.2/G446S,S,477,N
+Omicron/BA.2/G446S,S,478,K
+Omicron/BA.2/G446S,S,484,A
+Omicron/BA.2/G446S,S,493,R
+Omicron/BA.2/G446S,S,498,R
+Omicron/BA.2/G446S,S,501,Y
+Omicron/BA.2/G446S,S,505,H
+Omicron/BA.2/G446S,S,614,G
+Omicron/BA.2/G446S,S,655,Y
+Omicron/BA.2/G446S,S,679,K
+Omicron/BA.2/G446S,S,681,H
+Omicron/BA.2/G446S,S,764,K
+Omicron/BA.2/G446S,S,796,Y
+Omicron/BA.2/G446S,S,954,H
+Omicron/BA.2/G446S,S,969,K
+Omicron/BA.2/G446S,ORF3a,223,I
+Omicron/BA.2/G446S,E,9,I
+Omicron/BA.2/G446S,M,19,E
+Omicron/BA.2/G446S,M,63,T
+Omicron/BA.2/G446S,ORF6,61,L
+Omicron/BA.2/G446S,N,13,L
+Omicron/BA.2/G446S,N,31,del
+Omicron/BA.2/G446S,N,32,del
+Omicron/BA.2/G446S,N,33,del
+Omicron/BA.2/G446S,N,203,K
+Omicron/BA.2/G446S,N,204,R
+Omicron/BA.2/G446S,N,413,R
+Omicron/BA.2/N460K,nsp1,135,R
+Omicron/BA.2/N460K,PLpro,24,I
+Omicron/BA.2/N460K,PLpro,489,S
+Omicron/BA.2/N460K,nsp4,264,F
+Omicron/BA.2/N460K,nsp4,327,I
+Omicron/BA.2/N460K,nsp4,438,F
+Omicron/BA.2/N460K,nsp4,492,I
+Omicron/BA.2/N460K,_3CLpro,132,H
+Omicron/BA.2/N460K,nsp6,106,del
+Omicron/BA.2/N460K,nsp6,107,del
+Omicron/BA.2/N460K,nsp6,108,del
+Omicron/BA.2/N460K,RdRP,323,L
+Omicron/BA.2/N460K,nsp13,392,C
+Omicron/BA.2/N460K,nsp14,42,V
+Omicron/BA.2/N460K,nsp15,112,I
+Omicron/BA.2/N460K,S,19,I
+Omicron/BA.2/N460K,S,24,S
+Omicron/BA.2/N460K,S,25,del
+Omicron/BA.2/N460K,S,26,del
+Omicron/BA.2/N460K,S,27,del
+Omicron/BA.2/N460K,S,142,D
+Omicron/BA.2/N460K,S,213,G
+Omicron/BA.2/N460K,S,339,D
+Omicron/BA.2/N460K,S,371,F
+Omicron/BA.2/N460K,S,373,P
+Omicron/BA.2/N460K,S,375,F
+Omicron/BA.2/N460K,S,376,A
+Omicron/BA.2/N460K,S,405,N
+Omicron/BA.2/N460K,S,408,S
+Omicron/BA.2/N460K,S,417,N
+Omicron/BA.2/N460K,S,440,K
+Omicron/BA.2/N460K,S,460,K
+Omicron/BA.2/N460K,S,477,N
+Omicron/BA.2/N460K,S,478,K
+Omicron/BA.2/N460K,S,484,A
+Omicron/BA.2/N460K,S,493,R
+Omicron/BA.2/N460K,S,498,R
+Omicron/BA.2/N460K,S,501,Y
+Omicron/BA.2/N460K,S,505,H
+Omicron/BA.2/N460K,S,614,G
+Omicron/BA.2/N460K,S,655,Y
+Omicron/BA.2/N460K,S,679,K
+Omicron/BA.2/N460K,S,681,H
+Omicron/BA.2/N460K,S,764,K
+Omicron/BA.2/N460K,S,796,Y
+Omicron/BA.2/N460K,S,954,H
+Omicron/BA.2/N460K,S,969,K
+Omicron/BA.2/N460K,ORF3a,223,I
+Omicron/BA.2/N460K,E,9,I
+Omicron/BA.2/N460K,M,19,E
+Omicron/BA.2/N460K,M,63,T
+Omicron/BA.2/N460K,ORF6,61,L
+Omicron/BA.2/N460K,N,13,L
+Omicron/BA.2/N460K,N,31,del
+Omicron/BA.2/N460K,N,32,del
+Omicron/BA.2/N460K,N,33,del
+Omicron/BA.2/N460K,N,203,K
+Omicron/BA.2/N460K,N,204,R
+Omicron/BA.2/N460K,N,413,R
