@@ -1,0 +1,766 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Muik22b,BNT162b2_3dose_28,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,5120,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,1280,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,2560,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,Wuhan-Hu-1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,5120,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,1280,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,5120,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,5120,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,B.1.1.7 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,1280,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,B.1.351 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,2560,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,1280,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,1280,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,B.1.617.2 Spike:142D+417N,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,1280,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,BA.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,1280,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,60,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,BA.2 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,10,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,BA.2.12.1 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,640,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,320,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,BA.4/5 Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,10,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,160,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,10,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,10,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,SARS-CoV Spike,Supplementary Table 4,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,7680,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,Wuhan-Hu-1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,15360,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,15360,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,B.1.1.7 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,7680,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,7680,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,60,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,B.1.351 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,7680,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,B.1.617.2 Spike:142D+417N,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,15360,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,60,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,BA.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,BA.2 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1280,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1280,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,2560,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,2560,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,40,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,BA.2.12.1 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,40,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,2560,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,2560,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,1280,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,40,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,BA.4/5 Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,40,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,40,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,1280,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,1280,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,10,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 5,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,120,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,120,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,960,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,120,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,80,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,60,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,120,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,120,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,480,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,30,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,SARS-CoV Spike,Supplementary Table 5,Pseudovirus (VSV),NT50,60,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,Wuhan-Hu-1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,7680,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,B.1.1.7 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,B.1.351 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,B.1.617.2 Spike:142D+417N,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,BA.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,3840,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,BA.2 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,2560,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,BA.2.12.1 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,960,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,240,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,120,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,480,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,BA.4/5 Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,1920,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,40,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,10,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,160,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,80,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,640,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,BA.1 Spike:+376A+405N+408S+452R-446S+486V-493R-496S-547K-856K-981F,Supplementary Table 6,Pseudovirus (VSV),NT50,320,1,30720,30,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,40,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,10,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,10,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,10,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,5,1,5120,5,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,SARS-CoV Spike,Supplementary Table 6,Pseudovirus (VSV),NT50,20,1,5120,5,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,Wuhan-Hu-1,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,B.1.1.7 full genome,Supplementary Table 7,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,B.1.351 full genome:-80A-246I,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,B.1.617.2 full genome:142D+682Q,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,57,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,28,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,57,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,57,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,57,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_28,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,28,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_29,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,28,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_30,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_31,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,28,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_32,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,20,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_33,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_34,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,28,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_35,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_36,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,20,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_37,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_38,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_39,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,20,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_40,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,28,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_41,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_42,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_43,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_44,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,BNT162b2_3dose_45,Omicron/BA.4 full genome:3G-658S,Supplementary Table 7,Virus isolate,NT50,28,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,5120,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,5120,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,Wuhan-Hu-1,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,5120,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,B.1.1.7 full genome,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,5120,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,B.1.351 full genome:-80A-246I,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,5120,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,B.1.617.2 full genome:142D+682Q,Supplementary Table 8,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,5120,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 8,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 8,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_14,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_15,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_16,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_17,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_18,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,57,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_19,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_20,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_21,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_22,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_23,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_24,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_25,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_26,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,7,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA1_CP_27,Omicron/BA.4 full genome:3G-658S,Supplementary Table 8,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,Wuhan-Hu-1,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,5120,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,B.1.1.7 full genome,Supplementary Table 9,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,1810,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,B.1.351 full genome:-80A-246I,Supplementary Table 9,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,5120,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,2560,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,B.1.617.2 full genome:142D+682Q,Supplementary Table 9,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,80,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,SARS-CoV-2/human/BEL/rega-20174/2021,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,3620,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,453,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,1280,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_01,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_02,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,905,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_03,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_04,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,40,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_05,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_06,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,113,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_07,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_08,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_09,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_10,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,160,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_11,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,226,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_12,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,640,1,10000,10,NULL,2022-08-08
+Muik22b,mRNA_3dose_BA2_CP_13,Omicron/BA.4 full genome:3G-658S,Supplementary Table 9,Virus isolate,NT50,320,1,10000,10,NULL,2022-08-08
