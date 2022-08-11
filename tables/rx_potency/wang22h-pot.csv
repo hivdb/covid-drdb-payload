@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Wang22h,mRNA_2dose,S:614G,Figure 1A,Pseudovirus (VSV),NT50,5332,16,1000000,100,NULL,2022-08-10
 Wang22h,mRNA_2dose,BA.2 Spike,Figure 1A,Pseudovirus (VSV),NT50,1083,16,1000000,100,NULL,2022-08-10
 Wang22h,mRNA_2dose,BA.2.12.1 Spike,Figure 1A,Pseudovirus (VSV),NT50,684,16,1000000,100,NULL,2022-08-10
