@@ -3009,9 +3009,9 @@ Tang21,hCoV-2IG,Human,NULL,6
 Tarhini21,Patient 1,Human,1954,1
 Tarhini21,Patient 2,Human,1949,1
 Tarhini21,Patient 3,Human,1985,1
-Tauzin22,BTI_CP,Human,NULL,1
-Tauzin22,PI_CP,Human,NULL,1
-Tauzin22,mRNA_3dose,Human,NULL,1
+Tauzin22,BTI_CP,Human,NULL,15
+Tauzin22,PI_CP,Human,NULL,15
+Tauzin22,mRNA_3dose,Human,NULL,15
 Tea21,CP_first_wave,Human,1973,31
 Tea21,CP_second_wave,Human,1977,17
 Tober-Lau22,VP_2dose,Human,NULL,10
