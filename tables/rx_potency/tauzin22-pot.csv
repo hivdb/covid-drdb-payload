@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Tauzin22,mRNA_3dose_4wks,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,488,15,31250,50,NULL,2022-08-11
 Tauzin22,BTI_CP_4wks,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,840,15,31250,50,NULL,2022-08-11
 Tauzin22,PI_CP_4wks,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,1156,15,31250,50,NULL,2022-08-11
