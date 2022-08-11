@@ -1,0 +1,7 @@
+ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Tauzin22,mRNA_3dose,mRNA_3dose_4wks,~,2021-12-18,Canada,mRNA_3dose,NULL
+Tauzin22,BTI_CP,BTI_CP_4wks,~,2021-12-21,Canada,BTI_CP,NULL
+Tauzin22,PI_CP,PI_CP_4wks,~,2021-12-31,Canada,PI_CP,NULL
+Tauzin22,mRNA_3dose,mRNA_3dose_4mos,~,2022-03-19,Canada,mRNA_3dose,NULL
+Tauzin22,BTI_CP,BTI_CP_4mos,~,2022-03-24,Canada,BTI_CP,NULL
+Tauzin22,PI_CP,PI_CP_4mos,~,2022-03-27,Canada,PI_CP,NULL

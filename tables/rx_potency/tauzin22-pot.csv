@@ -1,0 +1,19 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Tauzin22,mRNA_3dose_4wks,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,488,15,31250,50,NULL,2022-08-11
+Tauzin22,BTI_CP_4wks,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,840,15,31250,50,NULL,2022-08-11
+Tauzin22,PI_CP_4wks,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,1156,15,31250,50,NULL,2022-08-11
+Tauzin22,mRNA_3dose_4mos,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,208,15,31250,50,NULL,2022-08-11
+Tauzin22,BTI_CP_4mos,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,963,15,31250,50,NULL,2022-08-11
+Tauzin22,PI_CP_4mos,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,1834,15,31250,50,NULL,2022-08-11
+Tauzin22,mRNA_3dose_4wks,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,292,15,31250,50,NULL,2022-08-11
+Tauzin22,BTI_CP_4wks,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,487,15,31250,50,NULL,2022-08-11
+Tauzin22,PI_CP_4wks,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,1034,15,31250,50,NULL,2022-08-11
+Tauzin22,mRNA_3dose_4mos,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,89,15,31250,50,NULL,2022-08-11
+Tauzin22,BTI_CP_4mos,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,901,15,31250,50,NULL,2022-08-11
+Tauzin22,PI_CP_4mos,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,984,15,31250,50,NULL,2022-08-11
+Tauzin22,mRNA_3dose_4wks,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,72,15,31250,50,NULL,2022-08-11
+Tauzin22,BTI_CP_4wks,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,130,15,31250,50,NULL,2022-08-11
+Tauzin22,PI_CP_4wks,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,439,15,31250,50,NULL,2022-08-11
+Tauzin22,mRNA_3dose_4mos,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,49,15,31250,50,NULL,2022-08-11
+Tauzin22,BTI_CP_4mos,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,195,15,31250,50,NULL,2022-08-11
+Tauzin22,PI_CP_4mos,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,493,15,31250,50,NULL,2022-08-11
