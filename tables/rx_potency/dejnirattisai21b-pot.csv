@@ -1,9 +1,9 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Dejnirattisai21b,AZD1222_2dose,VIC,Figure 1,Virus isolate,NT50,133,47,10000,20,NULL,2021-12-13
-Dejnirattisai21b,AZD1222_2dose,B.1.351 full genome,Figure 1,Virus isolate,NT50,42,47,10000,20,NULL,2021-12-13
-Dejnirattisai21b,AZD1222_2dose,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,52,47,10000,20,NULL,2021-12-13
-Dejnirattisai21b,AZD1222_2dose,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,10,47,10000,20,NULL,2021-12-13
-Dejnirattisai21b,BNT_2dose,VIC,Figure 1,Virus isolate,NT50,1609,46,10000,20,NULL,2021-12-13
-Dejnirattisai21b,BNT_2dose,B.1.351 full genome,Figure 1,Virus isolate,NT50,558,46,10000,20,NULL,2021-12-13
-Dejnirattisai21b,BNT_2dose,B.1.617.2 full genome,Figure 1,Virus isolate,NT50,1358,46,10000,20,NULL,2021-12-13
-Dejnirattisai21b,BNT_2dose,B.1.1.529 full genome,Figure 1,Virus isolate,NT50,54,46,10000,20,NULL,2021-12-13
+Dejnirattisai21b,AZD1222_2dose,VIC,Figure,Virus isolate,NT50,133,47,10000,20,NULL,2021-12-13
+Dejnirattisai21b,AZD1222_2dose,B.1.351 full genome,Figure,Virus isolate,NT50,42,47,10000,20,NULL,2021-12-13
+Dejnirattisai21b,AZD1222_2dose,B.1.617.2 full genome,Figure,Virus isolate,NT50,52,47,10000,20,NULL,2021-12-13
+Dejnirattisai21b,AZD1222_2dose,B.1.1.529 full genome,Figure,Virus isolate,NT50,10,47,10000,20,NULL,2021-12-13
+Dejnirattisai21b,BNT_2dose,VIC,Figure,Virus isolate,NT50,1609,46,10000,20,NULL,2021-12-13
+Dejnirattisai21b,BNT_2dose,B.1.351 full genome,Figure,Virus isolate,NT50,558,46,10000,20,NULL,2021-12-13
+Dejnirattisai21b,BNT_2dose,B.1.617.2 full genome,Figure,Virus isolate,NT50,1358,46,10000,20,NULL,2021-12-13
+Dejnirattisai21b,BNT_2dose,B.1.1.529 full genome,Figure,Virus isolate,NT50,54,46,10000,20,NULL,2021-12-13
