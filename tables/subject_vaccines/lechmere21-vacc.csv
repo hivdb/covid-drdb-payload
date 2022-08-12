@@ -1,7 +1,0 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
-Lechmere21,AZD1222_delta_infected,~,2021-01-01,AZD1222,1,England,NULL
-Lechmere21,AZD1222_delta_infected,~,2021-02-01,AZD1222,2,England,NULL
-Lechmere21,BNT162b2_delta_infected,~,2021-01-01,BNT162b2,1,England,NULL
-Lechmere21,BNT162b2_delta_infected,~,2021-02-01,BNT162b2,2,England,NULL
-Lechmere21,double_vaccination_delta_infected,~,2021-01-01,AZD1222 + BNT162b2,1,England,NULL
-Lechmere21,double_vaccination_delta_infected,~,2021-02-01,AZD1222 + BNT162b2,2,England,NULL

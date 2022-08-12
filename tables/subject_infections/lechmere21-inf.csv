@@ -1,6 +1,0 @@
-﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Lechmere21,AZD1222_delta_infected,~,2021-07-01,Delta,England,NULL,NULL,NULL
-Lechmere21,BNT162b2_delta_infected,~,2021-07-01,Delta,England,NULL,NULL,NULL
-Lechmere21,CP_2A,~,2021-07-01,Delta,England,NULL,NULL,NULL
-Lechmere21,CP_3B,~,2021-07-01,Delta,England,NULL,NULL,NULL
-Lechmere21,double_vaccination_delta_infected,~,2021-07-01,Delta,England,NULL,NULL,NULL
