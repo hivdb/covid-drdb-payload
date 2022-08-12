@@ -2409,9 +2409,9 @@ Qu22,Omicron_3dose,Human,1960,7
 Qu22,Omicron_CP,Human,1960,15
 Rees-Spear21,CP_Mild,Human,NULL,18
 Rees-Spear21,CP_Severe,Human,NULL,18
-Ren21,CP_Group1,Human,1971,9
-Ren21,CP_Group2,Human,1969,10
-Ren21,CP_Group3,Human,1972,9
+Ren22,CP_Group1,Human,1971,9
+Ren22,CP_Group2,Human,1969,10
+Ren22,CP_Group3,Human,1972,9
 Reynolds21,BNT162b2,Human,1978,20
 Reynolds21,BNT162b2_infected,Human,1978,24
 Richardson22,CP_BA.4,Human,NULL,13
