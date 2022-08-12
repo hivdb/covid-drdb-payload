@@ -684,9 +684,11 @@ Diez21,CP,Human,NULL,3
 Ding21,CP,Human,NULL,5
 Dolzhikova21,Sputnik_2dose,Human,1987,9
 Dolzhikova21,Sputnik_3dose,Human,1988,6
-Doria-Rose21,mRNA_2dose,Human,NULL,30
-Doria-Rose21,mRNA_Duke_3dose,Human,NULL,10
-Doria-Rose21,mRNA_VRC_3dose,Human,NULL,7
+Doria-Rose21,mRNA-1273,Human,NULL,20
+Doria-Rose21,mRNA-1273.211,Human,NULL,20
+Doria-Rose21,mRNA_Duke,Human,NULL,30
+Doria-Rose21,mRNA_VRC,Human,NULL,30
+Doria-Rose21,mRNA_VRC_infected,Human,NULL,2
 Drews21,CP,Human,NULL,8
 Drouin21,CP Donor,Human,NULL,2
 Drouin21,Patient,Human,1961,1
