@@ -1,122 +1,51 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Spencer21,AZD1222_1dose,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Table 1,Pseudovirus (lentivirus),NT80,40,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD2816_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,40,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD2816_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,55,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD2816_1dose,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Table 1,Pseudovirus (lentivirus),NT80,40,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD2816_1dose,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Table 1,Pseudovirus (lentivirus),NT80,40,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD1222_2816_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,65,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD1222_2816_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,41,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD1222_2816_1dose,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Table 1,Pseudovirus (lentivirus),NT80,40,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD1222_2816_1dose,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Table 1,Pseudovirus (lentivirus),NT80,40,5,NULL,40,NULL,2021-08-26
-Spencer21,AZD1222_2816_2dose,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Table 1,Pseudovirus (lentivirus),NT80,145,6,NULL,40,NULL,2021-08-26
-Spencer21,AZD1222_1dose_1,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,69,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_2,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,91,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_3,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,185,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_4,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,322,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_5,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,474,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_1,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,39,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_2,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,52,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_3,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,106,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_4,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,189,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_5,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,296,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_1,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,74,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_2,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,143,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_3,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,156,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_4,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,189,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_5,Wuhan-Hu-1,Figure 2C,Pseudovirus (lentivirus),NT50,244,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_1,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,39,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_2,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,39,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_3,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,39,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_4,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,39,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_5,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,39,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_6,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,80,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_7,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,51,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_8,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,224,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_9,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,51,1,1000,40,NULL,2021-10-07
-Spencer21,AZD2816_1dose_10,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,234,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_6,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,40,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_7,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,55,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_8,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,72,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_9,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,39,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_1dose_10,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 2C,Pseudovirus (lentivirus),NT50,50,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_6,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,42,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_7,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,49,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_8,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,53,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_9,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,157,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_10,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,295,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_1,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,301,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_2,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,408,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_3,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,748,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_4,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,1650,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_5,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,650,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_6,Wuhan-Hu-1,Figure 3C,Pseudovirus (lentivirus),NT80,1277,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_6,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_7,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_8,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_9,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_10,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_7,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,185,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_8,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,250,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_9,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,503,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_10,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,1060,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_11,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,172,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_12,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 3C,Pseudovirus (lentivirus),NT80,228,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_6,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_7,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_8,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_9,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_1dose_10,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,40,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_13,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,89,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_14,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,186,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_15,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,310,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_16,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,568,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_17,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,85,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2816_2dose_18,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 3C,Pseudovirus (lentivirus),NT80,172,1,1000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_1,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,1150,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_2,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,613,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_3,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,862,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_4,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,1150,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_5,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,1618,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_1,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,2159,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_2,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,2216,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_3,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,2103,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_4,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,2398,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_5,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,582,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_6,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,1036,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_7,Wuhan-Hu-1,Figure 5D,Pseudovirus (lentivirus),NT80,1457,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_6,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,95,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_7,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,302,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_8,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,50,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_9,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,111,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_10,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,372,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_8,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,717,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_9,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,1495,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_10,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,1618,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_11,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,272,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_12,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,597,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_13,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,818,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_14,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Figure 5D,Pseudovirus (lentivirus),NT80,737,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_11,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,56,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_12,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,174,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_13,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,95,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_14,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,43,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_15,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,183,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_15,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,294,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_16,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,933,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_17,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,471,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_18,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,318,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_19,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,776,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_20,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,567,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_21,S:95I+142D+154K+452R+484Q+614G+681R+1071H,Figure 5D,Pseudovirus (lentivirus),NT80,265,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_16,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,245,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_17,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_18,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_19,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_20,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,40,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_22,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,403,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_23,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,382,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_24,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,69,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_25,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,123,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_26,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,209,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_27,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,318,1,10000,40,NULL,2021-10-07
-Spencer21,AZD1222_2dose_AZD2816_28,S:19R+142D+156del+157del+158G+452R+478K+614G+681R+950N,Figure 5D,Pseudovirus (lentivirus),NT80,1181,1,10000,40,NULL,2021-10-07
+Spencer21,AZD1222_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT50,186,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD2816_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT50,107,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_AZD2816_mix_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT50,157,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT50,1691,5,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose_AZD2816_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT50,2058,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_3dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT50,4032,4,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose_AZD2816_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT50,3704,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,55,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD2816_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_AZD2816_mix_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,65,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,486,5,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose_AZD2816_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,706,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_3dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,1478,4,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose_AZD2816_1dose,Wuhan-Hu-1,Table 1,Pseudovirus (lentivirus),NT80,2022,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT50,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD2816_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT50,81,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_AZD2816_mix_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT50,51,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT50,830,5,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose_AZD2816_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT50,2281,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_3dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT50,1609,4,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose_AZD2816_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT50,4392,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD2816_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,55,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_AZD2816_mix_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,41,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,243,5,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose_AZD2816_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,585,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_3dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,413,4,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose_AZD2816_1dose,S:18F+80A+215G+242del+243del+417N+484K+501Y+614G+701V,Table 1,Pseudovirus (lentivirus),NT80,1864,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT50,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD2816_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT50,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_AZD2816_mix_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT50,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT50,151,5,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose_AZD2816_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT50,379,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_3dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT50,721,4,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose_AZD2816_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT50,1699,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT80,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD2816_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT80,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_AZD2816_mix_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT80,40,10,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT80,93,5,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose_AZD2816_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT80,223,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_3dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT80,375,4,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose_AZD2816_1dose,B.1.617.2 Spike,Table 1,Pseudovirus (lentivirus),NT80,615,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,2689,5,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose_AZD2816_1dose,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,3507,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_3dose,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,1896,4,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose_AZD2816_1dose,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT50,4755,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT80,722,5,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_1dose_AZD2816_1dose,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT80,998,6,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_3dose,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT80,1017,4,NULL,40,NULL,2022-08-15
+Spencer21,AZD1222_2dose_AZD2816_1dose,P.1 Spike,Table 1,Pseudovirus (lentivirus),NT80,3236,6,NULL,40,NULL,2022-08-15
