@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Takashita22c,Imdevimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,7.4,1,50000,1,ng/ml,2022-08-15
 Takashita22c,Imdevimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
 Takashita22c,Imdevimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
