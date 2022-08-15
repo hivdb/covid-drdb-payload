@@ -1,0 +1,57 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Takashita22c,Imdevimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,7.4,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,329.0,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab,hCoV-19/USA/NY-MSHSPSP- PV56475/2022,Table 1,Virus isolate,IC50,238.1,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Table 1,Virus isolate,IC50,132.6,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,IC50,583.4,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Casirivimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,6.1,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Casirivimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Casirivimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Casirivimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Casirivimab,hCoV-19/USA/NY-MSHSPSP- PV56475/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Casirivimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Casirivimab,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,6.1,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,1552.7,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,603.5,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,2756.6,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab,hCoV-19/USA/NY-MSHSPSP- PV56475/2022,Table 1,Virus isolate,IC50,335.2,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Cilgavimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,7.0,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Cilgavimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,2916.9,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Cilgavimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Cilgavimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,16.9,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Cilgavimab,hCoV-19/USA/NY-MSHSPSP- PV56475/2022,Table 1,Virus isolate,IC50,21.0,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Cilgavimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Table 1,Virus isolate,IC50,53.6,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Cilgavimab,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,IC50,56.8,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Sotrovimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,95.1,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Sotrovimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,40727.1,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Sotrovimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,3769.2,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Sotrovimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Sotrovimab,hCoV-19/USA/NY-MSHSPSP- PV56475/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Sotrovimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Sotrovimab,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,IC50,50000,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Bebtelovimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,2.5,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Bebtelovimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,5.8,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Bebtelovimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,3.9,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Bebtelovimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,3.3,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Bebtelovimab,hCoV-19/USA/NY-MSHSPSP- PV56475/2022,Table 1,Virus isolate,IC50,4.0,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Bebtelovimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Table 1,Virus isolate,IC50,2.9,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Bebtelovimab,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,IC50,3.3,1,50000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab+Casirivimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,3.4,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab+Casirivimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab+Casirivimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,10000,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab+Casirivimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,835.1,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab+Casirivimab,hCoV-19/USA/NY-MSHSPSP- PV56475/2022,Table 1,Virus isolate,IC50,452.7,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab+Casirivimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Table 1,Virus isolate,IC50,459.1,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Imdevimab+Casirivimab,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,IC50,1093.1,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab+Cilgavimab,SARS-CoV-2/UT-NC002-1T/Human/2020/Tokyo,Table 1,Virus isolate,IC50,6.3,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab+Cilgavimab,hCoV-19/Japan/NC928-2N/2021,Table 1,Virus isolate,IC50,351.1,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab+Cilgavimab,hCoV-19/Japan/NC929-1N/2021,Table 1,Virus isolate,IC50,1296.8,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab+Cilgavimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Table 1,Virus isolate,IC50,34.6,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab+Cilgavimab,hCoV-19/USA/NY-MSHSPSP- PV56475/2022,Table 1,Virus isolate,IC50,38.1,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab+Cilgavimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Table 1,Virus isolate,IC50,37.8,1,10000,1,ng/ml,2022-08-15
+Takashita22c,Tixagevimab+Cilgavimab,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,IC50,192.5,1,10000,1,ng/ml,2022-08-15
