@@ -1,81 +1,27 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Pannus21,Infected_Staff_1,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,14424,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_2,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,3171,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_3,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,8862,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_4,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,5205,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_5,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,3019,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_6,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,4795,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_7,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,7616,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_8,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,88,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_9,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,4437,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_10,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,6847,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_11,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,1601,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_12,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,3400,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_13,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,13960,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_14,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,3133,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_15,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,6791,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_16,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,7679,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_17,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,1227,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_18,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,5141,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_19,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,2150,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_20,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,2115,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_21,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,1957,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_1,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1810,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_2,B.1.351 full genome,Figure 2e,Virus isolate,NT50,369,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_3,B.1.351 full genome,Figure 2e,Virus isolate,NT50,656,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_4,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1695,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_5,B.1.351 full genome,Figure 2e,Virus isolate,NT50,296,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_6,B.1.351 full genome,Figure 2e,Virus isolate,NT50,318,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_7,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1063,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_8,B.1.351 full genome,Figure 2e,Virus isolate,NT50,25,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_9,B.1.351 full genome,Figure 2e,Virus isolate,NT50,566,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_10,B.1.351 full genome,Figure 2e,Virus isolate,NT50,602,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_11,B.1.351 full genome,Figure 2e,Virus isolate,NT50,230,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_12,B.1.351 full genome,Figure 2e,Virus isolate,NT50,348,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_13,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1268,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_14,B.1.351 full genome,Figure 2e,Virus isolate,NT50,612,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_15,B.1.351 full genome,Figure 2e,Virus isolate,NT50,318,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_16,B.1.351 full genome,Figure 2e,Virus isolate,NT50,635,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_17,B.1.351 full genome,Figure 2e,Virus isolate,NT50,66,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_18,B.1.351 full genome,Figure 2e,Virus isolate,NT50,918,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_19,B.1.351 full genome,Figure 2e,Virus isolate,NT50,802,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_20,B.1.351 full genome,Figure 2e,Virus isolate,NT50,489,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Staff_21,B.1.351 full genome,Figure 2e,Virus isolate,NT50,302,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_1,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,400,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_2,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,1310,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_3,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,2013,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_4,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,3675,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_5,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,3428,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_6,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,4038,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_7,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,3428,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_8,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,4815,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_9,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,9045,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_10,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,5695,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_11,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,4528,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_12,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,10481,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_13,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,19609,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_14,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,1365,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_15,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,2089,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_16,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,4815,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_17,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,1121,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_18,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,3470,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_19,Wuhan-Hu-1,Figure 2e,Virus isolate,NT50,2411,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_1,B.1.351 full genome,Figure 2e,Virus isolate,NT50,25,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_2,B.1.351 full genome,Figure 2e,Virus isolate,NT50,151,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_3,B.1.351 full genome,Figure 2e,Virus isolate,NT50,533,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_4,B.1.351 full genome,Figure 2e,Virus isolate,NT50,25,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_5,B.1.351 full genome,Figure 2e,Virus isolate,NT50,318,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_6,B.1.351 full genome,Figure 2e,Virus isolate,NT50,2047,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_7,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1076,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_8,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1506,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_9,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1702,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_10,B.1.351 full genome,Figure 2e,Virus isolate,NT50,2401,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_11,B.1.351 full genome,Figure 2e,Virus isolate,NT50,434,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_12,B.1.351 full genome,Figure 2e,Virus isolate,NT50,5141,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_13,B.1.351 full genome,Figure 2e,Virus isolate,NT50,5205,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_14,B.1.351 full genome,Figure 2e,Virus isolate,NT50,74,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_15,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1008,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_16,B.1.351 full genome,Figure 2e,Virus isolate,NT50,1131,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_17,B.1.351 full genome,Figure 2e,Virus isolate,NT50,245,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_18,B.1.351 full genome,Figure 2e,Virus isolate,NT50,683,1,25600,50,NULL,2021-09-23
-Pannus21,Infected_Resident_19,B.1.351 full genome,Figure 2e,Virus isolate,NT50,656,1,25600,50,NULL,2021-09-23
+Pannus21,Naive_Staff_D21,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,27.7,40,25600,50,NULL,2022-08-15
+Pannus21,Naive_Staff_D28,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,252.6,40,25600,50,NULL,2022-08-15
+Pannus21,Naive_Staff_D49,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,154.8,40,25600,50,NULL,2022-08-15
+Pannus21,Naive_Staff_D21,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,25,11,25600,50,NULL,2022-08-15
+Pannus21,Naive_Staff_D28,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,37.1,40,25600,50,NULL,2022-08-15
+Pannus21,Naive_Staff_D49,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,27.5,40,25600,50,NULL,2022-08-15
+Pannus21,Naive_Resident_D28,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,34.3,53,25600,50,NULL,2022-08-15
+Pannus21,Naive_Resident_D49,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,48.4,53,25600,50,NULL,2022-08-15
+Pannus21,Naive_Resident_D28,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,26,17,25600,50,NULL,2022-08-15
+Pannus21,Naive_Resident_D49,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,25,32,25600,50,NULL,2022-08-15
+Pannus21,Infected_Staff_D0,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,57.1,66,25600,50,NULL,2022-08-15
+Pannus21,Infected_Staff_D21,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,2200.4,66,25600,50,NULL,2022-08-15
+Pannus21,Infected_Staff_D28,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,3677.3,66,25600,50,NULL,2022-08-15
+Pannus21,Infected_Staff_D49,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,2943,66,25600,50,NULL,2022-08-15
+Pannus21,Infected_Staff_D0,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,26.5,45,25600,50,NULL,2022-08-15
+Pannus21,Infected_Staff_D21,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,531.2,61,25600,50,NULL,2022-08-15
+Pannus21,Infected_Staff_D28,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,612.1,66,25600,50,NULL,2022-08-15
+Pannus21,Infected_Staff_D49,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,438.3,66,25600,50,NULL,2022-08-15
+Pannus21,Infected_Resident_D0,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,67.6,25,25600,50,NULL,2022-08-15
+Pannus21,Infected_Resident_D21,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,2409,25,25600,50,NULL,2022-08-15
+Pannus21,Infected_Resident_D28,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,3330.7,25,25600,50,NULL,2022-08-15
+Pannus21,Infected_Resident_D49,SARS-CoV-2/human/ITA/INMI1/2020,Supplementary Table S1,Virus isolate,NT50,2900.6,25,25600,50,NULL,2022-08-15
+Pannus21,Infected_Resident_D0,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,30.8,19,25600,50,NULL,2022-08-15
+Pannus21,Infected_Resident_D21,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,400.8,24,25600,50,NULL,2022-08-15
+Pannus21,Infected_Resident_D28,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,523.6,24,25600,50,NULL,2022-08-15
+Pannus21,Infected_Resident_D49,B.1.351 full genome,Supplementary Table S1,Virus isolate,NT50,478.5,24,25600,50,NULL,2022-08-15

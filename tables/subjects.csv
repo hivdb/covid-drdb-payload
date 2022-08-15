@@ -2261,8 +2261,10 @@ Niyomnaitham22,CoronaVac_BNT162b2,Human,1990,30
 Niyomnaitham22,CoronaVac_ChAdOx1_BNT162b2,Human,1982,30
 Nussenblatt21,Donor,Human,NULL,1
 Nussenblatt21,Patient,Human,1972,1
-Pannus21,Infected_Resident,Human,NULL,19
-Pannus21,Infected_Staff,Human,NULL,20
+Pannus21,Infected_Resident,Human,NULL,25
+Pannus21,Infected_Staff,Human,NULL,66
+Pannus21,Naive_Resident,Human,NULL,53
+Pannus21,Naive_Staff,Human,NULL,40
 Parry21,BNT162b2,Human,1937,20
 Payne21,BNT_Long,Human,NULL,20
 Payne21,BNT_Short,Human,NULL,19
