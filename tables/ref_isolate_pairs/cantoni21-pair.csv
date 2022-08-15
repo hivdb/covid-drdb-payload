@@ -1,5 +1,8 @@
 ref_name,control_iso_name,iso_name
-Cantoni21,B.1 Spike,B.1.1.298 Spike
-Cantoni21,B.1 Spike,B.1.1.7 Spike
-Cantoni21,B.1 Spike,P.1 Spike
-Cantoni21,B.1 Spike,B.1.351 Spike
+Cantoni21,S:614G,S:69del+70del+453F+614G+692V+1229I
+Cantoni21,S:614G,B.1.1.7 Spike
+Cantoni21,S:614G,S:19R+95I+142D+156G+157del+158del+258L+417N+452R+478K+614G+681R+950N
+Cantoni21,S:614G,S:19R+95I+142D+156G+157del+158del+452R+478K+614G+681R+950N
+Cantoni21,S:614G,B.1.617 Spike
+Cantoni21,S:614G,S:18F+20N+26S+138Y+190S+417T+484K+501Y+614G+655Y+1027I
+Cantoni21,S:614G,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V
