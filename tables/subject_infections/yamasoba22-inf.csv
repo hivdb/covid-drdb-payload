@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Yamasoba22,CP_early,~,2020-04-09,B.1,Japan,NULL,NULL,Table S2
+Yamasoba22,CP_Alpha,~,2020-12-09,Alpha,Japan,NULL,NULL,Table S2
+Yamasoba22,CP_Delta,~,2021-07-29,Delta,Japan,NULL,NULL,Table S2
+Yamasoba22,BA.1_BTI,~,2022-01-16,Omicron/BA.1,Japan,NULL,NULL,Table S2
+Yamasoba22,CP_BA.1,~,2022-01-24,Omicron/BA.1,Japan,NULL,NULL,Table S2
+Yamasoba22,CP_Hamster_B.1,~,2022-01-01,B.1,Japan,NULL,NULL,Table S2
+Yamasoba22,CP_Hamster_Delta,~,2022-01-01,Delta,Japan,NULL,NULL,Table S2
+Yamasoba22,CP_Hamster_BA.1,~,2022-01-01,Omicron/BA.1,Japan,NULL,NULL,Table S2
+Yamasoba22,CP_Hamster_BA.2,~,2022-01-01,Omicron/BA.2,Japan,NULL,NULL,Table S2
