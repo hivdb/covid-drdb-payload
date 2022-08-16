@@ -1,4 +1,4 @@
-ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
 Yamasoba22,mRNA-1273_2dose,S:614G,B.1.617.2 Spike,Figure 2B,Pseudovirus (HIV),NT50,=,3.3,NULL,NULL,16,2022-08-16
 Yamasoba22,mRNA-1273_2dose,S:614G,BA.1 Spike,Figure 2B,Pseudovirus (HIV),NT50,=,15,NULL,NULL,16,2022-08-16
 Yamasoba22,mRNA-1273_2dose,S:614G,BA.2 Spike,Figure 2B,Pseudovirus (HIV),NT50,=,18,NULL,NULL,16,2022-08-16
