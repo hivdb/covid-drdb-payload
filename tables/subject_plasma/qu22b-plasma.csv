@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Qu22b,HCW,mRNA_2dose,~,2021-02-26,USA,HCW,NULL
 Qu22b,HCW,mRNA_3dose,~,2021-09-12,USA,HCW,NULL
 Qu22b,CP,CP,~,2022-03-01,USA,CP,NULL
