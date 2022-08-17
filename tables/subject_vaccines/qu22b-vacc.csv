@@ -1,0 +1,9 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Qu22b,HCW,~,2022-01-01,mRNA,1,USA,NULL
+Qu22b,HCW,~,2022-02-01,mRNA,2,USA,NULL
+Qu22b,HCW,~,2022-08-01,mRNA,3,USA,NULL
+Qu22b,mRNA_2dose_CP,~,2022-01-01,mRNA,1,USA,NULL
+Qu22b,mRNA_2dose_CP,~,2022-02-01,mRNA,2,USA,NULL
+Qu22b,mRNA_3dose_CP,~,2022-01-01,mRNA,1,USA,NULL
+Qu22b,mRNA_3dose_CP,~,2022-02-01,mRNA,2,USA,NULL
+Qu22b,mRNA_3dose_CP,~,2022-08-01,mRNA,3,USA,NULL

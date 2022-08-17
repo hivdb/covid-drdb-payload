@@ -1,0 +1,4 @@
+ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Qu22b,CP,~,2022-02-15,Omicron/BA.1,USA,NULL,NULL,NULL
+Qu22b,mRNA_2dose_CP,~,2022-02-15,Omicron/BA.1,USA,NULL,NULL,NULL
+Qu22b,mRNA_3dose_CP,~,2022-02-15,Omicron/BA.1,USA,NULL,NULL,NULL
