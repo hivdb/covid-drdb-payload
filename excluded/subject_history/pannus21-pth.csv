@@ -1,7 +1,0 @@
-ref_name,subject_name,event,event_date_cmp,event_date,location,iso_name,vaccine_name,severity
-Pannus21,Naive_Staff,1st dose,~,2021-01-01,Belgium,NULL,BNT162b2,NULL
-Pannus21,Naive_Staff,2nd dose,~,2021-01-22,Belgium,NULL,BNT162b2,NULL
-Pannus21,Naive_Staff,2nd dose isolation,~,2021-02-19,Belgium,NULL,NULL,NULL
-Pannus21,Naive_Resident,1st dose,~,2021-01-01,Belgium,NULL,BNT162b2,NULL
-Pannus21,Naive_Resident,2nd dose,~,2021-01-22,Belgium,NULL,BNT162b2,NULL
-Pannus21,Naive_Resident,2nd dose isolation,~,2021-02-19,Belgium,NULL,NULL,NULL
