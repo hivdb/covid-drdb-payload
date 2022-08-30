@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Linderman22,CP_Delta,~,2021-12-07,Delta,USA,NULL,NULL,Supplemental Table 1
+Linderman22,VP_Delta,~,2021-12-17,Delta,USA,NULL,NULL,Supplemental Table 1
+Linderman22,CP_Omicron,~,2022-03-21,Omicron/BA.1.1,USA,NULL,NULL,Supplemental Table 1
+Linderman22,VP_Omicron,~,2022-03-24,Omicron/BA.1.1,USA,NULL,NULL,Supplemental Table 1

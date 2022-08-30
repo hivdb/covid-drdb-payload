@@ -1,0 +1,37 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Linderman22,CP_Delta_F1A,WA1,Figure 1A,Virus isolate,NT50,186,44,16384,20,NULL,2022-08-29
+Linderman22,CP_Delta_F1A,B.1.617.2 full genome,Figure 1A,Virus isolate,NT50,1093,44,16384,20,NULL,2022-08-29
+Linderman22,CP_Delta_F1A,Omicron/BA.1 full genome,Figure 1A,Virus isolate,NT50,18,44,16384,20,NULL,2022-08-29
+Linderman22,CP_Delta_F1A,Omicron/BA.2 full genome,Figure 1A,Virus isolate,NT50,50,44,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_F1B,WA1,Figure 1B,Virus isolate,NT50,609,17,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_F1B,B.1.617.2 full genome,Figure 1B,Virus isolate,NT50,501,17,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_F1B,Omicron/BA.1 full genome,Figure 1B,Virus isolate,NT50,29,17,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_F1B,Omicron/BA.2 full genome,Figure 1B,Virus isolate,NT50,57,17,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_F1C,WA1,Figure 1C,Virus isolate,NT50,92,36,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_F1C,B.1.617.2 full genome,Figure 1C,Virus isolate,NT50,105,36,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_F1C,Omicron/BA.1 full genome,Figure 1C,Virus isolate,NT50,99,36,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_F1C,Omicron/BA.2 full genome,Figure 1C,Virus isolate,NT50,120,36,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_F1D,WA1,Figure 1D,Virus isolate,NT50,177,90,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_F1D,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,117,90,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_F1D,Omicron/BA.1 full genome,Figure 1D,Virus isolate,NT50,54,90,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_F1D,Omicron/BA.2 full genome,Figure 1D,Virus isolate,NT50,65,90,16384,20,NULL,2022-08-29
+Linderman22,CP_Delta_SF1A,WA1,Supplementary Figure 1A,Virus isolate,NT50,150,22,16384,20,NULL,2022-08-29
+Linderman22,CP_Delta_SF1A,B.1.617.2 full genome,Supplementary Figure 1A,Virus isolate,NT50,1518,22,16384,20,NULL,2022-08-29
+Linderman22,CP_Delta_SF1A,Omicron/BA.1 full genome,Supplementary Figure 1A,Virus isolate,NT50,20,22,16384,20,NULL,2022-08-29
+Linderman22,CP_Delta_SF1A,Omicron/BA.2 full genome,Supplementary Figure 1A,Virus isolate,NT50,31,22,16384,20,NULL,2022-08-29
+Linderman22,CP_Delta_SF1A,Omicron/BA.5 full genome,Supplementary Figure 1A,Virus isolate,NT50,19,22,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_SF1B,WA1,Supplementary Figure 1B,Virus isolate,NT50,1871,10,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_SF1B,B.1.617.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,1529,10,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_SF1B,Omicron/BA.1 full genome,Supplementary Figure 1B,Virus isolate,NT50,27,10,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_SF1B,Omicron/BA.2 full genome,Supplementary Figure 1B,Virus isolate,NT50,42,10,16384,20,NULL,2022-08-29
+Linderman22,VP_Delta_SF1B,Omicron/BA.5 full genome,Supplementary Figure 1B,Virus isolate,NT50,34,10,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_SF1C,WA1,Supplementary Figure 1C,Virus isolate,NT50,152,22,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_SF1C,B.1.617.2 full genome,Supplementary Figure 1C,Virus isolate,NT50,213,22,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_SF1C,Omicron/BA.1 full genome,Supplementary Figure 1C,Virus isolate,NT50,189,22,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_SF1C,Omicron/BA.2 full genome,Supplementary Figure 1C,Virus isolate,NT50,216,22,16384,20,NULL,2022-08-29
+Linderman22,CP_Omicron_SF1C,Omicron/BA.5 full genome,Supplementary Figure 1C,Virus isolate,NT50,54,22,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_SF1D,WA1,Supplementary Figure 1D,Virus isolate,NT50,482,56,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_SF1D,B.1.617.2 full genome,Supplementary Figure 1D,Virus isolate,NT50,320,56,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_SF1D,Omicron/BA.1 full genome,Supplementary Figure 1D,Virus isolate,NT50,127,56,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_SF1D,Omicron/BA.2 full genome,Supplementary Figure 1D,Virus isolate,NT50,152,56,16384,20,NULL,2022-08-29
+Linderman22,VP_Omicron_SF1D,Omicron/BA.5 full genome,Supplementary Figure 1D,Virus isolate,NT50,61,56,16384,20,NULL,2022-08-29
