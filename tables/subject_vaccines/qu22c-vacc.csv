@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Qu22c,mRNA_3dose,~,2021-11-01,mRNA,3,USA,Table S1
+Qu22c,mRNA_3dose_prev_inf_neg,~,2021-11-01,mRNA,3,USA,Table S1
+Qu22c,mRNA_3dose_prev_inf_pos,~,2021-11-01,mRNA,3,USA,Table S1
+Qu22c,mRNA_3dose_Omicron_inf,~,2021-11-01,mRNA,3,USA,Table S1
+Qu22c,mRNA_4dose_1,~,2021-11-01,BNT162b2,3,USA,Table S2
+Qu22c,mRNA_4dose_1,~,2022-06-25,BNT162b2,4,USA,Table S2
+Qu22c,mRNA_4dose_2,~,2021-11-01,BNT162b2,3,USA,Table S2
+Qu22c,mRNA_4dose_2,~,2022-05-30,BNT162b2,4,USA,Table S2

@@ -3219,6 +3219,14 @@ Takashita22b,Sotrovimab
 Takashita22b,LY-CoV016 + LY-CoV555
 Takashita22b,REGN10987 + REGN10933
 Takashita22b,COV2-2196 + COV2-2130
+Takashita22c,Imdevimab
+Takashita22c,Casirivimab
+Takashita22c,Tixagevimab
+Takashita22c,Cilgavimab
+Takashita22c,Sotrovimab
+Takashita22c,Bebtelovimab
+Takashita22c,Imdevimab+Casirivimab
+Takashita22c,Tixagevimab+Cilgavimab
 Thomson21,LY-CoV555_1
 Thomson21,LY-CoV555_2
 Thomson21,REGN10933_1
@@ -14549,6 +14557,14 @@ Lien21,MVC_Rat_1
 Lien21,MVC_Rat_2
 Lien21,MVC_Rat_3
 Lien21,MVC_Rat_4
+Linderman22,CP_Delta_F1A
+Linderman22,VP_Delta_F1B
+Linderman22,CP_Omicron_F1C
+Linderman22,VP_Omicron_F1D
+Linderman22,CP_Delta_SF1A
+Linderman22,VP_Delta_SF1B
+Linderman22,CP_Omicron_SF1C
+Linderman22,VP_Omicron_SF1D
 Liu21,CP_11
 Liu21,CP_15
 Liu21,CP_16
@@ -20100,6 +20116,24 @@ Qu22b,CP
 Qu22b,mRNA_2dose_CP
 Qu22b,mRNA_3dose_CP
 Qu22b,mRNA_3dose_fig2c
+Qu22c,mRNA_3dose_1-3M
+Qu22c,mRNA_3dose_4-6M
+Qu22c,mRNA_3dose_7-9M
+Qu22c,mRNA_3dose_prev_inf_neg_1-3M
+Qu22c,mRNA_3dose_prev_inf_pos_1-3M
+Qu22c,mRNA_3dose_prev_inf_neg_4-6M
+Qu22c,mRNA_3dose_prev_inf_pos_4-6M
+Qu22c,mRNA_3dose_prev_inf_neg_7-9M
+Qu22c,mRNA_3dose_prev_inf_pos_7-9M
+Qu22c,mRNA_3dose_Omicron_inf_1-3M
+Qu22c,mRNA_3dose_Omicron_inf_4-6M
+Qu22c,mRNA_3dose_Omicron_inf_7-9M
+Qu22c,mRNA_1st_booster_D21
+Qu22c,mRNA_1st_booster_D130
+Qu22c,mRNA_2nd_booster_D16
+Qu22c,mRNA_1st_booster_D16
+Qu22c,mRNA_1st_booster_D122
+Qu22c,mRNA_2nd_booster_D18
 Rees-Spear21,CP_Mild_1
 Rees-Spear21,CP_Mild_2
 Rees-Spear21,CP_Mild_3
@@ -21136,6 +21170,7 @@ Schmidt21b,J_C076_6m
 Schmidt21b,J_C079_6m
 Schmidt21b,J_C080_6m
 Schmidt21b,J_C081_6m
+Schultz22,CoronaVac_3dose_4w
 Schulz22,Vacc_2dose
 Schulz22,Vacc_3dose
 Seaman22,CP_delta_boosted_acute

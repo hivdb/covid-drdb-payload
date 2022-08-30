@@ -1792,6 +1792,10 @@ Lien21,MVC_Rat,Mouse,NULL,36
 Lien21,MVC_high,Human,NULL,15
 Lien21,MVC_low,Human,NULL,15
 Lien21,MVC_middle,Human,NULL,15
+Linderman22,CP_Delta,Human,1973,44
+Linderman22,CP_Omicron,Human,1966,36
+Linderman22,VP_Delta,Human,1955,17
+Linderman22,VP_Omicron,Human,1960,90
 Liu21,CP,Human,NULL,18
 Liu21b,BNT162b2_1,Human,NULL,1
 Liu21b,BNT162b2_10,Human,NULL,1
@@ -2402,6 +2406,12 @@ Qu22b,CP,Human,NULL,14
 Qu22b,HCW,Human,NULL,15
 Qu22b,mRNA_2dose_CP,Human,NULL,8
 Qu22b,mRNA_3dose_CP,Human,NULL,8
+Qu22c,mRNA_3dose,Human,NULL,37
+Qu22c,mRNA_3dose_Omicron_inf,Human,NULL,2
+Qu22c,mRNA_3dose_prev_inf_neg,Human,NULL,27
+Qu22c,mRNA_3dose_prev_inf_pos,Human,NULL,11
+Qu22c,mRNA_4dose_1,Human,NULL,1
+Qu22c,mRNA_4dose_2,Human,NULL,1
 Rees-Spear21,CP_Mild,Human,NULL,18
 Rees-Spear21,CP_Severe,Human,NULL,18
 Ren22,CP_Group1,Human,1971,9
@@ -2577,6 +2587,7 @@ Schmidt21b,PT_C076,Human,NULL,1
 Schmidt21b,PT_C079,Human,NULL,1
 Schmidt21b,PT_C080,Human,NULL,1
 Schmidt21b,PT_C081,Human,NULL,1
+Schultz22,CoronaVac,Human,NULL,30
 Schulz22,Vaccinee,Human,1983,1
 Seaman22,CP_ba1,Human,NULL,5
 Seaman22,CP_ba1_boosted,Human,NULL,9
