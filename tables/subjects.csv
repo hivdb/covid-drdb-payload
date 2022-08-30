@@ -2402,6 +2402,10 @@ Qu22,HCW_3dose_MOD,Human,1985,4
 Qu22,Omicron_2dose,Human,1960,8
 Qu22,Omicron_3dose,Human,1960,7
 Qu22,Omicron_CP,Human,1960,15
+Qu22b,CP,Human,NULL,14
+Qu22b,HCW,Human,NULL,15
+Qu22b,mRNA_2dose_CP,Human,NULL,8
+Qu22b,mRNA_3dose_CP,Human,NULL,8
 Qu22c,mRNA_3dose,Human,NULL,37
 Qu22c,mRNA_3dose_Omicron_inf,Human,NULL,2
 Qu22c,mRNA_3dose_prev_inf_neg,Human,NULL,27

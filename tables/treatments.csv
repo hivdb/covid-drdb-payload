@@ -20110,6 +20110,12 @@ Qu22,Delta_ICU_VP
 Qu22,Omicron_CP
 Qu22,Omicron_2dose
 Qu22,Omicron_3dose
+Qu22b,mRNA_2dose
+Qu22b,mRNA_3dose
+Qu22b,CP
+Qu22b,mRNA_2dose_CP
+Qu22b,mRNA_3dose_CP
+Qu22b,mRNA_3dose_fig2c
 Qu22c,mRNA_3dose_1-3M
 Qu22c,mRNA_3dose_4-6M
 Qu22c,mRNA_3dose_7-9M
