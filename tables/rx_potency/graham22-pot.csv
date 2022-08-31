@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Graham22,BNT162b2_1dose,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (lentivirus),NT50,155,18,10000,25,NULL,2022-08-25
 Graham22,BNT162b2_1dose_CP,Wuhan-Hu-1 Spike,Figure 3C,Pseudovirus (lentivirus),NT50,546,10,10000,25,NULL,2022-08-25
 Graham22,BNT162b2_1dose,B.1.1.7 Spike,Figure 3C,Pseudovirus (lentivirus),NT50,54,18,10000,25,NULL,2022-08-25
