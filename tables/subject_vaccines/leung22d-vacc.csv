@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Leung22d,CoronaVac_3dose,~,2021-06-03,CoronaVac,2,China,Table S2
+Leung22d,CoronaVac_3dose,~,2022-01-27,CoronaVac,3,China,Table S2
+Leung22d,CoronaVac_2dose_BNT_1dose,~,2021-06-05,CoronaVac,2,China,Table S2
+Leung22d,CoronaVac_2dose_BNT_1dose,~,2022-01-27,BNT162b2,3,China,Table S2
+Leung22d,BNT_2dose_CoronaVac_1dose,~,2021-06-12,BNT162b2,2,China,Table S2
+Leung22d,BNT_2dose_CoronaVac_1dose,~,2022-01-27,CoronaVac,3,China,Table S2
+Leung22d,BNT_3dose,~,2021-06-17,BNT162b2,2,China,Table S2
+Leung22d,BNT_3dose,~,2022-01-27,BNT162b2,3,China,Table S2
