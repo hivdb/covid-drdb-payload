@@ -1,0 +1,73 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Qu22c,mRNA_3dose_1-3M,S:614G,Figure 1A,Pseudovirus (lentivirus),NT50,5390,28,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_1-3M,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,1154,28,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_1-3M,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,707,28,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_1-3M,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,402,28,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_4-6M,S:614G,Figure 1A,Pseudovirus (lentivirus),NT50,3766,37,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_4-6M,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,672,37,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_4-6M,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,397,37,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_4-6M,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,217,37,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_7-9M,S:614G,Figure 1A,Pseudovirus (lentivirus),NT50,2168,36,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_7-9M,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,467,36,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_7-9M,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,308,36,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_7-9M,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,162,36,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_1-3M,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,6472,18,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_1-3M,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,13806,6,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_1-3M,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1600,18,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_1-3M,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,4578,6,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_1-3M,BA.2.12.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1045,18,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_1-3M,BA.2.12.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,3013,6,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_1-3M,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,505,18,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_1-3M,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1497,6,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_4-6M,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,6472,26,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_4-6M,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,13806,9,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_4-6M,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1600,26,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_4-6M,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,4578,9,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_4-6M,BA.2.12.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1045,26,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_4-6M,BA.2.12.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,3013,9,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_4-6M,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,505,26,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_4-6M,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1497,9,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_7-9M,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,6472,25,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_7-9M,S:614G,Figure 3A,Pseudovirus (lentivirus),NT50,13806,11,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_7-9M,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1600,25,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_7-9M,BA.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,4578,11,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_7-9M,BA.2.12.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1045,25,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_7-9M,BA.2.12.1 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,3013,11,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_neg_7-9M,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,505,25,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_prev_inf_pos_7-9M,BA.4/5 Spike,Figure 3A,Pseudovirus (lentivirus),NT50,1497,11,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_1-3M,S:614G,Figure 3B,Pseudovirus (lentivirus),NT50,13726,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_1-3M,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,6712,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_1-3M,BA.2.12.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,3240,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_1-3M,BA.4/5 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,1022,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_4-6M,S:614G,Figure 3B,Pseudovirus (lentivirus),NT50,16790,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_4-6M,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,9833,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_4-6M,BA.2.12.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,5700,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_4-6M,BA.4/5 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,1977,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_7-9M,S:614G,Figure 3B,Pseudovirus (lentivirus),NT50,8827,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_7-9M,BA.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,4402,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_7-9M,BA.2.12.1 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,2780,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_3dose_Omicron_inf_7-9M,BA.4/5 Spike,Figure 3B,Pseudovirus (lentivirus),NT50,1148,2,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D21,S:614G,Figure 4G,Pseudovirus (lentivirus),NT50,7163,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D130,S:614G,Figure 4G,Pseudovirus (lentivirus),NT50,729,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_2nd_booster_D16,S:614G,Figure 4G,Pseudovirus (lentivirus),NT50,6766,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D21,BA.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,1518,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D130,BA.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,81,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_2nd_booster_D16,BA.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,837,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D21,BA.2.12.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,626,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D130,BA.2.12.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,40,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_2nd_booster_D16,BA.2.12.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,172,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D21,BA.4/5 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,446,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D130,BA.4/5 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,21,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_2nd_booster_D16,BA.4/5 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,208,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D16,S:614G,Figure 4G,Pseudovirus (lentivirus),NT50,1334,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D122,S:614G,Figure 4G,Pseudovirus (lentivirus),NT50,478,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_2nd_booster_D18,S:614G,Figure 4G,Pseudovirus (lentivirus),NT50,1970,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D16,BA.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,229,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D122,BA.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,33,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_2nd_booster_D18,BA.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,407,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D16,BA.2.12.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,166,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D122,BA.2.12.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,15,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_2nd_booster_D18,BA.2.12.1 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,178,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D16,BA.4/5 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,113,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_1st_booster_D122,BA.4/5 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,45,1,100000,80,NULL,2022-08-24
+Qu22c,mRNA_2nd_booster_D18,BA.4/5 Spike,Figure 4G,Pseudovirus (lentivirus),NT50,160,1,100000,80,NULL,2022-08-24

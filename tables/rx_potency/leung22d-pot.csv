@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Leung22d,CoronaVac_3dose,hCoV-19/Hong Kong/VM20001061-2/2020,Figure 3A,Virus isolate,NT50,109,20,1280,10,NULL,2022-08-30
+Leung22d,CoronaVac_2dose_BNT_1dose,hCoV-19/Hong Kong/VM20001061-2/2020,Figure 3A,Virus isolate,NT50,905,20,1280,10,NULL,2022-08-30
+Leung22d,BNT_2dose_CoronaVac_1dose,hCoV-19/Hong Kong/VM20001061-2/2020,Figure 3A,Virus isolate,NT50,92,20,1280,10,NULL,2022-08-30
+Leung22d,BNT_3dose,hCoV-19/Hong Kong/VM20001061-2/2020,Figure 3A,Virus isolate,NT50,816,20,1280,10,NULL,2022-08-30
+Leung22d,CoronaVac_3dose,hCoV-19/Hong Kong/VM21044713_WHP5047-S5/2021,Figure 3B,Virus isolate,NT50,9,20,1280,10,NULL,2022-08-30
+Leung22d,CoronaVac_2dose_BNT_1dose,hCoV-19/Hong Kong/VM21044713_WHP5047-S5/2021,Figure 3B,Virus isolate,NT50,75,20,1280,10,NULL,2022-08-30
+Leung22d,BNT_2dose_CoronaVac_1dose,hCoV-19/Hong Kong/VM21044713_WHP5047-S5/2021,Figure 3B,Virus isolate,NT50,8,20,1280,10,NULL,2022-08-30
+Leung22d,BNT_3dose,hCoV-19/Hong Kong/VM21044713_WHP5047-S5/2021,Figure 3B,Virus isolate,NT50,86,20,1280,10,NULL,2022-08-30
+Leung22d,CoronaVac_3dose,hCoV-19/Hong Kong/VM22000135_HKUVOC0588P2/2022,Figure 3C,Virus isolate,NT50,6,20,1280,10,NULL,2022-08-30
+Leung22d,CoronaVac_2dose_BNT_1dose,hCoV-19/Hong Kong/VM22000135_HKUVOC0588P2/2022,Figure 3C,Virus isolate,NT50,80,20,1280,10,NULL,2022-08-30
+Leung22d,BNT_2dose_CoronaVac_1dose,hCoV-19/Hong Kong/VM22000135_HKUVOC0588P2/2022,Figure 3C,Virus isolate,NT50,6,20,1280,10,NULL,2022-08-30
+Leung22d,BNT_3dose,hCoV-19/Hong Kong/VM22000135_HKUVOC0588P2/2022,Figure 3C,Virus isolate,NT50,67,20,1280,10,NULL,2022-08-30

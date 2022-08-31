@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Melo-Gonzalez22,CoronaVac_T4,S:614G,Figure 2C,Pseudovirus,NT50,52.4,87,65536,1,NULL,2022-08-30
+Melo-Gonzalez22,CoronaVac_T6,S:614G,Figure 2C,Pseudovirus,NT50,33,87,65536,1,NULL,2022-08-30
+Melo-Gonzalez22,CoronaVac_T4,B.1.617.2 Spike,Figure 2C,Pseudovirus,NT50,21.5,87,65536,1,NULL,2022-08-30
+Melo-Gonzalez22,CoronaVac_T6,B.1.617.2 Spike,Figure 2C,Pseudovirus,NT50,21.8,87,65536,1,NULL,2022-08-30
+Melo-Gonzalez22,CoronaVac_T4,BA.1 Spike,Figure 2C,Pseudovirus,NT50,2.5,87,65536,1,NULL,2022-08-30
+Melo-Gonzalez22,CoronaVac_T6,BA.1 Spike,Figure 2C,Pseudovirus,NT50,3.7,87,65536,1,NULL,2022-08-30
