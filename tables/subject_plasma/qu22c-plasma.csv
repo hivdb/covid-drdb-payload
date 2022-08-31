@@ -1,0 +1,19 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Qu22c,mRNA_3dose,mRNA_3dose_1-3M,~,2021-12-01,USA,mRNA_3dose,Table S1
+Qu22c,mRNA_3dose,mRNA_3dose_4-6M,~,2022-03-01,USA,mRNA_3dose,Table S1
+Qu22c,mRNA_3dose,mRNA_3dose_7-9M,~,2022-06-01,USA,mRNA_3dose,Table S1
+Qu22c,mRNA_3dose_prev_inf_neg,mRNA_3dose_prev_inf_neg_1-3M,~,2021-12-01,USA,mRNA_3dose_prev_inf_neg,Table S1
+Qu22c,mRNA_3dose_prev_inf_pos,mRNA_3dose_prev_inf_pos_1-3M,~,2022-03-01,USA,mRNA_3dose_prev_inf_pos,Table S1
+Qu22c,mRNA_3dose_prev_inf_neg,mRNA_3dose_prev_inf_neg_4-6M,~,2022-06-01,USA,mRNA_3dose_prev_inf_neg,Table S1
+Qu22c,mRNA_3dose_prev_inf_pos,mRNA_3dose_prev_inf_pos_4-6M,~,2021-12-01,USA,mRNA_3dose_prev_inf_pos,Table S1
+Qu22c,mRNA_3dose_prev_inf_neg,mRNA_3dose_prev_inf_neg_7-9M,~,2022-03-01,USA,mRNA_3dose_prev_inf_neg,Table S1
+Qu22c,mRNA_3dose_prev_inf_pos,mRNA_3dose_prev_inf_pos_7-9M,~,2022-06-01,USA,mRNA_3dose_prev_inf_pos,Table S1
+Qu22c,mRNA_3dose_Omicron_inf,mRNA_3dose_Omicron_inf_1-3M,~,2021-12-01,USA,mRNA_3dose_Omicron_inf,Table S1
+Qu22c,mRNA_3dose_Omicron_inf,mRNA_3dose_Omicron_inf_4-6M,~,2022-03-01,USA,mRNA_3dose_Omicron_inf,Table S1
+Qu22c,mRNA_3dose_Omicron_inf,mRNA_3dose_Omicron_inf_7-9M,~,2022-06-01,USA,mRNA_3dose_Omicron_inf,Table S1
+Qu22c,mRNA_4dose_1,mRNA_1st_booster_D21,~,2021-11-22,USA,mRNA_4dose_1,Table S2
+Qu22c,mRNA_4dose_1,mRNA_1st_booster_D130,~,2022-03-11,USA,mRNA_4dose_1,Table S2
+Qu22c,mRNA_4dose_1,mRNA_2nd_booster_D16,~,2022-07-11,USA,mRNA_4dose_1,Table S2
+Qu22c,mRNA_4dose_2,mRNA_1st_booster_D16,~,2021-11-17,USA,mRNA_4dose_2,Table S2
+Qu22c,mRNA_4dose_2,mRNA_1st_booster_D122,~,2022-03-03,USA,mRNA_4dose_2,Table S2
+Qu22c,mRNA_4dose_2,mRNA_2nd_booster_D18,~,2022-06-17,USA,mRNA_4dose_2,Table S2

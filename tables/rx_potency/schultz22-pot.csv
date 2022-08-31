@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Schultz22,CoronaVac_3dose_4w,S:614G,Table 2,Pseudovirus,NT50,241.8,30,1000,1,NULL,2022-02-24
+Schultz22,CoronaVac_3dose_4w,B.1.617.2 Spike,Table 2,Pseudovirus,NT50,159.2,30,1000,1,NULL,2022-02-24
+Schultz22,CoronaVac_3dose_4w,BA.1 Spike,Table 2,Pseudovirus,NT50,50.7,30,1000,1,NULL,2022-02-24

@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Qu22c,mRNA_3dose_prev_inf_pos,<,2021-10-30,Unknown variant,USA,NULL,NULL,NULL
+Qu22c,mRNA_3dose_Omicron_inf,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,NULL
