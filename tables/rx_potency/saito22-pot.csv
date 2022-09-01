@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Saito22,BNT162b2_2dose_1mo,B.1 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,162,15,87480,120,NULL,2022-09-01
 Saito22,BNT162b2_2dose_1mo,BA.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,120,15,87480,120,NULL,2022-09-01
 Saito22,BNT162b2_2dose_1mo,BA.4/5 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,120,15,87480,120,NULL,2022-09-01

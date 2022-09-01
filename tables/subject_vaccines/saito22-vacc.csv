@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Saito22,BNT162b2_3dose,~,2021-03-30,BNT162b2,1,Japan,NULL
 Saito22,BNT162b2_3dose,~,2021-04-30,BNT162b2,2,Japan,NULL
 Saito22,BNT162b2_3dose,~,2022-01-24,BNT162b2,3,Japan,NULL
