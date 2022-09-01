@@ -1093,6 +1093,14 @@ Gonzalez-Reiche22,Patient 1,Human,1959,1
 Gottlieb21,Gottlieb21 BAM/ETE Treated,Human,NULL,1
 Graham21,P008,Human,1992,1
 Graham21,P054,Human,1959,1
+Graham22,BNT162b2_3dose_extend,Human,NULL,28
+Graham22,BNT162b2_3dose_extend_BTI,Human,NULL,2
+Graham22,BNT162b2_3dose_extend_CP,Human,NULL,10
+Graham22,BNT162b2_3dose_extend_CP_BTI,Human,NULL,3
+Graham22,BNT162b2_3dose_short,Human,NULL,19
+Graham22,BNT162b2_3dose_short_BTI,Human,NULL,5
+Graham22,BNT162b2_3dose_short_CP,Human,NULL,3
+Graham22,BNT162b2_3dose_short_CP_BTI,Human,NULL,2
 Greaney21,Subject_A,Human,NULL,1
 Greaney21,Subject_B,Human,NULL,1
 Greaney21,Subject_C,Human,NULL,1
