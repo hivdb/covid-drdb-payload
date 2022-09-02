@@ -14083,10 +14083,6 @@ Leier21,BNT_2nd_uninfected_78
 Leier21,BNT_2nd_uninfected_79
 Leier21,BNT_2nd_uninfected_8
 Leier21,BNT_2nd_uninfected_9
-Leung22d,CoronaVac_3dose
-Leung22d,CoronaVac_2dose_BNT_1dose
-Leung22d,BNT_2dose_CoronaVac_1dose
-Leung22d,BNT_3dose
 Leung22b,BNT162b2_3dose_day0_01
 Leung22b,BNT162b2_3dose_day0_02
 Leung22b,BNT162b2_3dose_day0_03
@@ -14167,6 +14163,10 @@ Leung22c,CoronaVac_2dose_BNT162b2_1dose_day28_17
 Leung22c,CoronaVac_2dose_BNT162b2_1dose_day28_18
 Leung22c,CoronaVac_2dose_BNT162b2_1dose_day28_19
 Leung22c,CoronaVac_2dose_BNT162b2_1dose_day28_20
+Leung22d,CoronaVac_3dose
+Leung22d,CoronaVac_2dose_BNT_1dose
+Leung22d,BNT_2dose_CoronaVac_1dose
+Leung22d,BNT_3dose
 Li20h,CP_01
 Li20h,CP_02
 Li20h,CP_03
@@ -20771,6 +20771,15 @@ Sahin21,BNT_Fig1b_29_G1_10
 Sahin21,BNT_Fig1b_43_G1_1
 Sahin21,BNT_Fig1b_43_G1_7
 Sahin21,BNT_Fig1b_43_G1_5
+Saito22,BNT162b2_2dose_1mo
+Saito22,BNT162b2_3dose_1mo
+Saito22,BNT162b2_3dose_4mo
+Saito22,CP_BA1
+Saito22,CP_BA2
+Saito22,CP_Delta
+Saito22,CP_BA1_Hamster
+Saito22,CP_BA2_Hamster
+Saito22,CP_BA5_Hamster
 Sapkal21,CP_01
 Sapkal21,CP_02
 Sapkal21,CP_03

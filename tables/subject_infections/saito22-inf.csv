@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Saito22,CP_BA1,~,2022-01-20,Omicron/BA.1,Japan,NULL,NULL,NULL
+Saito22,CP_BA2,~,2022-04-23,Omicron/BA.2,Japan,NULL,NULL,NULL
+Saito22,CP_Delta,~,2021-07-31,Delta,Japan,NULL,NULL,NULL
+Saito22,CP_BA1_Hamster,~,2022-02-01,Omicron/BA.1,Japan,NULL,NULL,NULL
+Saito22,CP_BA2_Hamster,~,2022-02-01,Omicron/BA.2,Japan,NULL,NULL,NULL
+Saito22,CP_BA5_Hamster,~,2022-02-01,Omicron/BA.5,Japan,NULL,NULL,NULL
