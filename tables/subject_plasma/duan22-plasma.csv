@@ -1,0 +1,8 @@
+ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Duan22,Wuhan_Hu_1_CP_BBIBP_CorV_1dose,Wuhan_Hu_1_CP_BBIBP_CorV_1dose_3wks,~,2021-06-03,China,Wuhan_Hu_1_CP_BBIBP_CorV_1dose,NULL
+Duan22,Wuhan_Hu_1_CP_CoronaVac_1dose,Wuhan_Hu_1_CP_CoronaVac_1dose_3wks,~,2021-06-03,China,Wuhan_Hu_1_CP_CoronaVac_1dose,NULL
+Duan22,BBIBP_CorV_2dose,BBIBP_CorV_2dose_3wks,~,2021-07-12,China,BBIBP_CorV_2dose,NULL
+Duan22,CoronaVac_2dose,CoronaVac_2dose_3wks,~,2021-07-04,China,CoronaVac_2dose,NULL
+Duan22,Inactivated_3dose_2E,Inactivated_2dose_9mos_2E,~,2022-03-12,China,Inactivated_3dose_2E,NULL
+Duan22,Inactivated_3dose_2E,Inactivated_3dose_3wks_2E,~,2022-04-03,China,Inactivated_3dose_2E,NULL
+Duan22,Inactivated_3dose_2F,Inactivated_3dose_3wks_2F,~,2022-04-03,China,Inactivated_3dose_2F,NULL
