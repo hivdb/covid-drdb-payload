@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Medits22,WT_inf_mRNA_3dose,~,2020-11-01,B.1,Austria,NULL,NULL,NULL
+Medits22,WT_inf,~,2020-11-01,B.1,Austria,NULL,NULL,NULL
+Medits22,BA.1_inf,~,2022-02-01,Omicron/BA.1,Austria,NULL,NULL,NULL
+Medits22,BA.2_inf,~,2022-02-01,Omicron/BA.2,Austria,NULL,NULL,NULL
+Medits22,Omicron_BTI,~,2022-02-01,Omicron/BA.1,Austria,NULL,NULL,NULL

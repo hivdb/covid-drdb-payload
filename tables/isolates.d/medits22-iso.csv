@@ -1,0 +1,5 @@
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+hCoV-19/Austria/CeMM0360/2020,B.1.1,FALSE,438123,NULL,NULL,TRUE
+hCoV-19/Austria/MUW_1423259p3/2021,Delta,FALSE,4172121,NULL,NULL,TRUE
+hCoV-19/Austria/Om726/2021,Omicron/BA.1,FALSE,9110894,NULL,NULL,TRUE
+hCoV-19/Austria/MUW1485395_P2/2022,Omicron/BA.2,FALSE,11110193,NULL,NULL,TRUE

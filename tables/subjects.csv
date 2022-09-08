@@ -692,6 +692,12 @@ Doria-Rose21,mRNA_VRC_infected,Human,NULL,2
 Drews21,CP,Human,NULL,8
 Drouin21,CP Donor,Human,NULL,2
 Drouin21,Patient,Human,1961,1
+Duan22,BBIBP_CorV_2dose,Human,NULL,25
+Duan22,CoronaVac_2dose,Human,NULL,23
+Duan22,Inactivated_3dose_2E,Human,NULL,11
+Duan22,Inactivated_3dose_2F,Human,NULL,36
+Duan22,Wuhan_Hu_1_CP_BBIBP_CorV_1dose,Human,NULL,91
+Duan22,Wuhan_Hu_1_CP_CoronaVac_1dose,Human,NULL,80
 Dupont21,CP_Alpha,Human,NULL,72
 Dupont21,CP_Beta,Human,NULL,5
 Dupont21,CP_Delta,Human,NULL,20
@@ -1487,6 +1493,7 @@ Kemp21,CP_3,Human,NULL,1
 Kemp21,Donor,Human,NULL,1
 Kemp21,Septuagenarian male,Human,1945,1
 Khan22,CP_BA1,Human,1989,24
+Khan22,VP,Human,NULL,18
 Khan22,VP_BA1,Human,1984,15
 Khan22b,Delta_inf_1,Human,NULL,1
 Khan22b,Delta_inf_10,Human,NULL,1
@@ -2092,6 +2099,12 @@ Medigeshi22,BBV152,Human,NULL,20
 Medigeshi22,BBV152_Delta_infection,Human,NULL,20
 Medigeshi22,ChAdOx1,Human,NULL,20
 Medigeshi22,ChAdOx1_Delta_infection,Human,NULL,20
+Medits22,BA.1_inf,Human,NULL,22
+Medits22,BA.2_inf,Human,NULL,21
+Medits22,Omicron_BTI,Human,NULL,43
+Medits22,WT_inf,Human,NULL,11
+Medits22,WT_inf_mRNA_3dose,Human,NULL,9
+Medits22,mRNA_3dose,Human,NULL,15
 Melo-Gonzalez22,CoronaVac,Human,NULL,87
 Mendes-Correa21,Donor,Human,NULL,1
 Mendes-Correa21,Patient,Human,1975,1
