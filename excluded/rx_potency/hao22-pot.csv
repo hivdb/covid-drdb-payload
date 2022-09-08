@@ -1,0 +1,19 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Hao22,mAb_206,SARS_COV1,Figure 5B,Virus isolate,IC50,20846,1,10000,1,ng/ml,2022-09-07
+Hao22,mAb_206,SHC014,Figure 5B,Virus isolate,IC50,24841,1,10000,1,ng/ml,2022-09-07
+Hao22,mAb_206,SARS_COV2,Figure 5B,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-09-07
+Hao22,mAb_234,SARS_COV1,Figure 5B,Virus isolate,IC50,7987,1,10000,1,ng/ml,2022-09-07
+Hao22,mAb_234,SHC014,Figure 5B,Virus isolate,IC50,24841,1,10000,1,ng/ml,2022-09-07
+Hao22,mAb_234,SARS_COV2,Figure 5B,Virus isolate,IC50,3,1,10000,1,ng/ml,2022-09-07
+Hao22,mAb_297,SARS_COV1,Figure 5B,Virus isolate,IC50,5452,1,10000,1,ng/ml,2022-09-07
+Hao22,mAb_297,SHC014,Figure 5B,Virus isolate,IC50,24841,1,10000,1,ng/ml,2022-09-07
+Hao22,mAb_297,SARS_COV2,Figure 5B,Virus isolate,IC50,14,1,10000,1,ng/ml,2022-09-07
+Hao22,REGN,SARS_COV1,Figure 5B,Virus isolate,IC50,8585,1,10000,1,ng/ml,2022-09-07
+Hao22,REGN,SHC014,Figure 5B,Virus isolate,IC50,24841,1,10000,1,ng/ml,2022-09-07
+Hao22,REGN,SARS_COV2,Figure 5B,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-09-07
+Hao22,ADG2,SARS_COV1,Figure 5B,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-09-07
+Hao22,ADG2,SHC014,Figure 5B,Virus isolate,IC50,12,1,10000,1,ng/ml,2022-09-07
+Hao22,ADG2,SARS_COV2,Figure 5B,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-09-07
+Hao22,MaliA01,SARS_COV1,Figure 5B,Virus isolate,IC50,6235,1,10000,1,ng/ml,2022-09-07
+Hao22,MaliA01,SHC014,Figure 5B,Virus isolate,IC50,24841,1,10000,1,ng/ml,2022-09-07
+Hao22,MaliA01,SARS_COV2,Figure 5B,Virus isolate,IC50,4575,1,10000,1,ng/ml,2022-09-07
