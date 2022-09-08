@@ -148,6 +148,9 @@ Becker21,BNT162b2,Human,NULL,8
 Becker21,CP,Human,NULL,6
 Behrens21,AZD1222,Human,1980,12
 Behrens21,AZD1222_BNT,Human,1975,11
+Behrens22,BNT162b2_3dose,Human,NULL,57
+Behrens22,ChAdOx1_1dose_BNT162b2_2dose,Human,NULL,82
+Behrens22,ChAdOx1_2dose_BNT162b2_1dose,Human,NULL,40
 Bekliz21,CP_Alpha,Human,NULL,12
 Bekliz21,CP_Beta,Human,NULL,8
 Bekliz21,CP_D614G,Human,NULL,34

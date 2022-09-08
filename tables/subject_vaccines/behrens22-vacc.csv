@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Behrens22,ChAdOx1_2dose_BNT162b2_1dose,~,2021-01-01,AZD1222,1,Germany,NULL
+Behrens22,ChAdOx1_2dose_BNT162b2_1dose,~,2021-03-15,AZD1222,2,Germany,NULL
+Behrens22,ChAdOx1_2dose_BNT162b2_1dose,~,2021-08-15,BNT162b2,3,Germany,NULL
+Behrens22,ChAdOx1_1dose_BNT162b2_2dose,~,2021-01-01,AZD1222,1,Germany,NULL
+Behrens22,ChAdOx1_1dose_BNT162b2_2dose,~,2021-03-15,BNT162b2,2,Germany,NULL
+Behrens22,ChAdOx1_1dose_BNT162b2_2dose,~,2021-08-15,BNT162b2,3,Germany,NULL
+Behrens22,BNT162b2_3dose,~,2021-01-01,BNT162b2,1,Germany,NULL
+Behrens22,BNT162b2_3dose,~,2021-01-24,BNT162b2,2,Germany,NULL
+Behrens22,BNT162b2_3dose,~,2021-10-24,BNT162b2,3,Germany,NULL
