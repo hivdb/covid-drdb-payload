@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Medits22,mRNA_3dose,mRNA_3dose_1M,~,2022-02-01,Austria,mRNA_3dose_1M,NULL
+Medits22,mRNA_3dose,mRNA_3dose_3M,~,2022-04-01,Austria,mRNA_3dose_3M,NULL
+Medits22,WT_inf_mRNA_3dose,WT_inf_mRNA_3dose_3W,~,2022-01-21,Austria,WT_inf_mRNA_3dose_3W,NULL
+Medits22,WT_inf,WT_inf_3W,~,2020-11-21,Austria,WT_inf_3W,NULL
+Medits22,WT_inf,WT_inf_7M,~,2021-07-01,Austria,WT_inf_7M,NULL
+Medits22,BA.1_inf,BA.1_inf_1M,~,2022-03-01,Austria,BA.1_inf_1M,NULL
+Medits22,BA.2_inf,BA.2_inf_1M,~,2022-03-01,Austria,BA.2_inf_1M,NULL
+Medits22,Omicron_BTI,Omicron_BTI_1M,~,2022-03-01,Austria,Omicron_BTI_1M,NULL

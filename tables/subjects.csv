@@ -2089,6 +2089,12 @@ Medigeshi22,BBV152,Human,NULL,20
 Medigeshi22,BBV152_Delta_infection,Human,NULL,20
 Medigeshi22,ChAdOx1,Human,NULL,20
 Medigeshi22,ChAdOx1_Delta_infection,Human,NULL,20
+Medits22,BA.1_inf,Human,NULL,22
+Medits22,BA.2_inf,Human,NULL,21
+Medits22,Omicron_BTI,Human,NULL,43
+Medits22,WT_inf,Human,NULL,11
+Medits22,WT_inf_mRNA_3dose,Human,NULL,9
+Medits22,mRNA_3dose,Human,NULL,15
 Melo-Gonzalez22,CoronaVac,Human,NULL,87
 Mendes-Correa21,Donor,Human,NULL,1
 Mendes-Correa21,Patient,Human,1975,1
