@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Hao22,BNT162b2_2dose_Fig1B,hCoV-19/USA/WA-MG_LHLV_UK2/2021,Figure 1B,Virus isolate,NT50,1122,7,100000,10,NULL,2022-09-07
 Hao22,mRNA1273_2dose_Fig1B,hCoV-19/USA/WA-MG_LHLV_UK2/2021,Figure 1B,Virus isolate,NT50,2113,8,100000,10,NULL,2022-09-07
 Hao22,CP_Fig1B,hCoV-19/USA/WA-MG_LHLV_UK2/2021,Figure 1B,Virus isolate,NT50,201,13,100000,10,NULL,2022-09-07

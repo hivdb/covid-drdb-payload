@@ -1194,6 +1194,16 @@ Halfmann22,MOD_2dose_D20,Human,NULL,24
 Hammerschmidt21,AZD,Human,1981,31
 Hammerschmidt21,AZD_BNT,Human,1981,54
 Hammerschmidt21,BNT,Human,1981,30
+Hao22,Ad26_COV2_S_1dose_Fig3B,Human,NULL,1
+Hao22,BNT162b2_2dose_Fig1B,Human,NULL,1
+Hao22,BNT162b2_2dose_Fig3B,Human,NULL,1
+Hao22,BNT162b2_2dose_Fig4B,Human,NULL,1
+Hao22,CP_Fig1B,Human,NULL,1
+Hao22,CP_Fig3B,Human,NULL,1
+Hao22,SinoVac_1dose_Fig3B,Human,NULL,1
+Hao22,mRNA1273_2dose_Fig1B,Human,NULL,1
+Hao22,mRNA1273_2dose_Fig3B,Human,NULL,1
+Hao22,mRNA_3dose_Fig4B,Human,NULL,1
 Harari22,P1,Human,NULL,1
 Harari22,P2,Human,NULL,1
 Harari22,P3,Human,NULL,1
