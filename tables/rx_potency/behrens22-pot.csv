@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Behrens22,ChAdOx1_2dose_15d_032,BA.1 Spike,Figure 2A,sVNT,NT50,1,1,10000,6,NULL,2022-09-08
 Behrens22,ChAdOx1_2dose_15d_032,Wuhan-Hu-1 Spike,Figure 2A,sVNT,NT50,540,1,10000,6,NULL,2022-09-08
 Behrens22,ChAdOx1_2dose_BNT162b2_1dose_16d_032,BA.1 Spike,Figure 2A,sVNT,NT50,20,1,10000,6,NULL,2022-09-08

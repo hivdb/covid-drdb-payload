@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Behrens22,ChAdOx1_2dose_BNT162b2_1dose,ChAdOx1_2dose_15d_032,~,2021-03-30,Germany,032,NULL
 Behrens22,ChAdOx1_2dose_BNT162b2_1dose,ChAdOx1_2dose_BNT162b2_1dose_16d_032,~,2021-08-30,Germany,032,NULL
 Behrens22,ChAdOx1_2dose_BNT162b2_1dose,ChAdOx1_1dose_2mo_032,~,2021-03-01,Germany,032,NULL
