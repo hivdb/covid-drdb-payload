@@ -1,0 +1,37 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+EMA21e,CIL+TIX,Wuhan-Hu-1,Table 3,Pseudovirus,IC50,1.9,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.1.7 Spike,Table 3,Pseudovirus,IC50,0.7,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.351 Spike,Table 3,Pseudovirus,IC50,5.6,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,P.1 Spike,Table 3,Pseudovirus,IC50,1.8,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.617.2 Spike,Table 3,Pseudovirus,IC50,1.9,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.617.2 Spike:+417N,Table 3,Pseudovirus,IC50,1.9,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,BA.1 Spike,Table 3,Pseudovirus,IC50,51,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,BA.1.1 Spike,Table 3,Pseudovirus,IC50,66,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,BA.2 Spike,Table 3,Pseudovirus,IC50,9.8,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.525 Spike,Table 3,Pseudovirus,IC50,5,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.526/E484K Spike,Table 3,Pseudovirus,IC50,1.8,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.617.1 Spike,Table 3,Pseudovirus,IC50,2.5,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,C.37 Spike,Table 3,Pseudovirus,IC50,1.1,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.621 Spike,Table 3,Pseudovirus,IC50,13.5,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.427/9 Spike,Table 3,Pseudovirus,IC50,1.2,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,R.1 Spike,Table 3,Pseudovirus,IC50,4.6,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.1.519 Spike,Table 3,Pseudovirus,IC50,2.3,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,S:12F+69del+70del+152R+346S+452R+614G+677H+899S,Table 3,Pseudovirus,IC50,3.9,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,S:214ins+414K+450K+614G+716I,Table 3,Pseudovirus,IC50,1.6,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.619.1 Spike,Table 3,Pseudovirus,IC50,7.6,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,P.2 Spike,Table 3,Pseudovirus,IC50,10.4,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.616 Spike,Table 3,Pseudovirus,IC50,1.1,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,A.23.1 Spike,Table 3,Pseudovirus,IC50,0.5,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,A.27 Spike,Table 3,Pseudovirus,IC50,1.8,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,AV.1 Spike,Table 3,Pseudovirus,IC50,13,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,Wuhan-Hu-1,Table 3,Virus isolate,IC50,8,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.1.7 full genome,Table 3,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.351 full genome,Table 3,Virus isolate,IC50,6.5,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,P.1 full genome,Table 3,Virus isolate,IC50,3.2,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.617.2 full genome,Table 3,Virus isolate,IC50,3,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,Omicron/BA.1 full genome,Table 3,Virus isolate,IC50,147,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,Omicron/BA.1.1 full genome,Table 3,Virus isolate,IC50,1147,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,Omicron/BA.2 full genome,Table 3,Virus isolate,IC50,35,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.526 full genome/E484K,Table 3,Virus isolate,IC50,1,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.617.1 full genome,Table 3,Virus isolate,IC50,2,1,10000,1,ng/ml,2022-09-08
+EMA21e,CIL+TIX,B.1.427 full genome,Table 3,Virus isolate,IC50,5,1,10000,1,ng/ml,2022-09-08
