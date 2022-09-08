@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Duan22,Wuhan_Hu_1_CP_BBIBP_CorV_1dose,~,2021-05-15,BBIBP-CorV,1,China,NULL
+Duan22,Wuhan_Hu_1_CP_CoronaVac_1dose,~,2021-05-15,CoronaVac,1,China,NULL
+Duan22,BBIBP_CorV_2dose,~,2021-05-15,BBIBP-CorV,1,China,NULL
+Duan22,BBIBP_CorV_2dose,~,2021-06-21,BBIBP-CorV,2,China,NULL
+Duan22,CoronaVac_2dose,~,2021-05-15,CoronaVac,1,China,NULL
+Duan22,CoronaVac_2dose,~,2021-06-18,CoronaVac,2,China,NULL
+Duan22,Inactivated_3dose_2E,~,2021-05-15,CoronaVac or BBIBP-CorV,1,China,NULL
+Duan22,Inactivated_3dose_2E,~,2021-06-20,CoronaVac or BBIBP-CorV,2,China,NULL
+Duan22,Inactivated_3dose_2E,~,2022-03-12,CoronaVac or BBIBP-CorV,3,China,NULL
+Duan22,Inactivated_3dose_2F,~,2021-05-15,CoronaVac or BBIBP-CorV,1,China,NULL
+Duan22,Inactivated_3dose_2F,~,2021-06-20,CoronaVac or BBIBP-CorV,2,China,NULL
+Duan22,Inactivated_3dose_2F,~,2022-03-12,CoronaVac or BBIBP-CorV,3,China,NULL

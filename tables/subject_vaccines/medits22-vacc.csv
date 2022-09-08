@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Medits22,mRNA_3dose,~,2022-01-01,mRNA,3,Austria,NULL
+Medits22,WT_inf_mRNA_3dose,~,2022-01-01,mRNA,3,Austria,NULL
+Medits22,Omicron_BTI,~,2022-01-01,Unknown vaccine,3,Austria,NULL
