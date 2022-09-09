@@ -1,653 +1,1003 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Gruell22b,Bamlanivimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Etesevimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,18,1,10000,5,ng/ml,2022-04-12
-Gruell22b,LY-CoV1404,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Imdevimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Casirivimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Sotrovimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,685,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2196,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2130,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CT-P59,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DZIF-10c,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,P2C-1F11,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C135,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C144,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2381,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-04-12
-Gruell22b,ADG-2,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,47D11,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,386,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD-368-2,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MAD0004J08,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Bamlanivimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Etesevimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,LY-CoV1404,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Imdevimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Casirivimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Sotrovimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,105,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2196,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2130,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,6848,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CT-P59,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DZIF-10c,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,46,1,10000,5,ng/ml,2022-04-12
-Gruell22b,P2C-1F11,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C135,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C144,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2381,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,ADG-2,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,212,1,10000,5,ng/ml,2022-04-12
-Gruell22b,47D11,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD-368-2,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MAD0004J08,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Bamlanivimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Etesevimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,LY-CoV1404,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Imdevimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Casirivimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Sotrovimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,127,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2196,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2130,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CT-P59,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DZIF-10c,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,P2C-1F11,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C135,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C144,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2381,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,ADG-2,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,194,1,10000,5,ng/ml,2022-04-12
-Gruell22b,47D11,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD-368-2,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MAD0004J08,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Bamlanivimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Etesevimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,LY-CoV1404,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Imdevimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,4173,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Casirivimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,Sotrovimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,1488,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2196,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2130,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CT-P59,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DZIF-10c,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,33,1,10000,5,ng/ml,2022-04-12
-Gruell22b,P2C-1F11,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C135,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C144,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2381,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,ADG-2,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,47D11,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD-368-2,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MAD0004J08,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-30,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,775,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-36,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,62,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-38,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,2059,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-43,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3779,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-15,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,4-20,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,29,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-7,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,24,1,10000,5,ng/ml,2022-04-12
-Gruell22b,B38,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,899,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD-236,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,15,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD23,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,831,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C002,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C022,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,203,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C101,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,16,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C102,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,27,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C104,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,46,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C105,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,58,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C123,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,134,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C125,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,21,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C128,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,287,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C140,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,20,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C155,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C165,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,83,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C210,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,58,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC12.4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,4951,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC6.31,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,33,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC6.33,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,62,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_B4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,150,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_D6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1605,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_E12,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1004,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_E8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,449,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_G6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5616,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2050,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2064,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,500,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2068,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,45,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2098,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2268,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,510,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2308,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2354,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,458,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2479,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2499,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,12,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2531,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,366,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2539,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,595,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2562,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,396,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2677,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3904,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2678,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2752,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,25,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2841,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,345,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2919,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,66,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2952,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,10,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2955,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,20,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COVA2-29,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,837,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV-X2-106,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,88,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV07-262,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV07-270,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,16,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV38-139,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,39,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV38-142,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1285,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1042,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1128,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3146,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1138,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,2256,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1184,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1210,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,421,1,10000,5,ng/ml,2022-04-12
-Gruell22b,FnC1t2p1_D4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-04-12
-Gruell22b,FnC1t2p1_G5,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,12,1,10000,5,ng/ml,2022-04-12
-Gruell22b,GW01,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,72,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC2t1p2_D9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,33,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p1_C6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p1_G4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p2_B10,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,13,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p2_C6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC1t3p1_G9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,592,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t1p1_A3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,11,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t1p1_C5,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,42,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t2p1_C11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,31,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_B3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,29,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_D10,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5820,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_E6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3971,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p2_A4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9825,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC5t2p1_G1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,45,1,10000,5,ng/ml,2022-04-12
-Gruell22b,P2B-2F6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,35,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-1F1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3F11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,497,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3F7,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,57,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3G2,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,268,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1B8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1B9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1F9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1G11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-4F4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1C1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1C4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,16,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1G1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,102,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2A10,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2A6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2C2,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,10,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2F11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2G4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,21,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2H1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R259-1B9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-1B11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-3B5,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1158,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-3C6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3469,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1A1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1A8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1B4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1B9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,13,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1C8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,10,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1D3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1E1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,307,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1E4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G12,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,22,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,480,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1H4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R410-1A8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,347,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1A9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1B3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,10,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1C6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1E8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,48,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1G9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,10,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2A1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,295,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2A3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2B11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2B9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2E1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2E7,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2F1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2G11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2G5,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1A11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,37,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1D6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3278,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1F10,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,49,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1G4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1C11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,372,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1G7,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1H1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,128,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-3H2,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,12,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10954,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10955,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,17,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10964,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10970,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,11,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10971,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10977,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10986,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10989,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,S2X35,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,57,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-30,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-36,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-38,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-43,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-15,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,4-20,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-7,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,B38,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD-236,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD23,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C002,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C022,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C101,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C102,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C104,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C105,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C123,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C125,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C128,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C140,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C155,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C165,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C210,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC12.4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC6.31,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC6.33,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_B4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_D6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_E12,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_E8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_G6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2050,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2064,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2068,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,1283,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2098,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2268,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2308,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2354,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2479,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2499,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2531,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2539,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2562,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2677,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2678,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2752,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2841,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2919,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2952,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2955,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COVA2-29,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV-X2-106,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV07-262,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV07-270,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV38-139,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV38-142,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1042,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1128,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1138,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1184,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1210,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,FnC1t2p1_D4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,FnC1t2p1_G5,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,GW01,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC2t1p2_D9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p1_C6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,9482,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p1_G4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p2_B10,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p2_C6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC1t3p1_G9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t1p1_A3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t1p1_C5,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t2p1_C11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_B3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_D10,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_E6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p2_A4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC5t2p1_G1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,P2B-2F6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-1F1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,3935,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3F11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,667,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3F7,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3G2,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,4288,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1B8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1B9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,35,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1F9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,23,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1G11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-4F4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1C1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1C4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1G1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2A10,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2A6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,2575,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2C2,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2F11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2G4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,52,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2H1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R259-1B9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,369,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-1B11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,1090,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-3B5,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,5954,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-3C6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1A1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1A8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1B4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1B9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1C8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,44,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1D3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1E1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1E4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G12,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,546,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,495,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1H4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R410-1A8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,507,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1A9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,7558,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1B3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,2954,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1C6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1E8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1G9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2A1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2A3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2B11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,2638,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2B9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2E1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2E7,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2F1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2G11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,42,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2G5,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,684,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1A11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1D6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1F10,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1G4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1C11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,1811,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1G7,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1H1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-3H2,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10954,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,1641,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10955,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10964,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10970,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10971,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10977,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10986,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,381,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10989,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,S2X35,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-30,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-36,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,9885,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-38,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-43,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-15,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,4-20,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-7,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,B38,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD-236,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD23,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C002,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C022,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C101,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C102,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C104,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C105,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C123,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C125,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C128,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C140,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C155,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C165,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C210,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC12.4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC6.31,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC6.33,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_B4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_D6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_E12,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_E8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_G6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2050,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2064,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2068,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,968,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2098,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2268,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2308,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2354,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2479,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2499,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2531,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2539,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2562,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2677,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2678,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2752,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2841,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2919,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2952,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2955,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COVA2-29,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV-X2-106,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV07-262,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV07-270,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV38-139,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV38-142,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1042,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1128,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1138,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1184,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1210,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,FnC1t2p1_D4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,FnC1t2p1_G5,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,GW01,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC2t1p2_D9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p1_C6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p1_G4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p2_B10,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p2_C6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC1t3p1_G9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t1p1_A3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t1p1_C5,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t2p1_C11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_B3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_D10,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_E6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p2_A4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC5t2p1_G1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,P2B-2F6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-1F1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,1827,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3F11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,845,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3F7,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3G2,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,3543,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1B8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1B9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,47,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1F9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,27,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1G11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-4F4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1C1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1C4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1G1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2A10,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2A6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,4952,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2C2,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2F11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2G4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,79,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2H1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R259-1B9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,262,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-1B11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,1946,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-3B5,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,4139,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-3C6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1A1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1A8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1B4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1B9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1C8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,45,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1D3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,8296,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1E1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,6880,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1E4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G12,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,592,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,575,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1H4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R410-1A8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,610,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1A9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1B3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,1954,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1C6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1E8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1G9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2A1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2A3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2B11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,2624,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2B9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2E1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2E7,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2F1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2G11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2G5,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,973,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1A11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1D6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1F10,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1G4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1C11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,2062,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1G7,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1H1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-3H2,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10954,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,1583,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10955,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10964,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10970,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10971,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10977,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10986,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,192,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10989,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,S2X35,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-30,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-36,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-38,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-43,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-15,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,4-20,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,2-7,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,296,1,10000,5,ng/ml,2022-04-12
-Gruell22b,B38,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD-236,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,BD23,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C002,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C022,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C101,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C102,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C104,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C105,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C123,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C125,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C128,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C140,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C155,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C165,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,C210,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC12.4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC6.31,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CC6.33,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_B4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_D6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_E12,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_E8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CnC2t1p1_G6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2050,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2064,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2068,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1330,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2098,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2268,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,3324,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2308,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2354,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2479,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2499,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2531,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2539,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2562,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2677,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2678,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2752,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2841,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2919,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2952,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COV2-2955,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,COVA2-29,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV-X2-106,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV07-262,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV07-270,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV38-139,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,CV38-142,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1042,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1128,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1138,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1184,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,DH1210,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,FnC1t2p1_D4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,FnC1t2p1_G5,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,GW01,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC2t1p2_D9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p1_C6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p1_G4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p2_B10,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,HbnC3t1p2_C6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC1t3p1_G9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t1p1_A3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t1p1_C5,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC2t2p1_C11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_B3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_D10,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p1_E6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC4t2p2_A4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,MnC5t2p1_G1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,P2B-2F6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-1F1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3F11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,800,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3F7,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R121-3G2,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1B8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1B9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,107,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1F9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,27,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-1G11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R200-4F4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1C1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1C4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-1G1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2A10,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2A6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,2528,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2C2,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2F11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2G4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,239,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R207-2H1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R259-1B9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,614,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-1B11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,161,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-3B5,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,3596,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R339-3C6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1A1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1A8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,729,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1B4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1B9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1C8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,24,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1D3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1E1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1E4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G12,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,263,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1G8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1178,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R40-1H4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R410-1A8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1304,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1A9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,13,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1B3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1C6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,17,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1E8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-1G9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2A1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2A3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2B11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,3749,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2B9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2E1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2E7,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2F1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2G11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R568-2G5,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1648,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1A11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1D6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1F10,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R616-1G4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1C11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,7581,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1G7,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-1H1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,R849-3H2,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10954,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,117,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10955,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1319,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10964,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10970,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10971,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,5290,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10977,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10986,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,REGN10989,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
-Gruell22b,S2X35,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-04-12
+Gruell22b,Bamlanivimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Etesevimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,18,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bebtelovimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Imdevimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Casirivimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Sotrovimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,976,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Tixagevimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Cilgavimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Regdanvimab,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DZIF-10c,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BRII-196,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C135,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C144,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2381,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,ADG-2,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,47D11,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,386,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-368-2,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MAD0004J08,Wuhan-Hu-1,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bamlanivimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Etesevimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bebtelovimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Imdevimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Casirivimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Sotrovimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,105,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Tixagevimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Cilgavimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,6848,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Regdanvimab,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DZIF-10c,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,46,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BRII-196,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C135,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C144,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2381,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,ADG-2,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,212,1,10000,5,ng/ml,2022-09-09
+Gruell22b,47D11,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-368-2,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MAD0004J08,BA.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bamlanivimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Etesevimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bebtelovimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Imdevimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Casirivimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Sotrovimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,127,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Tixagevimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Cilgavimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Regdanvimab,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DZIF-10c,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BRII-196,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C135,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C144,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2381,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,ADG-2,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,194,1,10000,5,ng/ml,2022-09-09
+Gruell22b,47D11,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-368-2,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MAD0004J08,BA.1.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bamlanivimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Etesevimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bebtelovimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Imdevimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,4173,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Casirivimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Sotrovimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,1488,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Tixagevimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Cilgavimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Regdanvimab,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DZIF-10c,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,33,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BRII-196,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C135,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C144,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2381,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,ADG-2,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,47D11,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-368-2,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MAD0004J08,BA.2 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bamlanivimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Etesevimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bebtelovimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Imdevimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,4624,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Casirivimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Sotrovimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,3949,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Tixagevimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,3438,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Cilgavimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Regdanvimab,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DZIF-10c,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,34,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BRII-196,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,5398,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C135,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C144,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2381,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,ADG-2,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,47D11,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-368-2,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MAD0004J08,BA.2.12.1 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bamlanivimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Etesevimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Bebtelovimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Imdevimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,3392,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Casirivimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Sotrovimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,3671,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Tixagevimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Cilgavimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,85,1,10000,5,ng/ml,2022-09-09
+Gruell22b,Regdanvimab,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DZIF-10c,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,8638,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BRII-196,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,820,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C135,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C144,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2381,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,ADG-2,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,47D11,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-368-2,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MAD0004J08,BA.4/5 Spike,Figure 4B,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CP_early,Wuhan-Hu-1,Figure 2B,Pseudovirus (HIV),NT50,264,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_early,BA.1 Spike,Figure 2B,Pseudovirus (HIV),NT50,6,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_early,BA.1.1 Spike,Figure 2B,Pseudovirus (HIV),NT50,5,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_early,BA.2 Spike,Figure 2B,Pseudovirus (HIV),NT50,11,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_early,BA.2.12.1 Spike,Figure 2B,Pseudovirus (HIV),NT50,12,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_early,BA.4/5 Spike,Figure 2B,Pseudovirus (HIV),NT50,11,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_post_vaccination,Wuhan-Hu-1,Figure 2B,Pseudovirus (HIV),NT50,10671,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_post_vaccination,BA.1 Spike,Figure 2B,Pseudovirus (HIV),NT50,1674,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_post_vaccination,BA.1.1 Spike,Figure 2B,Pseudovirus (HIV),NT50,1521,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_post_vaccination,BA.2 Spike,Figure 2B,Pseudovirus (HIV),NT50,2103,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_post_vaccination,BA.2.12.1 Spike,Figure 2B,Pseudovirus (HIV),NT50,1946,20,100000,10,NULL,2022-09-09
+Gruell22b,CP_post_vaccination,BA.4/5 Spike,Figure 2B,Pseudovirus (HIV),NT50,1456,20,100000,10,NULL,2022-09-09
+Gruell22b,VP_2dose,Wuhan-Hu-1,Figure 2D,Pseudovirus (HIV),NT50,561,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_2dose,BA.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,11,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_2dose,BA.1.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,8,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_2dose,BA.2 Spike,Figure 2D,Pseudovirus (HIV),NT50,15,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_2dose,BA.2.12.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,17,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_2dose,BA.4/5 Spike,Figure 2D,Pseudovirus (HIV),NT50,11,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_3dose,Wuhan-Hu-1,Figure 2D,Pseudovirus (HIV),NT50,4773,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_3dose,BA.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,648,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_3dose,BA.1.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,557,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_3dose,BA.2 Spike,Figure 2D,Pseudovirus (HIV),NT50,582,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_3dose,BA.2.12.1 Spike,Figure 2D,Pseudovirus (HIV),NT50,465,30,100000,10,NULL,2022-09-09
+Gruell22b,VP_3dose,BA.4/5 Spike,Figure 2D,Pseudovirus (HIV),NT50,312,30,100000,10,NULL,2022-09-09
+Gruell22b,2-7,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,22,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-15,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-30,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,775,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-36,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,62,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-38,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,2059,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-43,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3779,1,10000,5,ng/ml,2022-09-09
+Gruell22b,4-20,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,29,1,10000,5,ng/ml,2022-09-09
+Gruell22b,B38,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-236,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,18,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD23,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,831,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C002,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C022,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,203,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C101,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,16,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C102,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,27,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C104,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,46,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C105,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,58,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C123,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,137,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C125,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,21,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C128,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,295,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C140,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,20,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C155,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C165,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,83,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C210,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,58,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.31,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,35,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.33,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,62,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC12.4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,4951,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_B4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,173,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_D6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1726,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,449,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E12,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1175,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_G6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5616,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2050,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2064,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,500,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2068,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,45,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2098,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2268,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,510,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2308,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2354,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,458,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2479,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2499,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,12,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2531,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,366,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2539,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,562,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2562,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,427,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2677,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3904,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2678,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2752,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,28,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2841,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,345,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2919,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,71,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2952,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,10,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2955,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,18,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COVA2-29,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,837,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV-X2-106,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,88,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-262,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-270,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,16,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-139,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,39,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-142,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1285,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1042,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1128,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3146,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1138,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,2256,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1184,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1210,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,421,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_D4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_G5,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,12,1,10000,5,ng/ml,2022-09-09
+Gruell22b,GW01,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,72,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC2t1p2_D9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,46,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_C6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_G4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_B10,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,19,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_C6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC1t3p1_G9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,592,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_A3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,11,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_C5,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,42,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t2p1_C11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,31,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_B3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,28,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_D10,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5820,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_E6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3971,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p2_A4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9825,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC5t2p1_G1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,45,1,10000,5,ng/ml,2022-09-09
+Gruell22b,P2B-2F6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,35,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,12,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1C8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,12,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1D3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,214,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,823,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G12,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,23,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1H4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-1F1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F7,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,55,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,406,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3G2,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,292,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1F9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1G11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-4F4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,16,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1G1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,102,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A10,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2C2,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,10,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2F11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2G4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,21,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2H1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R259-1B9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-1B11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3B5,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,1158,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3C6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,2657,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R410-1A8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,347,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1A9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1B3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,10,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1C6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1E8,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,48,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1G9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,295,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A3,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B9,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E7,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2F1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G5,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1A11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,37,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1D6,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,3278,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1F10,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,52,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1G4,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1C11,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,409,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1G7,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1H1,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,132,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-3H2,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,13,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10954,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10955,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,17,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10964,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10970,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10971,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,8,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10977,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10986,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10989,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,S2X35,Wuhan-Hu-1,Table S2,Pseudovirus (HIV),IC50,57,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-7,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-15,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-30,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-36,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-38,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-43,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,4-20,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,B38,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-236,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD23,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C002,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C022,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C101,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C102,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C104,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C105,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C123,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C125,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C128,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C140,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C155,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C165,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C210,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.31,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.33,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC12.4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_B4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_D6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E12,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_G6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2050,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2064,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2068,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,1283,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2098,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2268,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2308,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2354,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2479,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2499,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2531,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2539,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2562,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2677,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2678,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2752,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2841,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2919,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2952,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2955,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COVA2-29,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV-X2-106,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-262,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-270,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-139,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-142,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1042,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1128,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1138,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1184,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1210,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_D4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_G5,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,GW01,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC2t1p2_D9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_C6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,9482,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_G4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_B10,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_C6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC1t3p1_G9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_A3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_C5,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t2p1_C11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_B3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_D10,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_E6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p2_A4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC5t2p1_G1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,P2B-2F6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1C8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,79,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1D3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,546,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,495,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G12,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1H4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-1F1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,3935,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F7,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,667,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3G2,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,4288,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,38,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1F9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,23,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1G11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-4F4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1G1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,2575,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A10,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2C2,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2F11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2G4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,52,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2H1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R259-1B9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,369,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-1B11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,1090,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3B5,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,5954,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3C6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R410-1A8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,507,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1A9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,7558,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1B3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,2954,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1C6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1E8,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1G9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A3,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B9,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,2638,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E7,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2F1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G5,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,684,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,42,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1A11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1D6,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1F10,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1G4,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1C11,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,1811,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1G7,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1H1,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-3H2,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10954,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,1641,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10955,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10964,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10970,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10971,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10977,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10986,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,381,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10989,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,S2X35,BA.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-7,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-15,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-30,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-36,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,9885,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-38,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-43,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,4-20,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,B38,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-236,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD23,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C002,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C022,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C101,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C102,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C104,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C105,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C123,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C125,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C128,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C140,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C155,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C165,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C210,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.31,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.33,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC12.4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_B4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_D6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E12,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_G6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2050,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2064,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2068,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,968,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2098,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2268,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2308,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2354,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2479,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2499,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2531,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2539,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2562,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2677,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2678,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2752,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2841,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2919,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2952,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2955,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COVA2-29,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV-X2-106,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-262,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-270,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-139,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-142,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1042,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1128,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1138,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1184,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1210,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_D4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_G5,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,GW01,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC2t1p2_D9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_C6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_G4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_B10,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_C6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC1t3p1_G9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_A3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_C5,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t2p1_C11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_B3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_D10,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_E6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p2_A4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC5t2p1_G1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,P2B-2F6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1C8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,85,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1D3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,8296,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,6880,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,592,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,575,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G12,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1H4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-1F1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,1827,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F7,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,845,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3G2,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,3543,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,52,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1F9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,25,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1G11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-4F4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1G1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,4952,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A10,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2C2,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2F11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2G4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,79,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2H1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R259-1B9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,262,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-1B11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,1946,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3B5,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,4139,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3C6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R410-1A8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,610,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1A9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1B3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,1954,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1C6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1E8,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1G9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A3,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B9,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,2624,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E7,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2F1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G5,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,973,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1A11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1D6,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1F10,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1G4,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1C11,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,2062,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1G7,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1H1,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-3H2,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10954,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,1583,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10955,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10964,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10970,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10971,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10977,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10986,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,192,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10989,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,S2X35,BA.1.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-7,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,296,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-15,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-30,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-36,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-38,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-43,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,4-20,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,B38,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-236,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD23,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C002,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C022,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C101,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C102,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C104,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C105,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C123,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C125,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C128,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C140,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C155,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C165,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C210,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.31,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.33,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC12.4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_B4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_D6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E12,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_G6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2050,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2064,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2068,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1330,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2098,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2268,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,3324,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2308,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2354,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2479,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2499,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2531,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2539,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2562,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2677,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2678,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2752,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2841,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2919,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2952,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2955,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COVA2-29,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV-X2-106,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-262,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-270,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-139,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-142,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1042,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1128,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1138,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1184,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1210,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_D4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_G5,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,GW01,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC2t1p2_D9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_C6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_G4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_B10,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_C6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC1t3p1_G9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_A3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_C5,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t2p1_C11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_B3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_D10,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_E6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p2_A4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC5t2p1_G1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,P2B-2F6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,729,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1C8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,32,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1D3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,263,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1178,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G12,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1H4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-1F1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F7,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,800,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3G2,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,92,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1F9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,26,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1G11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-4F4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1G1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,2528,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A10,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2C2,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2F11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2G4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,239,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2H1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R259-1B9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,614,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-1B11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,161,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3B5,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,3596,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3C6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R410-1A8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1304,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1A9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,13,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1B3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1C6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,17,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1E8,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1G9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A3,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B9,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,3749,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E7,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,9,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2F1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G5,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1648,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1A11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1D6,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1F10,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1G4,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1C11,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,7581,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1G7,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1H1,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-3H2,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10954,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,117,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10955,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,1319,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10964,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10970,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10971,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,5290,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10977,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10986,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10989,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,S2X35,BA.2 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-7,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,333,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-15,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-30,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-36,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-38,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-43,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,4-20,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,B38,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-236,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD23,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C002,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C022,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C101,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C102,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C104,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C105,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C123,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C125,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C128,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C140,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C155,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C165,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C210,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.31,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.33,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC12.4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_B4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_D6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E8,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E12,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_G6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2050,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2064,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2068,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,821,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2098,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2268,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,4248,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2308,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2354,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2479,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2499,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2531,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2539,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2562,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2677,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2678,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2752,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2841,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2919,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2952,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2955,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COVA2-29,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV-X2-106,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-262,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-270,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-139,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-142,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1042,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1128,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1138,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1184,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1210,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_D4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_G5,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,GW01,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC2t1p2_D9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_C6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_G4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_B10,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_C6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC1t3p1_G9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_A3,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_C5,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t2p1_C11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_B3,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_D10,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_E6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p2_A4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC5t2p1_G1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,P2B-2F6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A8,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,295,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1C8,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,27,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1D3,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,394,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G8,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,497,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G12,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1H4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-1F1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,29,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F7,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,2209,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3G2,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B8,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,32,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1F9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,17,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1G11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-4F4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1G1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,1599,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A10,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2C2,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2F11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2G4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,201,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2H1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R259-1B9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,211,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-1B11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3B5,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3C6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R410-1A8,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,3547,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1A9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,14,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1B3,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,1678,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1C6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,1862,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1E8,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1G9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A3,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B9,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,609,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E7,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,7,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2F1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G5,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,640,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,12,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1A11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1D6,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1F10,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1G4,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1C11,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,5386,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1G7,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1H1,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-3H2,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10954,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,46,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10955,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,212,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10964,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10970,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10971,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,1046,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10977,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10986,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,885,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10989,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,S2X35,BA.2.12.1 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-7,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,292,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-15,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-30,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-36,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-38,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,2-43,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,4-20,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,B38,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD-236,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,BD23,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C002,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C022,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C101,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C102,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C104,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C105,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C123,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C125,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C128,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C140,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C155,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C165,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,C210,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.31,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC6.33,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CC12.4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_B4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_D6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E8,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_E12,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CnC2t1p1_G6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2050,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2064,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2068,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,497,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2098,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2268,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,4071,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2308,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2354,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2479,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2499,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2531,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2539,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2562,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2677,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2678,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2752,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,4205,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2841,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2919,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2952,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COV2-2955,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,COVA2-29,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV-X2-106,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-262,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV07-270,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-139,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,CV38-142,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1042,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1128,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1138,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1184,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,DH1210,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_D4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,FnC1t2p1_G5,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,GW01,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC2t1p2_D9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_C6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p1_G4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_B10,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,HbnC3t1p2_C6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC1t3p1_G9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_A3,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t1p1_C5,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC2t2p1_C11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_B3,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_D10,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p1_E6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC4t2p2_A4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,MnC5t2p1_G1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,P2B-2F6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1A8,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,226,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1B9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1C8,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,5324,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1D3,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1E4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,396,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G8,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,692,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1G12,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R40-1H4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-1F1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,45,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F7,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3F11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R121-3G2,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B8,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1B9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1F9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,17,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-1G11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R200-4F4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1C4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-1G1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,1850,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2A10,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2C2,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2F11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,11,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2G4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,303,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R207-2H1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R259-1B9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-1B11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3B5,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R339-3C6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R410-1A8,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,2394,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1A9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1B3,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,1829,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1C6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1E8,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-1G9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,45,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2A3,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B9,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2B11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,416,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2E7,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,5,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2F1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G5,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,2122,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R568-2G11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,6,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1A11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1D6,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1F10,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R616-1G4,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1C11,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,5023,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1G7,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-1H1,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,R849-3H2,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10954,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,212,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10955,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,857,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10964,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10970,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10971,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10977,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10986,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,REGN10989,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09
+Gruell22b,S2X35,BA.4/5 Spike,Table S2,Pseudovirus (HIV),IC50,10000,1,10000,5,ng/ml,2022-09-09

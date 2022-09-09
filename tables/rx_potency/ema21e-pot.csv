@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 EMA21e,CIL+TIX,Wuhan-Hu-1,Table 3,Pseudovirus,IC50,1.9,1,10000,1,ng/ml,2022-09-08
 EMA21e,CIL+TIX,B.1.1.7 Spike,Table 3,Pseudovirus,IC50,0.7,1,10000,1,ng/ml,2022-09-08
 EMA21e,CIL+TIX,B.1.351 Spike,Table 3,Pseudovirus,IC50,5.6,1,10000,1,ng/ml,2022-09-08
