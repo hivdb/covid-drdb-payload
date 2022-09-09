@@ -45,11 +45,11 @@ Alenquer21,CP_ID_9,Human,NULL,1
 Alidjinou21,BNT_2dose,Human,NULL,117
 Alidjinou21,CP_2020,Human,NULL,97
 Alter21,Ad26.COV2.S,Human,NULL,25
-Alvarez-Diaz21,CP_P2,Human,NULL,1
-Alvarez-Diaz21,CP_P3,Human,NULL,1
-Alvarez-Diaz21,CP_P4,Human,NULL,1
-Alvarez-Diaz21,CP_P5,Human,NULL,1
-Alvarez-Diaz21,CP_P6,Human,NULL,1
+Alvarez-Diaz22b,CP_P2,Human,NULL,1
+Alvarez-Diaz22b,CP_P3,Human,NULL,1
+Alvarez-Diaz22b,CP_P4,Human,NULL,1
+Alvarez-Diaz22b,CP_P5,Human,NULL,1
+Alvarez-Diaz22b,CP_P6,Human,NULL,1
 Alvarez-Diaz22,BNT_2dose,Human,NULL,31
 Andrade21,INO-4800,Human,1961,13
 Andreano21,PT003,Human,NULL,1
@@ -1484,8 +1484,8 @@ Jensen21,Patient 5,Human,1952,1
 Jensen21,Patient 6,Human,1955,1
 Jongeneelen21,Ad26.COV2.S,Human,NULL,8
 Ju22,CP,Human,NULL,19
-Kaleta21,CP,Human,NULL,16
-Kaleta21,VP,Human,NULL,14
+Kaleta22,CP,Human,NULL,16
+Kaleta22,VP,Human,NULL,14
 Kant21,Covaxin,Human,1956,40
 Kant21,Covishield,Human,1965,40
 Kant21,Covishield_vovaxin,Human,1959,18
@@ -3547,8 +3547,8 @@ Wang21l,CP,Human,NULL,14
 Wang21l,Convidecia,Human,NULL,5
 Wang21l,KCONVAC,Human,NULL,9
 Wang21l,Stemirna_mRNA,Human,NULL,4
-Wang21m,BNT162b2_3dose,Human,NULL,1
-Wang21m,mRNA_1273_3dose,Human,NULL,1
+Wang22m,BNT162b2_3dose,Human,NULL,1
+Wang22m,mRNA_1273_3dose,Human,NULL,1
 Wang22,BBIBP-CorV_2dose_d14,Human,NULL,10
 Wang22,BBIBP-CorV_3dose_d14,Human,NULL,10
 Wang22,CP_Delta,Human,NULL,10
@@ -3788,7 +3788,7 @@ Yamasoba22,mRNA-1273,Human,NULL,16
 Yi21,CP,Human,NULL,9
 Yu21b,Ad26.COV2.S,Macaque,NULL,12
 Yu21c,BBIBP_3dose,Human,1982,292
-Yu21d,inactivated virus vaccine,Human,NULL,200
+Yu22b,inactivated virus vaccine,Human,NULL,200
 Yu22,BNT162b2,Human,NULL,22
 Yu22,vaccinated_bti,Human,NULL,8
 Zani21,BNT162b2,Human,NULL,37
