@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Srisutthisamphan22,CP,Wuhan-Hu-1 Spike,Figure 5A,Pseudovirus (lentivirus),NT50,794.5,31,10000,1,NULL,2022-09-12
 Srisutthisamphan22,CP,hCoV-19/pangolin/Guangdong/1/2019 Spike,Figure 5A,Pseudovirus (lentivirus),NT50,280.2,31,10000,1,NULL,2022-09-12
 Srisutthisamphan22,CP,RaTG13 Spike,Figure 5A,Pseudovirus (lentivirus),NT50,1813,31,10000,1,NULL,2022-09-12
