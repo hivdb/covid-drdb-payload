@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 Nsp6:del106+del107+del108,B,FALSE,NULL,NULL,NULL,TRUE
 Nsp6:37F,B,FALSE,NULL,NULL,NULL,TRUE
 S:del144,B,FALSE,NULL,NULL,NULL,TRUE
