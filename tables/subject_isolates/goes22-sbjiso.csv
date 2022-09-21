@@ -1,7 +1,7 @@
 ﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
-Goes22,myeloid leukemia patient,=,2020-05-18,Nsp6:37F,NP,FALSE,Brazil,NULL
-Goes22,myeloid leukemia patient,=,2020-06-01,Nsp6:37F,NP,FALSE,Brazil,NULL
-Goes22,myeloid leukemia patient,=,2020-06-09,S:del144,NP,FALSE,Brazil,NULL
-Goes22,myeloid leukemia patient,=,2020-06-15,S:del144,NP,FALSE,Brazil,NULL
-Goes22,myeloid leukemia patient,=,2020-06-24,S:del144,NP,FALSE,Brazil,NULL
-Goes22,myeloid leukemia patient,=,2020-07-24,Nsp6:37F,NP,FALSE,Brazil,NULL
+Goes22,myeloid leukemia patient,=,2020-05-18,Goes22_D0,NP,FALSE,Brazil,NULL
+Goes22,myeloid leukemia patient,=,2020-06-01,Goes22_D14,NP,FALSE,Brazil,NULL
+Goes22,myeloid leukemia patient,=,2020-06-09,Goes22_D22,NP,FALSE,Brazil,NULL
+Goes22,myeloid leukemia patient,=,2020-06-15,Goes22_D28,NP,FALSE,Brazil,NULL
+Goes22,myeloid leukemia patient,=,2020-06-24,Goes22_D37,NP,FALSE,Brazil,NULL
+Goes22,myeloid leukemia patient,=,2020-07-24,Goes22_D44,NP,FALSE,Brazil,NULL
