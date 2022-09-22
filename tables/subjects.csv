@@ -2539,6 +2539,16 @@ Sapkal21c,AZD_2nd,Human,NULL,31
 Sapkal21c,AZD_Breakthrough,Human,NULL,20
 Sapkal21c,AZD_infect_1st,Human,NULL,15
 Sapkal21c,AZD_infect_2nd,Human,NULL,19
+Scheaffer22,BALBc_mRNA_1273,Human,NULL,1
+Scheaffer22,BALBc_mRNA_1273_045,Human,NULL,1
+Scheaffer22,BALBc_mRNA_1273_214,Human,NULL,1
+Scheaffer22,BALBc_mRNA_1273_222,Human,NULL,1
+Scheaffer22,BALBc_mRNA_1273_529,Human,NULL,1
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_PBS_1dose,Human,NULL,1
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_214_1dose,Human,NULL,1
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_222_1dose,Human,NULL,1
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_control_1dose,Human,NULL,1
+Scheaffer22,K18_hACE2_mRNA_1273_3dose,Human,NULL,1
 Scheepers22,AZD1222,Human,NULL,11
 Scheepers22,Ad26.COV2.S,Human,NULL,10
 Scheepers22,BNT162b2,Human,NULL,7
