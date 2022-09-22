@@ -1,0 +1,102 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Scheaffer22,BALBc_mRNA_1273_1dose_21d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,3018,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_1dose_21d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,907,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_1dose_21d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,995,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_1dose_21d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,2539,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_1dose_21d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,3229,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_1dose_21d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,310,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_1dose_21d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,465,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_1dose_21d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,147,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_1dose_21d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,527,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_1dose_21d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,342,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_1dose_21d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,1782,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_1dose_21d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,1545,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_1dose_21d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,2512,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_1dose_21d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,1581,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_1dose_21d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,3421,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,111514,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,47464,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,27001,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,105759,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,73664,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,27946,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,34494,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,9372,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,32387,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,25261,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,82609,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,63611,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,45495,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,83142,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,59405,8,10000000,10,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,S:614G,Figure 1C,Pseudovirus (VSV),NT50,16997,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,S:614G,Figure 1C,Pseudovirus (VSV),NT50,254,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,S:614G,Figure 1C,Pseudovirus (VSV),NT50,143,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,S:614G,Figure 1C,Pseudovirus (VSV),NT50,8444,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,S:614G,Figure 1C,Pseudovirus (VSV),NT50,3035,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.1 Spike,Figure 1C,Pseudovirus (VSV),NT50,1024,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,BA.1 Spike,Figure 1C,Pseudovirus (VSV),NT50,20717,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,BA.1 Spike,Figure 1C,Pseudovirus (VSV),NT50,1030,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.1 Spike,Figure 1C,Pseudovirus (VSV),NT50,13433,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.1 Spike,Figure 1C,Pseudovirus (VSV),NT50,1525,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.2.75 Spike,Figure 1C,Pseudovirus (VSV),NT50,232,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,BA.2.75 Spike,Figure 1C,Pseudovirus (VSV),NT50,1426,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,BA.2.75 Spike,Figure 1C,Pseudovirus (VSV),NT50,1041,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.2.75 Spike,Figure 1C,Pseudovirus (VSV),NT50,804,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.2.75 Spike,Figure 1C,Pseudovirus (VSV),NT50,1480,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.4/5 Spike,Figure 1C,Pseudovirus (VSV),NT50,157,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,BA.4/5 Spike,Figure 1C,Pseudovirus (VSV),NT50,2229,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,BA.4/5 Spike,Figure 1C,Pseudovirus (VSV),NT50,13804,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.4/5 Spike,Figure 1C,Pseudovirus (VSV),NT50,2191,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.4/5 Spike,Figure 1C,Pseudovirus (VSV),NT50,19036,8,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,Wuhan-Hu-1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,1529,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,Wuhan-Hu-1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,210,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,Wuhan-Hu-1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,82,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,Wuhan-Hu-1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,1344,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,Wuhan-Hu-1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,373,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,473,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,BA.1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,15831,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,BA.1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,232,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,7235,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.1 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,720,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.4/5 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,138,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_529_2dose_14d,BA.4/5 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,1459,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_045_2dose_14d,BA.4/5 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,8930,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.4/5 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,1166,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.4/5 Spike,Figure 1D,Pseudovirus (lentivirus),NT50,9611,8,10000000,50,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,S:614G,Figure 2B,Pseudovirus (VSV),NT50,28920,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,S:614G,Figure 2B,Pseudovirus (VSV),NT50,7754,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,S:614G,Figure 2B,Pseudovirus (VSV),NT50,9698,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,958,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,13183,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,2405,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.2.75 Spike,Figure 2B,Pseudovirus (VSV),NT50,292,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.2.75 Spike,Figure 2B,Pseudovirus (VSV),NT50,754,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.2.75 Spike,Figure 2B,Pseudovirus (VSV),NT50,2319,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.4/5 Spike,Figure 2B,Pseudovirus (VSV),NT50,149,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.4/5 Spike,Figure 2B,Pseudovirus (VSV),NT50,293,16,1000000,40,NULL,2022-09-21
+Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.4/5 Spike,Figure 2B,Pseudovirus (VSV),NT50,15561,16,1000000,40,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_218d,WA1,Figure 3B,Virus isolate,NT50,454,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_218d,B.1.617.2 full genome,Figure 3B,Virus isolate,NT50,277,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_218d,Omicron/BA.1 full genome,Figure 3B,Virus isolate,NT50,63,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_218d,Omicron/BA.5 full genome,Figure 3B,Virus isolate,NT50,63,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_control_1dose_14d,WA1,Figure 3C,Virus isolate,NT50,67,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_PBS_1dose_14d,WA1,Figure 3C,Virus isolate,NT50,399,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_3dose_14d,WA1,Figure 3C,Virus isolate,NT50,1753,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_214_1dose_14d,WA1,Figure 3C,Virus isolate,NT50,2119,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_222_1dose_14d,WA1,Figure 3C,Virus isolate,NT50,2513,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_control_1dose_14d,B.1.617.2 full genome,Figure 3C,Virus isolate,NT50,72,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_PBS_1dose_14d,B.1.617.2 full genome,Figure 3C,Virus isolate,NT50,255,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_3dose_14d,B.1.617.2 full genome,Figure 3C,Virus isolate,NT50,1503,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_214_1dose_14d,B.1.617.2 full genome,Figure 3C,Virus isolate,NT50,1398,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_222_1dose_14d,B.1.617.2 full genome,Figure 3C,Virus isolate,NT50,1525,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_control_1dose_14d,Omicron/BA.1 full genome,Figure 3C,Virus isolate,NT50,30,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_PBS_1dose_14d,Omicron/BA.1 full genome,Figure 3C,Virus isolate,NT50,36,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_3dose_14d,Omicron/BA.1 full genome,Figure 3C,Virus isolate,NT50,87,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_214_1dose_14d,Omicron/BA.1 full genome,Figure 3C,Virus isolate,NT50,308,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_222_1dose_14d,Omicron/BA.1 full genome,Figure 3C,Virus isolate,NT50,186,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_control_1dose_14d,Omicron/BA.5 full genome,Figure 3C,Virus isolate,NT50,30,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_PBS_1dose_14d,Omicron/BA.5 full genome,Figure 3C,Virus isolate,NT50,31,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_3dose_14d,Omicron/BA.5 full genome,Figure 3C,Virus isolate,NT50,73,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_214_1dose_14d,Omicron/BA.5 full genome,Figure 3C,Virus isolate,NT50,174,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_1273_222_1dose_14d,Omicron/BA.5 full genome,Figure 3C,Virus isolate,NT50,267,9,100000,60,NULL,2022-09-21
