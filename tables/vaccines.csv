@@ -69,4 +69,6 @@ Inactivated + ZF2001,Mixed,,,3,67
 BNT162b2 or mRNA-1273,mRNA,,United States,4,68
 mRNA-1273.045,mRNA,Moderna,United States,2,69
 mRNA-1273.222,mRNA,Moderna,United States,2,70
+mRNA-1273 + mRNA-1273.222,mRNA,Moderna,United States,4,71
+mRNA-1273 + mRNA-1273.045,mRNA,Moderna,United States,4,72
 Unknown vaccine,Mixed,,,3,1000
