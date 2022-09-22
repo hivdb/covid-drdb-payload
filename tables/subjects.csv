@@ -1097,6 +1097,7 @@ Goel21,IHCV2020.041,Human,NULL,1
 Goel21,IHCV2020.042,Human,NULL,1
 Goel21b,mRNA,Human,1984,45
 Goel21b,mRNA_recovered,Human,1983,16
+Goes22,myeloid leukemia patient,Human,1991,1
 Gong21,BNT_infected,Human,NULL,5
 Gonzalez-Reiche22,Patient 1,Human,1959,1
 Gottlieb21,Gottlieb21 BAM/ETE Treated,Human,NULL,1
@@ -2988,6 +2989,8 @@ Spencer21,AZD1222_2dose_AZD2816_1dose,Mouse,NULL,6
 Spencer21,AZD1222_3dose,Mouse,NULL,4
 Spencer21,AZD1222_AZD2816_mix_1dose,Mouse,NULL,10
 Spencer21,AZD2816_1dose,Mouse,NULL,10
+Srisutthisamphan22,CP,Human,NULL,31
+Srisutthisamphan22,CoronaVac_2dose,Human,NULL,20
 Stadtmuller21,BNT162b2,Human,NULL,7
 Stamatatos21,PT_1,Human,NULL,1
 Stamatatos21,PT_10,Human,NULL,1
