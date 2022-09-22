@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Wang22j,mRNA_3dose,~,2021-01-01,mRNA,1,USA,NULL
+Wang22j,mRNA_3dose,~,2021-02-01,mRNA,2,USA,NULL
+Wang22j,mRNA_3dose,~,2021-08-01,mRNA,3,USA,NULL
