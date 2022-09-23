@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Brazer22,CP_4637,~,2021-07-27,Delta,USA,NULL,NULL,NULL
 Brazer22,CP_4638,~,2021-07-27,Delta,USA,NULL,NULL,NULL
 Brazer22,CP_4647,~,2021-08-13,Delta,USA,NULL,NULL,NULL
