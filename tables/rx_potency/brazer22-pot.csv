@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Brazer22,CP_4637,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
 Brazer22,CP_4637,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
 Brazer22,CP_4637,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
