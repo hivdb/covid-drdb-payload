@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Jiang22,CoronaVac_2dose_Convidecia_1dose_IM_14d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,181.4,30,4096,1,NULL,2022-09-22
 Jiang22,CoronaVac_2dose_Convidecia_1dose_OI_14d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,675.6,30,4096,1,NULL,2022-09-22
 Jiang22,Convidecia_1dose_Zifivax_2dose_14d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,162.54,30,4096,1,NULL,2022-09-22
