@@ -1,0 +1,22 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Jiang22,CoronaVac_2dose_Convidecia_1dose_IM_14d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,181.4,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_OI_14d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,675.6,30,4096,1,NULL,2022-09-22
+Jiang22,Convidecia_1dose_Zifivax_2dose_14d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,162.54,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_3dose_14d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,31.5,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_IM_14d,hCoV-19/Jiangsu/JS07/2021,Figure 1A,Virus isolate,NT50,21,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_OI_14d,hCoV-19/Jiangsu/JS07/2021,Figure 1A,Virus isolate,NT50,172.9,30,4096,1,NULL,2022-09-22
+Jiang22,Convidecia_1dose_Zifivax_2dose_14d,hCoV-19/Jiangsu/JS07/2021,Figure 1A,Virus isolate,NT50,47.4,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_3dose_14d,hCoV-19/Jiangsu/JS07/2021,Figure 1A,Virus isolate,NT50,7.8,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_IM_14d,hCoV-19/Jiangsu/JS01/2022,Figure 1A,Virus isolate,NT50,21.6,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_OI_14d,hCoV-19/Jiangsu/JS01/2022,Figure 1A,Virus isolate,NT50,68.6,30,4096,1,NULL,2022-09-22
+Jiang22,Convidecia_1dose_Zifivax_2dose_14d,hCoV-19/Jiangsu/JS01/2022,Figure 1A,Virus isolate,NT50,8.2,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_3dose_14d,hCoV-19/Jiangsu/JS01/2022,Figure 1A,Virus isolate,NT50,4.7,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_IM_28d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,127,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_OI_28d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,1702.6,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_3dose_28d,hCoV-19/Jiangsu/JS02/2020,Figure 1A,Virus isolate,NT50,34,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_IM_28d,hCoV-19/Jiangsu/JS07/2021,Figure 1A,Virus isolate,NT50,24,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_OI_28d,hCoV-19/Jiangsu/JS07/2021,Figure 1A,Virus isolate,NT50,262.0,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_3dose_28d,hCoV-19/Jiangsu/JS07/2021,Figure 1A,Virus isolate,NT50,6,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_IM_28d,hCoV-19/Jiangsu/JS01/2022,Figure 1A,Virus isolate,NT50,15,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_2dose_Convidecia_1dose_OI_28d,hCoV-19/Jiangsu/JS01/2022,Figure 1A,Virus isolate,NT50,88,30,4096,1,NULL,2022-09-22
+Jiang22,CoronaVac_3dose_28d,hCoV-19/Jiangsu/JS01/2022,Figure 1A,Virus isolate,NT50,4,30,4096,1,NULL,2022-09-22
