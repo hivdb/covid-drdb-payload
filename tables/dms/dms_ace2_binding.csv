@@ -1,4 +1,4 @@
-﻿ref_name,gene,position,amino_acid,ace2_binding,expression,ace2_contact,ace2_assay,rbd_bg
+﻿ref_name,gene,position,amino_acid,ace2_binding,expression,ace2_contact,ace2_assay,backbone
 Starr21,S,331,A,-0.03,-0.11,FALSE,dimeric,Wuhan-Hu-1
 Starr21,S,331,C,-0.09,-1.26,FALSE,dimeric,Wuhan-Hu-1
 Starr21,S,331,D,0.03,-0.44,FALSE,dimeric,Wuhan-Hu-1
