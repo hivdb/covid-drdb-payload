@@ -1,0 +1,66 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Sheward22c,Sotrovimab,S:614G,Figure 1B,Pseudovirus,IC50,119,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Cilgavimab,S:614G,Figure 1B,Pseudovirus,IC50,12,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Tixagevimab,S:614G,Figure 1B,Pseudovirus,IC50,4,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Evusheld,S:614G,Figure 1B,Pseudovirus,IC50,6,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bebtelovimab,S:614G,Figure 1B,Pseudovirus,IC50,4,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Casirivimab,S:614G,Figure 1B,Pseudovirus,IC50,14,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Imdevimab,S:614G,Figure 1B,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Etesevimab,S:614G,Figure 1B,Pseudovirus,IC50,29,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bamlanivimab,S:614G,Figure 1B,Pseudovirus,IC50,9,1,1000,1,ng/ml,2022-10-04
+Sheward22c,ADG-20,S:614G,Figure 1B,Pseudovirus,IC50,56,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2E12,S:614G,Figure 1B,Pseudovirus,IC50,4,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2K146,S:614G,Figure 1B,Pseudovirus,IC50,18,1,1000,1,ng/ml,2022-10-04
+Sheward22c,A23-58.1,S:614G,Figure 1B,Pseudovirus,IC50,6,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Sotrovimab,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,559,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Cilgavimab,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,71,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Tixagevimab,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Evusheld,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,120,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bebtelovimab,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Casirivimab,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Imdevimab,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Etesevimab,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bamlanivimab,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,ADG-20,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2E12,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2K146,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,118,1,1000,1,ng/ml,2022-10-04
+Sheward22c,A23-58.1,BA.4/5 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Sotrovimab,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,925,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Cilgavimab,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Tixagevimab,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Evusheld,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bebtelovimab,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,2,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Casirivimab,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Imdevimab,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Etesevimab,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bamlanivimab,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,ADG-20,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2E12,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2K146,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,78,1,1000,1,ng/ml,2022-10-04
+Sheward22c,A23-58.1,BA.4.6 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Sotrovimab,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,560,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Cilgavimab,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,168,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Tixagevimab,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Evusheld,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,816,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bebtelovimab,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,3,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Casirivimab,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Imdevimab,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Etesevimab,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bamlanivimab,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,ADG-20,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2E12,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2K146,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,207,1,1000,1,ng/ml,2022-10-04
+Sheward22c,A23-58.1,BA.2.10.4 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Sotrovimab,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,442,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Cilgavimab,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Tixagevimab,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Evusheld,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bebtelovimab,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,2,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Casirivimab,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Imdevimab,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Etesevimab,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,Bamlanivimab,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,ADG-20,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2E12,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
+Sheward22c,S2K146,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,62,1,1000,1,ng/ml,2022-10-04
+Sheward22c,A23-58.1,BA.2.75.2 Spike,Figure 1B,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-04
