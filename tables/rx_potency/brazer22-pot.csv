@@ -1,0 +1,345 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Brazer22,CP_4637,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4637,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4637,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4637,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4638,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4638,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4638,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4638,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4647,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4647,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4647,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4647,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4649,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4649,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4649,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_4649,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA1,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA1,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA1,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA1,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA10,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA10,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA10,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA10,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA11,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA11,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA11,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA11,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA12,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA12,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA12,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA12,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA13,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA13,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA13,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA13,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA14,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA14,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA14,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA14,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA15,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA15,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA15,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA15,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA16,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA16,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA16,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA16,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA17,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA17,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA17,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA17,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA18,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA18,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA18,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA18,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA19,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA19,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA19,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA19,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA2,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA2,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA2,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA2,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA20,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA20,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA20,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA20,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA21,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA21,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA21,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA21,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA22,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA22,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA22,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA22,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA23,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA23,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA23,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA23,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA24,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA24,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA24,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA24,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA26,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA26,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA26,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA26,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA27,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA27,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA27,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA27,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA28,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA28,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA28,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA28,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA29,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA29,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA29,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA29,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA3,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA3,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA3,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA3,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA30,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA30,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA30,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA30,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA31,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA31,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA31,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA31,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA32,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA32,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA32,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA32,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA34,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA34,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA34,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA34,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA35,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA35,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA35,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA35,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA36,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA36,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA36,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA36,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA37,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,87480,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA37,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,87480,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA37,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,454559,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA37,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,151520,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA38,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA38,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA38,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA38,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA39,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA39,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA39,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,50507,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA39,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA4,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA4,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA4,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA4,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA40,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA40,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA40,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,87481,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA40,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,87480,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA41,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA41,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA41,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA41,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA42,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA42,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA42,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA42,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA44,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA44,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA44,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA44,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA45,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA45,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA45,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA45,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA46,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA46,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA46,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA46,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA47,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA47,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA47,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA47,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA48,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA48,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA48,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA48,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA5,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA5,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA5,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA5,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA51,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA51,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA51,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,87480,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA51,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA52,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA52,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA52,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA52,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA53,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA53,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA53,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA53,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA54,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA54,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA54,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA54,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA55,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA55,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA55,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA55,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA56,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA56,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA56,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA56,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA57,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA57,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA57,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA57,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,87480,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA58,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA58,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA58,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA58,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA59,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA59,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA59,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA59,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA6,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA6,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA6,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA6,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA60,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA60,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA60,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA60,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA61,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA61,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA61,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA61,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA62,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA62,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA62,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA62,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,87481,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA63,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA63,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA63,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA63,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA64,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA64,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA64,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA64,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA65,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA65,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA65,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA65,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA66,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA66,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA66,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA66,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA67,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA67,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA67,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA67,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA68,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA68,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA68,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA68,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA69,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA69,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA69,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA69,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA7,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA7,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA7,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA7,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA70,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA70,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA70,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA70,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA71,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,40,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA71,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA71,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA71,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA72,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA72,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA72,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA72,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA73,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA73,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA73,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA73,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA74,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA74,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA74,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA74,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA8,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,39,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA8,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,120,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA8,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA8,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA9,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA9,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA9,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_BA9,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,87480,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_194,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_194,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_194,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_194,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_201,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_201,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_201,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_201,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_202,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_202,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_202,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,50507,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_202,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_203,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_203,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_203,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_203,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_205,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_205,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_205,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_205,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_206,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_206,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_206,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_206,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_215,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_215,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_215,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_215,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,9720,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_219,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_219,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_219,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_219,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_221,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_221,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_221,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_221,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_226,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_226,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_226,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_226,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_227,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_227,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,1871,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_227,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,5612,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_227,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_228,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,208,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_228,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,360,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_228,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,1080,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_228,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,3240,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_231,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,69,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_231,Omicron/BA.2 full genome,Supplementary Table 1,Virus isolate,NT50,624,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_231,B.1.617.2 full genome,Supplementary Table 1,Virus isolate,NT50,29160,1,84480,40,NULL,2022-09-23
+Brazer22,CP_UMP_231,Wuhan-Hu-1,Supplementary Table 1,Virus isolate,NT50,16836,1,84480,40,NULL,2022-09-23
