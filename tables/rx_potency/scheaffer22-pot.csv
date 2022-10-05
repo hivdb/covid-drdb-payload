@@ -46,6 +46,10 @@ Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.2.75 Spike,Figure 2B,Pseudovirus (V
 Scheaffer22,BALBc_mRNA_1273_2dose_14d,BA.4/5 Spike,Figure 2B,Pseudovirus (VSV),NT50,149,16,1000000,40,NULL,2022-09-21
 Scheaffer22,BALBc_mRNA_1273_214_2dose_14d,BA.4/5 Spike,Figure 2B,Pseudovirus (VSV),NT50,293,16,1000000,40,NULL,2022-09-21
 Scheaffer22,BALBc_mRNA_1273_222_2dose_14d,BA.4/5 Spike,Figure 2B,Pseudovirus (VSV),NT50,15561,16,1000000,40,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_31wk,WA1,Figure 3B,Virus isolate,NT50,454,36,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_31wk,B.1.617.2 full genome,Figure 3B,Virus isolate,NT50,277,36,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_31wk,Omicron/BA.1 full genome,Figure 3B,Virus isolate,NT50,63,36,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_31wk,Omicron/BA.5 full genome,Figure 3B,Virus isolate,NT50,63,36,100000,60,NULL,2022-09-21
 Scheaffer22,K18_hACE2_mRNA_1273_2dose_mRNA_control_1dose_14d,WA1,Figure 3C,Virus isolate,NT50,67,9,100000,60,NULL,2022-09-21
 Scheaffer22,K18_hACE2_mRNA_1273_2dose_PBS_1dose_14d,WA1,Figure 3C,Virus isolate,NT50,399,9,100000,60,NULL,2022-09-21
 Scheaffer22,K18_hACE2_mRNA_1273_3dose_14d,WA1,Figure 3C,Virus isolate,NT50,1753,9,100000,60,NULL,2022-09-21
