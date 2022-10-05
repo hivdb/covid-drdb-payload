@@ -69,4 +69,8 @@ Inactivated + ZF2001,Mixed,,,3,67
 BNT162b2 or mRNA-1273,mRNA,,United States,4,68
 Convidecia + ZF2001,Mixed,,China,3,69
 Convidecia + CoronaVac,Mixed,,China,3,70
+mRNA-1273.045,mRNA,Moderna,United States,2,71
+mRNA-1273.222,mRNA,Moderna,United States,2,72
+mRNA-1273 + mRNA-1273.222,mRNA,Moderna,United States,4,73
+mRNA-1273 + mRNA-1273.045,mRNA,Moderna,United States,4,74
 Unknown vaccine,Mixed,,,3,1000

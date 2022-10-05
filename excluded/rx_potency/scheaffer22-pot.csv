@@ -1,0 +1,5 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_218d,WA1,Figure 3B,Virus isolate,NT50,454,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_218d,B.1.617.2 full genome,Figure 3B,Virus isolate,NT50,277,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_218d,Omicron/BA.1 full genome,Figure 3B,Virus isolate,NT50,63,9,100000,60,NULL,2022-09-21
+Scheaffer22,K18_hACE2_mRNA_1273_2dose_218d,Omicron/BA.5 full genome,Figure 3B,Virus isolate,NT50,63,9,100000,60,NULL,2022-09-21
