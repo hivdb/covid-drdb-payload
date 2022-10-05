@@ -1,19 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Scheaffer22,BALBc_trial_mRNA_1273_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,111514,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_529_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,47464,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_045_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,27001,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_214_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,105759,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_222_2dose_14d,Wuhan-Hu-1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,73664,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,27946,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_529_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,34494,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_045_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,9372,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_214_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,32387,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_222_2dose_14d,BA.1 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,25261,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,82609,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_529_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,63611,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_045_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,45495,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_214_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,83142,8,1000000,10,NULL,2022-09-21
-Scheaffer22,BALBc_trial_mRNA_1273_222_2dose_14d,BA.4/5 Spike,Figure 1B,SARS-CoV-2 recombinant,NT50,59405,8,1000000,10,NULL,2022-09-21
 Scheaffer22,BALBc_trial_mRNA_1273_2dose_14d,S:614G,Figure 1C,Pseudovirus (VSV),NT50,16997,8,1000000,40,NULL,2022-09-21
 Scheaffer22,BALBc_trial_mRNA_1273_529_2dose_14d,S:614G,Figure 1C,Pseudovirus (VSV),NT50,254,8,1000000,40,NULL,2022-09-21
 Scheaffer22,BALBc_trial_mRNA_1273_045_2dose_14d,S:614G,Figure 1C,Pseudovirus (VSV),NT50,143,8,1000000,40,NULL,2022-09-21
