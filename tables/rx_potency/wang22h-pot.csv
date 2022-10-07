@@ -20,7 +20,7 @@ Wang22h,mRNA_2dose,BA.2 Spike:F157L,Figure 1B,Pseudovirus (VSV),NT50,1045,16,100
 Wang22h,mRNA_2dose,BA.2 Spike:I210V,Figure 1B,Pseudovirus (VSV),NT50,1434,16,1000000,100,NULL,2022-08-10
 Wang22h,mRNA_2dose,BA.2 Spike:G257S,Figure 1B,Pseudovirus (VSV),NT50,1100,16,1000000,100,NULL,2022-08-10
 Wang22h,mRNA_2dose,BA.2 Spike:D339H,Figure 1B,Pseudovirus (VSV),NT50,1099,16,1000000,100,NULL,2022-08-10
-Wang22h,mRNA_2dose,BA.2 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,1240,16,1000000,100,NULL,2022-08-10
+Wang22h,mRNA_2dose,BA.2 Spike:446S,Figure 1B,Pseudovirus (VSV),NT50,1240,16,1000000,100,NULL,2022-08-10
 Wang22h,mRNA_2dose,BA.2 Spike:N460K,Figure 1B,Pseudovirus (VSV),NT50,734,16,1000000,100,NULL,2022-08-10
 Wang22h,mRNA_2dose,BA.2 Spike:R493Q,Figure 1B,Pseudovirus (VSV),NT50,3205,16,1000000,100,NULL,2022-08-10
 Wang22h,BA1_CP,BA.2 Spike:K147E,Figure 1B,Pseudovirus (VSV),NT50,1967,13,1000000,100,NULL,2022-08-10
@@ -29,7 +29,7 @@ Wang22h,BA1_CP,BA.2 Spike:F157L,Figure 1B,Pseudovirus (VSV),NT50,2739,13,1000000
 Wang22h,BA1_CP,BA.2 Spike:I210V,Figure 1B,Pseudovirus (VSV),NT50,3098,13,1000000,100,NULL,2022-08-10
 Wang22h,BA1_CP,BA.2 Spike:G257S,Figure 1B,Pseudovirus (VSV),NT50,2792,13,1000000,100,NULL,2022-08-10
 Wang22h,BA1_CP,BA.2 Spike:D339H,Figure 1B,Pseudovirus (VSV),NT50,2342,13,1000000,100,NULL,2022-08-10
-Wang22h,BA1_CP,BA.2 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,2500,13,1000000,100,NULL,2022-08-10
+Wang22h,BA1_CP,BA.2 Spike:446S,Figure 1B,Pseudovirus (VSV),NT50,2500,13,1000000,100,NULL,2022-08-10
 Wang22h,BA1_CP,BA.2 Spike:N460K,Figure 1B,Pseudovirus (VSV),NT50,1299,13,1000000,100,NULL,2022-08-10
 Wang22h,BA1_CP,BA.2 Spike:R493Q,Figure 1B,Pseudovirus (VSV),NT50,5799,13,1000000,100,NULL,2022-08-10
 Wang22h,BA2_CP,BA.2 Spike:K147E,Figure 1B,Pseudovirus (VSV),NT50,2029,11,1000000,100,NULL,2022-08-10
@@ -38,7 +38,7 @@ Wang22h,BA2_CP,BA.2 Spike:F157L,Figure 1B,Pseudovirus (VSV),NT50,3194,11,1000000
 Wang22h,BA2_CP,BA.2 Spike:I210V,Figure 1B,Pseudovirus (VSV),NT50,4509,11,1000000,100,NULL,2022-08-10
 Wang22h,BA2_CP,BA.2 Spike:G257S,Figure 1B,Pseudovirus (VSV),NT50,4375,11,1000000,100,NULL,2022-08-10
 Wang22h,BA2_CP,BA.2 Spike:D339H,Figure 1B,Pseudovirus (VSV),NT50,3509,11,1000000,100,NULL,2022-08-10
-Wang22h,BA2_CP,BA.2 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,4161,11,1000000,100,NULL,2022-08-10
+Wang22h,BA2_CP,BA.2 Spike:446S,Figure 1B,Pseudovirus (VSV),NT50,4161,11,1000000,100,NULL,2022-08-10
 Wang22h,BA2_CP,BA.2 Spike:N460K,Figure 1B,Pseudovirus (VSV),NT50,2016,11,1000000,100,NULL,2022-08-10
 Wang22h,BA2_CP,BA.2 Spike:R493Q,Figure 1B,Pseudovirus (VSV),NT50,6731,11,1000000,100,NULL,2022-08-10
 Wang22h,C1717,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,302,1,10000,10,ng/ml,2022-08-10
@@ -60,7 +60,7 @@ Wang22h,C1717,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,584,
 Wang22h,C1717,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,352,1,10000,10,ng/ml,2022-08-10
 Wang22h,C1717,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,474,1,10000,10,ng/ml,2022-08-10
 Wang22h,C1717,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,522,1,10000,10,ng/ml,2022-08-10
-Wang22h,C1717,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,582,1,10000,10,ng/ml,2022-08-10
+Wang22h,C1717,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,582,1,10000,10,ng/ml,2022-08-10
 Wang22h,C1717,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,1236,1,10000,10,ng/ml,2022-08-10
 Wang22h,C1717,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,260,1,10000,10,ng/ml,2022-08-10
 Wang22h,S3H3,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,46,1,10000,10,ng/ml,2022-08-10
@@ -82,7 +82,7 @@ Wang22h,S3H3,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,16,1,
 Wang22h,S3H3,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,17,1,10000,10,ng/ml,2022-08-10
 Wang22h,S3H3,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,15,1,10000,10,ng/ml,2022-08-10
 Wang22h,S3H3,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,18,1,10000,10,ng/ml,2022-08-10
-Wang22h,S3H3,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10,1,10000,10,ng/ml,2022-08-10
+Wang22h,S3H3,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10,1,10000,10,ng/ml,2022-08-10
 Wang22h,S3H3,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,14,1,10000,10,ng/ml,2022-08-10
 Wang22h,S3H3,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,21,1,10000,10,ng/ml,2022-08-10
 Wang22h,CAB-A17,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,11,1,10000,10,ng/ml,2022-08-10
@@ -104,7 +104,7 @@ Wang22h,CAB-A17,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,33
 Wang22h,CAB-A17,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,28,1,10000,10,ng/ml,2022-08-10
 Wang22h,CAB-A17,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,33,1,10000,10,ng/ml,2022-08-10
 Wang22h,CAB-A17,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,29,1,10000,10,ng/ml,2022-08-10
-Wang22h,CAB-A17,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,17,1,10000,10,ng/ml,2022-08-10
+Wang22h,CAB-A17,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,17,1,10000,10,ng/ml,2022-08-10
 Wang22h,CAB-A17,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,CAB-A17,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,6,1,10000,10,ng/ml,2022-08-10
 Wang22h,CB6,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,9,1,10000,10,ng/ml,2022-08-10
@@ -126,7 +126,7 @@ Wang22h,CB6,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,
 Wang22h,CB6,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,CB6,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,CB6,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
-Wang22h,CB6,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
+Wang22h,CB6,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,CB6,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,CB6,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,15,1,10000,10,ng/ml,2022-08-10
@@ -148,7 +148,7 @@ Wang22h,Brii-196,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,1
 Wang22h,Brii-196,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,1674,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,5475,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,1731,1,10000,10,ng/ml,2022-08-10
-Wang22h,Brii-196,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,1408,1,10000,10,ng/ml,2022-08-10
+Wang22h,Brii-196,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,1408,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,17,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-3,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,6,1,10000,10,ng/ml,2022-08-10
@@ -170,7 +170,7 @@ Wang22h,Omi-3,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,17,1
 Wang22h,Omi-3,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,16,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-3,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,20,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-3,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,13,1,10000,10,ng/ml,2022-08-10
-Wang22h,Omi-3,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,11,1,10000,10,ng/ml,2022-08-10
+Wang22h,Omi-3,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,11,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-3,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,625,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-3,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-18,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,27,1,10000,10,ng/ml,2022-08-10
@@ -192,7 +192,7 @@ Wang22h,Omi-18,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,6,1
 Wang22h,Omi-18,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,6,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-18,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,6,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-18,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,4,1,10000,10,ng/ml,2022-08-10
-Wang22h,Omi-18,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,5,1,10000,10,ng/ml,2022-08-10
+Wang22h,Omi-18,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,5,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-18,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,20,1,10000,10,ng/ml,2022-08-10
 Wang22h,Omi-18,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,5,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv347,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
@@ -214,7 +214,7 @@ Wang22h,XGv347,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,4,1
 Wang22h,XGv347,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,4,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv347,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv347,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
-Wang22h,XGv347,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
+Wang22h,XGv347,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv347,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,4,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv347,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,1,1,10000,10,ng/ml,2022-08-10
 Wang22h,ZCB11,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,6,1,10000,10,ng/ml,2022-08-10
@@ -236,7 +236,7 @@ Wang22h,ZCB11,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,13,1
 Wang22h,ZCB11,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,9,1,10000,10,ng/ml,2022-08-10
 Wang22h,ZCB11,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,11,1,10000,10,ng/ml,2022-08-10
 Wang22h,ZCB11,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,12,1,10000,10,ng/ml,2022-08-10
-Wang22h,ZCB11,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,12,1,10000,10,ng/ml,2022-08-10
+Wang22h,ZCB11,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,12,1,10000,10,ng/ml,2022-08-10
 Wang22h,ZCB11,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,187,1,10000,10,ng/ml,2022-08-10
 Wang22h,ZCB11,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,1,1,10000,10,ng/ml,2022-08-10
 Wang22h,S2E12,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
@@ -258,7 +258,7 @@ Wang22h,S2E12,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,365,
 Wang22h,S2E12,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,299,1,10000,10,ng/ml,2022-08-10
 Wang22h,S2E12,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,299,1,10000,10,ng/ml,2022-08-10
 Wang22h,S2E12,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,287,1,10000,10,ng/ml,2022-08-10
-Wang22h,S2E12,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,313,1,10000,10,ng/ml,2022-08-10
+Wang22h,S2E12,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,313,1,10000,10,ng/ml,2022-08-10
 Wang22h,S2E12,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,848,1,10000,10,ng/ml,2022-08-10
 Wang22h,S2E12,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,11,1,10000,10,ng/ml,2022-08-10
 Wang22h,A19-46.1,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,15,1,10000,10,ng/ml,2022-08-10
@@ -280,7 +280,7 @@ Wang22h,A19-46.1,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,6
 Wang22h,A19-46.1,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,51,1,10000,10,ng/ml,2022-08-10
 Wang22h,A19-46.1,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,50,1,10000,10,ng/ml,2022-08-10
 Wang22h,A19-46.1,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,50,1,10000,10,ng/ml,2022-08-10
-Wang22h,A19-46.1,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,69,1,10000,10,ng/ml,2022-08-10
+Wang22h,A19-46.1,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,69,1,10000,10,ng/ml,2022-08-10
 Wang22h,A19-46.1,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,96,1,10000,10,ng/ml,2022-08-10
 Wang22h,A19-46.1,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,22,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
@@ -302,7 +302,7 @@ Wang22h,COV2-2196,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,
 Wang22h,COV2-2196,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,878,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,1419,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,2170,1,10000,10,ng/ml,2022-08-10
-Wang22h,COV2-2196,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,1140,1,10000,10,ng/ml,2022-08-10
+Wang22h,COV2-2196,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,1140,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,2421,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,24,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,6,1,10000,10,ng/ml,2022-08-10
@@ -324,7 +324,7 @@ Wang22h,LY-CoV555,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,
 Wang22h,LY-CoV555,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
-Wang22h,LY-CoV555,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
+Wang22h,LY-CoV555,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10933,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
@@ -346,7 +346,7 @@ Wang22h,REGN10933,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,
 Wang22h,REGN10933,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10933,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10933,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
-Wang22h,REGN10933,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
+Wang22h,REGN10933,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10933,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10933,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,836,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv282,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,1,1,10000,10,ng/ml,2022-08-10
@@ -368,7 +368,7 @@ Wang22h,XGv282,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,1,1
 Wang22h,XGv282,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv282,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,1,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv282,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,1,1,10000,10,ng/ml,2022-08-10
-Wang22h,XGv282,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,17,1,10000,10,ng/ml,2022-08-10
+Wang22h,XGv282,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,17,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv282,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,1,1,10000,10,ng/ml,2022-08-10
 Wang22h,XGv282,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,1,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV1404,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
@@ -390,7 +390,7 @@ Wang22h,LY-CoV1404,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50
 Wang22h,LY-CoV1404,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV1404,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV1404,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
-Wang22h,LY-CoV1404,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
+Wang22h,LY-CoV1404,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV1404,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV1404,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
 Wang22h,S309,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,25,1,10000,10,ng/ml,2022-08-10
@@ -412,7 +412,7 @@ Wang22h,S309,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,563,1
 Wang22h,S309,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,526,1,10000,10,ng/ml,2022-08-10
 Wang22h,S309,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,375,1,10000,10,ng/ml,2022-08-10
 Wang22h,S309,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,229,1,10000,10,ng/ml,2022-08-10
-Wang22h,S309,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,450,1,10000,10,ng/ml,2022-08-10
+Wang22h,S309,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,450,1,10000,10,ng/ml,2022-08-10
 Wang22h,S309,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,712,1,10000,10,ng/ml,2022-08-10
 Wang22h,S309,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,416,1,10000,10,ng/ml,2022-08-10
 Wang22h,35B5,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,25,1,10000,10,ng/ml,2022-08-10
@@ -434,7 +434,7 @@ Wang22h,35B5,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,709,1
 Wang22h,35B5,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,639,1,10000,10,ng/ml,2022-08-10
 Wang22h,35B5,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,562,1,10000,10,ng/ml,2022-08-10
 Wang22h,35B5,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,462,1,10000,10,ng/ml,2022-08-10
-Wang22h,35B5,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,487,1,10000,10,ng/ml,2022-08-10
+Wang22h,35B5,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,487,1,10000,10,ng/ml,2022-08-10
 Wang22h,35B5,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,1721,1,10000,10,ng/ml,2022-08-10
 Wang22h,35B5,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,243,1,10000,10,ng/ml,2022-08-10
 Wang22h,JMB2002,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,5,1,10000,10,ng/ml,2022-08-10
@@ -456,7 +456,7 @@ Wang22h,JMB2002,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,4,
 Wang22h,JMB2002,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,4,1,10000,10,ng/ml,2022-08-10
 Wang22h,JMB2002,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,4,1,10000,10,ng/ml,2022-08-10
 Wang22h,JMB2002,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,4,1,10000,10,ng/ml,2022-08-10
-Wang22h,JMB2002,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,21,1,10000,10,ng/ml,2022-08-10
+Wang22h,JMB2002,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,21,1,10000,10,ng/ml,2022-08-10
 Wang22h,JMB2002,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,7,1,10000,10,ng/ml,2022-08-10
 Wang22h,JMB2002,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2130,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,10,1,10000,10,ng/ml,2022-08-10
@@ -478,7 +478,7 @@ Wang22h,COV2-2130,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,
 Wang22h,COV2-2130,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,12,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2130,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,10,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2130,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,11,1,10000,10,ng/ml,2022-08-10
-Wang22h,COV2-2130,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,16,1,10000,10,ng/ml,2022-08-10
+Wang22h,COV2-2130,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,16,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2130,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,17,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2130,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,8,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
@@ -500,7 +500,7 @@ Wang22h,REGN10987,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,
 Wang22h,REGN10987,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,1381,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,1098,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,1116,1,10000,10,ng/ml,2022-08-10
-Wang22h,REGN10987,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
+Wang22h,REGN10987,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,3029,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,700,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-198,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,166,1,10000,10,ng/ml,2022-08-10
@@ -522,7 +522,7 @@ Wang22h,Brii-198,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,1
 Wang22h,Brii-198,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,1296,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-198,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,1531,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-198,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,1033,1,10000,10,ng/ml,2022-08-10
-Wang22h,Brii-198,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,1778,1,10000,10,ng/ml,2022-08-10
+Wang22h,Brii-198,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,1778,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-198,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,3521,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-198,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,1274,1,10000,10,ng/ml,2022-08-10
 Wang22h,10-40,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,54,1,10000,10,ng/ml,2022-08-10
@@ -544,7 +544,7 @@ Wang22h,10-40,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),IC50,1144
 Wang22h,10-40,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,2990,1,10000,10,ng/ml,2022-08-10
 Wang22h,10-40,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,2222,1,10000,10,ng/ml,2022-08-10
 Wang22h,10-40,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,2093,1,10000,10,ng/ml,2022-08-10
-Wang22h,10-40,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,4196,1,10000,10,ng/ml,2022-08-10
+Wang22h,10-40,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,4196,1,10000,10,ng/ml,2022-08-10
 Wang22h,10-40,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,10-40,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,1434,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987+REGN10933,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,3,1,10000,10,ng/ml,2022-08-10
@@ -566,7 +566,7 @@ Wang22h,REGN10987+REGN10933,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (
 Wang22h,REGN10987+REGN10933,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,1786,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987+REGN10933,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,1033,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987+REGN10933,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,2569,1,10000,10,ng/ml,2022-08-10
-Wang22h,REGN10987+REGN10933,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
+Wang22h,REGN10987+REGN10933,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987+REGN10933,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,4905,1,10000,10,ng/ml,2022-08-10
 Wang22h,REGN10987+REGN10933,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,718,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196+COV2-2130,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,2,1,10000,10,ng/ml,2022-08-10
@@ -588,7 +588,7 @@ Wang22h,COV2-2196+COV2-2130,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (
 Wang22h,COV2-2196+COV2-2130,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,18,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196+COV2-2130,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,14,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196+COV2-2130,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,21,1,10000,10,ng/ml,2022-08-10
-Wang22h,COV2-2196+COV2-2130,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,27,1,10000,10,ng/ml,2022-08-10
+Wang22h,COV2-2196+COV2-2130,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,27,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196+COV2-2130,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,22,1,10000,10,ng/ml,2022-08-10
 Wang22h,COV2-2196+COV2-2130,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,12,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555+CB6,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,6,1,10000,10,ng/ml,2022-08-10
@@ -610,7 +610,7 @@ Wang22h,LY-CoV555+CB6,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VSV),I
 Wang22h,LY-CoV555+CB6,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555+CB6,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555+CB6,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
-Wang22h,LY-CoV555+CB6,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
+Wang22h,LY-CoV555+CB6,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555+CB6,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,LY-CoV555+CB6,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196+Brii-198,S:614G,Extended Data Table 2,Pseudovirus (VSV),IC50,32,1,10000,10,ng/ml,2022-08-10
@@ -632,6 +632,6 @@ Wang22h,Brii-196+Brii-198,BA.2 Spike:F157L,Extended Data Table 2,Pseudovirus (VS
 Wang22h,Brii-196+Brii-198,BA.2 Spike:I210V,Extended Data Table 2,Pseudovirus (VSV),IC50,918,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196+Brii-198,BA.2 Spike:G257S,Extended Data Table 2,Pseudovirus (VSV),IC50,1218,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196+Brii-198,BA.2 Spike:D339H,Extended Data Table 2,Pseudovirus (VSV),IC50,1182,1,10000,10,ng/ml,2022-08-10
-Wang22h,Brii-196+Brii-198,BA.2 Spike:G446S,Extended Data Table 2,Pseudovirus (VSV),IC50,780,1,10000,10,ng/ml,2022-08-10
+Wang22h,Brii-196+Brii-198,BA.2 Spike:446S,Extended Data Table 2,Pseudovirus (VSV),IC50,780,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196+Brii-198,BA.2 Spike:N460K,Extended Data Table 2,Pseudovirus (VSV),IC50,10000,1,10000,10,ng/ml,2022-08-10
 Wang22h,Brii-196+Brii-198,BA.2 Spike:R493Q,Extended Data Table 2,Pseudovirus (VSV),IC50,50,1,10000,10,ng/ml,2022-08-10
