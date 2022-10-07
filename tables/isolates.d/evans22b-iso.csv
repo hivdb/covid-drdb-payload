@@ -1,3 +1,3 @@
 ﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
-BA.3 Spike_Evans22b,NULL,FALSE,NULL,NULL,NULL,TRUE
-Deltacron_Evans22b,NULL,FALSE,NULL,NULL,NULL,TRUE
+BA.3 Spike_Evans22b,Omicron/BA.3,FALSE,NULL,NULL,NULL,TRUE
+Deltacron_Evans22b,Deltacron,FALSE,NULL,NULL,NULL,TRUE
