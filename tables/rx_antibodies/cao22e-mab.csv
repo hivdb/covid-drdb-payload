@@ -1,0 +1,20 @@
+ref_name,rx_name,ab_name
+Cao22e,REGN10933,Casirivimab
+Cao22e,REGN10987,Imdevimab
+Cao22e,REGN10933 + 10987,Casirivimab
+Cao22e,REGN10933 + 10987,Imdevimab
+Cao22e,COV2-2196,Tixagevimab
+Cao22e,COV2-2130,Cilgavimab
+Cao22e,COV2-2196_2130,Tixagevimab
+Cao22e,COV2-2196_2130,Cilgavimab
+Cao22e,BRII-196,Amubarvimab
+Cao22e,BRII-198,Romlusevimab
+Cao22e,BRII-196+198,Amubarvimab
+Cao22e,BRII-196+198,Romlusevimab
+Cao22e,S309,Sotrovimab
+Cao22e,DXP-604,DXP-604
+Cao22e,LY-CoV1404,Bebtelovimab
+Cao22e,SA58,SA58
+Cao22e,SA55,SA55
+Cao22e,SA55+58,SA58
+Cao22e,SA55+58,SA55

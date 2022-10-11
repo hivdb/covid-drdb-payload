@@ -1,0 +1,916 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cao22e,REGN10933,BA.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,121,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,278,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BL.1 Spike,Figure 2a,Pseudovirus,IC50,260,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BR.1 Spike,Figure 2a,Pseudovirus,IC50,319,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,390,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BN.1 Spike,Figure 2a,Pseudovirus,IC50,344,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2 Spike,Figure 2a,Pseudovirus,IC50,590,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BL.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BR.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BN.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,520,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,2338,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2 Spike,Figure 2a,Pseudovirus,IC50,821,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,199,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,410,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BL.1 Spike,Figure 2a,Pseudovirus,IC50,511,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BR.1 Spike,Figure 2a,Pseudovirus,IC50,679,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,701,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BN.1 Spike,Figure 2a,Pseudovirus,IC50,599,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,709,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,5402,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2 Spike,Figure 2a,Pseudovirus,IC50,4312,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,15,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,3076,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,119,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BL.1 Spike,Figure 2a,Pseudovirus,IC50,93,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BR.1 Spike,Figure 2a,Pseudovirus,IC50,117,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,59,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BN.1 Spike,Figure 2a,Pseudovirus,IC50,70,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2 Spike,Figure 2a,Pseudovirus,IC50,6.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,289,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,352,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BL.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BR.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,303,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BN.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,23,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2 Spike,Figure 2a,Pseudovirus,IC50,8.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,26,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,501,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,5985,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,121,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BL.1 Spike,Figure 2a,Pseudovirus,IC50,174,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BR.1 Spike,Figure 2a,Pseudovirus,IC50,170,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,109,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BN.1 Spike,Figure 2a,Pseudovirus,IC50,166,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,40,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2 Spike,Figure 2a,Pseudovirus,IC50,8530,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,14,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,2109,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,7609,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,1730,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BL.1 Spike,Figure 2a,Pseudovirus,IC50,1251,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BR.1 Spike,Figure 2a,Pseudovirus,IC50,1992,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,4101,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BN.1 Spike,Figure 2a,Pseudovirus,IC50,3683,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,7124,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,4763,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,4636,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2 Spike,Figure 2a,Pseudovirus,IC50,8990,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,7990,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,6622,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BL.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BR.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BN.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2 Spike,Figure 2a,Pseudovirus,IC50,8610,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,24,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,3984,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,3861,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BL.1 Spike,Figure 2a,Pseudovirus,IC50,3075,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BR.1 Spike,Figure 2a,Pseudovirus,IC50,3160,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,8444,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BN.1 Spike,Figure 2a,Pseudovirus,IC50,7791,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,7809,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,7883,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2 Spike,Figure 2a,Pseudovirus,IC50,852,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,897,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,706,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,709,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,XBB Spike,Figure 2a,Pseudovirus,IC50,963,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,672,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BL.1 Spike,Figure 2a,Pseudovirus,IC50,508,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BR.1 Spike,Figure 2a,Pseudovirus,IC50,564,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,6979,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BN.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,852,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,879,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,956,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BR.2 Spike,Figure 2a,Pseudovirus,IC50,921,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,CA.1 Spike,Figure 2a,Pseudovirus,IC50,897,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,1055,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,4456,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1408,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1709,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1082,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,5581,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2 Spike,Figure 2a,Pseudovirus,IC50,219,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,181,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,6348,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,166,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,5920,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BL.1 Spike,Figure 2a,Pseudovirus,IC50,7193,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BR.1 Spike,Figure 2a,Pseudovirus,IC50,6689,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,8901,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BN.1 Spike,Figure 2a,Pseudovirus,IC50,6012,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BR.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,CA.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,6264,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,4634,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,5892,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BU.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2 Spike,Figure 2a,Pseudovirus,IC50,0.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,9.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,1.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,XBB Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,2.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BL.1 Spike,Figure 2a,Pseudovirus,IC50,2.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BR.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,1.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BN.1 Spike,Figure 2a,Pseudovirus,IC50,3.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,3,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,2.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,1.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BR.2 Spike,Figure 2a,Pseudovirus,IC50,2.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,CA.1 Spike,Figure 2a,Pseudovirus,IC50,3.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,0.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,1.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,1662,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,1905,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BU.1 Spike,Figure 2a,Pseudovirus,IC50,26,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2 Spike,Figure 2a,Pseudovirus,IC50,5.1,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,20,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,4.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,8163,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,XBB Spike,Figure 2a,Pseudovirus,IC50,8805,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,246,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BL.1 Spike,Figure 2a,Pseudovirus,IC50,7975,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BR.1 Spike,Figure 2a,Pseudovirus,IC50,1616,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,4960,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BN.1 Spike,Figure 2a,Pseudovirus,IC50,8295,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,6922,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,8823,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,8082,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BR.2 Spike,Figure 2a,Pseudovirus,IC50,7263,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,CA.1 Spike,Figure 2a,Pseudovirus,IC50,6927,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,3.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,50,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,58,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,44,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BU.1 Spike,Figure 2a,Pseudovirus,IC50,56,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,900,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2 Spike,Figure 2a,Pseudovirus,IC50,7.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,4.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,4.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,3.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,XBB Spike,Figure 2a,Pseudovirus,IC50,5.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,4.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BL.1 Spike,Figure 2a,Pseudovirus,IC50,6.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BR.1 Spike,Figure 2a,Pseudovirus,IC50,5.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,5.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BN.1 Spike,Figure 2a,Pseudovirus,IC50,4.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,5.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,5.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,4.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BR.2 Spike,Figure 2a,Pseudovirus,IC50,4.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,CA.1 Spike,Figure 2a,Pseudovirus,IC50,6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,4.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,5.1,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,6.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BU.1 Spike,Figure 2a,Pseudovirus,IC50,5.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,5.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2 Spike,Figure 2a,Pseudovirus,IC50,7.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,7.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,8.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,XBB Spike,Figure 2a,Pseudovirus,IC50,9.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike,Figure 2a,Pseudovirus,IC50,9.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BL.1 Spike,Figure 2a,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BR.1 Spike,Figure 2a,Pseudovirus,IC50,9.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BN.2.1 Spike,Figure 2a,Pseudovirus,IC50,9.4,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BN.1 Spike,Figure 2a,Pseudovirus,IC50,9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75.2 Spike,Figure 2a,Pseudovirus,IC50,9.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BM.1.1 Spike,Figure 2a,Pseudovirus,IC50,8.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BM.1.1.1 Spike,Figure 2a,Pseudovirus,IC50,10.5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BR.2 Spike,Figure 2a,Pseudovirus,IC50,10.5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,CA.1 Spike,Figure 2a,Pseudovirus,IC50,11.5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.4/5 Spike,Figure 2a,Pseudovirus,IC50,4.5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.4.6.1 Spike,Figure 2a,Pseudovirus,IC50,9.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5.6.2 Spike,Figure 2a,Pseudovirus,IC50,8.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BQ.1 Spike,Figure 2a,Pseudovirus,IC50,9.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BU.1 Spike,Figure 2a,Pseudovirus,IC50,10.5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BQ.1.1 Spike,Figure 2a,Pseudovirus,IC50,10.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,CoronaVac_3dose,S:614G,Figure 2c,Pseudovirus,NT50,652,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.1 Spike,Figure 2c,Pseudovirus,NT50,122,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2 Spike,Figure 2c,Pseudovirus,NT50,130,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.10.4 Spike,Figure 2c,Pseudovirus,NT50,36,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.3.20 Spike,Figure 2c,Pseudovirus,NT50,28,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BJ.1 Spike,Figure 2c,Pseudovirus,NT50,41,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,XBB Spike,Figure 2c,Pseudovirus,NT50,20,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike,Figure 2c,Pseudovirus,NT50,90,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BL.1 Spike,Figure 2c,Pseudovirus,NT50,31,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BR.1 Spike,Figure 2c,Pseudovirus,NT50,30,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BN.1 Spike,Figure 2c,Pseudovirus,NT50,27,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75.2 Spike,Figure 2c,Pseudovirus,NT50,22,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BM.1.1 Spike,Figure 2c,Pseudovirus,NT50,22,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BM.1.1.1 Spike,Figure 2c,Pseudovirus,NT50,21,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BR.2 Spike,Figure 2c,Pseudovirus,NT50,21,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,CA.1 Spike,Figure 2c,Pseudovirus,NT50,21,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.4/5 Spike,Figure 2c,Pseudovirus,NT50,72,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.4.6.1 Spike,Figure 2c,Pseudovirus,NT50,34,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5.6.2 Spike,Figure 2c,Pseudovirus,NT50,44,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BQ.1 Spike,Figure 2c,Pseudovirus,NT50,27,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BU.1 Spike,Figure 2c,Pseudovirus,NT50,24,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BQ.1.1 Spike,Figure 2c,Pseudovirus,NT50,24,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,SARS-CoV Spike,Figure 2c,Pseudovirus,NT50,41,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,S:614G,Figure 2d,Pseudovirus,NT50,1557,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.1 Spike,Figure 2d,Pseudovirus,NT50,852,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2 Spike,Figure 2d,Pseudovirus,NT50,452,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.10.4 Spike,Figure 2d,Pseudovirus,NT50,73,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.3.20 Spike,Figure 2d,Pseudovirus,NT50,92,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BJ.1 Spike,Figure 2d,Pseudovirus,NT50,87,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,XBB Spike,Figure 2d,Pseudovirus,NT50,23,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike,Figure 2d,Pseudovirus,NT50,197,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BL.1 Spike,Figure 2d,Pseudovirus,NT50,113,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BR.1 Spike,Figure 2d,Pseudovirus,NT50,88,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BN.1 Spike,Figure 2d,Pseudovirus,NT50,84,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75.2 Spike,Figure 2d,Pseudovirus,NT50,34,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BM.1.1 Spike,Figure 2d,Pseudovirus,NT50,33,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BM.1.1.1 Spike,Figure 2d,Pseudovirus,NT50,27,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BR.2 Spike,Figure 2d,Pseudovirus,NT50,27,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,CA.1 Spike,Figure 2d,Pseudovirus,NT50,26,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.4/5 Spike,Figure 2d,Pseudovirus,NT50,107,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.4.6.1 Spike,Figure 2d,Pseudovirus,NT50,59,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5.6.2 Spike,Figure 2d,Pseudovirus,NT50,52,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BQ.1 Spike,Figure 2d,Pseudovirus,NT50,32,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BU.1 Spike,Figure 2d,Pseudovirus,NT50,31,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BQ.1.1 Spike,Figure 2d,Pseudovirus,NT50,27,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,SARS-CoV Spike,Figure 2d,Pseudovirus,NT50,79,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,S:614G,Figure 2e,Pseudovirus,NT50,1245,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.1 Spike,Figure 2e,Pseudovirus,NT50,282,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2 Spike,Figure 2e,Pseudovirus,NT50,696,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.10.4 Spike,Figure 2e,Pseudovirus,NT50,126,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.3.20 Spike,Figure 2e,Pseudovirus,NT50,150,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BJ.1 Spike,Figure 2e,Pseudovirus,NT50,114,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,XBB Spike,Figure 2e,Pseudovirus,NT50,23,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike,Figure 2e,Pseudovirus,NT50,217,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BL.1 Spike,Figure 2e,Pseudovirus,NT50,97,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BR.1 Spike,Figure 2e,Pseudovirus,NT50,63,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BN.1 Spike,Figure 2e,Pseudovirus,NT50,58,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75.2 Spike,Figure 2e,Pseudovirus,NT50,35,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BM.1.1 Spike,Figure 2e,Pseudovirus,NT50,36,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BM.1.1.1 Spike,Figure 2e,Pseudovirus,NT50,27,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BR.2 Spike,Figure 2e,Pseudovirus,NT50,26,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,CA.1 Spike,Figure 2e,Pseudovirus,NT50,25,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.4/5 Spike,Figure 2e,Pseudovirus,NT50,175,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.4.6.1 Spike,Figure 2e,Pseudovirus,NT50,67,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5.6.2 Spike,Figure 2e,Pseudovirus,NT50,62,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BQ.1 Spike,Figure 2e,Pseudovirus,NT50,45,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BU.1 Spike,Figure 2e,Pseudovirus,NT50,33,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BQ.1.1 Spike,Figure 2e,Pseudovirus,NT50,40,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,SARS-CoV Spike,Figure 2e,Pseudovirus,NT50,25,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,S:614G,Figure 2f,Pseudovirus,NT50,1183,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.1 Spike,Figure 2f,Pseudovirus,NT50,215,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2 Spike,Figure 2f,Pseudovirus,NT50,776,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.10.4 Spike,Figure 2f,Pseudovirus,NT50,105,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.3.20 Spike,Figure 2f,Pseudovirus,NT50,117,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BJ.1 Spike,Figure 2f,Pseudovirus,NT50,142,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,XBB Spike,Figure 2f,Pseudovirus,NT50,28,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike,Figure 2f,Pseudovirus,NT50,149,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BL.1 Spike,Figure 2f,Pseudovirus,NT50,90,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BR.1 Spike,Figure 2f,Pseudovirus,NT50,76,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BN.1 Spike,Figure 2f,Pseudovirus,NT50,56,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75.2 Spike,Figure 2f,Pseudovirus,NT50,49,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BM.1.1 Spike,Figure 2f,Pseudovirus,NT50,48,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BM.1.1.1 Spike,Figure 2f,Pseudovirus,NT50,40,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BR.2 Spike,Figure 2f,Pseudovirus,NT50,40,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,CA.1 Spike,Figure 2f,Pseudovirus,NT50,40,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.4/5 Spike,Figure 2f,Pseudovirus,NT50,521,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.4.6.1 Spike,Figure 2f,Pseudovirus,NT50,153,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5.6.2 Spike,Figure 2f,Pseudovirus,NT50,191,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BQ.1 Spike,Figure 2f,Pseudovirus,NT50,138,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BU.1 Spike,Figure 2f,Pseudovirus,NT50,88,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BQ.1.1 Spike,Figure 2f,Pseudovirus,NT50,78,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,SARS-CoV Spike,Figure 2f,Pseudovirus,NT50,32,21,10000,20,NULL,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike:L452R,Figure 5b,Pseudovirus,IC50,461,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike:K444M+L452R,Figure 5b,Pseudovirus,IC50,679,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike:R346T+K444M+L452R,Figure 5b,Pseudovirus,IC50,428,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5 Spike:K444N,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5 Spike:R346T+K444N,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike:L452R,Figure 5b,Pseudovirus,IC50,194,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike:K444M+L452R,Figure 5b,Pseudovirus,IC50,170,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike:R346T+K444M+L452R,Figure 5b,Pseudovirus,IC50,148,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5 Spike:K444N,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5 Spike:R346T+K444N,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike:L452R,Figure 5b,Pseudovirus,IC50,2714,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike:K444M+L452R,Figure 5b,Pseudovirus,IC50,3160,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike:R346T+K444M+L452R,Figure 5b,Pseudovirus,IC50,2396,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5 Spike:K444N,Figure 5b,Pseudovirus,IC50,9228,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5 Spike:R346T+K444N,Figure 5b,Pseudovirus,IC50,7755,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike:L452R,Figure 5b,Pseudovirus,IC50,424,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike:K444M+L452R,Figure 5b,Pseudovirus,IC50,564,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike:R346T+K444M+L452R,Figure 5b,Pseudovirus,IC50,1552,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,2503,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5 Spike:K444N,Figure 5b,Pseudovirus,IC50,1395,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5 Spike:R346T+K444N,Figure 5b,Pseudovirus,IC50,2957,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,3663,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike:L452R,Figure 5b,Pseudovirus,IC50,4,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike:K444M+L452R,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike:R346T+K444M+L452R,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5 Spike:K444N,Figure 5b,Pseudovirus,IC50,1504,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5 Spike:R346T+K444N,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike:L452R,Figure 5b,Pseudovirus,IC50,8.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike:K444M+L452R,Figure 5b,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike:R346T+K444M+L452R,Figure 5b,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5b,Pseudovirus,IC50,8.5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,14,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,9.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5b,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5 Spike:K444N,Figure 5b,Pseudovirus,IC50,9.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5 Spike:R346T+K444N,Figure 5b,Pseudovirus,IC50,7.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,8.5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,13,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5b,Pseudovirus,IC50,7.5,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,11,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5b,Pseudovirus,IC50,9.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike:L452R,Figure 5d,Pseudovirus,NT50,44,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike:K444M+L452R,Figure 5d,Pseudovirus,NT50,30,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike:R346T+K444M+L452R,Figure 5d,Pseudovirus,NT50,26,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5d,Pseudovirus,NT50,20,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5d,Pseudovirus,NT50,20,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5d,Pseudovirus,NT50,20,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5d,Pseudovirus,NT50,20,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5d,Pseudovirus,NT50,20,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5 Spike:K444N,Figure 5d,Pseudovirus,NT50,36,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5 Spike:R346T+K444N,Figure 5d,Pseudovirus,NT50,27,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5d,Pseudovirus,NT50,24,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5d,Pseudovirus,NT50,21,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5d,Pseudovirus,NT50,21,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5d,Pseudovirus,NT50,21,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5d,Pseudovirus,NT50,20,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5d,Pseudovirus,NT50,20,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike:L452R,Figure 5e,Pseudovirus,NT50,117,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike:K444M+L452R,Figure 5e,Pseudovirus,NT50,88,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike:R346T+K444M+L452R,Figure 5e,Pseudovirus,NT50,61,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5e,Pseudovirus,NT50,24,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5e,Pseudovirus,NT50,22,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5e,Pseudovirus,NT50,23,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5e,Pseudovirus,NT50,22,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5e,Pseudovirus,NT50,22,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5 Spike:K444N,Figure 5e,Pseudovirus,NT50,51,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5 Spike:R346T+K444N,Figure 5e,Pseudovirus,NT50,34,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5e,Pseudovirus,NT50,28,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5e,Pseudovirus,NT50,24,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5e,Pseudovirus,NT50,25,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5e,Pseudovirus,NT50,25,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5e,Pseudovirus,NT50,23,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5e,Pseudovirus,NT50,22,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike:L452R,Figure 5f,Pseudovirus,NT50,99,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike:K444M+L452R,Figure 5f,Pseudovirus,NT50,63,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike:R346T+K444M+L452R,Figure 5f,Pseudovirus,NT50,49,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5f,Pseudovirus,NT50,22,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5f,Pseudovirus,NT50,22,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5f,Pseudovirus,NT50,22,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5f,Pseudovirus,NT50,20,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5f,Pseudovirus,NT50,20,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5 Spike:K444N,Figure 5f,Pseudovirus,NT50,62,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5 Spike:R346T+K444N,Figure 5f,Pseudovirus,NT50,49,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5f,Pseudovirus,NT50,39,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5f,Pseudovirus,NT50,33,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5f,Pseudovirus,NT50,32,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5f,Pseudovirus,NT50,33,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5f,Pseudovirus,NT50,22,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5f,Pseudovirus,NT50,20,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike:L452R,Figure 5g,Pseudovirus,NT50,129,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike:K444M+L452R,Figure 5g,Pseudovirus,NT50,76,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike:R346T+K444M+L452R,Figure 5g,Pseudovirus,NT50,43,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike:R346T+K444M+L452R+F486V,Figure 5g,Pseudovirus,NT50,34,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike:R346T+K356T+K444M+L452R+F486V,Figure 5g,Pseudovirus,NT50,28,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike:R346T+K356T+K444T-G446S+L452R+F486V,Figure 5g,Pseudovirus,NT50,28,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike:I210T+R237T+R346T+K444T-G446S+L452R+F486V,Figure 5g,Pseudovirus,NT50,24,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75 Spike:I210T+R237T+R346T+K417T+K444T-G446S+L452R+F486V,Figure 5g,Pseudovirus,NT50,24,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5 Spike:K444N,Figure 5g,Pseudovirus,NT50,185,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5 Spike:R346T+K444N,Figure 5g,Pseudovirus,NT50,126,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5 Spike:R346T+K417T+K444N+N460K,Figure 5g,Pseudovirus,NT50,70,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5 Spike:R346T+K356T+K417T+K444N+N460K,Figure 5g,Pseudovirus,NT50,50,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5 Spike:G339H+R346T+K356T+K417T+K444N+N460K,Figure 5g,Pseudovirus,NT50,49,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5 Spike:G339H+R346T+K356T+K417T+K444T+N460K,Figure 5g,Pseudovirus,NT50,50,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5 Spike:K147E+W152R+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5g,Pseudovirus,NT50,28,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5 Spike:K147E+W152R+I210T+R237T+G339H+R346T+K356T+K417T+K444T+N460K,Figure 5g,Pseudovirus,NT50,25,21,10000,20,NULL,2022-10-10
+Cao22e,REGN10933,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,249,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,245,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2250,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2336,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,657,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3051,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2096,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,883,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2195,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1362,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2701,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1936,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10987,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3211,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4241,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,584,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,7703,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2201,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,461,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,410,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1863,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4388,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2420,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3498,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2963,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933 + 10987,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3391,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3214,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3162,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4745,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3587,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4022,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,80,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,101,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,24,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3633,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,550,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,301,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,48,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2130,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1843,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4736,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4300,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,5450,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,45,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3019,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4133,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,194,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,188,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,563,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,79,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,COV2-2196_2130,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4818,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4571,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6780,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6021,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,7209,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3797,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,5096,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1448,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1590,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4715,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4356,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3395,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4023,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,5023,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3701,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3505,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-198,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6212,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,7767,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,7202,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2714,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3699,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,5507,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,8307,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,5209,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,7695,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,8236,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6502,1,1000,1,ng/ml,2022-10-10
+Cao22e,BRII-196+198,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4849,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,876,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4943,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6303,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1023,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,424,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4780,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,796,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1575,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3543,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2899,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4780,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1293,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1419,1,1000,1,ng/ml,2022-10-10
+Cao22e,S309,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1752,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,33,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,191,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,181,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,259,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,178,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,206,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6553,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6691,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,7505,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4116,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,5189,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,8360,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6807,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6263,1,1000,1,ng/ml,2022-10-10
+Cao22e,DXP-604,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,8268,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1504,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,0.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,14,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,2.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1.4,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,5.1,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,25,1,1000,1,ng/ml,2022-10-10
+Cao22e,LY-CoV1404,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,98,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,83,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,293,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,376,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6.1,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,254,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3305,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,330,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,341,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,598,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,404,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,17,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,63,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA58,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,11,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,7.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,7,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4.3,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,3.4,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.38.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,13,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.74 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.76 Spike,Extended Data Fig 2a,Pseudovirus,IC50,5.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.77 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.79 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4.9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.80 Spike,Extended Data Fig 2a,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75.4 Spike,Extended Data Fig 2a,Pseudovirus,IC50,8.2,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.2.75.5 Spike,Extended Data Fig 2a,Pseudovirus,IC50,9.1,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BM.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,10,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BF.16 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.4.6 Spike,Extended Data Fig 2a,Pseudovirus,IC50,9,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.4.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,6.8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5.9 Spike,Extended Data Fig 2a,Pseudovirus,IC50,8.7,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5.5.1 Spike,Extended Data Fig 2a,Pseudovirus,IC50,8,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5.2.7 Spike,Extended Data Fig 2a,Pseudovirus,IC50,9.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,SA55+58,BA.5.1.12 Spike,Extended Data Fig 2a,Pseudovirus,IC50,4.6,1,1000,1,ng/ml,2022-10-10
+Cao22e,CoronaVac_3dose,B.1.1.7 Spike,Extended Data Fig 2c,Pseudovirus,NT50,485,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,B.1.351 Spike,Extended Data Fig 2c,Pseudovirus,NT50,238,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,P.1 Spike,Extended Data Fig 2c,Pseudovirus,NT50,264,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,B.1.617.2 Spike,Extended Data Fig 2c,Pseudovirus,NT50,310,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.1.1 Spike,Extended Data Fig 2c,Pseudovirus,NT50,112,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.3 Spike,Extended Data Fig 2c,Pseudovirus,NT50,105,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.12.1 Spike,Extended Data Fig 2c,Pseudovirus,NT50,105,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.13 Spike,Extended Data Fig 2c,Pseudovirus,NT50,117,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.38 Spike,Extended Data Fig 2c,Pseudovirus,NT50,124,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.38.1 Spike,Extended Data Fig 2c,Pseudovirus,NT50,69,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.74 Spike,Extended Data Fig 2c,Pseudovirus,NT50,79,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.76 Spike,Extended Data Fig 2c,Pseudovirus,NT50,93,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.77 Spike,Extended Data Fig 2c,Pseudovirus,NT50,75,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.79 Spike,Extended Data Fig 2c,Pseudovirus,NT50,85,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.80 Spike,Extended Data Fig 2c,Pseudovirus,NT50,74,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75.4 Spike,Extended Data Fig 2c,Pseudovirus,NT50,44,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75.5 Spike,Extended Data Fig 2c,Pseudovirus,NT50,45,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BN.2.1 Spike,Extended Data Fig 2c,Pseudovirus,NT50,32,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.2.75.6 Spike,Extended Data Fig 2c,Pseudovirus,NT50,32,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BM.1 Spike,Extended Data Fig 2c,Pseudovirus,NT50,26,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.4.6 Spike,Extended Data Fig 2c,Pseudovirus,NT50,46,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5.9 Spike,Extended Data Fig 2c,Pseudovirus,NT50,48,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.4.7 Spike,Extended Data Fig 2c,Pseudovirus,NT50,43,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5.2.7 Spike,Extended Data Fig 2c,Pseudovirus,NT50,46,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BF.16 Spike,Extended Data Fig 2c,Pseudovirus,NT50,48,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5.1.12 Spike,Extended Data Fig 2c,Pseudovirus,NT50,48,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose,BA.5.5.1 Spike,Extended Data Fig 2c,Pseudovirus,NT50,53,40,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,B.1.1.7 Spike,Extended Data Fig 2d,Pseudovirus,NT50,1462,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,B.1.351 Spike,Extended Data Fig 2d,Pseudovirus,NT50,1228,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,P.1 Spike,Extended Data Fig 2d,Pseudovirus,NT50,1324,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,B.1.617.2 Spike,Extended Data Fig 2d,Pseudovirus,NT50,973,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.1.1 Spike,Extended Data Fig 2d,Pseudovirus,NT50,786,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.3 Spike,Extended Data Fig 2d,Pseudovirus,NT50,518,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.12.1 Spike,Extended Data Fig 2d,Pseudovirus,NT50,244,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.13 Spike,Extended Data Fig 2d,Pseudovirus,NT50,400,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.38 Spike,Extended Data Fig 2d,Pseudovirus,NT50,443,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.38.1 Spike,Extended Data Fig 2d,Pseudovirus,NT50,173,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.74 Spike,Extended Data Fig 2d,Pseudovirus,NT50,205,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.76 Spike,Extended Data Fig 2d,Pseudovirus,NT50,267,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.77 Spike,Extended Data Fig 2d,Pseudovirus,NT50,212,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.79 Spike,Extended Data Fig 2d,Pseudovirus,NT50,221,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.80 Spike,Extended Data Fig 2d,Pseudovirus,NT50,194,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75.4 Spike,Extended Data Fig 2d,Pseudovirus,NT50,117,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75.5 Spike,Extended Data Fig 2d,Pseudovirus,NT50,142,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BN.2.1 Spike,Extended Data Fig 2d,Pseudovirus,NT50,104,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.2.75.6 Spike,Extended Data Fig 2d,Pseudovirus,NT50,114,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BM.1 Spike,Extended Data Fig 2d,Pseudovirus,NT50,59,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.4.6 Spike,Extended Data Fig 2d,Pseudovirus,NT50,69,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5.9 Spike,Extended Data Fig 2d,Pseudovirus,NT50,71,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.4.7 Spike,Extended Data Fig 2d,Pseudovirus,NT50,65,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5.2.7 Spike,Extended Data Fig 2d,Pseudovirus,NT50,56,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BF.16 Spike,Extended Data Fig 2d,Pseudovirus,NT50,60,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5.1.12 Spike,Extended Data Fig 2d,Pseudovirus,NT50,56,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA1_BTI,BA.5.5.1 Spike,Extended Data Fig 2d,Pseudovirus,NT50,78,50,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,B.1.1.7 Spike,Extended Data Fig 2e,Pseudovirus,NT50,918,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,B.1.351 Spike,Extended Data Fig 2e,Pseudovirus,NT50,951,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,P.1 Spike,Extended Data Fig 2e,Pseudovirus,NT50,867,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,B.1.617.2 Spike,Extended Data Fig 2e,Pseudovirus,NT50,722,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.1.1 Spike,Extended Data Fig 2e,Pseudovirus,NT50,245,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.3 Spike,Extended Data Fig 2e,Pseudovirus,NT50,277,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.12.1 Spike,Extended Data Fig 2e,Pseudovirus,NT50,290,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.13 Spike,Extended Data Fig 2e,Pseudovirus,NT50,518,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.38 Spike,Extended Data Fig 2e,Pseudovirus,NT50,613,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.38.1 Spike,Extended Data Fig 2e,Pseudovirus,NT50,195,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.74 Spike,Extended Data Fig 2e,Pseudovirus,NT50,301,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.76 Spike,Extended Data Fig 2e,Pseudovirus,NT50,341,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.77 Spike,Extended Data Fig 2e,Pseudovirus,NT50,307,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.79 Spike,Extended Data Fig 2e,Pseudovirus,NT50,242,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.80 Spike,Extended Data Fig 2e,Pseudovirus,NT50,271,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75.4 Spike,Extended Data Fig 2e,Pseudovirus,NT50,99,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75.5 Spike,Extended Data Fig 2e,Pseudovirus,NT50,108,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BN.2.1 Spike,Extended Data Fig 2e,Pseudovirus,NT50,80,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.2.75.6 Spike,Extended Data Fig 2e,Pseudovirus,NT50,98,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BM.1 Spike,Extended Data Fig 2e,Pseudovirus,NT50,57,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.4.6 Spike,Extended Data Fig 2e,Pseudovirus,NT50,99,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5.9 Spike,Extended Data Fig 2e,Pseudovirus,NT50,103,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.4.7 Spike,Extended Data Fig 2e,Pseudovirus,NT50,94,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5.2.7 Spike,Extended Data Fig 2e,Pseudovirus,NT50,66,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BF.16 Spike,Extended Data Fig 2e,Pseudovirus,NT50,69,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5.1.12 Spike,Extended Data Fig 2e,Pseudovirus,NT50,64,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA2_BTI,BA.5.5.1 Spike,Extended Data Fig 2e,Pseudovirus,NT50,90,39,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,B.1.1.7 Spike,Extended Data Fig 2f,Pseudovirus,NT50,873,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,B.1.351 Spike,Extended Data Fig 2f,Pseudovirus,NT50,845,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,P.1 Spike,Extended Data Fig 2f,Pseudovirus,NT50,856,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,B.1.617.2 Spike,Extended Data Fig 2f,Pseudovirus,NT50,843,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.1.1 Spike,Extended Data Fig 2f,Pseudovirus,NT50,168,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.3 Spike,Extended Data Fig 2f,Pseudovirus,NT50,184,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.12.1 Spike,Extended Data Fig 2f,Pseudovirus,NT50,607,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.13 Spike,Extended Data Fig 2f,Pseudovirus,NT50,696,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.38 Spike,Extended Data Fig 2f,Pseudovirus,NT50,767,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.38.1 Spike,Extended Data Fig 2f,Pseudovirus,NT50,210,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.74 Spike,Extended Data Fig 2f,Pseudovirus,NT50,438,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.76 Spike,Extended Data Fig 2f,Pseudovirus,NT50,420,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.77 Spike,Extended Data Fig 2f,Pseudovirus,NT50,494,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.79 Spike,Extended Data Fig 2f,Pseudovirus,NT50,320,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.80 Spike,Extended Data Fig 2f,Pseudovirus,NT50,392,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75.4 Spike,Extended Data Fig 2f,Pseudovirus,NT50,129,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75.5 Spike,Extended Data Fig 2f,Pseudovirus,NT50,97,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BN.2.1 Spike,Extended Data Fig 2f,Pseudovirus,NT50,75,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.2.75.6 Spike,Extended Data Fig 2f,Pseudovirus,NT50,90,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BM.1 Spike,Extended Data Fig 2f,Pseudovirus,NT50,80,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.4.6 Spike,Extended Data Fig 2f,Pseudovirus,NT50,218,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5.9 Spike,Extended Data Fig 2f,Pseudovirus,NT50,225,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.4.7 Spike,Extended Data Fig 2f,Pseudovirus,NT50,210,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5.2.7 Spike,Extended Data Fig 2f,Pseudovirus,NT50,118,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BF.16 Spike,Extended Data Fig 2f,Pseudovirus,NT50,216,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5.1.12 Spike,Extended Data Fig 2f,Pseudovirus,NT50,206,21,10000,20,NULL,2022-10-10
+Cao22e,CoronaVac_3dose_BA5_BTI,BA.5.5.1 Spike,Extended Data Fig 2f,Pseudovirus,NT50,247,21,10000,20,NULL,2022-10-10

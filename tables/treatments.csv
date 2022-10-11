@@ -5089,6 +5089,21 @@ Cao22d,XGv-418
 Cao22d,XGv-420
 Cao22d,XGv-421
 Cao22d,XGv-422
+Cao22e,REGN10933
+Cao22e,REGN10987
+Cao22e,REGN10933 + 10987
+Cao22e,COV2-2196
+Cao22e,COV2-2130
+Cao22e,COV2-2196_2130
+Cao22e,BRII-196
+Cao22e,BRII-198
+Cao22e,BRII-196+198
+Cao22e,S309
+Cao22e,DXP-604
+Cao22e,LY-CoV1404
+Cao22e,SA58
+Cao22e,SA55
+Cao22e,SA55+58
 Case22,S309
 Case22,AZD8895
 Case22,AZD1061
@@ -9567,6 +9582,10 @@ Cao22c,CoronaVac_3dose
 Cao22c,CoronaVac_3dose_BTI_BA.1
 Cao22c,CoronaVac_3dose_BTI_BA.2
 Cao22c,CoronaVac_2dose_BTI_Delta
+Cao22e,CoronaVac_3dose
+Cao22e,CoronaVac_3dose_BA1_BTI
+Cao22e,CoronaVac_3dose_BA2_BTI
+Cao22e,CoronaVac_3dose_BA5_BTI
 Carreno21,BNT162B2_1
 Carreno21,BNT162B2_2
 Carreno21,BNT162B2_3
