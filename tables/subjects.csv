@@ -2543,11 +2543,10 @@ Qu22b,HCW,Human,NULL,15
 Qu22b,mRNA_2dose_CP,Human,NULL,8
 Qu22b,mRNA_3dose_CP,Human,NULL,8
 Qu22c,mRNA_3dose,Human,NULL,37
-Qu22c,mRNA_3dose_Omicron_inf,Human,NULL,2
-Qu22c,mRNA_3dose_prev_inf_neg,Human,NULL,27
+Qu22c,mRNA_3dose_Omicron_inf,Human,NULL,8
 Qu22c,mRNA_3dose_prev_inf_pos,Human,NULL,11
-Qu22c,mRNA_4dose_1,Human,NULL,1
-Qu22c,mRNA_4dose_2,Human,NULL,1
+Qu22c,mRNA_4dose_SUB1,Human,NULL,1
+Qu22c,mRNA_4dose_SUB2,Human,NULL,1
 Rees-Spear21,CP_Mild,Human,NULL,18
 Rees-Spear21,CP_Severe,Human,NULL,18
 Ren22,CP_Group1,Human,1971,9
