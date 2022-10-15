@@ -4874,6 +4874,31 @@ England/MIG457/2020,N,3,L,NULL,NULL
 England/MIG457/2020,N,203,K,NULL,NULL
 England/MIG457/2020,N,204,R,NULL,NULL
 England/MIG457/2020,N,235,F,NULL,NULL
+England ex-SA/HCM002/2021,nsp2,85,I,NULL,NULL
+England ex-SA/HCM002/2021,PLpro,837,N,NULL,NULL
+England ex-SA/HCM002/2021,nsp4,264,F,NULL,NULL
+England ex-SA/HCM002/2021,_3CLpro,90,R,NULL,NULL
+England ex-SA/HCM002/2021,_3CLpro,160,C,NULL,NULL
+England ex-SA/HCM002/2021,_3CLpro,160,F,NULL,NULL
+England ex-SA/HCM002/2021,_3CLpro,241,L,NULL,NULL
+England ex-SA/HCM002/2021,_3CLpro,241,P,NULL,NULL
+England ex-SA/HCM002/2021,nsp6,107,del,NULL,NULL
+England ex-SA/HCM002/2021,nsp6,260,F,NULL,NULL
+England ex-SA/HCM002/2021,nsp6,260,L,NULL,NULL
+England ex-SA/HCM002/2021,RdRP,323,L,NULL,NULL
+England ex-SA/HCM002/2021,nsp13,53,S,NULL,NULL
+England ex-SA/HCM002/2021,S,80,A,NULL,NULL
+England ex-SA/HCM002/2021,S,215,G,NULL,NULL
+England ex-SA/HCM002/2021,S,241,del,NULL,NULL
+England ex-SA/HCM002/2021,S,417,N,NULL,NULL
+England ex-SA/HCM002/2021,S,484,K,NULL,NULL
+England ex-SA/HCM002/2021,S,501,Y,NULL,NULL
+England ex-SA/HCM002/2021,S,614,G,NULL,NULL
+England ex-SA/HCM002/2021,S,701,V,NULL,NULL
+England ex-SA/HCM002/2021,ORF3a,57,H,NULL,NULL
+England ex-SA/HCM002/2021,ORF3a,171,L,NULL,NULL
+England ex-SA/HCM002/2021,E,71,L,NULL,NULL
+England ex-SA/HCM002/2021,N,205,I,NULL,NULL
 hCoV-19/Netherlands/NoordHolland_10159/2021,nsp2,85,I,NULL,NULL
 hCoV-19/Netherlands/NoordHolland_10159/2021,PLpro,465,V,NULL,NULL
 hCoV-19/Netherlands/NoordHolland_10159/2021,PLpro,837,N,NULL,NULL
@@ -15934,28 +15959,6 @@ SARS-CoV-2/human/BEL/rega-20174/2021,N,32,del,NULL,NULL
 SARS-CoV-2/human/BEL/rega-20174/2021,N,33,del,NULL,NULL
 SARS-CoV-2/human/BEL/rega-20174/2021,N,203,K,NULL,NULL
 SARS-CoV-2/human/BEL/rega-20174/2021,N,204,R,NULL,NULL
-B.1.351 full genome:-80A-246I,_3CLpro,90,R,NULL,NULL
-B.1.351 full genome:-80A-246I,E,71,L,NULL,NULL
-B.1.351 full genome:-80A-246I,N,205,I,NULL,NULL
-B.1.351 full genome:-80A-246I,nsp13,588,I,NULL,NULL
-B.1.351 full genome:-80A-246I,nsp2,85,I,NULL,NULL
-B.1.351 full genome:-80A-246I,nsp4,26,Y,NULL,NULL
-B.1.351 full genome:-80A-246I,nsp4,137,L,NULL,NULL
-B.1.351 full genome:-80A-246I,ORF3a,57,H,NULL,NULL
-B.1.351 full genome:-80A-246I,ORF3a,171,L,NULL,NULL
-B.1.351 full genome:-80A-246I,PLpro,837,N,NULL,NULL
-B.1.351 full genome:-80A-246I,RdRP,135,Y,NULL,NULL
-B.1.351 full genome:-80A-246I,RdRP,323,L,NULL,NULL
-B.1.351 full genome:-80A-246I,S,18,F,NULL,NULL
-B.1.351 full genome:-80A-246I,S,215,G,NULL,NULL
-B.1.351 full genome:-80A-246I,S,242,del,NULL,NULL
-B.1.351 full genome:-80A-246I,S,243,del,NULL,NULL
-B.1.351 full genome:-80A-246I,S,244,del,NULL,NULL
-B.1.351 full genome:-80A-246I,S,417,N,NULL,NULL
-B.1.351 full genome:-80A-246I,S,484,K,NULL,NULL
-B.1.351 full genome:-80A-246I,S,501,Y,NULL,NULL
-B.1.351 full genome:-80A-246I,S,614,G,NULL,NULL
-B.1.351 full genome:-80A-246I,S,701,V,NULL,NULL
 B.1.617.2 full genome:142D+682Q,PLpro,488,S,NULL,NULL
 B.1.617.2 full genome:142D+682Q,PLpro,1228,L,NULL,NULL
 B.1.617.2 full genome:142D+682Q,PLpro,1469,S,NULL,NULL
@@ -15986,63 +15989,63 @@ B.1.617.2 full genome:142D+682Q,ORF8,120,del,NULL,NULL
 B.1.617.2 full genome:142D+682Q,N,63,G,NULL,NULL
 B.1.617.2 full genome:142D+682Q,N,377,Y,NULL,NULL
 B.1.617.2 full genome:142D+682Q,N,203,M,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp1,135,R,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,PLpro,24,I,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,PLpro,489,S,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp4,264,F,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp4,327,I,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp4,438,F,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp4,492,I,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,_3CLpro,132,H,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp6,106,del,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp6,107,del,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp6,108,del,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,RdRP,323,L,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp13,392,C,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp14,42,V,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,nsp15,112,I,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,19,I,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,24,S,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,25,del,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,26,del,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,27,S,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,142,D,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,213,G,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,339,D,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,371,F,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,373,P,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,375,F,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,376,A,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,405,N,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,408,S,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,417,N,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,477,N,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,478,K,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,484,A,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,493,R,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,498,R,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,501,Y,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,505,H,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,614,G,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,655,Y,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,679,K,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,681,H,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,764,K,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,796,Y,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,954,H,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,S,969,K,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,ORF3a,223,I,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,E,9,I,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,M,19,E,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,M,63,T,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,ORF6,61,L,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,N,13,L,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,N,31,del,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,N,32,del,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,N,33,del,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,N,203,K,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,N,204,R,NULL,NULL
-Omicron/BA.2 full genome:-27del+27S-142D-440K+683W,N,413,R,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp1,135,R,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,PLpro,24,I,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,PLpro,489,S,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp4,264,F,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp4,327,I,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp4,438,F,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp4,492,I,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,_3CLpro,132,H,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp6,106,del,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp6,107,del,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp6,108,del,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,RdRP,323,L,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp13,392,C,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp14,42,V,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,nsp15,112,I,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,19,I,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,24,S,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,25,del,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,26,del,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,27,S,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,142,D,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,213,G,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,339,D,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,371,F,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,373,P,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,375,F,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,376,A,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,405,N,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,408,S,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,417,N,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,477,N,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,478,K,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,484,A,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,493,R,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,498,R,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,501,Y,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,505,H,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,614,G,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,655,Y,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,679,K,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,681,H,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,764,K,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,796,Y,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,954,H,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,S,969,K,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,ORF3a,223,I,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,E,9,I,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,M,19,E,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,M,63,T,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,ORF6,61,L,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,N,13,L,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,N,31,del,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,N,32,del,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,N,33,del,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,N,203,K,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,N,204,R,NULL,NULL
+Omicron/BA.2 full genome:-142D-440K+683W,N,413,R,NULL,NULL
 Omicron/BA.4 full genome,nsp1,135,R,NULL,NULL
 Omicron/BA.4 full genome,nsp1,141,del,NULL,NULL
 Omicron/BA.4 full genome,nsp1,142,del,NULL,NULL
