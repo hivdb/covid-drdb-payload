@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cobb22,ADM03820,WA1,Table 1,Virus isolate,IC50,28,1,10000,1,ng/ml,2022-10-17
+Cobb22,ADM03820,B.1 full genome,Table 1,Virus isolate,IC50,21,1,10000,1,ng/ml,2022-10-17
+Cobb22,ADM03820,B.1.1.7 full genome,Table 1,Virus isolate,IC50,20,1,10000,1,ng/ml,2022-10-17
+Cobb22,ADM03820,B.1.351 full genome,Table 1,Virus isolate,IC50,19,1,10000,1,ng/ml,2022-10-17
+Cobb22,ADM03820,B.1.617.2 full genome,Table 1,Virus isolate,IC50,25,1,10000,1,ng/ml,2022-10-17
+Cobb22,ADM03820,B.1.1.28 full genome,Table 1,Virus isolate,IC50,8,1,10000,1,ng/ml,2022-10-17
