@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gilchuk22,ADM03820,Wuhan-Hu-1,Figure 6C,Virus isolate,IC50,58,1,10000,1,ng/ml,2022-10-17
+Gilchuk22,ADM03820,S:614G,Figure 6C,Virus isolate,IC50,37,1,10000,1,ng/ml,2022-10-17
+Gilchuk22,ADM03820,B.1.1.7 full genome,Figure 6C,Virus isolate,IC50,39,1,10000,1,ng/ml,2022-10-17
+Gilchuk22,ADM03820,B.1.351 full genome,Figure 6C,Virus isolate,IC50,35,1,10000,1,ng/ml,2022-10-17
+Gilchuk22,ADM03820,P.1 full genome,Figure 6C,Virus isolate,IC50,16,1,10000,1,ng/ml,2022-10-17
+Gilchuk22,ADM03820,B.1.617.2 full genome,Figure 6C,Virus isolate,IC50,49,1,10000,1,ng/ml,2022-10-17
