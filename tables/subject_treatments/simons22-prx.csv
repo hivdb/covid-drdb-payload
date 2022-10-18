@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Simons22,PtA,Bamlanivimab,=,2021-01-06,=,2021-01-06,NULL,NULL,Patient histories
+Simons22,PtA,Remdesivir,~,2021-02-01,~,2021-02-01,NULL,NULL,Patient histories
+Simons22,PtB,Bamlanivimab,=,2021-03-05,=,2021-03-05,NULL,NULL,Patient histories
+Simons22,PtB,Remdesivir,=,2021-06-25,~,2021-06-25,NULL,NULL,Patient histories
+Simons22,PtB,Casirivimab,=,2021-06-25,=,2021-06-25,NULL,NULL,Patient histories
+Simons22,PtB,Imdevimab,=,2021-06-25,=,2021-06-25,NULL,NULL,Patient histories

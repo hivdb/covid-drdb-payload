@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Simons22,PtA,~,2021-01-05,B.1.1.432,USA,Medical,NULL,Patient histories
+Simons22,PtB,~,2021-03-04,B.1.2,USA,Medical,NULL,Patient histories
