@@ -1,0 +1,15 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gliga22,Sotrovimab,S:614G,Figure 3B,Pseudovirus,IC50,6,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,S:337S+614G,Figure 3B,Pseudovirus,IC50,14,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,S:340D+614G,Figure 3B,Pseudovirus,IC50,162,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,S:340K+614G,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.1 Spike,Figure 3B,Pseudovirus,IC50,186,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.1 Spike:+337S,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.1 Spike:+340D,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.1 Spike:+340K,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.1 Spike:+340V,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.2 Spike,Figure 3B,Pseudovirus,IC50,2707,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.2 Spike:+337S,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.2 Spike:+340D,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.2 Spike:+340K,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18
+Gliga22,Sotrovimab,BA.2 Spike:+340V,Figure 3B,Pseudovirus,IC50,100000,1,100000,1,ng/ml,2022-10-18

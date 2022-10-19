@@ -1,28 +1,34 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Muik22b,mRNA_3dose_BA1_CP_14,~,2021-11-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_15,~,2021-11-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_16,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_17,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_18,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_19,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_20,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_21,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_22,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_23,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_24,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_25,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_26,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA1_CP_27,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_01,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_02,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_03,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_04,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_05,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_06,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_07,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_08,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_09,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_10,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_11,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_12,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,NULL
-Muik22b,mRNA_3dose_BA2_CP_13,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,NULL
+Muik22b,mRNA_3dose_BA1_CP_14,~,2021-11-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_15,~,2021-11-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_16,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_17,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_18,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_19,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_20,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_21,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_22,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_23,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_24,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_25,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_26,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA1_CP_27,~,2021-12-01,Omicron/BA.1,Germany,NULL,NULL,Table S1
+Muik22b,mRNA_3dose_BA2_CP_01,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_02,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_03,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_04,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_05,~,2022-05-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_06,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_07,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_08,~,2022-05-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_09,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_10,~,2022-05-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_11,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_12,~,2022-05-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_13,~,2022-05-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_46,~,2022-05-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_47,~,2022-05-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_48,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_49,~,2022-03-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_50,~,2022-04-01,Omicron/BA.2,Germany,NULL,NULL,Table S2
+Muik22b,mRNA_3dose_BA2_CP_51,~,2022-05-01,Omicron/BA.2,Germany,NULL,NULL,Table S2

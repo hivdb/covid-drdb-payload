@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cao20f,STI-1499,Wuhan-Hu-1,Figure 3A,Virus isolate,IC50,100,1,1000,0.1,ng/ml,2022-10-17
+Cao20f,STI-2020,Wuhan-Hu-1,Figure 3A,Virus isolate,IC50,120,1,1000,0.1,ng/ml,2022-10-17
+Cao20f,STI-1499,B.1 full genome,Figure 3A,Virus isolate,IC50,130,1,1000,0.1,ng/ml,2022-10-17
+Cao20f,STI-2020,B.1 full genome,Figure 3A,Virus isolate,IC50,130,1,1000,0.1,ng/ml,2022-10-17
