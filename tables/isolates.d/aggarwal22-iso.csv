@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 hCoV-19/Australia/NSW-R0066/2021,Alpha,FALSE,1033027,NULL,NULL,TRUE
 hCoV-19/Australia/NSW3646/2020,Epsilon,FALSE,717710,NULL,NULL,TRUE
 hCoV-19/Australia/NSW1508/2021,Zeta,FALSE,1098652,NULL,NULL,TRUE

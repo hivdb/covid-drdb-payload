@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Aggarwal22,D1_HAT24,hCoV-19/Australia/NSW2715/2020,Figure 3A,Virus isolate,NT50,189.8,1,1800,20,NULL,2022-10-17
 Aggarwal22,D1_HAT24,hCoV-19/Australia/NSW2713/2020,Figure 3A,Virus isolate,NT50,111.8,1,1800,20,NULL,2022-10-17
 Aggarwal22,D1_HAT24,hCoV-19/Australia/NSW-R0066/2021,Figure 3A,Virus isolate,NT50,134.4,1,1800,20,NULL,2022-10-17
@@ -1496,7 +1496,6 @@ Aggarwal22,BNT162b2_3dose_VPVL025,hCoV-19/Australia/NSW4463/2021,Supplementary T
 Aggarwal22,BNT162b2_3dose_VPVL025,hCoV-19/Australia/NSW4318/2021,Supplementary Table 9,Virus isolate,NT50,182.3,1,1800,20,NULL,2022-10-17
 Aggarwal22,BNT162b2_3dose_VPVL025,hCoV-19/Australia/NSW4605/2021,Supplementary Table 9,Virus isolate,NT50,257.6,1,1800,20,NULL,2022-10-17
 Aggarwal22,BNT162b2_3dose_VPVL025,hCoV-19/Australia/NSW-RPAH-1933/2021,Supplementary Table 9,Virus isolate,NT50,47.1,1,1800,20,NULL,2022-10-17
-
 Aggarwal22,Sotrovimab,hCoV-19/Australia/NSW2715/2020,Table 1,Virus isolate,IC50,372,1,10000,1,ng/ml,2022-10-17
 Aggarwal22,Casirivimab,hCoV-19/Australia/NSW2715/2020,Table 1,Virus isolate,IC50,27,1,10000,1,ng/ml,2022-10-17
 Aggarwal22,Imdevimab,hCoV-19/Australia/NSW2715/2020,Table 1,Virus isolate,IC50,25,1,10000,1,ng/ml,2022-10-17
