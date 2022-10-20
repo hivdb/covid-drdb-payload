@@ -585,6 +585,9 @@ Choi21b,mRNA-1273_2dose_booster,Human,NULL,20
 Choi22,AZD1222_1dose_BNT162b2_2dose,Human,NULL,20
 Choi22,AZD1222_2dose_BNT162b2_1dose,Human,NULL,20
 Choi22,BNT162b2_3dose,Human,NULL,20
+Choi22b,3dose,Human,NULL,1
+Choi22b,4dose,Human,NULL,1
+Choi22b,4dose_CP,Human,NULL,1
 Choudhary21,ACTIV-2/A5401 trial,Human,NULL,111
 Chuang22,AZD1222_2dose_BNT162b2_1dose,Human,NULL,30
 Chuang22,AZD1222_2dose_MVC_COV1901_1dose,Human,NULL,30

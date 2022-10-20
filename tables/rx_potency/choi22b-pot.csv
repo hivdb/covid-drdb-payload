@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Choi22b,2dose,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,329.73,6,10000,20,NULL,2022-10-20
 Choi22b,3dose_3wks,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,2496.29,6,10000,20,NULL,2022-10-20
 Choi22b,3dose,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,839.87,9,10000,20,NULL,2022-10-20
