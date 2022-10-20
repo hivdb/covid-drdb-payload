@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Aggarwal22b,1st_wave_CP_ChAdOx1_2dose,~,2021-01-01,AZD1222,1,Australia,NULL
 Aggarwal22b,1st_wave_CP_ChAdOx1_2dose,~,2021-02-01,AZD1222,2,Australia,NULL
 Aggarwal22b,1st_wave_CP_BNT162b2_2dose,~,2021-01-01,BNT162b2,1,Australia,NULL

@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Aggarwal22b,1st_wave_CP_ChAdOx1_2dose_AD012,hCoV-19/Australia/NSW2715/2020,Supplementary Table 1,Virus isolate,NT50,1461.7,1,100000,20,NULL,2022-10-19
 Aggarwal22b,1st_wave_CP_ChAdOx1_2dose_AD012,hCoV-19/Australia/NSW4463/2021,Supplementary Table 1,Virus isolate,NT50,538.3,1,100000,20,NULL,2022-10-19
 Aggarwal22b,1st_wave_CP_ChAdOx1_2dose_AD012,hCoV-19/Australia/NSW4605/2021,Supplementary Table 1,Virus isolate,NT50,1267.0,1,100000,20,NULL,2022-10-19

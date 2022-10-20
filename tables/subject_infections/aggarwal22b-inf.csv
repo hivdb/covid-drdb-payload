@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Aggarwal22b,1st_wave_CP_ChAdOx1_2dose,~,2020-10-01,B.1,Australia,NULL,NULL,NULL
 Aggarwal22b,1st_wave_CP_BNT162b2_2dose,~,2020-10-01,B.1,Australia,NULL,NULL,NULL
 Aggarwal22b,2nd_wave_CP_BNT162b2_2dose,~,2021-01-01,Alpha,Australia,NULL,NULL,NULL
