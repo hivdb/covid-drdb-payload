@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Shen22,mRNA_1273_3dose,S:614G,Figure 1,Pseudotype (lentivirus),NT50,2423,20,100000,10,NULL,2022-10-20
 Shen22,mRNA_1273_3dose,BA.1 Spike,Figure 1,Pseudotype (lentivirus),NT50,850,20,100000,10,NULL,2022-10-20
 Shen22,mRNA_1273_3dose,BA.2 Spike,Figure 1,Pseudotype (lentivirus),NT50,475,20,100000,10,NULL,2022-10-20
