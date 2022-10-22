@@ -1,0 +1,72 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ragonnet-Cronin22,Casirivimab,VIC,Figure 1C,Pseudovirus (lentivirus),IC50,2,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike,Figure 1C,Pseudovirus (lentivirus),IC50,1,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+E406D,Figure 1C,Pseudovirus (lentivirus),IC50,2,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+E406Q,Figure 1C,Pseudovirus (lentivirus),IC50,14,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+G446S,Figure 1C,Pseudovirus (lentivirus),IC50,1,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+G446V,Figure 1C,Pseudovirus (lentivirus),IC50,1,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+Y453F,Figure 1C,Pseudovirus (lentivirus),IC50,16,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+L455F,Figure 1C,Pseudovirus (lentivirus),IC50,17,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+L455S,Figure 1C,Pseudovirus (lentivirus),IC50,155,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+G446V+Y453F,Figure 1C,Pseudovirus (lentivirus),IC50,626,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab,B.1.617.2 Spike:+G446V+L455F,Figure 1C,Pseudovirus (lentivirus),IC50,129,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,VIC,Figure 1C,Pseudovirus (lentivirus),IC50,12,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike,Figure 1C,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+E406D,Figure 1C,Pseudovirus (lentivirus),IC50,11,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+E406Q,Figure 1C,Pseudovirus (lentivirus),IC50,15,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+G446S,Figure 1C,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+G446V,Figure 1C,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+Y453F,Figure 1C,Pseudovirus (lentivirus),IC50,12,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+L455F,Figure 1C,Pseudovirus (lentivirus),IC50,5,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+L455S,Figure 1C,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+G446V+Y453F,Figure 1C,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Imdevimab,B.1.617.2 Spike:+G446V+L455F,Figure 1C,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,VIC,Figure 1C,Pseudovirus (lentivirus),IC50,2,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike,Figure 1C,Pseudovirus (lentivirus),IC50,1,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+E406D,Figure 1C,Pseudovirus (lentivirus),IC50,2,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+E406Q,Figure 1C,Pseudovirus (lentivirus),IC50,6,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+G446S,Figure 1C,Pseudovirus (lentivirus),IC50,2,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+G446V,Figure 1C,Pseudovirus (lentivirus),IC50,2,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+Y453F,Figure 1C,Pseudovirus (lentivirus),IC50,11,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+L455F,Figure 1C,Pseudovirus (lentivirus),IC50,5,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+L455S,Figure 1C,Pseudovirus (lentivirus),IC50,3,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+G446V+Y453F,Figure 1C,Pseudovirus (lentivirus),IC50,1097,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Casirivimab+Imdevimab,B.1.617.2 Spike:+G446V+L455F,Figure 1C,Pseudovirus (lentivirus),IC50,318,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,VIC,Figure 1C,Pseudovirus (lentivirus),IC50,9,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike,Figure 1C,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+E406D,Figure 1C,Pseudovirus (lentivirus),IC50,3,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+E406Q,Figure 1C,Pseudovirus (lentivirus),IC50,12,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+G446S,Figure 1C,Pseudovirus (lentivirus),IC50,5,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+G446V,Figure 1C,Pseudovirus (lentivirus),IC50,7,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+Y453F,Figure 1C,Pseudovirus (lentivirus),IC50,6,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+L455F,Figure 1C,Pseudovirus (lentivirus),IC50,5,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+L455S,Figure 1C,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+G446V+Y453F,Figure 1C,Pseudovirus (lentivirus),IC50,7,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,B.1.617.2 Spike:+G446V+L455F,Figure 1C,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,VIC,Figure 1D,Pseudovirus (lentivirus),IC50,79,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike,Figure 1D,Pseudovirus (lentivirus),IC50,113,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike:+P337R,Figure 1D,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike:+P337S,Figure 1D,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike:+E340A,Figure 1D,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike:+E340D,Figure 1D,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike:+E340K,Figure 1D,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike:+E340V,Figure 1D,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike:+K356T,Figure 1D,Pseudovirus (lentivirus),IC50,10000,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Sotrovimab,BA.1 Spike:+R493Q,Figure 1D,Pseudovirus (lentivirus),IC50,185,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike,Figure 1D,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike:+P337R,Figure 1D,Pseudovirus (lentivirus),IC50,2,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike:+P337S,Figure 1D,Pseudovirus (lentivirus),IC50,5,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike:+E340A,Figure 1D,Pseudovirus (lentivirus),IC50,3,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike:+E340D,Figure 1D,Pseudovirus (lentivirus),IC50,3,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike:+E340K,Figure 1D,Pseudovirus (lentivirus),IC50,3,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike:+E340V,Figure 1D,Pseudovirus (lentivirus),IC50,3,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike:+K356T,Figure 1D,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,Omi-12,BA.1 Spike:+R493Q,Figure 1D,Pseudovirus (lentivirus),IC50,4,1,10000,1,ng/ml,2022-10-21
+Ragonnet-Cronin22,BNT_3dose_D28,VIC,Figure 2,Pseudovirus (lentivirus),NT50,4176,19,10000,10,NULL,2022-10-21
+Ragonnet-Cronin22,BNT_3dose_D28,BA.1 Spike,Figure 2,Pseudovirus (lentivirus),NT50,1123,19,10000,10,NULL,2022-10-21
+Ragonnet-Cronin22,BNT_3dose_D28,BA.1 Spike:+P337S,Figure 2,Pseudovirus (lentivirus),NT50,551,19,10000,10,NULL,2022-10-21
+Ragonnet-Cronin22,BNT_3dose_D28,BA.1 Spike:+E340K,Figure 2,Pseudovirus (lentivirus),NT50,917,19,10000,10,NULL,2022-10-21
+Ragonnet-Cronin22,BNT_3dose_D28,BA.1 Spike:+K356T,Figure 2,Pseudovirus (lentivirus),NT50,298,19,10000,10,NULL,2022-10-21
+Ragonnet-Cronin22,BNT_3dose_D28,B.1.617.2 Spike,Figure 2,Pseudovirus (lentivirus),NT50,1560,19,10000,10,NULL,2022-10-21
+Ragonnet-Cronin22,BNT_3dose_D28,B.1.617.2 Spike:+G446V+Y453F,Figure 2,Pseudovirus (lentivirus),NT50,832,19,10000,10,NULL,2022-10-21
+Ragonnet-Cronin22,BNT_3dose_D28,B.1.617.2 Spike:+G446V+L455F,Figure 2,Pseudovirus (lentivirus),NT50,1015,19,10000,10,NULL,2022-10-21

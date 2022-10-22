@@ -6165,6 +6165,11 @@ Planas21c,Sotrovimab
 Planas21c,Adintrevimab
 Pommeret21,Bamlanivimab
 Pommeret21,Etesevimab
+Ragonnet-Cronin22,Casirivimab
+Ragonnet-Cronin22,Imdevimab
+Ragonnet-Cronin22,Casirivimab+Imdevimab
+Ragonnet-Cronin22,Sotrovimab
+Ragonnet-Cronin22,Omi-12
 Rees-Spear21,COVA1-12
 Rees-Spear21,COVA1-16
 Rees-Spear21,COVA1-18
@@ -24249,6 +24254,7 @@ Qu22c,mRNA_2nd_booster_D16
 Qu22c,mRNA_1st_booster_D16
 Qu22c,mRNA_1st_booster_D122
 Qu22c,mRNA_2nd_booster_D18
+Ragonnet-Cronin22,BNT_3dose_D28
 Rees-Spear21,CP_Mild_1
 Rees-Spear21,CP_Mild_2
 Rees-Spear21,CP_Mild_3
