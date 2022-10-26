@@ -1,0 +1,17 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Park22,Inf_VP_2dose,~,2020-03-10,B.1,USA,NULL,NULL,Data S1
+Park22,Inf_VP_3dose,~,2020-03-10,B.1,USA,NULL,NULL,Data S1
+Park22,VP_2dose_Delta_BTI,~,2021-06-27,Delta,USA,NULL,NULL,Data S1
+Park22,VP_2dose_BA.1_BTI,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,Data S1
+Park22,VP_3dose_BA.1_BTI,~,2022-01-01,Omicron/BA.1,USA,NULL,NULL,Data S1
+Park22,VC201,=,2022-04-12,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC202,=,2022-03-24,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC203,=,2022-03-12,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC204,=,2022-01-19,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC206,=,2022-03-15,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC207,=,2022-02-19,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC208,=,2021-12-31,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC209,=,2022-03-29,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC205,=,2022-01-11,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC210,=,2022-01-21,Omicron/BA.2,USA,NULL,NULL,Data S1
+Park22,VC211,=,2022-03-09,Omicron/BA.2,USA,NULL,NULL,Data S1

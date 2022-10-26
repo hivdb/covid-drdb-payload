@@ -1,0 +1,19 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Park22,Inf_VP_2dose,~,2021-01-01,mRNA,1,USA,Data S1
+Park22,Inf_VP_2dose,~,2021-01-21,mRNA,2,USA,Data S1
+Park22,Inf_VP_3dose,~,2021-01-01,mRNA,1,USA,Data S1
+Park22,Inf_VP_3dose,~,2021-01-21,mRNA,2,USA,Data S1
+Park22,Inf_VP_3dose,~,2021-09-19,mRNA,3,USA,Data S1
+Park22,VP_2dose_Delta_BTI,~,2021-01-01,mRNA,1,USA,Data S1
+Park22,VP_2dose_Delta_BTI,~,2021-01-22,mRNA,2,USA,Data S1
+Park22,VP_2dose_BA.1_BTI,~,2021-05-04,mRNA,2,USA,Data S1
+Park22,VP_3dose_BA.1_BTI,~,2021-11-06,mRNA,3,USA,Data S1
+Park22,VP_3dose,~,2021-11-27,mRNA,3,USA,Data S1
+Park22,VC201,<,2022-01-01,Unknown vaccine,3,USA,Data S1
+Park22,VC202,<,2022-01-01,Unknown vaccine,3,USA,Data S1
+Park22,VC203,<,2022-01-01,Unknown vaccine,3,USA,Data S1
+Park22,VC204,<,2022-01-01,Unknown vaccine,3,USA,Data S1
+Park22,VC206,<,2022-01-01,Unknown vaccine,3,USA,Data S1
+Park22,VC207,<,2022-01-01,Unknown vaccine,3,USA,Data S1
+Park22,VC208,<,2022-01-01,Unknown vaccine,3,USA,Data S1
+Park22,VC209,<,2022-01-01,Unknown vaccine,3,USA,Data S1
