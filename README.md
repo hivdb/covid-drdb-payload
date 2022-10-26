@@ -8,7 +8,7 @@ The database also provides meta-data including but not limited to:
 - MAb targets, classes, epitopes
 - Vaccine types, developers, efficacy
 - Reference/article titles, DOIs, URLs
-- Mutation references (Wuhan-Hu-1)
+- Mutation references (Wuhan-Hu-1, [NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/1798174254))
 
 ## Access DRDB
 
