@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Reynolds22,ID1_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,IC50,14091.4,1,1000000,1,ng/ml,2022-10-24
 Reynolds22,ID1_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,IC50,7175.5,1,1000000,1,ng/ml,2022-10-24
 Reynolds22,ID1_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,IC50,2007.5,1,1000000,1,ng/ml,2022-10-24

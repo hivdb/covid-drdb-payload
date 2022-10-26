@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Reynolds22,ID1,~,2021-01-04,BNT162b2,1,United Kingdom,NULL
 Reynolds22,ID1,~,2021-03-24,BNT162b2,2,United Kingdom,NULL
 Reynolds22,ID1,~,2021-10-06,BNT162b2,3,United Kingdom,NULL

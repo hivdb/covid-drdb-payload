@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Reynolds22,ID1,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID4,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID5,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
