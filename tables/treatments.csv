@@ -39,6 +39,7 @@ Andreano21,I15
 Andreano21,I21
 Andreano21,J13
 Andreano21,J08
+Andres22,Sotrovimab
 Annavajhala21b,REGN10933
 Annavajhala21b,REGN10987
 Annavajhala21b,LY-CoV555
@@ -6134,6 +6135,19 @@ Nabel21,S2A4
 Ohashi22,Casirivimab
 Ohashi22,Imdevimab
 Ohashi22,S309
+Park22,Sotrovimab
+Park22,S2X324
+Park22,LY-CoV555+016
+Park22,CT-P59
+Park22,ADI-58125
+Park22,REGN10987+10933
+Park22,COV2-2196
+Park22,COV2-2130
+Park22,COV2-2196+2130
+Park22,LY-CoV1404
+Park22,S2X259
+Park22,S2H97
+Park22,S2K146
 Peiffer-Smadja21,Bamlanivimab
 Pelzek22,Casirivimab
 Pelzek22,Imdevimab
@@ -6164,6 +6178,11 @@ Planas21c,Sotrovimab
 Planas21c,Adintrevimab
 Pommeret21,Bamlanivimab
 Pommeret21,Etesevimab
+Ragonnet-Cronin22,Casirivimab
+Ragonnet-Cronin22,Imdevimab
+Ragonnet-Cronin22,Casirivimab+Imdevimab
+Ragonnet-Cronin22,Sotrovimab
+Ragonnet-Cronin22,Omi-12
 Rees-Spear21,COVA1-12
 Rees-Spear21,COVA1-16
 Rees-Spear21,COVA1-18
@@ -6197,6 +6216,7 @@ Scheid21,BG7-15_7F
 Scheid21,BG7-20_7G
 Scheid21,BG1-24_7H
 Scherer22,Bamlanivimab
+Scherer22,CC12.1
 Schmitz21,3A11
 Schmitz21,2B06
 Schmitz21,1B12
@@ -10727,6 +10747,12 @@ Choi22,AZD1222_1dose_BNT162b2_2dose_after__3rd
 Choi22,BNT162b2_3dose_after__2nd
 Choi22,BNT162b2_3dose_before_3rd
 Choi22,BNT162b2_3dose_after__3rd
+Choi22b,2dose
+Choi22b,3dose_3wks
+Choi22b,3dose
+Choi22b,4dose_3wks
+Choi22b,3dose_CP
+Choi22b,4dose_3wks_CP
 Chuang22,AZD1222_2dose_BNT162b2_1dose_prior
 Chuang22,AZD1222_2dose_BNT162b2_1dose
 Chuang22,AZD1222_2dose_mRNA1273_halfdose_prior
@@ -14585,6 +14611,9 @@ Gushchin21,S013
 Hachmann22,BNT_2dose
 Hachmann22,BNT_3dose
 Hachmann22,CP_mRNA_3dose
+Hachmann22b,Omicron_BTI
+Hachmann22b,mRNA_1273_2dose
+Hachmann22b,mRNA_1273_3dose
 Hadjadj21,BNT_1
 Hadjadj21,BNT_2
 Hadjadj21,BNT_3
@@ -23072,6 +23101,23 @@ Pannus21,Infected_Resident_D0
 Pannus21,Infected_Resident_D21
 Pannus21,Infected_Resident_D28
 Pannus21,Infected_Resident_D49
+Park22,Inf_VP_2dose
+Park22,Inf_VP_3dose
+Park22,VP_2dose_Delta_BTI
+Park22,VP_2dose_BA.1_BTI
+Park22,VP_3dose_BA.1_BTI
+Park22,VP_3dose
+Park22,VC201
+Park22,VC202
+Park22,VC203
+Park22,VC204
+Park22,VC205
+Park22,VC206
+Park22,VC207
+Park22,VC208
+Park22,VC209
+Park22,VC210
+Park22,VC211
 Parry21,BNT_1
 Parry21,BNT_2
 Parry21,BNT_3
@@ -24247,6 +24293,10 @@ Qu22c,mRNA_2nd_booster_D16
 Qu22c,mRNA_1st_booster_D16
 Qu22c,mRNA_1st_booster_D122
 Qu22c,mRNA_2nd_booster_D18
+Qu22d,mRNA_3dose
+Qu22d,BA.1_wave
+Qu22d,BA.4/5 wave
+Ragonnet-Cronin22,BNT_3dose_D28
 Rees-Spear21,CP_Mild_1
 Rees-Spear21,CP_Mild_2
 Rees-Spear21,CP_Mild_3
@@ -25060,6 +25110,14 @@ Scheepers22,BNT162b2_G2
 Scheepers22,CP_Wave2_G2
 Scheepers22,CP_Wave3_G2
 Scherer22,CP
+Scherer22,P1_D37_serum
+Scherer22,P2_D33_serum
+Scherer22,P2_D41_serum
+Scherer22,P2_D55_serum
+Scherer22,P2_D66_serum
+Scherer22,P2_D77_serum
+Scherer22,P3_D55_serum
+Scherer22,P3_D83_serum
 Schmidt21,RU27-panel
 Schmidt21,RU3
 Schmidt21,RU4
@@ -25746,6 +25804,7 @@ Shen21b,CP_Ser_48
 Shen21b,CP_Ser_51
 Shen21b,CP_Ser_58
 Shen21b,CP_Ser_60
+Shen22,mRNA_1273_3dose
 Sheward22,CP_4m_3
 Sheward22,CP_4m_4
 Sheward22,CP_4m_6
@@ -35318,6 +35377,7 @@ Zuckerman21b,BNT162b2_141
 Zuckerman21b,BNT162b2_142
 Zuckerman21b,BNT162b2_143
 Zuckerman21b,BNT162b2_144
+Andres22,Remdesivir
 Baang21,Remdesivir
 Bailly21,Remdesivir
 Borges21,Remdesivir
@@ -35363,3 +35423,4 @@ Drouin21,Hydroxychloroquine
 Drouin21,Azithromycin
 Drouin21,Lopinavir/Ritonavir
 Drouin21,IVIG
+Andres22,Hyperimmune plasma

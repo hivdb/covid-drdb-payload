@@ -1,5 +1,5 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Cao22e,REGN10933,BA.2 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
+Cao22e,REGN10933,BA.2 Spike,Figure 2a,Pseudovirus,IC50,999,1,1000,1,ng/ml,2022-10-10
 Cao22e,REGN10933,BA.2.3.20 Spike,Figure 2a,Pseudovirus,IC50,121,1,1000,1,ng/ml,2022-10-10
 Cao22e,REGN10933,BA.2.10.4 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
 Cao22e,REGN10933,BJ.1 Spike,Figure 2a,Pseudovirus,IC50,1000,1,1000,1,ng/ml,2022-10-10
@@ -914,3 +914,15 @@ Cao22e,CoronaVac_3dose_BA5_BTI,BA.5.2.7 Spike,Extended Data Fig 2f,Pseudovirus,N
 Cao22e,CoronaVac_3dose_BA5_BTI,BF.16 Spike,Extended Data Fig 2f,Pseudovirus,NT50,216,21,10000,20,NULL,2022-10-10
 Cao22e,CoronaVac_3dose_BA5_BTI,BA.5.1.12 Spike,Extended Data Fig 2f,Pseudovirus,NT50,206,21,10000,20,NULL,2022-10-10
 Cao22e,CoronaVac_3dose_BA5_BTI,BA.5.5.1 Spike,Extended Data Fig 2f,Pseudovirus,NT50,247,21,10000,20,NULL,2022-10-10
+Cao22e,REGN10933,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,5.65,1,10000,1,ng/ml,2022-05-04
+Cao22e,REGN10987,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,5.73,1,10000,1,ng/ml,2022-05-04
+Cao22e,REGN10933 + 10987,S:614G,Cao22c Figure 1b,Pseudovirus,IC50,5,1,10000,1,ng/ml,2022-07-29
+Cao22e,COV2-2196,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,1.57,1,10000,1,ng/ml,2022-05-04
+Cao22e,COV2-2130,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,2.5,1,10000,1,ng/ml,2022-05-04
+Cao22e,COV2-2196_2130,S:614G,Cao22c Figure 1b,Pseudovirus,IC50,2.1,1,10000,1,ng/ml,2022-07-29
+Cao22e,BRII-196,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,53.2,1,10000,1,ng/ml,2022-05-04
+Cao22e,BRII-198,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,1240.0,1,10000,1,ng/ml,2022-05-04
+Cao22e,BRII-196+198,S:614G,Cao22c Figure 1b,Pseudovirus,IC50,81,1,10000,1,ng/ml,2022-07-29
+Cao22e,S309,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,74.1,1,10000,1,ng/ml,2022-05-04
+Cao22e,DXP-604,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,11.0,1,10000,1,ng/ml,2022-05-04
+Cao22e,LY-CoV1404,S:614G,Cao22b Suppmentary Table 2,Pseudovirus,IC50,0.75,1,10000,1,ng/ml,2022-05-04

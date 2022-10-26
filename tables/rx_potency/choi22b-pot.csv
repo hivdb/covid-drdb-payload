@@ -1,0 +1,19 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Choi22b,2dose,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,329.73,6,10000,20,NULL,2022-10-20
+Choi22b,3dose_3wks,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,2496.29,6,10000,20,NULL,2022-10-20
+Choi22b,3dose,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,839.87,9,10000,20,NULL,2022-10-20
+Choi22b,4dose_3wks,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,1468.77,9,10000,20,NULL,2022-10-20
+Choi22b,3dose_CP,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,4927.94,9,10000,20,NULL,2022-10-20
+Choi22b,4dose_3wks_CP,Wuhan-Hu-1,Supplementary Table 2,Virus isolate,NT50,5297.97,9,10000,20,NULL,2022-10-20
+Choi22b,2dose,B.1.1.529 full genome,Supplementary Table 2,Virus isolate,NT50,17.88,6,10000,20,NULL,2022-10-20
+Choi22b,3dose_3wks,B.1.1.529 full genome,Supplementary Table 2,Virus isolate,NT50,262.50,6,10000,20,NULL,2022-10-20
+Choi22b,3dose,B.1.1.529 full genome,Supplementary Table 2,Virus isolate,NT50,37.55,9,10000,20,NULL,2022-10-20
+Choi22b,4dose_3wks,B.1.1.529 full genome,Supplementary Table 2,Virus isolate,NT50,94.36,9,10000,20,NULL,2022-10-20
+Choi22b,3dose_CP,B.1.1.529 full genome,Supplementary Table 2,Virus isolate,NT50,662.12,9,10000,20,NULL,2022-10-20
+Choi22b,4dose_3wks_CP,B.1.1.529 full genome,Supplementary Table 2,Virus isolate,NT50,693.88,9,10000,20,NULL,2022-10-20
+Choi22b,2dose,Omicron/BA.5 full genome,Supplementary Table 2,Virus isolate,NT50,73.52,6,10000,20,NULL,2022-10-20
+Choi22b,3dose_3wks,Omicron/BA.5 full genome,Supplementary Table 2,Virus isolate,NT50,282.21,6,10000,20,NULL,2022-10-20
+Choi22b,3dose,Omicron/BA.5 full genome,Supplementary Table 2,Virus isolate,NT50,42.98,9,10000,20,NULL,2022-10-20
+Choi22b,4dose_3wks,Omicron/BA.5 full genome,Supplementary Table 2,Virus isolate,NT50,106.14,9,10000,20,NULL,2022-10-20
+Choi22b,3dose_CP,Omicron/BA.5 full genome,Supplementary Table 2,Virus isolate,NT50,473.29,9,10000,20,NULL,2022-10-20
+Choi22b,4dose_3wks_CP,Omicron/BA.5 full genome,Supplementary Table 2,Virus isolate,NT50,671.83,9,10000,20,NULL,2022-10-20

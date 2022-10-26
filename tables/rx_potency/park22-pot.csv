@@ -1,0 +1,287 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Park22,Inf_VP_2dose,S:614G,Table S1,Pseudovirus (VSV),NT50,2065,15,100000,10,NULL,2022-10-25
+Park22,Inf_VP_2dose,B.1.617.2 Spike,Table S1,Pseudovirus (VSV),NT50,1398,15,100000,10,NULL,2022-10-25
+Park22,Inf_VP_2dose,BA.1 Spike,Table S1,Pseudovirus (VSV),NT50,576,15,100000,10,NULL,2022-10-25
+Park22,Inf_VP_2dose,BA.2 Spike,Table S1,Pseudovirus (VSV),NT50,1139,15,100000,10,NULL,2022-10-25
+Park22,Inf_VP_2dose,BA.2.12.1 Spike,Table S1,Pseudovirus (VSV),NT50,981,15,100000,10,NULL,2022-10-25
+Park22,Inf_VP_2dose,BA.4/5 Spike,Table S1,Pseudovirus (VSV),NT50,414,15,100000,10,NULL,2022-10-25
+Park22,Inf_VP_2dose,SARS-CoV Spike,Table S1,Pseudovirus (VSV),NT50,129,15,100000,10,NULL,2022-10-25
+Park22,Inf_VP_3dose,S:614G,Table S1,Pseudovirus (VSV),NT50,6825,8,100000,10,NULL,2022-10-25
+Park22,Inf_VP_3dose,B.1.617.2 Spike,Table S1,Pseudovirus (VSV),NT50,1909,8,100000,10,NULL,2022-10-25
+Park22,Inf_VP_3dose,BA.1 Spike,Table S1,Pseudovirus (VSV),NT50,830,8,100000,10,NULL,2022-10-25
+Park22,Inf_VP_3dose,BA.2 Spike,Table S1,Pseudovirus (VSV),NT50,1708,8,100000,10,NULL,2022-10-25
+Park22,Inf_VP_3dose,BA.2.12.1 Spike,Table S1,Pseudovirus (VSV),NT50,1325,8,100000,10,NULL,2022-10-25
+Park22,Inf_VP_3dose,BA.4/5 Spike,Table S1,Pseudovirus (VSV),NT50,498,8,100000,10,NULL,2022-10-25
+Park22,Inf_VP_3dose,SARS-CoV Spike,Table S1,Pseudovirus (VSV),NT50,378,8,100000,10,NULL,2022-10-25
+Park22,VP_2dose_Delta_BTI,S:614G,Table S1,Pseudovirus (VSV),NT50,2031,15,100000,10,NULL,2022-10-25
+Park22,VP_2dose_Delta_BTI,B.1.617.2 Spike,Table S1,Pseudovirus (VSV),NT50,1033,15,100000,10,NULL,2022-10-25
+Park22,VP_2dose_Delta_BTI,BA.1 Spike,Table S1,Pseudovirus (VSV),NT50,560,15,100000,10,NULL,2022-10-25
+Park22,VP_2dose_Delta_BTI,BA.2 Spike,Table S1,Pseudovirus (VSV),NT50,792,15,100000,10,NULL,2022-10-25
+Park22,VP_2dose_Delta_BTI,BA.2.12.1 Spike,Table S1,Pseudovirus (VSV),NT50,654,15,100000,10,NULL,2022-10-25
+Park22,VP_2dose_Delta_BTI,BA.4/5 Spike,Table S1,Pseudovirus (VSV),NT50,344,15,100000,10,NULL,2022-10-25
+Park22,VP_2dose_Delta_BTI,SARS-CoV Spike,Table S1,Pseudovirus (VSV),NT50,141,15,100000,10,NULL,2022-10-25
+Park22,VP_2dose_BA.1_BTI,S:614G,Table S1,Pseudovirus (VSV),NT50,3915,8,100000,10,NULL,2022-10-25
+Park22,VP_2dose_BA.1_BTI,B.1.617.2 Spike,Table S1,Pseudovirus (VSV),NT50,2778,8,100000,10,NULL,2022-10-25
+Park22,VP_2dose_BA.1_BTI,BA.1 Spike,Table S1,Pseudovirus (VSV),NT50,2873,8,100000,10,NULL,2022-10-25
+Park22,VP_2dose_BA.1_BTI,BA.2 Spike,Table S1,Pseudovirus (VSV),NT50,2441,8,100000,10,NULL,2022-10-25
+Park22,VP_2dose_BA.1_BTI,BA.2.12.1 Spike,Table S1,Pseudovirus (VSV),NT50,1446,8,100000,10,NULL,2022-10-25
+Park22,VP_2dose_BA.1_BTI,BA.4/5 Spike,Table S1,Pseudovirus (VSV),NT50,503,8,100000,10,NULL,2022-10-25
+Park22,VP_2dose_BA.1_BTI,SARS-CoV Spike,Table S1,Pseudovirus (VSV),NT50,158,8,100000,10,NULL,2022-10-25
+Park22,VP_3dose_BA.1_BTI,S:614G,Table S1,Pseudovirus (VSV),NT50,3757,8,100000,10,NULL,2022-10-25
+Park22,VP_3dose_BA.1_BTI,B.1.617.2 Spike,Table S1,Pseudovirus (VSV),NT50,1927,8,100000,10,NULL,2022-10-25
+Park22,VP_3dose_BA.1_BTI,BA.1 Spike,Table S1,Pseudovirus (VSV),NT50,2393,8,100000,10,NULL,2022-10-25
+Park22,VP_3dose_BA.1_BTI,BA.2 Spike,Table S1,Pseudovirus (VSV),NT50,2340,8,100000,10,NULL,2022-10-25
+Park22,VP_3dose_BA.1_BTI,BA.2.12.1 Spike,Table S1,Pseudovirus (VSV),NT50,2250,8,100000,10,NULL,2022-10-25
+Park22,VP_3dose_BA.1_BTI,BA.4/5 Spike,Table S1,Pseudovirus (VSV),NT50,740,8,100000,10,NULL,2022-10-25
+Park22,VP_3dose_BA.1_BTI,SARS-CoV Spike,Table S1,Pseudovirus (VSV),NT50,153,8,100000,10,NULL,2022-10-25
+Park22,VP_3dose,S:614G,Table S1,Pseudovirus (VSV),NT50,1862,7,100000,10,NULL,2022-10-25
+Park22,VP_3dose,B.1.617.2 Spike,Table S1,Pseudovirus (VSV),NT50,662,7,100000,10,NULL,2022-10-25
+Park22,VP_3dose,BA.1 Spike,Table S1,Pseudovirus (VSV),NT50,426,7,100000,10,NULL,2022-10-25
+Park22,VP_3dose,BA.2 Spike,Table S1,Pseudovirus (VSV),NT50,531,7,100000,10,NULL,2022-10-25
+Park22,VP_3dose,BA.2.12.1 Spike,Table S1,Pseudovirus (VSV),NT50,300,7,100000,10,NULL,2022-10-25
+Park22,VP_3dose,BA.4/5 Spike,Table S1,Pseudovirus (VSV),NT50,190,7,100000,10,NULL,2022-10-25
+Park22,VP_3dose,SARS-CoV Spike,Table S1,Pseudovirus (VSV),NT50,216,7,100000,10,NULL,2022-10-25
+Park22,VC201,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,1053,1,100000,10,NULL,2022-10-25
+Park22,VC202,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,4208,1,100000,10,NULL,2022-10-25
+Park22,VC203,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,4706,1,100000,10,NULL,2022-10-25
+Park22,VC204,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,7028,1,100000,10,NULL,2022-10-25
+Park22,VC206,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,6901,1,100000,10,NULL,2022-10-25
+Park22,VC207,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,17538,1,100000,10,NULL,2022-10-25
+Park22,VC208,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,6829,1,100000,10,NULL,2022-10-25
+Park22,VC209,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,22780,1,100000,10,NULL,2022-10-25
+Park22,VC205,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,40,1,100000,10,NULL,2022-10-25
+Park22,VC210,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,10,1,100000,10,NULL,2022-10-25
+Park22,VC211,Wuhan-Hu-1,Table S2,Pseudovirus (VSV),NT50,598,1,100000,10,NULL,2022-10-25
+Park22,VC201,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,814,1,100000,10,NULL,2022-10-25
+Park22,VC202,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,3827,1,100000,10,NULL,2022-10-25
+Park22,VC203,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,1150,1,100000,10,NULL,2022-10-25
+Park22,VC204,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,5804,1,100000,10,NULL,2022-10-25
+Park22,VC206,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,5904,1,100000,10,NULL,2022-10-25
+Park22,VC207,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,1410,1,100000,10,NULL,2022-10-25
+Park22,VC208,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,4333,1,100000,10,NULL,2022-10-25
+Park22,VC209,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,7911,1,100000,10,NULL,2022-10-25
+Park22,VC205,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,564,1,100000,10,NULL,2022-10-25
+Park22,VC210,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,20,1,100000,10,NULL,2022-10-25
+Park22,VC211,BA.1 Spike,Table S2,Pseudovirus (VSV),NT50,7294,1,100000,10,NULL,2022-10-25
+Park22,VC201,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,229,1,100000,10,NULL,2022-10-25
+Park22,VC202,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,2834,1,100000,10,NULL,2022-10-25
+Park22,VC203,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,1707,1,100000,10,NULL,2022-10-25
+Park22,VC204,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,2871,1,100000,10,NULL,2022-10-25
+Park22,VC206,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,2242,1,100000,10,NULL,2022-10-25
+Park22,VC207,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,1533,1,100000,10,NULL,2022-10-25
+Park22,VC208,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,2276,1,100000,10,NULL,2022-10-25
+Park22,VC209,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,6322,1,100000,10,NULL,2022-10-25
+Park22,VC205,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,140,1,100000,10,NULL,2022-10-25
+Park22,VC210,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,9,1,100000,10,NULL,2022-10-25
+Park22,VC211,BA.2 Spike,Table S2,Pseudovirus (VSV),NT50,1556,1,100000,10,NULL,2022-10-25
+Park22,VC201,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,154,1,100000,10,NULL,2022-10-25
+Park22,VC202,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,1457,1,100000,10,NULL,2022-10-25
+Park22,VC203,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,1416,1,100000,10,NULL,2022-10-25
+Park22,VC204,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,1085,1,100000,10,NULL,2022-10-25
+Park22,VC206,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,903,1,100000,10,NULL,2022-10-25
+Park22,VC207,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,916,1,100000,10,NULL,2022-10-25
+Park22,VC208,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,635,1,100000,10,NULL,2022-10-25
+Park22,VC209,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,2590,1,100000,10,NULL,2022-10-25
+Park22,VC205,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,34,1,100000,10,NULL,2022-10-25
+Park22,VC210,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,10,1,100000,10,NULL,2022-10-25
+Park22,VC211,BA.4/5 Spike,Table S2,Pseudovirus (VSV),NT50,662,1,100000,10,NULL,2022-10-25
+Park22,VC201,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,337,1,100000,10,NULL,2022-10-25
+Park22,VC202,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,2185,1,100000,10,NULL,2022-10-25
+Park22,VC203,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,2222,1,100000,10,NULL,2022-10-25
+Park22,VC204,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,4262,1,100000,10,NULL,2022-10-25
+Park22,VC206,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,2510,1,100000,10,NULL,2022-10-25
+Park22,VC207,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,19167,1,100000,10,NULL,2022-10-25
+Park22,VC208,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,4401,1,100000,10,NULL,2022-10-25
+Park22,VC209,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,8192,1,100000,10,NULL,2022-10-25
+Park22,VC205,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,23,1,100000,10,NULL,2022-10-25
+Park22,VC210,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,10,1,100000,10,NULL,2022-10-25
+Park22,VC211,B.1.617.2 Spike,Table S2,Pseudovirus (VSV),NT50,501,1,100000,10,NULL,2022-10-25
+Park22,VC201,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,114,1,100000,10,NULL,2022-10-25
+Park22,VC202,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,162,1,100000,10,NULL,2022-10-25
+Park22,VC203,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,264,1,100000,10,NULL,2022-10-25
+Park22,VC204,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,160,1,100000,10,NULL,2022-10-25
+Park22,VC206,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,100,1,100000,10,NULL,2022-10-25
+Park22,VC207,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,132,1,100000,10,NULL,2022-10-25
+Park22,VC208,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,126,1,100000,10,NULL,2022-10-25
+Park22,VC209,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,368,1,100000,10,NULL,2022-10-25
+Park22,VC205,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,145,1,100000,10,NULL,2022-10-25
+Park22,VC210,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,31,1,100000,10,NULL,2022-10-25
+Park22,VC211,SARS-CoV Spike,Table S2,Pseudovirus (VSV),NT50,86,1,100000,10,NULL,2022-10-25
+Park22,Sotrovimab,S:614G,Table S3,Pseudovirus (VSV),IC50,55.15,1,10000,0.1,ng/ml,2022-10-25
+Park22,Sotrovimab,S:371L+373P+375F,Table S3,Pseudovirus (VSV),IC50,72.25,1,10000,0.1,ng/ml,2022-10-25
+Park22,Sotrovimab,S:371F+373P+375F,Table S3,Pseudovirus (VSV),IC50,207.48,1,10000,0.1,ng/ml,2022-10-25
+Park22,Sotrovimab,Wuhan-Hu-1,Fig S12A,Virus isolate,IC50,49.8,1,10000,0.1,ng/ml,2022-10-25
+Park22,S2X324,Wuhan-Hu-1,Fig S12A,Virus isolate,IC50,2.72,1,10000,0.1,ng/ml,2022-10-25
+Park22,Sotrovimab,hCoV-19/USA/MD-HP20874-PIDUYWZOWA/2021,Fig S12A,Virus isolate,IC50,169.2,1,10000,0.1,ng/ml,2022-10-25
+Park22,S2X324,hCoV-19/USA/MD-HP20874-PIDUYWZOWA/2021,Fig S12A,Virus isolate,IC50,3.68,1,10000,0.1,ng/ml,2022-10-25
+Park22,Sotrovimab,hCoV-19/USA/MD-HP24556-PIDGTQRIGP/2022,Fig S12A,Virus isolate,IC50,885.5,1,10000,0.1,ng/ml,2022-10-25
+Park22,S2X324,hCoV-19/USA/MD-HP24556-PIDGTQRIGP/2022,Fig S12A,Virus isolate,IC50,2.78,1,10000,0.1,ng/ml,2022-10-25
+Park22,Sotrovimab,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Fig S12A,Virus isolate,IC50,2650.7,1,10000,0.1,ng/ml,2022-10-25
+Park22,S2X324,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022,Fig S12A,Virus isolate,IC50,3.86,1,10000,0.1,ng/ml,2022-10-25
+Park22,Sotrovimab,hCoV-19/USA/COR-22-063113/2022,Fig S12A,Virus isolate,IC50,1001.2,1,10000,0.1,ng/ml,2022-10-25
+Park22,S2X324,hCoV-19/USA/COR-22-063113/2022,Fig S12A,Virus isolate,IC50,2.46,1,10000,0.1,ng/ml,2022-10-25
+Park22,Sotrovimab,hCoV-19/USA/NY-MSHSPSP-PV56475/2022,Fig S12A,Virus isolate,IC50,1896.7,1,10000,0.1,ng/ml,2022-10-25
+Park22,LY-CoV555+016,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,17,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV555+016,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV555+016,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV555+016,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV555+016,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV555+016,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV555+016,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,CT-P59,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,1.5,1,10000,1,ng/ml,2022-10-25
+Park22,CT-P59,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,CT-P59,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,CT-P59,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,CT-P59,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,CT-P59,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,CT-P59,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,85,1,10000,1,ng/ml,2022-10-25
+Park22,ADI-58125,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,10,1,10000,1,ng/ml,2022-10-25
+Park22,ADI-58125,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,2053,1,10000,1,ng/ml,2022-10-25
+Park22,ADI-58125,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,ADI-58125,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,ADI-58125,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,ADI-58125,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,ADI-58125,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,REGN10987+10933,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-10-25
+Park22,REGN10987+10933,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,REGN10987+10933,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,3366,1,10000,1,ng/ml,2022-10-25
+Park22,REGN10987+10933,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,REGN10987+10933,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,REGN10987+10933,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,3366,1,10000,1,ng/ml,2022-10-25
+Park22,REGN10987+10933,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,8139,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,1913,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,5717,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,4465,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,58,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2130,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2130,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,2821,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2130,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2130,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,37,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2130,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,62,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2130,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,15,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2130,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,62,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196+2130,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196+2130,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,316,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196+2130,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,22,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196+2130,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,86,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196+2130,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,122,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196+2130,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,27,1,10000,1,ng/ml,2022-10-25
+Park22,COV2-2196+2130,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,52,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV1404,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV1404,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV1404,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV1404,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV1404,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV1404,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,1,1,10000,1,ng/ml,2022-10-25
+Park22,LY-CoV1404,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,7,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,5,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,15,1,10000,1,ng/ml,2022-10-25
+Park22,Sotrovimab,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,69,1,10000,1,ng/ml,2022-10-25
+Park22,Sotrovimab,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,156,1,10000,1,ng/ml,2022-10-25
+Park22,Sotrovimab,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,1013,1,10000,1,ng/ml,2022-10-25
+Park22,Sotrovimab,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,434,1,10000,1,ng/ml,2022-10-25
+Park22,Sotrovimab,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,1603,1,10000,1,ng/ml,2022-10-25
+Park22,Sotrovimab,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,1126,1,10000,1,ng/ml,2022-10-25
+Park22,Sotrovimab,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,597,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,69,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,576,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,3028,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,450,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,1252,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,1847,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,2629,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,2203,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,1847,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,2203,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,Wuhan-Hu-1,Fig 1A,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,BA.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,15,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,BA.2 Spike,Fig 1A,Pseudovirus (VSV),IC50,69,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,BA.3 Spike,Fig 1A,Pseudovirus (VSV),IC50,65,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,BA.4/5 Spike,Fig 1A,Pseudovirus (VSV),IC50,3986,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,BA.2.12.1 Spike,Fig 1A,Pseudovirus (VSV),IC50,27,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,BA.2.75 Spike,Fig 1A,Pseudovirus (VSV),IC50,22,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,BA.4 Spike:+N658S,Fig 1B,Pseudovirus (VSV),IC50,2546,1,10000,1,ng/ml,2022-10-25
+Park22,S2H97,BA.4 Spike:+V3G,Fig 1B,Pseudovirus (VSV),IC50,2546,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,BA.4 Spike:+N658S,Fig 1B,Pseudovirus (VSV),IC50,24621,1,10000,1,ng/ml,2022-10-25
+Park22,S2X259,BA.4 Spike:+V3G,Fig 1B,Pseudovirus (VSV),IC50,46415,1,10000,1,ng/ml,2022-10-25
+Park22,Sotrovimab,BA.4 Spike:+V3G,Fig 1B,Pseudovirus (VSV),IC50,1885,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,BA.4 Spike:+N658S,Fig 1B,Pseudovirus (VSV),IC50,5484,1,10000,1,ng/ml,2022-10-25
+Park22,S2K146,BA.4 Spike:+V3G,Fig 1B,Pseudovirus (VSV),IC50,4199,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,BA.4 Spike:+N658S,Fig 1B,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,BA.4 Spike:+V3G,Fig 1B,Pseudovirus (VSV),IC50,3,1,10000,1,ng/ml,2022-10-25
+Park22,S2X324,S:439K+614G,Table S9,Pseudovirus (VSV),IC50,1.4,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:440Y+614G,Table S9,Pseudovirus (VSV),IC50,1.6,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:440D+614G,Table S9,Pseudovirus (VSV),IC50,3,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:440K+614G,Table S9,Pseudovirus (VSV),IC50,1.5,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:444E+614G,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:444D+614G,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:444N+614G,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:444T+614G,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:445D+614G,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:445T+614G,Table S9,Pseudovirus (VSV),IC50,17.1,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:445A+614G,Table S9,Pseudovirus (VSV),IC50,26.9,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:445F+614G,Table S9,Pseudovirus (VSV),IC50,8.4,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:446V+614G,Table S9,Pseudovirus (VSV),IC50,27.9,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:446I+614G,Table S9,Pseudovirus (VSV),IC50,353.5,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:447S+614G,Table S9,Pseudovirus (VSV),IC50,7.5,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:448K+614G,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:449N+614G,Table S9,Pseudovirus (VSV),IC50,1.2,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:450D+614G,Table S9,Pseudovirus (VSV),IC50,4.4,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:499S+614G,Table S9,Pseudovirus (VSV),IC50,7.8,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:499H+614G,Table S9,Pseudovirus (VSV),IC50,714.2,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:499R+614G,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:501Y+614G,Table S9,Pseudovirus (VSV),IC50,2,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:501T+614G,Table S9,Pseudovirus (VSV),IC50,2.8,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,S:503I+614G,Table S9,Pseudovirus (VSV),IC50,1.5,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:-N440K,Table S9,Pseudovirus (VSV),IC50,3,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+K444E,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+K444D,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+K444N,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+K444M,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+K444T,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+K444R,Table S9,Pseudovirus (VSV),IC50,56.4,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+V445D,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+V445T,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+V445A,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+V445F,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:-G446S,Table S9,Pseudovirus (VSV),IC50,2.5,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:+N450D,Table S9,Pseudovirus (VSV),IC50,7,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:-Q498R,Table S9,Pseudovirus (VSV),IC50,18.1,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.1 Spike:-N501Y,Table S9,Pseudovirus (VSV),IC50,4.3,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+N440Y,Table S9,Pseudovirus (VSV),IC50,4,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+N440D,Table S9,Pseudovirus (VSV),IC50,5.7,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:-N440K,Table S9,Pseudovirus (VSV),IC50,3.6,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+K444E,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+K444D,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+K444N,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+K444M,Table S9,Pseudovirus (VSV),IC50,47.9,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+K444T,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+K444R,Table S9,Pseudovirus (VSV),IC50,5.1,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+V445D,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+V445T,Table S9,Pseudovirus (VSV),IC50,33.7,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+V445A,Table S9,Pseudovirus (VSV),IC50,43.1,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+V445F,Table S9,Pseudovirus (VSV),IC50,267,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+G446V,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+G446I,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:446S,Table S9,Pseudovirus (VSV),IC50,6,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+G447S,Table S9,Pseudovirus (VSV),IC50,26.2,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+N448K,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+Y449N,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+N450D,Table S9,Pseudovirus (VSV),IC50,11.6,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:-Q498R,Table S9,Pseudovirus (VSV),IC50,3.9,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+P499S,Table S9,Pseudovirus (VSV),IC50,67.6,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+P499H,Table S9,Pseudovirus (VSV),IC50,2500,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+N501T,Table S9,Pseudovirus (VSV),IC50,2.8,1,2500,1,ng/ml,2022-10-25
+Park22,S2X324,BA.2 Spike:+V503I,Table S9,Pseudovirus (VSV),IC50,4.5,1,2500,1,ng/ml,2022-10-25
