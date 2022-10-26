@@ -1,0 +1,35 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Scherer22,CC12.1,S:614G+677P,Fig 10B,Pseudovirus,IC50,11,1,10000,1,ng/ml,2022-10-21
+Scherer22,CC12.1,S:272S+493R+614G,Fig 10B,Pseudovirus,IC50,42,1,10000,1,ng/ml,2022-10-21
+Scherer22,CC12.1,S:494P+614G,Fig 10B,Pseudovirus,IC50,18,1,10000,1,ng/ml,2022-10-21
+Scherer22,CC12.1,S:484K+494P+614G,Fig 10B,Pseudovirus,IC50,10,1,10000,1,ng/ml,2022-10-21
+Scherer22,CC12.1,S:143del+144del+145D+484Q+614G,Fig 10B,Pseudovirus,IC50,22,1,10000,1,ng/ml,2022-10-21
+Scherer22,CC12.1,hCoV-19/USA/GA-EHC-769Q/2021 Spike,Fig 10B,Pseudovirus,IC50,17,1,10000,1,ng/ml,2022-10-21
+Scherer22,CC12.1,Wuhan-Hu-1,Fig 10B,Pseudovirus,IC50,31,1,10000,1,ng/ml,2022-10-21
+Scherer22,P1_D37_serum,S:614G+677P,Fig 11A,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P1_D37_serum,Wuhan-Hu-1,Fig 11A,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D33_serum,S:272S+493R+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D33_serum,S:494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D33_serum,S:484K+494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D33_serum,Wuhan-Hu-1,Fig 11B,Pseudovirus,NT50,7000,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D41_serum,S:272S+493R+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D41_serum,S:494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D41_serum,S:484K+494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D41_serum,Wuhan-Hu-1,Fig 11B,Pseudovirus,NT50,3000,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D55_serum,S:272S+493R+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D55_serum,S:494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D55_serum,S:484K+494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D55_serum,Wuhan-Hu-1,Fig 11B,Pseudovirus,NT50,1000,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D66_serum,S:272S+493R+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D66_serum,S:494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D66_serum,S:484K+494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D66_serum,Wuhan-Hu-1,Fig 11B,Pseudovirus,NT50,600,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D77_serum,S:272S+493R+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D77_serum,S:494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D77_serum,S:484K+494P+614G,Fig 11B,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P2_D77_serum,Wuhan-Hu-1,Fig 11B,Pseudovirus,NT50,900,1,100000,30,NULL,2022-10-21
+Scherer22,P3_D55_serum,S:143del+144del+145D+484Q+614G,Fig 11C,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P3_D55_serum,Wuhan-Hu-1,Fig 11C,Pseudovirus,NT50,3000,1,100000,30,NULL,2022-10-21
+Scherer22,P3_D83_serum,S:143del+144del+145D+484Q+614G,Fig 11C,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21
+Scherer22,P3_D83_serum,Wuhan-Hu-1,Fig 11C,Pseudovirus,NT50,500,1,100000,30,NULL,2022-10-21
+Scherer22,P3_D83_serum,hCoV-19/USA/GA-EHC-769Q/2021 Spike,Fig 11C,Pseudovirus,NT50,30,1,100000,30,NULL,2022-10-21

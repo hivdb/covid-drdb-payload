@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Andres22,CG6227,Sotrovimab,=,2022-02-07,=,2022-02-07,500,mg,Table 1
+Andres22,CG6227,Remdesivir,=,2022-01-21,=,2022-01-23,NULL,NULL,Table 1
+Andres22,MP1795,Sotrovimab,=,2022-02-01,=,2022-02-01,500,mg,Table 1
+Andres22,PP7372,Remdesivir,=,2022-01-25,=,2022-01-29,NULL,NULL,Table 1
+Andres22,PP7372,Sotrovimab,=,2022-02-17,=,2022-02-17,500,mg,Table 1
+Andres22,RP3071,Sotrovimab,=,2022-02-15,=,2022-02-15,500,mg,Table 1
+Andres22,RP3071,Hyperimmune plasma,=,2022-01-23,=,2022-01-23,NULL,NULL,Table 1
+Andres22,RP3071,Hyperimmune plasma,=,2022-03-17,=,2022-03-17,NULL,NULL,Table 1
+Andres22,VC3851,Remdesivir,=,2022-01-16,=,2022-01-19,NULL,NULL,Table 1
+Andres22,VC3851,Sotrovimab,=,2021-01-19,=,2021-01-19,500,mg,Table 1
+Andres22,VC3851,Hyperimmune plasma,=,2022-01-28,=,2022-01-28,NULL,NULL,Table 1
