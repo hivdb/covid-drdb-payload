@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Choi22b,3dose,~,2021-09-20,Unknown vaccine,1,South Korea,NULL
+Choi22b,3dose,~,2021-10-18,Unknown vaccine,2,South Korea,NULL
+Choi22b,3dose,~,2022-03-31,NVX-CoV2373,3,South Korea,NULL
+Choi22b,4dose,~,2021-03-06,Unknown vaccine,1,South Korea,NULL
+Choi22b,4dose,~,2021-05-22,Unknown vaccine,2,South Korea,NULL
+Choi22b,4dose,~,2021-11-06,Unknown vaccine,3,South Korea,NULL
+Choi22b,4dose,~,2022-03-31,NVX-CoV2373,4,South Korea,NULL
+Choi22b,4dose_CP,~,2021-03-11,Unknown vaccine,1,South Korea,NULL
+Choi22b,4dose_CP,~,2021-05-27,Unknown vaccine,2,South Korea,NULL
+Choi22b,4dose_CP,~,2021-11-02,Unknown vaccine,3,South Korea,NULL
+Choi22b,4dose_CP,~,2022-03-31,NVX-CoV2373,4,South Korea,NULL

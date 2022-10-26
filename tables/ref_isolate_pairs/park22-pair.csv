@@ -1,0 +1,88 @@
+ref_name,control_iso_name,iso_name
+Park22,S:614G,B.1.617.2 Spike
+Park22,S:614G,BA.1 Spike
+Park22,S:614G,BA.2 Spike
+Park22,S:614G,BA.2.12.1 Spike
+Park22,S:614G,BA.4/5 Spike
+Park22,S:614G,SARS-CoV Spike
+Park22,Wuhan-Hu-1,B.1.617.2 Spike
+Park22,Wuhan-Hu-1,BA.1 Spike
+Park22,Wuhan-Hu-1,BA.2 Spike
+Park22,Wuhan-Hu-1,BA.2.12.1 Spike
+Park22,Wuhan-Hu-1,BA.4/5 Spike
+Park22,Wuhan-Hu-1,SARS-CoV Spike
+Park22,S:614G,S:371L+373P+375F
+Park22,S:614G,S:371F+373P+375F
+Park22,Wuhan-Hu-1,hCoV-19/USA/MD-HP20874-PIDUYWZOWA/2021
+Park22,Wuhan-Hu-1,hCoV-19/USA/MD-HP24556-PIDGTQRIGP/2022
+Park22,Wuhan-Hu-1,hCoV-19/USA/MD-HP30386-PIDNBNVCCQ-2/2022
+Park22,Wuhan-Hu-1,hCoV-19/USA/COR-22-063113/2022
+Park22,Wuhan-Hu-1,hCoV-19/USA/NY-MSHSPSP-PV56475/2022
+Park22,Wuhan-Hu-1,BA.3 Spike
+Park22,Wuhan-Hu-1,BA.2.75 Spike
+Park22,Wuhan-Hu-1,BA.4 Spike:+N658S
+Park22,Wuhan-Hu-1,BA.4 Spike:+V3G
+Park22,Wuhan-Hu-1,S:439K+614G
+Park22,Wuhan-Hu-1,S:440Y+614G
+Park22,Wuhan-Hu-1,S:440D+614G
+Park22,Wuhan-Hu-1,S:440K+614G
+Park22,Wuhan-Hu-1,S:444E+614G
+Park22,Wuhan-Hu-1,S:444D+614G
+Park22,Wuhan-Hu-1,S:444N+614G
+Park22,Wuhan-Hu-1,S:444T+614G
+Park22,Wuhan-Hu-1,S:445D+614G
+Park22,Wuhan-Hu-1,S:445T+614G
+Park22,Wuhan-Hu-1,S:445A+614G
+Park22,Wuhan-Hu-1,S:445F+614G
+Park22,Wuhan-Hu-1,S:446V+614G
+Park22,Wuhan-Hu-1,S:446I+614G
+Park22,Wuhan-Hu-1,S:447S+614G
+Park22,Wuhan-Hu-1,S:448K+614G
+Park22,Wuhan-Hu-1,S:449N+614G
+Park22,Wuhan-Hu-1,S:450D+614G
+Park22,Wuhan-Hu-1,S:499S+614G
+Park22,Wuhan-Hu-1,S:499H+614G
+Park22,Wuhan-Hu-1,S:499R+614G
+Park22,Wuhan-Hu-1,S:501Y+614G
+Park22,Wuhan-Hu-1,S:501T+614G
+Park22,Wuhan-Hu-1,S:503I+614G
+Park22,Wuhan-Hu-1,BA.1 Spike:-N440K
+Park22,Wuhan-Hu-1,BA.1 Spike:+K444E
+Park22,Wuhan-Hu-1,BA.1 Spike:+K444D
+Park22,Wuhan-Hu-1,BA.1 Spike:+K444N
+Park22,Wuhan-Hu-1,BA.1 Spike:+K444M
+Park22,Wuhan-Hu-1,BA.1 Spike:+K444T
+Park22,Wuhan-Hu-1,BA.1 Spike:+K444R
+Park22,Wuhan-Hu-1,BA.1 Spike:+V445D
+Park22,Wuhan-Hu-1,BA.1 Spike:+V445T
+Park22,Wuhan-Hu-1,BA.1 Spike:+V445A
+Park22,Wuhan-Hu-1,BA.1 Spike:+V445F
+Park22,Wuhan-Hu-1,BA.1 Spike:-G446S
+Park22,Wuhan-Hu-1,BA.1 Spike:+N450D
+Park22,Wuhan-Hu-1,BA.1 Spike:-Q498R
+Park22,Wuhan-Hu-1,BA.1 Spike:-N501Y
+Park22,Wuhan-Hu-1,BA.2 Spike:+N440Y
+Park22,Wuhan-Hu-1,BA.2 Spike:+N440D
+Park22,Wuhan-Hu-1,BA.2 Spike:-N440K
+Park22,Wuhan-Hu-1,BA.2 Spike:+K444E
+Park22,Wuhan-Hu-1,BA.2 Spike:+K444D
+Park22,Wuhan-Hu-1,BA.2 Spike:+K444N
+Park22,Wuhan-Hu-1,BA.2 Spike:+K444M
+Park22,Wuhan-Hu-1,BA.2 Spike:+K444T
+Park22,Wuhan-Hu-1,BA.2 Spike:+K444R
+Park22,Wuhan-Hu-1,BA.2 Spike:+V445D
+Park22,Wuhan-Hu-1,BA.2 Spike:+V445T
+Park22,Wuhan-Hu-1,BA.2 Spike:+V445A
+Park22,Wuhan-Hu-1,BA.2 Spike:+V445F
+Park22,Wuhan-Hu-1,BA.2 Spike:+G446V
+Park22,Wuhan-Hu-1,BA.2 Spike:+G446I
+Park22,Wuhan-Hu-1,BA.2 Spike:446S
+Park22,Wuhan-Hu-1,BA.2 Spike:+G447S
+Park22,Wuhan-Hu-1,BA.2 Spike:+N448K
+Park22,Wuhan-Hu-1,BA.2 Spike:+Y449N
+Park22,Wuhan-Hu-1,BA.2 Spike:+N450D
+Park22,Wuhan-Hu-1,BA.2 Spike:-Q498R
+Park22,Wuhan-Hu-1,BA.2 Spike:+P499S
+Park22,Wuhan-Hu-1,BA.2 Spike:+P499H
+Park22,Wuhan-Hu-1,BA.2 Spike:+N501T
+Park22,Wuhan-Hu-1,BA.2 Spike:+V503I
