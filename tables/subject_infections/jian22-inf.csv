@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Jian22,CoronaVac_3dose_BA1_CP,~,2022-01-13,Omicron/BA.1,China,NULL,NULL,NULL
+Jian22,CoronaVac_3dose_BA2_CP,~,2022-05-10,Omicron/BA.2,China,NULL,NULL,NULL
+Jian22,CoronaVac_3dose_BA5_CP,~,2022-07-05,Omicron/BA.5,China,NULL,NULL,NULL
