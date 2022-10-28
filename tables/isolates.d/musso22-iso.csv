@@ -1,0 +1,4 @@
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+Patient_nasal_swab_1,Alpha,FALSE,NULL,NULL,NULL,TRUE
+Patient_nasal_swab_2,Alpha,FALSE,NULL,NULL,NULL,TRUE
+Patient_lung_tissue,B.1.533,FALSE,NULL,NULL,NULL,TRUE

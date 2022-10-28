@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
+Musso22,Patient,=,2021-05-10,Patient_nasal_swab_1,OP,FALSE,Italy,NULL
+Musso22,Patient,=,2021-05-14,Patient_nasal_swab_2,OP,FALSE,Italy,NULL
+Musso22,Patient,=,2021-05-14,Patient_lung_tissue,LT,FALSE,Italy,NULL
