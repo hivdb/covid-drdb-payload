@@ -1,3 +1,3 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Iketani22b,Nirmatrelvir,Wuhan-Hu-1,Figure 2L,NULL,EC50,53,1,10000,0.64,nM,2022-11-03
-Iketani22b,Nirmatrelvir,Wuhan-Hu-1+3CLpro:E166V,Figure 2L,NULL,EC50,14080,1,10000,0.64,nM,2022-11-03
+Iketani22b,Nirmatrelvir,Wuhan-Hu-1,Figure 2L,SARS-CoV-2 recombinant,EC50,53,1,10000,0.64,nM,2022-11-03
+Iketani22b,Nirmatrelvir,Wuhan-Hu-1+3CLpro:E166V,Figure 2L,SARS-CoV-2 recombinant,EC50,14080,1,10000,0.64,nM,2022-11-03
