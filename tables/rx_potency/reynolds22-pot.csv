@@ -1,0 +1,552 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Reynolds22,ID1_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,14091.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID1_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,7175.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID1_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2007.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID1_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,512.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID1_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,3117.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID1_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,263.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,13297.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,7857.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,10032.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1258.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1648.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,572.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,15031.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,170.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,31559.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,140.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1538.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID2_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID4_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,5383.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID4_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,3481.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID4_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1204.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID4_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,295.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID4_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,651.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID4_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID5_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,44350.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID5_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,5967.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID5_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,75195.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID5_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,11803.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID5_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,14392.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID5_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,195.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID6_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,16042.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID6_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1735.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID6_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2320.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID6_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4525.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID6_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2339.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID6_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID7_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,138214.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID7_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,4554.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID7_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,74697.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID7_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,6538.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID7_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,877.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID7_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,39644.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1930.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,134716.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,6979.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,779.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,4357.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,94001.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1719.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,8372.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,211309.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID8_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID11_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,3294.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID11_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,35050.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID11_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,38687.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID11_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,9963.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID11_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,75898.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID11_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,2595.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID12_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,8265.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID12_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,29939.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID12_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,6725.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID12_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,117.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID12_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,669.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID12_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID13_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,8210.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID13_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,31097.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID13_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,23956.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID13_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4133.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID13_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,65115.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID13_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1429.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID15_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,39277.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID15_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,30893.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID15_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,9221.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID15_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,33998.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID15_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,10240.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID15_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,19213.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID17_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,91064.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID17_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,7579.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID17_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,86043.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID17_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,8245.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID17_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,28751.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID17_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1166.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID19_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,4655.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID19_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,28121.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID19_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,17281.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID19_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,5402.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID19_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,40940.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID19_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1259.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID23_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,25484.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID23_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,65211.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID23_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,17201.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID23_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,9974.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID23_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,15792.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID23_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,3337.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID24_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,4019.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID24_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,71726.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID24_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,90390.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID24_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,250184.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID24_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,14602.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID24_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,2623.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID25_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,21033.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID25_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,91342.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID25_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,31354.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID25_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,23034.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID25_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,184787.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID25_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,13061.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID26_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,26702.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID26_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,21824.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID26_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2348.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID26_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,10102.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID26_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,7949.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID26_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,4327.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID27_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,56802.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID27_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,7600.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID27_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,119599.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID27_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,6121.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID27_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1360.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID27_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,12847.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID28_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,29218.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID28_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,29902.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID28_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,3770.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID28_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,13624.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID28_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,5060.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID28_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,10626.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,136510.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,9739.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,276288.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,7235.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,16200.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,256.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,8446.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,5380.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1610.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,881.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2751.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID29_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID30_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,1482.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID30_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,29278.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID30_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,45888.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID30_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,21413.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID30_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,7377.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID30_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,515.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,28912.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,3002.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,158577.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,689.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,3941.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,1856.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,4005.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,595.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,607.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,440.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID31_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,503.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,22134.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,61148.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,18410.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,3533.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,4883.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,349.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,13737.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,7935.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1217.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,866.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2015.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID35_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID36_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,17304.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID36_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,13487.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID36_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,5438.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID36_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,3208.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID36_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2308.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID36_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,566.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID37_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,11540.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID37_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,56300.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID37_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,15862.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID37_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,5055.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID37_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,4251.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID37_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,641.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID38_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,78338.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID38_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,86643.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID38_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,11548.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID38_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4455.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID38_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,12684.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID38_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,3025.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID41_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,20820.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID41_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,47214.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID41_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,20330.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID41_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,32302.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID41_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2539.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID41_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,909.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID43_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,21744.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID43_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,25963.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID43_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,3837.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID43_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,6595.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID43_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2549.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID43_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,5844.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,4871.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1365.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1388.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,3060.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1420.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,339.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID44_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID45_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,11013.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID45_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1724.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID45_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2399.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID45_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,5144.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID45_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1042.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID45_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,230.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID51_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,28768.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID51_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,4559.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID51_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,179177.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID51_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,2274.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID51_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1058.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID51_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID64_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,250821.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID64_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,157851.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID64_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,27634.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID64_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4398.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID64_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,24334.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID64_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,3302.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,7072.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,42554.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,87833.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,62678.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,9027.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,4547.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,15031.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,170.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,31559.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,140.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1538.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID70_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID72_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,16178.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID72_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,42895.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID72_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,10772.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID72_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,2653.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID72_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,8424.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID72_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,591.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID74_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,7929.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID74_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,33807.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID74_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,30316.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID74_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,38068.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID74_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,5657.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID74_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,948.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID77_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,19842.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID77_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,14403.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID77_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,775.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID77_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,2226.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID77_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,3732.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID77_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,775.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID79_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,102900.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID79_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1190.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID79_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,4974.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID79_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,10289.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID79_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2750.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID79_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,611.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID82_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,45316.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID82_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,23629.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID82_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1969.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID82_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1511.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID82_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2552.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID82_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID83_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,10141.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID83_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,7301.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID83_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2610.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID83_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1237.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID83_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1753.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID83_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1089.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID86_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,44065.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID86_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,39295.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID86_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,5407.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID86_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,3238.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID86_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,8024.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID86_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,380.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID87_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,170611.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID87_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,29274.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID87_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,6677.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID87_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1727.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID87_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,5545.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID87_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,422.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID89_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,7719.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID89_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,6706.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID89_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,750.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID89_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4111.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID89_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1885.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID89_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,2319.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID91_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,5930.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID91_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID91_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,13038.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID91_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1053.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID91_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,693.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID91_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,40240.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,37339.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,6647.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,6037.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,17691.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1503.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,11044.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,5597.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,740.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,382.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1319.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID92_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,1954.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,9810.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,10823.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,8656.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1315.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,349.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,26473.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,17199.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,5071.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,7674.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID93_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID94_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,4637.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID94_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,27485.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID94_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2832.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID94_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,8060.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID94_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2940.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID94_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1397.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,5165.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,5722.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,5508.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4016.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,512.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,5449.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,4744.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1460.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,668.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1122.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID96_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID97_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,90851.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID97_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,39740.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID97_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,5292.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID97_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4747.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID97_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,5248.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID97_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,625.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID98_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,49866.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID98_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,28710.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID98_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,6743.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID98_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,9631.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID98_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,5003.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID98_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1143.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID100_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,38092.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID100_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,50983.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID100_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,36730.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID100_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,7112.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID100_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,9378.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID100_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1671.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID102_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,74178.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID102_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,39026.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID102_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,17657.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID102_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,16605.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID102_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,23112.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID102_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,2192.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,6247.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,7458.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1416.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,3938.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2530.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,4916.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,9427.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,68579.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1212.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,23304.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,25721.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID103_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID105_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,19626.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID105_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,41120.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID105_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,238.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID105_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,6111.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID105_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,6793.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID105_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,238.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,155057.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,162845.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2793.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,18290.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,19605.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,2793.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,15287.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,41053.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,3385.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1277.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,3820.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID106_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,331.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID107_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,218.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID107_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,5715.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID107_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,3868.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID107_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,5257.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID107_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1290.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID107_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,388.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,11802.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,24389.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,7438.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,11128.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,3713.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,4969.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,25044.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,16426.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,4889.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,14955.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,109558.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID111_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID112_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,101.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID112_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,2638.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID112_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2693.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID112_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,2558.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID112_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,322.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID112_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID114_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,4591.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID114_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,2307.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID114_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,3663.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID114_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,5469.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID114_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,4586.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID114_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1266.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID119_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,6674.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID119_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,4565.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID119_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1261.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID119_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,5130.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID119_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,3830.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID119_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,7441.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID126_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,5110.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID126_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,4135.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID126_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,722.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID126_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,331.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID126_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,552.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID126_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,324.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,6725.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,21366.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,8206.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,10460.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,5104.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,5597.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,9935.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,8467.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,7684.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,706.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2316.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID128_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID129_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,971.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID129_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,15792.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID129_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,10259.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID129_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,10061.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID129_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,6088.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID129_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1507.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,10343.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,4076.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2397.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4803.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1424.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,2672.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,758.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1338.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,414.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID130_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,132.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,3816.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2437.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,10916.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,482.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,5152.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,16406.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,578.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID132_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,470.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,10511.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,15636.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,15872.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2856.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,833.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,654813.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,20770.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1958.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,491.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,3620.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID133_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID134_94wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,31611.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID134_94wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,7091.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID134_94wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1331.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID134_94wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,623.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID134_94wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,5206.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID134_94wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,1.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID136_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,2186.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID136_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,15402.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID136_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,5903.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID136_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,3766.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID136_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,780.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID136_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,609.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID141_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,524.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID141_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,6055.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID141_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,9938.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID141_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,16980.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID141_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1612.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID141_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,577.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID142_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,15443.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID142_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,9746.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID142_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2382.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID142_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,5476.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID142_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,6736.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID142_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,13142.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID143_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,2138.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID143_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,5964.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID143_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,29058.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID143_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,2563.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID143_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,783.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID143_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,616.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID146_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,4339.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID146_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,2842.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID146_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,1871.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID146_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,10507.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID146_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,3490.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID146_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,2142.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID147_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,2437.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID147_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,10123.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID147_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,14866.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID147_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,3329.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID147_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,2129.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID147_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,907.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID148_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,61077.3,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID148_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,82636.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID148_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,934.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID148_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,3131.0,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID148_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,9485.1,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID148_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,934.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID150_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,10008.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID150_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,10293.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID150_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,10352.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID150_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,6278.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID150_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,5126.8,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID150_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,7964.9,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID153_83wks,Wuhan-Hu-1,Supplementary Table 17,Virus isolate,NT50,14410.4,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID153_83wks,B.1.1.7 full genome,Supplementary Table 17,Virus isolate,NT50,3609.7,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID153_83wks,B.1.351 full genome,Supplementary Table 17,Virus isolate,NT50,2364.5,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID153_83wks,P.1 full genome,Supplementary Table 17,Virus isolate,NT50,4506.6,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID153_83wks,B.1.617.2 full genome,Supplementary Table 17,Virus isolate,NT50,1372.2,1,1000000,1,NULL,2022-10-24
+Reynolds22,ID153_83wks,B.1.1.529 full genome,Supplementary Table 17,Virus isolate,NT50,3637.8,1,1000000,1,NULL,2022-10-24
