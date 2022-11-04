@@ -15,6 +15,14 @@ Aggarwal21,VP_1wave_BNT162b,Human,NULL,3
 Aggarwal21,VP_1wave_ChAdOx1,Human,NULL,7
 Aggarwal21,VP_2wave_BNT162b,Human,NULL,5
 Aggarwal21,VP_2wave_ChAdOx1,Human,NULL,4
+Aggarwal22b,1st_wave_CP_BNT162b2_2dose,Human,NULL,3
+Aggarwal22b,1st_wave_CP_ChAdOx1_2dose,Human,NULL,7
+Aggarwal22b,2nd_wave_CP_BNT162b2_2dose,Human,NULL,5
+Aggarwal22b,2nd_wave_CP_ChAdOx1_2dose,Human,NULL,2
+Aggarwal22b,BNT162b2_3dose,Human,NULL,31
+Aggarwal22b,Omicron_wave_CP,Human,NULL,5
+Aggarwal22b,Omicron_wave_CP_BNT162b2_3dose,Human,NULL,5
+Aggarwal22b,Omicron_wave_CP_mRNA_1273_3dose,Human,NULL,4
 Agudelo22,CP_Gamma,Human,NULL,12
 Agudelo22,CP_WT,Human,NULL,26
 Ai21,BBIBP-CorV_2dose,Human,1987,10
@@ -593,7 +601,7 @@ Choi22,BNT162b2_3dose,Human,NULL,20
 Choi22b,3dose,Human,NULL,6
 Choi22b,4dose,Human,NULL,9
 Choi22b,4dose_CP,Human,NULL,9
-Choudhary21,ACTIV-2/A5401 trial,Human,NULL,111
+Choudhary22,ACTIV-2/A5401 trial,Human,NULL,111
 Chuang22,AZD1222_2dose_BNT162b2_1dose,Human,NULL,30
 Chuang22,AZD1222_2dose_MVC_COV1901_1dose,Human,NULL,30
 Chuang22,AZD1222_2dose_mRNA1273_1dose,Human,NULL,30
@@ -1597,6 +1605,10 @@ Jensen21,Patient 3,Human,1958,1
 Jensen21,Patient 4,Human,1952,1
 Jensen21,Patient 5,Human,1952,1
 Jensen21,Patient 6,Human,1955,1
+Jian22,CoronaVac_3dose,Human,NULL,40
+Jian22,CoronaVac_3dose_BA1_CP,Human,NULL,50
+Jian22,CoronaVac_3dose_BA2_CP,Human,NULL,39
+Jian22,CoronaVac_3dose_BA5_CP,Human,NULL,8
 Jiang22,Convidecia_1dose_Zifivax_2dose,Human,NULL,30
 Jiang22,CoronaVac_2dose_Convidecia_1dose_IM,Human,NULL,30
 Jiang22,CoronaVac_2dose_Convidecia_1dose_OI,Human,NULL,30
@@ -2209,6 +2221,7 @@ Mannar22,gamma_convalescent_wt__omicron,Human,NULL,13
 Maponga22,Adv HIV Patient,Human,1999,1
 Marot21,BNT162b2,Human,NULL,29
 Marot21,CP,Human,NULL,15
+Martinot22,Patient,Human,1944,1
 McCallum21b,BNT162b2,Human,NULL,14
 McCallum21b,BNT_infected,Human,NULL,5
 McCallum21b,BNT_uninfected,Human,NULL,13
@@ -2380,6 +2393,7 @@ Muik22b,mRNA_3dose_BA2_CP_49,Human,NULL,1
 Muik22b,mRNA_3dose_BA2_CP_50,Human,NULL,1
 Muik22b,mRNA_3dose_BA2_CP_51,Human,NULL,1
 Muller21,CP,Human,NULL,96
+Musso22,Patient,Human,1937,1
 Mykytyn22,BNT,Human,NULL,10
 Mykytyn22,Hamster_Alpha_inf,Hamster,NULL,4
 Mykytyn22,Hamster_B.1_inf,Hamster,NULL,4

@@ -1,0 +1,23 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhou22c,Nirmatrelvir_exp1,SARS-CoV-2/human/DNK/DK-AHH1/2020,Figure S3,Virus isolate,EC50,3.7,1,18,0.702,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp1,SARS-CoV-2/human/DNK/DK-AHH1/2021,Figure S3,Virus isolate,EC50,4.1,1,18,0.702,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp1,SARS-CoV-2/human/DNK/DK-AHH3/2021,Figure S3,Virus isolate,EC50,5.4,1,18,0.702,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp1,SARS-CoV-2/human/DNK/DK-AHH4/2021,Figure S3,Virus isolate,EC50,2.6,1,18,0.702,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,SARS-CoV-2/human/DNK/DK-AHH1/2020,Figure S3,Virus isolate,EC50,4.4,1,18,0.702,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:L50F,Figure 1e,Virus isolate,EC50,9.3,1,1000,0.1,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:E166V,Figure 1e,Virus isolate,EC50,110,1,1000,0.1,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:L50F+E166V,Figure 1e,Virus isolate,EC50,149,1,1000,0.1,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:T21I,Figure 1e,Virus isolate,EC50,4.8,1,1000,0.1,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:T304I,Figure 1e,Virus isolate,EC50,9.2,1,1000,0.1,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:T21I+T304I,Figure 1e,Virus isolate,EC50,13.2,1,1000,0.1,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:A173V,Figure 1e,Virus isolate,EC50,7.4,1,1000,0.1,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:L50F+A173V,Figure 1e,Virus isolate,EC50,16,1,1000,0.1,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,SARS-CoV-2/human/DNK/DK-AHH1/2020,Figure S3,Virus isolate (A549-ACE2),EC50,0.08,1,200,0.01,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:L50F,Figure 1e,Virus isolate (A549-ACE2),EC50,0.12,1,200,0.01,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:E166V,Figure 1e,Virus isolate (A549-ACE2),EC50,23,1,200,0.01,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:L50F+E166V,Figure 1e,Virus isolate (A549-ACE2),EC50,6.4,1,200,0.01,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:T21I,Figure 1e,Virus isolate (A549-ACE2),EC50,0.12,1,200,0.01,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:T304I,Figure 1e,Virus isolate (A549-ACE2),EC50,0.2,1,200,0.01,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:T21I+T304I,Figure 1e,Virus isolate (A549-ACE2),EC50,0.27,1,200,0.01,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:A173V,Figure 1e,Virus isolate (A549-ACE2),EC50,0.19,1,200,0.01,µM,2022-11-03
+Zhou22c,Nirmatrelvir_exp2,Zhou22c 3CLpro:L50F+A173V,Figure 1e,Virus isolate (A549-ACE2),EC50,0.32,1,200,0.01,µM,2022-11-03
