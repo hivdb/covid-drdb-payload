@@ -1,47 +1,125 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Reynolds22,ID1,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID4,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID5,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID11,~,2021-12-27,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID13,~,2021-12-29,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID15,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID17,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID19,~,2021-12-20,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID23,~,2021-12-29,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID25,~,2021-12-22,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID26,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID27,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID28,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID29,~,2021-12-13,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID30,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID31,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID35,~,2021-12-20,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID36,~,2021-12-19,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID38,~,2021-12-18,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID41,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID43,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID51,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID64,~,2022-01-08,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID72,~,2021-12-21,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID74,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID77,~,2021-12-22,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID82,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID83,~,2021-12-19,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID86,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID87,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID92,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID94,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID96,~,2021-12-21,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID98,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID102,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID105,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID106,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID126,~,2022-01-15,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID128,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID129,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID130,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID142,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID146,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID148,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID150,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID153,~,2021-06-01,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID1,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID3,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID4,<,2022-01-01,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID5,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID9,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID11,<,2021-12-27,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID13,<,2021-12-29,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID14,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID15,<,2022-01-01,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID16,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID17,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID18,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID19,<,2021-12-20,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID20,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID21,<,2022-01-04,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID23,<,2021-12-29,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID25,<,2021-12-22,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID26,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID27,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID28,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID29,<,2021-12-13,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID29,<,2020-06-28,B.1 ,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID30,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID31,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID32,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID33,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID34,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID35,<,2021-12-20,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID35,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID38,<,2021-12-18,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID39,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID40,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID41,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID42,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID43,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID46,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID47,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID48,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID49,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID50,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID51,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID52,<,2021-12-20,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID52,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID53,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID54,<,2022-01-01,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID55,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID56,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID57,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID58,<,2021-12-28,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID58,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID60,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID61,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID62,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID63,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID64,<,2022-01-8,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID65,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID66,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID67,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID68,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID71,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID72,<,2021-12-21,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID73,<,2021-12-17,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID74,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID76,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID77,<,2021-12-22,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID78,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID80,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID82,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID83,<,2021-12-19,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID83,<,2020-9-20,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID84,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID85,<,2021-12-29,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID85,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID86,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID87,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID90,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID92,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID94,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID95,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID96,<,2021-12-21,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID96,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID98,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID100,<,2022-01-5,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID100,<,2021-7-11,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID102,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID104,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID105,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID106,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID108,<,2021-12-28,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID109,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID110,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID115,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID116,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID117,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID118,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID120,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID121,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID122,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID123,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID124,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID125,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID126,<,2022-01-15,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID126,<,2020-9-20,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID127,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID128,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID129,<,2020-9-20,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID130,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID131,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID135,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID137,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID139,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID140,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID142,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID144,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID145,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID146,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID148,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID149,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID150,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID151,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID152,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID153,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID154,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID155,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
