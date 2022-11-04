@@ -1,10 +1,8 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Reynolds22,ID1,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID4,<,2022-01-01,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID5,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID11,<,2021-12-27,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID13,<,2021-12-29,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID15,<,2022-01-01,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID17,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID19,<,2021-12-20,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID23,<,2021-12-29,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
@@ -28,7 +26,7 @@ Reynolds22,ID74,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID77,<,2021-12-22,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID82,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID83,<,2021-12-19,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID83,<,2020-9-20,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID83,<,2020-09-20,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID86,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID87,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID92,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
@@ -36,15 +34,14 @@ Reynolds22,ID94,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID96,<,2021-12-21,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID96,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID98,<,2021-10-03,Delta,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID100,<,2022-01-5,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID100,<,2021-7-11,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID102,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID105,<,2021-03-28,Unknown variant,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID106,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID126,<,2022-01-15,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID126,<,2020-9-20,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID126,<,2020-09-20,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID128,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
-Reynolds22,ID129,<,2020-9-20,B.1,United Kingdom,NULL,NULL,NULL
+Reynolds22,ID129,<,2020-09-20,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID130,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID142,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
 Reynolds22,ID146,<,2020-06-28,B.1,United Kingdom,NULL,NULL,NULL
