@@ -16858,6 +16858,73 @@ BA.4.6 Spike,S,764,K,NULL,NULL
 BA.4.6 Spike,S,796,Y,NULL,NULL
 BA.4.6 Spike,S,954,H,NULL,NULL
 BA.4.6 Spike,S,969,K,NULL,NULL
+BA.4.6 full genome,nsp1,135,R,NULL,NULL
+BA.4.6 full genome,nsp1,141,del,NULL,NULL
+BA.4.6 full genome,nsp1,142,del,NULL,NULL
+BA.4.6 full genome,nsp1,143,del,NULL,NULL
+BA.4.6 full genome,PLpro,24,I,NULL,NULL
+BA.4.6 full genome,PLpro,489,S,NULL,NULL
+BA.4.6 full genome,nsp4,264,F,NULL,NULL
+BA.4.6 full genome,nsp4,327,I,NULL,NULL
+BA.4.6 full genome,nsp4,492,I,NULL,NULL
+BA.4.6 full genome,_3CLpro,132,H,NULL,NULL
+BA.4.6 full genome,nsp6,106,del,NULL,NULL
+BA.4.6 full genome,nsp6,107,del,NULL,NULL
+BA.4.6 full genome,nsp6,108,del,NULL,NULL
+BA.4.6 full genome,RdRP,323,L,NULL,NULL
+BA.4.6 full genome,nsp13,392,C,NULL,NULL
+BA.4.6 full genome,nsp14,42,V,NULL,NULL
+BA.4.6 full genome,nsp15,112,I,NULL,NULL
+BA.4.6 full genome,S,19,I,NULL,NULL
+BA.4.6 full genome,S,24,S,NULL,NULL
+BA.4.6 full genome,S,25,del,NULL,NULL
+BA.4.6 full genome,S,26,del,NULL,NULL
+BA.4.6 full genome,S,27,del,NULL,NULL
+BA.4.6 full genome,S,69,del,NULL,NULL
+BA.4.6 full genome,S,70,del,NULL,NULL
+BA.4.6 full genome,S,142,D,NULL,NULL
+BA.4.6 full genome,S,213,G,NULL,NULL
+BA.4.6 full genome,S,339,D,NULL,NULL
+BA.4.6 full genome,S,346,T,NULL,NULL
+BA.4.6 full genome,S,371,F,NULL,NULL
+BA.4.6 full genome,S,373,P,NULL,NULL
+BA.4.6 full genome,S,375,F,NULL,NULL
+BA.4.6 full genome,S,376,A,NULL,NULL
+BA.4.6 full genome,S,405,N,NULL,NULL
+BA.4.6 full genome,S,408,S,NULL,NULL
+BA.4.6 full genome,S,417,N,NULL,NULL
+BA.4.6 full genome,S,440,K,NULL,NULL
+BA.4.6 full genome,S,452,R,NULL,NULL
+BA.4.6 full genome,S,477,N,NULL,NULL
+BA.4.6 full genome,S,478,K,NULL,NULL
+BA.4.6 full genome,S,484,A,NULL,NULL
+BA.4.6 full genome,S,486,V,NULL,NULL
+BA.4.6 full genome,S,498,R,NULL,NULL
+BA.4.6 full genome,S,501,Y,NULL,NULL
+BA.4.6 full genome,S,505,H,NULL,NULL
+BA.4.6 full genome,S,614,G,NULL,NULL
+BA.4.6 full genome,S,655,Y,NULL,NULL
+BA.4.6 full genome,S,658,S,NULL,NULL
+BA.4.6 full genome,S,679,K,NULL,NULL
+BA.4.6 full genome,S,681,H,NULL,NULL
+BA.4.6 full genome,S,764,K,NULL,NULL
+BA.4.6 full genome,S,796,Y,NULL,NULL
+BA.4.6 full genome,S,954,H,NULL,NULL
+BA.4.6 full genome,S,969,K,NULL,NULL
+BA.4.6 full genome,ORF3a,223,I,NULL,NULL
+BA.4.6 full genome,E,9,I,NULL,NULL
+BA.4.6 full genome,M,19,E,NULL,NULL
+BA.4.6 full genome,M,63,T,NULL,NULL
+BA.4.6 full genome,ORF6,61,L,NULL,NULL
+BA.4.6 full genome,ORF7b,11,F,NULL,NULL
+BA.4.6 full genome,N,13,L,NULL,NULL
+BA.4.6 full genome,N,31,del,NULL,NULL
+BA.4.6 full genome,N,32,del,NULL,NULL
+BA.4.6 full genome,N,33,del,NULL,NULL
+BA.4.6 full genome,N,151,S,NULL,NULL
+BA.4.6 full genome,N,203,K,NULL,NULL
+BA.4.6 full genome,N,204,R,NULL,NULL
+BA.4.6 full genome,N,413,R,NULL,NULL
 BA.4.7 Spike,S,19,I,NULL,NULL
 BA.4.7 Spike,S,24,S,NULL,NULL
 BA.4.7 Spike,S,25,del,NULL,NULL
