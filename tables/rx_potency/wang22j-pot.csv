@@ -1,22 +1,49 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Wang22j,mRNA_3dose,S:614G,Figure 1B,Pseudovirus (VSV),NT50,4351,14,100000,100,NULL,2022-09-20
-Wang22j,mRNA_3dose,BA.2 Spike,Figure 1B,Pseudovirus (VSV),NT50,823,14,100000,100,NULL,2022-09-20
-Wang22j,mRNA_3dose,BA.4/5 Spike,Figure 1B,Pseudovirus (VSV),NT50,363,14,100000,100,NULL,2022-09-20
-Wang22j,mRNA_3dose,BA.4.6 Spike,Figure 1B,Pseudovirus (VSV),NT50,366,14,100000,100,NULL,2022-09-20
-Wang22j,mRNA_3dose,BA.4.7 Spike,Figure 1B,Pseudovirus (VSV),NT50,463,14,100000,100,NULL,2022-09-20
-Wang22j,mRNA_3dose,BA.5.9 Spike,Figure 1B,Pseudovirus (VSV),NT50,542,14,100000,100,NULL,2022-09-20
-Wang22j,mRNA_3dose,BF.7 Spike,Figure 1B,Pseudovirus (VSV),NT50,369,14,100000,100,NULL,2022-09-20
-Wang22j,mRNA_3dose,BA.4/5 Spike:R346S,Figure 1B,Pseudovirus (VSV),NT50,366,14,100000,100,NULL,2022-09-20
-Wang22j,mRNA_3dose,BA.4/5 Spike:N658S,Figure 1B,Pseudovirus (VSV),NT50,529,14,100000,100,NULL,2022-09-20
-Wang22j,C1520,S:614G,Supplementary Figure 3,Pseudovirus (VSV),IC50,38,1,10000,1,ng/ml,2022-09-20
-Wang22j,C1520,BA.2 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-09-20
-Wang22j,C1520,BA.4/5 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,16,1,10000,1,ng/ml,2022-09-20
-Wang22j,C1520,BA.4.6 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,13,1,10000,1,ng/ml,2022-09-20
-Wang22j,C1520,BA.4.7 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,12,1,10000,1,ng/ml,2022-09-20
-Wang22j,C1520,BA.5.9 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,07,1,10000,1,ng/ml,2022-09-20
-Wang22j,C1520,BF.7 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,20,1,10000,1,ng/ml,2022-09-20
-Wang22j,C1520,BA.4/5 Spike:R346S,Supplementary Figure 3,Pseudovirus (VSV),IC50,07,1,10000,1,ng/ml,2022-09-20
-Wang22j,C1520,BA.4/5 Spike:N658S,Supplementary Figure 3,Pseudovirus (VSV),IC50,60,1,10000,1,ng/ml,2022-09-20
+Wang22j,mRNA_3dose,S:614G,Figure 1A,Pseudovirus (VSV),NT50,4351,14,100000,100,NULL,2022-09-20
+Wang22j,mRNA_3dose,BA.2 Spike,Figure 1A,Pseudovirus (VSV),NT50,823,14,100000,100,NULL,2022-09-20
+Wang22j,mRNA_3dose,BA.4/5 Spike,Figure 1A,Pseudovirus (VSV),NT50,363,14,100000,100,NULL,2022-09-20
+Wang22j,mRNA_3dose,BA.4.6 Spike,Figure 1A,Pseudovirus (VSV),NT50,366,14,100000,100,NULL,2022-09-20
+Wang22j,mRNA_3dose,BA.4.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,463,14,100000,100,NULL,2022-09-20
+Wang22j,mRNA_3dose,BA.5.9 Spike,Figure 1A,Pseudovirus (VSV),NT50,542,14,100000,100,NULL,2022-09-20
+Wang22j,mRNA_3dose,BF.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,369,14,100000,100,NULL,2022-09-20
+Wang22j,mRNA_3dose,BA.4/5 Spike:R346S,Figure 1A,Pseudovirus (VSV),NT50,366,14,100000,100,NULL,2022-09-20
+Wang22j,mRNA_3dose,BA.4/5 Spike:N658S,Figure 1A,Pseudovirus (VSV),NT50,529,14,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,S:614G,Figure 1A,Pseudovirus (VSV),NT50,7280,13,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,BA.2 Spike,Figure 1A,Pseudovirus (VSV),NT50,2142,13,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,BA.4/5 Spike,Figure 1A,Pseudovirus (VSV),NT50,647,13,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,BA.4.6 Spike,Figure 1A,Pseudovirus (VSV),NT50,686,13,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,BA.4.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,655,13,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,BA.5.9 Spike,Figure 1A,Pseudovirus (VSV),NT50,718,13,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,BF.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,555,13,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,BA.4/5 Spike:R346S,Figure 1A,Pseudovirus (VSV),NT50,561,13,100000,100,NULL,2022-09-20
+Wang22j,BA.1_BTI,BA.4/5 Spike:N658S,Figure 1A,Pseudovirus (VSV),NT50,920,13,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,S:614G,Figure 1A,Pseudovirus (VSV),NT50,4431,11,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,BA.2 Spike,Figure 1A,Pseudovirus (VSV),NT50,1715,11,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,BA.4/5 Spike,Figure 1A,Pseudovirus (VSV),NT50,884,11,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,BA.4.6 Spike,Figure 1A,Pseudovirus (VSV),NT50,690,11,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,BA.4.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,815,11,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,BA.5.9 Spike,Figure 1A,Pseudovirus (VSV),NT50,687,11,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,BF.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,699,11,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,BA.4/5 Spike:R346S,Figure 1A,Pseudovirus (VSV),NT50,648,11,100000,100,NULL,2022-09-20
+Wang22j,BA.2_BTI,BA.4/5 Spike:N658S,Figure 1A,Pseudovirus (VSV),NT50,890,11,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,S:614G,Figure 1A,Pseudovirus (VSV),NT50,10626,8,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,BA.2 Spike,Figure 1A,Pseudovirus (VSV),NT50,5435,8,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,BA.4/5 Spike,Figure 1A,Pseudovirus (VSV),NT50,3395,8,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,BA.4.6 Spike,Figure 1A,Pseudovirus (VSV),NT50,3140,8,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,BA.4.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,3316,8,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,BA.5.9 Spike,Figure 1A,Pseudovirus (VSV),NT50,2959,8,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,BF.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,2953,8,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,BA.4/5 Spike:R346S,Figure 1A,Pseudovirus (VSV),NT50,3262,8,100000,100,NULL,2022-09-20
+Wang22j,BA.4/5_BTI,BA.4/5 Spike:N658S,Figure 1A,Pseudovirus (VSV),NT50,4563,8,100000,100,NULL,2022-09-20
+Wang22j,C1520,S:614G,Supplementary Figure 3,Pseudovirus (VSV),IC50,3.8,1,10000,1,ng/ml,2022-11-07
+Wang22j,C1520,BA.2 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,1.3,1,10000,1,ng/ml,2022-11-07
+Wang22j,C1520,BA.4/5 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,1.6,1,10000,1,ng/ml,2022-11-07
+Wang22j,C1520,BA.4.6 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,1.3,1,10000,1,ng/ml,2022-11-07
+Wang22j,C1520,BA.4.7 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,1.3,1,10000,1,ng/ml,2022-11-07
+Wang22j,C1520,BA.5.9 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,0.7,1,10000,1,ng/ml,2022-11-07
+Wang22j,C1520,BF.7 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,2,1,10000,1,ng/ml,2022-11-07
+Wang22j,C1520,BA.4/5 Spike:R346S,Supplementary Figure 3,Pseudovirus (VSV),IC50,0.7,1,10000,1,ng/ml,2022-11-07
+Wang22j,C1520,BA.4/5 Spike:N658S,Supplementary Figure 3,Pseudovirus (VSV),IC50,0.6,1,10000,1,ng/ml,2022-11-07
 Wang22j,C1717,S:614G,Supplementary Figure 3,Pseudovirus (VSV),IC50,350,1,10000,1,ng/ml,2022-09-20
 Wang22j,C1717,BA.2 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,503,1,10000,1,ng/ml,2022-09-20
 Wang22j,C1717,BA.4/5 Spike,Supplementary Figure 3,Pseudovirus (VSV),IC50,271,1,10000,1,ng/ml,2022-09-20
