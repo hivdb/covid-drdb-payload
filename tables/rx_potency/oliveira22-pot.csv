@@ -1,0 +1,5 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Oliveira22,Nirmatrelvir,Wuhan-Hu-1,Figure 4d,FRET,IC50,14.2,1,2000,0.1,nM,2022-11-08
+Oliveira22,Nirmatrelvir,3CLpro:H172Y,Figure 4d,FRET,IC50,344.2,1,2000,0.1,nM,2022-11-08
+Oliveira22,Nirmatrelvir,Wuhan-Hu-1,Figure 4d,FRET,Kcat/Km,5355.3,1,NULL,NULL,s⁻¹M⁻¹,2022-11-08
+Oliveira22,Nirmatrelvir,3CLpro:H172Y,Figure 4d,FRET,Kcat/Km,863.3,1,NULL,NULL,s⁻¹M⁻¹,2022-11-08
