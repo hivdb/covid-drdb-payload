@@ -1,0 +1,8 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ullrich22,Nirmatrelvir,B.1.617.2 full genome,Figure 4b and table S2,Virus isolate,EC50,11.2,1,1000,0.1,nM,2022-11-07
+Ullrich22,Nirmatrelvir,3CLpro:G15S,Figure 4b and table S2,Virus isolate,EC50,10.3,1,1000,0.1,nM,2022-11-07
+Ullrich22,Nirmatrelvir,3CLpro:T21I,Figure 4b and table S2,Virus isolate,EC50,10.1,1,1000,0.1,nM,2022-11-07
+Ullrich22,Nirmatrelvir,3CLpro:L89F,Figure 4b and table S2,Virus isolate,EC50,10.5,1,1000,0.1,nM,2022-11-07
+Ullrich22,Nirmatrelvir,3CLpro:K90R,Figure 4b and table S2,Virus isolate,EC50,12.7,1,1000,0.1,nM,2022-11-07
+Ullrich22,Nirmatrelvir,3CLpro:P132H,Figure 4b and table S2,Virus isolate,EC50,12.2,1,1000,0.1,nM,2022-11-07
+Ullrich22,Nirmatrelvir,3CLpro:L205V,Figure 4b and table S2,Virus isolate,EC50,10.7,1,1000,0.1,nM,2022-11-07
