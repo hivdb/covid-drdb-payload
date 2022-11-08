@@ -1,0 +1,8 @@
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+FDA21d,Nirmatrelvir,WA1,3CLpro:G15S,"p. 24, para. 1",FRET,Ki,=,4.4,NULL,NULL,1,2022-11-08
+FDA21d,Nirmatrelvir,WA1,3CLpro:T135I,"p. 24, para. 1",FRET,Ki,=,3.5,NULL,NULL,1,2022-11-08
+FDA21d,Nirmatrelvir,WA1,3CLpro:S144A,"p. 24, para. 1",FRET,Ki,=,91.9,NULL,NULL,1,2022-11-08
+FDA21d,Nirmatrelvir,WA1,3CLpro:H164N,"p. 24, para. 1",FRET,Ki,=,6.4,NULL,NULL,1,2022-11-08
+FDA21d,Nirmatrelvir,WA1,3CLpro:H172Y,"p. 24, para. 1",FRET,Ki,=,233,NULL,NULL,1,2022-11-08
+FDA21d,Nirmatrelvir,WA1,3CLpro:Q189K,"p. 24, para. 1",FRET,Ki,=,65.4,NULL,NULL,1,2022-11-08
+FDA21d,Nirmatrelvir,WA1,3CLpro:D248E,"p. 24, para. 1",FRET,Ki,=,3.7,NULL,NULL,1,2022-11-08
