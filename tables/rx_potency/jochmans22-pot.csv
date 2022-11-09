@@ -2,18 +2,38 @@
 Jochmans22,ALG-097161,hCoV-19/Belgium/GHB-03021/2020,Table 1,Virus isolate,EC50,0.59,1,20,0.01,µM,2022-11-07
 Jochmans22,Nirmatrelvir,hCoV-19/Belgium/GHB-03021/2020,Table 1,Virus isolate,EC50,0.12,1,20,0.01,µM,2022-11-07
 Jochmans22,PF-00835231,hCoV-19/Belgium/GHB-03021/2020,Table 1,Virus isolate,EC50,0.19,1,20,0.01,µM,2022-11-07
-Jochmans22,ALG-097161,3CLpro:L50F+E166A+L167F,Table 1,Virus isolate,EC50,39,1,20,0.01,µM,2022-11-07
-Jochmans22,Nirmatrelvir,3CLpro:L50F+E166A+L167F,Table 1,Virus isolate,EC50,6.1,1,20,0.01,µM,2022-11-07
-Jochmans22,PF-00835231,3CLpro:L50F+E166A+L167F,Table 1,Virus isolate,EC50,4.4,1,20,0.01,µM,2022-11-07
-Jochmans22,ALG-097161,WA1,Table 2,Pseudovirus (VSV),EC50,0.6,1,20,0.01,µM,2022-11-07
-Jochmans22,Nirmatrelvir,WA1,Table 2,Pseudovirus (VSV),EC50,0.11,1,20,0.01,µM,2022-11-07
-Jochmans22,Ensitrelvir,WA1,Table 2,Pseudovirus (VSV),EC50,0.21,1,20,0.01,µM,2022-11-07
-Jochmans22,ALG-097161,3CLpro:L50F,Table 2,Pseudovirus (VSV),EC50,0.98,1,20,0.01,µM,2022-11-07
-Jochmans22,Nirmatrelvir,3CLpro:L50F,Table 2,Pseudovirus (VSV),EC50,0.16,1,20,0.01,µM,2022-11-07
-Jochmans22,Ensitrelvir,3CLpro:L50F,Table 2,Pseudovirus (VSV),EC50,0.24,1,20,0.01,µM,2022-11-07
-Jochmans22,ALG-097161,3CLpro:E166A+L167F,Table 2,Pseudovirus (VSV),EC50,2.9,1,20,0.01,µM,2022-11-07
-Jochmans22,Nirmatrelvir,3CLpro:E166A+L167F,Table 2,Pseudovirus (VSV),EC50,1.1,1,20,0.01,µM,2022-11-07
-Jochmans22,Ensitrelvir,3CLpro:E166A+L167F,Table 2,Pseudovirus (VSV),EC50,8,1,20,0.01,µM,2022-11-07
-Jochmans22,ALG-097161,3CLpro:L50F+E166A+L167F,Table 2,Pseudovirus (VSV),EC50,6.2,1,20,0.01,µM,2022-11-07
-Jochmans22,Nirmatrelvir,3CLpro:L50F+E166A+L167F,Table 2,Pseudovirus (VSV),EC50,3.2,1,20,0.01,µM,2022-11-07
-Jochmans22,Ensitrelvir,3CLpro:L50F+E166A+L167F,Table 2,Pseudovirus (VSV),EC50,9.3,1,20,0.01,µM,2022-11-07
+Jochmans22,ALG-097161,hCoV-19/Belgium/GHB-03021/2020+3CLpro:L50F+E166A+L167F,Table 1,Virus isolate,EC50,39,1,20,0.01,µM,2022-11-07
+Jochmans22,Nirmatrelvir,hCoV-19/Belgium/GHB-03021/2020+3CLpro:L50F+E166A+L167F,Table 1,Virus isolate,EC50,6.1,1,20,0.01,µM,2022-11-07
+Jochmans22,PF-00835231,hCoV-19/Belgium/GHB-03021/2020+3CLpro:L50F+E166A+L167F,Table 1,Virus isolate,EC50,4.4,1,20,0.01,µM,2022-11-07
+Jochmans22,ALG-097161,WA1,Table 2,Virus isolate,EC50,0.6,1,20,0.01,µM,2022-11-07
+Jochmans22,Nirmatrelvir,WA1,Table 2,Virus isolate,EC50,0.11,1,20,0.01,µM,2022-11-07
+Jochmans22,Ensitrelvir,WA1,Table 2,Virus isolate,EC50,0.21,1,20,0.01,µM,2022-11-07
+Jochmans22,ALG-097161,3CLpro:L50F,Table 2,Virus isolate,EC50,0.98,1,20,0.01,µM,2022-11-07
+Jochmans22,Nirmatrelvir,3CLpro:L50F,Table 2,Virus isolate,EC50,0.16,1,20,0.01,µM,2022-11-07
+Jochmans22,Ensitrelvir,3CLpro:L50F,Table 2,Virus isolate,EC50,0.24,1,20,0.01,µM,2022-11-07
+Jochmans22,ALG-097161,3CLpro:E166A+L167F,Table 2,Virus isolate,EC50,2.9,1,20,0.01,µM,2022-11-07
+Jochmans22,Nirmatrelvir,3CLpro:E166A+L167F,Table 2,Virus isolate,EC50,1.1,1,20,0.01,µM,2022-11-07
+Jochmans22,Ensitrelvir,3CLpro:E166A+L167F,Table 2,Virus isolate,EC50,8,1,20,0.01,µM,2022-11-07
+Jochmans22,ALG-097161,3CLpro:L50F+E166A+L167F,Table 2,Virus isolate,EC50,6.2,1,20,0.01,µM,2022-11-07
+Jochmans22,Nirmatrelvir,3CLpro:L50F+E166A+L167F,Table 2,Virus isolate,EC50,3.2,1,20,0.01,µM,2022-11-07
+Jochmans22,Ensitrelvir,3CLpro:L50F+E166A+L167F,Table 2,Virus isolate,EC50,9.3,1,20,0.01,µM,2022-11-07
+Jochmans22,ALG-097161,WA1,Table 3,Pseudovirus (VSV),EC50,1.7,1,100,0.01,µM,2022-11-08
+Jochmans22,Nirmatrelvir,WA1,Table 3,Pseudovirus (VSV),EC50,0.96,1,100,0.01,µM,2022-11-08
+Jochmans22,PF-00835231,WA1,Table 3,Pseudovirus (VSV),EC50,1.6,1,100,0.01,µM,2022-11-08
+Jochmans22,ALG-097161,3CLpro:L50F+E166A+L167F,Table 3,Pseudovirus (VSV),EC50,39,1,100,0.01,µM,2022-11-08
+Jochmans22,Nirmatrelvir,3CLpro:L50F+E166A+L167F,Table 3,Pseudovirus (VSV),EC50,27,1,100,0.01,µM,2022-11-08
+Jochmans22,PF-00835231,3CLpro:L50F+E166A+L167F,Table 3,Pseudovirus (VSV),EC50,11,1,100,0.01,µM,2022-11-08
+Jochmans22,ALG-097161,WA1,Table 4,FRET,IC50,14,1,10000,1,nM,2022-11-08
+Jochmans22,Nirmatrelvir,WA1,Table 4,FRET,IC50,23,1,10000,1,nM,2022-11-08
+Jochmans22,PF-00835231,WA1,Table 4,FRET,IC50,13,1,10000,1,nM,2022-11-08
+Jochmans22,Ensitrelvir,WA1,Table 4,FRET,IC50,25,1,10000,1,nM,2022-11-08
+Jochmans22,ALG-097161,3CLpro:E166A,Table 4,FRET,IC50,77,1,10000,1,nM,2022-11-08
+Jochmans22,Nirmatrelvir,3CLpro:E166A,Table 4,FRET,IC50,230,1,10000,1,nM,2022-11-08
+Jochmans22,PF-00835231,3CLpro:E166A,Table 4,FRET,IC50,27,1,10000,1,nM,2022-11-08
+Jochmans22,ALG-097161,3CLpro:L167F,Table 4,FRET,IC50,72,1,10000,1,nM,2022-11-08
+Jochmans22,Nirmatrelvir,3CLpro:L167F,Table 4,FRET,IC50,100,1,10000,1,nM,2022-11-08
+Jochmans22,PF-00835231,3CLpro:L167F,Table 4,FRET,IC50,48,1,10000,1,nM,2022-11-08
+Jochmans22,ALG-097161,3CLpro:L50F+E166A+L167F,Table 4,FRET,IC50,480,1,10000,1,nM,2022-11-08
+Jochmans22,Nirmatrelvir,3CLpro:L50F+E166A+L167F,Table 4,FRET,IC50,1600,1,10000,1,nM,2022-11-08
+Jochmans22,PF-00835231,3CLpro:L50F+E166A+L167F,Table 4,FRET,IC50,75,1,10000,1,nM,2022-11-08
+Jochmans22,Ensitrelvir,3CLpro:L50F+E166A+L167F,Table 4,FRET,IC50,2300,1,10000,1,nM,2022-11-08
