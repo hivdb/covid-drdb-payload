@@ -6,10 +6,10 @@ Ullrich22,Nirmatrelvir,3CLpro:L89F,Figure 4b and table S2,FRET,IC50,10.5,1,1000,
 Ullrich22,Nirmatrelvir,3CLpro:K90R,Figure 4b and table S2,FRET,IC50,12.7,1,1000,0.1,nM,2022-11-07
 Ullrich22,Nirmatrelvir,3CLpro:P132H,Figure 4b and table S2,FRET,IC50,12.2,1,1000,0.1,nM,2022-11-07
 Ullrich22,Nirmatrelvir,3CLpro:L205V,Figure 4b and table S2,FRET,IC50,10.7,1,1000,0.1,nM,2022-11-07
-Ullrich22,Nirmatrelvir,B.1.617.2 full genome,Figure 3b and table S1,FRET,Kcat/Km,0.016,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
-Ullrich22,Nirmatrelvir,3CLpro:G15S,Figure 3b and table S1,FRET,Kcat/Km,0.015,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
-Ullrich22,Nirmatrelvir,3CLpro:T21I,Figure 3b and table S1,FRET,Kcat/Km,0.01,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
-Ullrich22,Nirmatrelvir,3CLpro:L89F,Figure 3b and table S1,FRET,Kcat/Km,0.012,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
-Ullrich22,Nirmatrelvir,3CLpro:K90R,Figure 3b and table S1,FRET,Kcat/Km,0.009,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
-Ullrich22,Nirmatrelvir,3CLpro:P132H,Figure 3b and table S1,FRET,Kcat/Km,0.023,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
-Ullrich22,Nirmatrelvir,3CLpro:L205V,Figure 3b and table S1,FRET,Kcat/Km,0.015,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
+Ullrich22,FRET substrate,B.1.617.2 full genome,Figure 3b and table S1,FRET,Kcat/Km,0.016,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
+Ullrich22,FRET substrate,3CLpro:G15S,Figure 3b and table S1,FRET,Kcat/Km,0.015,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
+Ullrich22,FRET substrate,3CLpro:T21I,Figure 3b and table S1,FRET,Kcat/Km,0.01,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
+Ullrich22,FRET substrate,3CLpro:L89F,Figure 3b and table S1,FRET,Kcat/Km,0.012,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
+Ullrich22,FRET substrate,3CLpro:K90R,Figure 3b and table S1,FRET,Kcat/Km,0.009,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
+Ullrich22,FRET substrate,3CLpro:P132H,Figure 3b and table S1,FRET,Kcat/Km,0.023,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08
+Ullrich22,FRET substrate,3CLpro:L205V,Figure 3b and table S1,FRET,Kcat/Km,0.015,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-08

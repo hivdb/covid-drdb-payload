@@ -57,3 +57,19 @@ Noske22,Ensitrelvir,3CLpro:T190I,Table 2,FRET,Ki,21.6,1,NULL,NULL,nM,2022-11-08
 Noske22,Ensitrelvir,3CLpro:A191T,Table 2,FRET,Ki,34.6,1,NULL,NULL,nM,2022-11-08
 Noske22,Ensitrelvir,3CLpro:A191V,Table 2,FRET,Ki,30.7,1,NULL,NULL,nM,2022-11-08
 Noske22,Ensitrelvir,Wuhan-Hu-1,Table 2,FRET,Ki,8.9,1,NULL,NULL,nM,2022-11-08
+Noske22,FRET substrate,3CLpro:M49I,Table 1,FRET,Kcat/Km,2.5,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:M49T,Table 1,FRET,Kcat/Km,2.5,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:N142S,Table 1,FRET,Kcat/Km,1.7,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:N142D,Table 1,FRET,Kcat/Km,2.8,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:G143S,Table 1,FRET,Kcat/Km,0.04,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:M165I,Table 1,FRET,Kcat/Km,2.5,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:R188K,Table 1,FRET,Kcat/Km,2.8,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:R188S,Table 1,FRET,Kcat/Km,1.3,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:Q189K,Table 1,FRET,Kcat/Km,0.4,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:T190I,Table 1,FRET,Kcat/Km,2.4,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:A191T,Table 1,FRET,Kcat/Km,2.4,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:A191V,Table 1,FRET,Kcat/Km,1.8,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:A193S,Table 1,FRET,Kcat/Km,1.5,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:A193T,Table 1,FRET,Kcat/Km,1.4,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,3CLpro:A193V,Table 1,FRET,Kcat/Km,0.6,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
+Noske22,FRET substrate,Wuhan-Hu-1,Table 1,FRET,Kcat/Km,1.4,1,NULL,NULL,s⁻¹µM⁻¹,2022-11-09
