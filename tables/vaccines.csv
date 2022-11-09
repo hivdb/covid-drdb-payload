@@ -19,7 +19,7 @@ mRNA-1273.529,mRNA,Moderna,United States,3,17
 mRNA-1273 + mRNA-1273.529,mRNA,Moderna,United States,3,18
 BBV154,Viral vector,"Bharat Biotech, Washington University",India,2,19
 INO-4800,DNA,Inovio Pharmaceuticals,United States,2,20
-KCONVAC,Inactivated virus,Shenzhen Kangtai Biological Products ,China,3,21
+KCONVAC,Inactivated virus,Shenzhen Kangtai Biological Products,China,3,21
 Convidecia,Viral vector,CanSino Biologics,China,1,22
 Sputnik Light,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,23
 Nanocovax,Protein subunit,Nanogen Pharmaceutical Biotechnology JSC,Vietnam,2,24
@@ -54,24 +54,27 @@ AZD1222 + mRNA,Mixed,,,3,52
 BNT162b2 + MVB.1.351,Mixed,,,3,53
 BNT162b2 + MVD614,Mixed,,,3,54
 mRNA,mRNA,Unknown mRNA vaccine,,2,55
-mRNA + mRNA-1273,mRNA,Unknown mRNA vaccine,,4,56
-mRNA + mRNA-1273.351 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,57
-mRNA + mRNA-1273.617.2 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,58
-mRNA + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,59
-mRNA + mRNA-1273 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,60
-Inactivated,Inactivated virus,Unknown inactivated virus vaccine,,2,61
-AZD1222 + NVX-CoV2373,Mixed,,,2,62
-BNT162b2 + NVX-CoV2373,Mixed,,,2,63
-AZD1222 + MVC-COV1901,Mixed,,,3,64
-mRNA-1273.214,mRNA,Moderna,United States,2,65
-mRNA-1273 + mRNA-1273.214,mRNA,Moderna,United States,4,66
-Inactivated + ZF2001,Mixed,,,3,67
-BNT162b2 or mRNA-1273,mRNA,,United States,4,68
-Convidecia + ZF2001,Mixed,,China,3,69
-Convidecia + CoronaVac,Mixed,,China,3,70
-mRNA-1273.045,mRNA,Moderna,United States,2,71
-mRNA-1273.222,mRNA,Moderna,United States,2,72
-mRNA-1273 + mRNA-1273.222,mRNA,Moderna,United States,4,73
-mRNA-1273 + mRNA-1273.045,mRNA,Moderna,United States,4,74
-NVX-CoV2373 + Unknown vaccine,Mixed,,,4,75
+mRNA-monovalent,mRNA,monovalent mRNA vaccine,,4,56
+mRNA-bivalent,mRNA,bivalent mRNA vaccine,,4,57
+mRNA-bivalent + mRNA-monovalent,mRNA,movalent + bivalent mRNA vaccine,,4,58
+mRNA + mRNA-1273,mRNA,Unknown mRNA vaccine,,4,59
+mRNA + mRNA-1273.351 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,60
+mRNA + mRNA-1273.617.2 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,61
+mRNA + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,62
+mRNA + mRNA-1273 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,63
+Inactivated,Inactivated virus,Unknown inactivated virus vaccine,,2,64
+AZD1222 + NVX-CoV2373,Mixed,,,2,65
+BNT162b2 + NVX-CoV2373,Mixed,,,2,66
+AZD1222 + MVC-COV1901,Mixed,,,3,67
+mRNA-1273.214,mRNA,Moderna,United States,2,68
+mRNA-1273 + mRNA-1273.214,mRNA,Moderna,United States,4,69
+Inactivated + ZF2001,Mixed,,,3,70
+BNT162b2 or mRNA-1273,mRNA,,United States,4,71
+Convidecia + ZF2001,Mixed,,China,3,72
+Convidecia + CoronaVac,Mixed,,China,3,73
+mRNA-1273.045,mRNA,Moderna,United States,2,74
+mRNA-1273.222,mRNA,Moderna,United States,2,75
+mRNA-1273 + mRNA-1273.222,mRNA,Moderna,United States,4,76
+mRNA-1273 + mRNA-1273.045,mRNA,Moderna,United States,4,77
+NVX-CoV2373 + Unknown vaccine,Mixed,,,4,78
 Unknown vaccine,Mixed,,,3,1000
