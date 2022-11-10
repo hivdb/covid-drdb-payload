@@ -1,0 +1,55 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Luczkowiak22,CP_group_2dose_2M,S:614G,Figure 1,Pseudovirus (VSV),NT50,3191,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,S:614G,Figure 1,Pseudovirus (VSV),NT50,502,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,S:614G,Figure 1,Pseudovirus (VSV),NT50,1272,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,S:614G,Figure 1,Pseudovirus (VSV),NT50,137,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,S:614G,Figure 1,Pseudovirus (VSV),NT50,3148,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,S:614G,Figure 1,Pseudovirus (VSV),NT50,2469,12,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_2M,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,802,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,37,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,237,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,31,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,894,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,BA.1 Spike,Figure 1,Pseudovirus (VSV),NT50,832,12,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_2M,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,915,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,53,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,368,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,41,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,1057,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,BA.2 Spike,Figure 1,Pseudovirus (VSV),NT50,742,12,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_2M,BA.2.12.1 Spike,Figure 1,Pseudovirus (VSV),NT50,793,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,BA.2.12.1 Spike,Figure 1,Pseudovirus (VSV),NT50,34,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,BA.2.12.1 Spike,Figure 1,Pseudovirus (VSV),NT50,266,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,BA.2.12.1 Spike,Figure 1,Pseudovirus (VSV),NT50,28,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,BA.2.12.1 Spike,Figure 1,Pseudovirus (VSV),NT50,826,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,BA.2.12.1 Spike,Figure 1,Pseudovirus (VSV),NT50,531,12,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_2M,BA.4/5 Spike,Figure 1,Pseudovirus (VSV),NT50,576,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,BA.4/5 Spike,Figure 1,Pseudovirus (VSV),NT50,34,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,BA.4/5 Spike,Figure 1,Pseudovirus (VSV),NT50,207,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,BA.4/5 Spike,Figure 1,Pseudovirus (VSV),NT50,29,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,BA.4/5 Spike,Figure 1,Pseudovirus (VSV),NT50,607,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,BA.4/5 Spike,Figure 1,Pseudovirus (VSV),NT50,328,12,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_2M,B.1.1.7 Spike,Figure S1,Pseudovirus (VSV),NT50,1547,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,B.1.1.7 Spike,Figure S1,Pseudovirus (VSV),NT50,340,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,B.1.1.7 Spike,Figure S1,Pseudovirus (VSV),NT50,659,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,B.1.1.7 Spike,Figure S1,Pseudovirus (VSV),NT50,106,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,B.1.1.7 Spike,Figure S1,Pseudovirus (VSV),NT50,1350,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,B.1.1.7 Spike,Figure S1,Pseudovirus (VSV),NT50,1229,12,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_2M,B.1.351 Spike,Figure S1,Pseudovirus (VSV),NT50,1295,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,B.1.351 Spike,Figure S1,Pseudovirus (VSV),NT50,113,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,B.1.351 Spike,Figure S1,Pseudovirus (VSV),NT50,490,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,B.1.351 Spike,Figure S1,Pseudovirus (VSV),NT50,58,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,B.1.351 Spike,Figure S1,Pseudovirus (VSV),NT50,944,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,B.1.351 Spike,Figure S1,Pseudovirus (VSV),NT50,924,12,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_2M,P.1 Spike,Figure S1,Pseudovirus (VSV),NT50,2130,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,P.1 Spike,Figure S1,Pseudovirus (VSV),NT50,316,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,P.1 Spike,Figure S1,Pseudovirus (VSV),NT50,952,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,P.1 Spike,Figure S1,Pseudovirus (VSV),NT50,114,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,P.1 Spike,Figure S1,Pseudovirus (VSV),NT50,1209,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,P.1 Spike,Figure S1,Pseudovirus (VSV),NT50,1327,12,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_2M,B.1.617.2 Spike,Figure S1,Pseudovirus (VSV),NT50,1319,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_2M,B.1.617.2 Spike,Figure S1,Pseudovirus (VSV),NT50,230,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_2dose_8M,B.1.617.2 Spike,Figure S1,Pseudovirus (VSV),NT50,570,21,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_2dose_8M,B.1.617.2 Spike,Figure S1,Pseudovirus (VSV),NT50,80,21,10000,40,NULL,2022-11-10
+Luczkowiak22,CP_group_3dose_1.5M,B.1.617.2 Spike,Figure S1,Pseudovirus (VSV),NT50,1033,15,10000,40,NULL,2022-11-10
+Luczkowiak22,VP_group_3dose_1.5M,B.1.617.2 Spike,Figure S1,Pseudovirus (VSV),NT50,1023,12,10000,40,NULL,2022-11-10
