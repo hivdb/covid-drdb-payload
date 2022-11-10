@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Pitts22,Remdesivir 48 hpi,WA1,Table 1,Virus isolate,EC50,103,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,hCoV-19/England/204820464/2020,Table 1,Virus isolate,EC50,94,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,hCoV-19/South Africa/KRISP-K005325/2020,Table 1,Virus isolate,EC50,61,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,hCoV-19/Japan/TY7-503/2021,Table 1,Virus isolate,EC50,154,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,B.1.617.2 full genome,Table 1,Virus isolate,EC50,31,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,B.1.429 full genome,Table 1,Virus isolate,EC50,65,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,hCoV-19/USA/CA-Stanford-04_S01/2021,Table 1,Virus isolate,EC50,87,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,hCoV-19/USA/NY-NP-DOH1/2021,Table 1,Virus isolate,EC50,59,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,hCoV-19/USA/CA-Stanford-15_S02/2021,Table 1,Virus isolate,EC50,13,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 48 hpi,hCoV-19/Peru/un-CDC4051692-001/2021,Table 1,Virus isolate,EC50,94,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 72 hpi,WA1,Table 1,Virus isolate,EC50,141,1,4374,2,nM,2022-11-10
+Pitts22,Remdesivir 72 hpi,hCoV-19/USA/MD-HP20874-PIDUYWZOWA/2021,Table 1,Virus isolate,EC50,53,1,4374,2,nM,2022-11-10
