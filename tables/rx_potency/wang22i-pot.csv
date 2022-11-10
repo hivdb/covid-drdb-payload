@@ -8,7 +8,7 @@ Wang22i,BBIBP_3dose,BA.2 Spike,Figure 1B,Pseudovirus (VSV),NT50,67,10,100000,10,
 Wang22i,BBIBP_3dose,BA.2.3.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,71,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_3dose,BA.2.10.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,82,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_3dose,BA.2.12.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,59,10,100000,10,NULL,2022-08-11
-Wang22i,BBIBP_3dose,BA.2 Spike:L452M,Figure 1B,Pseudovirus (VSV),NT50,74,10,100000,10,NULL,2022-08-11
+Wang22i,BBIBP_3dose,BA.2.13 Spike,Figure 1B,Pseudovirus (VSV),NT50,74,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_3dose,BA.2.75 Spike,Figure 1B,Pseudovirus (VSV),NT50,58,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_3dose,BA.4/5 Spike,Figure 1B,Pseudovirus (VSV),NT50,33,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_2dose_ZF2001_1dose,Wuhan-Hu-1 Spike,Figure 1B,Pseudovirus (VSV),NT50,1179,10,100000,10,NULL,2022-08-11
@@ -20,7 +20,7 @@ Wang22i,BBIBP_2dose_ZF2001_1dose,BA.2 Spike,Figure 1B,Pseudovirus (VSV),NT50,123
 Wang22i,BBIBP_2dose_ZF2001_1dose,BA.2.3.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,117,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_2dose_ZF2001_1dose,BA.2.10.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,113,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_2dose_ZF2001_1dose,BA.2.12.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,94,10,100000,10,NULL,2022-08-11
-Wang22i,BBIBP_2dose_ZF2001_1dose,BA.2 Spike:L452M,Figure 1B,Pseudovirus (VSV),NT50,96,10,100000,10,NULL,2022-08-11
+Wang22i,BBIBP_2dose_ZF2001_1dose,BA.2.13 Spike,Figure 1B,Pseudovirus (VSV),NT50,96,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_2dose_ZF2001_1dose,BA.2.75 Spike,Figure 1B,Pseudovirus (VSV),NT50,93,10,100000,10,NULL,2022-08-11
 Wang22i,BBIBP_2dose_ZF2001_1dose,BA.4/5 Spike,Figure 1B,Pseudovirus (VSV),NT50,83,10,100000,10,NULL,2022-08-11
 Wang22i,BA2_CP,Wuhan-Hu-1 Spike,Figure 1B,Pseudovirus (VSV),NT50,3130,12,100000,10,NULL,2022-08-11
@@ -32,6 +32,6 @@ Wang22i,BA2_CP,BA.2 Spike,Figure 1B,Pseudovirus (VSV),NT50,1183,12,100000,10,NUL
 Wang22i,BA2_CP,BA.2.3.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,1002,12,100000,10,NULL,2022-08-11
 Wang22i,BA2_CP,BA.2.10.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,1142,12,100000,10,NULL,2022-08-11
 Wang22i,BA2_CP,BA.2.12.1 Spike,Figure 1B,Pseudovirus (VSV),NT50,1255,12,100000,10,NULL,2022-08-11
-Wang22i,BA2_CP,BA.2 Spike:L452M,Figure 1B,Pseudovirus (VSV),NT50,978,12,100000,10,NULL,2022-08-11
+Wang22i,BA2_CP,BA.2.13 Spike,Figure 1B,Pseudovirus (VSV),NT50,978,12,100000,10,NULL,2022-08-11
 Wang22i,BA2_CP,BA.2.75 Spike,Figure 1B,Pseudovirus (VSV),NT50,556,12,100000,10,NULL,2022-08-11
 Wang22i,BA2_CP,BA.4/5 Spike,Figure 1B,Pseudovirus (VSV),NT50,467,12,100000,10,NULL,2022-08-11
