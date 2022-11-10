@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Szemiel21,Remdesivir,hCoV-19/England/02/2020,Table S1,Virus isolate,EC50,2.61,1,20,0.01,µM,2022-11-10
+Szemiel21,Remdesivir,Szemiel21 RdRP:E802D,Table S1,Virus isolate,EC50,6.62,1,20,0.01,µM,2022-11-10
+Szemiel21,Remdesivir,Szemiel21 RdRP:E802A,Table S1,Virus isolate,EC50,5.58,1,20,0.01,µM,2022-11-10
