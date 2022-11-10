@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Luczkowiak22,CP_group_2dose_2M,S:614G,Figure 1,Pseudovirus (VSV),NT50,3191,21,10000,40,NULL,2022-11-10
 Luczkowiak22,VP_group_2dose_2M,S:614G,Figure 1,Pseudovirus (VSV),NT50,502,21,10000,40,NULL,2022-11-10
 Luczkowiak22,CP_group_2dose_8M,S:614G,Figure 1,Pseudovirus (VSV),NT50,1272,21,10000,40,NULL,2022-11-10
