@@ -1,0 +1,16 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Atari22,BNT162b2_3dose,hCoV-19/Israel/CVL-45526-ngs/2020,Figure 2,Virus isolate,NT50,354,14,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose,hCoV-19/Israel/CVL-n49814/2021,Figure 2,Virus isolate,NT50,12,14,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose,Omicron/BA.2 full genome,Figure 2,Virus isolate,NT50,88,14,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose,Omicron/BA.5 full genome,Figure 2,Virus isolate,NT50,4,14,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose,BA.2.75 full genome,Figure 2,Virus isolate,NT50,30,14,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.1_BTI,hCoV-19/Israel/CVL-45526-ngs/2020,Figure 2,Virus isolate,NT50,1625,15,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.1_BTI,hCoV-19/Israel/CVL-n49814/2021,Figure 2,Virus isolate,NT50,676,15,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.1_BTI,Omicron/BA.2 full genome,Figure 2,Virus isolate,NT50,1024,15,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.1_BTI,Omicron/BA.5 full genome,Figure 2,Virus isolate,NT50,161,15,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.1_BTI,BA.2.75 full genome,Figure 2,Virus isolate,NT50,741,15,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.5_BTI,hCoV-19/Israel/CVL-45526-ngs/2020,Figure 2,Virus isolate,NT50,2048,26,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.5_BTI,hCoV-19/Israel/CVL-n49814/2021,Figure 2,Virus isolate,NT50,294,26,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.5_BTI,Omicron/BA.2 full genome,Figure 2,Virus isolate,NT50,843,26,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.5_BTI,Omicron/BA.5 full genome,Figure 2,Virus isolate,NT50,572,26,16384,1,NULL,2022-11-09
+Atari22,BNT162b2_3dose_BA.5_BTI,BA.2.75 full genome,Figure 2,Virus isolate,NT50,622,26,16384,1,NULL,2022-11-09
