@@ -1,0 +1,6 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Checkmahomed22,Remdesivir,SARS-CoV-2/human/CAN/Quebec-21697/2020,Table 1,Virus isolate,EC50,1.35,1,10,0.005,µM,2022-11-10
+Checkmahomed22,Remdesivir,Checkmahomed22 RdRP:V166L (P17),Table 1,Virus isolate,EC50,3.08,1,10,0.005,µM,2022-11-10
+Checkmahomed22,Remdesivir,WA1,Table 2,Virus isolate (Nluc),EC50,0.06,1,10,0.005,µM,2022-11-10
+Checkmahomed22,Remdesivir,RdRP:P323L,Table 2,Virus isolate (Nluc),EC50,0.07,1,10,0.005,µM,2022-11-10
+Checkmahomed22,Remdesivir,RdRP:V166L+P323L,Table 2,Virus isolate (Nluc),EC50,0.09,1,10,0.005,µM,2022-11-10

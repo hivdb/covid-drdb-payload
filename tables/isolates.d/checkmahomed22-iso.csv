@@ -1,0 +1,5 @@
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+SARS-CoV-2/human/CAN/Quebec-21697/2020,B.1.1,FALSE,NULL,OK350745.1,NULL,TRUE
+Checkmahomed22 RdRP:V166L (P17),NULL,FALSE,NULL,NULL,NULL,TRUE
+RdRP:P323L,NULL,FALSE,NULL,NULL,NULL,TRUE
+RdRP:V166L+P323L,NULL,FALSE,NULL,NULL,NULL,TRUE
