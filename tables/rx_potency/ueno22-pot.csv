@@ -1,0 +1,12 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ueno22,EV053273,hCoV-19/Japan/TY-WK-521/2020,Table 1,Virus isolate,IC50,3.1,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053273,hCoV-19/Japan/QK002/2020,Table 1,Virus isolate,IC50,4,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053273,hCoV-19/Japan/TKYTK1734/2021,Table 1,Virus isolate,IC50,10.3,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053286,hCoV-19/Japan/TY-WK-521/2020,Table 1,Virus isolate,IC50,84.5,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053286,hCoV-19/Japan/QK002/2020,Table 1,Virus isolate,IC50,20.8,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053286,hCoV-19/Japan/TY8-612-P1/2021,Table 1,Virus isolate,IC50,60.3,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053286,hCoV-19/Japan/TY7-501/2021,Table 1,Virus isolate,IC50,3.7,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053286,hCoV-19/Japan/TKYTK5356/2021,Table 1,Virus isolate,IC50,26.3,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053286,hCoV-19/Japan/TKYTK1734/2021,Table 1,Virus isolate,IC50,41.6,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053286,hCoV-19/Japan/TKYX00012/2021,Table 1,Virus isolate,IC50,2971.5,1,10000,1,ng/ml,2022-11-11
+Ueno22,EV053286,hCoV-19/Japan/TKYS02037/2022,Table 1,Virus isolate,IC50,44.5,1,10000,1,ng/ml,2022-11-11
