@@ -239,17 +239,19 @@ Boshier22,Patient F,Human,2020,1
 Boshier22,Patient G,Human,2006,1
 Boshier22,Patient H,Human,2019,1
 Boshier22,Patient I,Human,2019,1
-Bowen22,AZD1222_2dose,Human,NULL,12
-Bowen22,AZD1222_2dose_booster,Human,NULL,18
-Bowen22,Ad26_1dose_booster,Human,NULL,14
+Bowen22,AZD1222_2dose,Human,NULL,16
+Bowen22,AZD1222_2dose_mRNA,Human,NULL,18
+Bowen22,Ad26_1dose_Ad26/BNT,Human,NULL,14
 Bowen22,BBIBP_2dose,Human,NULL,12
-Bowen22,BNT_2dose,Human,NULL,10
-Bowen22,CP_WT,Human,NULL,14
+Bowen22,BBIBP_2dose_mRNA,Human,NULL,18
+Bowen22,BNT_2dose,Human,NULL,14
+Bowen22,CP_WT,Human,NULL,24
 Bowen22,J&J_1dose,Human,NULL,10
-Bowen22,MOD_2dose,Human,NULL,11
-Bowen22,NVX_2dose,Human,NULL,9
+Bowen22,MOD_2dose,Human,NULL,14
+Bowen22,NVX_2dose,Human,NULL,10
+Bowen22,NVX_2dose_BNT/NVX,Human,NULL,5
 Bowen22,SputnikV_2dose,Human,NULL,12
-Bowen22,SputnikV_2dose_booster,Human,NULL,14
+Bowen22,SputnikV_2dose_AZD/BNT,Human,NULL,14
 Bowen22,mRNA_3dose,Human,NULL,13
 Branche22,Arm_1_mRNA-1273_infected,Human,NULL,21
 Branche22,Arm_1_mRNA-1273_uninfected,Human,NULL,76

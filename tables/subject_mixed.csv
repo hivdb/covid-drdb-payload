@@ -1,3 +1,8 @@
 ref_name,subject_name,mixed_vaccine,mixed_dosage,mixed_inf_uninf,mixed_inf_var
 Miller22,bivalent_2022_mixed_inf,TRUE,TRUE,TRUE,TRUE
 Miller22,monovalent_2022_mixed_inf,TRUE,TRUE,TRUE,TRUE
+Bowen22,NVX_2dose_BNT/NVX,TRUE,FALSE,FALSE,FALSE
+Bowen22,Ad26_1dose_Ad26/BNT,TRUE,FALSE,FALSE,FALSE
+Bowen22,AZD1222_2dose_mRNA,TRUE,FALSE,FALSE,FALSE
+Bowen22,SputnikV_2dose_AZD/BNT,TRUE,FALSE,FALSE,FALSE
+Bowen22,BBIBP_2dose_mRNA,TRUE,FALSE,FALSE,FALSE

@@ -1,13 +1,15 @@
 ﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
-Bowen22,CP_WT,CP_WT,~,2020-07-13,USA,CP_WT,Table S2
-Bowen22,MOD_2dose,MOD_2dose,~,2021-04-15,USA,MOD_2dose,Table S2
-Bowen22,BNT_2dose,BNT_2dose,~,2021-04-15,USA,BNT_2dose,Table S2
-Bowen22,NVX_2dose,NVX_2dose,~,2021-07-08,USA,NVX_2dose,Table S2
-Bowen22,J&J_1dose,J&J_1dose,~,2021-07-01,USA,J&J_1dose,Table S2
-Bowen22,AZD1222_2dose,AZD1222_2dose,~,2021-05-18,Italy,AZD1222_2dose,Table S2
-Bowen22,SputnikV_2dose,SputnikV_2dose,~,2021-06-01,Argentina,SputnikV_2dose,Table S2
-Bowen22,BBIBP_2dose,BBIBP_2dose,~,2021-05-31,Pakistan,BBIBP_2dose,Table S2
-Bowen22,mRNA_3dose,mRNA_3dose,~,2021-10-31,USA,mRNA_3dose,Table S2
-Bowen22,Ad26_1dose_booster,Ad26_1dose_booster,~,2021-08-15,USA,Ad26_1dose_booster,Table S2
-Bowen22,AZD1222_2dose_booster,AZD1222_2dose_booster,~,2021-12-30,Italy,AZD1222_2dose_booster,Table S2
-Bowen22,SputnikV_2dose_booster,SputnikV_2dose_booster,~,2022-03-01,Argentina,SputnikV_2dose_booster,Table S2
+Bowen22,CP_WT,CP_WT,~,2020-07-12,USA,CP_WT,NULL
+Bowen22,MOD_2dose,MOD_2dose,~,2021-04-14,USA,MOD_2dose,NULL
+Bowen22,BNT_2dose,BNT_2dose,~,2021-04-15,USA,BNT_2dose,NULL
+Bowen22,NVX_2dose,NVX_2dose,~,2021-06-22,USA,NVX_2dose,NULL
+Bowen22,J&J_1dose,J&J_1dose,~,2021-06-19,USA,J&J_1dose,NULL
+Bowen22,AZD1222_2dose,AZD1222_2dose,~,2021-05-01,Italy,AZD1222_2dose,NULL
+Bowen22,SputnikV_2dose,SputnikV_2dose,~,2021-06-15,Argentina,SputnikV_2dose,NULL
+Bowen22,BBIBP_2dose,BBIBP_2dose,~,2021-06-09,Pakistan,BBIBP_2dose,NULL
+Bowen22,mRNA_3dose,mRNA_3dose,~,2021-10-31,USA,mRNA_3dose,NULL
+Bowen22,NVX_2dose_BNT/NVX,NVX_2dose_BNT/NVX,~,2021-10-16,USA,NVX_2dose_BNT/NVX,NULL
+Bowen22,Ad26_1dose_Ad26/BNT,Ad26_1dose_Ad26/BNT,~,2021-10-15,USA,Ad26_1dose_Ad26/BNT,NULL
+Bowen22,AZD1222_2dose_mRNA,AZD1222_2dose_mRNA,~,2021-12-27,Italy,AZD1222_2dose_mRNA,NULL
+Bowen22,SputnikV_2dose_AZD/BNT,SputnikV_2dose_AZD/BNT,~,2021-11-23,Argentina,SputnikV_2dose_AZD/BNT,NULL
+Bowen22,BBIBP_2dose_mRNA,BBIBP_2dose_mRNA,~,2021-11-20,Pakistan,BBIBP_2dose_mRNA,NULL
