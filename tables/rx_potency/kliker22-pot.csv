@@ -1,0 +1,26 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Kliker22,CP_BA.1,hCoV-19/Israel/CVL-45526-ngs/2020,Figure 2,Virus isolate,NT50,5.7,11,16384,1,NULL,2022-11-10
+Kliker22,CP_BA.1,hCoV-19/Israel/CVL-n49814/2021,Figure 2,Virus isolate,NT50,42,11,16384,1,NULL,2022-11-10
+Kliker22,CP_BA.1,Omicron/BA.2 full genome,Figure 2,Virus isolate,NT50,84,11,16384,1,NULL,2022-11-10
+Kliker22,CP_BA.1,Omicron/BA.4 full genome,Figure 2,Virus isolate,NT50,8.9,11,16384,1,NULL,2022-11-10
+Kliker22,CP_BA.1,Omicron/BA.5 full genome,Figure 2,Virus isolate,NT50,2.5,11,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose,hCoV-19/Israel/CVL-45526-ngs/2020,Figure 2,Virus isolate,NT50,354,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose,hCoV-19/Israel/CVL-n49814/2021,Figure 2,Virus isolate,NT50,12,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose,Omicron/BA.2 full genome,Figure 2,Virus isolate,NT50,88,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose,Omicron/BA.4 full genome,Figure 2,Virus isolate,NT50,11,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose,Omicron/BA.5 full genome,Figure 2,Virus isolate,NT50,3.6,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose_BA.1_BTI,hCoV-19/Israel/CVL-45526-ngs/2020,Figure 2,Virus isolate,NT50,1625,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose_BA.1_BTI,hCoV-19/Israel/CVL-n49814/2021,Figure 2,Virus isolate,NT50,676,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose_BA.1_BTI,Omicron/BA.2 full genome,Figure 2,Virus isolate,NT50,1024,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose_BA.1_BTI,Omicron/BA.4 full genome,Figure 2,Virus isolate,NT50,177,15,16384,1,NULL,2022-11-10
+Kliker22,VP_3dose_BA.1_BTI,Omicron/BA.5 full genome,Figure 2,Virus isolate,NT50,161,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose,hCoV-19/Israel/CVL-45526-ngs/2020,Figure 2,Virus isolate,NT50,2964,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose,hCoV-19/Israel/CVL-n49814/2021,Figure 2,Virus isolate,NT50,169,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose,Omicron/BA.2 full genome,Figure 2,Virus isolate,NT50,436,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose,Omicron/BA.4 full genome,Figure 2,Virus isolate,NT50,74,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose,Omicron/BA.5 full genome,Figure 2,Virus isolate,NT50,50,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose_BA.1_BTI,hCoV-19/Israel/CVL-45526-ngs/2020,Figure 2,Virus isolate,NT50,6810,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose_BA.1_BTI,hCoV-19/Israel/CVL-n49814/2021,Figure 2,Virus isolate,NT50,934,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose_BA.1_BTI,Omicron/BA.2 full genome,Figure 2,Virus isolate,NT50,2278,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose_BA.1_BTI,Omicron/BA.4 full genome,Figure 2,Virus isolate,NT50,161,15,16384,1,NULL,2022-11-10
+Kliker22,VP_4dose_BA.1_BTI,Omicron/BA.5 full genome,Figure 2,Virus isolate,NT50,154,15,16384,1,NULL,2022-11-10

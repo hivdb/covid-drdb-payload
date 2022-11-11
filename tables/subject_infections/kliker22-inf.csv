@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Kliker22,CP_BA.1,~,2022-02-01,Omicron/BA.1,Israel,NULL,NULL,NULL
+Kliker22,VP_3dose_BA.1_BTI,~,2022-02-01,Omicron/BA.1,Israel,NULL,NULL,NULL
+Kliker22,VP_4dose_BA.1_BTI,~,2022-02-01,Omicron/BA.1,Israel,NULL,NULL,NULL
