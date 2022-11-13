@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Hogan22,Case 1,~,2022-01-02,Omicron/BA.1.1,USA,Medical,Hospitalized,"""Case descriptions"" section"
+Hogan22,Case 2,~,2022-01-06,Omicron/BA.1.17.2,USA,Medical,Hospitalized,"""Case descriptions"" section"
