@@ -1,6 +1,6 @@
-﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-FDA21e,Sotrovimab,S,340,A,SOT page 22,2021-06-07
-FDA21e,Sotrovimab,S,340,K,SOT page 23,2021-06-07
-FDA21e,Sotrovimab,S,344,V,SOT page 23,2021-06-07
-FDA21e,Sotrovimab,S,356,R,SOT page 23,2021-06-07
-FDA21e,Sotrovimab,S,359,G,SOT page 23,2021-06-07
+﻿ref_name,rx_name,backbone,gene,position,amino_acid,section,date_added
+FDA21e,Sotrovimab,Wuhan-Hu-1,S,340,A,SOT page 22,2021-06-07
+FDA21e,Sotrovimab,Wuhan-Hu-1,S,340,K,SOT page 23,2021-06-07
+FDA21e,Sotrovimab,Wuhan-Hu-1,S,344,V,SOT page 23,2021-06-07
+FDA21e,Sotrovimab,Wuhan-Hu-1,S,356,R,SOT page 23,2021-06-07
+FDA21e,Sotrovimab,Wuhan-Hu-1,S,359,G,SOT page 23,2021-06-07

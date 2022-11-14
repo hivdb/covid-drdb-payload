@@ -1,6 +1,6 @@
-﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-Dong21,AZD1061,S,74,K,Figure 4f,2021-02-01
-Dong21,AZD1061,S,346,I,Figure 4f,2021-02-01
-Dong21,AZD1061,S,444,E,Figure 4e,2021-02-01
-Dong21,AZD1061,S,444,R,Figure 4e,2021-02-01
-Dong21,AZD1061,S,686,G,Figure 4f,2022-01-28
+﻿ref_name,rx_name,backbone,gene,position,amino_acid,section,date_added
+Dong21,AZD1061,Wuhan-Hu-1,S,74,K,Figure 4f,2021-02-01
+Dong21,AZD1061,Wuhan-Hu-1,S,346,I,Figure 4f,2021-02-01
+Dong21,AZD1061,Wuhan-Hu-1,S,444,E,Figure 4e,2021-02-01
+Dong21,AZD1061,Wuhan-Hu-1,S,444,R,Figure 4e,2021-02-01
+Dong21,AZD1061,Wuhan-Hu-1,S,686,G,Figure 4f,2022-01-28

@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-Wang21k,2-36,S,284,I,Figure 4B,2022-03-24
-Wang21k,2-36,S,378,T,Figure 4B,2022-03-24
-Wang21k,2-36,S,655,Y,Figure 4B,2022-03-24
-Wang21k,2-36,S,1128,A,Figure 4B,2022-03-24
+﻿ref_name,rx_name,backbone,gene,position,amino_acid,section,date_added
+Wang21k,2-36,Wuhan-Hu-1,S,284,I,Figure 4B,2022-03-24
+Wang21k,2-36,Wuhan-Hu-1,S,378,T,Figure 4B,2022-03-24
+Wang21k,2-36,Wuhan-Hu-1,S,655,Y,Figure 4B,2022-03-24
+Wang21k,2-36,Wuhan-Hu-1,S,1128,A,Figure 4B,2022-03-24

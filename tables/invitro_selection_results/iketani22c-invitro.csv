@@ -1,35 +1,35 @@
-﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-Iketani22c,Nirmatrelvir,_3CLpro,6,I,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,21,I,"Figure 1F, 2C",2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,50,F,"Figure 1F, 2C",2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,51,Y,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,106,S,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,116,T,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,129,V,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,134,V,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,139,A,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,139,P,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,140,L,Figure 1F,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,144,A,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,155,A,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,160,F,"Figure 1F, 2C",2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,160,Y,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,166,A,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,166,E,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,166,V,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,167,F,Figure 1F,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,169,I,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,172,Q,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,172,Y,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,173,T,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,173,V,"Figure 1F, 2C",2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,186,A,"Figure 1F, 2C",2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,188,G,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,191,V,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,193,P,Figure 1F,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,196,S,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,252,L,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,256,L,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,294,V,Figure 2C,2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,301,P,"Figure 1F, 2C",2022-11-10
-Iketani22c,Nirmatrelvir,_3CLpro,304,I,"Figure 1F, 2C",2022-11-10
+﻿ref_name,rx_name,backbone,gene,position,amino_acid,section,date_added
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,6,I,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,21,I,"Figure 1F, 2C",2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,50,F,"Figure 1F, 2C",2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,51,Y,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,106,S,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,116,T,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,129,V,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,134,V,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,139,A,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,139,P,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,140,L,Figure 1F,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,144,A,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,155,A,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,160,F,"Figure 1F, 2C",2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,160,Y,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,166,A,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,166,E,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,166,V,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,167,F,Figure 1F,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,169,I,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,172,Q,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,172,Y,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,173,T,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,173,V,"Figure 1F, 2C",2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,186,A,"Figure 1F, 2C",2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,188,G,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,191,V,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,193,P,Figure 1F,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,196,S,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,252,L,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,256,L,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,294,V,Figure 2C,2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,301,P,"Figure 1F, 2C",2022-11-10
+Iketani22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,304,I,"Figure 1F, 2C",2022-11-10

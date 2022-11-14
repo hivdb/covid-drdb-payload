@@ -1,4 +1,4 @@
-﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-FDA21c,CIL,S,346,I,"Feb 2022, Page 16, Antiviral resistance paragraph 2",2022-03-17
-FDA21c,CIL,S,444,E,"Feb 2022, Page 16, Antiviral resistance paragraph 2",2022-03-17
-FDA21c,CIL,S,444,R,"Feb 2022, Page 16, Antiviral resistance paragraph 2",2022-03-17
+﻿ref_name,rx_name,backbone,gene,position,amino_acid,section,date_added
+FDA21c,CIL,Wuhan-Hu-1,S,346,I,"Feb 2022, Page 16, Antiviral resistance paragraph 2",2022-03-17
+FDA21c,CIL,Wuhan-Hu-1,S,444,E,"Feb 2022, Page 16, Antiviral resistance paragraph 2",2022-03-17
+FDA21c,CIL,Wuhan-Hu-1,S,444,R,"Feb 2022, Page 16, Antiviral resistance paragraph 2",2022-03-17

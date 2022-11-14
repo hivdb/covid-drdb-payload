@@ -1,10 +1,10 @@
-﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-Zhou22c,Boceprevir,_3CLpro,21,I,Table S1,2022-11-10
-Zhou22c,Boceprevir,_3CLpro,50,F,Table S1,2022-11-10
-Zhou22c,Boceprevir,_3CLpro,160,F,Table S1,2022-11-10
-Zhou22c,Boceprevir,_3CLpro,173,V,Table S1,2022-11-10
-Zhou22c,Boceprevir,_3CLpro,191,V,Table S1,2022-11-10
-Zhou22c,Nirmatrelvir,_3CLpro,21,I,Figure 1c,2022-11-10
-Zhou22c,Nirmatrelvir,_3CLpro,50,F,Figure 1c,2022-11-10
-Zhou22c,Nirmatrelvir,_3CLpro,166,V,Figure 1c,2022-11-10
-Zhou22c,Nirmatrelvir,_3CLpro,304,I,Figure 1c,2022-11-10
+﻿ref_name,rx_name,backbone,gene,position,amino_acid,section,date_added
+Zhou22c,Boceprevir,Wuhan-Hu-1,_3CLpro,21,I,Table S1,2022-11-10
+Zhou22c,Boceprevir,Wuhan-Hu-1,_3CLpro,50,F,Table S1,2022-11-10
+Zhou22c,Boceprevir,Wuhan-Hu-1,_3CLpro,160,F,Table S1,2022-11-10
+Zhou22c,Boceprevir,Wuhan-Hu-1,_3CLpro,173,V,Table S1,2022-11-10
+Zhou22c,Boceprevir,Wuhan-Hu-1,_3CLpro,191,V,Table S1,2022-11-10
+Zhou22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,21,I,Figure 1c,2022-11-10
+Zhou22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,50,F,Figure 1c,2022-11-10
+Zhou22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,166,V,Figure 1c,2022-11-10
+Zhou22c,Nirmatrelvir,Wuhan-Hu-1,_3CLpro,304,I,Figure 1c,2022-11-10

@@ -1,7 +1,7 @@
-﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-Stevens22,GS-441524,RdRP,166,A,Table 1,2022-11-13
-Stevens22,GS-441524,RdRP,198,S,Table 1,2022-11-13
-Stevens22,GS-441524,RdRP,759,A,Table 1,2022-11-13
-Stevens22,GS-441524,RdRP,792,I,Table 1,2022-11-13
-Stevens22,GS-441524,RdRP,799,F,Table 1,2022-11-13
-Stevens22,GS-441524,RdRP,799,R,Table 1,2022-11-13
+﻿ref_name,rx_name,backbone,gene,position,amino_acid,section,date_added
+Stevens22,GS-441524,Wuhan-Hu-1,RdRP,166,A,Table 1,2022-11-13
+Stevens22,GS-441524,Wuhan-Hu-1,RdRP,198,S,Table 1,2022-11-13
+Stevens22,GS-441524,Wuhan-Hu-1,RdRP,759,A,Table 1,2022-11-13
+Stevens22,GS-441524,Wuhan-Hu-1,RdRP,792,I,Table 1,2022-11-13
+Stevens22,GS-441524,Wuhan-Hu-1,RdRP,799,F,Table 1,2022-11-13
+Stevens22,GS-441524,Wuhan-Hu-1,RdRP,799,R,Table 1,2022-11-13

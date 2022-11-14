@@ -1,5 +1,5 @@
-﻿ref_name,rx_name,gene,position,amino_acid,section,date_added
-Ku21,CoV2-06,S,444,R,Figure 5b,2021-03-17
-Ku21,CoV2-06,S,444,S,Figure 5b,2021-03-17
-Ku21,CoV2-14,S,484,A,Figure 5b,2021-03-17
-Ku21,CoV2-14,S,486,S,Figure 5b,2021-03-17
+﻿ref_name,rx_name,backbone,gene,position,amino_acid,section,date_added
+Ku21,CoV2-06,Wuhan-Hu-1,S,444,R,Figure 5b,2021-03-17
+Ku21,CoV2-06,Wuhan-Hu-1,S,444,S,Figure 5b,2021-03-17
+Ku21,CoV2-14,Wuhan-Hu-1,S,484,A,Figure 5b,2021-03-17
+Ku21,CoV2-14,Wuhan-Hu-1,S,486,S,Figure 5b,2021-03-17
