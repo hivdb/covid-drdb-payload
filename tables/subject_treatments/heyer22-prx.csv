@@ -1,0 +1,9 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Heyer22,P01,Remdesivir,~,2020-11-03,~,2020-11-12,NULL,NULL,Table 1
+Heyer22,P01,Remdesivir,~,2020-12-01,~,2020-12-05,NULL,NULL,Table 1
+Heyer22,P01,CP,~,2020-12-05,~,2020-12-05,NULL,NULL,Table 1
+Heyer22,P01,CP,~,2020-12-07,~,2020-12-07,NULL,NULL,Table 1
+Heyer22,P01,CP,~,2020-12-09,~,2020-12-09,NULL,NULL,Table 1
+Heyer22,P03,Remdesivir,~,2020-09-10,~,2020-09-10,NULL,NULL,Table 1
+Heyer22,P03,Remdesivir,~,2020-09-13,~,2020-09-13,NULL,NULL,Table 1
+Heyer22,P13,Remdesivir,~,2020-09-10,~,2020-09-16,NULL,NULL,Table 1

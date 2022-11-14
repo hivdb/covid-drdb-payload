@@ -4881,75 +4881,74 @@ Omicron/BA.2.75/H339D,N,33,del
 Omicron/BA.2.75/H339D,N,203,K
 Omicron/BA.2.75/H339D,N,204,R
 Omicron/BA.2.75/H339D,N,413,R
-Omicron/BA.2.75/K460N,nsp1,135,R
-Omicron/BA.2.75/K460N,PLpro,24,I
-Omicron/BA.2.75/K460N,PLpro,403,L
-Omicron/BA.2.75/K460N,PLpro,489,S
-Omicron/BA.2.75/K460N,PLpro,822,S
-Omicron/BA.2.75/K460N,nsp4,264,F
-Omicron/BA.2.75/K460N,nsp4,327,I
-Omicron/BA.2.75/K460N,nsp4,438,F
-Omicron/BA.2.75/K460N,nsp4,492,I
-Omicron/BA.2.75/K460N,_3CLpro,132,H
-Omicron/BA.2.75/K460N,nsp6,106,del
-Omicron/BA.2.75/K460N,nsp6,107,del
-Omicron/BA.2.75/K460N,nsp6,108,del
-Omicron/BA.2.75/K460N,nsp8,118,S
-Omicron/BA.2.75/K460N,RdRP,323,L
-Omicron/BA.2.75/K460N,RdRP,671,S
-Omicron/BA.2.75/K460N,nsp13,392,C
-Omicron/BA.2.75/K460N,nsp14,42,V
-Omicron/BA.2.75/K460N,nsp15,112,I
-Omicron/BA.2.75/K460N,S,19,I
-Omicron/BA.2.75/K460N,S,24,S
-Omicron/BA.2.75/K460N,S,25,del
-Omicron/BA.2.75/K460N,S,26,del
-Omicron/BA.2.75/K460N,S,27,del
-Omicron/BA.2.75/K460N,S,142,D
-Omicron/BA.2.75/K460N,S,147,E
-Omicron/BA.2.75/K460N,S,152,R
-Omicron/BA.2.75/K460N,S,157,L
-Omicron/BA.2.75/K460N,S,210,V
-Omicron/BA.2.75/K460N,S,213,G
-Omicron/BA.2.75/K460N,S,257,S
-Omicron/BA.2.75/K460N,S,339,H
-Omicron/BA.2.75/K460N,S,371,F
-Omicron/BA.2.75/K460N,S,373,P
-Omicron/BA.2.75/K460N,S,375,F
-Omicron/BA.2.75/K460N,S,376,A
-Omicron/BA.2.75/K460N,S,405,N
-Omicron/BA.2.75/K460N,S,408,S
-Omicron/BA.2.75/K460N,S,417,N
-Omicron/BA.2.75/K460N,S,440,K
-Omicron/BA.2.75/K460N,S,446,S
-Omicron/BA.2.75/K460N,S,460,N
-Omicron/BA.2.75/K460N,S,477,N
-Omicron/BA.2.75/K460N,S,478,K
-Omicron/BA.2.75/K460N,S,484,A
-Omicron/BA.2.75/K460N,S,498,R
-Omicron/BA.2.75/K460N,S,501,Y
-Omicron/BA.2.75/K460N,S,505,H
-Omicron/BA.2.75/K460N,S,614,G
-Omicron/BA.2.75/K460N,S,655,Y
-Omicron/BA.2.75/K460N,S,679,K
-Omicron/BA.2.75/K460N,S,681,H
-Omicron/BA.2.75/K460N,S,764,K
-Omicron/BA.2.75/K460N,S,796,Y
-Omicron/BA.2.75/K460N,S,954,H
-Omicron/BA.2.75/K460N,S,969,K
-Omicron/BA.2.75/K460N,ORF3a,223,I
-Omicron/BA.2.75/K460N,E,9,I
-Omicron/BA.2.75/K460N,E,11,A
-Omicron/BA.2.75/K460N,M,19,E
-Omicron/BA.2.75/K460N,M,63,T
-Omicron/BA.2.75/K460N,ORF6,61,L
-Omicron/BA.2.75/K460N,N,13,L
-Omicron/BA.2.75/K460N,N,31,del
-Omicron/BA.2.75/K460N,N,32,del
-Omicron/BA.2.75/K460N,N,33,del
-Omicron/BA.2.75/K460N,N,203,K
-Omicron/BA.2.75/K460N,N,204,R
-Omicron/BA.2.75/K460N,N,413,R
+Omicron/BA.2.75 w/o N460K,nsp1,135,R
+Omicron/BA.2.75 w/o N460K,PLpro,24,I
+Omicron/BA.2.75 w/o N460K,PLpro,403,L
+Omicron/BA.2.75 w/o N460K,PLpro,489,S
+Omicron/BA.2.75 w/o N460K,PLpro,822,S
+Omicron/BA.2.75 w/o N460K,nsp4,264,F
+Omicron/BA.2.75 w/o N460K,nsp4,327,I
+Omicron/BA.2.75 w/o N460K,nsp4,438,F
+Omicron/BA.2.75 w/o N460K,nsp4,492,I
+Omicron/BA.2.75 w/o N460K,_3CLpro,132,H
+Omicron/BA.2.75 w/o N460K,nsp6,106,del
+Omicron/BA.2.75 w/o N460K,nsp6,107,del
+Omicron/BA.2.75 w/o N460K,nsp6,108,del
+Omicron/BA.2.75 w/o N460K,nsp8,118,S
+Omicron/BA.2.75 w/o N460K,RdRP,323,L
+Omicron/BA.2.75 w/o N460K,RdRP,671,S
+Omicron/BA.2.75 w/o N460K,nsp13,392,C
+Omicron/BA.2.75 w/o N460K,nsp14,42,V
+Omicron/BA.2.75 w/o N460K,nsp15,112,I
+Omicron/BA.2.75 w/o N460K,S,19,I
+Omicron/BA.2.75 w/o N460K,S,24,S
+Omicron/BA.2.75 w/o N460K,S,25,del
+Omicron/BA.2.75 w/o N460K,S,26,del
+Omicron/BA.2.75 w/o N460K,S,27,del
+Omicron/BA.2.75 w/o N460K,S,142,D
+Omicron/BA.2.75 w/o N460K,S,147,E
+Omicron/BA.2.75 w/o N460K,S,152,R
+Omicron/BA.2.75 w/o N460K,S,157,L
+Omicron/BA.2.75 w/o N460K,S,210,V
+Omicron/BA.2.75 w/o N460K,S,213,G
+Omicron/BA.2.75 w/o N460K,S,257,S
+Omicron/BA.2.75 w/o N460K,S,339,H
+Omicron/BA.2.75 w/o N460K,S,371,F
+Omicron/BA.2.75 w/o N460K,S,373,P
+Omicron/BA.2.75 w/o N460K,S,375,F
+Omicron/BA.2.75 w/o N460K,S,376,A
+Omicron/BA.2.75 w/o N460K,S,405,N
+Omicron/BA.2.75 w/o N460K,S,408,S
+Omicron/BA.2.75 w/o N460K,S,417,N
+Omicron/BA.2.75 w/o N460K,S,440,K
+Omicron/BA.2.75 w/o N460K,S,446,S
+Omicron/BA.2.75 w/o N460K,S,477,N
+Omicron/BA.2.75 w/o N460K,S,478,K
+Omicron/BA.2.75 w/o N460K,S,484,A
+Omicron/BA.2.75 w/o N460K,S,498,R
+Omicron/BA.2.75 w/o N460K,S,501,Y
+Omicron/BA.2.75 w/o N460K,S,505,H
+Omicron/BA.2.75 w/o N460K,S,614,G
+Omicron/BA.2.75 w/o N460K,S,655,Y
+Omicron/BA.2.75 w/o N460K,S,679,K
+Omicron/BA.2.75 w/o N460K,S,681,H
+Omicron/BA.2.75 w/o N460K,S,764,K
+Omicron/BA.2.75 w/o N460K,S,796,Y
+Omicron/BA.2.75 w/o N460K,S,954,H
+Omicron/BA.2.75 w/o N460K,S,969,K
+Omicron/BA.2.75 w/o N460K,ORF3a,223,I
+Omicron/BA.2.75 w/o N460K,E,9,I
+Omicron/BA.2.75 w/o N460K,E,11,A
+Omicron/BA.2.75 w/o N460K,M,19,E
+Omicron/BA.2.75 w/o N460K,M,63,T
+Omicron/BA.2.75 w/o N460K,ORF6,61,L
+Omicron/BA.2.75 w/o N460K,N,13,L
+Omicron/BA.2.75 w/o N460K,N,31,del
+Omicron/BA.2.75 w/o N460K,N,32,del
+Omicron/BA.2.75 w/o N460K,N,33,del
+Omicron/BA.2.75 w/o N460K,N,203,K
+Omicron/BA.2.75 w/o N460K,N,204,R
+Omicron/BA.2.75 w/o N460K,N,413,R
 Omicron/BA.2.75/Q493R,nsp1,135,R
 Omicron/BA.2.75/Q493R,PLpro,24,I
 Omicron/BA.2.75/Q493R,PLpro,403,L
@@ -10867,6 +10866,14 @@ B.1.1.141,S,614,G
 B.1.1.141,ORF3a,222,Y
 B.1.1.141,N,203,K
 B.1.1.141,N,204,R
+B.1.1.142,RdRP,323,L
+B.1.1.142,S,614,G
+B.1.1.142,M,175,M
+B.1.1.142,N,203,K
+B.1.1.142,N,204,R
+B.1.1.161,RdRP,323,L
+B.1.1.161,N,203,K
+B.1.1.161,N,204,R
 B.1.1.189,nsp2,339,S
 B.1.1.189,RdRP,323,L
 B.1.1.189,S,614,G
@@ -10994,6 +11001,14 @@ B.1.1.401,S,614,G
 B.1.1.401,ORF3a,95,F
 B.1.1.401,N,203,K
 B.1.1.401,N,204,R
+B.1.1.405,PLpro,93,F
+B.1.1.405,nsp6,100,I
+B.1.1.405,nsp6,181,I
+B.1.1.405,RdRP,323,L
+B.1.1.405,S,614,G
+B.1.1.405,N,203,K
+B.1.1.405,N,204,R
+B.1.1.405,ORF10,32,L
 B.1.1.420,PLpro,820,I
 B.1.1.420,nsp6,160,R
 B.1.1.420,RdRP,85,I
@@ -11278,6 +11293,11 @@ B.1.356,RdRP,323,L
 B.1.356,S,614,G
 B.1.356,ORF3a,57,H
 B.1.356,ORF3a,99,V
+B.1.36.1,nsp8,51,C
+B.1.36.1,RdRP,323,L
+B.1.36.1,S,614,G
+B.1.36.1,ORF3a,57,H
+B.1.36.1,N,194,L
 B.1.36.27,nsp2,381,A
 B.1.36.27,PLpro,238,L
 B.1.36.27,PLpro,1179,V
@@ -11746,6 +11766,8 @@ B.1.640.2,N,205,I
 B.1/E484K,RdRP,323,L
 B.1/E484K,S,484,K
 B.1/E484K,S,614,G
+B.1.8,RdRP,323,L
+B.1.8,S,614,G
 B.38,nsp6,37,F
 B.38,ORF3a,251,V
 B.38,ORF10,14,C

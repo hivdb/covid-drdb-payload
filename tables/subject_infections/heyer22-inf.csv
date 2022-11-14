@@ -1,0 +1,16 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Heyer22,CP Donor,<,2020-08-01,B,Germany,NULL,NULL,NULL
+Heyer22,P01,<,2020-09-01,B.1.8,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P03,<,2020-09-01,A,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P05,<,2020-09-01,B.1.36.1,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P06,<,2020-09-01,B.1.177.81,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P07,<,2020-09-01,B.1.1,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P08,<,2020-08-30,B.1.1.161,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P09,<,2020-09-01,B.1.177.81,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P10,<,2020-09-01,A,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P13,<,2020-09-01,A,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P14,<,2020-09-01,B.1.1.161,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P15,<,2020-08-31,B.1.1.405,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P16,<,2020-09-01,B.1,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P17,<,2020-08-31,B.1.1.142,Germany,Medical,Hospitalized,PRJEB50471 and table 1
+Heyer22,P18,<,2020-09-01,A,Germany,Medical,Hospitalized,PRJEB50471 and table 1
