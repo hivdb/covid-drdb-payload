@@ -1,2 +1,5 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Pommeret21,Patient,~,2021-01-01,Unknown variant,France,Medical,Hospitalized,NULL
+Pommeret21,Pt1,~,2021-01-01,Unknown variant,France,Primary,Hospitalized,Paragraph 5
+Pommeret21,Pt2,~,2021-01-01,Unknown variant,France,Primary,Hospitalized,Paragraph 5
+Pommeret21,Pt3,~,2021-01-01,Unknown variant,France,Primary,Hospitalized,Paragraph 5
+Pommeret21,Pt4,~,2021-01-01,Unknown variant,France,Primary,Hospitalized,Paragraph 5

@@ -1,3 +1,9 @@
 ﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
-Pommeret21,Patient,Bamlanivimab,~,2021-01-05,~,2021-01-05,700,mg,NULL
-Pommeret21,Patient,Etesevimab,~,2021-01-05,~,2021-01-05,1400,mg,NULL
+Pommeret21,Pt1,Bamlanivimab,~,2021-01-05,~,2021-01-05,700,mg,NULL
+Pommeret21,Pt1,Etesevimab,~,2021-01-05,~,2021-01-05,1400,mg,NULL
+Pommeret21,Pt2,Bamlanivimab,~,2021-01-05,~,2021-01-05,700,mg,NULL
+Pommeret21,Pt2,Etesevimab,~,2021-01-05,~,2021-01-05,1400,mg,NULL
+Pommeret21,Pt3,Bamlanivimab,~,2021-01-05,~,2021-01-05,700,mg,NULL
+Pommeret21,Pt3,Etesevimab,~,2021-01-05,~,2021-01-05,1400,mg,NULL
+Pommeret21,Pt4,Bamlanivimab,~,2021-01-05,~,2021-01-05,700,mg,NULL
+Pommeret21,Pt4,Etesevimab,~,2021-01-05,~,2021-01-05,1400,mg,NULL

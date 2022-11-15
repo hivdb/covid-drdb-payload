@@ -1,2 +1,5 @@
 ﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
-Pommeret21_group,NULL,TRUE,NULL,NULL,NULL,TRUE
+Pommeret21_Pt1,NULL,TRUE,NULL,NULL,NULL,TRUE
+Pommeret21_Pt2,NULL,TRUE,NULL,NULL,NULL,TRUE
+Pommeret21_Pt3,NULL,TRUE,NULL,NULL,NULL,TRUE
+Pommeret21_Pt4,NULL,TRUE,NULL,NULL,NULL,TRUE

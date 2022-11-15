@@ -2756,7 +2756,10 @@ Planas21c,BNT_3dose_M1,Human,1956,11
 Planas21c,CP_12M,Human,1969,15
 Planas21c,CP_12M_BNT_1dose,Human,1965,14
 Planas21c,CP_6M,Human,1965,16
-Pommeret21,Patient,Human,1958,5
+Pommeret21,Pt1,Human,1958,1
+Pommeret21,Pt2,Human,1958,1
+Pommeret21,Pt3,Human,1958,1
+Pommeret21,Pt4,Human,1958,1
 Qu22,Delta_ICU_CP,Human,1962,12
 Qu22,Delta_ICU_VP,Human,1962,6
 Qu22,HCW_2dose_BNT,Human,1985,11
