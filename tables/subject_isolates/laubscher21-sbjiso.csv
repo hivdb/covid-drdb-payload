@@ -1,0 +1,18 @@
+﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
+Laubscher21,Patient1,=,2020-03-29,Sample_1A_SRR15465172,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient1,=,2020-04-19,Sample_1B_SRR15465171,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient2,=,2020-03-27,Sample_2A_SRR15465163,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient2,=,2020-04-15,Sample_2B_SRR15465162,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient2,=,2020-05-13,Sample_2C_SRR15465161,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient3,=,2020-03-13,Sample_3A_SRR15465160,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient3,=,2020-03-26,Sample_3B_SRR15465159,BAL,FALSE,Switzerland,Table 2
+Laubscher21,Patient4,=,2020-01-04,Sample_4A_SRR15465158,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient4,=,2020-04-08,Sample_4B_SRR15465157,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient5,=,2020-03-31,Sample_5A_SRR15465156,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient5,=,2020-04-19,Sample_5B_SRR15465170,Plasma,FALSE,Switzerland,Table 2
+Laubscher21,Patient5,=,2020-04-22,Sample_5C_SRR15465169,BAL,FALSE,Switzerland,Table 2
+Laubscher21,Patient5,=,2020-04-27,Sample_5D_SRR15465168,Plasma,FALSE,Switzerland,Table 2
+Laubscher21,Patient5,=,2020-05-03,Sample_5E_SRR15465167,BAL,FALSE,Switzerland,Table 2
+Laubscher21,Patient6,=,2020-04-02,Sample_6A_SRR15465166,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient6,=,2020-04-12,Sample_6B_SRR15465165,NP,FALSE,Switzerland,Table 2
+Laubscher21,Patient6,=,2020-04-24,Sample_6C_SRR15465164,NP,FALSE,Switzerland,Table 2
