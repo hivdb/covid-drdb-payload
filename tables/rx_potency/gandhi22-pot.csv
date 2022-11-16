@@ -1,0 +1,4 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gandhi22,Remdesivir,WA1,Figure 2e,Virus isolate (Vero-WA1-mNG),EC50,0.7,1,100,0.1,µM,2022-11-15
+Gandhi22,Remdesivir,WA1+RdRP:802D,Figure 2e,Virus isolate (Vero-WA1-mNG),EC50,4.2,1,100,0.1,µM,2022-11-15
+Gandhi22,Remdesivir,WA1+RdRP:802A,Figure 2e,Virus isolate (Vero-WA1-mNG),EC50,2.7,1,100,0.1,µM,2022-11-15
