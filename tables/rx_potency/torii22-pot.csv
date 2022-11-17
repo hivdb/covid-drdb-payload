@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Torii22,Remdesivir,Wuhan-Hu-1,Figure S1,Virus isolate (HiBiT),EC50,6.3,1,1000,1,nM,2022-11-16
+Torii22,Remdesivir,RdRP:796G,Figure S1,Virus isolate (HiBiT),EC50,16.5,1,1000,1,nM,2022-11-16
+Torii22,Remdesivir,RdRP:799F,Figure S1,Virus isolate (HiBiT),EC50,12,1,1000,1,nM,2022-11-16
+Torii22,Remdesivir,Torii22 R10 RdRP:796G+799F,Figure S1,Virus isolate (HiBiT),EC50,18.3,1,1000,1,nM,2022-11-16
+Torii22,Remdesivir,Torii22 R10 RdRP:799F,Figure S1,Virus isolate (HiBiT),EC50,72.7,1,1000,1,nM,2022-11-16
+Torii22,Remdesivir,RdRP:802D,Figure S1,Virus isolate (HiBiT),EC50,45.9,1,1000,1,nM,2022-11-16
+Torii22,Remdesivir,RdRP:484Y,Figure S1,Virus isolate (HiBiT),EC50,19.3,1,1000,1,nM,2022-11-16
+Torii22,Remdesivir,RdRP:480L,Figure S1,Virus isolate (HiBiT),EC50,9.5,1,1000,1,nM,2022-11-16
+Torii22,Remdesivir,RdRP:480L+557L,Figure S1,Virus isolate (HiBiT),EC50,23.7,1,1000,1,nM,2022-11-16
