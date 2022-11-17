@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Planas22,BNT162b2_3dose_D120,hCoV-19/France/GES-1973/2020,Figure 1A,Virus isolate,NT50,1800,24,100000,30,NULL,2022-11-17
+Planas22,BNT162b2_3dose_D120,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 1A,Virus isolate,NT50,600,24,100000,30,NULL,2022-11-17
+Planas22,BNT162b2_3dose_D120,hCoV-19/Belgium/rega-20174/2021,Figure 1A,Virus isolate,NT50,218,24,100000,30,NULL,2022-11-17
+Planas22,BNT162b2_3dose_D120,hCoV-19/Belgium/1WLU10/2022,Figure 1A,Virus isolate,NT50,113,24,100000,30,NULL,2022-11-17
+Planas22,BNT162b2_3dose_D120,hCoV-19/France/CVL-ChuTo-9800086928/2022,Figure 1A,Virus isolate,NT50,64,24,100000,30,NULL,2022-11-17
+Planas22,BA.1_or_BA.2_BTI_D80,hCoV-19/France/GES-1973/2020,Figure 1A,Virus isolate,NT50,9692,11,100000,30,NULL,2022-11-17
+Planas22,BA.1_or_BA.2_BTI_D80,hCoV-19/France/IDF-APHP-HEGP-20-23-2131905084/2021,Figure 1A,Virus isolate,NT50,6823,11,100000,30,NULL,2022-11-17
+Planas22,BA.1_or_BA.2_BTI_D80,hCoV-19/Belgium/rega-20174/2021,Figure 1A,Virus isolate,NT50,6823,11,100000,30,NULL,2022-11-17
+Planas22,BA.1_or_BA.2_BTI_D80,hCoV-19/Belgium/1WLU10/2022,Figure 1A,Virus isolate,NT50,7650,11,100000,30,NULL,2022-11-17
+Planas22,BA.1_or_BA.2_BTI_D80,hCoV-19/France/CVL-ChuTo-9800086928/2022,Figure 1A,Virus isolate,NT50,1225,11,100000,30,NULL,2022-11-17
