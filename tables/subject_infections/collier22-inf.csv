@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Collier22,mRNA_4dose_mono,~,2022-04-15,Unknown Omicron,USA,NULL,NULL,Table S1
+Collier22,BNT_4dose_biva,~,2022-03-23,Unknown Omicron,USA,NULL,NULL,Table S1
+Collier22,MOD_4dose_biva,~,2022-03-23,Unknown Omicron,USA,NULL,NULL,Table S1

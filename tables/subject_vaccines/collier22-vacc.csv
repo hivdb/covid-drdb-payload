@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Collier22,mRNA_4dose_mono,~,2022-01-01,Unknown vaccine,3,USA,Table S1
+Collier22,mRNA_4dose_mono,~,2022-09-05,mRNA-monovalent,4,USA,Table S1
+Collier22,BNT_4dose_biva,~,2022-01-01,Unknown vaccine,3,USA,Table S1
+Collier22,BNT_4dose_biva,~,2022-09-05,BNT162b2 bivalent,4,USA,Table S1
+Collier22,MOD_4dose_biva,~,2022-01-01,Unknown vaccine,3,USA,Table S1
+Collier22,MOD_4dose_biva,~,2022-09-05,mRNA-1273 bivalent,4,USA,Table S1

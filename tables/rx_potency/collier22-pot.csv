@@ -1,0 +1,25 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Collier22,mRNA_4dose_mono_pre_boost,WA1,Figure 1A,Pseudovirus (lentivirus),NT50,5731,15,1000000,20,NULL,2022-11-18
+Collier22,mRNA_4dose_mono_pre_boost,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,307,15,1000000,20,NULL,2022-11-18
+Collier22,mRNA_4dose_mono_pre_boost,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,345,15,1000000,20,NULL,2022-11-18
+Collier22,mRNA_4dose_mono_pre_boost,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,184,15,1000000,20,NULL,2022-11-18
+Collier22,mRNA_4dose_mono_boost,WA1,Figure 1A,Pseudovirus (lentivirus),NT50,21507,15,1000000,20,NULL,2022-11-18
+Collier22,mRNA_4dose_mono_boost,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,3224,15,1000000,20,NULL,2022-11-18
+Collier22,mRNA_4dose_mono_boost,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,2590,15,1000000,20,NULL,2022-11-18
+Collier22,mRNA_4dose_mono_boost,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),NT50,2829,15,1000000,20,NULL,2022-11-18
+Collier22,BNT_4dose_biva_pre_boost,WA1,Figure S3,Pseudovirus (lentivirus),NT50,4188,8,1000000,20,NULL,2022-11-18
+Collier22,BNT_4dose_biva_pre_boost,BA.1.1 Spike,Figure S3,Pseudovirus (lentivirus),NT50,155,8,1000000,20,NULL,2022-11-18
+Collier22,BNT_4dose_biva_pre_boost,BA.2 Spike,Figure S3,Pseudovirus (lentivirus),NT50,277,8,1000000,20,NULL,2022-11-18
+Collier22,BNT_4dose_biva_pre_boost,BA.4/5 Spike,Figure S3,Pseudovirus (lentivirus),NT50,212,8,1000000,20,NULL,2022-11-18
+Collier22,BNT_4dose_biva_boost,WA1,Figure S3,Pseudovirus (lentivirus),NT50,31759,8,1000000,20,NULL,2022-11-18
+Collier22,BNT_4dose_biva_boost,BA.1.1 Spike,Figure S3,Pseudovirus (lentivirus),NT50,3170,8,1000000,20,NULL,2022-11-18
+Collier22,BNT_4dose_biva_boost,BA.2 Spike,Figure S3,Pseudovirus (lentivirus),NT50,4029,8,1000000,20,NULL,2022-11-18
+Collier22,BNT_4dose_biva_boost,BA.4/5 Spike,Figure S3,Pseudovirus (lentivirus),NT50,3929,8,1000000,20,NULL,2022-11-18
+Collier22,MOD_4dose_biva_pre_boost,WA1,Figure S3,Pseudovirus (lentivirus),NT50,3186,10,1000000,20,NULL,2022-11-18
+Collier22,MOD_4dose_biva_pre_boost,BA.1.1 Spike,Figure S3,Pseudovirus (lentivirus),NT50,235,10,1000000,20,NULL,2022-11-18
+Collier22,MOD_4dose_biva_pre_boost,BA.2 Spike,Figure S3,Pseudovirus (lentivirus),NT50,336,10,1000000,20,NULL,2022-11-18
+Collier22,MOD_4dose_biva_pre_boost,BA.4/5 Spike,Figure S3,Pseudovirus (lentivirus),NT50,86,10,1000000,20,NULL,2022-11-18
+Collier22,MOD_4dose_biva_boost,WA1,Figure S3,Pseudovirus (lentivirus),NT50,50955,10,1000000,20,NULL,2022-11-18
+Collier22,MOD_4dose_biva_boost,BA.1.1 Spike,Figure S3,Pseudovirus (lentivirus),NT50,4875,10,1000000,20,NULL,2022-11-18
+Collier22,MOD_4dose_biva_boost,BA.2 Spike,Figure S3,Pseudovirus (lentivirus),NT50,196,10,1000000,20,NULL,2022-11-18
+Collier22,MOD_4dose_biva_boost,BA.4/5 Spike,Figure S3,Pseudovirus (lentivirus),NT50,3693,10,1000000,20,NULL,2022-11-18
