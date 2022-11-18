@@ -1,0 +1,31 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhu22b,BBIBP_2dose_1M,Wuhan-Hu-1,Figure 4,Pseudovirus (lentivirus),NT50,3058,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_3M,Wuhan-Hu-1,Figure 4,Pseudovirus (lentivirus),NT50,1570,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_5M,Wuhan-Hu-1,Figure 4,Pseudovirus (lentivirus),NT50,1041,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_1M,S:69del+70del+144del+145del+501Y+570D+614G+681H+716I+982A+1118H,Figure 4,Pseudovirus (lentivirus),NT50,1107,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_3M,S:69del+70del+144del+145del+501Y+570D+614G+681H+716I+982A+1118H,Figure 4,Pseudovirus (lentivirus),NT50,375,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_5M,S:69del+70del+144del+145del+501Y+570D+614G+681H+716I+982A+1118H,Figure 4,Pseudovirus (lentivirus),NT50,219,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_1M,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,Figure 4,Pseudovirus (lentivirus),NT50,1085,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_3M,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,Figure 4,Pseudovirus (lentivirus),NT50,543,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_5M,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,Figure 4,Pseudovirus (lentivirus),NT50,286,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_1M,P.1 Spike,Figure 4,Pseudovirus (lentivirus),NT50,686,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_3M,P.1 Spike,Figure 4,Pseudovirus (lentivirus),NT50,360,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_5M,P.1 Spike,Figure 4,Pseudovirus (lentivirus),NT50,212,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_1M,S:19R+157del+158del+452R+478K+614G+681R+950N,Figure 4,Pseudovirus (lentivirus),NT50,708,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_3M,S:19R+157del+158del+452R+478K+614G+681R+950N,Figure 4,Pseudovirus (lentivirus),NT50,441,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_5M,S:19R+157del+158del+452R+478K+614G+681R+950N,Figure 4,Pseudovirus (lentivirus),NT50,264,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_1M,BA.1 Spike:Q493K,Figure 4,Pseudovirus (lentivirus),NT50,508,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_3M,BA.1 Spike:Q493K,Figure 4,Pseudovirus (lentivirus),NT50,279,10,6000,1,NULL,2022-11-18
+Zhu22b,BBIBP_2dose_5M,BA.1 Spike:Q493K,Figure 4,Pseudovirus (lentivirus),NT50,108,10,6000,1,NULL,2022-11-18
+Zhu22b,CP_14D,Wuhan-Hu-1,Figure 7,Pseudovirus (lentivirus),NT50,5923,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_200D,Wuhan-Hu-1,Figure 7,Pseudovirus (lentivirus),NT50,4077,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_14D,S:69del+70del+144del+145del+501Y+570D+614G+681H+716I+982A+1118H,Figure 7,Pseudovirus (lentivirus),NT50,3581,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_200D,S:69del+70del+144del+145del+501Y+570D+614G+681H+716I+982A+1118H,Figure 7,Pseudovirus (lentivirus),NT50,1937,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_14D,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,Figure 7,Pseudovirus (lentivirus),NT50,2500,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_200D,S:80A+215G+241del+242del+243del+417N+484K+501Y+614G+701V,Figure 7,Pseudovirus (lentivirus),NT50,1419,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_14D,P.1 Spike,Figure 7,Pseudovirus (lentivirus),NT50,3559,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_200D,P.1 Spike,Figure 7,Pseudovirus (lentivirus),NT50,2027,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_14D,S:19R+157del+158del+452R+478K+614G+681R+950N,Figure 7,Pseudovirus (lentivirus),NT50,3468,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_200D,S:19R+157del+158del+452R+478K+614G+681R+950N,Figure 7,Pseudovirus (lentivirus),NT50,2207,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_14D,BA.1 Spike:Q493K,Figure 7,Pseudovirus (lentivirus),NT50,1250,10,12500,1,NULL,2022-11-18
+Zhu22b,CP_200D,BA.1 Spike:Q493K,Figure 7,Pseudovirus (lentivirus),NT50,721,10,12500,1,NULL,2022-11-18
