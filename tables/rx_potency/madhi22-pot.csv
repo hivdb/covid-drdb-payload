@@ -1,0 +1,49 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Madhi22,AZD1222_1dose_IgG_pos_D28,S:614G,Supplementary Table S3,Pseudovirus (lentivirus),NT50,1469,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_D14,S:614G,Supplementary Table S3,Pseudovirus (lentivirus),NT50,1933,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_M6,S:614G,Supplementary Table S3,Pseudovirus (lentivirus),NT50,590,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_pos_D28,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Supplementary Table S3,Pseudovirus (lentivirus),NT50,248,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_D14,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Supplementary Table S3,Pseudovirus (lentivirus),NT50,370,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_M6,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Supplementary Table S3,Pseudovirus (lentivirus),NT50,178,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_pos_D28,B.1.617.2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,451,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_D14,B.1.617.2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,416,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_M6,B.1.617.2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,112,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_pos_D28,BA.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,499,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_D14,BA.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,535,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_M6,BA.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,21,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_pos_D28,BA.4/5 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,436,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_D14,BA.4/5 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,429,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_M6,BA.4/5 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,37,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_pos_D28,A.VOI.V2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,1089,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_D14,A.VOI.V2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,1057,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_M6,A.VOI.V2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,193,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_pos_D28,P.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,1650,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_D14,P.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,1886,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_M6,P.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,451,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_pos_D28,SARS-CoV Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,387,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_D14,SARS-CoV Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,312,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_pos_M6,SARS-CoV Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,75,91,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_neg_D28,S:614G,Supplementary Table S3,Pseudovirus (lentivirus),NT50,81,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_D14,S:614G,Supplementary Table S3,Pseudovirus (lentivirus),NT50,451,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_M6,S:614G,Supplementary Table S3,Pseudovirus (lentivirus),NT50,78,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_neg_D28,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Supplementary Table S3,Pseudovirus (lentivirus),NT50,16,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_D14,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Supplementary Table S3,Pseudovirus (lentivirus),NT50,35,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_M6,S:18F+80A+215G+242del+243del+244del+417N+484K+501Y+614G+701V,Supplementary Table S3,Pseudovirus (lentivirus),NT50,29,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_neg_D28,B.1.617.2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,38,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_D14,B.1.617.2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,61,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_M6,B.1.617.2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,36,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_neg_D28,BA.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,14,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_D14,BA.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,16,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_M6,BA.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,18,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_neg_D28,BA.4/5 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,13,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_D14,BA.4/5 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,14,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_M6,BA.4/5 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,16,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_neg_D28,A.VOI.V2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,59,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_D14,A.VOI.V2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,80,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_M6,A.VOI.V2 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,34,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_neg_D28,P.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,15,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_D14,P.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,64,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_M6,P.1 Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,33,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_1dose_IgG_neg_D28,SARS-CoV Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,37,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_D14,SARS-CoV Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,39,58,100000,185,NULL,2022-11-17
+Madhi22,AZD1222_2dose_IgG_neg_M6,SARS-CoV Spike,Supplementary Table S3,Pseudovirus (lentivirus),NT50,50,58,100000,185,NULL,2022-11-17
