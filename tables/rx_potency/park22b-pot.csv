@@ -1,0 +1,55 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Park22b,S2K146,SARS-CoV Spike,Figure 1B,Pseudovirus (lentivirus),IC50,14,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,WIV1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,16,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,Wuhan-Hu-1,Figure 1B,Pseudovirus (lentivirus),IC50,33,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,B.1.1.7 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,30,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,B.1.351 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,46,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,P.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,17,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,B.1.427/9 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,24,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,B.1.1.298 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,31,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,B.1.1.519 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,37,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,S:439K+614G,Figure 1B,Pseudovirus (lentivirus),IC50,37,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,S:417V,Figure 1B,Pseudovirus (lentivirus),IC50,33,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,S:484K,Figure 1B,Pseudovirus (lentivirus),IC50,31,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,RaTG13 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,21,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,GD-Pangolin Spike,Figure 1B,Pseudovirus (lentivirus),IC50,40,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,GX-Pangolin Spike,Figure 1B,Pseudovirus (lentivirus),IC50,21,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,Anlong-112 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,BtRs-BetaCoV/YN2013 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,BtRl-BetaCoV/SC2018 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,Rp/Shaanxi2011 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,bat-SL-CoVZC45 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,BtKY72 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,BM48-31/BGR/2008 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,SARS-CoV Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,WIV1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,Wuhan-Hu-1,Figure 1B,Pseudovirus (lentivirus),IC50,6,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,B.1.1.7 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,6,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,B.1.351 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,7,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,P.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,17,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,B.1.427/9 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,5,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,B.1.1.298 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,5,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,B.1.1.519 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,4,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,S:439K+614G,Figure 1B,Pseudovirus (lentivirus),IC50,8,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,S:417V,Figure 1B,Pseudovirus (lentivirus),IC50,7,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,S:484K,Figure 1B,Pseudovirus (lentivirus),IC50,15,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,RaTG13 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,8,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,GD-Pangolin Spike,Figure 1B,Pseudovirus (lentivirus),IC50,7,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,GX-Pangolin Spike,Figure 1B,Pseudovirus (lentivirus),IC50,7,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,Anlong-112 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,BtRs-BetaCoV/YN2013 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,BtRl-BetaCoV/SC2018 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,Rp/Shaanxi2011 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,bat-SL-CoVZC45 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,BtKY72 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,BM48-31/BGR/2008 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10000,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,hCoV-19/USA/WA-CDC-02982586-001/2020,Figure 1E,Virus isolate,IC50,10,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,hCoV-19/England/204820464/2020,Figure 1E,Virus isolate,IC50,9,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,hCoV-19/South Africa/KRISP-K005325/2020,Figure 1E,Virus isolate,IC50,9,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,hCoV-19/USA/CA-Stanford-15_S02/2021,Figure 1E,Virus isolate,IC50,30,1,100000,1,ng/ml,2022-11-18
+Park22b,S2K146,hCoV19/USA/PHC658/2021,Figure 1E,Virus isolate,IC50,8,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,hCoV-19/USA/WA-CDC-02982586-001/2020,Figure 1E,Virus isolate,IC50,3.5,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,hCoV-19/England/204820464/2020,Figure 1E,Virus isolate,IC50,2.5,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,hCoV-19/South Africa/KRISP-K005325/2020,Figure 1E,Virus isolate,IC50,2,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,hCoV-19/USA/CA-Stanford-15_S02/2021,Figure 1E,Virus isolate,IC50,4.5,1,100000,1,ng/ml,2022-11-18
+Park22b,S2E12,hCoV19/USA/PHC658/2021,Figure 1E,Virus isolate,IC50,1.5,1,100000,1,ng/ml,2022-11-18
