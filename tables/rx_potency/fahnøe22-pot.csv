@@ -1,0 +1,8 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Fahnøe22,Remdesivir,SARS-CoV-2/human/DNK/DK-AHH1/2020,Figure 4,Virus isolate (Nluc),EC50,6.3,1,43,1,µM,2022-11-20
+Fahnøe22,Remdesivir,DK-AHH1+RdRP:97V,Figure 4,Virus isolate (Nluc),EC50,4,1,43,1,µM,2022-11-20
+Fahnøe22,Remdesivir,DK-AHH1 w/o RdRP:323L,Figure 4,Virus isolate (Nluc),EC50,5.1,1,43,1,µM,2022-11-20
+Fahnøe22,Remdesivir,DK-AHH1+RdRP:491S,Figure 4,Virus isolate (Nluc),EC50,3.9,1,43,1,µM,2022-11-20
+Fahnøe22,Remdesivir,DK-AHH1+RdRP:480L,Figure 4,Virus isolate (Nluc),EC50,6.5,1,43,1,µM,2022-11-20
+Fahnøe22,Remdesivir,DK-AHH1+RdRP:557L,Figure 4,Virus isolate (Nluc),EC50,4,1,43,1,µM,2022-11-20
+Fahnøe22,Remdesivir,DK-AHH1+RdRP:480L+557L,Figure 4,Virus isolate (Nluc),EC50,2.9,1,43,1,µM,2022-11-20
