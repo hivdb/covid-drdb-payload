@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Muik22c,mRNA_3dose_BA.4/5_BTI,~,2022-07-01,Omicron/BA.5,Germany,NULL,Mild,Table S2
+Muik22c,mRNA_3dose_BA.1_BTI,~,2022-01-01,Omicron/BA.1,Germany,NULL,Mild,Table S1
+Muik22c,mRNA_3dose_BA.2_BTI,~,2022-04-01,Omicron/BA.2,Germany,NULL,Mild,Table S1
