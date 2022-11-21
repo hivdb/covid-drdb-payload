@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Zou22c,Bivalent_3dose_CP_1,WA1 Spike,Supplementary Table 3,SARS-CoV-2 recombinant,NT50,5120,1,20480,20,NULL,2022-11-21
 Zou22c,Bivalent_4dose_CP_1,WA1 Spike,Supplementary Table 3,SARS-CoV-2 recombinant,NT50,5120,1,20480,20,NULL,2022-11-21
 Zou22c,Bivalent_3dose_CP_1,BA.4/5 Spike,Supplementary Table 3,SARS-CoV-2 recombinant,NT50,640,1,20480,20,NULL,2022-11-21
