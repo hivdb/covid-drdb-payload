@@ -4448,10 +4448,10 @@ Zou22b,CP_6m_6,Human,2000,1
 Zou22b,CP_6m_7,Human,1951,1
 Zou22b,CP_6m_8,Human,1994,1
 Zou22b,CP_6m_9,Human,1999,1
-Zou22c,BNT162b2,Human,NULL,1
-Zou22c,BNT162b2_CP,Human,NULL,1
-Zou22c,Bivalent,Human,NULL,1
-Zou22c,Bivalent_CP,Human,NULL,1
+Zou22c,BNT162b2,Human,NULL,20
+Zou22c,BNT162b2_CP,Human,NULL,20
+Zou22c,Bivalent,Human,NULL,18
+Zou22c,Bivalent_CP,Human,NULL,19
 Zuckerman21,BNT162b2,Human,NULL,18
 Zuckerman21b,BNT162b2,Human,1972,36
 deSouza21,CP_BD0129,Human,NULL,1
