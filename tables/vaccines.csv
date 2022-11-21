@@ -10,76 +10,84 @@ CoronaVac,Inactivated virus,Sinovac Biotech,China,2,8
 NVX-CoV2373,Protein subunit,Novavax,United States,2,9
 ZF2001,Protein subunit,Anhui Zhifei Longcom and Chinese Academy of Sciences,China,3,10
 BNT162b2 bivalent,mRNA,BioNTech,Germany,2,11
-mRNA-1273 bivalent,mRNA,"Moderna, NIAID and BARDA",United States,2,12
-mRNA-1273.045,mRNA,Moderna,United States,2,13
-mRNA-1273.211,mRNA,Moderna,United States,2,14
-mRNA-1273.214,mRNA,Moderna,United States,2,15
-mRNA-1273.222,mRNA,Moderna,United States,2,16
-mRNA-1273.351,mRNA,Moderna,United States,2,17
-mRNA-1273.529,mRNA,Moderna,United States,3,18
-mRNA-1273 + mRNA-1273.045,mRNA,Moderna,United States,4,19
-mRNA-1273 + mRNA-1273.211,mRNA,Moderna,United States,2,20
-mRNA-1273 + mRNA-1273.214,mRNA,Moderna,United States,4,21
-mRNA-1273 + mRNA-1273.222,mRNA,Moderna,United States,4,22
-mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,2,23
-mRNA-1273 + mRNA-1273.529,mRNA,Moderna,United States,3,24
-mRNA-1273 or mRNA-1273.529,mRNA,Moderna,United States,2,25
-mRNA-1273.351 + mRNA-1273.529,mRNA,Moderna,United States,3,26
-mRNA-1273.617.2 + mRNA-1273.529,mRNA,Moderna,United States,3,27
-Abogen_mRNA,mRNA,Suzhou Abogen Biosciences,China,2,28
-Stemirna_mRNA,mRNA,Stemirna Company,China,2,29
-BNT162b2 + mRNA-1273,mRNA,BioNTech and Moderna,United States,3,30
-BNT162b2 or mRNA-1273,mRNA,BioNTech and Moderna,United States,4,31
-mRNA + mRNA-1273,mRNA,Unknown mRNA vaccine,,4,32
-mRNA + mRNA-1273 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,33
-mRNA + mRNA-1273.351 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,34
-mRNA + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,35
-mRNA + mRNA-1273.617.2 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,36
-mRNA,mRNA,Unknown mRNA vaccine,,2,37
-mRNA-bivalent,mRNA,bivalent mRNA vaccine,,4,38
-mRNA-monovalent,mRNA,monovalent mRNA vaccine,,4,39
-mRNA-bivalent + mRNA-monovalent,mRNA,movalent + bivalent mRNA vaccine,,4,40
-AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,41
-Convidecia,Viral vector,CanSino Biologics,China,1,42
-Sputnik Light,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,43
-Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,44
-AZD1222 + AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,45
-AZD1222 + Sputnik V,Viral vector,,,3,46
-Sputnik Light + Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,3,47
-KCONVAC,Inactivated virus,Shenzhen Kangtai Biological Products,China,3,48
-CoronaVac or BBIBP-CorV,Inactivated virus,,,3,49
-Inactivated,Inactivated virus,Unknown inactivated virus vaccine,,2,50
-MVB.1.351,Protein subunit,GSK/Sanofi,France,1,51
-MVC-COV1901,Protein subunit,Medigen Vaccine Biologics and Dynavax Technologies,Taiwan,2,52
-MVD614,Protein subunit,GSK/Sanofi,France,1,53
-Nanocovax,Protein subunit,Nanogen Pharmaceutical Biotechnology JSC,Vietnam,2,54
-INO-4800,DNA,Inovio Pharmaceuticals,United States,2,55
-Ad26.COV2.S + BNT162b2,Mixed,,,2,56
-Ad26.COV2.S + mRNA-1273,Mixed,,,2,57
-AZD1222 + BBIBP-CorV,Mixed,,,3,58
-AZD1222 + BBV152,Mixed,,,2,59
-AZD1222 + BNT162b2,Mixed,,,2,60
-AZD1222 + BNT162b2 + CoronaVac,Mixed,,,3,61
-AZD1222 + CoronaVac,Mixed,,,2,62
-AZD1222 + CoronaVac + mRNA-1273,Mixed,,,3,63
-AZD1222 + mRNA,Mixed,,,3,64
-AZD1222 + mRNA-1273,Mixed,,,2,65
-AZD1222 + MVC-COV1901,Mixed,,,3,66
-AZD1222 + NVX-CoV2373,Mixed,,,2,67
-BBIBP-CorV + BNT162b2,Mixed,,,3,68
-BBIBP-CorV + mRNA-1273,Mixed,,,3,69
-BBIBP-CorV + ZF2001,Mixed,,,3,70
-BNT162b2 + CoronaVac,Mixed,,,2,71
-BNT162b2 + MVB.1.351,Mixed,,,3,72
-BNT162b2 + MVD614,Mixed,,,3,73
-BNT162b2 + NVX-CoV2373,Mixed,,,2,74
-BNT162b2 or AZD1222,Mixed,,,2,75
-Convidecia + CoronaVac,Mixed,,,3,76
-Convidecia + ZF2001,Mixed,,,3,77
-CoronaVac + ZF2001,Mixed,,,2,78
-Inactivated + ZF2001,Mixed,,,3,79
-NVX-CoV2373 + Unknown vaccine,Mixed,,,4,80
-BNT162b2 bivalent + Unknown vaccine,Mixed,,,4,81
-mRNA-1273 bivalent + Unknown vaccine,Mixed,,,4,82
-mRNA-monovalent + Unknown vaccine,Mixed,,,4,83
-Unknown vaccine,Mixed,,,3,84
+BNT_BA.1,mRNA,BioNTech,Germany,2,12
+BNT_BA.4/5,mRNA,BioNTech,Germany,2,13
+BNT162b2_BA.1_bivalent,mRNA,BioNTech,Germany,2,14
+BNT162b2_BA.4/5_bivalent,mRNA,BioNTech,Germany,2,15
+mRNA-1273 bivalent,mRNA,"Moderna, NIAID and BARDA",United States,2,16
+mRNA-1273.045,mRNA,Moderna,United States,2,17
+mRNA-1273.211,mRNA,Moderna,United States,2,18
+mRNA-1273.214,mRNA,Moderna,United States,2,19
+mRNA-1273.222,mRNA,Moderna,United States,2,20
+mRNA-1273.351,mRNA,Moderna,United States,2,21
+mRNA-1273.529,mRNA,Moderna,United States,3,22
+mRNA-1273 + mRNA-1273.045,mRNA,Moderna,United States,4,23
+mRNA-1273 + mRNA-1273.211,mRNA,Moderna,United States,2,24
+mRNA-1273 + mRNA-1273.214,mRNA,Moderna,United States,4,25
+mRNA-1273 + mRNA-1273.222,mRNA,Moderna,United States,4,26
+mRNA-1273 + mRNA-1273.351,mRNA,Moderna,United States,2,27
+mRNA-1273 + mRNA-1273.529,mRNA,Moderna,United States,3,28
+mRNA-1273 or mRNA-1273.529,mRNA,Moderna,United States,2,29
+mRNA-1273.351 + mRNA-1273.529,mRNA,Moderna,United States,3,30
+mRNA-1273.617.2 + mRNA-1273.529,mRNA,Moderna,United States,3,31
+Abogen_mRNA,mRNA,Suzhou Abogen Biosciences,China,2,32
+Stemirna_mRNA,mRNA,Stemirna Company,China,2,33
+BNT162b2 + mRNA-1273,mRNA,BioNTech and Moderna,United States,3,34
+BNT162b2 or mRNA-1273,mRNA,BioNTech and Moderna,United States,4,35
+BNT162b2 + BNT_BA.1,mRNA,BioNTech,Germany,2,36
+BNT162b2 + BNT_BA.4/5,mRNA,BioNTech,Germany,2,37
+BNT162b2 + BNT162b2_BA.1_bivalent,mRNA,BioNTech,Germany,2,38
+BNT162b2 + BNT162b2_BA.4/5_bivalent,mRNA,BioNTech,Germany,2,39
+mRNA + mRNA-1273,mRNA,Unknown mRNA vaccine,,4,40
+mRNA + mRNA-1273 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,41
+mRNA + mRNA-1273.351 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,42
+mRNA + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,43
+mRNA + mRNA-1273.617.2 + mRNA-1273.529,mRNA,Unknown mRNA vaccine,,4,44
+mRNA,mRNA,Unknown mRNA vaccine,,2,45
+mRNA-bivalent,mRNA,bivalent mRNA vaccine,,4,46
+mRNA-monovalent,mRNA,monovalent mRNA vaccine,,4,47
+mRNA-bivalent + mRNA-monovalent,mRNA,movalent + bivalent mRNA vaccine,,4,48
+AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,49
+Convidecia,Viral vector,CanSino Biologics,China,1,50
+Sputnik Light,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,51
+Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,2,52
+AZD1222 + AZD2816,Viral vector,Oxford University and AstraZeneca,United Kingdom,2,53
+AZD1222 + Sputnik V,Viral vector,,,3,54
+Sputnik Light + Sputnik V,Viral vector,Gamaleya Research Institute of Epidemiology and Microbiology,Russia,3,55
+KCONVAC,Inactivated virus,Shenzhen Kangtai Biological Products,China,3,56
+CoronaVac or BBIBP-CorV,Inactivated virus,,,3,57
+Inactivated,Inactivated virus,Unknown inactivated virus vaccine,,2,58
+MVB.1.351,Protein subunit,GSK/Sanofi,France,1,59
+MVC-COV1901,Protein subunit,Medigen Vaccine Biologics and Dynavax Technologies,Taiwan,2,60
+MVD614,Protein subunit,GSK/Sanofi,France,1,61
+Nanocovax,Protein subunit,Nanogen Pharmaceutical Biotechnology JSC,Vietnam,2,62
+INO-4800,DNA,Inovio Pharmaceuticals,United States,2,63
+Ad26.COV2.S + BNT162b2,Mixed,,,2,64
+Ad26.COV2.S + mRNA-1273,Mixed,,,2,65
+AZD1222 + BBIBP-CorV,Mixed,,,3,66
+AZD1222 + BBV152,Mixed,,,2,67
+AZD1222 + BNT162b2,Mixed,,,2,68
+AZD1222 + BNT162b2 + CoronaVac,Mixed,,,3,69
+AZD1222 + CoronaVac,Mixed,,,2,70
+AZD1222 + CoronaVac + mRNA-1273,Mixed,,,3,71
+AZD1222 + mRNA,Mixed,,,3,72
+AZD1222 + mRNA-1273,Mixed,,,2,73
+AZD1222 + MVC-COV1901,Mixed,,,3,74
+AZD1222 + NVX-CoV2373,Mixed,,,2,75
+BBIBP-CorV + BNT162b2,Mixed,,,3,76
+BBIBP-CorV + mRNA-1273,Mixed,,,3,77
+BBIBP-CorV + ZF2001,Mixed,,,3,78
+BNT162b2 + CoronaVac,Mixed,,,2,79
+BNT162b2 + MVB.1.351,Mixed,,,3,80
+BNT162b2 + MVD614,Mixed,,,3,81
+BNT162b2 + NVX-CoV2373,Mixed,,,2,82
+BNT162b2 or AZD1222,Mixed,,,2,83
+Convidecia + CoronaVac,Mixed,,,3,84
+Convidecia + ZF2001,Mixed,,,3,85
+CoronaVac + ZF2001,Mixed,,,2,86
+Inactivated + ZF2001,Mixed,,,3,87
+NVX-CoV2373 + Unknown vaccine,Mixed,,,4,88
+BNT162b2 bivalent + Unknown vaccine,Mixed,,,4,89
+mRNA-1273 bivalent + Unknown vaccine,Mixed,,,4,90
+mRNA-monovalent + Unknown vaccine,Mixed,,,4,91
+Unknown vaccine,Mixed,,,3,92
