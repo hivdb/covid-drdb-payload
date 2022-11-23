@@ -1,3 +1,3 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Zou22c,Bivalent_CP,~,2021-01-01,Unknown variant,USA,NULL,NULL,NULL
-Zou22c,BNT162b2_CP,~,2021-01-01,Unknown variant,USA,NULL,NULL,NULL
+Zou22c,Bivalent_inf,~,2021-01-01,Unknown variant,USA,NULL,NULL,NULL
+Zou22c,BNT162b2_inf,~,2021-01-01,Unknown variant,USA,NULL,NULL,NULL
