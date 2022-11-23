@@ -2783,6 +2783,11 @@ Planas21c,CP_12M_BNT_1dose,Human,1965,14
 Planas21c,CP_6M,Human,1965,16
 Planas22,BA.1_or_BA.2_BTI,Human,1964,11
 Planas22,BNT162b2_3dose,Human,1962,27
+Planas22b,BNT_3dose_1M,Human,1962,18
+Planas22b,BNT_3dose_4M,Human,1959,10
+Planas22b,BNT_BTI_BA.1/2_3M,Human,1964,16
+Planas22b,BNT_BTI_BA.1/2_8M,Human,1963,13
+Planas22b,BNT_BTI_BA.5_2M,Human,1960,15
 Pommeret21,Pt1,Human,1958,1
 Pommeret21,Pt2,Human,1958,1
 Pommeret21,Pt3,Human,1958,1
@@ -2908,6 +2913,9 @@ Reynolds22,ID97,Human,NULL,1
 Reynolds22,ID98,Human,NULL,1
 Richardson22,CP_BA.4,Human,NULL,13
 Richardson22,VP_BA.4_BTI,Human,NULL,9
+Riddell22,A,Human,1982,1
+Riddell22,B,Human,1982,1
+Riddell22,C,Human,1992,1
 Riou21,CP_wave1,Human,NULL,18
 Riou21,CP_wave2,Human,NULL,19
 Rockett22,R001,Human,1986,1

@@ -1,289 +1,289 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Misasi22,B1-182.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,10.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,9.8,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,155,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,35.1,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,18.8,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,86.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,18.9,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,52.8,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,71.8,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,30.8,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,564,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,21.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,39.5,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,23.8,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,576,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,70.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,42.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,244,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,121,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,125,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,374,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,79.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,2017,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,43.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,30.9,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,53.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,1169,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,647,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,391,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,108,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,147,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,33.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,356,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,51.4,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,107,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,149,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,6867,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,2375,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,1476,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,118,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,530,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,116,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,2011,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,106,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,10.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,6.8,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,67.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,36.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,110,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,159,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,438,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,208,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,1044,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,70.2,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,46.2,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,16.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,185,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,113,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,339,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,294,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,2015,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,500,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,2585,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,131,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,2554,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1722,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,451,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,27695,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,2074,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,32.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,6469,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,11554,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1523,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,8831,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,102,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1359,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1045,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,872,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1390,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,18.1,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,8267,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,5058,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,2350,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,9962,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,44.9,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,2035,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,8077,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,614,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,64.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,4031,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,36.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,14907,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,8.9,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,7720,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,35018,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1352,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,162,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,9867,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,113,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,21.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1054,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,3471,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,161,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,3747,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,45.9,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,24359,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,8762,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,36042,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,441,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,13924,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,302,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,37.4,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,193,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,39256,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,316,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10232,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,7.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,CT-P59,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-46.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-COV555,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,A19-61.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,418,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10987,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2130,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,2130,1,67000,10,ng/ml,2022-08-02
-Misasi22,S309,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,63339,1,67000,10,ng/ml,2022-08-02
-Misasi22,LY-CoV1404,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,24.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,37.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,22.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,14.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,9.6,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,7.5,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,8.5,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,94.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,42.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,27.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,16.9,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,21.2,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,18.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,129,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,28.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,16.4,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,16.2,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,19.4,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,317,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,58.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,31.2,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,34.9,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,42.4,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,93.1,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,93.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,16.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,13.4,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,12.6,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,19.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,196,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,164,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,31.8,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,25.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,23.4,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,38.4,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,339,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,186,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,1367,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,298,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,911,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,351,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,3648,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,488,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,426,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,186,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,1367,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,298,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,1286,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,351,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,3648,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,488,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,2555,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,49.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,280,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,27.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,27.1,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,5871,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,129,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,475,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,81.7,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,70.0,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,2434,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,42.5,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,118,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,1454,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,148,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,5498,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,209,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,274,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,6236,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,435,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,9795,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,314,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,41.3,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,111,1,67000,10,ng/ml,2022-08-02
-Misasi22,CB6 + LY-CoV555,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,REGN10933 + REGN10987,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,16782,1,67000,10,ng/ml,2022-08-02
-Misasi22,COV2-2196 + COV2-2130,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,1044,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,67000,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-61.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,255,1,67000,10,ng/ml,2022-08-02
-Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,343,1,67000,10,ng/ml,2022-08-02
+Misasi22,B1-182.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,1.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,1.47,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,23.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,5.265,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,2.82,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,12.945,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,2.835,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,7.92,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,10.77,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,4.62,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,84.6,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,S:614G,Figure 1A,Pseudovirus (lentivirus),IC50,3.255,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,5.925,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,3.57,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,86.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,10.545,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,6.345,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,36.6,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,18.15,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,18.75,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,56.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,11.955,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,302.55,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,S:614G,Figure 1A,Pseudovirus (lentivirus),IC80,6.555,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,4.635,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,8.055,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,175.35,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,97.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,58.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,16.2,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,22.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,4.95,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,53.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC50,7.71,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,16.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,22.35,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,1030.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,356.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,221.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,17.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,79.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,17.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,301.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (lentivirus),IC80,15.9,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,1.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,1.02,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,10.155,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,5.505,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,16.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,23.85,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,65.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,31.2,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,156.6,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC50,10.53,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,6.93,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,2.505,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,27.75,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,16.95,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,50.85,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,44.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,302.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,75,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,387.75,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,B.1.617.2 Spike:+142D,Figure 1A,Pseudovirus (lentivirus),IC80,19.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,383.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,258.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,67.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,4154.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,311.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,4.905,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,970.35,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1733.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,228.45,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1324.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,15.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,203.85,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,156.75,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,130.8,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,208.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,2.715,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1240.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,758.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,352.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1494.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.1.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,6.735,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,305.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1211.55,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,92.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,9.6,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,604.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,5.505,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,2236.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1.335,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1158,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,5252.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,202.8,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,24.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1480.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,16.95,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.2 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,3.195,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,158.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,520.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,24.15,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,562.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,6.885,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,3653.85,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,1314.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,5406.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,66.15,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,2088.6,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,45.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.2.12.1 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,5.61,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,28.95,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,5888.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,47.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1534.8,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC50,1.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,CT-P59,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-46.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-COV555,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,A19-61.1,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,62.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10987,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2130,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,319.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,S309,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,9500.85,1,10050,1,ng/ml,2022-08-02
+Misasi22,LY-CoV1404,BA.4/5 Spike,Figure 1A,Pseudovirus (lentivirus),IC80,3.645,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,5.595,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,3.405,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,2.205,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,1.44,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,1.125,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC50,1.275,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,14.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,6.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,4.095,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,2.535,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,3.18,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,S:614G,Figure 1B,Pseudovirus (lentivirus),IC80,2.745,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,19.35,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,4.305,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,2.46,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,2.43,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC50,2.91,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,47.55,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,8.805,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,4.68,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,5.235,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B.1.351 Spike:-246I,Figure 1B,Pseudovirus (lentivirus),IC80,6.36,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,13.965,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,13.95,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,2.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,2.01,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,1.89,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC50,2.85,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,29.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,24.6,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,4.77,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,3.795,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,3.51,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,B.1.617.2 Spike:+142D,Figure 1B,Pseudovirus (lentivirus),IC80,5.76,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,50.85,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,27.9,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,205.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,44.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,136.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,52.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,547.2,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,73.2,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,63.9,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,27.9,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,205.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,44.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,192.9,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,52.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,547.2,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.1.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,73.2,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,383.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,7.35,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,42,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,4.05,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,4.065,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,880.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,19.35,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,71.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,12.255,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10.5,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,365.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,6.375,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,17.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,218.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,22.2,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,824.7,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,31.35,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,41.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,935.4,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.2.12.1 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,65.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,1469.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,47.1,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,6.195,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC50,16.65,1,10050,1,ng/ml,2022-08-02
+Misasi22,CB6 + LY-CoV555,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,REGN10933 + REGN10987,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,2517.3,1,10050,1,ng/ml,2022-08-02
+Misasi22,COV2-2196 + COV2-2130,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,156.6,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,10050,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-61.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,38.25,1,10050,1,ng/ml,2022-08-02
+Misasi22,B1-182.1 + A19-46.1 + A19-61.1,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),IC80,51.45,1,10050,1,ng/ml,2022-08-02
