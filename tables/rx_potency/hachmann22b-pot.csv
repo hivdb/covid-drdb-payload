@@ -1,9 +1,4 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Hachmann22b,Omicron_BTI,WA1,Figure 1B,Pseudovirus (lentivirus),NT50,42067,19,100000,20,NULL,2022-10-24
-Hachmann22b,Omicron_BTI,BA.1 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,6352,19,100000,20,NULL,2022-10-24
-Hachmann22b,Omicron_BTI,BA.2 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,3854,19,100000,20,NULL,2022-10-24
-Hachmann22b,Omicron_BTI,BA.4/5 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,1673,19,100000,20,NULL,2022-10-24
-Hachmann22b,Omicron_BTI,BA.4.6 Spike,Figure 1B,Pseudovirus (lentivirus),NT50,630,19,100000,20,NULL,2022-10-24
 Hachmann22b,mRNA_1273_2dose,WA1,Figure 1C,Pseudovirus (lentivirus),NT50,951,16,100000,20,NULL,2022-10-24
 Hachmann22b,mRNA_1273_2dose,BA.2 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,28,16,100000,20,NULL,2022-10-24
 Hachmann22b,mRNA_1273_2dose,BA.4/5 Spike,Figure 1C,Pseudovirus (lentivirus),NT50,30,16,100000,20,NULL,2022-10-24
