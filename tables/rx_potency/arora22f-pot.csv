@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Arora22f,Casirivimab,B.1 Spike,Figure B,Pseudovirus (VSV),IC50,21,1,50000,1,ng/ml,2022-12-15
 Arora22f,Imdevimab,B.1 Spike,Figure B,Pseudovirus (VSV),IC50,19,1,50000,1,ng/ml,2022-12-15
 Arora22f,Bamlanivimab,B.1 Spike,Figure B,Pseudovirus (VSV),IC50,16,1,50000,1,ng/ml,2022-12-15
