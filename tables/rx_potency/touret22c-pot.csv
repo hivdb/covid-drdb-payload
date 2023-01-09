@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Touret22c,Casirivimab,hCoV-19/France/PAC-0610/2021,Table 1,Virus isolate,IC50,14.7,1,5000,1,ng/ml,2023-01-06
 Touret22c,Casirivimab,hCoV-19/France/NAQ-HCL022005338701/2022,Table 1,Virus isolate,IC50,5000,1,5000,1,ng/ml,2023-01-06
 Touret22c,Casirivimab,hCoV-19/France/IDF-IPP50347/2022,Table 1,Virus isolate,IC50,5000,1,5000,1,ng/ml,2023-01-06
