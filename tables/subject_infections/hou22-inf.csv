@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Hou22,CP_BA1_geq28d,~,2022-01-01,Omicron/BA.1,United Kingdom,NULL,NULL,NULL
 Hou22,CP_BA2_geq28d,~,2022-02-01,Omicron/BA.2,United Kingdom,NULL,NULL,NULL
 Hou22,CP_BA45_geq28d,~,2022-03-01,Omicron/BA.4_or_BA.5,United Kingdom,NULL,NULL,NULL
