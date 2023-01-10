@@ -4284,6 +4284,10 @@ Yu21c,BBIBP_3dose,Human,1982,292
 Yu22,BNT162b2,Human,NULL,22
 Yu22,vaccinated_bti,Human,NULL,8
 Yu22b,inactivated virus vaccine,Human,NULL,200
+Yue23,CoronaVac_BA.1_BTI,Human,NULL,50
+Yue23,CoronaVac_BA.5_BTI,Human,1984,36
+Yue23,CoronaVac_BF.7_BTI,Human,1986,30
+Yue23,mRNA_BA.5_BTI,Human,1987,10
 Zani21,BNT162b2,Human,NULL,37
 Zeng21,CP,Human,NULL,18
 Zeng21,mRNA,Human,NULL,40

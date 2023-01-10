@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yue23,CoronaVac_BA.1_BTI,S:614G,Figure 1A,Pseudovirus,NT50,1469,50,100000,20,NULL,2023-01-09
+Yue23,CoronaVac_BA.1_BTI,XBB.1 Spike,Figure 1A,Pseudovirus,NT50,22,50,100000,20,NULL,2023-01-09
+Yue23,CoronaVac_BA.1_BTI,XBB.1.5 Spike,Figure 1A,Pseudovirus,NT50,25,50,100000,20,NULL,2023-01-09
+Yue23,CoronaVac_BA.5_BTI,S:614G,Figure 1A,Pseudovirus,NT50,1091,36,100000,20,NULL,2023-01-09
+Yue23,CoronaVac_BA.5_BTI,XBB.1 Spike,Figure 1A,Pseudovirus,NT50,25,36,100000,20,NULL,2023-01-09
+Yue23,CoronaVac_BA.5_BTI,XBB.1.5 Spike,Figure 1A,Pseudovirus,NT50,27,36,100000,20,NULL,2023-01-09
+Yue23,CoronaVac_BF.7_BTI,S:614G,Figure 1A,Pseudovirus,NT50,945,30,100000,20,NULL,2023-01-09
+Yue23,CoronaVac_BF.7_BTI,XBB.1 Spike,Figure 1A,Pseudovirus,NT50,30,30,100000,20,NULL,2023-01-09
+Yue23,CoronaVac_BF.7_BTI,XBB.1.5 Spike,Figure 1A,Pseudovirus,NT50,35,30,100000,20,NULL,2023-01-09
+Yue23,mRNA_BA.5_BTI,S:614G,Figure 1A,Pseudovirus,NT50,2803,10,100000,20,NULL,2023-01-09
+Yue23,mRNA_BA.5_BTI,XBB.1 Spike,Figure 1A,Pseudovirus,NT50,56,10,100000,20,NULL,2023-01-09
+Yue23,mRNA_BA.5_BTI,XBB.1.5 Spike,Figure 1A,Pseudovirus,NT50,70,10,100000,20,NULL,2023-01-09
+Yue23,Sotrovimab,XBB.1 Spike,Figure 1B,Pseudovirus,IC50,896,1,10000,1,ng/ml,2023-01-09
+Yue23,Evusheld,XBB.1 Spike,Figure 1B,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2023-01-09
+Yue23,Bebtelovimab,XBB.1 Spike,Figure 1B,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2023-01-09
+Yue23,SA55,XBB.1 Spike,Figure 1B,Pseudovirus,IC50,6.2,1,10000,1,ng/ml,2023-01-09
+Yue23,SA58,XBB.1 Spike,Figure 1B,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2023-01-09
+Yue23,SA55+SA58,XBB.1 Spike,Figure 1B,Pseudovirus,IC50,12,1,10000,1,ng/ml,2023-01-09
+Yue23,Sotrovimab,XBB.1.5 Spike,Figure 1B,Pseudovirus,IC50,915,1,10000,1,ng/ml,2023-01-09
+Yue23,Evusheld,XBB.1.5 Spike,Figure 1B,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2023-01-09
+Yue23,Bebtelovimab,XBB.1.5 Spike,Figure 1B,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2023-01-09
+Yue23,SA55,XBB.1.5 Spike,Figure 1B,Pseudovirus,IC50,7.1,1,10000,1,ng/ml,2023-01-09
+Yue23,SA58,XBB.1.5 Spike,Figure 1B,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2023-01-09
+Yue23,SA55+SA58,XBB.1.5 Spike,Figure 1B,Pseudovirus,IC50,11,1,10000,1,ng/ml,2023-01-09
