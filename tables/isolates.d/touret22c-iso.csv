@@ -1,0 +1,4 @@
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+hCoV-19/France/IDF-IPP50347/2022,Omicron/BA.2.75.2,FALSE,15111598,NULL,NULL,TRUE
+hCoV-19/France/BRE-IPP34319/2022,Omicron/BA.5,FALSE,13017789,NULL,NULL,TRUE
+hCoV-19/France/IDF-IPP50823/2022,Omicron/BQ.1.1,FALSE,15195982,NULL,NULL,TRUE
