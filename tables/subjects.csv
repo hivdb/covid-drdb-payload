@@ -4069,6 +4069,11 @@ Wang22k,BA4/5_BTI_GE_3dose,Human,NULL,20
 Wang22k,mRNA_3dose,Human,NULL,14
 Wang22k,mRNA_3dose_Bivalent,Human,NULL,21
 Wang22k,mRNA_4dose,Human,NULL,19
+Wang22l,mRNA_3dose,Human,NULL,14
+Wang22l,mRNA_3dose_bivalent,Human,NULL,21
+Wang22l,mRNA_4dose,Human,NULL,19
+Wang22l,mRNA_BA.2_BTI,Human,NULL,14
+Wang22l,mRNA_BA.4/5_BTI,Human,NULL,20
 Wang22m,BNT162b2_3dose,Human,NULL,1
 Wang22m,mRNA_1273_3dose,Human,NULL,1
 Weigang21,BNT162b2,Human,NULL,1
@@ -4279,6 +4284,10 @@ Yu21c,BBIBP_3dose,Human,1982,292
 Yu22,BNT162b2,Human,NULL,22
 Yu22,vaccinated_bti,Human,NULL,8
 Yu22b,inactivated virus vaccine,Human,NULL,200
+Yue23,CoronaVac_BA.1_BTI,Human,NULL,50
+Yue23,CoronaVac_BA.5_BTI,Human,1984,36
+Yue23,CoronaVac_BF.7_BTI,Human,1986,30
+Yue23,mRNA_BA.5_BTI,Human,1987,10
 Zani21,BNT162b2,Human,NULL,37
 Zeng21,CP,Human,NULL,18
 Zeng21,mRNA,Human,NULL,40

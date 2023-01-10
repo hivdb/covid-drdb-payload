@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Yue23,CoronaVac_BA.1_BTI,~,2022-01-01,Omicron/BA.1,China,NULL,NULL,Table S1
+Yue23,CoronaVac_BA.5_BTI,~,2022-08-16,Omicron/BA.5,China,NULL,NULL,Table S1
+Yue23,CoronaVac_BF.7_BTI,~,2022-10-12,Omicron/BF.7,China,NULL,NULL,Table S1
+Yue23,mRNA_BA.5_BTI,~,2022-10-21,Omicron/BA.5,China,NULL,NULL,Table S1
