@@ -1,9 +1,0 @@
-﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
-Hou22b,BNT162b2_3dose_28d,~,2021-01-01,BNT162b2,1,United Kingdom,NULL
-Hou22b,BNT162b2_3dose_28d,~,2021-02-01,BNT162b2,2,United Kingdom,NULL
-Hou22b,BNT162b2_3dose_28d,~,2021-08-01,BNT162b2,3,United Kingdom,NULL
-Hou22b,AZ_3dose_28d,~,2021-01-01,AZD1222,1,United Kingdom,NULL
-Hou22b,AZ_3dose_28d,~,2021-02-01,AZD1222,2,United Kingdom,NULL
-Hou22b,AZ_3dose_28d,~,2021-08-01,AZD1222,3,United Kingdom,NULL
-Hou22b,V1_Delta,~,2021-01-01,Unknown vaccine,1,United Kingdom,NULL
-Hou22b,Delta_V1,~,2021-08-01,Unknown vaccine,1,United Kingdom,NULL
