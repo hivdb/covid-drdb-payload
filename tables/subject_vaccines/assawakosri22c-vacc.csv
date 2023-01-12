@@ -1,0 +1,10 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Assawakosri22c,CoronaVac_2dose_AZD1222_1dose,~,2020-12-01,CoronaVac,1,Thailand,NULL
+Assawakosri22c,CoronaVac_2dose_AZD1222_1dose,~,2021-06-01,CoronaVac,2,Thailand,NULL
+Assawakosri22c,CoronaVac_2dose_AZD1222_1dose,~,2021-12-01,AZD1222,3,Thailand,NULL
+Assawakosri22c,CoronaVac_2dose_BNT_1dose,~,2020-12-01,CoronaVac,1,Thailand,NULL
+Assawakosri22c,CoronaVac_2dose_BNT_1dose,~,2021-06-01,CoronaVac,2,Thailand,NULL
+Assawakosri22c,CoronaVac_2dose_BNT_1dose,~,2021-12-01,BNT162b2,3,Thailand,NULL
+Assawakosri22c,CoronaVac_2dose_MOD_1dose,~,2020-12-01,CoronaVac,1,Thailand,NULL
+Assawakosri22c,CoronaVac_2dose_MOD_1dose,~,2021-06-01,CoronaVac,2,Thailand,NULL
+Assawakosri22c,CoronaVac_2dose_MOD_1dose,~,2021-12-01,mRNA-1273,3,Thailand,NULL

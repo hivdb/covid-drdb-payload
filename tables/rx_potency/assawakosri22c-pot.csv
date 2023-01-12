@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Assawakosri22c,CoronaVac_2dose_AZD1222_1dose_D28,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3,SARS-CoV-2 recombinant,NT50,243,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_AZD1222_1dose_D120,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3,SARS-CoV-2 recombinant,NT50,60.1,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_BNT_1dose_D28,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3,SARS-CoV-2 recombinant,NT50,313,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_BNT_1dose_D120,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3,SARS-CoV-2 recombinant,NT50,82.6,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_MOD_1dose_D28,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3,SARS-CoV-2 recombinant,NT50,645,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_MOD_1dose_D90,hCoV-19/Thailand/Bangkok_Spike_CU6418/2021,Figure 3,SARS-CoV-2 recombinant,NT50,113,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_AZD1222_1dose_D28,hCoV-19/Thailand/VOY15/2022,Figure 3,SARS-CoV-2 recombinant,NT50,340,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_AZD1222_1dose_D120,hCoV-19/Thailand/VOY15/2022,Figure 3,SARS-CoV-2 recombinant,NT50,76.5,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_BNT_1dose_D28,hCoV-19/Thailand/VOY15/2022,Figure 3,SARS-CoV-2 recombinant,NT50,449,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_BNT_1dose_D120,hCoV-19/Thailand/VOY15/2022,Figure 3,SARS-CoV-2 recombinant,NT50,70.5,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_MOD_1dose_D28,hCoV-19/Thailand/VOY15/2022,Figure 3,SARS-CoV-2 recombinant,NT50,1035,20,10000,20,NULL,2023-01-11
+Assawakosri22c,CoronaVac_2dose_MOD_1dose_D90,hCoV-19/Thailand/VOY15/2022,Figure 3,SARS-CoV-2 recombinant,NT50,229,20,10000,20,NULL,2023-01-11

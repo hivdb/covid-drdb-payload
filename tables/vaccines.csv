@@ -77,17 +77,19 @@ AZD1222 + NVX-CoV2373,Mixed,,,75
 BBIBP-CorV + BNT162b2,Mixed,,,76
 BBIBP-CorV + mRNA-1273,Mixed,,,77
 BBIBP-CorV + ZF2001,Mixed,,,78
-BNT162b2 + CoronaVac,Mixed,,,79
-BNT162b2 + MVB.1.351,Mixed,,,80
-BNT162b2 + MVD614,Mixed,,,81
-BNT162b2 + NVX-CoV2373,Mixed,,,82
-BNT162b2 or AZD1222,Mixed,,,83
-Convidecia + CoronaVac,Mixed,,,84
-Convidecia + ZF2001,Mixed,,,85
-CoronaVac + ZF2001,Mixed,,,86
-Inactivated + ZF2001,Mixed,,,87
-NVX-CoV2373 + Unknown vaccine,Mixed,,,88
-BNT162b2 bivalent + Unknown vaccine,Mixed,,,89
-mRNA-1273 bivalent + Unknown vaccine,Mixed,,,90
-mRNA-monovalent + Unknown vaccine,Mixed,,,91
-Unknown vaccine,Mixed,,,92
+BBIBP-CorV + CoronaVac,Mixed,,,79
+BNT162b2 + CoronaVac,Mixed,,,80
+BNT162b2 + MVB.1.351,Mixed,,,81
+BNT162b2 + MVD614,Mixed,,,82
+BNT162b2 + NVX-CoV2373,Mixed,,,83
+BNT162b2 or AZD1222,Mixed,,,84
+Convidecia + CoronaVac,Mixed,,,85
+Convidecia + ZF2001,Mixed,,,86
+CoronaVac + ZF2001,Mixed,,,87
+CoronaVac + mRNA-1273,Mixed,,,88
+Inactivated + ZF2001,Mixed,,,89
+NVX-CoV2373 + Unknown vaccine,Mixed,,,90
+BNT162b2 bivalent + Unknown vaccine,Mixed,,,91
+mRNA-1273 bivalent + Unknown vaccine,Mixed,,,92
+mRNA-monovalent + Unknown vaccine,Mixed,,,93
+Unknown vaccine,Mixed,,,94
