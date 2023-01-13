@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Akerman22,4dose_W/WO_inf_1,Wuhan-Hu-1,Table S2,Virus isolate,NT50,5446.203285,1,1000000,27,NULL,2023-01-12
 Akerman22,4dose_W/WO_inf_7,Wuhan-Hu-1,Table S2,Virus isolate,NT50,713.786957,1,1000000,27,NULL,2023-01-12
 Akerman22,4dose_W/WO_inf_12,Wuhan-Hu-1,Table S2,Virus isolate,NT50,770.896335,1,1000000,27,NULL,2023-01-12

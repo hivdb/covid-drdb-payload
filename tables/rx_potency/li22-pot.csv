@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Li22,CoronaVac_1dose,hCoV-19/Zhejiang/ZJ-WGF/2020,Figure 3,Virus isolate,NT50,26,43,1000,1,NULL,2023-01-13
+Li22,CoronaVac_2dose,hCoV-19/Zhejiang/ZJ-WGF/2020,Figure 3,Virus isolate,NT50,5,43,1000,1,NULL,2023-01-13
+Li22,CoronaVac_3dose,hCoV-19/Zhejiang/ZJ-WGF/2020,Figure 3,Virus isolate,NT50,2,43,1000,1,NULL,2023-01-13
+Li22,CoronaVac_1dose,hCoV-19/Zhejiang/zhoushan36/2021,Figure 3,Virus isolate,NT50,86,43,1000,1,NULL,2023-01-13
+Li22,CoronaVac_2dose,hCoV-19/Zhejiang/zhoushan36/2021,Figure 3,Virus isolate,NT50,17,43,1000,1,NULL,2023-01-13
+Li22,CoronaVac_3dose,hCoV-19/Zhejiang/zhoushan36/2021,Figure 3,Virus isolate,NT50,3,43,1000,1,NULL,2023-01-13
+Li22,CoronaVac_1dose,hCoV-19/Zhejiang/ZJ-DS/2021,Figure 3,Virus isolate,NT50,480,43,1000,1,NULL,2023-01-13
+Li22,CoronaVac_2dose,hCoV-19/Zhejiang/ZJ-DS/2021,Figure 3,Virus isolate,NT50,110,43,1000,1,NULL,2023-01-13
+Li22,CoronaVac_3dose,hCoV-19/Zhejiang/ZJ-DS/2021,Figure 3,Virus isolate,NT50,45,43,1000,1,NULL,2023-01-13

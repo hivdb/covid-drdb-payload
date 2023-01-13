@@ -2252,6 +2252,9 @@ Li21c,CP_NH9.2,Human,NULL,1
 Li21c,CP_NH9.3,Human,NULL,1
 Li21d,CP,Human,NULL,48
 Li21e,Patient,Human,NULL,1
+Li22,CoronaVac_1dose,Human,NULL,43
+Li22,CoronaVac_2dose,Human,NULL,43
+Li22,CoronaVac_3dose,Human,NULL,43
 Lien21,MVC_Rat,Mouse,NULL,36
 Lien21,MVC_high,Human,NULL,15
 Lien21,MVC_low,Human,NULL,15
