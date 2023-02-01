@@ -4462,6 +4462,11 @@ Zhang21g,CP_1M,Human,NULL,15
 Zhang21g,CP_3M,Human,NULL,13
 Zhang22,BBIBP-CorV,Human,NULL,470
 Zhang22,CP,Human,NULL,16
+Zhang22b,GroupA,Human,1978,42
+Zhang22b,GroupB,Human,1954,40
+Zhang22b,GroupC,Human,1984,98
+Zhang22b,GroupD,Human,1955,89
+Zhang22b,GroupE,Human,1984,74
 Zhao21,CoronaVac_Regimen1,Human,NULL,16
 Zhao21,CoronaVac_Regimen2,Human,NULL,12
 Zhao22,Inactivated_vaccine,Human,1996,16
