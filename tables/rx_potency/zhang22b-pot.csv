@@ -1,0 +1,21 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Zhang22b,GroupA_0d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,3.97,42,1024,1,NULL,2023-02-01
+Zhang22b,GroupA_28d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,80.5,26,1024,1,NULL,2023-02-01
+Zhang22b,GroupA_0d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,3.62,42,1024,1,NULL,2023-02-01
+Zhang22b,GroupA_28d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,15.45,26,1024,1,NULL,2023-02-01
+Zhang22b,GroupB_0d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,4.24,36,1024,1,NULL,2023-02-01
+Zhang22b,GroupB_28d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,44.34,20,1024,1,NULL,2023-02-01
+Zhang22b,GroupB_0d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,3.86,40,1024,1,NULL,2023-02-01
+Zhang22b,GroupB_28d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,13.04,20,1024,1,NULL,2023-02-01
+Zhang22b,GroupC_0d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,4.06,98,1024,1,NULL,2023-02-01
+Zhang22b,GroupC_28d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,204.25,26,1024,1,NULL,2023-02-01
+Zhang22b,GroupC_0d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,3.89,98,1024,1,NULL,2023-02-01
+Zhang22b,GroupC_28d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,54.93,26,1024,1,NULL,2023-02-01
+Zhang22b,GroupD_0d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,4.36,89,1024,1,NULL,2023-02-01
+Zhang22b,GroupD_28d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,121.24,20,1024,1,NULL,2023-02-01
+Zhang22b,GroupD_0d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,4,89,1024,1,NULL,2023-02-01
+Zhang22b,GroupD_28d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,37.1,20,1024,1,NULL,2023-02-01
+Zhang22b,GroupE_0d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,4.39,74,1024,1,NULL,2023-02-01
+Zhang22b,GroupE_28d,hCoV-19/Shandong/C1240017/2020,Table 1,Virus isolate,NT50,232.85,20,1024,1,NULL,2023-02-01
+Zhang22b,GroupE_0d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,34.6,74,1024,1,NULL,2023-02-01
+Zhang22b,GroupE_28d,hCoV-19/Shandong/SCDCP-OA-001/2022,Table 1,Virus isolate,NT50,61.5,20,1024,1,NULL,2023-02-01
