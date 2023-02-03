@@ -1,0 +1,5 @@
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+hCoV-19/USA/CA-Stanford-105_S27/2022,Omicron/BA.2.75.2,FALSE,15181486,NULL,NULL,TRUE
+hCoV-19/USA/CA-Stanford-106_S04/2022,Omicron/BQ.1.1,FALSE,15196219,NULL,NULL,TRUE
+hCoV-19/USA/CA-Stanford-109_S21/2022,Omicron/XBB,FALSE,15509864,NULL,NULL,TRUE
+hCoV-19/USA/CA-Stanford-94_S13/2022,Omicron/BA.2.75,FALSE,14393635,NULL,NULL,TRUE

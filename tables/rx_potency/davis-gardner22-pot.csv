@@ -1,0 +1,25 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Davis-Gardner22,Mono_booster_1,hCoV-19/USA/GA-EHC-2811C/2021,Figure 1A,Virus isolate,NT50,857,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_1,hCoV-19/USA/COR-22-063113/2022,Figure 1A,Virus isolate,NT50,60,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_1,hCoV-19/USA/CA-Stanford-94_S13/2022,Figure 1A,Virus isolate,NT50,50,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_1,hCoV-19/USA/CA-Stanford-105_S27/2022,Figure 1A,Virus isolate,NT50,23,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_1,hCoV-19/USA/CA-Stanford-106_S04/2022,Figure 1A,Virus isolate,NT50,19,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_1,hCoV-19/USA/CA-Stanford-109_S21/2022,Figure 1A,Virus isolate,NT50,10,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_M1,hCoV-19/USA/GA-EHC-2811C/2021,Figure 1B,Virus isolate,NT50,2352,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_M1,hCoV-19/USA/COR-22-063113/2022,Figure 1B,Virus isolate,NT50,408,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_M1,hCoV-19/USA/CA-Stanford-94_S13/2022,Figure 1B,Virus isolate,NT50,250,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_M1,hCoV-19/USA/CA-Stanford-105_S27/2022,Figure 1B,Virus isolate,NT50,98,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_M1,hCoV-19/USA/CA-Stanford-106_S04/2022,Figure 1B,Virus isolate,NT50,73,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_M1,hCoV-19/USA/CA-Stanford-109_S21/2022,Figure 1B,Virus isolate,NT50,37,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_D75,hCoV-19/USA/GA-EHC-2811C/2021,Supplementary Figure S2,Virus isolate,NT50,1668,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_D75,hCoV-19/USA/COR-22-063113/2022,Supplementary Figure S2,Virus isolate,NT50,182,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_D75,hCoV-19/USA/CA-Stanford-94_S13/2022,Supplementary Figure S2,Virus isolate,NT50,139,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_D75,hCoV-19/USA/CA-Stanford-105_S27/2022,Supplementary Figure S2,Virus isolate,NT50,54,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_D75,hCoV-19/USA/CA-Stanford-106_S04/2022,Supplementary Figure S2,Virus isolate,NT50,43,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Mono_booster_2_D75,hCoV-19/USA/CA-Stanford-109_S21/2022,Supplementary Figure S2,Virus isolate,NT50,28,11,10000,20,NULL,2023-02-03
+Davis-Gardner22,Bivalent_booster,hCoV-19/USA/GA-EHC-2811C/2021,Figure 1C,Virus isolate,NT50,2481,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Bivalent_booster,hCoV-19/USA/COR-22-063113/2022,Figure 1C,Virus isolate,NT50,618,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Bivalent_booster,hCoV-19/USA/CA-Stanford-94_S13/2022,Figure 1C,Virus isolate,NT50,576,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Bivalent_booster,hCoV-19/USA/CA-Stanford-105_S27/2022,Figure 1C,Virus isolate,NT50,201,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Bivalent_booster,hCoV-19/USA/CA-Stanford-106_S04/2022,Figure 1C,Virus isolate,NT50,112,12,10000,20,NULL,2023-02-03
+Davis-Gardner22,Bivalent_booster,hCoV-19/USA/CA-Stanford-109_S21/2022,Figure 1C,Virus isolate,NT50,96,12,10000,20,NULL,2023-02-03

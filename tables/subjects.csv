@@ -817,6 +817,9 @@ Cowling22,CoronaVac_2dose_BNT162b2_1dose,Human,1968,39
 Cowling22,CoronaVac_2dose_BNT162b2_1dose_BTI,Human,1968,42
 Cowling22,CoronaVac_2dose_BNT162b2_2dose,Human,1968,21
 Cowling22,CoronaVac_2dose_preboost,Human,1968,39
+Davis-Gardner22,Bivalent_booster,Human,NULL,12
+Davis-Gardner22,Mono_booster,Human,NULL,11
+Davis-Gardner22,Mono_booster_2,Human,NULL,12
 Davis21,BNT_1dose,Human,1978,37
 Davis21,BNT_2dose,Human,1978,59
 Davis21,ChAdOx1_1dose,Human,1965,50
