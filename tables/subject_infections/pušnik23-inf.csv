@@ -1,0 +1,6 @@
+ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Pušnik23,mRNA_2dose_alpha_inf,~,2021-04-15,Alpha,Germany,NULL,NULL,NULL
+Pušnik23,mRNA_2dose_delta_inf,~,2021-09-15,Delta,Germany,NULL,NULL,NULL
+Pušnik23,mRNA_3dose_omicron_bti,~,2022-01-15,Omicron/BA.1_or_BA.2,Germany,NULL,NULL,NULL
+Pušnik23,mRNA_3dose_alpha_inf,~,2021-04-15,Alpha,Germany,NULL,NULL,NULL
+Pušnik23,mRNA_3dose_delta_inf,~,2021-09-15,Delta,Germany,NULL,NULL,NULL
