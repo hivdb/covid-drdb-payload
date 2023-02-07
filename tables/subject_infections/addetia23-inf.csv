@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Addetia23,WA1_Inf_mRNA_bivalent_4dose,~,2021-01-01,B.1,USA,NULL,NULL,NULL
 Addetia23,mRNA_Omicron_BTI_bivalent_4dose,~,2022-01-01,Unknown Omicron,USA,NULL,NULL,NULL
 Addetia23,WA1_Inf_mRNA_monovalent_3dose,~,2021-01-01,B.1,USA,NULL,NULL,NULL

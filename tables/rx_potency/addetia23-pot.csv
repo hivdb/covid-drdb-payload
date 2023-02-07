@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Addetia23,sotrovimab,B.1 Spike,Figure 3A,Pseudovirus (VSV),IC50,58,1,100000,1,ng/ml,2023-02-07
 Addetia23,sotrovimab,BA.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,1119,1,100000,1,ng/ml,2023-02-07
 Addetia23,sotrovimab,BA.2.75.2 Spike,Figure 3A,Pseudovirus (VSV),IC50,433,1,100000,1,ng/ml,2023-02-07
