@@ -1,0 +1,121 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Vikse23,mRNA_3dose,hCoV-19/Norway/126/2022,Figure 1B,Virus isolate,NT50,125,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/30134/2022,Figure 1B,Virus isolate,NT50,100,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/31280/2022,Figure 1B,Virus isolate,NT50,57,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_3dose,Omicron/BA.2.75.2 full genome,Figure 1B,Virus isolate,NT50,48,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/32121/2022,Figure 1B,Virus isolate,NT50,9,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/21334/2022,Figure 1B,Virus isolate,NT50,189,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/29067/2022,Figure 1B,Virus isolate,NT50,74,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/31371/2022,Figure 1B,Virus isolate,NT50,9,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/126/2022,Figure 1C,Virus isolate,NT50,900,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/30134/2022,Figure 1C,Virus isolate,NT50,613,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/31280/2022,Figure 1C,Virus isolate,NT50,369,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,Omicron/BA.2.75.2 full genome,Figure 1C,Virus isolate,NT50,440,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/32121/2022,Figure 1C,Virus isolate,NT50,60,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/21334/2022,Figure 1C,Virus isolate,NT50,708,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/29067/2022,Figure 1C,Virus isolate,NT50,365,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/31371/2022,Figure 1C,Virus isolate,NT50,43,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/126/2022,Figure 1D,Virus isolate,NT50,563,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/30134/2022,Figure 1D,Virus isolate,NT50,187,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/31280/2022,Figure 1D,Virus isolate,NT50,155,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,Omicron/BA.2.75.2 full genome,Figure 1D,Virus isolate,NT50,180,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/32121/2022,Figure 1D,Virus isolate,NT50,36,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/21334/2022,Figure 1D,Virus isolate,NT50,1077,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/29067/2022,Figure 1D,Virus isolate,NT50,364,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/31371/2022,Figure 1D,Virus isolate,NT50,42,5,640,10,NULL,2023-02-03
+Vikse23,P1,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P2,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,137,1,640,10,NULL,2023-02-03
+Vikse23,P3,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P4,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P5,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P6,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,44,1,640,10,NULL,2023-02-03
+Vikse23,P7,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,54,1,640,10,NULL,2023-02-03
+Vikse23,P8,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,69,1,640,10,NULL,2023-02-03
+Vikse23,P9,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P10,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P11,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,264,1,640,10,NULL,2023-02-03
+Vikse23,P12,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,336,1,640,10,NULL,2023-02-03
+Vikse23,P13,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,165,1,640,10,NULL,2023-02-03
+Vikse23,P14,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,180,1,640,10,NULL,2023-02-03
+Vikse23,P15,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,301,1,640,10,NULL,2023-02-03
+Vikse23,P16,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P17,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,146,1,640,10,NULL,2023-02-03
+Vikse23,P18,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,62,1,640,10,NULL,2023-02-03
+Vikse23,P19,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P20,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,166,1,640,10,NULL,2023-02-03
+Vikse23,P21,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,13,1,640,10,NULL,2023-02-03
+Vikse23,P22,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,621,1,640,10,NULL,2023-02-03
+Vikse23,P23,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,505,1,640,10,NULL,2023-02-03
+Vikse23,P24,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P25,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P26,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,63,1,640,10,NULL,2023-02-03
+Vikse23,P27,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P28,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P29,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,542,1,640,10,NULL,2023-02-03
+Vikse23,P30,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,24,1,640,10,NULL,2023-02-03
+Vikse23,P31,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,320,1,640,10,NULL,2023-02-03
+Vikse23,P32,hCoV-19/Norway/21334/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P1,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P2,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P3,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P4,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,16,1,640,10,NULL,2023-02-03
+Vikse23,P5,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P6,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,14,1,640,10,NULL,2023-02-03
+Vikse23,P7,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P8,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P9,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,50,1,640,10,NULL,2023-02-03
+Vikse23,P10,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,494,1,640,10,NULL,2023-02-03
+Vikse23,P11,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,20,1,640,10,NULL,2023-02-03
+Vikse23,P12,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,151,1,640,10,NULL,2023-02-03
+Vikse23,P13,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,15,1,640,10,NULL,2023-02-03
+Vikse23,P14,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,16,1,640,10,NULL,2023-02-03
+Vikse23,P15,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,71,1,640,10,NULL,2023-02-03
+Vikse23,P16,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P17,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P18,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P19,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,86,1,640,10,NULL,2023-02-03
+Vikse23,P20,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,12,1,640,10,NULL,2023-02-03
+Vikse23,P21,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P22,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,59,1,640,10,NULL,2023-02-03
+Vikse23,P23,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,90,1,640,10,NULL,2023-02-03
+Vikse23,P24,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P25,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P26,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P27,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P28,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,587,1,640,10,NULL,2023-02-03
+Vikse23,P29,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,156,1,640,10,NULL,2023-02-03
+Vikse23,P30,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P31,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,35,1,640,10,NULL,2023-02-03
+Vikse23,P32,hCoV-19/Norway/31371/2022,Supplementary Table II,Virus isolate,NT50,125,1,640,10,NULL,2023-02-03
+Vikse23,P1,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P2,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P3,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P4,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,16,1,640,10,NULL,2023-02-03
+Vikse23,P5,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P6,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P7,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P8,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P9,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,29,1,640,10,NULL,2023-02-03
+Vikse23,P10,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,113,1,640,10,NULL,2023-02-03
+Vikse23,P11,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,14,1,640,10,NULL,2023-02-03
+Vikse23,P12,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,31,1,640,10,NULL,2023-02-03
+Vikse23,P13,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,14,1,640,10,NULL,2023-02-03
+Vikse23,P14,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,13,1,640,10,NULL,2023-02-03
+Vikse23,P15,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,23,1,640,10,NULL,2023-02-03
+Vikse23,P16,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P17,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P18,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P19,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,91,1,640,10,NULL,2023-02-03
+Vikse23,P20,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P21,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P22,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,62,1,640,10,NULL,2023-02-03
+Vikse23,P23,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,22,1,640,10,NULL,2023-02-03
+Vikse23,P24,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P25,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,640,1,640,10,NULL,2023-02-03
+Vikse23,P26,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P27,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P28,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,369,1,640,10,NULL,2023-02-03
+Vikse23,P29,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,14,1,640,10,NULL,2023-02-03
+Vikse23,P30,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,10,1,640,10,NULL,2023-02-03
+Vikse23,P31,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,59,1,640,10,NULL,2023-02-03
+Vikse23,P32,hCoV-19/Norway/32121/2022,Supplementary Table II,Virus isolate,NT50,46,1,640,10,NULL,2023-02-03

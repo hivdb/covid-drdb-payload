@@ -1,0 +1,3 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Wang22o,BA2_bti,~,2022-01-01,Omicron/BA.2,USA,NULL,NULL,NULL
+Wang22o,BA45_bti,~,2022-08-01,Omicron/BA.4_or_BA.5,USA,NULL,NULL,NULL
