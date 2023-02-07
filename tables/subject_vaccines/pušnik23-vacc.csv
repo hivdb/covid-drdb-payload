@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Pušnik23,mRNA_2dose,~,2021-02-15,mRNA-monovalent,1,Germany,NULL
 Pušnik23,mRNA_2dose,~,2021-03-15,mRNA-monovalent,2,Germany,NULL
 Pušnik23,mRNA_2dose_alpha_inf,~,2021-02-15,mRNA-monovalent,1,Germany,NULL

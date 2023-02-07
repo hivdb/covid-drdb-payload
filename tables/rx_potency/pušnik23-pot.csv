@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Pušnik23,mRNA_2dose,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,241,54,32768,2,NULL,2023-02-07
 Pušnik23,mRNA_2dose,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,144,54,32768,2,NULL,2023-02-07
 Pušnik23,mRNA_2dose,B.1.1.529 full genome,Figure 1D,Virus isolate,NT50,15,54,32768,2,NULL,2023-02-07

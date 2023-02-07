@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Pušnik23,mRNA_2dose,mRNA_2dose,~,2021-03-15,Germany,mRNA_2dose,NULL
 Pušnik23,mRNA_2dose_alpha_inf,mRNA_2dose_alpha_inf,~,2021-05-15,Germany,mRNA_2dose_alpha_inf,NULL
 Pušnik23,mRNA_2dose_delta_inf,mRNA_2dose_delta_inf,~,2021-10-15,Germany,mRNA_2dose_delta_inf,NULL
