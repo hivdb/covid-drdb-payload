@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Entzminger23,C-A11,Wuhan-Hu-1 Spike,Table 1,sVNT,IC50,9.7,1,1000,1,ng/ml,2023-02-07
 Entzminger23,hN2Y,Wuhan-Hu-1 Spike,Table 1,sVNT,IC50,19.4,1,1000,1,ng/ml,2023-02-07
 Entzminger23,LxC1-G10,Wuhan-Hu-1 Spike,Table 1,sVNT,IC50,6.7,1,1000,1,ng/ml,2023-02-07
