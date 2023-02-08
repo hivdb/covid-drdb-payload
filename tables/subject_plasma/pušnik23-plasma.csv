@@ -1,0 +1,8 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Pušnik23,mRNA_2dose,mRNA_2dose,~,2021-03-15,Germany,mRNA_2dose,NULL
+Pušnik23,mRNA_2dose_alpha_inf,mRNA_2dose_alpha_inf,~,2021-05-15,Germany,mRNA_2dose_alpha_inf,NULL
+Pušnik23,mRNA_2dose_delta_inf,mRNA_2dose_delta_inf,~,2021-10-15,Germany,mRNA_2dose_delta_inf,NULL
+Pušnik23,mRNA_3dose,mRNA_3dose,~,2021-12-15,Germany,mRNA_3dose,NULL
+Pušnik23,mRNA_3dose_omicron_bti,mRNA_3dose_omicron_bti,~,2022-02-15,Germany,mRNA_3dose_omicron_bti,NULL
+Pušnik23,mRNA_3dose_alpha_inf,mRNA_3dose_alpha_inf,~,2022-01-15,Germany,mRNA_3dose_alpha_inf,NULL
+Pušnik23,mRNA_3dose_delta_inf,mRNA_3dose_delta_inf,~,2022-02-15,Germany,mRNA_3dose_delta_inf,NULL

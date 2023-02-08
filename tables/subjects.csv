@@ -2931,6 +2931,13 @@ Pommeret21,Pt1,Human,1958,1
 Pommeret21,Pt2,Human,1958,1
 Pommeret21,Pt3,Human,1958,1
 Pommeret21,Pt4,Human,1958,1
+Pušnik23,mRNA_2dose,Human,NULL,54
+Pušnik23,mRNA_2dose_alpha_inf,Human,NULL,7
+Pušnik23,mRNA_2dose_delta_inf,Human,NULL,13
+Pušnik23,mRNA_3dose,Human,NULL,23
+Pušnik23,mRNA_3dose_alpha_inf,Human,NULL,7
+Pušnik23,mRNA_3dose_delta_inf,Human,NULL,7
+Pušnik23,mRNA_3dose_omicron_bti,Human,NULL,10
 Qu22,Delta_ICU_CP,Human,1962,12
 Qu22,Delta_ICU_VP,Human,1962,6
 Qu22,HCW_2dose_BNT,Human,1985,11

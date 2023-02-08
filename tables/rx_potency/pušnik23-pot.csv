@@ -1,0 +1,22 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Pušnik23,mRNA_2dose,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,241,54,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_2dose,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,144,54,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_2dose,B.1.1.529 full genome,Figure 1D,Virus isolate,NT50,15,54,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_2dose_alpha_inf,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,593,7,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_2dose_alpha_inf,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,374,7,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_2dose_alpha_inf,B.1.1.529 full genome,Figure 1D,Virus isolate,NT50,29,7,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_2dose_delta_inf,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,2308,13,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_2dose_delta_inf,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,1608,13,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_2dose_delta_inf,B.1.1.529 full genome,Figure 1D,Virus isolate,NT50,246,13,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,1237,23,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,841,23,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose,B.1.1.529 full genome,Figure 1D,Virus isolate,NT50,261,23,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_omicron_bti,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,1405,10,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_omicron_bti,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,1584,10,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_omicron_bti,B.1.1.529 full genome,Figure 1D,Virus isolate,NT50,667,10,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_alpha_inf,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,303,7,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_alpha_inf,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,364,7,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_alpha_inf,B.1.1.529 full genome,Figure 1D,Virus isolate,NT50,132,7,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_delta_inf,Wuhan-Hu-1,Figure 1D,Virus isolate,NT50,1184,7,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_delta_inf,B.1.617.2 full genome,Figure 1D,Virus isolate,NT50,1081,7,32768,2,NULL,2023-02-07
+Pušnik23,mRNA_3dose_delta_inf,B.1.1.529 full genome,Figure 1D,Virus isolate,NT50,368,7,32768,2,NULL,2023-02-07
