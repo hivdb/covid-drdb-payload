@@ -1,0 +1,7 @@
+ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Shen23,CP_b1,CP_b1,~,2021-06-15,China,CP_b1,NULL
+Shen23,inactivated_2dose_b1_inf,inactivated_2dose_b1_inf,~,2021-06-15,China,inactivated_2dose_b1_inf,NULL
+Shen23,CP_delta,CP_delta,~,2021-08-15,China,CP_delta,NULL
+Shen23,inactivated_2dose_delta_inf,inactivated_2dose_delta_inf,~,2021-08-15,China,inactivated_2dose_delta_inf,NULL
+Shen23,inactivated_2dose_BA1_inf,inactivated_2dose_BA1_inf,~,2022-05-15,China,inactivated_2dose_BA1_inf,NULL
+Shen23,inactivated_3dose_BA1_inf,inactivated_3dose_BA1_inf,~,2022-05-15,China,inactivated_3dose_BA1_inf,NULL
