@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Shen23,CP_ancestral,B.1 Spike,Figure 1A,Pseudovirus (VSV),NT50,888,7,100000,10,NULL,2023-02-07
 Shen23,CP_ancestral,B.1.1.7 Spike,Figure 1A,Pseudovirus (VSV),NT50,1759,7,100000,10,NULL,2023-02-07
 Shen23,CP_ancestral,B.1.351 Spike:-246I,Figure 1A,Pseudovirus (VSV),NT50,389,7,100000,10,NULL,2023-02-07
