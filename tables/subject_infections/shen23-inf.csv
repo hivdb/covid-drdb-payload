@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Shen23,CP_b1,~,2021-06-01,B.1,China,NULL,NULL,NULL
+Shen23,inactivated_2dose_b1_inf,~,2021-06-01,B.1,China,NULL,NULL,NULL
+Shen23,CP_delta,~,2021-08-01,Delta,China,NULL,NULL,NULL
+Shen23,inactivated_2dose_delta_inf,~,2021-08-01,Delta,China,NULL,NULL,NULL
+Shen23,inactivated_2dose_BA1_inf,~,2022-05-01,Omicron/BA.1,China,NULL,NULL,NULL
+Shen23,inactivated_3dose_BA1_inf,~,2022-05-01,Omicron/BA.1,China,NULL,NULL,NULL
