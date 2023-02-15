@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Chen23,BA1_inf_01,BA1_inf_01_3days,~,2022-02-14,China,BA1_inf_1dose,NULL
 Chen23,BA1_inf_02,BA1_inf_02_3days,~,2022-02-24,China,CP_BA1,NULL
 Chen23,BA1_inf_03,BA1_inf_03_4days,~,2022-02-06,China,CP_BA1,NULL

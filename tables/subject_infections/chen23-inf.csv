@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Chen23,BA1_inf_01,~,2022-02-25,Omicron/BA.1,China,NULL,NULL,NULL
 Chen23,BA1_inf_02,~,2022-02-21,Omicron/BA.1,China,NULL,NULL,NULL
 Chen23,BA1_inf_03,~,2022-02-18,Omicron/BA.1,China,NULL,NULL,NULL

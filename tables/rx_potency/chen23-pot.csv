@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Chen23,BA1_inf_01_3days,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,8,1,10000,8,NULL,2023-02-15
 Chen23,BA1_inf_02_3days,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,8,1,10000,8,NULL,2023-02-15
 Chen23,BA1_inf_03_4days,Omicron/BA.1 full genome,Supplementary Table 1,Virus isolate,NT50,8,1,10000,8,NULL,2023-02-15
