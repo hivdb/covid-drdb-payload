@@ -1,7 +1,7 @@
 ﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
-Wang22l,mRNA_3dose,~,2022-01-01,mRNA-monovalent,3,USA,Table S1
-Wang22l,mRNA_4dose,~,2022-09-01,mRNA-monovalent,4,USA,Table S1
-Wang22l,mRNA_3dose_bivalent,~,2022-01-01,mRNA-monovalent,3,USA,Table S1
-Wang22l,mRNA_3dose_bivalent,~,2022-10-01,mRNA-bivalent,4,USA,Table S1
-Wang22l,mRNA_BA.2_BTI,~,2022-01-01,mRNA-monovalent,3,USA,Table S1
-Wang22l,mRNA_BA.4/5_BTI,~,2022-01-01,mRNA-monovalent,3,USA,Table S1
+Wang22l,WT_3dose,~,2022-01-01,mRNA-monovalent,3,USA,NULL
+Wang22l,WT_4dose,~,2022-09-01,mRNA-monovalent,4,USA,NULL
+Wang22l,WT_3dose_bivalent_1dose,~,2022-01-01,mRNA-monovalent,3,USA,NULL
+Wang22l,WT_3dose_bivalent_1dose,~,2022-10-01,mRNA-bivalent,4,USA,NULL
+Wang22l,BA2_bti,~,2022-01-01,mRNA-monovalent,3,USA,NULL
+Wang22l,BA45_bti,~,2022-01-01,mRNA-monovalent,3,USA,NULL
