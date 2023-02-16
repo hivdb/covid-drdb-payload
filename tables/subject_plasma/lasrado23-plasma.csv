@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Lasrado23,mRNA_bivalent_4dose,mRNA_monovalent_3dose,~,2022-06-23,USA,mRNA_bivalent_4dose,NULL
 Lasrado23,mRNA_bivalent_4dose,mRNA_bivalent_4dose_3wks,~,2022-07-14,USA,mRNA_bivalent_4dose,NULL
 Lasrado23,mRNA_bivalent_4dose,mRNA_bivalent_4dose_3months,~,2022-09-23,USA,mRNA_bivalent_4dose,NULL
