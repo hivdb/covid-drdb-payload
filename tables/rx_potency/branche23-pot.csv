@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Branche23,bivalent_BA1_01d,B.1 Spike,Supplementary Table 1,Pseudovirus,NT50,5085,41,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_01d,BA.1 Spike,Supplementary Table 1,Pseudovirus,NT50,651,41,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_01d,BA.4/5 Spike,Supplementary Table 1,Pseudovirus,NT50,374,41,1000000,40,NULL,2023-02-16
