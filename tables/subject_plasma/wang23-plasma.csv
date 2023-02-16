@@ -1,0 +1,9 @@
+ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Wang23,CoronaVac_3dose,CoronaVac_3dose_14d,~,2021-08-19,China,CoronaVac_3dose,NULL
+Wang23,CoronaVac_2dose_ZF2001_1dose,CoronaVac_2dose_ZF2001_1dose_14d,~,2021-08-19,China,CoronaVac_2dose_ZF2001_1dose,NULL
+Wang23,inactivated_2dose_delta_bti,inactivated_2dose_delta_bti_6mo,~,2021-09-25,China,inactivated_2dose_delta_bti,NULL
+Wang23,inactivated_2dose_BA2_bti,inactivated_2dose_BA2_bti_6mo,~,2022-08-28,China,inactivated_2dose_BA2_bti,NULL
+Wang23,inactivated_3dose_BA2_bti,inactivated_3dose_BA2_bti_6mo,~,2022-08-24,China,inactivated_3dose_BA2_bti,NULL
+Wang23,inactivated_2dose_BA5_bti,inactivated_2dose_BA5_bti_14d,~,2022-05-30,China,inactivated_2dose_BA5_bti,NULL
+Wang23,inactivated_3dose_BA5_bti,inactivated_3dose_BA5_bti_14d,~,2022-07-03,China,inactivated_3dose_BA5_bti,NULL
+Wang23,inactivated_3dose_BF7_bti,inactivated_3dose_BF7_bti_14d,~,2022-09-26,China,inactivated_3dose_BF7_bti,NULL
