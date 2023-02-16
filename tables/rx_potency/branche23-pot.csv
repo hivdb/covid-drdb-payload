@@ -1,77 +1,77 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Branche23,bivalent_BA1_01d,B.1 Spike,Supplementary Table 1,Pseudovirus,NT50,5085,41,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA1_01d,BA.1Spike,Supplementary Table 1,Pseudovirus,NT50,651,41,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA1_01d,BA.1 Spike,Supplementary Table 1,Pseudovirus,NT50,651,41,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_01d,BA.4/5 Spike,Supplementary Table 1,Pseudovirus,NT50,374,41,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_15d,B.1 Spike,Supplementary Table 1,Pseudovirus,NT50,23561,40,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA1_15d,BA.1Spike,Supplementary Table 1,Pseudovirus,NT50,4699,40,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA1_15d,BA.1 Spike,Supplementary Table 1,Pseudovirus,NT50,4699,40,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_15d,BA.4/5 Spike,Supplementary Table 1,Pseudovirus,NT50,2398,40,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_29d,B.1 Spike,Supplementary Table 1,Pseudovirus,NT50,25507,40,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA1_29d,BA.1Spike,Supplementary Table 1,Pseudovirus,NT50,3870,40,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA1_29d,BA.1 Spike,Supplementary Table 1,Pseudovirus,NT50,3870,40,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_29d,BA.4/5 Spike,Supplementary Table 1,Pseudovirus,NT50,2241,40,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_01d,B.1 Spike,Supplementary Table 2,Pseudovirus,NT50,4492,41,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA45_01d,BA.1Spike,Supplementary Table 2,Pseudovirus,NT50,465,41,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA45_01d,BA.1 Spike,Supplementary Table 2,Pseudovirus,NT50,465,41,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_01d,BA.4/5 Spike,Supplementary Table 2,Pseudovirus,NT50,334,41,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_15d,B.1 Spike,Supplementary Table 2,Pseudovirus,NT50,30673,40,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA45_15d,BA.1Spike,Supplementary Table 2,Pseudovirus,NT50,4166,40,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA45_15d,BA.1 Spike,Supplementary Table 2,Pseudovirus,NT50,4166,40,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_15d,BA.4/5 Spike,Supplementary Table 2,Pseudovirus,NT50,3751,40,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_29d,B.1 Spike,Supplementary Table 2,Pseudovirus,NT50,31302,40,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA45_29d,BA.1Spike,Supplementary Table 2,Pseudovirus,NT50,3351,40,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA45_29d,BA.1 Spike,Supplementary Table 2,Pseudovirus,NT50,3351,40,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_29d,BA.4/5 Spike,Supplementary Table 2,Pseudovirus,NT50,3262,40,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_subset_01d,B.1 Spike,Supplementary Table 3,Pseudovirus,NT50,1422,12,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA1_subset_01d,BA.1Spike,Supplementary Table 3,Pseudovirus,NT50,571,12,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA1_subset_01d,BA.1 Spike,Supplementary Table 3,Pseudovirus,NT50,571,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_subset_01d,BA.4/5 Spike,Supplementary Table 3,Pseudovirus,NT50,272,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_subset_01d,BQ.1.1 Spike,Supplementary Table 3,Pseudovirus,NT50,95,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_subset_01d,XBB.1 Spike,Supplementary Table 3,Pseudovirus,NT50,21,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_subset_15d,B.1 Spike,Supplementary Table 3,Pseudovirus,NT50,8258,11,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA1_subset_15d,BA.1Spike,Supplementary Table 3,Pseudovirus,NT50,4712,11,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA1_subset_15d,BA.1 Spike,Supplementary Table 3,Pseudovirus,NT50,4712,11,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_subset_15d,BA.4/5 Spike,Supplementary Table 3,Pseudovirus,NT50,2055,11,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_subset_15d,BQ.1.1 Spike,Supplementary Table 3,Pseudovirus,NT50,602,11,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA1_subset_15d,XBB.1 Spike,Supplementary Table 3,Pseudovirus,NT50,200,11,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_subset_01d,B.1 Spike,Supplementary Table 4,Pseudovirus,NT50,1622,12,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA45_subset_01d,BA.1Spike,Supplementary Table 4,Pseudovirus,NT50,947,12,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA45_subset_01d,BA.1 Spike,Supplementary Table 4,Pseudovirus,NT50,947,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_subset_01d,BA.4/5 Spike,Supplementary Table 4,Pseudovirus,NT50,496,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_subset_01d,BQ.1.1 Spike,Supplementary Table 4,Pseudovirus,NT50,136,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_subset_01d,XBB.1 Spike,Supplementary Table 4,Pseudovirus,NT50,44,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_subset_15d,B.1 Spike,Supplementary Table 4,Pseudovirus,NT50,11849,12,1000000,40,NULL,2023-02-16
-Branche23,bivalent_BA45_subset_15d,BA.1Spike,Supplementary Table 4,Pseudovirus,NT50,6751,12,1000000,40,NULL,2023-02-16
+Branche23,bivalent_BA45_subset_15d,BA.1 Spike,Supplementary Table 4,Pseudovirus,NT50,6751,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_subset_15d,BA.4/5 Spike,Supplementary Table 4,Pseudovirus,NT50,6753,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_subset_15d,BQ.1.1 Spike,Supplementary Table 4,Pseudovirus,NT50,1220,12,1000000,40,NULL,2023-02-16
 Branche23,bivalent_BA45_subset_15d,XBB.1 Spike,Supplementary Table 4,Pseudovirus,NT50,431,12,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_01d,B.1 Spike,Supplementary Table 1,Pseudovirus,NT50,9856,59,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA1_01d,BA.1Spike,Supplementary Table 1,Pseudovirus,NT50,1608,59,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA1_01d,BA.1 Spike,Supplementary Table 1,Pseudovirus,NT50,1608,59,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_01d,BA.4/5 Spike,Supplementary Table 1,Pseudovirus,NT50,1275,59,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_15d,B.1 Spike,Supplementary Table 1,Pseudovirus,NT50,30243,59,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA1_15d,BA.1Spike,Supplementary Table 1,Pseudovirus,NT50,8269,59,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA1_15d,BA.1 Spike,Supplementary Table 1,Pseudovirus,NT50,8269,59,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_15d,BA.4/5 Spike,Supplementary Table 1,Pseudovirus,NT50,4709,59,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_29d,B.1 Spike,Supplementary Table 1,Pseudovirus,NT50,35123,57,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA1_29d,BA.1Spike,Supplementary Table 1,Pseudovirus,NT50,6327,57,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA1_29d,BA.1 Spike,Supplementary Table 1,Pseudovirus,NT50,6327,57,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_29d,BA.4/5 Spike,Supplementary Table 1,Pseudovirus,NT50,3842,57,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_01d,B.1 Spike,Supplementary Table 2,Pseudovirus,NT50,11413,59,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA45_01d,BA.1Spike,Supplementary Table 2,Pseudovirus,NT50,1711,59,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA45_01d,BA.1 Spike,Supplementary Table 2,Pseudovirus,NT50,1711,59,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_01d,BA.4/5 Spike,Supplementary Table 2,Pseudovirus,NT50,1272,59,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_15d,B.1 Spike,Supplementary Table 2,Pseudovirus,NT50,36628,59,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA45_15d,BA.1Spike,Supplementary Table 2,Pseudovirus,NT50,8970,59,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA45_15d,BA.1 Spike,Supplementary Table 2,Pseudovirus,NT50,8970,59,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_15d,BA.4/5 Spike,Supplementary Table 2,Pseudovirus,NT50,8153,59,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_29d,B.1 Spike,Supplementary Table 2,Pseudovirus,NT50,41051,56,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA45_29d,BA.1Spike,Supplementary Table 2,Pseudovirus,NT50,6815,56,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA45_29d,BA.1 Spike,Supplementary Table 2,Pseudovirus,NT50,6815,56,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_29d,BA.4/5 Spike,Supplementary Table 2,Pseudovirus,NT50,6587,56,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_subset_01d,B.1 Spike,Supplementary Table 3,Pseudovirus,NT50,3510,13,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA1_subset_01d,BA.1Spike,Supplementary Table 3,Pseudovirus,NT50,1976,13,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA1_subset_01d,BA.1 Spike,Supplementary Table 3,Pseudovirus,NT50,1976,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_subset_01d,BA.4/5 Spike,Supplementary Table 3,Pseudovirus,NT50,1470,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_subset_01d,BQ.1.1 Spike,Supplementary Table 3,Pseudovirus,NT50,241,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_subset_01d,XBB.1 Spike,Supplementary Table 3,Pseudovirus,NT50,69,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_subset_15d,B.1 Spike,Supplementary Table 3,Pseudovirus,NT50,12932,13,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA1_subset_15d,BA.1Spike,Supplementary Table 3,Pseudovirus,NT50,8658,13,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA1_subset_15d,BA.1 Spike,Supplementary Table 3,Pseudovirus,NT50,8658,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_subset_15d,BA.4/5 Spike,Supplementary Table 3,Pseudovirus,NT50,5747,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_subset_15d,BQ.1.1 Spike,Supplementary Table 3,Pseudovirus,NT50,1004,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA1_subset_15d,XBB.1 Spike,Supplementary Table 3,Pseudovirus,NT50,407,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_subset_01d,B.1 Spike,Supplementary Table 4,Pseudovirus,NT50,2071,13,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA45_subset_01d,BA.1Spike,Supplementary Table 4,Pseudovirus,NT50,1524,13,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA45_subset_01d,BA.1 Spike,Supplementary Table 4,Pseudovirus,NT50,1524,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_subset_01d,BA.4/5 Spike,Supplementary Table 4,Pseudovirus,NT50,738,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_subset_01d,BQ.1.1 Spike,Supplementary Table 4,Pseudovirus,NT50,160,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_subset_01d,XBB.1 Spike,Supplementary Table 4,Pseudovirus,NT50,61,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_subset_15d,B.1 Spike,Supplementary Table 4,Pseudovirus,NT50,6933,13,1000000,40,NULL,2023-02-16
-Branche23,infected_bivalent_BA45_subset_15d,BA.1Spike,Supplementary Table 4,Pseudovirus,NT50,7082,13,1000000,40,NULL,2023-02-16
+Branche23,infected_bivalent_BA45_subset_15d,BA.1 Spike,Supplementary Table 4,Pseudovirus,NT50,7082,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_subset_15d,BA.4/5 Spike,Supplementary Table 4,Pseudovirus,NT50,5624,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_subset_15d,BQ.1.1 Spike,Supplementary Table 4,Pseudovirus,NT50,960,13,1000000,40,NULL,2023-02-16
 Branche23,infected_bivalent_BA45_subset_15d,XBB.1 Spike,Supplementary Table 4,Pseudovirus,NT50,370,13,1000000,40,NULL,2023-02-16
