@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Wang23,CoronaVac_3dose,~,2021-01-01,CoronaVac,1,China,NULL
 Wang23,CoronaVac_3dose,~,2021-02-01,CoronaVac,2,China,NULL
 Wang23,CoronaVac_3dose,~,2021-08-01,CoronaVac,3,China,NULL
