@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Uriu23,BA2_inf__P378,~,2021-10-10,BNT162b2,1,Japan,NULL
 Uriu23,BA2_inf__P398,~,2021-09-18,BNT162b2,1,Japan,NULL
 Uriu23,BA2_inf__P407,~,2021-09-13,mRNA-1273,1,Japan,NULL

@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Uriu23,BA2_inf__P378,B.1 Spike,Supplementary Table 4,Pseudovirus (lentivirus),NT50,11653,1,100000,120,NULL,2023-02-15
 Uriu23,BA2_inf__P398,B.1 Spike,Supplementary Table 4,Pseudovirus (lentivirus),NT50,7762,1,100000,120,NULL,2023-02-15
 Uriu23,BA2_inf__P407,B.1 Spike,Supplementary Table 4,Pseudovirus (lentivirus),NT50,2041,1,100000,120,NULL,2023-02-15

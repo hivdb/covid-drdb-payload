@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Uriu23,BA2_inf__P378,~,2021-10-10,Omicron/BA.2,Japan,NULL,NULL,NULL
 Uriu23,BA2_inf__P398,~,2021-09-18,Omicron/BA.2,Japan,NULL,NULL,NULL
 Uriu23,BA2_inf__P407,~,2021-09-13,Omicron/BA.2,Japan,NULL,NULL,NULL
