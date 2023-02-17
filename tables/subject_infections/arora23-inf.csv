@@ -1,2 +1,2 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Arora23,vaccination_3dose_BA5_bti,~,2022-03-17,Omicron/BA.5,Germany,NULL,NULL,NULL
