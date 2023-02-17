@@ -1,211 +1,211 @@
 ﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
-Wang23,LY-CoV1404,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-12,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-191,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-1.4,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-12,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-8.5,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-3.7,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,-3.8,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,-5.8,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,-125,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,-5.0,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,-89,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,-20,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,-3.1,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,1.1,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BA.2.75,Figure 6B,Pseudovirus (VSV),IC50,=,-3.0,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,=,-1.6,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,=,-7.1,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,<,-297,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,=,-94,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,=,1.6,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BA.2.75.2,Figure 6B,Pseudovirus (VSV),IC50,=,-2.8,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-4.4,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-9.2,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-37,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-99,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-88,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-3.4,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-1.6,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BA.2.75.6,Figure 6B,Pseudovirus (VSV),IC50,=,-4.8,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,-3.4,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,-39,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,-66,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,-667,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,-249,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,-3.1,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,-1.5,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,1.9,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BN.1,Figure 6B,Pseudovirus (VSV),IC50,=,-2.8,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,=,-21,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,=,-297,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,=,-134,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,=,1.7,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,XBB.1,Figure 6B,Pseudovirus (VSV),IC50,=,-3.9,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,=,-31,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,=,-297,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,=,-64,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,=,-1.1,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,=,-1.4,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,XBB.1.5,Figure 6B,Pseudovirus (VSV),IC50,=,-3.0,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,-23,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,-56,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,-17,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,-54,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,-713,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,1.0,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BA.4/5,Figure 6B,Pseudovirus (VSV),IC50,=,-1.5,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,=,-25,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,=,-11,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,=,-83,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,=,-528,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,=,-1.1,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BA.5.2.7,Figure 6B,Pseudovirus (VSV),IC50,=,-4.0,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,-25,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,-59,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,-257,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,2.3,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BE.1.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,-3.8,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,=,-1.7,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,=,-18,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,=,-52,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,=,-742,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,=,-1.8,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,=,-1.7,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BF.7,Figure 6B,Pseudovirus (VSV),IC50,=,-4.4,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,=,-2.5,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,=,-19,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,=,-43,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,=,-322,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,=,1.0,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,=,1.0,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BF.14,Figure 6B,Pseudovirus (VSV),IC50,=,-4.1,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,=,-1.9,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,=,-14,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,=,-24,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,=,-786,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,=,-1.1,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BF.16,Figure 6B,Pseudovirus (VSV),IC50,=,-4.6,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,=,-26,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-297,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,=,-553,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,=,-1.6,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BQ.1,Figure 6B,Pseudovirus (VSV),IC50,=,-1.7,NULL,NULL,1,2023-02-16
-Wang23,LY-CoV1404,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
-Wang23,S309,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,-39,NULL,NULL,1,2023-02-16
-Wang23,Brii-196,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-297,NULL,NULL,1,2023-02-16
-Wang23,COV2-2130,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,COV2-2196,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,Evusheld,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
-Wang23,S2X259,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
-Wang23,S2K146,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,-819,NULL,NULL,1,2023-02-16
-Wang23,DH1047,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
-Wang23,2-36,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
-Wang23,5-7,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
-Wang23,S3H3,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2023-02-16
-Wang23,3E8,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2023-02-16
-Wang23,H11B11,B.1 Spike,BQ.1.1,Figure 6B,Pseudovirus (VSV),IC50,=,-1.8,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-12,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-191,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.4,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-12,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-8.5,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BA.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.7,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.8,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-5.8,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-125,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-5.0,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-89,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-20,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.1,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.1,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BA.2.75 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.0,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.6,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-7.1,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-297,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-94,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.6,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BA.2.75.2 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-2.8,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-4.4,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-9.2,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-37,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-99,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-88,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.4,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.6,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BA.2.75.6 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-4.8,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.4,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-39,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-66,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-667,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-249,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.1,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.5,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.9,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BN.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-2.8,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-21,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-297,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-134,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.7,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,XBB.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.9,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-31,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-297,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-64,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.1,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.4,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,XBB.1.5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-3.0,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-23,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-56,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-17,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-54,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-713,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.0,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BA.4/5 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.5,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-25,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-11,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-83,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-528,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.1,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BA.5.2.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-4.0,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,=,-25,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,=,-59,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,=,-257,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,=,2.3,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BA.4/5 Spike:K444T,Figure 6B,Pseudovirus (VSV),IC50,=,-3.8,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.7,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-18,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-52,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-742,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.8,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.7,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BF.7 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-4.4,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,=,-2.5,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,=,-19,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,=,-43,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,=,-322,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,=,1.0,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,=,1.0,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BA.4/5 Spike:+N450D,Figure 6B,Pseudovirus (VSV),IC50,=,-4.1,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.9,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-14,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-24,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-786,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.1,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.3,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BF.16 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-4.6,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-26,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-297,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-553,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.6,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.3,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BQ.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.7,NULL,NULL,1,2023-02-16
+Wang23,LY-CoV1404,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-800,NULL,NULL,1,2023-02-16
+Wang23,S309,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-39,NULL,NULL,1,2023-02-16
+Wang23,Brii-196,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-297,NULL,NULL,1,2023-02-16
+Wang23,COV2-2130,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,COV2-2196,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,Evusheld,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-1000,NULL,NULL,1,2023-02-16
+Wang23,S2X259,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-134,NULL,NULL,1,2023-02-16
+Wang23,S2K146,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-819,NULL,NULL,1,2023-02-16
+Wang23,DH1047,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-115,NULL,NULL,1,2023-02-16
+Wang23,2-36,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-100,NULL,NULL,1,2023-02-16
+Wang23,5-7,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,<,-294,NULL,NULL,1,2023-02-16
+Wang23,S3H3,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.2,NULL,NULL,1,2023-02-16
+Wang23,3E8,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2023-02-16
+Wang23,H11B11,B.1 Spike,BQ.1.1 Spike,Figure 6B,Pseudovirus (VSV),IC50,=,-1.8,NULL,NULL,1,2023-02-16
