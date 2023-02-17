@@ -278,10 +278,10 @@ Arora22d,CP,Human,NULL,10
 Arora22e,Unvaccinated_then_infected_then_sampled,Human,NULL,10
 Arora22e,Vaccinated_Not_Infected_then_Sampled,Human,NULL,10
 Arora22e,Vaccinated_then_Infected_then_Sampled,Human,NULL,10
-Arora23,BNT162b2_3dose,Human,NULL,1
-Arora23,vaccination_3dose_BA5_bti,Human,NULL,1
-Arora23,vaccination_3dose_bivalent_1dose,Human,NULL,1
-Arora23,vaccination_3dose_monovalent_1dose,Human,NULL,1
+Arora23,BNT162b2_3dose,Human,NULL,10
+Arora23,vaccination_3dose_BA5_bti,Human,NULL,10
+Arora23,vaccination_3dose_bivalent_1dose,Human,NULL,10
+Arora23,vaccination_3dose_monovalent_1dose,Human,NULL,10
 Arunachalam21,BNT,Human,NULL,30
 Assawakosri22,AZD122,Human,NULL,55
 Assawakosri22,BBIBP,Human,NULL,57
