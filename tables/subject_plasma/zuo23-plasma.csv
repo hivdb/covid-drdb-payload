@@ -1,0 +1,7 @@
+ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Zuo23,inactivated_3dose,inactivated_3dose,~,2021-09-18,Sweden,inactivated_3dose,NULL
+Zuo23,mRNA_3dose,mRNA_3dose,~,2021-08-22,Sweden,mRNA_3dose,NULL
+Zuo23,inactivated_2dose_mRNA_1dose,inactivated_2dose_mRNA_1dose,~,2021-08-29,Sweden,inactivated_2dose_mRNA_1dose,NULL
+Zuo23,inactivated_3dose_mRNA_1dose,inactivated_3dose_mRNA_1dose,~,2022-02-01,Sweden,inactivated_3dose_mRNA_1dose,NULL
+Zuo23,mRNA_2dose_infected,mRNA_2dose_infected,~,2021-04-01,Sweden,mRNA_2dose_infected,NULL
+Zuo23,inactivated_or_mRNA_3dose_BA1_inf,inactivated_or_mRNA_3dose_BA1_inf,~,2022-01-24,Sweden,inactivated_or_mRNA_3dose_BA1_inf,NULL
