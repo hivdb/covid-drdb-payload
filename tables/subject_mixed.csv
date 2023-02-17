@@ -16,3 +16,5 @@ Rossler22b,VP_infected,TRUE,TRUE,FALSE,TRUE
 Zou23,Bivalent_inf,FALSE,FALSE,TRUE,FALSE
 Zou23,BNT162b2_inf,FALSE,FALSE,TRUE,FALSE
 Lasrado23,mRNA_bivalent_4dose,TRUE,TRUE,TRUE,FALSE
+Arora23,vaccination_3dose_BA5_bti,TRUE,FALSE,FALSE,FALSE
+Arora23,vaccination_3dose_bivalent_1dose,TRUE,FALSE,FALSE,FALSE

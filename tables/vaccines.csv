@@ -92,4 +92,6 @@ NVX-CoV2373 + Unknown vaccine,Mixed,,,90
 BNT162b2 bivalent + Unknown vaccine,Mixed,,,91
 mRNA-1273 bivalent + Unknown vaccine,Mixed,,,92
 mRNA-monovalent + Unknown vaccine,Mixed,,,93
-Unknown vaccine,Mixed,,,95
+BNT162b2 or AZD1222 + mRNA-monovalent,Mixed,,,94
+mRNA-bivalent + Unknown vaccine,Mixed,,,95
+Unknown vaccine,Mixed,,,96

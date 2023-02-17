@@ -1,0 +1,5 @@
+ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Arora23,BNT162b2_3dose,BNT162b2_3dose,~,2021-08-25,Germany,BNT162b2_3dose,NULL
+Arora23,vaccination_3dose_BA5_bti,vaccination_3dose_BA5_bti,~,2022-04-15,Germany,vaccination_3dose_BA5_bti,NULL
+Arora23,vaccination_3dose_monovalent_1dose,vaccination_3dose_monovalent_1dose,~,2022-02-02,Germany,vaccination_3dose_monovalent_1dose,NULL
+Arora23,vaccination_3dose_bivalent_1dose,vaccination_3dose_bivalent_1dose,~,2022-02-28,Germany,vaccination_3dose_bivalent_1dose,NULL
