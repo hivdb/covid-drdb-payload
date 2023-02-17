@@ -1,4 +1,4 @@
-ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+﻿ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
 Wang23,LY-CoV1404,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,1.5,NULL,NULL,1,2023-02-16
 Wang23,S309,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-12,NULL,NULL,1,2023-02-16
 Wang23,Brii-196,B.1 Spike,BA.2,Figure 6B,Pseudovirus (VSV),IC50,=,-191,NULL,NULL,1,2023-02-16
