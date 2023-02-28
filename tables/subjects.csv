@@ -2144,6 +2144,7 @@ Lapa22,BNT162b2,Human,NULL,17
 Lapa22,CP,Human,NULL,23
 Lapa22,Sputnik_V,Human,NULL,16
 Lapa22,Sputnik_V_with_infection,Human,NULL,20
+Lasrado23,mRNA_bivalent_4dose,Human,NULL,30
 Lassauniere21,BNT162b2,Human,1980,14
 Lassauniere22,BNT_2dose,Human,1970,73
 Lassauniere22,BNT_3dose,Human,1951,55
@@ -4778,6 +4779,12 @@ Zou23,Bivalent,Human,NULL,18
 Zou23,Bivalent_inf,Human,NULL,19
 Zuckerman21,BNT162b2,Human,NULL,18
 Zuckerman21b,BNT162b2,Human,1972,36
+Zuo23,inactivated_2dose_mRNA_1dose,Human,NULL,16
+Zuo23,inactivated_3dose,Human,NULL,13
+Zuo23,inactivated_3dose_mRNA_1dose,Human,NULL,5
+Zuo23,inactivated_or_mRNA_3dose_BA1_inf,Human,NULL,15
+Zuo23,mRNA_2dose_infected,Human,NULL,9
+Zuo23,mRNA_3dose,Human,NULL,14
 deSouza21,CP_BD0129,Human,NULL,1
 deSouza21,CP_BD0138,Human,NULL,1
 deSouza21,CP_BD0145,Human,NULL,1
