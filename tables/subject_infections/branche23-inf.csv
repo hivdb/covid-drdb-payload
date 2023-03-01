@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Branche23,infected_bivalent_BA1,<,2022-06-11,Unknown variant,USA,NULL,NULL,NULL
+Branche23,infected_bivalent_BA45,<,2022-06-11,Unknown variant,USA,NULL,NULL,NULL
+Branche23,infected_bivalent_BA1_subset,<,2022-06-11,Unknown variant,USA,NULL,NULL,NULL
+Branche23,infected_bivalent_BA45_subset,<,2022-06-11,Unknown variant,USA,NULL,NULL,NULL
