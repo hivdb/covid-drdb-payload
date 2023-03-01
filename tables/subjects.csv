@@ -388,6 +388,14 @@ Branche22,Arm_5_BA1_infected,Human,NULL,23
 Branche22,Arm_5_BA1_uninfected,Human,NULL,73
 Branche22,Arm_6_BA1_mRNA-1273_infected,Human,NULL,20
 Branche22,Arm_6_BA1_mRNA-1273_uninfected,Human,NULL,76
+Branche23,bivalent_BA1,Human,NULL,41
+Branche23,bivalent_BA1_subset,Human,NULL,12
+Branche23,bivalent_BA45,Human,NULL,41
+Branche23,bivalent_BA45_subset,Human,NULL,12
+Branche23,infected_bivalent_BA1,Human,NULL,59
+Branche23,infected_bivalent_BA1_subset,Human,NULL,13
+Branche23,infected_bivalent_BA45,Human,NULL,59
+Branche23,infected_bivalent_BA45_subset,Human,NULL,13
 Brazer22,CP_4637,Human,NULL,1
 Brazer22,CP_4638,Human,NULL,1
 Brazer22,CP_4647,Human,NULL,1
