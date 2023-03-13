@@ -1,0 +1,880 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Filardi23,BNT086,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT086,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT086,~,2021-03-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT134,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT134,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT134,~,2021-04-07,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT140,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT140,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT140,~,2021-04-06,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT029,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT029,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT029,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT072,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT072,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT072,~,2021-04-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT089,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT089,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT089,~,2021-06-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT012,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT012,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT012,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT087,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT087,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT087,~,2021-06-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT155,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT155,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT155,~,2021-06-25,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT020,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT020,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT020,~,2021-06-02,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT044,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT044,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT044,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT003,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT003,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT003,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT082,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT082,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT082,~,2021-06-18,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT142,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT142,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT142,~,2021-03-26,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT084,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT084,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT084,~,2021-04-09,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT054,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT054,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT054,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT033,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT033,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT033,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT049,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT049,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT049,~,2021-06-03,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT070,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT070,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT070,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT088,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT088,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT088,~,2021-06-06,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT035,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT035,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT035,~,2021-04-04,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT058,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT058,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT058,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT009,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT009,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT009,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT138,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT138,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT138,~,2021-06-21,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT079,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT079,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT079,~,2021-06-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT013,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT013,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT013,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT014,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT014,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT014,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT034,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT034,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT034,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT006,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT006,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT006,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT028,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT028,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT028,~,2021-03-09,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT059,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT059,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT059,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT094,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT094,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT094,~,2021-03-16,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT181,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT181,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT181,~,2021-04-10,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT052,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT052,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT052,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT002,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT002,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT002,~,2021-03-24,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT078,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT078,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT078,~,2021-03-21,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT091,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT091,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT091,~,2021-06-19,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT007,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT007,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT007,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT004,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT004,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT004,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT022,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT022,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT022,~,2021-06-02,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT051,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT051,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT051,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT064,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT064,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT064,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT080,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT080,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT080,~,2021-06-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT075,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT075,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT075,~,2021-06-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT074,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT074,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT074,~,2021-06-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT048,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT048,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT048,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT077,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT077,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT077,~,2021-06-07,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT016,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT016,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT016,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT005,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT005,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT005,~,2021-06-09,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT076,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT076,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT076,~,2021-06-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT092,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT092,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT092,~,2021-03-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT093,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT093,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT093,~,2021-05-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT090,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT090,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT090,~,2021-06-18,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT031,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT031,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT031,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT046,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT046,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT046,~,2021-03-19,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT067,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT067,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT067,~,2021-06-07,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT066,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT066,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT066,~,2021-03-28,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT085,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT085,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT085,~,2021-06-18,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT145,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT145,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT145,~,2021-06-21,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT047,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT047,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT047,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT010,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT010,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT010,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT063,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT063,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT063,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT018,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT018,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT018,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT030,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT030,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT030,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT073,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT073,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT073,~,2021-05-23,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT050,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT050,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT050,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT038,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT038,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT038,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT041,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT041,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT041,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT069,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT069,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT069,~,2021-05-21,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT188,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT188,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT188,~,2021-04-12,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT056,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT056,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT056,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT024,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT024,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT024,~,2021-06-03,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT026,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT026,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT026,~,2021-03-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT060,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT060,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT060,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT062,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT062,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT062,~,2021-06-17,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT039,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT039,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT039,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT001,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT001,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT001,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT032,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT032,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT032,~,2021-04-01,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT037,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT037,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT037,~,2021-05-24,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT097,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT097,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT097,~,2021-06-20,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT015,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT015,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT015,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT025,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT025,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT025,~,2021-04-01,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT083,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT083,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT083,~,2021-04-18,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT061,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT061,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT061,~,2021-06-12,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT027,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT027,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT027,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT081,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT081,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT081,~,2021-04-12,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT042,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT042,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT042,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT040,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT040,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT040,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT017,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT017,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT017,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT036,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT036,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT036,~,2021-04-08,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT071,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT071,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT071,~,2021-04-03,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT008,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT008,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT008,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT023,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT023,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT023,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT043,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT043,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT043,~,2021-06-14,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT065,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT065,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT065,~,2021-03-28,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT057,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT057,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT057,~,2021-04-22,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT011,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT011,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT011,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT019,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT019,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT019,~,2021-06-13,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT053,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT053,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT053,~,2021-06-05,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT068,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT068,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT068,~,2021-06-07,BNT162b2,3,Dominican Republic,NULL
+Filardi23,BNT045,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
+Filardi23,BNT045,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
+Filardi23,BNT045,~,2021-06-12,BNT162b2,3,Dominican Republic,NULL
+Filardi23,AZD235,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD235,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD235,~,2021-06-18,AZD1222,3,Brazil,NULL
+Filardi23,AZD069,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD069,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD069,~,2021-06-08,AZD1222,3,Brazil,NULL
+Filardi23,AZD135,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD135,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD135,~,2021-06-13,AZD1222,3,Brazil,NULL
+Filardi23,AZD212,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD212,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD212,~,2021-03-17,AZD1222,3,Brazil,NULL
+Filardi23,AZD244,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD244,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD244,~,2021-06-29,AZD1222,3,Brazil,NULL
+Filardi23,AZD084,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD084,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD084,~,2021-03-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD085,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD085,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD085,~,2021-06-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD114,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD114,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD114,~,2021-06-10,AZD1222,3,Brazil,NULL
+Filardi23,AZD192,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD192,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD192,~,2021-06-18,AZD1222,3,Brazil,NULL
+Filardi23,AZD119,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD119,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD119,~,2021-06-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD160,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD160,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD160,~,2021-03-11,AZD1222,3,Brazil,NULL
+Filardi23,AZD065,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD065,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD065,~,2021-06-08,AZD1222,3,Brazil,NULL
+Filardi23,AZD106,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD106,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD106,~,2021-06-04,AZD1222,3,Brazil,NULL
+Filardi23,AZD121,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD121,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD121,~,2021-06-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD179,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD179,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD179,~,2021-06-16,AZD1222,3,Brazil,NULL
+Filardi23,AZD187,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD187,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD187,~,2021-05-01,AZD1222,3,Brazil,NULL
+Filardi23,AZD072,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD072,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD072,~,2021-05-27,AZD1222,3,Brazil,NULL
+Filardi23,AZD118,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD118,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD118,~,2021-06-10,AZD1222,3,Brazil,NULL
+Filardi23,AZD063,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD063,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD063,~,2021-03-20,AZD1222,3,Brazil,NULL
+Filardi23,AZD073,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD073,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD073,~,2021-06-04,AZD1222,3,Brazil,NULL
+Filardi23,AZD161,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD161,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD161,~,2021-06-15,AZD1222,3,Brazil,NULL
+Filardi23,AZD165,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD165,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD165,~,2021-06-10,AZD1222,3,Brazil,NULL
+Filardi23,AZD199,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD199,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD199,~,2021-05-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD240,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD240,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD240,~,2021-06-30,AZD1222,3,Brazil,NULL
+Filardi23,AZD079,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD079,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD079,~,2021-06-15,AZD1222,3,Brazil,NULL
+Filardi23,AZD196,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD196,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD196,~,2021-06-18,AZD1222,3,Brazil,NULL
+Filardi23,AZD082,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD082,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD082,~,2021-06-04,AZD1222,3,Brazil,NULL
+Filardi23,AZD105,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD105,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD105,~,2021-06-01,AZD1222,3,Brazil,NULL
+Filardi23,AZD116,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD116,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD116,~,2021-06-10,AZD1222,3,Brazil,NULL
+Filardi23,AZD184,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD184,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD184,~,2021-05-17,AZD1222,3,Brazil,NULL
+Filardi23,AZD210,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD210,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD210,~,2021-06-28,AZD1222,3,Brazil,NULL
+Filardi23,AZD237,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD237,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD237,~,2021-04-16,AZD1222,3,Brazil,NULL
+Filardi23,AZD220,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD220,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD220,~,2021-04-05,AZD1222,3,Brazil,NULL
+Filardi23,AZD103,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD103,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD103,~,2021-06-08,AZD1222,3,Brazil,NULL
+Filardi23,AZD111,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD111,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD111,~,2021-06-10,AZD1222,3,Brazil,NULL
+Filardi23,AZD144,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD144,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD144,~,2021-06-15,AZD1222,3,Brazil,NULL
+Filardi23,AZD156,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD156,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD156,~,2021-06-08,AZD1222,3,Brazil,NULL
+Filardi23,AZD159,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD159,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD159,~,2021-04-02,AZD1222,3,Brazil,NULL
+Filardi23,AZD194,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD194,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD194,~,2021-04-01,AZD1222,3,Brazil,NULL
+Filardi23,AZD272,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD272,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD272,~,2021-06-30,AZD1222,3,Brazil,NULL
+Filardi23,AZD070,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD070,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD070,~,2021-04-13,AZD1222,3,Brazil,NULL
+Filardi23,AZD077,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD077,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD077,~,2021-06-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD100,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD100,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD100,~,2021-06-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD150,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD150,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD150,~,2021-12-17,AZD1222,3,Brazil,NULL
+Filardi23,AZD154,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD154,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD154,~,2021-06-15,AZD1222,3,Brazil,NULL
+Filardi23,AZD231,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD231,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD231,~,2021-06-29,AZD1222,3,Brazil,NULL
+Filardi23,AZD101,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD101,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD101,~,2021-06-01,AZD1222,3,Brazil,NULL
+Filardi23,AZD104,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD104,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD104,~,2021-06-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD071,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD071,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD071,~,2021-12-20,AZD1222,3,Brazil,NULL
+Filardi23,AZD124,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD124,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD124,~,2021-05-17,AZD1222,3,Brazil,NULL
+Filardi23,AZD117,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD117,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD117,~,2021-06-10,AZD1222,3,Brazil,NULL
+Filardi23,AZD137,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD137,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD137,~,2021-05-17,AZD1222,3,Brazil,NULL
+Filardi23,AZD125,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD125,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD125,~,2021-06-22,AZD1222,3,Brazil,NULL
+Filardi23,AZD080,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD080,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD080,~,2021-07-03,AZD1222,3,Brazil,NULL
+Filardi23,AZD099,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD099,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD099,~,2021-07-21,AZD1222,3,Brazil,NULL
+Filardi23,AZD123,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD123,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD123,~,2021-04-08,AZD1222,3,Brazil,NULL
+Filardi23,AZD102,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD102,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD102,~,2021-06-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD075,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD075,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD075,~,2021-06-24,AZD1222,3,Brazil,NULL
+Filardi23,AZD087,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD087,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD087,~,2021-06-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD097,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD097,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD097,~,2021-06-12,AZD1222,3,Brazil,NULL
+Filardi23,AZD120,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD120,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD120,~,2021-06-03,AZD1222,3,Brazil,NULL
+Filardi23,AZD151,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD151,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD151,~,2021-07-01,AZD1222,3,Brazil,NULL
+Filardi23,AZD050,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD050,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD050,~,2021-06-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD059,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD059,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD059,~,2021-06-24,AZD1222,3,Brazil,NULL
+Filardi23,AZD108,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD108,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD108,~,2021-06-18,AZD1222,3,Brazil,NULL
+Filardi23,AZD139,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD139,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD139,~,2021-10-12,AZD1222,3,Brazil,NULL
+Filardi23,AZD058,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD058,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD058,~,2021-06-24,AZD1222,3,Brazil,NULL
+Filardi23,AZD107,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD107,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD107,~,2021-06-18,AZD1222,3,Brazil,NULL
+Filardi23,AZD136,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD136,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD136,~,2021-06-24,AZD1222,3,Brazil,NULL
+Filardi23,AZD141,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD141,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD141,~,2021-06-26,AZD1222,3,Brazil,NULL
+Filardi23,AZD138,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD138,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD138,~,2021-06-24,AZD1222,3,Brazil,NULL
+Filardi23,AZD098,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD098,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD098,~,2021-06-23,AZD1222,3,Brazil,NULL
+Filardi23,AZD145,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD145,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD145,~,2021-06-16,AZD1222,3,Brazil,NULL
+Filardi23,AZD148,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD148,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD148,~,2021-07-01,AZD1222,3,Brazil,NULL
+Filardi23,AZD064,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD064,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD064,~,2021-06-29,AZD1222,3,Brazil,NULL
+Filardi23,AZD115,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD115,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD115,~,2021-06-10,AZD1222,3,Brazil,NULL
+Filardi23,AZD062,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD062,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD062,~,2021-06-28,AZD1222,3,Brazil,NULL
+Filardi23,AZD057,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD057,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD057,~,2021-06-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD089,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD089,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD089,~,2021-07-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD096,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD096,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD096,~,2021-07-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD112,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD112,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD112,~,2021-12-22,AZD1222,3,Brazil,NULL
+Filardi23,AZD095,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD095,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD095,~,2021-07-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD149,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD149,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD149,~,2021-07-26,AZD1222,3,Brazil,NULL
+Filardi23,AZD067,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD067,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD067,~,2021-07-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD110,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD110,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD110,~,2021-07-20,AZD1222,3,Brazil,NULL
+Filardi23,AZD051,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD051,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD051,~,2021-07-17,AZD1222,3,Brazil,NULL
+Filardi23,AZD083,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD083,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD083,~,2021-07-12,AZD1222,3,Brazil,NULL
+Filardi23,AZD007,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD007,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD007,~,2021-06-07,AZD1222,3,Brazil,NULL
+Filardi23,AZD010,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD010,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD010,~,2021-08-25,AZD1222,3,Brazil,NULL
+Filardi23,AZD021,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD021,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD021,~,2021-06-07,AZD1222,3,Brazil,NULL
+Filardi23,AZD039,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD039,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD039,~,2021-06-14,AZD1222,3,Brazil,NULL
+Filardi23,AZD045,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD045,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD045,~,2021-06-26,AZD1222,3,Brazil,NULL
+Filardi23,AZD061,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD061,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD061,~,2021-07-13,AZD1222,3,Brazil,NULL
+Filardi23,AZD132,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD132,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD132,~,2021-05-24,AZD1222,3,Brazil,NULL
+Filardi23,AZD008,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD008,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD008,~,2021-08-26,AZD1222,3,Brazil,NULL
+Filardi23,AZD002,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD002,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD002,~,2021-08-26,AZD1222,3,Brazil,NULL
+Filardi23,AZD004,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD004,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD004,~,2021-08-25,AZD1222,3,Brazil,NULL
+Filardi23,AZD025,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD025,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD025,~,2021-06-04,AZD1222,3,Brazil,NULL
+Filardi23,AZD247,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD247,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD247,~,2021-08-04,AZD1222,3,Brazil,NULL
+Filardi23,AZD054,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD054,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD054,~,2021-06-19,AZD1222,3,Brazil,NULL
+Filardi23,AZD006,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD006,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD006,~,2021-08-25,AZD1222,3,Brazil,NULL
+Filardi23,AZD074,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD074,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD074,~,2021-10-06,AZD1222,3,Brazil,NULL
+Filardi23,AZD238,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD238,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD238,~,2021-03-12,AZD1222,3,Brazil,NULL
+Filardi23,AZD038,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD038,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD038,~,2021-09-03,AZD1222,3,Brazil,NULL
+Filardi23,AZD090,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD090,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD090,~,2021-05-23,AZD1222,3,Brazil,NULL
+Filardi23,AZD019,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD019,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD019,~,2021-08-26,AZD1222,3,Brazil,NULL
+Filardi23,AZD035,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD035,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD035,~,2021-09-02,AZD1222,3,Brazil,NULL
+Filardi23,AZD001,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD001,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD001,~,2021-08-26,AZD1222,3,Brazil,NULL
+Filardi23,AZD028,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD028,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD028,~,2021-08-25,AZD1222,3,Brazil,NULL
+Filardi23,AZD032,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD032,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD032,~,2021-06-14,AZD1222,3,Brazil,NULL
+Filardi23,AZD011,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD011,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD011,~,2021-08-25,AZD1222,3,Brazil,NULL
+Filardi23,AZD018,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD018,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD018,~,2021-08-25,AZD1222,3,Brazil,NULL
+Filardi23,AZD005,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD005,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD005,~,2021-07-13,AZD1222,3,Brazil,NULL
+Filardi23,AZD049,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD049,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD049,~,2021-08-31,AZD1222,3,Brazil,NULL
+Filardi23,AZD022,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD022,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD022,~,2021-08-11,AZD1222,3,Brazil,NULL
+Filardi23,AZD012,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD012,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD012,~,2021-07-21,AZD1222,3,Brazil,NULL
+Filardi23,AZD047,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD047,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD047,~,2021-08-01,AZD1222,3,Brazil,NULL
+Filardi23,AZD236,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD236,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD236,~,2021-10-14,AZD1222,3,Brazil,NULL
+Filardi23,AZD152,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD152,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD152,~,2021-12-31,AZD1222,3,Brazil,NULL
+Filardi23,AZD043,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD043,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD043,~,2021-09-12,AZD1222,3,Brazil,NULL
+Filardi23,AZD055,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD055,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD055,~,2021-09-23,AZD1222,3,Brazil,NULL
+Filardi23,AZD031,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD031,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD031,~,2021-09-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD037,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD037,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD037,~,2021-09-09,AZD1222,3,Brazil,NULL
+Filardi23,AZD027,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD027,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD027,~,2021-09-15,AZD1222,3,Brazil,NULL
+Filardi23,AZD033,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD033,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD033,~,2021-09-16,AZD1222,3,Brazil,NULL
+Filardi23,AZD041,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD041,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD041,~,2021-09-16,AZD1222,3,Brazil,NULL
+Filardi23,AZD048,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD048,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD048,~,2021-10-07,AZD1222,3,Brazil,NULL
+Filardi23,AZD094,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD094,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD094,~,2021-10-21,AZD1222,3,Brazil,NULL
+Filardi23,AZD093,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD093,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD093,~,2021-10-29,AZD1222,3,Brazil,NULL
+Filardi23,AZD026,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD026,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD026,~,2021-09-22,AZD1222,3,Brazil,NULL
+Filardi23,AZD200,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,AZD200,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,AZD200,~,2021-11-20,AZD1222,3,Brazil,NULL
+Filardi23,CoV056,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV056,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV056,~,2021-06-09,CoronaVac,3,Brazil,NULL
+Filardi23,CoV078,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV078,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV078,~,2021-06-08,CoronaVac,3,Brazil,NULL
+Filardi23,CoV217,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV217,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV217,~,2021-06-27,CoronaVac,3,Brazil,NULL
+Filardi23,CoV162,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV162,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV162,~,2021-05-26,CoronaVac,3,Brazil,NULL
+Filardi23,CoV213,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV213,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV213,~,2021-06-28,CoronaVac,3,Brazil,NULL
+Filardi23,CoV214,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV214,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV214,~,2021-06-28,CoronaVac,3,Brazil,NULL
+Filardi23,CoV243,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV243,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV243,~,2021-11-24,CoronaVac,3,Brazil,NULL
+Filardi23,CoV181,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV181,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV181,~,2021-06-16,CoronaVac,3,Brazil,NULL
+Filardi23,CoV183,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV183,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV183,~,2021-06-15,CoronaVac,3,Brazil,NULL
+Filardi23,CoV226,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV226,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV226,~,2021-06-16,CoronaVac,3,Brazil,NULL
+Filardi23,CoV128,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV128,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV128,~,2021-06-06,CoronaVac,3,Brazil,NULL
+Filardi23,CoV147,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV147,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV147,~,2021-08-12,CoronaVac,3,Brazil,NULL
+Filardi23,CoV229,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV229,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV229,~,2021-06-30,CoronaVac,3,Brazil,NULL
+Filardi23,CoV249,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV249,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV249,~,2021-06-29,CoronaVac,3,Brazil,NULL
+Filardi23,CoV274,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV274,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV274,~,2021-06-22,CoronaVac,3,Brazil,NULL
+Filardi23,CoV191,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV191,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV191,~,2021-06-10,CoronaVac,3,Brazil,NULL
+Filardi23,CoV140,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV140,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV140,~,2021-05-31,CoronaVac,3,Brazil,NULL
+Filardi23,CoV182,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV182,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV182,~,2021-06-02,CoronaVac,3,Brazil,NULL
+Filardi23,CoV215,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV215,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV215,~,2021-06-28,CoronaVac,3,Brazil,NULL
+Filardi23,CoV126,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV126,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV126,~,2021-06-13,CoronaVac,3,Brazil,NULL
+Filardi23,CoV088,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV088,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV088,~,2021-06-09,CoronaVac,3,Brazil,NULL
+Filardi23,CoV066,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV066,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV066,~,2021-06-09,CoronaVac,3,Brazil,NULL
+Filardi23,CoV129,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV129,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV129,~,2021-06-13,CoronaVac,3,Brazil,NULL
+Filardi23,CoV146,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV146,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV146,~,2021-06-15,CoronaVac,3,Brazil,NULL
+Filardi23,CoV092,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV092,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV092,~,2021-06-09,CoronaVac,3,Brazil,NULL
+Filardi23,CoV142,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV142,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV142,~,2021-06-02,CoronaVac,3,Brazil,NULL
+Filardi23,CoV143,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV143,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV143,~,2021-06-16,CoronaVac,3,Brazil,NULL
+Filardi23,CoV052,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV052,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV052,~,2021-06-08,CoronaVac,3,Brazil,NULL
+Filardi23,CoV109,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV109,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV109,~,2021-06-18,CoronaVac,3,Brazil,NULL
+Filardi23,CoV134,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV134,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV134,~,2021-06-22,CoronaVac,3,Brazil,NULL
+Filardi23,CoV131,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV131,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV131,~,2021-06-22,CoronaVac,3,Brazil,NULL
+Filardi23,CoV076,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV076,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV076,~,2021-06-24,CoronaVac,3,Brazil,NULL
+Filardi23,CoV053,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV053,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV053,~,2021-06-19,CoronaVac,3,Brazil,NULL
+Filardi23,CoV086,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV086,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV086,~,2021-07-12,CoronaVac,3,Brazil,NULL
+Filardi23,CoV122,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV122,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV122,~,2021-04-08,CoronaVac,3,Brazil,NULL
+Filardi23,CoV068,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV068,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV068,~,2021-07-19,CoronaVac,3,Brazil,NULL
+Filardi23,CoV113,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV113,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV113,~,2021-07-20,CoronaVac,3,Brazil,NULL
+Filardi23,CoV127,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV127,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV127,~,2021-10-27,CoronaVac,3,Brazil,NULL
+Filardi23,CoV091,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV091,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV091,~,2021-06-23,CoronaVac,3,Brazil,NULL
+Filardi23,CoV009,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV009,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV009,~,2021-06-07,CoronaVac,3,Brazil,NULL
+Filardi23,CoV081,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV081,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV081,~,2021-07-19,CoronaVac,3,Brazil,NULL
+Filardi23,CoV030,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV030,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV030,~,2021-06-14,CoronaVac,3,Brazil,NULL
+Filardi23,CoV042,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV042,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV042,~,2021-11-12,CoronaVac,3,Brazil,NULL
+Filardi23,CoV013,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV013,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV013,~,2021-08-21,CoronaVac,3,Brazil,NULL
+Filardi23,CoV024,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV024,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV024,~,2021-06-15,CoronaVac,3,Brazil,NULL
+Filardi23,CoV209,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV209,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV209,~,2021-06-28,CoronaVac,3,Brazil,NULL
+Filardi23,CoV029,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV029,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV029,~,2021-08-25,CoronaVac,3,Brazil,NULL
+Filardi23,CoV003,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV003,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV003,~,2021-08-03,CoronaVac,3,Brazil,NULL
+Filardi23,CoV014,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV014,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV014,~,2021-09-22,CoronaVac,3,Brazil,NULL
+Filardi23,CoV017,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV017,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV017,~,2021-08-25,CoronaVac,3,Brazil,NULL
+Filardi23,CoV248,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV248,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV248,~,2021-10-26,CoronaVac,3,Brazil,NULL
+Filardi23,CoV060,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV060,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV060,~,2021-08-23,CoronaVac,3,Brazil,NULL
+Filardi23,CoV016,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV016,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV016,~,2021-08-26,CoronaVac,3,Brazil,NULL
+Filardi23,CoV036,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV036,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV036,~,2021-09-01,CoronaVac,3,Brazil,NULL
+Filardi23,CoV023,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV023,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV023,~,2021-09-09,CoronaVac,3,Brazil,NULL
+Filardi23,CoV015,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV015,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV015,~,2021-08-11,CoronaVac,3,Brazil,NULL
+Filardi23,CoV020,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV020,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV020,~,2021-07-20,CoronaVac,3,Brazil,NULL
+Filardi23,CoV034,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV034,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV034,~,2021-08-19,CoronaVac,3,Brazil,NULL
+Filardi23,CoV046,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV046,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV046,~,2021-09-29,CoronaVac,3,Brazil,NULL
+Filardi23,CoV044,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV044,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV044,~,2021-10-13,CoronaVac,3,Brazil,NULL
+Filardi23,CoV216,~,2021-01-01,CoronaVac,1,Brazil,NULL
+Filardi23,CoV216,~,2021-02-01,CoronaVac,2,Brazil,NULL
+Filardi23,CoV216,~,2021-11-24,CoronaVac,3,Brazil,NULL
