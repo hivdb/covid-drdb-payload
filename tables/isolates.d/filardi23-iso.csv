@@ -1,5 +1,5 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 SARS-CoV-2/human/USA/Yale-5643/2020,B.1,FALSE,FALSE,MZ468053,FALSE,FALSE
 SARS-CoV-2/human/USA/Yale-19091/2022,Omicron/BA.2.12.1,FALSE,FALSE,ON411581,FALSE,FALSE
-SARS-CoV-2/human/USA/Yale-21233/2022,Omicron/XAF,FALSE,FALSE,OP031604,FALSE
-SARS-CoV-2/human/USA/Yale-21228/2022,Omicron/BA.5,FALSE,FALSE,OP031606,FALSE
+SARS-CoV-2/human/USA/Yale-21233/2022,Omicron/XAF,FALSE,FALSE,OP031604,FALSE,TRUE
+SARS-CoV-2/human/USA/Yale-21228/2022,Omicron/BA.5,FALSE,FALSE,OP031606,FALSE,TRUE

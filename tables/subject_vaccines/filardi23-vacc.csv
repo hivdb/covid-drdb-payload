@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Filardi23,BNT086,~,2021-01-01,CoronaVac,1,Dominican Republic,NULL
 Filardi23,BNT086,~,2021-02-01,CoronaVac,2,Dominican Republic,NULL
 Filardi23,BNT086,~,2021-03-14,BNT162b2,3,Dominican Republic,NULL

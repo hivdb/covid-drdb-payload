@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Filardi23,CoronaVac_2dose_BNT086,SARS-CoV-2/human/USA/Yale-5643/2020,Supplementary Data File,Virus isolate,NT50,13,1,10000,10,NULL,2023-03-13
 Filardi23,CoronaVac_2dose_BNT134,SARS-CoV-2/human/USA/Yale-5643/2020,Supplementary Data File,Virus isolate,NT50,10,1,10000,10,NULL,2023-03-13
 Filardi23,CoronaVac_2dose_BNT140,SARS-CoV-2/human/USA/Yale-5643/2020,Supplementary Data File,Virus isolate,NT50,32,1,10000,10,NULL,2023-03-13

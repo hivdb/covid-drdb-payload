@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Filardi23,BNT020,~,2020-01-28,Unknown variant,Dominican Republic,NULL,NULL,NULL
 Filardi23,BNT044,~,2020-12-03,Unknown variant,Dominican Republic,NULL,NULL,NULL
 Filardi23,BNT054,~,2020-12-03,Unknown variant,Dominican Republic,NULL,NULL,NULL
