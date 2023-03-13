@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Roe23,Tixagevimab,B.1 Spike,Supplemental Table 1,Pseudovirus (lentivirus),IC50,1.0,1,40500,1,ng/ml,2023-03-13
 Roe23,Cilgavimab,B.1 Spike,Supplemental Table 1,Pseudovirus (lentivirus),IC50,2.1,1,40500,1,ng/ml,2023-03-13
 Roe23,AZD7442,B.1 Spike,Supplemental Table 1,Pseudovirus (lentivirus),IC50,1.5,1,40500,1,ng/ml,2023-03-13
