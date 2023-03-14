@@ -1,0 +1,16 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Hoffman23,3dose_BA5_bti,B.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,1381,13,6400,25,NULL,2023-03-13
+Hoffman23,3dose_BA5_bti,BA.4/5 Spike,Figure 1f,Pseudovirus (VSV),NT50,601,13,6400,25,NULL,2023-03-13
+Hoffman23,3dose_BA5_bti,BQ.1.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,173,13,6400,25,NULL,2023-03-13
+Hoffman23,3dose_BA5_bti,XBB.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,59,13,6400,25,NULL,2023-03-13
+Hoffman23,3dose_BA5_bti,XBB.1.5 Spike,Figure 1f,Pseudovirus (VSV),NT50,53,13,6400,25,NULL,2023-03-13
+Hoffman23,4dose_monovalent,B.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,1334,10,6400,25,NULL,2023-03-13
+Hoffman23,4dose_monovalent,BA.4/5 Spike,Figure 1f,Pseudovirus (VSV),NT50,205,10,6400,25,NULL,2023-03-13
+Hoffman23,4dose_monovalent,BQ.1.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,62,10,6400,25,NULL,2023-03-13
+Hoffman23,4dose_monovalent,XBB.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,32,10,6400,25,NULL,2023-03-13
+Hoffman23,4dose_monovalent,XBB.1.5 Spike,Figure 1f,Pseudovirus (VSV),NT50,33,10,6400,25,NULL,2023-03-13
+Hoffman23,4dose_bivalent,B.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,1602,13,6400,25,NULL,2023-03-13
+Hoffman23,4dose_bivalent,BA.4/5 Spike,Figure 1f,Pseudovirus (VSV),NT50,403,13,6400,25,NULL,2023-03-13
+Hoffman23,4dose_bivalent,BQ.1.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,136,13,6400,25,NULL,2023-03-13
+Hoffman23,4dose_bivalent,XBB.1 Spike,Figure 1f,Pseudovirus (VSV),NT50,27,13,6400,25,NULL,2023-03-13
+Hoffman23,4dose_bivalent,XBB.1.5 Spike,Figure 1f,Pseudovirus (VSV),NT50,29,13,6400,25,NULL,2023-03-13
