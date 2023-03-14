@@ -1610,9 +1610,9 @@ Heyer22,P16,Human,1945,1
 Heyer22,P17,Human,1943,1
 Heyer22,P18,Human,1954,1
 Hoffman21,HIV Patient,Human,1960,1
-Hoffman23,3dose_BA5_bti,Human,NULL,1
-Hoffman23,4dose_bivalent,Human,NULL,1
-Hoffman23,4dose_monovalent,Human,NULL,1
+Hoffman23,3dose_BA5_bti,Human,NULL,13
+Hoffman23,4dose_bivalent,Human,NULL,13
+Hoffman23,4dose_monovalent,Human,NULL,10
 Hoffmann21,BNT162b2_01,Human,NULL,1
 Hoffmann21,BNT162b2_02,Human,NULL,1
 Hoffmann21,BNT162b2_03,Human,NULL,1
