@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Stich23,12years_or_younger_01,Delta,Figure 2A,Virus isolate,NT50,80,1,2560,10,NULL,2023-03-14
 Stich23,12years_or_younger_02,Delta,Figure 2A,Virus isolate,NT50,80,1,2560,10,NULL,2023-03-14
 Stich23,12years_or_younger_03,Delta,Figure 2A,Virus isolate,NT50,80,1,2560,10,NULL,2023-03-14
