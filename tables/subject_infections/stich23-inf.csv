@@ -1,0 +1,5 @@
+ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Stich23,12years_or_younger,~,2020-03-24,Unknown variant,Germany,NULL,NULL,NULL
+Stich23,12to18years,~,2020-03-24,Unknown variant,Germany,NULL,NULL,NULL
+Stich23,18years_or_older,~,2020-03-24,Unknown variant,Germany,NULL,NULL,NULL
+Stich23,vaccine_and_inf,~,2020-03-24,Unknown variant,Germany,NULL,NULL,NULL
