@@ -1,79 +1,79 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Filardi23,BNT020,~,2020-01-28,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT044,~,2020-12-03,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT054,~,2020-12-03,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT035,~,2020-10-31,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT058,~,2020-03-09,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT079,~,2020-10-07,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT052,~,2020-03-09,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT007,~,2020-02-08,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT064,~,2020-06-09,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT080,~,2020-05-13,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT074,~,2020-10-30,Unknown variant,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT020,~,2020-01-28,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT044,~,2020-12-03,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT054,~,2020-12-03,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT035,~,2020-10-31,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT058,~,2020-03-09,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT079,~,2020-10-07,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT052,~,2020-03-09,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT007,~,2020-02-08,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT064,~,2020-06-09,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT080,~,2020-05-13,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT074,~,2020-10-30,B.1,Dominican Republic,NULL,NULL,NULL
 Filardi23,BNT048,~,2021-03-11,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT077,~,2020-10-29,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT005,~,2020-05-05,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT076,~,2020-05-24,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT092,~,2019-09-29,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT093,~,2020-12-05,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT067,~,2020-04-23,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT010,~,2020-11-09,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT063,~,2020-05-23,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT018,~,2020-04-09,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT050,~,2020-11-09,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT039,~,2020-11-23,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT083,~,2020-09-07,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT042,~,2020-03-09,Unknown variant,Dominican Republic,NULL,NULL,NULL
-Filardi23,BNT008,~,2020-03-05,Unknown variant,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT077,~,2020-10-29,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT005,~,2020-05-05,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT076,~,2020-05-24,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT092,~,2019-09-29,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT093,~,2020-12-05,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT067,~,2020-04-23,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT010,~,2020-11-09,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT063,~,2020-05-23,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT018,~,2020-04-09,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT050,~,2020-11-09,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT039,~,2020-11-23,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT083,~,2020-09-07,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT042,~,2020-03-09,B.1,Dominican Republic,NULL,NULL,NULL
+Filardi23,BNT008,~,2020-03-05,B.1,Dominican Republic,NULL,NULL,NULL
 Filardi23,AZD244,~,2021-06-15,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD072,~,2020-05-08,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD118,~,2020-11-14,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD079,~,2019-09-07,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD196,~,2020-05-03,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD220,~,2020-03-14,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD070,~,2019-09-05,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD077,~,2020-10-14,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD100,~,2019-12-01,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD150,~,2020-10-03,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD154,~,2020-08-30,Unknown variant,Brazil,NULL,NULL,NULL
+Filardi23,AZD072,~,2020-05-08,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD118,~,2020-11-14,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD079,~,2019-09-07,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD196,~,2020-05-03,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD220,~,2020-03-14,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD070,~,2019-09-05,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD077,~,2020-10-14,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD100,~,2019-12-01,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD150,~,2020-10-03,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD154,~,2020-08-30,B.1,Brazil,NULL,NULL,NULL
 Filardi23,AZD231,~,2021-06-01,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD071,~,2020-06-12,Unknown variant,Brazil,NULL,NULL,NULL
+Filardi23,AZD071,~,2020-06-12,B.1,Brazil,NULL,NULL,NULL
 Filardi23,AZD124,~,2021-03-19,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD117,~,2020-07-15,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD137,~,2019-11-03,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD125,~,2020-09-08,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD102,~,2020-12-28,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD050,~,2020-08-19,Unknown variant,Brazil,NULL,NULL,NULL
+Filardi23,AZD117,~,2020-07-15,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD137,~,2019-11-03,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD125,~,2020-09-08,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD102,~,2020-12-28,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD050,~,2020-08-19,B.1,Brazil,NULL,NULL,NULL
 Filardi23,AZD059,~,2021-02-04,Unknown variant,Brazil,NULL,NULL,NULL
 Filardi23,AZD058,~,2021-02-01,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD138,~,2020-03-12,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD057,~,2020-11-10,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD096,~,2020-07-15,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD095,~,2020-07-15,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD149,~,2020-06-25,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD110,~,2020-10-14,Unknown variant,Brazil,NULL,NULL,NULL
+Filardi23,AZD138,~,2020-03-12,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD057,~,2020-11-10,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD096,~,2020-07-15,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD095,~,2020-07-15,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD149,~,2020-06-25,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD110,~,2020-10-14,B.1,Brazil,NULL,NULL,NULL
 Filardi23,AZD061,~,2021-01-03,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD132,~,2020-10-24,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD002,~,2020-03-04,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD004,~,2020-10-01,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD054,~,2020-11-27,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD238,~,2020-10-13,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD090,~,2019-09-14,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD032,~,2020-12-06,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,AZD022,~,2020-03-20,Unknown variant,Brazil,NULL,NULL,NULL
+Filardi23,AZD132,~,2020-10-24,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD002,~,2020-03-04,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD004,~,2020-10-01,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD054,~,2020-11-27,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD238,~,2020-10-13,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD090,~,2019-09-14,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD032,~,2020-12-06,B.1,Brazil,NULL,NULL,NULL
+Filardi23,AZD022,~,2020-03-20,B.1,Brazil,NULL,NULL,NULL
 Filardi23,AZD152,~,2021-09-14,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV214,~,2019-11-25,Unknown variant,Brazil,NULL,NULL,NULL
+Filardi23,CoV214,~,2019-11-25,B.1,Brazil,NULL,NULL,NULL
 Filardi23,CoV243,~,2021-09-24,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV226,~,2019-07-27,Unknown variant,Brazil,NULL,NULL,NULL
+Filardi23,CoV226,~,2019-07-27,B.1,Brazil,NULL,NULL,NULL
 Filardi23,CoV274,~,2021-05-12,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV215,~,2019-11-23,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV146,~,2020-07-02,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV134,~,2020-10-08,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV131,~,2020-07-10,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV091,~,2020-08-23,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV030,~,2019-12-11,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV042,~,2020-03-10,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV024,~,2020-07-23,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV209,~,2020-10-25,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV060,~,2020-12-28,Unknown variant,Brazil,NULL,NULL,NULL
-Filardi23,CoV020,~,2020-08-03,Unknown variant,Brazil,NULL,NULL,NULL
+Filardi23,CoV215,~,2019-11-23,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV146,~,2020-07-02,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV134,~,2020-10-08,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV131,~,2020-07-10,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV091,~,2020-08-23,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV030,~,2019-12-11,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV042,~,2020-03-10,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV024,~,2020-07-23,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV209,~,2020-10-25,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV060,~,2020-12-28,B.1,Brazil,NULL,NULL,NULL
+Filardi23,CoV020,~,2020-08-03,B.1,Brazil,NULL,NULL,NULL
