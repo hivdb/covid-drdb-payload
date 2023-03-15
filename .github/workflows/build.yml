@@ -3,12 +3,14 @@ name: Build devdb
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  workflow_run:
+    workflows: [ Autofill ]
+    types: [ completed ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: ${{ (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') || github.event_name == 'push' }}
 
     services:
         postgres:
