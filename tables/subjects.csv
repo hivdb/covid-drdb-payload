@@ -3993,6 +3993,11 @@ Stankov21,BNT_P7,Human,NULL,1
 Stankov21,BNT_P8,Human,NULL,1
 Stankov21,BNT_P9,Human,NULL,1
 Stankov21,CP,Human,NULL,3
+Stich23,12to18years,Human,NULL,16
+Stich23,12years_or_younger,Human,NULL,18
+Stich23,18years_or_older,Human,NULL,17
+Stich23,vaccine_and_inf,Human,NULL,19
+Stich23,vaccine_only,Human,NULL,19
 Stuart21,AZD1222_1dose_NVXCoV2373_1dose,Human,NULL,51
 Stuart21,AZD1222_1dose_mRNA1273_1dose,Human,NULL,48
 Stuart21,AZD1222_2dose,Human,NULL,47
