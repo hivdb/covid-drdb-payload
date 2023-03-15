@@ -5,12 +5,10 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master, autofill-action ]
-    types: [ labeled ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: ${{ github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.label.name == 'autofilled') }}
 
     services:
         postgres:
@@ -28,6 +26,15 @@ jobs:
             --health-retries 5
 
     steps:
+      - name: Wait for autofill
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: lewagon/wait-on-check-action@v1.3.1
+        with:
+          ref: ${{ github.ref }}
+          check-name: 'Autofill'
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          wait-interval: 10
+
       - uses: actions/checkout@v3
 
       - name: Integration
