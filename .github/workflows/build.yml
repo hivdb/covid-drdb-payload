@@ -30,7 +30,7 @@ jobs:
         if: ${{ github.event_name == 'pull_request' }}
         uses: lewagon/wait-on-check-action@v1.3.1
         with:
-          ref: ${{ github.ref }}
+          ref: ${{ github.event.pull_request.head.sha }}
           check-name: 'Autofill'
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           wait-interval: 10
