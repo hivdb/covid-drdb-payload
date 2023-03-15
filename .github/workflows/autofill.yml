@@ -50,9 +50,11 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        set -e
         cd covid-drdb-payload
         git remote add headrepo https://${GITHUB_TOKEN}@github.com/${{ github.event.pull_request.head.repo.full_name }}.git
         git push headrepo ${{ github.event.pull_request.head.ref }}
+        gh pr edit ${{ github.event.pull_request.number }} --add-label "autofilled"
 
     - name: Post success message
       if: success() && env.committed == 0
