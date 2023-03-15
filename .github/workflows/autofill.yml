@@ -2,7 +2,7 @@ name: Autofill
 
 on:
   pull_request_target:
-    branches: [ "autofill-action" ]
+    branches: [ master, autofill-action ]
 
 jobs:
   autofill:
