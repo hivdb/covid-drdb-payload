@@ -4097,6 +4097,9 @@ Tang21,hCoV-2IG,Human,NULL,6
 Tarhini21,Patient 1,Human,1954,1
 Tarhini21,Patient 2,Human,1949,1
 Tarhini21,Patient 3,Human,1985,1
+Tauzin,mRNA_4dose,Human,NULL,1
+Tauzin,mRNA_4dose_bti,Human,NULL,1
+Tauzin,mRNA_4dose_inf,Human,NULL,1
 Tauzin22,BTI_CP,Human,NULL,15
 Tauzin22,PI_CP,Human,NULL,15
 Tauzin22,mRNA_3dose,Human,NULL,15

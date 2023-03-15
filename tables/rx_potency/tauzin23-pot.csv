@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Tauzin,mRNA_monovalent_3dose_4weeks,B.1 Spike,Figure 3D,Pseudovirus (lentivirus),NT50,935,34,10000,50,NULL,2023-03-14
 Tauzin,mRNA_monovalent_3dose_4weeks_inf,B.1 Spike,Figure 3D,Pseudovirus (lentivirus),NT50,1889,17,10000,50,NULL,2023-03-14
 Tauzin,mRNA_monovalent_3dose_4weeks_bti,B.1 Spike,Figure 3D,Pseudovirus (lentivirus),NT50,1448,12,10000,50,NULL,2023-03-14

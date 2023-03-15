@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Tauzin,mRNA_4dose,mRNA_monovalent_3dose_4weeks,~,2022-02-27,Canada,mRNA_4dose,NULL
 Tauzin,mRNA_4dose_inf,mRNA_monovalent_3dose_4weeks_inf,~,2022-02-27,Canada,mRNA_4dose_inf,NULL
 Tauzin,mRNA_4dose_bti,mRNA_monovalent_3dose_4weeks_bti,~,2022-02-27,Canada,mRNA_4dose_bti,NULL
