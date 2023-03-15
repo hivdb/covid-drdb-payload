@@ -1,7 +1,7 @@
 name: Autofill
 
 on:
-  pull_request:
+  pull_request_target:
     branches: [ "autofill-action" ]
 
 jobs:
@@ -51,7 +51,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         cd covid-drdb-payload
-        git add remote headrepo https://${GITHUB_TOKEN}@github.com/${{ github.event.pull_request.head.repo.full_name }}.git
+        git remote add headrepo https://${GITHUB_TOKEN}@github.com/${{ github.event.pull_request.head.repo.full_name }}.git
         git push headrepo ${{ github.event.pull_request.head.ref }}
 
     - name: Post success message
