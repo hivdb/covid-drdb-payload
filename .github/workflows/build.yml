@@ -31,7 +31,7 @@ jobs:
         uses: fountainhead/action-wait-for-check@v1.1.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          checkName: Autofill
+          checkName: autofill
           ref: ${{ github.event.pull_request.head.sha || github.sha }}
 
       - uses: actions/checkout@v3
