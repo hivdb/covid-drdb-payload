@@ -1,9 +1,7 @@
-name: Build devdb
+name: Build
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
     branches: [ master ]
 
 jobs:
@@ -26,7 +24,16 @@ jobs:
             --health-retries 5
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout payload repository
+        uses: actions/checkout@v3
+        with:
+          path: covid-drdb-payload
+
+      - name: Checkout covid-drdb repository
+        uses: actions/checkout@v3
+        with:
+          repository: hivdb/covid-drdb
+          path: covid-drdb
 
       - name: Integration
         shell: 'script -q -e -c "bash {0}"'
@@ -35,10 +42,7 @@ jobs:
           POSTGRES_HOST: localhost
         run: |
           set -e
-          cd ..
-          git clone https://github.com/hivdb/covid-drdb
           cd covid-drdb
-          ln -s ../covid-drdb-payload payload
           docker pull hivdb/covid-drdb-builder:latest
           mkdir -p local/sqls
           docker run --rm -it --volume="$(pwd)":/covid-drdb/ --volume="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload hivdb/covid-drdb-builder:latest scripts/export-sqls.sh
