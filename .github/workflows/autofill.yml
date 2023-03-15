@@ -11,12 +11,12 @@ jobs:
     steps:
 
     - name: Checkout payload repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         path: covid-drdb-payload
 
     - name: Checkout covid-drdb repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: hivdb/covid-drdb
         path: covid-drdb
