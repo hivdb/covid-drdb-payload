@@ -33,7 +33,7 @@ jobs:
         set -e
         cd covid-drdb
         ln -s ../covid-drdb-payload payload
-        make autofill
+        docker run --rm -v $GITHUB_WORKSPACE/covid-drdb:/covid-drdb -v $GITHUB_WORKSPACE/covid-drdb-payload:/covid-drdb-payload hivdb/covid-drdb-builder:latest pipenv run python -m drdb.entry autofill-payload /covid-drdb-payload
 
     - name: Check for changes and commit
       id: check_changes
