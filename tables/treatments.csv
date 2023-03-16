@@ -16389,9 +16389,6 @@ Hayashi21,CP_39
 Hayashi21,CP_41
 Hensley21,Donor_CP
 Heyer22,CP
-Hoffman23,3dose_BA5_bti
-Hoffman23,4dose_monovalent
-Hoffman23,4dose_bivalent
 Hoffmann21,CP_ID15
 Hoffmann21,CP_ID18
 Hoffmann21,CP_ID20
@@ -16463,6 +16460,9 @@ Hoffmann22,CP_2m
 Hoffmann22,BNT_2dose_3m
 Hoffmann22,AZD_BNT_2dose_1m
 Hoffmann22,BNT_3dose_1m
+Hoffmann23,3dose_BA5_bti
+Hoffmann23,4dose_monovalent
+Hoffmann23,4dose_bivalent
 Hu21,CP_5-33d_01
 Hu21,CP_5-33d_02
 Hu21,CP_5-33d_03
