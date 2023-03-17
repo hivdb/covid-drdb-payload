@@ -1,2 +1,2 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Wang23b,BA5_BTI,~,2022-08-22,Unknown variant,United States,NULL,NULL,NULL
