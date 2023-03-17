@@ -1,0 +1,12 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Wang23b,monovalent_booster,~,2021-01-01,BNT162b2,1,United States,NULL
+Wang23b,monovalent_booster,~,2021-02-01,BNT162b2,2,United States,NULL
+Wang23b,monovalent_booster,~,2021-10-31,BNT162b2,3,United States,NULL
+Wang23b,monovalent_booster,~,2022-05-07,BNT162b2,4,United States,NULL
+Wang23b,bivalent_booster,~,2021-01-01,mRNA-monovalent,1,United States,NULL
+Wang23b,bivalent_booster,~,2021-02-01,mRNA-monovalent,2,United States,NULL
+Wang23b,bivalent_booster,~,2021-09-25,mRNA-monovalent,3,United States,NULL
+Wang23b,bivalent_booster,~,2022-07-25,mRNA-bivalent,4,United States,NULL
+Wang23b,BA5_BTI,~,2021-01-01,mRNA-monovalent,1,United States,NULL
+Wang23b,BA5_BTI,~,2021-02-01,mRNA-monovalent,2,United States,NULL
+Wang23b,BA5_BTI,~,2021-10-30,mRNA-monovalent,3,United States,NULL
