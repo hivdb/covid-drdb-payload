@@ -1,0 +1,7 @@
+ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Wang23b,monovalent_booster,monovalent_booster_1month,~,2022-04-07,United States,monovalent_booster,NULL
+Wang23b,bivalent_booster,bivalent_booster_1month,~,2022-08-19,United States,bivalent_booster,NULL
+Wang23b,BA5_BTI,BA5_BTI_1month,~,2022-08-30,United States,BA5_BTI,NULL
+Wang23b,monovalent_booster,monovalent_booster_3months,~,2022-06-15,United States,monovalent_booster,NULL
+Wang23b,bivalent_booster,bivalent_booster_3months,~,2022-10-26,United States,bivalent_booster,NULL
+Wang23b,BA5_BTI,BA5_BTI_3months,~,2022-11-01,United States,BA5_BTI,NULL
