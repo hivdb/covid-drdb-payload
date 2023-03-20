@@ -52,4 +52,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         cd covid-drdb
-        docker run --rm -v="$(pwd)":/covid-drdb/ -v="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload -e GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} --network=${{ job.container.network }} hivdb/covid-drdb-builder:latest scripts/github-release.sh ${{ github.ref_name }}
+        docker run --shm-size=2048m --rm -v="$(pwd)":/covid-drdb/ -v="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload -e GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} --network=${{ job.container.network }} hivdb/covid-drdb-builder:latest scripts/github-release.sh ${{ github.ref_name }}
