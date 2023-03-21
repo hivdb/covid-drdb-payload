@@ -4100,6 +4100,9 @@ Tarhini21,Patient 3,Human,1985,1
 Tauzin22,BTI_CP,Human,NULL,15
 Tauzin22,PI_CP,Human,NULL,15
 Tauzin22,mRNA_3dose,Human,NULL,15
+Tauzin23,mRNA_4dose,Human,NULL,34
+Tauzin23,mRNA_4dose_bti,Human,NULL,12
+Tauzin23,mRNA_4dose_inf,Human,NULL,17
 Tea21,CP_first_wave,Human,1973,31
 Tea21,CP_second_wave,Human,1977,17
 Tober-Lau22,VP_2dose,Human,NULL,10
