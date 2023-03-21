@@ -9,43 +9,40 @@ jobs:
     runs-on: ubuntu-latest
 
     services:
-        postgres:
-          image: postgres:latest
-          env:
-            POSTGRES_DB: drdb
-            POSTGRES_PASSWORD: postgres
-            POSTGRES_USER: postgres
-          ports:
-            - 5432:5432
-          options: >-
-            --health-cmd pg_isready
-            --health-interval 10s
-            --health-timeout 5s
-            --health-retries 5
+      covid-drdb-devdb:
+        image: postgres:latest
+        env:
+          POSTGRES_HOST_AUTH_METHOD: trust
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
 
     steps:
-      - name: Checkout payload repository
-        uses: actions/checkout@v3
-        with:
-          path: covid-drdb-payload
+    - name: Checkout payload repository
+      uses: actions/checkout@v3
+      with:
+        path: covid-drdb-payload
 
-      - name: Checkout covid-drdb repository
-        uses: actions/checkout@v3
-        with:
-          repository: hivdb/covid-drdb
-          path: covid-drdb
+    - name: Checkout covid-drdb repository
+      uses: actions/checkout@v3
+      with:
+        repository: hivdb/covid-drdb
+        path: covid-drdb
 
-      - name: Integration
-        shell: 'script -q -e -c "bash {0}"'
-        env:
-          POSTGRES_PORT: 5432
-          POSTGRES_HOST: localhost
-        run: |
-          set -e
-          cd covid-drdb
-          docker pull hivdb/covid-drdb-builder:latest
-          mkdir -p local/sqls
-          docker run --rm -it --volume="$(pwd)":/covid-drdb/ --volume="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload hivdb/covid-drdb-builder:latest scripts/export-sqls.sh
-          PGPASSWORD=postgres psql -v ON_ERROR_STOP=1 -U postgres -d drdb -h localhost -f local/sqls/01_schema.sql
-          PGPASSWORD=postgres psql -v ON_ERROR_STOP=1 -U postgres -d drdb -h localhost -f local/sqls/02_data_tables.sql
-          PGPASSWORD=postgres psql -v ON_ERROR_STOP=1 -U postgres -d drdb -h localhost -f local/sqls/03_derived_tables.sql
+    - name: Validate the results
+      shell: 'script -q -e -c "bash {0}"'
+      env:
+        POSTGRES_PORT: 5432
+        POSTGRES_HOST: localhost
+      run: |
+        set -e
+        cd covid-drdb
+        mkdir -p local/sqls
+        docker run --rm -v="$(pwd)":/covid-drdb/ -v="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload hivdb/covid-drdb-builder:latest scripts/export-sqls.sh
+        psql -v ON_ERROR_STOP=1 -U postgres -h localhost -f local/sqls/01_schema.sql
+        psql -v ON_ERROR_STOP=1 -U postgres -h localhost -f local/sqls/02_data_tables.sql
+        psql -v ON_ERROR_STOP=1 -U postgres -h localhost -f local/sqls/03_derived_tables.sql
