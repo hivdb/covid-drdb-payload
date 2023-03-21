@@ -8,7 +8,8 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-    permissions: write-all
+    permissions:
+      contents: write
 
     services:
         covid-drdb-devdb:
@@ -35,7 +36,7 @@ jobs:
         repository: hivdb/covid-drdb
         path: covid-drdb
 
-    - name: Validate the results
+    - name: Integration
       env:
         POSTGRES_PORT: 5432
         POSTGRES_HOST: localhost
@@ -49,8 +50,11 @@ jobs:
         psql -v ON_ERROR_STOP=1 -U postgres -h localhost -f local/sqls/03_derived_tables.sql
 
     - name: Publish release
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         cd covid-drdb
         docker run --shm-size=2048m --rm -v="$(pwd)":/covid-drdb/ -v="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload -e GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} --network=${{ job.container.network }} hivdb/covid-drdb-builder:latest scripts/github-release.sh ${{ github.ref_name }}
+
+    - name: Sync to S3
+      run: |
+        cd covid-drdb
+        docker run --rm -v="$(pwd)":/covid-drdb/ -v="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload -e GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} -e AWS_DEFAULT_REGION=us-west-1 -e AWS_ACCESS_KEY_ID=${{ secrets.S3_ACCESS_KEY_ID }} -e AWS_SECRET_ACCESS_KEY=${{ secrets.S3_SECRET_ACCESS_KEY }} hivdb/covid-drdb-builder:latest scripts/sync-to-s3.sh ${{ github.ref_name }}
