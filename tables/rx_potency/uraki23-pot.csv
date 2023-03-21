@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Uraki23,Imdevimab,Wuhan-Hu-1,Supplemental Figure 2A,Virus isolate,IC50,47.2,1,50000,1,ng/ml,2023-03-17
 Uraki23,Imdevimab,hCoV-19/Japan/UT-NCD1288-2N/2022,Supplemental Figure 2A,Virus isolate,IC50,6269,1,50000,1,ng/ml,2023-03-17
 Uraki23,Imdevimab,hCoV-19/Japan/TY41-795-P0/2022,Supplemental Figure 2A,Virus isolate,IC50,50000,1,50000,1,ng/ml,2023-03-17
