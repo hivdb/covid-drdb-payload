@@ -1,0 +1,4 @@
+ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Tarabay21,P1,<,2021-01-04,B.1.2,USA,Medical,Hospitalized,Figure 2
+Tarabay21,P2,<,2020-12-15,B.1.2,USA,Medical,Hospitalized,Figure 2
+Tarabay21,P3,<,2021-01-01,B.1.568,USA,Medical,Hospitalized,Figure 2
