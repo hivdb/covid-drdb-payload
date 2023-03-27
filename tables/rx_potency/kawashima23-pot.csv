@@ -1,0 +1,37 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY-WK-521/2020,Table 1,Virus isolate,EC50,0.37,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY33-456-P0/2021,Table 1,Virus isolate,EC50,0.27,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY28-444-P0/2021,Table 1,Virus isolate,EC50,0.29,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY26-717-P0/2021,Table 1,Virus isolate,EC50,0.43,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY38-871P0/2021,Table 1,Virus isolate,EC50,0.36,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY40-385/2022,Table 1,Virus isolate,EC50,0.52,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY41-716-P1/2022,Table 1,Virus isolate,EC50,0.3,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY41-703/2022,Table 1,Virus isolate,EC50,0.22,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY41-702/2022,Table 1,Virus isolate,EC50,0.4,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY41-796-P0/2022,Table 1,Virus isolate,EC50,0.48,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY41-795-P0/2022,Table 1,Virus isolate,EC50,0.33,1,1,0.1,µM,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Japan/TY41-686-P1/2022,Table 1,Virus isolate,EC50,0.44,1,1,0.1,µM,2023-03-27
+Kawashima23,FRET substrate,hCoV-19/Wuhan/WIV04/2019 3CLpro,Table 3,FRET,Kcat/Km,46825,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:G15S,Table 3,FRET,Kcat/Km,44969,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:T21I,Table 3,FRET,Kcat/Km,93073,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:T24I,Table 3,FRET,Kcat/Km,55682,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:K88R,Table 3,FRET,Kcat/Km,76632,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:L89F,Table 3,FRET,Kcat/Km,82268,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:K90R,Table 3,FRET,Kcat/Km,63681,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:P108S,Table 3,FRET,Kcat/Km,80628,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:P132H,Table 3,FRET,Kcat/Km,52264,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:A193V,Table 3,FRET,Kcat/Km,113845,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:H246V,Table 3,FRET,Kcat/Km,37532,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,FRET substrate,3CLpro:A255V,Table 3,FRET,Kcat/Km,83272,1,NULL,NULL,s⁻¹M⁻¹,2023-03-27
+Kawashima23,Ensitrelvir,hCoV-19/Wuhan/WIV04/2019 3CLpro,Table 4,pET SUMO vector,IC50,13.2,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:G15S,Table 4,pET SUMO vector,IC50,8,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:T21I,Table 4,pET SUMO vector,IC50,14.3,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:T24I,Table 4,pET SUMO vector,IC50,14,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:K88R,Table 4,pET SUMO vector,IC50,12.1,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:L89F,Table 4,pET SUMO vector,IC50,15,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:K90R,Table 4,pET SUMO vector,IC50,9.7,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:P108S,Table 4,pET SUMO vector,IC50,13.2,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:P132H,Table 4,pET SUMO vector,IC50,14.4,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:A193V,Table 4,pET SUMO vector,IC50,10.2,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:H246V,Table 4,pET SUMO vector,IC50,12.5,1,100,1,nM,2023-03-27
+Kawashima23,Ensitrelvir,3CLpro:A255V,Table 4,pET SUMO vector,IC50,10.1,1,100,1,nM,2023-03-27
