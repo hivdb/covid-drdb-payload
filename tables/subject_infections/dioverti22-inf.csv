@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Dioverti22,Pt1,~,2020-12-31,B.1.409,USA,Medical,Hospitalized,NULL
+Dioverti22,Pt2,~,2020-12-31,B.1.1.434,USA,Medical,Hospitalized,NULL
+Dioverti22,Pt3,~,2020-12-31,B.1.2,USA,Medical,Hospitalized,NULL
+Dioverti22,CP Donor,<,2020-12-31,Unknown variant,USA,NULL,NULL,NULL
