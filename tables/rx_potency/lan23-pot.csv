@@ -1,0 +1,47 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Lan23,Remdesivir,WA1 3CLpro,Table 1,Reporter cell (293T),IC50,10,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,WA1+3CLpro:E166V,Table 1,Reporter cell (293T),IC50,11,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,WA1+3CLpro:L50F+E166V,Table 1,Reporter cell (293T),IC50,7,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,WA1+3CLpro:L50F+E166A+L167F,Table 1,Reporter cell (293T),IC50,11,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,WA1+3CLpro:N142L,Table 1,Reporter cell (293T),IC50,9,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,WA1 3CLpro,Table 1,Reporter cell (293T),IC50,34,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,WA1+3CLpro:E166V,Table 1,Reporter cell (293T),IC50,1800,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,WA1+3CLpro:L50F+E166V,Table 1,Reporter cell (293T),IC50,3870,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,WA1+3CLpro:L50F+E166A+L167F,Table 1,Reporter cell (293T),IC50,610,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,WA1+3CLpro:L50F+P132H+E166A+L167F,Table 1,Reporter cell (293T),IC50,920,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,WA1+3CLpro:N142L,Table 1,Reporter cell (293T),IC50,84,1,10000,1,nM,2023-03-28
+Lan23,GC376,WA1 3CLpro,Table 1,Reporter cell (293T),IC50,210,1,10000,1,nM,2023-03-28
+Lan23,GC376,WA1+3CLpro:E166V,Table 1,Reporter cell (293T),IC50,190,1,10000,1,nM,2023-03-28
+Lan23,GC376,WA1+3CLpro:L50F+E166V,Table 1,Reporter cell (293T),IC50,490,1,10000,1,nM,2023-03-28
+Lan23,GC376,WA1+3CLpro:L50F+E166A+L167F,Table 1,Reporter cell (293T),IC50,710,1,10000,1,nM,2023-03-28
+Lan23,GC376,WA1+3CLpro:N142L,Table 1,Reporter cell (293T),IC50,320,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,WA1 3CLpro,Table 1,Reporter cell (293T),IC50,130,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,WA1+3CLpro:E166V,Table 1,Reporter cell (293T),IC50,120,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,WA1+3CLpro:L50F+E166V,Table 1,Reporter cell (293T),IC50,66,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,WA1+3CLpro:L50F+E166A+L167F,Table 1,Reporter cell (293T),IC50,1200,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,WA1+3CLpro:N142L,Table 1,Reporter cell (293T),IC50,760,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,Omicron/BA.1 3CLpro,Table 2,Reporter cell (293T),IC50,14,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,Omicron/BA.1+3CLpro:E166V,Table 2,Reporter cell (293T),IC50,6,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,Omicron/BA.1+3CLpro:L50F+E166V,Table 2,Reporter cell (293T),IC50,6,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,Omicron/BA.1+3CLpro:L50F+E166A+L167F,Table 2,Reporter cell (293T),IC50,9,1,10000,1,nM,2023-03-28
+Lan23,Remdesivir,Omicron/BA.1+3CLpro:N142L,Table 2,Reporter cell (293T),IC50,10,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,Omicron/BA.1 3CLpro,Table 2,Reporter cell (293T),IC50,110,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,Omicron/BA.1+3CLpro:E166V,Table 2,Reporter cell (293T),IC50,6010,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,Omicron/BA.1+3CLpro:L50F+E166V,Table 2,Reporter cell (293T),IC50,8650,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,Omicron/BA.1+3CLpro:L50F+E166A+L167F,Table 2,Reporter cell (293T),IC50,2920,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,Omicron/BA.1+3CLpro:L50F+H132P+E166A+L167F,Table 2,Reporter cell (293T),IC50,4800,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,Omicron/BA.1+3CLpro:N142L,Table 2,Reporter cell (293T),IC50,110,1,10000,1,nM,2023-03-28
+Lan23,GC376,Omicron/BA.1 3CLpro,Table 2,Reporter cell (293T),IC50,700,1,10000,1,nM,2023-03-28
+Lan23,GC376,Omicron/BA.1+3CLpro:E166V,Table 2,Reporter cell (293T),IC50,410,1,10000,1,nM,2023-03-28
+Lan23,GC376,Omicron/BA.1+3CLpro:L50F+E166V,Table 2,Reporter cell (293T),IC50,620,1,10000,1,nM,2023-03-28
+Lan23,GC376,Omicron/BA.1+3CLpro:L50F+E166A+L167F,Table 2,Reporter cell (293T),IC50,3800,1,10000,1,nM,2023-03-28
+Lan23,GC376,Omicron/BA.1+3CLpro:N142L,Table 2,Reporter cell (293T),IC50,460,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,Omicron/BA.1 3CLpro,Table 2,Reporter cell (293T),IC50,350,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,Omicron/BA.1+3CLpro:E166V,Table 2,Reporter cell (293T),IC50,140,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,Omicron/BA.1+3CLpro:L50F+E166V,Table 2,Reporter cell (293T),IC50,130,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,Omicron/BA.1+3CLpro:L50F+E166A+L167F,Table 2,Reporter cell (293T),IC50,6300,1,10000,1,nM,2023-03-28
+Lan23,PF-00835231,Omicron/BA.1+3CLpro:N142L,Table 2,Reporter cell (293T),IC50,330,1,10000,1,nM,2023-03-28
+Lan23,Nirmatrelvir,WA1 3CLpro,Table 3,FRET,Ki,30,1,NULL,NULL,nM,2023-03-28
+Lan23,Nirmatrelvir,WA1+3CLpro:E166V,Table 3,FRET,Ki,14200,1,NULL,NULL,nM,2023-03-28
+Lan23,GC376,WA1 3CLpro,Table 3,FRET,Ki,40,1,NULL,NULL,nM,2023-03-28
+Lan23,GC376,WA1+3CLpro:E166V,Table 3,FRET,Ki,838,1,NULL,NULL,nM,2023-03-28
