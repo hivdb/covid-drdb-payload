@@ -1,0 +1,17 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Rodriguez23,Remdesivir,hCoV-19/Shanghai/SH01/2020,Table 3,Virus Isolate,EC50,10,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,RdRP:S759A+V792I,Table 3,SARS-CoV-2 recombinant,EC50,99.1,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,nsp8:S41F,Table 3,SARS-CoV-2 recombinant,EC50,7.8,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,nsp10:A1D,Table 3,SARS-CoV-2 recombinant,EC50,23.2,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,nsp10:T102I,Table 3,SARS-CoV-2 recombinant,EC50,18.3,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,RdRP:T206I,Table 3,SARS-CoV-2 recombinant,EC50,8.4,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,RdRP:P232L,Table 3,SARS-CoV-2 recombinant,EC50,7.3,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,RdRP:A376V,Table 3,SARS-CoV-2 recombinant,EC50,126.4,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,RdRP:T394M,Table 3,SARS-CoV-2 recombinant,EC50,12,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,RdRP:A526S,Table 3,SARS-CoV-2 recombinant,EC50,10.9,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,RdRP:A634S,Table 3,SARS-CoV-2 recombinant,EC50,14,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,nsp13:T137M,Table 3,SARS-CoV-2 recombinant,EC50,10.7,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,nsp13:E341D,Table 3,SARS-CoV-2 recombinant,EC50,8.5,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,nsp13:A598V,Table 3,SARS-CoV-2 recombinant,EC50,10.7,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,nsp14:A214S,Table 3,SARS-CoV-2 recombinant,EC50,14.5,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,nsp14:K362R,Table 3,SARS-CoV-2 recombinant,EC50,11.5,1,1000,1,nM,2023-03-28
