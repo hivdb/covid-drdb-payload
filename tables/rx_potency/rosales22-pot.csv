@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Rosales22,Nirmatrelvir,WA1,Table 1,Virus isolate (HeLa-ACE2),EC50,0.21,1,10,0.01,µM,2023-03-28
 Rosales22,Nirmatrelvir,B.1.1.7 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.12,1,10,0.01,µM,2023-03-28
 Rosales22,Nirmatrelvir,B.1.351 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.23,1,10,0.01,µM,2023-03-28
