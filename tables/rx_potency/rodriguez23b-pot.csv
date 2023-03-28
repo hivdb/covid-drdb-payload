@@ -1,0 +1,16 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Rodriguez23b,Remdesivir table 2,WA1,Table 2,Reporter cell (Huh7-1CN),EC50,7.7,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 2,RdRP:P323L,Table 2,Reporter cell (Huh7-1CN),EC50,7.2,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 2,RdRP:P323L+G671S+nsp13:P77L+nsp14:A394V,Table 2,Reporter cell (Huh7-1CN),EC50,10.1,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 2,RdRP:P323L+nsp14:I42V,Table 2,Reporter cell (Huh7-1CN),EC50,4.8,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 2,RdRP:P323L+nsp13:R392C+nsp14:I42V,Table 2,Reporter cell (Huh7-1CN),EC50,4.7,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 2,nsp8:N118S+RdRP:P323L+G671S+nsp13:R392C+nsp14:I42V,Table 2,Reporter cell (Huh7-1CN),EC50,9.6,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 3,WA1,Table 3,Reporter cell (Huh7-1CN),EC50,8.3,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 3,RdRP:Y273H+P323L+nsp13:M233I+R392C+nsp14:I42V,Table 3,Reporter cell (Huh7-1CN),EC50,7.9,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 4,WA1,Table 4,Reporter cell (Huh7-1CN),EC50,9.3,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 4,RdRP:G108D,Table 4,Reporter cell (Huh7-1CN),EC50,6.9,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 4,RdRP:L247F,Table 4,Reporter cell (Huh7-1CN),EC50,6,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 4,RdRP:T248I,Table 4,Reporter cell (Huh7-1CN),EC50,8.3,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 4,RdRP:Y273H,Table 4,Reporter cell (Huh7-1CN),EC50,10.4,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 4,RdRP:P323L,Table 4,Reporter cell (Huh7-1CN),EC50,7.2,1,1000,1,nM,2023-03-28
+Rodriguez23b,Remdesivir table 4,RdRP:Y521C,Table 4,Reporter cell (Huh7-1CN),EC50,9.8,1,1000,1,nM,2023-03-28
