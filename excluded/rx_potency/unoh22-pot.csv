@@ -1,0 +1,9 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Unoh22,S-217622,SARS-CoV,Table S5,Virus isolate (Vero-TMPRSS2),EC50,0.21,1,0.01,10,�M,2023-03-27
+Unoh22,S-217622,MERS-CoV,Table S5,Virus isolate (Vero-TMPRSS2),EC50,1.4,1,0.01,10,�M,2023-03-27
+Unoh22,S-217622,HCoV-229E,Table S5,Virus isolate (Vero-TMPRSS2),EC50,5.5,1,0.01,10,�M,2023-03-27
+Unoh22,S-217622,HCoV-OC43,Table S5,Virus isolate (Vero-TMPRSS2),EC50,0.074,1,0.01,10,�M,2023-03-27
+Unoh22,Remdesivir,SARS-CoV,Table S5,Virus isolate (Vero-TMPRSS2),EC50,1.3,1,0.01,10,�M,2023-03-27
+Unoh22,Remdesivir,MERS-CoV,Table S5,Virus isolate (Vero-TMPRSS2),EC50,1.5,1,0.01,10,�M,2023-03-27
+Unoh22,Remdesivir,HCoV-229E,Table S5,Virus isolate (Vero-TMPRSS2),EC50,0.041,1,0.01,10,�M,2023-03-27
+Unoh22,Remdesivir,HCoV-OC43,Table S5,Virus isolate (Vero-TMPRSS2),EC50,0.024,1,0.01,10,�M,2023-03-27
