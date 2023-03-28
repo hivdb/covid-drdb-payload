@@ -1,0 +1,9 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Greasley22,Nirmatrelvir,WA1,Table 1,FRET,Kcat/Km,31500,1,NULL,NULL,s⁻¹M⁻¹,2023-02-28
+Greasley22,Nirmatrelvir,3CLpro:G15S,Table 1,FRET,Kcat/Km,16500,1,NULL,NULL,s⁻¹M⁻¹,2023-02-28
+Greasley22,Nirmatrelvir,3CLpro:K90R,Table 1,FRET,Kcat/Km,28300,1,NULL,NULL,s⁻¹M⁻¹,2023-02-28
+Greasley22,Nirmatrelvir,3CLpro:P132H,Table 1,FRET,Kcat/Km,20800,1,NULL,NULL,s⁻¹M⁻¹,2023-02-28
+Greasley22,Nirmatrelvir,3CLpro:G15S,Table 2,FRET,Ki,4.07,1,NULL,NULL,nM,2023-02-28
+Greasley22,Nirmatrelvir,3CLpro:K90R,Table 2,FRET,Ki,1.05,1,NULL,NULL,nM,2023-02-28
+Greasley22,Nirmatrelvir,3CLpro:P132H,Table 2,FRET,Ki,0.635,1,NULL,NULL,nM,2023-02-28
+Greasley22,Nirmatrelvir,WA1,Table 2,FRET,Ki,0.933,1,NULL,NULL,nM,2023-02-28
