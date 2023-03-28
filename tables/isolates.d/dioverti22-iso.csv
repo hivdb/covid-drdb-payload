@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 Dioverti22_Pt1_D57,B.1.409,FALSE,NULL,NULL,NULL,TRUE
 Dioverti22_Pt2_D103,B.1.1.434,FALSE,NULL,NULL,NULL,TRUE
 Dioverti22_Pt2_D117,B.1.1.434,FALSE,NULL,NULL,NULL,TRUE
