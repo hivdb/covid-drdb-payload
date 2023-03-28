@@ -1,5 +1,5 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Rodriguez23,Remdesivir,hCoV-19/Shanghai/SH01/2020,Table 3,Virus Isolate,EC50,10,1,1000,1,nM,2023-03-28
+Rodriguez23,Remdesivir,hCoV-19/Shanghai/SH01/2020,Table 3,Virus isolate,EC50,10,1,1000,1,nM,2023-03-28
 Rodriguez23,Remdesivir,RdRP:S759A+V792I,Table 3,SARS-CoV-2 recombinant,EC50,99.1,1,1000,1,nM,2023-03-28
 Rodriguez23,Remdesivir,nsp8:S41F,Table 3,SARS-CoV-2 recombinant,EC50,7.8,1,1000,1,nM,2023-03-28
 Rodriguez23,Remdesivir,nsp10:A1D,Table 3,SARS-CoV-2 recombinant,EC50,23.2,1,1000,1,nM,2023-03-28
