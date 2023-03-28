@@ -1,0 +1,12 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Dioverti22,Pt1,CP,~,2021-01-01,~,2021-01-01,NULL,NULL,Table 1
+Dioverti22,Pt1,REGN-CoV,~,2021-03-12,~,2021-03-12,1200,mg,Table 1
+Dioverti22,Pt1,Remdesivir,~,2021-03-17,~,2021-03-17,200,mg,Table 1
+Dioverti22,Pt1,Remdesivir,~,2021-03-18,~,2021-03-21,100,mg,Table 1
+Dioverti22,Pt2,REGN-CoV,~,2021-04-22,~,2021-04-22,1200,mg,Table 1
+Dioverti22,Pt2,Remdesivir,~,2021-04-26,~,2021-04-26,200,mg,Table 1
+Dioverti22,Pt2,Remdesivir,~,2021-04-27,~,2021-04-30,100,mg,Table 1
+Dioverti22,Pt3,Bamlanivimab,~,2021-01-01,~,2021-01-01,700,mg,Table 1
+Dioverti22,Pt3,REGN-CoV,~,2021-02-17,~,2021-02-17,1200,mg,Table 1
+Dioverti22,Pt3,Remdesivir,~,2021-02-16,~,2021-02-16,200,mg,Table 1
+Dioverti22,Pt3,Remdesivir,~,2021-02-17,~,2021-02-20,100,mg,Table 1
