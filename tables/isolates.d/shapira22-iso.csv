@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 Shapira22_S1,Delta,FALSE,NULL,NULL,NULL,TRUE
 Shapira22_S2,Delta,FALSE,NULL,NULL,NULL,TRUE
 Shapira22_S3,Delta,FALSE,NULL,NULL,NULL,TRUE
