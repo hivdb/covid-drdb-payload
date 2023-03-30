@@ -26,8 +26,8 @@ jobs:
 
     steps:
     - name: Show ref_name
-        run: |
-          echo "Ref Name: ${{ github.ref_name }}"
+      run: |
+        echo "Ref Name: ${{ github.ref_name }}"
     - name: Checkout payload repository
       uses: actions/checkout@v3
       with:
