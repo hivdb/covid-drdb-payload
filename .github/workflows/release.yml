@@ -31,7 +31,7 @@ jobs:
         path: covid-drdb-payload
 
     - name: Fetch payload tags
-      run:
+      run: |
         cd covid-drdb-payload
         git fetch --tags
 
