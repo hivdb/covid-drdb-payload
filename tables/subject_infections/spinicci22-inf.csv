@@ -1,0 +1,4 @@
+ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Spinicci22,Pt,~,2020-03-15,B.1,Italy,Medical,NULL,Fig 1
+Spinicci22,CP_Donor1,<,2021-01-01,B.1,Italy,NULL,NULL,NULL
+Spinicci22,CP_Donor2,<,2021-01-01,B.1,Italy,NULL,NULL,NULL
