@@ -1,0 +1,6 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Spinicci22,Pt,CP1,=,2020-12-14,=,2020-12-14,NULL,NULL,Fig 1
+Spinicci22,Pt,Remdesivir,=,2021-02-18,=,2021-02-22,NULL,NULL,Fig 1
+Spinicci22,Pt,CP2,=,2021-02-23,=,2021-02-23,NULL,NULL,Fig 1
+Spinicci22,Pt,Bamlanivimab,=,2021-04-23,=,2021-04-23,700,mg,Fig 1
+Spinicci22,Pt,Etesevimab,=,2021-04-23,=,2021-04-23,1400,mg,Fig 1
