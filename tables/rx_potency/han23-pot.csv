@@ -1,0 +1,24 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Han23,Remdesivir table 1,Wuhan-Hu-1,Table 1,Virus isolate,EC50,57,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:P323L,Table 1,SARS-CoV-2 recombinant,EC50,44,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:F480L,Table 1,SARS-CoV-2 recombinant,EC50,118,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:V557L,Table 1,SARS-CoV-2 recombinant,EC50,112,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:V792I,Table 1,SARS-CoV-2 recombinant,EC50,171,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:S759A+V792I,Table 1,SARS-CoV-2 recombinant,EC50,1170,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:C799F,Table 1,SARS-CoV-2 recombinant,EC50,199,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,Wuhan-Hu-1 RdRP,Table 1,Reporter cell (Huh7-1CN),EC50,14.7,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:P323L,Table 1,Reporter cell (Huh7-1CN),EC50,8.4,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:F480L,Table 1,Reporter cell (Huh7-1CN),EC50,26.9,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:V557L,Table 1,Reporter cell (Huh7-1CN),EC50,29.4,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:V792I,Table 1,Reporter cell (Huh7-1CN),EC50,53.7,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:S759A+V792I,Table 1,Reporter cell (Huh7-1CN),EC50,269.3,1,5000,1,nM,2023-03-31
+Han23,Remdesivir table 1,RdRP:C799F,Table 1,Reporter cell (Huh7-1CN),EC50,49.9,1,5000,1,nM,2023-03-31
+Han23,"Remdesivir table 2, figure 3",Wuhan-Hu-1,"Table 2, figure 3",Virus isolate,EC50,9.7,1,5000,1,nM,2023-03-31
+Han23,"Remdesivir table 2, figure 3",RdRP:P323L,Figure 3,SARS-CoV-2 recombinant,EC50,7.2,1,5000,1,nM,2023-03-31
+Han23,"Remdesivir table 2, figure 3",Omicron/BF.7 full genome,Figure 3,Virus isolate,EC50,4.7,1,5000,1,nM,2023-03-31
+Han23,"Remdesivir table 2, figure 3",Omicron/BF.7 full genome+RdRP:L247F,Figure 3,Virus isolate,EC50,6,1,5000,1,nM,2023-03-31
+Han23,"Remdesivir table 2, figure 3",RdRP:S759A+V792I,"Table 2, figure 3",SARS-CoV-2 recombinant,EC50,132.7,1,5000,1,nM,2023-03-31
+Han23,"Remdesivir table 2, figure 3",3CLpro:E166V,Table 2,SARS-CoV-2 recombinant,EC50,7.2,1,5000,1,nM,2023-03-31
+Han23,Nirmatrelvir,Wuhan-Hu-1,Table 2,Virus isolate,EC50,14,1,5000,1,nM,2023-03-31
+Han23,Nirmatrelvir,RdRP:S759A+V792I,Table 2,SARS-CoV-2 recombinant,EC50,15.8,1,5000,1,nM,2023-03-31
+Han23,Nirmatrelvir,3CLpro:E166V,Table 2,SARS-CoV-2 recombinant,EC50,3800,1,5000,1,nM,2023-03-31
