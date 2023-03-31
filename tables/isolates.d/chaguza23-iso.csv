@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 hCoV-19/USA/CT-Yale-12056/2021,B.1.517,FALSE,10548915,NULL,SRR23085675,TRUE
 hCoV-19/USA/CT-Yale-12057/2021,B.1.517,FALSE,10548916,NULL,SRR23085674,TRUE
 hCoV-19/USA/CT-Yale-12058/2021,B.1.517,FALSE,10548917,NULL,SRR23085663,TRUE

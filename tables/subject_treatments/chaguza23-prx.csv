@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
 Chaguza23,Pt,IVIG,~,2020-11-21,~,2020-11-21,NULL,NULL,2023-03-31
 Chaguza23,Pt,IVIG,~,2020-12-21,~,2020-12-21,NULL,NULL,2023-03-31
 Chaguza23,Pt,IVIG,~,2021-01-21,~,2021-01-21,NULL,NULL,2023-03-31
