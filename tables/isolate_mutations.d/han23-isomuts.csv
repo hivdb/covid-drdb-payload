@@ -1,5 +1,6 @@
 ﻿iso_name,gene,position,amino_acid,count,total
 RdRP:F480L,RdRP,480,L,NULL,NULL
+RdRP:V557L,RdRP,557,L,NULL,NULL
 RdRP:V792I,RdRP,792,I,NULL,NULL
 RdRP:C799F,RdRP,799,F,NULL,NULL
 Omicron/BF.7 full genome,nsp1,135,R,NULL,NULL

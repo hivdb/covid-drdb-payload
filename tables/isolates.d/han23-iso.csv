@@ -1,5 +1,6 @@
 ﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 RdRP:F480L,NULL,TRUE,NULL,NULL,NULL,TRUE
+RdRP:V557L,NULL,TRUE,NULL,NULL,NULL,TRUE
 RdRP:V792I,NULL,TRUE,NULL,NULL,NULL,TRUE
 RdRP:C799F,NULL,TRUE,NULL,NULL,NULL,TRUE
 Omicron/BF.7 full genome,Omicron/BF.7,FALSE,NULL,NULL,NULL,TRUE
