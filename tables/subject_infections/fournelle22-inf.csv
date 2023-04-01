@@ -1,2 +1,2 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Fournelle22,Q1,=,2021-01-08,B.1.160,Canada,Medical,NULL,Figure 1a

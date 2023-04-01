@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 Fournelle22_Q1_D1,B.1.160,FALSE,NULL,NULL,NULL,TRUE
 Fournelle22_Q1_D111,B.1.160,FALSE,NULL,NULL,NULL,TRUE
 Fournelle22_Q1_D116,B.1.160,FALSE,NULL,NULL,NULL,TRUE
