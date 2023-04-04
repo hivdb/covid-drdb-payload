@@ -1,0 +1,540 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Kurhade23,Mono_4_dose_1,WA1,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_2,WA1,Table S1,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_3,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_4,WA1,Table S1,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_5,WA1,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_6,WA1,Table S1,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_7,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_8,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_9,WA1,Table S1,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_10,WA1,Table S1,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_11,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_12,WA1,Table S1,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_13,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_14,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_15,WA1,Table S1,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_16,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_17,WA1,Table S1,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_18,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_19,WA1,Table S1,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_20,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_21,WA1,Table S1,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_22,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_23,WA1,Table S1,SARS-CoV-2 recombinant,NT50,20480,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_24,WA1,Table S1,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_25,WA1,Table S1,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_1,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_2,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_3,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_4,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_5,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_6,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_7,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_8,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_9,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_10,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_11,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_12,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_13,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_14,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_15,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_16,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_17,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_18,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_19,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_20,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_21,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_22,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_23,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_24,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_25,BA.4/5 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_1,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_2,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_3,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,14,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_4,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_5,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_6,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_7,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_8,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_9,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_10,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_11,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_12,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_13,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_14,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_15,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_16,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_17,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_18,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_19,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_20,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_21,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_22,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_23,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_24,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_25,BF.7 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_1,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_2,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_3,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_4,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_5,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,14,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_6,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_7,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_8,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_9,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_10,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_11,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_12,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_13,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_14,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_15,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_16,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_17,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_18,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_19,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,14,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_20,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_21,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_22,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_23,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_24,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_25,BA.4.6 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_1,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_2,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_3,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_4,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_5,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_6,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_7,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_8,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_9,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_10,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_11,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_12,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_13,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_14,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_15,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_16,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_17,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_18,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_19,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_20,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_21,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_22,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_23,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_24,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_25,BA.2.75.2 Spike,Table S1,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_1,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_2,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_3,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_4,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_5,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_6,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_7,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_8,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_9,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_10,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_11,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_12,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_13,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_14,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,14,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_15,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_16,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_17,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_18,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_19,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_20,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_21,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_22,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_23,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_24,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_25,BQ.1.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,14,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_1,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_2,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_3,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_4,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_5,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_6,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_7,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_8,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_9,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_10,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_11,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_12,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_13,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_14,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_15,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_16,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_17,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_18,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_19,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_20,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_21,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_22,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_23,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_24,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Mono_4_dose_25,XBB.1 Spike,Table S1,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_1,WA1,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_2,WA1,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_3,WA1,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_4,WA1,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_5,WA1,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_6,WA1,Table S2,SARS-CoV-2 recombinant,NT50,7241,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_7,WA1,Table S2,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_8,WA1,Table S2,SARS-CoV-2 recombinant,NT50,20480,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_9,WA1,Table S2,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_10,WA1,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_11,WA1,Table S2,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_12,WA1,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_13,WA1,Table S2,SARS-CoV-2 recombinant,NT50,3620,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_14,WA1,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_15,WA1,Table S2,SARS-CoV-2 recombinant,NT50,7241,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_16,WA1,Table S2,SARS-CoV-2 recombinant,NT50,7241,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_17,WA1,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_18,WA1,Table S2,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_19,WA1,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_20,WA1,Table S2,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_21,WA1,Table S2,SARS-CoV-2 recombinant,NT50,3620,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_22,WA1,Table S2,SARS-CoV-2 recombinant,NT50,3620,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_23,WA1,Table S2,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_24,WA1,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_25,WA1,Table S2,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_26,WA1,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_27,WA1,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_28,WA1,Table S2,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_29,WA1,Table S2,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_1,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_2,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_3,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_4,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_5,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_6,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_7,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_8,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_9,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_10,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_11,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_12,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_13,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_14,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_15,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_16,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_17,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_18,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_19,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_20,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_21,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_22,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_23,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_24,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_25,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_26,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_27,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_28,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_29,BA.4/5 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_1,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_2,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_3,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_4,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_5,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_6,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_7,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_8,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_9,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_10,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_11,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_12,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_13,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_14,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_15,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_16,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_17,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_18,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_19,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_20,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_21,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_22,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_23,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_24,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_25,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_26,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_27,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_28,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_29,BF.7 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_1,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_2,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_3,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_4,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_5,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_6,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_7,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_8,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_9,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_10,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_11,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_12,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_13,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_14,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_15,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_16,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_17,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_18,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_19,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_20,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_21,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_22,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_23,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_24,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_25,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_26,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_27,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_28,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_29,BA.4.6 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_1,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_2,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_3,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_4,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_5,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_6,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_7,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_8,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_9,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_10,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_11,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_12,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_13,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_14,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_15,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_16,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_17,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_18,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_19,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_20,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_21,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_22,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_23,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_24,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_25,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_26,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_27,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_28,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_29,BA.2.75.2 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_1,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_2,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_3,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_4,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_5,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_6,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_7,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_8,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_9,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_10,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_11,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_12,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_13,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_14,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_15,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_16,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_17,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_18,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_19,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_20,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_21,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_22,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_23,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_24,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_25,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_26,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_27,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_28,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_29,BQ.1.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_1,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_2,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_3,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_4,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_5,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_6,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_7,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,14,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_8,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_9,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_10,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_11,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_12,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_13,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_14,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_15,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_16,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_17,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_18,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_19,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,14,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_20,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_21,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_22,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_23,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_24,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_25,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_26,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,14,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_27,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_28,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_29,XBB.1 Spike,Table S2,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_1,WA1,Table S3,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_2,WA1,Table S3,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_3,WA1,Table S3,SARS-CoV-2 recombinant,NT50,20480,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_4,WA1,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_5,WA1,Table S3,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_6,WA1,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_7,WA1,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_8,WA1,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_9,WA1,Table S3,SARS-CoV-2 recombinant,NT50,14482,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_10,WA1,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_11,WA1,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_12,WA1,Table S3,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_13,WA1,Table S3,SARS-CoV-2 recombinant,NT50,20480,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_14,WA1,Table S3,SARS-CoV-2 recombinant,NT50,7241,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_15,WA1,Table S3,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_16,WA1,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_17,WA1,Table S3,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_18,WA1,Table S3,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_19,WA1,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_20,WA1,Table S3,SARS-CoV-2 recombinant,NT50,7241,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_21,WA1,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_22,WA1,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_23,WA1,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_1,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_2,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_3,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_4,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_5,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,7241,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_6,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_7,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_8,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_9,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,7241,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_10,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_11,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_12,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_13,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_14,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_15,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_16,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_17,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_18,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_19,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_20,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_21,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_22,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_23,BA.4/5 Spike,Table S3,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_1,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_2,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_3,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,10240,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_4,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_5,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_6,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_7,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_8,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_9,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,5120,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_10,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_11,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_12,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_13,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_14,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_15,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_16,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_17,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_18,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1810,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_19,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_20,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_21,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_22,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_23,BF.7 Spike,Table S3,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_1,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_2,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_3,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,7241,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_4,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_5,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,3620,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_6,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_7,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_8,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_9,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_10,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_11,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_12,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_13,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_14,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_15,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_16,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_17,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_18,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_19,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_20,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_21,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_22,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_23,BA.4.6 Spike,Table S3,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_1,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_2,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,905,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_3,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_4,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_5,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_6,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_7,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_8,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_9,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_10,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_11,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_12,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_13,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_14,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_15,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_16,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_17,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_18,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_19,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_20,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_21,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_22,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_23,BA.2.75.2 Spike,Table S3,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_1,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_2,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,1280,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_3,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,2560,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_4,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_5,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_6,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_7,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_8,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_9,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_10,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_11,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_12,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_13,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_14,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_15,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_16,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_17,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_18,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,640,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_19,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_20,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_21,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_22,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_23,BQ.1.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_1,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_2,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_3,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,453,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_4,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_5,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_6,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,113,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_7,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_8,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_9,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_10,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_11,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_12,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_13,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_14,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,320,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_15,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,160,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_16,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,28,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_17,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_18,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,226,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_19,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,80,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_20,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,57,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_21,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,40,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_22,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,20,1,100000,20,NULL,2022-11-09
+Kurhade23,Bivalent_inf_23,XBB.1 Spike,Table S3,SARS-CoV-2 recombinant,NT50,10,1,100000,20,NULL,2022-11-09
