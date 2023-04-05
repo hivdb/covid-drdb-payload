@@ -1,0 +1,7 @@
+ref_name,control_iso_name,iso_name
+Uraki23,Wuhan-Hu-1,hCoV-19/Japan/UT-NCD1288-2N/2022
+Uraki23,Wuhan-Hu-1,hCoV-19/Japan/TY41-795-P0/2022
+Uraki23,Wuhan-Hu-1,hCoV-19/USA/MD-HP40900-PIDYSWHNUB-P2/2022
+Uraki23,hCoV-19/Japan/UT-NCD1288-2N/2022,Wuhan-Hu-1
+Uraki23,hCoV-19/Japan/UT-NCD1288-2N/2022,hCoV-19/Japan/TY41-795-P0/2022
+Uraki23,hCoV-19/Japan/UT-NCD1288-2N/2022,hCoV-19/USA/MD-HP40900-PIDYSWHNUB-P2/2022
