@@ -1,0 +1,23 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Qu22d,BA.1_wave,BA.4/5 Spike:K444T,Figure 3B,Pseudovirus (lentivirus),NT50,185,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.4/5 Spike:N460K,Figure 3B,Pseudovirus (lentivirus),NT50,118,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.4/5 Spike:N658S,Figure 3B,Pseudovirus (lentivirus),NT50,186,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.4/5 Spike:+R346T+K444T,Figure 3B,Pseudovirus (lentivirus),NT50,120,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.4/5 Spike:+R346T+N460K,Figure 3B,Pseudovirus (lentivirus),NT50,54,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.4/5 Spike:K444T,Figure 3C,Pseudovirus (lentivirus),NT50,105,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.4/5 Spike:N460K,Figure 3C,Pseudovirus (lentivirus),NT50,115,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.4/5 Spike:N658S,Figure 3C,Pseudovirus (lentivirus),NT50,204,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.4/5 Spike:+R346T+K444T,Figure 3C,Pseudovirus (lentivirus),NT50,109,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.4/5 Spike:+R346T+N460K,Figure 3C,Pseudovirus (lentivirus),NT50,103,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.2.75 Spike:+R346T,Figure 3E,Pseudovirus (lentivirus),NT50,197,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.2.75 Spike:+F486S,Figure 3E,Pseudovirus (lentivirus),NT50,127,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.2.75 Spike:+D1199N,Figure 3E,Pseudovirus (lentivirus),NT50,237,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.2.75 Spike:+R346T+F486S,Figure 3E,Pseudovirus (lentivirus),NT50,46,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.2.75 Spike:+R346T+D1199N,Figure 3E,Pseudovirus (lentivirus),NT50,116,15,100000,80,NULL,2022-10-24
+Qu22d,BA.1_wave,BA.2.75 Spike:+F486S+D1199N,Figure 3E,Pseudovirus (lentivirus),NT50,95,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.2.75 Spike:+R346T,Figure 3F,Pseudovirus (lentivirus),NT50,200,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.2.75 Spike:+F486S,Figure 3F,Pseudovirus (lentivirus),NT50,140,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.2.75 Spike:+D1199N,Figure 3F,Pseudovirus (lentivirus),NT50,219,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.2.75 Spike:+R346T+F486S,Figure 3F,Pseudovirus (lentivirus),NT50,75,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.2.75 Spike:+R346T+D1199N,Figure 3F,Pseudovirus (lentivirus),NT50,187,15,100000,80,NULL,2022-10-24
+Qu22d,BA.4/5 wave,BA.2.75 Spike:+F486S+D1199N,Figure 3F,Pseudovirus (lentivirus),NT50,157,15,100000,80,NULL,2022-10-24

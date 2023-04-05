@@ -1,3 +1,6 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Qu22d,BA.1_wave,~,2022-02-14,Omicron/BA.1,USA,NULL,NULL,Samples and Patient Information
-Qu22d,BA.4/5 wave,~,2022-09-01,Omicron/BA.5,USA,NULL,NULL,Samples and Patient Information
+Qu22d,BA.1_wave_unvaccinated,~,2022-02-14,Omicron/BA.1,USA,NULL,NULL,Samples and Patient Information
+Qu22d,BA.1_wave_2dose,~,2022-02-14,Omicron/BA.1,USA,NULL,NULL,Samples and Patient Information
+Qu22d,BA.1_wave_3dose,~,2022-02-14,Omicron/BA.1,USA,NULL,NULL,Samples and Patient Information
+Qu22d,BA.4/5 wave_unvaccinated,~,2022-09-01,Omicron/BA.5,USA,NULL,NULL,Samples and Patient Information
+Qu22d,BA.4/5 wave_3dose,~,2022-09-01,Omicron/BA.5,USA,NULL,NULL,Samples and Patient Information

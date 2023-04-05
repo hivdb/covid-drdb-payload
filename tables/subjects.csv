@@ -3428,8 +3428,11 @@ Qu22c,mRNA_3dose_Omicron_inf,Human,NULL,8
 Qu22c,mRNA_3dose_prev_inf_pos,Human,NULL,11
 Qu22c,mRNA_4dose_SUB1,Human,NULL,1
 Qu22c,mRNA_4dose_SUB2,Human,NULL,1
-Qu22d,BA.1_wave,Human,NULL,15
-Qu22d,BA.4/5 wave,Human,NULL,15
+Qu22d,BA.1_wave_2dose,Human,NULL,5
+Qu22d,BA.1_wave_3dose,Human,NULL,4
+Qu22d,BA.1_wave_unvaccinated,Human,NULL,6
+Qu22d,BA.4/5 wave_3dose,Human,NULL,3
+Qu22d,BA.4/5 wave_unvaccinated,Human,NULL,17
 Qu22d,mRNA_3dose,Human,NULL,15
 Ragonnet-Cronin22,BNT_3dose_D28,Human,NULL,19
 Ragonnet-Cronin22,Ragonnet-Cronin22_BA.1_pt_group_1,Human,NULL,3
