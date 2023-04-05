@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Wang23b,monovalent_booster_1month,B.1 Spike,Figure 1A,Pseudovirus (VSV),NT50,15642,15,100000,20,NULL,2023-03-17
 Wang23b,bivalent_booster_1month,B.1 Spike,Figure 1A,Pseudovirus (VSV),NT50,12805,14,100000,20,NULL,2023-03-17
 Wang23b,BA5_BTI_1month,B.1 Spike,Figure 1A,Pseudovirus (VSV),NT50,11198,12,100000,20,NULL,2023-03-17
