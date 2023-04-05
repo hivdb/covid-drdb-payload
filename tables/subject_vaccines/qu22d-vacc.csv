@@ -1,4 +1,5 @@
 ﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Qu22d,mRNA_3dose,~,2021-11-01,mRNA,3,USA,Samples and Patient Information
-Qu22d,BA.1_wave,<,2022-02-01,Unknown vaccine,2,USA,Samples and Patient Information
-Qu22d,BA.4/5 wave,<,2022-08-01,Unknown vaccine,3,USA,Samples and Patient Information
+Qu22d,BA.1_wave_2dose,<,2021-07-01,mRNA,2,USA,Samples and Patient Information
+Qu22d,BA.1_wave_3dose,<,2022-02-01,BNT162b2,3,USA,Samples and Patient Information
+Qu22d,BA.4/5 wave_3dose,<,2022-08-01,mRNA,3,USA,Samples and Patient Information
