@@ -26056,8 +26056,11 @@ Qu22c,mRNA_1st_booster_D16
 Qu22c,mRNA_1st_booster_D122
 Qu22c,mRNA_2nd_booster_D18
 Qu22d,mRNA_3dose
-Qu22d,BA.1_wave
-Qu22d,BA.4/5 wave
+Qu22d,BA.1_wave_unvaccinated
+Qu22d,BA.1_wave_2dose
+Qu22d,BA.1_wave_3dose
+Qu22d,BA.4/5 wave_unvaccinated
+Qu22d,BA.4/5 wave_3dose
 Ragonnet-Cronin22,BNT_3dose_D28
 Rees-Spear21,CP_Mild_1
 Rees-Spear21,CP_Mild_2
