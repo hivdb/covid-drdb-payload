@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Guo23,S2K146,Wuhan-Hu-1 Spike,Figure 3,Pseudovirus,IC50,6,1,50000,1,ng/ml,2023-04-05
 Guo23,S2K146,BA.2 Spike,Figure 3,Pseudovirus,IC50,27,1,50000,1,ng/ml,2023-04-05
 Guo23,S2K146,BA.4/5 Spike,Figure 3,Pseudovirus,IC50,311,1,50000,1,ng/ml,2023-04-05
