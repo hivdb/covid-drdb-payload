@@ -4682,9 +4682,9 @@ Wang23,inactivated_2dose_delta_bti,Human,NULL,12
 Wang23,inactivated_3dose_BA2_bti,Human,NULL,12
 Wang23,inactivated_3dose_BA5_bti,Human,NULL,11
 Wang23,inactivated_3dose_BF7_bti,Human,NULL,12
-Wang23b,BA5_BTI,Human,NULL,1
-Wang23b,bivalent_booster,Human,NULL,1
-Wang23b,monovalent_booster,Human,NULL,1
+Wang23b,BA5_BTI,Human,NULL,12
+Wang23b,bivalent_booster,Human,NULL,14
+Wang23b,monovalent_booster,Human,NULL,15
 Weigang21,BNT162b2,Human,NULL,1
 Weigang21,BW-FR,Human,1962,1
 Weigang21,CP_Human,Human,NULL,2
