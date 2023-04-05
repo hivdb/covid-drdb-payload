@@ -4100,6 +4100,9 @@ Tarhini21,Patient 3,Human,1985,1
 Tauzin22,BTI_CP,Human,NULL,15
 Tauzin22,PI_CP,Human,NULL,15
 Tauzin22,mRNA_3dose,Human,NULL,15
+Tauzin23,mRNA_4dose,Human,NULL,34
+Tauzin23,mRNA_4dose_bti,Human,NULL,12
+Tauzin23,mRNA_4dose_inf,Human,NULL,17
 Tea21,CP_first_wave,Human,1973,31
 Tea21,CP_second_wave,Human,1977,17
 Tober-Lau22,VP_2dose,Human,NULL,10
@@ -4679,6 +4682,9 @@ Wang23,inactivated_2dose_delta_bti,Human,NULL,12
 Wang23,inactivated_3dose_BA2_bti,Human,NULL,12
 Wang23,inactivated_3dose_BA5_bti,Human,NULL,11
 Wang23,inactivated_3dose_BF7_bti,Human,NULL,12
+Wang23b,BA5_BTI,Human,NULL,1
+Wang23b,bivalent_booster,Human,NULL,1
+Wang23b,monovalent_booster,Human,NULL,1
 Weigang21,BNT162b2,Human,NULL,1
 Weigang21,BW-FR,Human,1962,1
 Weigang21,CP_Human,Human,NULL,2
