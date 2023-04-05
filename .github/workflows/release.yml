@@ -30,6 +30,11 @@ jobs:
       with:
         path: covid-drdb-payload
 
+    - name: Fetch payload tags
+      run: |
+        cd covid-drdb-payload
+        git fetch --tags
+
     - name: Checkout covid-drdb repository
       uses: actions/checkout@v3
       with:

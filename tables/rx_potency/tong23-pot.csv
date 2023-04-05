@@ -1,0 +1,23 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Tong23,FRET substrate,Wuhan-Hu-1 3CLpro,Table 3,FRET,Kcat/Km,3,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:T21I,Table 3,FRET,Kcat/Km,8,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:L50F,Table 3,FRET,Kcat/Km,8.6,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:Q69R,Table 3,FRET,Kcat/Km,4.5,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:N133H,Table 3,FRET,Kcat/Km,0.3,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:A191V,Table 3,FRET,Kcat/Km,7.5,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:T199I,Table 3,FRET,Kcat/Km,5.4,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:T21I+L50F,Table 3,FRET,Kcat/Km,12.2,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:T21I+A191V,Table 3,FRET,Kcat/Km,8.9,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:L50F+A191V,Table 3,FRET,Kcat/Km,3.3,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,FRET substrate,3CLpro:T21I+L50F+A191V,Table 3,FRET,Kcat/Km,13.1,1,NULL,NULL,s⁻¹µM⁻¹,2023-03-28
+Tong23,Pomotrelvir,Wuhan-Hu-1 3CLpro,Table 3,pET28a vector (E. coli),IC50,0.027,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:T21I,Table 3,pET28a vector (E. coli),IC50,0.027,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:L50F,Table 3,pET28a vector (E. coli),IC50,0.03,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:Q69R,Table 3,pET28a vector (E. coli),IC50,0.027,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:N133H,Table 3,pET28a vector (E. coli),IC50,1.2,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:A191V,Table 3,pET28a vector (E. coli),IC50,0.038,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:T199I,Table 3,pET28a vector (E. coli),IC50,0.05,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:T21I+L50F,Table 3,pET28a vector (E. coli),IC50,0.021,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:T21I+A191V,Table 3,pET28a vector (E. coli),IC50,0.032,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:L50F+A191V,Table 3,pET28a vector (E. coli),IC50,0.028,1,2,0.01,µM,2023-03-28
+Tong23,Pomotrelvir,3CLpro:T21I+L50F+A191V,Table 3,pET28a vector (E. coli),IC50,0.033,1,2,0.01,µM,2023-03-28

@@ -1,0 +1,31 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Rosales22,Nirmatrelvir,WA1,Table 1,Virus isolate (HeLa-ACE2),EC50,0.21,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,B.1.1.7 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.12,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,B.1.351 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.23,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,B.1.617.2 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.17,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,B.1.1.529 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.07,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,WA1,Table 1,Virus isolate (HeLa-ACE2),EC50,0.54,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,B.1.1.7 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.61,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,B.1.351 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.6,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,B.1.617.2 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.69,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,B.1.1.529 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,0.76,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,WA1,Table 1,Virus isolate (HeLa-ACE2),EC50,10.33,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,B.1.1.7 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,9.6,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,B.1.351 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,10,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,B.1.617.2 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,12.79,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,B.1.1.529 full genome,Table 1,Virus isolate (HeLa-ACE2),EC50,10.44,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,WA1,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.04,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,B.1.1.7 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.02,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,B.1.351 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.12,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,B.1.617.2 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.07,1,10,0.01,µM,2023-03-28
+Rosales22,Nirmatrelvir,B.1.1.529 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.02,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,WA1,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.05,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,B.1.1.7 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.04,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,B.1.351 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.03,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,B.1.617.2 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.02,1,10,0.01,µM,2023-03-28
+Rosales22,Remdesivir,B.1.1.529 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.02,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,WA1,Table 2,Virus isolate (Vero-TMPRSS2),EC50,1.12,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,B.1.1.7 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.6,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,B.1.351 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,2.35,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,B.1.617.2 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,1.81,1,10,0.01,µM,2023-03-28
+Rosales22,EIDD-1931,B.1.1.529 full genome,Table 2,Virus isolate (Vero-TMPRSS2),EC50,0.25,1,10,0.01,µM,2023-03-28

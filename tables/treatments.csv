@@ -5162,6 +5162,7 @@ Case22,AZD1061
 Case22,AZD7442
 Cathcart21,Vir-7831
 Cathcart21,Vir-7832
+Chaguza23,Bamlanivimab
 Changrob21,S24-1301
 Changrob21,S166-32
 Changrob21,S305-1456
@@ -5422,6 +5423,8 @@ Destras22,Sotrovimab
 Ding21,CC12.1
 Ding21,2-4
 Ding21,B38
+Dioverti22,REGN-CoV
+Dioverti22,Bamlanivimab
 Dong21,AZD7442
 Dong21,AZD8895
 Dong21,AZD1061
@@ -6322,14 +6325,14 @@ Planas21c,Evusheld
 Planas21c,Regdanvimab
 Planas21c,Sotrovimab
 Planas21c,Adintrevimab
-Planas22b,Bebtelovimab
-Planas22b,Sotrovimab
-Planas22b,Cilgavimab
-Planas22b,Tixagevimab
-Planas22b,Evusheld
-Planas22b,Casirivimab
-Planas22b,Imdevimab
-Planas22b,Ronapreve
+Planas23,Bebtelovimab
+Planas23,Sotrovimab
+Planas23,Cilgavimab
+Planas23,Tixagevimab
+Planas23,Evusheld
+Planas23,Casirivimab
+Planas23,Imdevimab
+Planas23,Ronapreve
 Pommeret21,Bamlanivimab
 Pommeret21,Etesevimab
 Ragonnet-Cronin22,Casirivimab
@@ -6394,6 +6397,7 @@ Schmitz21,1H09
 Schmitz21,2C08
 Schulz22,AZD8895
 Schulz22,AZD1061
+Shapira22,REGEN-CoV
 Shen21,B38
 Shen21,COVA1-18
 Shen21,COVA2-15
@@ -6438,6 +6442,8 @@ Sheward22c,A23-58.1
 Simons22,Casirivimab
 Simons22,Imdevimab
 Simons22,Bamlanivimab
+Spinicci22,Bamlanivimab
+Spinicci22,Etesevimab
 Stalls22,DH1044
 Stalls22,DH1047
 Stalls22,DH1193
@@ -6665,13 +6671,13 @@ Touret22b,Sotrovimab
 Touret22b,Cilgavimab
 Touret22b,Tixagevimab
 Touret22b,Evusheld
-Touret22c,Casirivimab
-Touret22c,Imdevimab
-Touret22c,Sotrovimab
-Touret22c,Cilgavimab
-Touret22c,Tixagevimab
-Touret22c,Evusheld
-Touret22c,Bebtelovimab
+Touret23,Casirivimab
+Touret23,Imdevimab
+Touret23,Sotrovimab
+Touret23,Cilgavimab
+Touret23,Tixagevimab
+Touret23,Evusheld
+Touret23,Bebtelovimab
 Truffot21,Bamlanivimab
 Tuekprakhon22,REGN10987
 Tuekprakhon22,REGN10933
@@ -9840,6 +9846,9 @@ Branche23,infected_bivalent_BA1_subset_01d
 Branche23,infected_bivalent_BA1_subset_15d
 Branche23,infected_bivalent_BA45_subset_01d
 Branche23,infected_bivalent_BA45_subset_15d
+Brandolini22,CP_P40_lowNT
+Brandolini22,CP_P160_middleNT
+Brandolini22,CP_P1280_highNT
 Brazer22,CP_4637
 Brazer22,CP_4638
 Brazer22,CP_4647
@@ -12574,6 +12583,7 @@ Diez21,CP_hIG 1
 Diez21,CP_hIG 2
 Diez21,CP_hIG 3
 Ding21,CP
+Dioverti22,CP
 Dolzhikova21,Sputnik_3dose_1
 Dolzhikova21,Sputnik_3dose_2
 Dolzhikova21,Sputnik_3dose_3
@@ -16739,13 +16749,127 @@ Imai21,7686
 Imai21,7641
 Imai21,7701
 Imai21,7836
-Jacobsen21,Ad26.COV2.S_1dose
-Jacobsen21,AZD_2dose
-Jacobsen21,BNT_2dose
-Jacobsen21,BNT_2dose_T2
-Jacobsen21,AZD_BNT
-Jacobsen21,AZD_mRNA
-Jacobsen21,mRNA_2dose
+Jacobsen22,two-dose AZD1222_1
+Jacobsen22,two-dose AZD1222_2
+Jacobsen22,two-dose AZD1222_3
+Jacobsen22,two-dose AZD1222_4
+Jacobsen22,two-dose AZD1222_5
+Jacobsen22,two-dose AZD1222_6
+Jacobsen22,two-dose AZD1222_7
+Jacobsen22,two-dose AZD1222_8
+Jacobsen22,two-dose AZD1222_9
+Jacobsen22,two-dose AZD1222_10
+Jacobsen22,two-dose AZD1222_11
+Jacobsen22,two-dose AZD1222_12
+Jacobsen22,two-dose AZD1222_13
+Jacobsen22,two-dose AZD1222_14
+Jacobsen22,two-dose AZD1222_15
+Jacobsen22,two-dose AZD1222_16
+Jacobsen22,two-dose AZD1222_17
+Jacobsen22,two-dose AZD1222_18
+Jacobsen22,two-dose AZD1222_19
+Jacobsen22,two-dose AZD1222_20
+Jacobsen22,two-dose AZD1222_21
+Jacobsen22,two-dose AZD1222_22
+Jacobsen22,two-dose AZD1222_23
+Jacobsen22,two-dose AZD1222_24
+Jacobsen22,two-dose AZD1222_25
+Jacobsen22,AZD1222 + mRNA-1273_26
+Jacobsen22,AZD1222 + mRNA-1273_27
+Jacobsen22,AZD1222 + mRNA-1273_28
+Jacobsen22,AZD1222 + mRNA-1273_29
+Jacobsen22,AZD1222 + mRNA-1273_30
+Jacobsen22,AZD1222 + mRNA-1273_31
+Jacobsen22,AZD1222 + mRNA-1273_32
+Jacobsen22,AZD1222 + mRNA-1273_33
+Jacobsen22,AZD1222 + mRNA-1273_34
+Jacobsen22,AZD1222 + mRNA-1273_35
+Jacobsen22,AZD1222 + mRNA-1273_36
+Jacobsen22,AZD1222 + mRNA-1273_37
+Jacobsen22,AZD1222 + mRNA-1273_38
+Jacobsen22,AZD1222 + mRNA-1273_39
+Jacobsen22,AZD1222 + mRNA-1273_40
+Jacobsen22,AZD1222 + mRNA-1273_41
+Jacobsen22,AZD1222 + mRNA-1273_42
+Jacobsen22,AZD1222 + mRNA-1273_43
+Jacobsen22,AZD1222 + mRNA-1273_44
+Jacobsen22,AZD1222 + mRNA-1273_45
+Jacobsen22,AZD1222 + mRNA-1273_46
+Jacobsen22,AZD1222 + mRNA-1273_47
+Jacobsen22,AZD1222 + mRNA-1273_48
+Jacobsen22,AZD1222 + mRNA-1273_49
+Jacobsen22,two-dose mRNA-1273_50
+Jacobsen22,two-dose mRNA-1273_51
+Jacobsen22,two-dose mRNA-1273_52
+Jacobsen22,two-dose mRNA-1273_53
+Jacobsen22,two-dose mRNA-1273_54
+Jacobsen22,two-dose mRNA-1273_55
+Jacobsen22,two-dose mRNA-1273_56
+Jacobsen22,two-dose mRNA-1273_57
+Jacobsen22,two-dose mRNA-1273_58
+Jacobsen22,two-dose mRNA-1273_59
+Jacobsen22,two-dose mRNA-1273_60
+Jacobsen22,two-dose mRNA-1273_61
+Jacobsen22,two-dose mRNA-1273_62
+Jacobsen22,two-dose mRNA-1273_63
+Jacobsen22,two-dose mRNA-1273_64
+Jacobsen22,two-dose mRNA-1273_65
+Jacobsen22,two-dose mRNA-1273_66
+Jacobsen22,two-dose mRNA-1273_67
+Jacobsen22,two-dose mRNA-1273_68
+Jacobsen22,two-dose mRNA-1273_69
+Jacobsen22,two-dose mRNA-1273_70
+Jacobsen22,two-dose mRNA-1273_71
+Jacobsen22,two-dose mRNA-1273_72
+Jacobsen22,two-dose mRNA-1273_73
+Jacobsen22,one-dose Ad26.CoV2.S_74
+Jacobsen22,one-dose Ad26.CoV2.S_75
+Jacobsen22,one-dose Ad26.CoV2.S_76
+Jacobsen22,one-dose Ad26.CoV2.S_77
+Jacobsen22,one-dose Ad26.CoV2.S_78
+Jacobsen22,one-dose Ad26.CoV2.S_79
+Jacobsen22,one-dose Ad26.CoV2.S_80
+Jacobsen22,one-dose Ad26.CoV2.S_81
+Jacobsen22,one-dose Ad26.CoV2.S_82
+Jacobsen22,one-dose Ad26.CoV2.S_83
+Jacobsen22,one-dose Ad26.CoV2.S_84
+Jacobsen22,one-dose Ad26.CoV2.S_85
+Jacobsen22,one-dose Ad26.CoV2.S_86
+Jacobsen22,one-dose Ad26.CoV2.S_87
+Jacobsen22,one-dose Ad26.CoV2.S_88
+Jacobsen22,one-dose Ad26.CoV2.S_89
+Jacobsen22,one-dose Ad26.CoV2.S_90
+Jacobsen22,one-dose Ad26.CoV2.S_91
+Jacobsen22,one-dose Ad26.CoV2.S_92
+Jacobsen22,one-dose Ad26.CoV2.S_93
+Jacobsen22,one-dose Ad26.CoV2.S_94
+Jacobsen22,one-dose Ad26.CoV2.S_95
+Jacobsen22,one-dose Ad26.CoV2.S_96
+Jacobsen22,AZD1222 + BNT162b2_97
+Jacobsen22,AZD1222 + BNT162b2_98
+Jacobsen22,AZD1222 + BNT162b2_99
+Jacobsen22,AZD1222 + BNT162b2_100
+Jacobsen22,AZD1222 + BNT162b2_101
+Jacobsen22,AZD1222 + BNT162b2_102
+Jacobsen22,AZD1222 + BNT162b2_103
+Jacobsen22,AZD1222 + BNT162b2_104
+Jacobsen22,AZD1222 + BNT162b2_105
+Jacobsen22,AZD1222 + BNT162b2_106
+Jacobsen22,AZD1222 + BNT162b2_107
+Jacobsen22,AZD1222 + BNT162b2_108
+Jacobsen22,AZD1222 + BNT162b2_109
+Jacobsen22,AZD1222 + BNT162b2_110
+Jacobsen22,AZD1222 + BNT162b2_111
+Jacobsen22,AZD1222 + BNT162b2_112
+Jacobsen22,AZD1222 + BNT162b2_113
+Jacobsen22,AZD1222 + BNT162b2_114
+Jacobsen22,AZD1222 + BNT162b2_115
+Jacobsen22,AZD1222 + BNT162b2_116
+Jacobsen22,AZD1222 + BNT162b2_117
+Jacobsen22,AZD1222 + BNT162b2_118
+Jacobsen22,AZD1222 + BNT162b2_119
+Jacobsen22,AZD1222 + BNT162b2_120
+Jacobsen22,AZD1222 + BNT162b2_121
 Jalkanen21,VAC-1_3wk
 Jalkanen21,VAC-2_3wk
 Jalkanen21,VAC-3_3wk
@@ -18736,83 +18860,83 @@ Kurhade22b,CP_Omicron_17
 Kurhade22b,CP_Omicron_18
 Kurhade22b,CP_Omicron_19
 Kurhade22b,CP_Omicron_20
-Kurhade22c,Mono_4_dose_1
-Kurhade22c,Mono_4_dose_2
-Kurhade22c,Mono_4_dose_3
-Kurhade22c,Mono_4_dose_4
-Kurhade22c,Mono_4_dose_5
-Kurhade22c,Mono_4_dose_6
-Kurhade22c,Mono_4_dose_7
-Kurhade22c,Mono_4_dose_8
-Kurhade22c,Mono_4_dose_9
-Kurhade22c,Mono_4_dose_10
-Kurhade22c,Mono_4_dose_11
-Kurhade22c,Mono_4_dose_12
-Kurhade22c,Mono_4_dose_13
-Kurhade22c,Mono_4_dose_14
-Kurhade22c,Mono_4_dose_15
-Kurhade22c,Mono_4_dose_16
-Kurhade22c,Mono_4_dose_17
-Kurhade22c,Mono_4_dose_18
-Kurhade22c,Mono_4_dose_19
-Kurhade22c,Mono_4_dose_20
-Kurhade22c,Mono_4_dose_21
-Kurhade22c,Mono_4_dose_22
-Kurhade22c,Mono_4_dose_23
-Kurhade22c,Mono_4_dose_24
-Kurhade22c,Mono_4_dose_25
-Kurhade22c,Bivalent_1
-Kurhade22c,Bivalent_2
-Kurhade22c,Bivalent_3
-Kurhade22c,Bivalent_4
-Kurhade22c,Bivalent_5
-Kurhade22c,Bivalent_6
-Kurhade22c,Bivalent_7
-Kurhade22c,Bivalent_8
-Kurhade22c,Bivalent_9
-Kurhade22c,Bivalent_10
-Kurhade22c,Bivalent_11
-Kurhade22c,Bivalent_12
-Kurhade22c,Bivalent_13
-Kurhade22c,Bivalent_14
-Kurhade22c,Bivalent_15
-Kurhade22c,Bivalent_16
-Kurhade22c,Bivalent_17
-Kurhade22c,Bivalent_18
-Kurhade22c,Bivalent_19
-Kurhade22c,Bivalent_20
-Kurhade22c,Bivalent_21
-Kurhade22c,Bivalent_22
-Kurhade22c,Bivalent_23
-Kurhade22c,Bivalent_24
-Kurhade22c,Bivalent_25
-Kurhade22c,Bivalent_26
-Kurhade22c,Bivalent_27
-Kurhade22c,Bivalent_28
-Kurhade22c,Bivalent_29
-Kurhade22c,Bivalent_inf_1
-Kurhade22c,Bivalent_inf_2
-Kurhade22c,Bivalent_inf_3
-Kurhade22c,Bivalent_inf_4
-Kurhade22c,Bivalent_inf_5
-Kurhade22c,Bivalent_inf_6
-Kurhade22c,Bivalent_inf_7
-Kurhade22c,Bivalent_inf_8
-Kurhade22c,Bivalent_inf_9
-Kurhade22c,Bivalent_inf_10
-Kurhade22c,Bivalent_inf_11
-Kurhade22c,Bivalent_inf_12
-Kurhade22c,Bivalent_inf_13
-Kurhade22c,Bivalent_inf_14
-Kurhade22c,Bivalent_inf_15
-Kurhade22c,Bivalent_inf_16
-Kurhade22c,Bivalent_inf_17
-Kurhade22c,Bivalent_inf_18
-Kurhade22c,Bivalent_inf_19
-Kurhade22c,Bivalent_inf_20
-Kurhade22c,Bivalent_inf_21
-Kurhade22c,Bivalent_inf_22
-Kurhade22c,Bivalent_inf_23
+Kurhade23,Mono_4_dose_1
+Kurhade23,Mono_4_dose_2
+Kurhade23,Mono_4_dose_3
+Kurhade23,Mono_4_dose_4
+Kurhade23,Mono_4_dose_5
+Kurhade23,Mono_4_dose_6
+Kurhade23,Mono_4_dose_7
+Kurhade23,Mono_4_dose_8
+Kurhade23,Mono_4_dose_9
+Kurhade23,Mono_4_dose_10
+Kurhade23,Mono_4_dose_11
+Kurhade23,Mono_4_dose_12
+Kurhade23,Mono_4_dose_13
+Kurhade23,Mono_4_dose_14
+Kurhade23,Mono_4_dose_15
+Kurhade23,Mono_4_dose_16
+Kurhade23,Mono_4_dose_17
+Kurhade23,Mono_4_dose_18
+Kurhade23,Mono_4_dose_19
+Kurhade23,Mono_4_dose_20
+Kurhade23,Mono_4_dose_21
+Kurhade23,Mono_4_dose_22
+Kurhade23,Mono_4_dose_23
+Kurhade23,Mono_4_dose_24
+Kurhade23,Mono_4_dose_25
+Kurhade23,Bivalent_1
+Kurhade23,Bivalent_2
+Kurhade23,Bivalent_3
+Kurhade23,Bivalent_4
+Kurhade23,Bivalent_5
+Kurhade23,Bivalent_6
+Kurhade23,Bivalent_7
+Kurhade23,Bivalent_8
+Kurhade23,Bivalent_9
+Kurhade23,Bivalent_10
+Kurhade23,Bivalent_11
+Kurhade23,Bivalent_12
+Kurhade23,Bivalent_13
+Kurhade23,Bivalent_14
+Kurhade23,Bivalent_15
+Kurhade23,Bivalent_16
+Kurhade23,Bivalent_17
+Kurhade23,Bivalent_18
+Kurhade23,Bivalent_19
+Kurhade23,Bivalent_20
+Kurhade23,Bivalent_21
+Kurhade23,Bivalent_22
+Kurhade23,Bivalent_23
+Kurhade23,Bivalent_24
+Kurhade23,Bivalent_25
+Kurhade23,Bivalent_26
+Kurhade23,Bivalent_27
+Kurhade23,Bivalent_28
+Kurhade23,Bivalent_29
+Kurhade23,Bivalent_inf_1
+Kurhade23,Bivalent_inf_2
+Kurhade23,Bivalent_inf_3
+Kurhade23,Bivalent_inf_4
+Kurhade23,Bivalent_inf_5
+Kurhade23,Bivalent_inf_6
+Kurhade23,Bivalent_inf_7
+Kurhade23,Bivalent_inf_8
+Kurhade23,Bivalent_inf_9
+Kurhade23,Bivalent_inf_10
+Kurhade23,Bivalent_inf_11
+Kurhade23,Bivalent_inf_12
+Kurhade23,Bivalent_inf_13
+Kurhade23,Bivalent_inf_14
+Kurhade23,Bivalent_inf_15
+Kurhade23,Bivalent_inf_16
+Kurhade23,Bivalent_inf_17
+Kurhade23,Bivalent_inf_18
+Kurhade23,Bivalent_inf_19
+Kurhade23,Bivalent_inf_20
+Kurhade23,Bivalent_inf_21
+Kurhade23,Bivalent_inf_22
+Kurhade23,Bivalent_inf_23
 Kuzmina21,BNT_01
 Kuzmina21,BNT_02
 Kuzmina21,BNT_03
@@ -21026,12 +21150,12 @@ Messali21,BNT_34
 Messali21,BNT_35
 Messali21,BNT_36
 Messali21,BNT_37
-Miller22,monovalent_2021_uninfected_preboost
-Miller22,monovalent_2021_uninfected_postboost
-Miller22,monovalent_2022_mixed_inf_preboost
-Miller22,monovalent_2022_mixed_inf_postboost
-Miller22,bivalent_2022_mixed_inf_preboost
-Miller22,bivalent_2022_mixed_inf_postboost
+Miller23,monovalent_2021_uninfected_preboost
+Miller23,monovalent_2021_uninfected_postboost
+Miller23,monovalent_2022_mixed_inf_preboost
+Miller23,monovalent_2022_mixed_inf_postboost
+Miller23,bivalent_2022_mixed_inf_preboost
+Miller23,bivalent_2022_mixed_inf_postboost
 Mishra21,AZD1222_1
 Mishra21,AZD1222_2
 Mishra21,AZD1222_3
@@ -25830,11 +25954,78 @@ Planas21c,CP_12M_BNT_1dose_13
 Planas21c,CP_12M_BNT_1dose_14
 Planas22,BNT162b2_3dose_D120
 Planas22,BA.1_or_BA.2_BTI_D80
-Planas22b,BNT_3dose_1M
-Planas22b,BNT_3dose_4M
-Planas22b,BNT_BTI_BA.1/2_3M
-Planas22b,BNT_BTI_BA.1/2_8M
-Planas22b,BNT_BTI_BA.5_2M
+Planas23,BNT_3dose_1M_1
+Planas23,BNT_3dose_1M_2
+Planas23,BNT_3dose_1M_3
+Planas23,BNT_3dose_1M_4
+Planas23,BNT_3dose_1M_5
+Planas23,BNT_3dose_1M_6
+Planas23,BNT_3dose_1M_7
+Planas23,BNT_3dose_1M_8
+Planas23,BNT_3dose_1M_9
+Planas23,BNT_3dose_1M_10
+Planas23,BNT_3dose_1M_11
+Planas23,BNT_3dose_1M_12
+Planas23,BNT_3dose_1M_13
+Planas23,BNT_3dose_1M_14
+Planas23,BNT_3dose_1M_15
+Planas23,BNT_3dose_1M_16
+Planas23,BNT_3dose_1M_17
+Planas23,BNT_3dose_1M_18
+Planas23,BNT_3dose_4M_1
+Planas23,BNT_3dose_4M_2
+Planas23,BNT_3dose_4M_3
+Planas23,BNT_3dose_4M_4
+Planas23,BNT_3dose_4M_5
+Planas23,BNT_3dose_4M_6
+Planas23,BNT_3dose_4M_7
+Planas23,BNT_3dose_4M_8
+Planas23,BNT_3dose_4M_9
+Planas23,BNT_3dose_4M_10
+Planas23,BNT_BTI_BA.1/2_3M_1
+Planas23,BNT_BTI_BA.1/2_3M_2
+Planas23,BNT_BTI_BA.1/2_3M_3
+Planas23,BNT_BTI_BA.1/2_3M_4
+Planas23,BNT_BTI_BA.1/2_3M_5
+Planas23,BNT_BTI_BA.1/2_3M_6
+Planas23,BNT_BTI_BA.1/2_3M_7
+Planas23,BNT_BTI_BA.1/2_3M_8
+Planas23,BNT_BTI_BA.1/2_3M_9
+Planas23,BNT_BTI_BA.1/2_3M_10
+Planas23,BNT_BTI_BA.1/2_3M_11
+Planas23,BNT_BTI_BA.1/2_3M_12
+Planas23,BNT_BTI_BA.1/2_3M_13
+Planas23,BNT_BTI_BA.1/2_3M_14
+Planas23,BNT_BTI_BA.1/2_3M_15
+Planas23,BNT_BTI_BA.1/2_3M_16
+Planas23,BNT_BTI_BA.1/2_8M_1
+Planas23,BNT_BTI_BA.1/2_8M_2
+Planas23,BNT_BTI_BA.1/2_8M_3
+Planas23,BNT_BTI_BA.1/2_8M_4
+Planas23,BNT_BTI_BA.1/2_8M_5
+Planas23,BNT_BTI_BA.1/2_8M_6
+Planas23,BNT_BTI_BA.1/2_8M_7
+Planas23,BNT_BTI_BA.1/2_8M_8
+Planas23,BNT_BTI_BA.1/2_8M_9
+Planas23,BNT_BTI_BA.1/2_8M_10
+Planas23,BNT_BTI_BA.1/2_8M_11
+Planas23,BNT_BTI_BA.1/2_8M_12
+Planas23,BNT_BTI_BA.1/2_8M_13
+Planas23,BNT_BTI_BA.5_2M_1
+Planas23,BNT_BTI_BA.5_2M_2
+Planas23,BNT_BTI_BA.5_2M_3
+Planas23,BNT_BTI_BA.5_2M_4
+Planas23,BNT_BTI_BA.5_2M_5
+Planas23,BNT_BTI_BA.5_2M_6
+Planas23,BNT_BTI_BA.5_2M_7
+Planas23,BNT_BTI_BA.5_2M_8
+Planas23,BNT_BTI_BA.5_2M_9
+Planas23,BNT_BTI_BA.5_2M_10
+Planas23,BNT_BTI_BA.5_2M_11
+Planas23,BNT_BTI_BA.5_2M_12
+Planas23,BNT_BTI_BA.5_2M_13
+Planas23,BNT_BTI_BA.5_2M_14
+Planas23,BNT_BTI_BA.5_2M_15
 Pušnik23,mRNA_2dose
 Pušnik23,mRNA_2dose_alpha_inf
 Pušnik23,mRNA_2dose_delta_inf
@@ -27592,6 +27783,8 @@ Spencer21,AZD1222_2dose
 Spencer21,AZD1222_1dose_AZD2816_1dose
 Spencer21,AZD1222_3dose
 Spencer21,AZD1222_2dose_AZD2816_1dose
+Spinicci22,CP1
+Spinicci22,CP2
 Srisutthisamphan22,CP
 Srisutthisamphan22,CoronaVac_2dose
 Stadtmuller21,BNT162b2_1
@@ -32193,10 +32386,123 @@ Xie21b,VP5
 Xie21b,VP6
 Xie21b,VP7
 Xie21b,VP8
-Xie22,mRNA_3dose_3to8months
-Xie22,mRNA_4dose_1to3months
-Xie22,BA1_infection_mRNA_2dose_3to13months
-Xie22,BA1_infection_mRNA_3dose_1to5months
+Xie22,mRNA_3dose_1
+Xie22,mRNA_4dose_1
+Xie22,mRNA_3dose_2
+Xie22,mRNA_4dose_2
+Xie22,mRNA_3dose_3
+Xie22,mRNA_4dose_3
+Xie22,mRNA_3dose_4
+Xie22,mRNA_4dose_4
+Xie22,mRNA_3dose_5
+Xie22,mRNA_4dose_5
+Xie22,mRNA_3dose_6
+Xie22,mRNA_4dose_6
+Xie22,mRNA_3dose_7
+Xie22,mRNA_4dose_7
+Xie22,mRNA_3dose_8
+Xie22,mRNA_4dose_8
+Xie22,mRNA_3dose_9
+Xie22,mRNA_4dose_9
+Xie22,mRNA_3dose_10
+Xie22,mRNA_4dose_10
+Xie22,mRNA_3dose_11
+Xie22,mRNA_4dose_11
+Xie22,mRNA_3dose_12
+Xie22,mRNA_4dose_12
+Xie22,mRNA_3dose_13
+Xie22,mRNA_4dose_13
+Xie22,mRNA_3dose_14
+Xie22,mRNA_4dose_14
+Xie22,mRNA_3dose_15
+Xie22,mRNA_4dose_15
+Xie22,mRNA_3dose_16
+Xie22,mRNA_4dose_16
+Xie22,mRNA_3dose_17
+Xie22,mRNA_4dose_17
+Xie22,mRNA_3dose_18
+Xie22,mRNA_4dose_18
+Xie22,mRNA_3dose_19
+Xie22,mRNA_4dose_19
+Xie22,mRNA_3dose_20
+Xie22,mRNA_4dose_20
+Xie22,mRNA_3dose_21
+Xie22,mRNA_4dose_21
+Xie22,mRNA_3dose_22
+Xie22,mRNA_4dose_22
+Xie22,mRNA_3dose_23
+Xie22,mRNA_4dose_23
+Xie22,mRNA_3dose_24
+Xie22,mRNA_4dose_24
+Xie22,mRNA_3dose_25
+Xie22,mRNA_4dose_25
+Xie22,mRNA_2dose_BA1_BTI_1
+Xie22,mRNA_2dose_BA1_BTI_2
+Xie22,mRNA_2dose_BA1_BTI_3
+Xie22,mRNA_2dose_BA1_BTI_4
+Xie22,mRNA_2dose_BA1_BTI_5
+Xie22,mRNA_2dose_BA1_BTI_6
+Xie22,mRNA_2dose_BA1_BTI_7
+Xie22,mRNA_2dose_BA1_BTI_8
+Xie22,mRNA_2dose_BA1_BTI_9
+Xie22,mRNA_2dose_BA1_BTI_10
+Xie22,mRNA_2dose_BA1_BTI_11
+Xie22,mRNA_2dose_BA1_BTI_12
+Xie22,mRNA_2dose_BA1_BTI_13
+Xie22,mRNA_2dose_BA1_BTI_14
+Xie22,mRNA_2dose_BA1_BTI_15
+Xie22,mRNA_2dose_BA1_BTI_16
+Xie22,mRNA_2dose_BA1_BTI_17
+Xie22,mRNA_2dose_BA1_BTI_18
+Xie22,mRNA_2dose_BA1_BTI_19
+Xie22,mRNA_2dose_BA1_BTI_20
+Xie22,mRNA_2dose_BA1_BTI_21
+Xie22,mRNA_2dose_BA1_BTI_22
+Xie22,mRNA_2dose_BA1_BTI_23
+Xie22,mRNA_2dose_BA1_BTI_24
+Xie22,mRNA_2dose_BA1_BTI_25
+Xie22,mRNA_2dose_BA1_BTI_26
+Xie22,mRNA_2dose_BA1_BTI_27
+Xie22,mRNA_2dose_BA1_BTI_28
+Xie22,mRNA_2dose_BA1_BTI_29
+Xie22,mRNA_3dose_BA1_BTI_1
+Xie22,mRNA_3dose_BA1_BTI_2
+Xie22,mRNA_3dose_BA1_BTI_3
+Xie22,mRNA_3dose_BA1_BTI_4
+Xie22,mRNA_3dose_BA1_BTI_5
+Xie22,mRNA_3dose_BA1_BTI_6
+Xie22,mRNA_3dose_BA1_BTI_7
+Xie22,mRNA_3dose_BA1_BTI_8
+Xie22,mRNA_3dose_BA1_BTI_9
+Xie22,mRNA_3dose_BA1_BTI_10
+Xie22,mRNA_3dose_BA1_BTI_11
+Xie22,mRNA_3dose_BA1_BTI_12
+Xie22,mRNA_3dose_BA1_BTI_13
+Xie22,mRNA_3dose_BA1_BTI_14
+Xie22,mRNA_3dose_BA1_BTI_15
+Xie22,mRNA_3dose_BA1_BTI_16
+Xie22,mRNA_3dose_BA1_BTI_17
+Xie22,mRNA_3dose_BA1_BTI_18
+Xie22,mRNA_3dose_BA1_BTI_19
+Xie22,mRNA_3dose_BA1_BTI_20
+Xie22,mRNA_3dose_BA1_BTI_21
+Xie22,mRNA_3dose_BA1_BTI_22
+Xie22,mRNA_3dose_BA1_BTI_23
+Xie22,mRNA_3dose_BA1_BTI_24
+Xie22,mRNA_3dose_BA1_BTI_25
+Xie22,mRNA_3dose_BA1_BTI_26
+Xie22,mRNA_3dose_BA1_BTI_27
+Xie22,mRNA_3dose_BA1_BTI_28
+Xie22,mRNA_3dose_BA1_BTI_29
+Xie22,mRNA_3dose_BA1_BTI_30
+Xie22,mRNA_3dose_BA1_BTI_31
+Xie22,mRNA_3dose_BA1_BTI_32
+Xie22,mRNA_3dose_BA1_BTI_33
+Xie22,mRNA_3dose_BA1_BTI_34
+Xie22,mRNA_3dose_BA1_BTI_35
+Xie22,mRNA_3dose_BA1_BTI_36
+Xie22,mRNA_3dose_BA1_BTI_37
+Xie22,mRNA_3dose_BA1_BTI_38
 Yadav21,BBV152_01
 Yadav21,BBV152_02
 Yadav21,BBV152_03
@@ -37494,7 +37800,10 @@ Borges21,Remdesivir
 Boshier22,Remdesivir
 Bronstein21,Remdesivir
 Checkmahomed22,Remdesivir
+Chen23b,AVI-8053
+Chen23b,Nirmatrelvir
 Ciuffreda21,Remdesivir
+Dioverti22,Remdesivir
 Drouin21,Remdesivir
 Fahnøe22,Remdesivir
 FDA21d,Nirmatrelvir
@@ -37503,6 +37812,10 @@ Garcia-Vidal22,Remdesivir
 Gliga22,Remdesivir
 Gliga22,Nirmatrelvir/r
 Gliga22,Molnupiravir
+Greasley22,Nirmatrelvir
+Han23,Remdesivir table 1
+Han23,Nirmatrelvir
+Han23,"Remdesivir table 2, figure 3"
 Heilmann22,Nirmatrelvir_exp1
 Heilmann22,Nirmatrelvir_exp2
 Heilmann22,Nirmatrelvir_exp3
@@ -37517,28 +37830,34 @@ Heilmann22,GC376
 Hensley21,Remdesivir
 Heyer22,Remdesivir
 Hogan22,Remdesivir
-Hu22b,GC376
-Hu22b,PF-00835231
-Hu22b,Nirmatrelvir
 Iketani22b,Nirmatrelvir
 Iketani22c,Nirmatrelvir
 Iketani22c,Ensitrelvir
-Jochmans22,ALG-097161
-Jochmans22,Nirmatrelvir
-Jochmans22,PF-00835231
-Jochmans22,Ensitrelvir
+Iketani22c,Remdesivir
+Jochmans23,ALG-097161
+Jochmans23,Nirmatrelvir
+Jochmans23,PF-00835231
+Jochmans23,Ensitrelvir
+Kawashima23,Ensitrelvir
 Kemp21,Remdesivir
 Ko22,Remdesivir
+Lan23,Remdesivir
+Lan23,Nirmatrelvir
+Lan23,GC376
+Lan23,PF-00835231
 Laubscher21,Remdesivir
 Leung22,Remdesivir
 Lohr21,Remdesivir
 Martinot22,Remdesivir
 Moghadasi22,Nirmatrelvir
 Moghadasi22,Ensitrelvir
+Moghadasi23,Nirmatrelvir
+Moghadasi23,Ensitrelvir
+Moghadasi23,Bofutrelvir
 Monrad21,Remdesivir
 Musso22,Remdesivir
-Noske22,Nirmatrelvir
-Noske22,Ensitrelvir
+Noske23,Nirmatrelvir
+Noske23,Ensitrelvir
 Nussenblatt21,Remdesivir
 Oliveira22,Nirmatrelvir
 Ou22,Nirmatrelvir
@@ -37546,12 +37865,20 @@ Pitts22,Remdesivir 48 hpi
 Pitts22,Remdesivir 72 hpi
 Riddell22,Remdesivir
 Rockett22,Remdesivir
+Rodriguez23,Remdesivir
+Rodriguez23b,Remdesivir table 2
+Rodriguez23b,Remdesivir table 3
+Rodriguez23b,Remdesivir table 4
+Rosales22,Nirmatrelvir
+Rosales22,Remdesivir
+Rosales22,EIDD-1931
 Saito22,Remdesivir
 Saito22,EIDD-1931
 Saito22,Nirmatrelvir
 Sasi22,Nirmatrelvir
 Sepulcri21,Remdesivir
 Simons22,Remdesivir
+Spinicci22,Remdesivir
 Stevens22,Remdesivir
 Stevens22,GS-441524
 Szemiel21,Remdesivir
@@ -37559,10 +37886,17 @@ Taha21,Remdesivir
 Takashita22d,Remdesivir
 Takashita22d,Molnupiravir
 Takashita22d,Nirmatrelvir
+Tan22,GC376
+Tan22,PF-00835231
+Tan22,Nirmatrelvir pre-print
+Tan22,Nirmatrelvir
+Tong23,Pomotrelvir
 Torii22,Remdesivir
 Truffot21,Remdesivir
 Truong21,Remdesivir
 Ullrich22,Nirmatrelvir
+Unoh22,Remdesivir
+Unoh22,S-217622
 Uraki23,Remdesivir
 Uraki23,Molnupiravir
 Uraki23,Nirmatrelvir
@@ -37588,8 +37922,12 @@ Drouin21,Azithromycin
 Drouin21,Lopinavir/Ritonavir
 Drouin21,IVIG
 Andres22,Hyperimmune plasma
-Noske22,FRET substrate
+Noske23,FRET substrate
 Ullrich22,FRET substrate
 Oliveira22,FRET substrate
-Hu22b,FRET substrate
+Tan22,FRET substrate
 Ou22,FRET substrate
+Chen23b,FRET substrate
+Kawashima23,FRET substrate
+Tong23,FRET substrate
+Chaguza23,IVIG

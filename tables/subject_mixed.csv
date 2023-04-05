@@ -1,6 +1,6 @@
 ref_name,subject_name,mixed_vaccine,mixed_dosage,mixed_inf_uninf,mixed_inf_var
-Miller22,bivalent_2022_mixed_inf,TRUE,TRUE,TRUE,TRUE
-Miller22,monovalent_2022_mixed_inf,TRUE,TRUE,TRUE,TRUE
+Miller23,bivalent_2022_mixed_inf,TRUE,TRUE,TRUE,TRUE
+Miller23,monovalent_2022_mixed_inf,TRUE,TRUE,TRUE,TRUE
 Bowen22,NVX_2dose_BNT/NVX,TRUE,FALSE,FALSE,FALSE
 Bowen22,Ad26_1dose_Ad26/BNT,TRUE,FALSE,FALSE,FALSE
 Bowen22,AZD1222_2dose_mRNA,TRUE,FALSE,FALSE,FALSE
@@ -10,7 +10,7 @@ Wang22k,BA4/5_BTI_GE_3dose,FALSE,TRUE,FALSE,FALSE,FALSE
 Collier22,mRNA_4dose_mono,TRUE,TRUE,TRUE,TRUE
 Collier22,BNT_4dose_biva,TRUE,TRUE,TRUE,TRUE
 Collier22,MOD_4dose_biva,TRUE,TRUE,TRUE,TRUE
-Planas22b,BNT_BTI_BA.5_2M,FALSE,TRUE,FALSE,FALSE
+Planas23,BNT_BTI_BA.5_2M,FALSE,TRUE,FALSE,FALSE
 Rossler22b,VP_uninfected,TRUE,TRUE,FAlSE,FALSE
 Rossler22b,VP_infected,TRUE,TRUE,FALSE,TRUE
 Zou23,Bivalent_inf,FALSE,FALSE,TRUE,FALSE
