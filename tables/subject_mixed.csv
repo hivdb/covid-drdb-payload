@@ -19,3 +19,5 @@ Lasrado23,mRNA_bivalent_4dose,TRUE,TRUE,TRUE,FALSE
 Arora23,vaccination_3dose_BA5_bti,TRUE,FALSE,FALSE,FALSE
 Arora23,vaccination_3dose_bivalent_1dose,TRUE,FALSE,FALSE,FALSE
 Stich23,vaccine_only,FALSE,TRUE,FALSE,FALSE
+Wang23c,mRNA_3dose_BA2_BTI,TRUE,TRUE,FALSE,FALSE
+Wang23c,mRNA_3dose_BA4or5_BTI,FALSE,TRUE,FALSE,FALSE
