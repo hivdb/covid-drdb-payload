@@ -1,2 +1,2 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Khosravi23,Pt,~,2021-09-01,Delta,USA,HIV,Severe,NULL

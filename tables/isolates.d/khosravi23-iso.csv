@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 Khosravi23_D0,Delta,FALSE,NULL,NULL,SRR21492037,TRUE
 Khosravi23_D31,Delta,FALSE,NULL,NULL,SRR21492036,TRUE
 Khosravi23_D44,Delta,FALSE,NULL,NULL,SRR21492035,TRUE
