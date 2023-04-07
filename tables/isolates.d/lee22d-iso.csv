@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 Lee22d_Pt1_1-S1,B.1.497,FALSE,NULL,NULL,SRR17793986,TRUE
 Lee22d_Pt1_1-S2,B.1.497,FALSE,NULL,NULL,SRR17793985,TRUE
 Lee22d_Pt1_1-S3,B.1.497,FALSE,NULL,NULL,SRR17793974,TRUE
