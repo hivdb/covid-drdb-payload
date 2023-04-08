@@ -1,7 +1,8 @@
 ﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
-Harari22,P1,MAb/CP,~,2021-01-27,~,2021-01-27,NULL,NULL,Figure 3
-Harari22,P3,MAb/CP,~,2021-01-16,~,2021-01-16,NULL,NULL,Figure 3 and Table S3
-Harari22,P5,MAb/CP,~,2020-11-03,~,2020-11-04,NULL,NULL,Figure 3 and Table S3
-Harari22,P5,MAb/CP,~,2020-11-04,~,2020-11-04,NULL,NULL,Figure 3 and Table S3
-Harari22,P5,MAb/CP,~,2020-11-12,~,2020-11-12,NULL,NULL,Figure 3 and Table S3
-Harari22,P5,MAb/CP,~,2020-11-13,~,2020-11-13,NULL,NULL,Figure 3 and Table S3
+Harari22,P1,Bamlanivimab,~,2021-01-19,~,2021-01-19,NULL,NULL,Table S2
+Harari22,P3,Bamlanivimab,~,2021-02-09,~,2021-02-09,NULL,NULL,Table S2
+Harari22,P4,IVIG,~,2021-01-27,~,2021-01-27,NULL,NULL,Table S2
+Harari22,P5,CP,~,2020-11-08,~,2020-11-08,NULL,NULL,Table S2
+Harari22,P5,CP,~,2020-11-09,~,2020-11-09,NULL,NULL,Table S2
+Harari22,P5,CP,~,2020-11-17,~,2020-11-17,NULL,NULL,Table S2
+Harari22,P5,CP,~,2020-11-18,~,2020-11-18,NULL,NULL,Table S2

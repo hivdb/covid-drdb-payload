@@ -1,7 +1,8 @@
 ﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
-Harari22,P1,~,2021-01-01,Alpha,Israel,Medical,Hospitalized,Table S2 and S5
-Harari22,P2,~,2020-06-01,B.1.1.50,Israel,Medical,Hospitalized,Table S2 and S5
-Harari22,P3,~,2021-01-01,B.1.362,Israel,Medical,Hospitalized,Table S2 and S5
-Harari22,P4,~,2021-01-01,Alpha,Israel,Medical,Hospitalized,Table S2 and S5
-Harari22,P5,~,2020-10-01,B.1.1.50,Israel,Medical,Hospitalized,Table S2 and S5
-Harari22,P6,~,2020-12-01,B.1.1.50,Israel,Medical,Hospitalized,Table S2 and S5
+Harari22,P1,~,2021-01-03,Alpha,Israel,Medical,Hospitalized,Table S5 and S6
+Harari22,P2,~,2020-07-26,B.1.1.50,Israel,Medical,Hospitalized,Table S5 and S6
+Harari22,P3,~,2021-01-25,B.1.362,Israel,Medical,Hospitalized,Table S5 and S6
+Harari22,P4,~,2021-01-27,Alpha,Israel,Medical,Hospitalized,Table S5 and S6
+Harari22,P5,~,2020-10-06,B.1.1.50,Israel,Medical,Hospitalized,Table S5 and S6
+Harari22,P6,~,2020-12-16,B.1.1.50,Israel,Medical,Hospitalized,Table S5 and S6
+Harari22,CP_Donor,<,1/1/21,B.1,Israel,NULL,NULL,NULL
