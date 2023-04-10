@@ -1880,6 +1880,7 @@ Hao22,SinoVac_1dose_Fig3B,Human,NULL,4
 Hao22,mRNA1273_2dose_Fig1B,Human,NULL,8
 Hao22,mRNA1273_2dose_Fig3B,Human,NULL,6
 Hao22,mRNA_3dose_Fig4B,Human,NULL,10
+Harari22,CP_Donor,Human,NULL,1
 Harari22,P1,Human,NULL,1
 Harari22,P2,Human,NULL,1
 Harari22,P3,Human,NULL,1
@@ -2665,6 +2666,8 @@ Lee22,Patient Q,Human,1974,1
 Lee22,Patient R,Human,1958,1
 Lee22b,mRNA_1273_2dose,Human,NULL,10
 Lee22b,mRNA_1273_3dose,Human,NULL,20
+Lee22d,Pt1,Human,NULL,1
+Lee22d,Pt2,Human,NULL,1
 Leier21,infected,Human,NULL,10
 Leier21,uninfected,Human,NULL,20
 Leung22,Patient,Human,NULL,1
