@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 He23,C1A-B3,B.1 Spike,Figure 1,Pseudovirus (VSV),IC50,30,1,100000,1,ng/ml,2023-04-10
 He23,C1A-B3,B.1.617.2 Spike,Figure 1,Pseudovirus (VSV),IC50,10,1,100000,1,ng/ml,2023-04-10
 He23,C1A-B3,BA.1 Spike,Figure 1,Pseudovirus (VSV),IC50,100000,1,100000,1,ng/ml,2023-04-10
