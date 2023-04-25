@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Qu23,Bivalent_HCW,S:614G,Figure 2A,Pseudovirus (lentivirus),NT50,3026,14,20480,80,NULL,2023-04-25
 Qu23,Bivalent_HCW,BA.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,2151,14,20480,80,NULL,2023-04-25
 Qu23,Bivalent_HCW,BA.4/5 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,1099,14,20480,80,NULL,2023-04-25
