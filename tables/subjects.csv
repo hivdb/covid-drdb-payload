@@ -4,7 +4,7 @@ Abe21,Resident_Pfizer,Human,NULL,87
 Abe21,Staff_Moderna,Human,NULL,34
 Abe21,Staff_Pfizer,Human,NULL,44
 Acevedo22,BNT162b2,Human,NULL,58
-Acevedo22,CP_first_wave,Human,NULL,1
+Acevedo22,CP_first_wave,Human,NULL,30
 Acevedo22,CoronaVac,Human,NULL,75
 Addetia23,Omicron_BTI_mRNA_bivalent,Human,NULL,5
 Addetia23,WA1_Inf_mRNA_bivalent_4dose,Human,NULL,5
@@ -291,9 +291,9 @@ Assawakosri22b,AZD1222_2dose_BNT162b2,Human,NULL,61
 Assawakosri22b,AZD1222_2dose_half_mRNA1273,Human,NULL,50
 Assawakosri22b,AZD1222_2dose_mRNA1273,Human,NULL,59
 Assawakosri22b,AZD1222_3dose,Human,NULL,59
-Assawakosri22c,CoronaVac_2dose_AZD1222_1dose,Human,NULL,1
-Assawakosri22c,CoronaVac_2dose_BNT_1dose,Human,NULL,1
-Assawakosri22c,CoronaVac_2dose_MOD_1dose,Human,NULL,1
+Assawakosri22c,CoronaVac_2dose_AZD1222_1dose,Human,NULL,20
+Assawakosri22c,CoronaVac_2dose_BNT_1dose,Human,NULL,20
+Assawakosri22c,CoronaVac_2dose_MOD_1dose,Human,NULL,20
 Atari22,BNT162b2_3dose,Human,NULL,14
 Atari22,BNT162b2_3dose_BA.1_BTI,Human,NULL,15
 Atari22,BNT162b2_3dose_BA.5_BTI,Human,NULL,26
@@ -851,7 +851,7 @@ Collier21,CP_Vaccinee_Figure1,Human,NULL,27
 Collier21,CP_before B.1.1.7,Human,NULL,20
 Collier21,Vaccinee_CP_TM,Human,NULL,10
 Collier21,Vaccinee_TM,Human,NULL,18
-Collier21b,BNT,Human,NULL,1
+Collier21b,BNT,Human,NULL,140
 Collier22,BNT_4dose_biva,Human,1980,8
 Collier22,MOD_4dose_biva,Human,1980,10
 Collier22,mRNA_4dose_mono,Human,1972,15
@@ -1870,7 +1870,7 @@ Halfmann22,MOD_2dose_D20,Human,NULL,24
 Hammerschmidt21,AZD,Human,1981,31
 Hammerschmidt21,AZD_BNT,Human,1981,54
 Hammerschmidt21,BNT,Human,1981,30
-Hao22,Ad26_COV2_S_1dose_Fig3B,Human,NULL,1
+Hao22,Ad26_COV2_S_1dose_Fig3B,Human,NULL,7
 Hao22,BNT162b2_2dose_Fig1B,Human,NULL,7
 Hao22,BNT162b2_2dose_Fig3B,Human,NULL,24
 Hao22,BNT162b2_2dose_Fig4B,Human,NULL,6
@@ -2057,9 +2057,9 @@ Ikegame21,SP009,Human,NULL,1
 Ikegame21,SP010,Human,NULL,1
 Ikegame21,SP011,Human,NULL,1
 Ikegame21,SP012,Human,NULL,1
-Ikemura21,B.1.1.7_infection,Human,NULL,1
-Ikemura21,B.1.617.2_infection,Human,NULL,1
-Ikemura21,BNT162b2,Human,NULL,1
+Ikemura21,B.1.1.7_infection,Human,NULL,5
+Ikemura21,B.1.617.2_infection,Human,NULL,11
+Ikemura21,BNT162b2,Human,NULL,8
 Iketani22,BNT_2dose,Human,NULL,13
 Iketani22,CP_WT,Human,NULL,10
 Iketani22,MOD_2dose,Human,NULL,12
@@ -2962,8 +2962,8 @@ Liu21l,mRNA-1273_boosted,Human,NULL,2
 Lodi22,CP Donor,Human,NULL,1
 Lodi22,Patient 1,Human,2018,1
 Lohr21,Patient,Human,1966,1
-Lu21b,BNT162b2,Human,1974,1
-Lu21b,CoronaVac,Human,1969,1
+Lu21b,BNT162b2,Human,1974,25
+Lu21b,CoronaVac,Human,1969,25
 Lu21c,CP,Human,NULL,9
 Lucas21,VP_naive,Human,NULL,17
 Lucas21,VP_recoved,Human,NULL,15
@@ -3049,7 +3049,7 @@ Messali21,BNT,Human,NULL,37
 Miller23,bivalent_2022_mixed_inf,Human,NULL,18
 Miller23,monovalent_2021_uninfected,Human,NULL,16
 Miller23,monovalent_2022_mixed_inf,Human,NULL,15
-Mishra21,AZD1222,Human,NULL,1
+Mishra21,AZD1222,Human,NULL,72
 Miyakawa21,BNT_infected,Human,NULL,6
 Miyakawa21,BNT_naive,Human,NULL,105
 Miyakawa21b,BNT_2dose,Human,NULL,19
@@ -3389,7 +3389,7 @@ Planas21b,AZD,Human,NULL,12
 Planas21b,BNT,Human,NULL,16
 Planas21b,CP_Orleans,Human,NULL,56
 Planas21b,CP_Strasbourg,Human,NULL,27
-Planas21b,VP_Strasbourg,Human,NULL,1
+Planas21b,VP_Strasbourg,Human,NULL,21
 Planas21c,AZD_2dose_M5,Human,1961,18
 Planas21c,BNT_2dose_M5,Human,1962,16
 Planas21c,BNT_3dose_M1,Human,1956,11
@@ -3607,11 +3607,11 @@ Sahay22,Covishield_2dose_recovered,Human,NULL,26
 Sahin20,Subject_PSV,Human,NULL,5
 Sahin21,BNT_Fig1b,Human,NULL,12
 Sahin21,BNT_Fig4d,Human,NULL,5
-Saito22,BA1_BTI,Human,NULL,1
-Saito22,BA2_BTI,Human,NULL,1
-Saito22,BA5_BTI,Human,NULL,1
+Saito22,BA1_BTI,Human,NULL,16
+Saito22,BA2_BTI,Human,NULL,14
+Saito22,BA5_BTI,Human,NULL,20
 Saito22,BNT162b2_3dose,Human,NULL,15
-Saito22,mRNA_4dose,Human,NULL,1
+Saito22,mRNA_4dose,Human,NULL,15
 Sapkal21,BBV152,Human,NULL,42
 Sapkal21,CP,Human,NULL,19
 Sapkal21b,BBV152,Human,NULL,38
@@ -4796,8 +4796,8 @@ Wang22l,BA45_bti,Human,NULL,20
 Wang22l,WT_3dose,Human,NULL,14
 Wang22l,WT_3dose_bivalent_1dose,Human,NULL,21
 Wang22l,WT_4dose,Human,NULL,19
-Wang22m,BNT162b2_3dose,Human,NULL,1
-Wang22m,mRNA_1273_3dose,Human,NULL,1
+Wang22m,BNT162b2_3dose,Human,NULL,10
+Wang22m,mRNA_1273_3dose,Human,NULL,10
 Wang22n,IAV01,Human,NULL,1
 Wang22n,IAV02,Human,NULL,1
 Wang22n,IAV03,Human,NULL,1
