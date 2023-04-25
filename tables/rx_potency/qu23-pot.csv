@@ -1,0 +1,49 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Qu23,Bivalent_HCW,S:614G,Figure 2A,Pseudovirus (lentivirus),NT50,3026,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,BA.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,2151,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,BA.4/5 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,1099,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,XBB Spike,Figure 2A,Pseudovirus (lentivirus),NT50,199,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,XBB.1 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,159,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,XBB Spike:486P,Figure 2A,Pseudovirus (lentivirus),NT50,191,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,XBB.1.5 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,241,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,BQ.1.1 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,86,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,BA.2.75.2 Spike:1199D,Figure 2A,Pseudovirus (lentivirus),NT50,236,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,CH.1.1 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,66,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,BA.2.75.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,185,14,20480,80,NULL,2023-04-25
+Qu23,Bivalent_HCW,CA.3.1 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,62,14,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,1445,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,475,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,197,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,XBB Spike,Figure 2B,Pseudovirus (lentivirus),NT50,43,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,XBB.1 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,42,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,XBB Spike:486P,Figure 2B,Pseudovirus (lentivirus),NT50,57,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,XBB.1.5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,59,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,BQ.1.1 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,25,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,BA.2.75.2 Spike:1199D,Figure 2B,Pseudovirus (lentivirus),NT50,58,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,CH.1.1 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,8,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,BA.2.75.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,50,15,20480,80,NULL,2023-04-25
+Qu23,3dose_HCW,CA.3.1 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,9,15,20480,80,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,S:614G,Figure S2B,Pseudovirus (lentivirus),NT50,544,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,BA.2 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,241,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,BA.4/5 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,169,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,XBB Spike,Figure S2B,Pseudovirus (lentivirus),NT50,65,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,XBB.1 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,70,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,XBB Spike:486P,Figure S2B,Pseudovirus (lentivirus),NT50,85,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,XBB.1.5 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,69,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,BQ.1.1 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,63,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,BA.2.75.2 Spike:1199D,Figure S2B,Pseudovirus (lentivirus),NT50,112,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,CH.1.1 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,59,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,BA.2.75.2 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,127,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_Unvaccinated,CA.3.1 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,42,17,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,S:614G,Figure S2B,Pseudovirus (lentivirus),NT50,933,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,BA.2 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,531,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,BA.4/5 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,306,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,XBB Spike,Figure S2B,Pseudovirus (lentivirus),NT50,115,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,XBB.1 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,97,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,XBB Spike:486P,Figure S2B,Pseudovirus (lentivirus),NT50,125,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,XBB.1.5 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,97,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,BQ.1.1 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,94,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,BA.2.75.2 Spike:1199D,Figure S2B,Pseudovirus (lentivirus),NT50,194,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,CH.1.1 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,74,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,BA.2.75.2 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,238,3,10240,40,NULL,2023-04-25
+Qu23,BA.4/5_3dose,CA.3.1 Spike,Figure S2B,Pseudovirus (lentivirus),NT50,70,3,10240,40,NULL,2023-04-25
