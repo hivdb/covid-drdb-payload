@@ -1,0 +1,13 @@
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+Mykytyn23,BNT,BNT_1dose,~,2021-05-01,Netherlands,BNT,NULL
+Mykytyn23,BNT,BNT_2dose,~,2021-06-01,Netherlands,BNT,NULL
+Mykytyn23,BNT,BNT_3dose,~,2021-12-01,Netherlands,BNT,NULL
+Mykytyn23,Hamster_B.1_inf,D614G_sera,~,2022-01-21,Netherlands,Hamster_B.1_inf,NULL
+Mykytyn23,Hamster_Alpha_inf,Alpha_sera,~,2022-01-21,Netherlands,Hamster_Alpha_inf,NULL
+Mykytyn23,Hamster_Beta_inf,Beta_sera,~,2022-01-21,Netherlands,Hamster_Beta_inf,NULL
+Mykytyn23,Hamster_Gamma_inf,Gamma_sera,~,2022-01-21,Netherlands,Hamster_Gamma_inf,NULL
+Mykytyn23,Hamster_Zeta_inf,Zeta_sera,~,2022-01-21,Netherlands,Hamster_Zeta_inf,NULL
+Mykytyn23,Hamster_Delta_inf,Delta_sera,~,2022-01-21,Netherlands,Hamster_Delta_inf,NULL
+Mykytyn23,Hamster_Mu_inf,Mu_sera,~,2022-01-21,Netherlands,Hamster_Mu_inf,NULL
+Mykytyn23,Hamster_BA.1_inf,BA.1_sera,~,2022-01-21,Netherlands,Hamster_BA.1_inf,NULL
+Mykytyn23,Hamster_BA.5_inf,BA.5_sera,~,2022-07-21,Netherlands,Hamster_BA.5_inf,NULL
