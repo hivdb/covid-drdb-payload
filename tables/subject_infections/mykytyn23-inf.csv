@@ -1,0 +1,10 @@
+ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Mykytyn23,Hamster_B.1_inf,~,2022-01-01,B.1,Netherlands,NULL,NULL,NULL
+Mykytyn23,Hamster_Alpha_inf,~,2022-01-01,Alpha,Netherlands,NULL,NULL,NULL
+Mykytyn23,Hamster_Beta_inf,~,2022-01-01,Beta,Netherlands,NULL,NULL,NULL
+Mykytyn23,Hamster_Gamma_inf,~,2022-01-01,Gamma,Netherlands,NULL,NULL,NULL
+Mykytyn23,Hamster_Zeta_inf,~,2022-01-01,Zeta,Netherlands,NULL,NULL,NULL
+Mykytyn23,Hamster_Delta_inf,~,2022-01-01,Delta,Netherlands,NULL,NULL,NULL
+Mykytyn23,Hamster_Mu_inf,~,2022-01-01,Mu,Netherlands,NULL,NULL,NULL
+Mykytyn23,Hamster_BA.1_inf,~,2022-01-01,Omicron/BA.1,Netherlands,NULL,NULL,NULL
+Mykytyn23,Hamster_BA.5_inf,~,2022-07-01,Omicron/BA.5,Netherlands,NULL,NULL,NULL
