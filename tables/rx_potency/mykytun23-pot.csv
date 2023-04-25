@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Mykytyn23,BA.1_sera,B.1 full genome,Figure S2A,Virus isolate,NT50,20,6,10000,20,NULL,2023-04-25
 Mykytyn23,BA.1_sera,B.1.1.7 full genome,Figure S2A,Virus isolate,NT50,64,6,10000,20,NULL,2023-04-25
 Mykytyn23,BA.1_sera,B.1.351 full genome,Figure S2A,Virus isolate,NT50,20,6,10000,20,NULL,2023-04-25

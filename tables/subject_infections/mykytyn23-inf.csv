@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Mykytyn23,Hamster_B.1_inf,~,2022-01-01,B.1,Netherlands,NULL,NULL,NULL
 Mykytyn23,Hamster_Alpha_inf,~,2022-01-01,Alpha,Netherlands,NULL,NULL,NULL
 Mykytyn23,Hamster_Beta_inf,~,2022-01-01,Beta,Netherlands,NULL,NULL,NULL
