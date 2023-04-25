@@ -3057,6 +3057,9 @@ Miyakawa21b,BNT_2dose_recovered,Human,NULL,6
 Miyamoto22,BNT162b2,Human,NULL,20
 Miyamoto22,BNT162b2_bti_alpha,Human,NULL,15
 Miyamoto22,BNT162b2_bti_delta,Human,NULL,15
+Miyamoto23,Boosted,Human,1989,30
+Miyamoto23,Omicron_BTI,Human,1974,30
+Miyamoto23,Pre_Omicron_BTI,Human,1986,48
 Mlcochova21,AZD1222,Human,NULL,33
 Mlcochova21,BNT162b2,Human,NULL,32
 Mlcochova21,CP,Human,NULL,12
@@ -5428,6 +5431,3 @@ deSouza21,PiCoV-8,Human,NULL,1
 deSouza21,PiCoV-8_5M,Human,NULL,1
 deSouza21,PiCoV-9,Human,NULL,1
 deSouza21,PiCoV-9_5M,Human,NULL,1
-Miyamoto23,Pre_Omicron_BTI,Human,1986,48
-Miyamoto23,Omicron_BTI,Human,1974,30
-Miyamoto23,Boosted,Human,1989,30

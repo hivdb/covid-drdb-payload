@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Miyamoto23,Pre_Omicron_BTI,hCoV-19/Japan/TY-WK-521/2020,Figure 1B,Virus isolate,NT50,172,48,100000,5,NULL,2023-04-25
 Miyamoto23,Pre_Omicron_BTI,hCoV-19/Japan/TY38-873P0/2021,Figure 1B,Virus isolate,NT50,28,48,100000,5,NULL,2023-04-25
 Miyamoto23,Pre_Omicron_BTI,hCoV-19/Japan/TY40-158-P0/2022,Figure 1B,Virus isolate,NT50,32,48,100000,5,NULL,2023-04-25
