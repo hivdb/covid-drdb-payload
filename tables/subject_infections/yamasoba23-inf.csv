@@ -1,0 +1,4 @@
+ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Yamasoba23,BA.2_BTI,~,2022-04-18,Omicron/BA.2,Japan,NULL,NULL,Table S2
+Yamasoba23,BA.5_BTI,~,2022-07-24,Omicron/BA.5,Japan,NULL,NULL,Table S2
+Yamasoba23,XBB.1_inf_hamster,~,2022-12-01,Omicron/XBB.1,Japan,NULL,NULL,NULL
