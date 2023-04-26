@@ -1,8 +1,8 @@
 ref_name,control_iso_name,iso_name
-Yamasoba23,B.1.1 Spike,BA.2 Spike
-Yamasoba23,B.1.1 Spike,BA.5 Spike
-Yamasoba23,B.1.1 Spike,XBB.1 Spike
-Yamasoba23,B.1.1 Spike,XBB.1.5 Spike
-Yamasoba23,B.1.1 Spike,XBB.1.5 Spike:E180V
-Yamasoba23,B.1.1 Spike,XBB.1.5 Spike:T478R
-Yamasoba23,B.1.1 Spike,XBB.1.16 Spike
+Yamasoba23,S:614G,BA.2 Spike
+Yamasoba23,S:614G,BA.5 Spike
+Yamasoba23,S:614G,XBB.1 Spike
+Yamasoba23,S:614G,XBB.1.5 Spike
+Yamasoba23,S:614G,XBB.1.5 Spike:E180V
+Yamasoba23,S:614G,XBB.1.5 Spike:T478R
+Yamasoba23,S:614G,XBB.1.16 Spike
