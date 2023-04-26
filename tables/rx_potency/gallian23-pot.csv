@@ -1,0 +1,5 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Gallian23,BA.1_BTI,B.1 full genome,Figure 1,Virus isolate,NT50,2006,54,20480,40,NULL,2023-04-26
+Gallian23,BA.1_BTI,BA.1 full genome,Figure 1,Virus isolate,NT50,419,54,20480,40,NULL,2023-04-26
+Gallian23,BA.1_BTI,BA.5 full genome,Figure 1,Virus isolate,NT50,156,54,20480,40,NULL,2023-04-26
+Gallian23,BA.1_BTI,BQ.1.1 full genome,Figure 1,Virus isolate,NT50,21,54,20480,40,NULL,2023-04-26
