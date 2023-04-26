@@ -15,14 +15,14 @@ Yamasoba23,Sotrovimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,2950,1,5
 Yamasoba23,Tixagevimab,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,1130,1,2600,1,ng/ml,2023-04-16
 Yamasoba23,Ronapreve,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,4860,1,4860,1,ng/ml,2023-04-16
 Yamasoba23,Evusheld,BA.2 Spike,Table S1,Pseudovirus (lentivirus),IC50,35,1,2100,1,ng/ml,2023-04-16
-Yamasoba23,Bebtelovimab,BA.5 Spike,Table S1,Pseudovirus (lentivirus),IC50,3.4,1,775,1,ng/ml,2023-04-16
-Yamasoba23,Casirivimab,BA.5 Spike,Table S1,Pseudovirus (lentivirus),IC50,5042,1,5042,1,ng/ml,2023-04-16
-Yamasoba23,Cilgavimab,BA.5 Spike,Table S1,Pseudovirus (lentivirus),IC50,692,1,4200,1,ng/ml,2023-04-16
-Yamasoba23,Imdevimab,BA.5 Spike,Table S1,Pseudovirus (lentivirus),IC50,5000,1,5000,1,ng/ml,2023-04-16
-Yamasoba23,Sotrovimab,BA.5 Spike,Table S1,Pseudovirus (lentivirus),IC50,2454,1,5000,1,ng/ml,2023-04-16
-Yamasoba23,Tixagevimab,BA.5 Spike,Table S1,Pseudovirus (lentivirus),IC50,2600,1,2600,1,ng/ml,2023-04-16
-Yamasoba23,Ronapreve,BA.5 Spike,Table S1,Pseudovirus (lentivirus),IC50,4860,1,4860,1,ng/ml,2023-04-16
-Yamasoba23,Evusheld,BA.5 Spike,Table S1,Pseudovirus (lentivirus),IC50,433,1,2100,1,ng/ml,2023-04-16
+Yamasoba23,Bebtelovimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,3.4,1,775,1,ng/ml,2023-04-16
+Yamasoba23,Casirivimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,5042,1,5042,1,ng/ml,2023-04-16
+Yamasoba23,Cilgavimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,692,1,4200,1,ng/ml,2023-04-16
+Yamasoba23,Imdevimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,5000,1,5000,1,ng/ml,2023-04-16
+Yamasoba23,Sotrovimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,2454,1,5000,1,ng/ml,2023-04-16
+Yamasoba23,Tixagevimab,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,2600,1,2600,1,ng/ml,2023-04-16
+Yamasoba23,Ronapreve,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,4860,1,4860,1,ng/ml,2023-04-16
+Yamasoba23,Evusheld,BA.4/5 Spike,Table S1,Pseudovirus (lentivirus),IC50,433,1,2100,1,ng/ml,2023-04-16
 Yamasoba23,Bebtelovimab,XBB.1 Spike,Table S1,Pseudovirus (lentivirus),IC50,775,1,775,1,ng/ml,2023-04-16
 Yamasoba23,Casirivimab,XBB.1 Spike,Table S1,Pseudovirus (lentivirus),IC50,5042,1,5042,1,ng/ml,2023-04-16
 Yamasoba23,Cilgavimab,XBB.1 Spike,Table S1,Pseudovirus (lentivirus),IC50,4200,1,4200,1,ng/ml,2023-04-16
@@ -65,7 +65,7 @@ Yamasoba23,Ronapreve,XBB.1.16 Spike,Table S1,Pseudovirus (lentivirus),IC50,4860,
 Yamasoba23,Evusheld,XBB.1.16 Spike,Table S1,Pseudovirus (lentivirus),IC50,2100,1,2100,1,ng/ml,2023-04-16
 Yamasoba23,BA.2_BTI,S:614G,Figure S1,Pseudovirus (lentivirus),NT50,1918,13,87480,120,NULL,2023-04-16
 Yamasoba23,BA.2_BTI,BA.2 Spike,Figure S1,Pseudovirus (lentivirus),NT50,845,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.2_BTI,BA.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,400,13,87480,120,NULL,2023-04-16
+Yamasoba23,BA.2_BTI,BA.4/5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,400,13,87480,120,NULL,2023-04-16
 Yamasoba23,BA.2_BTI,XBB.1 Spike,Figure S1,Pseudovirus (lentivirus),NT50,120,13,87480,120,NULL,2023-04-16
 Yamasoba23,BA.2_BTI,XBB.1.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,126,13,87480,120,NULL,2023-04-16
 Yamasoba23,BA.2_BTI,XBB.1.5 Spike:E180V,Figure S1,Pseudovirus (lentivirus),NT50,128,13,87480,120,NULL,2023-04-16
@@ -73,7 +73,7 @@ Yamasoba23,BA.2_BTI,XBB.1.5 Spike:T478R,Figure S1,Pseudovirus (lentivirus),NT50,
 Yamasoba23,BA.2_BTI,XBB.1.16 Spike,Figure S1,Pseudovirus (lentivirus),NT50,142,13,87480,120,NULL,2023-04-16
 Yamasoba23,BA.5_BTI,S:614G,Figure S1,Pseudovirus (lentivirus),NT50,6900,15,87480,120,NULL,2023-04-16
 Yamasoba23,BA.5_BTI,BA.2 Spike,Figure S1,Pseudovirus (lentivirus),NT50,3565,15,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,BA.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,2741,15,87480,120,NULL,2023-04-16
+Yamasoba23,BA.5_BTI,BA.4/5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,2741,15,87480,120,NULL,2023-04-16
 Yamasoba23,BA.5_BTI,XBB.1 Spike,Figure S1,Pseudovirus (lentivirus),NT50,225,15,87480,120,NULL,2023-04-16
 Yamasoba23,BA.5_BTI,XBB.1.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,186,15,87480,120,NULL,2023-04-16
 Yamasoba23,BA.5_BTI,XBB.1.5 Spike:E180V,Figure S1,Pseudovirus (lentivirus),NT50,174,15,87480,120,NULL,2023-04-16
@@ -81,7 +81,7 @@ Yamasoba23,BA.5_BTI,XBB.1.5 Spike:T478R,Figure S1,Pseudovirus (lentivirus),NT50,
 Yamasoba23,BA.5_BTI,XBB.1.16 Spike,Figure S1,Pseudovirus (lentivirus),NT50,252,15,87480,120,NULL,2023-04-16
 Yamasoba23,XBB.1_inf_hamster,S:614G,Figure S1,Pseudovirus (lentivirus),NT50,131,6,87480,120,NULL,2023-04-16
 Yamasoba23,XBB.1_inf_hamster,BA.2 Spike,Figure S1,Pseudovirus (lentivirus),NT50,253,6,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,BA.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,120,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,BA.4/5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,120,6,87480,120,NULL,2023-04-16
 Yamasoba23,XBB.1_inf_hamster,XBB.1 Spike,Figure S1,Pseudovirus (lentivirus),NT50,659,6,87480,120,NULL,2023-04-16
 Yamasoba23,XBB.1_inf_hamster,XBB.1.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,503,6,87480,120,NULL,2023-04-16
 Yamasoba23,XBB.1_inf_hamster,XBB.1.5 Spike:E180V,Figure S1,Pseudovirus (lentivirus),NT50,650,6,87480,120,NULL,2023-04-16
