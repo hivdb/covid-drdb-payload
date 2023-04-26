@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Cheung23,WT_inf_3dose_CoronaVac_prevaccine,Wuhan-Hu-1,Figure 1B,Pseudovirus (VSV),NT50,541,13,10000,1,NULL,2023-04-26
 Cheung23,WT_inf_3dose_CoronaVac_1M_post_booster,Wuhan-Hu-1,Figure 1B,Pseudovirus (VSV),NT50,1026,13,10000,1,NULL,2023-04-26
 Cheung23,WT_inf_3dose_CoronaVac_6M_post_booster,Wuhan-Hu-1,Figure 1B,Pseudovirus (VSV),NT50,1502,13,10000,1,NULL,2023-04-26
