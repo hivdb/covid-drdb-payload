@@ -1,0 +1,31 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cheung23,WT_inf_3dose_CoronaVac_prevaccine,Wuhan-Hu-1,Figure 1B,Pseudovirus (VSV),NT50,541,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_1M_post_booster,Wuhan-Hu-1,Figure 1B,Pseudovirus (VSV),NT50,1026,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_6M_post_booster,Wuhan-Hu-1,Figure 1B,Pseudovirus (VSV),NT50,1502,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_prevaccine,BA.4/5 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,46,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_1M_post_booster,BA.4/5 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,63,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_6M_post_booster,BA.4/5 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,134,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_prevaccine,BF.7 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,75,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_1M_post_booster,BF.7 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,116,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_6M_post_booster,BF.7 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,140,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_prevaccine,BA.4.6 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,55,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_1M_post_booster,BA.4.6 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,99,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_6M_post_booster,BA.4.6 Spike:G446S,Figure 1B,Pseudovirus (VSV),NT50,131,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_prevaccine,BA.2.75 Spike,Figure 1B,Pseudovirus (VSV),NT50,21,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_1M_post_booster,BA.2.75 Spike,Figure 1B,Pseudovirus (VSV),NT50,54,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_6M_post_booster,BA.2.75 Spike,Figure 1B,Pseudovirus (VSV),NT50,83,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_prevaccine,BA.2.75.2 Spike,Figure 1B,Pseudovirus (VSV),NT50,21,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_1M_post_booster,BA.2.75.2 Spike,Figure 1B,Pseudovirus (VSV),NT50,40,13,10000,1,NULL,2023-04-26
+Cheung23,WT_inf_3dose_CoronaVac_6M_post_booster,BA.2.75.2 Spike,Figure 1B,Pseudovirus (VSV),NT50,59,13,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_1M_post_booster,Wuhan-Hu-1,Figure 1C,Pseudovirus (VSV),NT50,817,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_6M_post_booster,Wuhan-Hu-1,Figure 1C,Pseudovirus (VSV),NT50,146,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_1M_post_booster,BA.4/5 Spike:G446S,Figure 1C,Pseudovirus (VSV),NT50,10,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_6M_post_booster,BA.4/5 Spike:G446S,Figure 1C,Pseudovirus (VSV),NT50,1.7,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_1M_post_booster,BF.7 Spike:G446S,Figure 1C,Pseudovirus (VSV),NT50,13,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_6M_post_booster,BF.7 Spike:G446S,Figure 1C,Pseudovirus (VSV),NT50,3.8,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_1M_post_booster,BA.4.6 Spike:G446S,Figure 1C,Pseudovirus (VSV),NT50,8.2,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_6M_post_booster,BA.4.6 Spike:G446S,Figure 1C,Pseudovirus (VSV),NT50,2.7,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_1M_post_booster,BA.2.75 Spike,Figure 1C,Pseudovirus (VSV),NT50,11,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_6M_post_booster,BA.2.75 Spike,Figure 1C,Pseudovirus (VSV),NT50,1,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_1M_post_booster,BA.2.75.2 Spike,Figure 1C,Pseudovirus (VSV),NT50,2.3,12,10000,1,NULL,2023-04-26
+Cheung23,3dose_CoronaVac_6M_post_booster,BA.2.75.2 Spike,Figure 1C,Pseudovirus (VSV),NT50,1,12,10000,1,NULL,2023-04-26

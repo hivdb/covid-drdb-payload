@@ -1,0 +1,7 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Cheung23,WT_inf_3dose_CoronaVac,~,2021-05-05,CoronaVac,1,China,Table 1
+Cheung23,WT_inf_3dose_CoronaVac,~,2021-05-29,CoronaVac,2,China,Table 1
+Cheung23,WT_inf_3dose_CoronaVac,~,2021-11-28,CoronaVac,3,China,Table 1
+Cheung23,3dose_CoronaVac,~,2021-05-05,CoronaVac,1,China,Table 2
+Cheung23,3dose_CoronaVac,~,2021-05-29,CoronaVac,2,China,Table 2
+Cheung23,3dose_CoronaVac,~,2021-11-28,CoronaVac,3,China,Table 2
