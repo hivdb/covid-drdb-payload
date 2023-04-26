@@ -1683,7 +1683,7 @@ Gaebler22,mRNA_3dose,Human,NULL,24
 Gagne22,mRNA1273_2dose,Macaque,NULL,8
 Gagne22,mRNA1273_2dose_mRNAOmicron_boost,Macaque,NULL,4
 Gagne22,mRNA1273_3dose,Macaque,NULL,4
-Gallian23,BA.1_BTI,Human,NULL,1
+Gallian23,BA.1_BTI,Human,NULL,54
 Gandhi22,Patient,Human,1950,1
 Garcia-Beltran21,BNT162b2,Human,NULL,30
 Garcia-Beltran21,mRNA-1273,Human,NULL,35
@@ -5432,3 +5432,5 @@ deSouza21,PiCoV-8,Human,NULL,1
 deSouza21,PiCoV-8_5M,Human,NULL,1
 deSouza21,PiCoV-9,Human,NULL,1
 deSouza21,PiCoV-9_5M,Human,NULL,1
+Cheung23,WT_inf_3dose_CoronaVac,Human,1965,13
+Cheung23,3dose_CoronaVac,Human,1979,12
