@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Yamasoba23,Bebtelovimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,5.2,1,775,1,ng/ml,2023-04-16
 Yamasoba23,Casirivimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,12,1,5042,1,ng/ml,2023-04-16
 Yamasoba23,Cilgavimab,S:614G,Table S1,Pseudovirus (lentivirus),IC50,33,1,4200,1,ng/ml,2023-04-16
