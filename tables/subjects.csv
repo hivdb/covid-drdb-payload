@@ -803,6 +803,8 @@ Cheng22b,CoronaVac_2dose_Comirnaty_1dose,Human,NULL,20
 Cheng22b,CoronaVac_3dose,Human,NULL,20
 Cheng22b,WT_inf_Comirnaty_1dose,Human,NULL,20
 Cheng22b,WT_inf_CoronaVac_1dose,Human,NULL,20
+Cheung23,3dose_CoronaVac,Human,1979,12
+Cheung23,WT_inf_3dose_CoronaVac,Human,1965,13
 Cho21,VP_C001,Human,1999,1
 Cho21,VP_C002,Human,2000,1
 Cho21,VP_C003,Human,1993,1
@@ -1683,7 +1685,7 @@ Gaebler22,mRNA_3dose,Human,NULL,24
 Gagne22,mRNA1273_2dose,Macaque,NULL,8
 Gagne22,mRNA1273_2dose_mRNAOmicron_boost,Macaque,NULL,4
 Gagne22,mRNA1273_3dose,Macaque,NULL,4
-Gallian23,BA.1_BTI,Human,NULL,1
+Gallian23,BA.1_BTI,Human,NULL,54
 Gandhi22,Patient,Human,1950,1
 Garcia-Beltran21,BNT162b2,Human,NULL,30
 Garcia-Beltran21,mRNA-1273,Human,NULL,35
