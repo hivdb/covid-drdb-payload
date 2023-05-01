@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Focosi22,ASST_Pt1,~,2022-02-01,Omicron/BA.1,Italy,HIV,NULL,NULL
 Focosi22,ASST_Pt2,~,2022-02-01,Omicron/BA.1,Italy,HIV,NULL,NULL
 Focosi22,ASST_Pt3,~,2022-05-04,Omicron/BA.2,Italy,Medical,NULL,NULL
