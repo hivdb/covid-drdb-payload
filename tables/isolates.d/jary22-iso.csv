@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 Jary22_P1_D0,B.1.214.2,FALSE,NULL,OL405044,NULL,TRUE
 Jary22_P1_D4,B.1.214.2,FALSE,NULL,OL405045,NULL,TRUE
 Jary22_P2_D0,Alpha,FALSE,NULL,OL405046,NULL,TRUE

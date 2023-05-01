@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Jary22,P1,~,2021-04-28,B.1.214.2,France,Medical,Moderate,Table 1
 Jary22,P2,~,2021-04-28,Alpha,France,Medical,Moderate,Table 1
 Jary22,P3,~,2021-04-28,Alpha,France,Medical,Moderate,Table 1
