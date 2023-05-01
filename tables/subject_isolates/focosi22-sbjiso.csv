@@ -1,0 +1,8 @@
+ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
+Focosi22,ASST_Pt1,~,2022-02-01,BA.1 Spike,NP,NULL,Italy,NULL
+Focosi22,ASST_Pt1,~,2022-02-10,BA.1 Spike:+E340D,NP,NULL,Italy,NULL
+Focosi22,ASST_Pt2,~,2022-02-01,BA.1 Spike,NP,NULL,Italy,NULL
+Focosi22,ASST_Pt2,~,2022-02-10,BA.1 Spike:+E340D,NP,NULL,Italy,NULL
+Focosi22,ASST_Pt3,~,2022-05-05,BA.2 Spike,NP,NULL,Italy,NULL
+Focosi22,ASST_Pt3,~,2022-06-05,BA.2 Spike:Y508H,NP,NULL,Italy,NULL
+Focosi22,ASST_Pt3,~,2022-06-13,BA.2 Spike:A262S+P337S+Y508H,NP,NULL,Italy,NULL
