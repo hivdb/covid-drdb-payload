@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Gupta23,Pt_1,~,2021-03-01,Alpha,Italy,NULL,Mild,NULL
 Gupta23,Pt_2,~,2021-03-01,Alpha,Italy,NULL,Mild,NULL
 Gupta23,Pt_3,~,2021-03-01,Alpha,Italy,NULL,Mild,NULL
