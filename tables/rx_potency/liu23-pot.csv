@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Liu23,12-16,S:614G,Figue 1A,Pseudovirus,IC50,71,1,10000,1,NULL,2023-05-02
 Liu23,12-16,B.1.1.7 Spike,Figue 1A,Pseudovirus,IC50,64,1,10000,1,NULL,2023-05-02
 Liu23,12-16,B.1.351 Spike,Figue 1A,Pseudovirus,IC50,40,1,10000,1,NULL,2023-05-02
