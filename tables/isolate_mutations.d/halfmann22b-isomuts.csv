@@ -1,8 +1,8 @@
-iso_name,gene,position,amino_acid,count,total
+﻿iso_name,gene,position,amino_acid,count,total
 Halfmann22b_D124,nsp2,85,I,NULL,NULL
 Halfmann22b_D124,PLpro,891,S,NULL,NULL
 Halfmann22b_D124,PLpro,1788,I,NULL,NULL
-Halfmann22b_D124,3CLpro,89,F,NULL,NULL
+Halfmann22b_D124,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D124,nsp6,38,H,NULL,NULL
 Halfmann22b_D124,RdRP,323,L,NULL,NULL
 Halfmann22b_D124,nsp14,129,D,NULL,NULL
@@ -26,7 +26,7 @@ Halfmann22b_D159,nsp2,195,S,NULL,NULL
 Halfmann22b_D159,PLpro,549,V,NULL,NULL
 Halfmann22b_D159,PLpro,891,S,NULL,NULL
 Halfmann22b_D159,PLpro,1788,I,NULL,NULL
-Halfmann22b_D159,3CLpro,89,F,NULL,NULL
+Halfmann22b_D159,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D159,nsp6,38,H,NULL,NULL
 Halfmann22b_D159,nsp8,160,I,NULL,NULL
 Halfmann22b_D159,RdRP,323,L,NULL,NULL
@@ -53,7 +53,7 @@ Halfmann22b_D297,PLpro,554,A,NULL,NULL
 Halfmann22b_D297,PLpro,891,S,NULL,NULL
 Halfmann22b_D297,PLpro,1533,S,NULL,NULL
 Halfmann22b_D297,PLpro,1788,I,NULL,NULL
-Halfmann22b_D297,3CLpro,89,F,NULL,NULL
+Halfmann22b_D297,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D297,nsp6,38,H,NULL,NULL
 Halfmann22b_D297,nsp8,160,I,NULL,NULL
 Halfmann22b_D297,RdRP,323,L,NULL,NULL
@@ -89,7 +89,7 @@ Halfmann22b_D333,PLpro,554,A,NULL,NULL
 Halfmann22b_D333,PLpro,891,S,NULL,NULL
 Halfmann22b_D333,PLpro,1533,S,NULL,NULL
 Halfmann22b_D333,PLpro,1788,I,NULL,NULL
-Halfmann22b_D333,3CLpro,89,F,NULL,NULL
+Halfmann22b_D333,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D333,nsp6,38,H,NULL,NULL
 Halfmann22b_D333,nsp8,160,I,NULL,NULL
 Halfmann22b_D333,RdRP,323,L,NULL,NULL
@@ -120,7 +120,7 @@ Halfmann22b_D388,PLpro,554,A,NULL,NULL
 Halfmann22b_D388,PLpro,891,S,NULL,NULL
 Halfmann22b_D388,PLpro,977,Q,NULL,NULL
 Halfmann22b_D388,PLpro,1788,I,NULL,NULL
-Halfmann22b_D388,3CLpro,89,F,NULL,NULL
+Halfmann22b_D388,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D388,nsp6,37,F,NULL,NULL
 Halfmann22b_D388,nsp6,38,H,NULL,NULL
 Halfmann22b_D388,nsp6,264,S,NULL,NULL
@@ -155,7 +155,7 @@ Halfmann22b_D415,PLpro,554,A,NULL,NULL
 Halfmann22b_D415,PLpro,891,S,NULL,NULL
 Halfmann22b_D415,PLpro,977,Q,NULL,NULL
 Halfmann22b_D415,PLpro,1788,I,NULL,NULL
-Halfmann22b_D415,3CLpro,89,F,NULL,NULL
+Halfmann22b_D415,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D415,nsp6,37,F,NULL,NULL
 Halfmann22b_D415,nsp6,38,H,NULL,NULL
 Halfmann22b_D415,nsp8,160,I,NULL,NULL
@@ -188,7 +188,7 @@ Halfmann22b_D417,PLpro,554,A,NULL,NULL
 Halfmann22b_D417,PLpro,891,S,NULL,NULL
 Halfmann22b_D417,PLpro,977,Q,NULL,NULL
 Halfmann22b_D417,PLpro,1788,I,NULL,NULL
-Halfmann22b_D417,3CLpro,89,F,NULL,NULL
+Halfmann22b_D417,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D417,nsp6,37,F,NULL,NULL
 Halfmann22b_D417,nsp6,38,H,NULL,NULL
 Halfmann22b_D417,nsp8,160,I,NULL,NULL
@@ -223,7 +223,7 @@ Halfmann22b_D482,PLpro,891,S,NULL,NULL
 Halfmann22b_D482,PLpro,977,Q,NULL,NULL
 Halfmann22b_D482,PLpro,1038,F,NULL,NULL
 Halfmann22b_D482,PLpro,1788,I,NULL,NULL
-Halfmann22b_D482,3CLpro,89,F,NULL,NULL
+Halfmann22b_D482,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D482,nsp6,37,F,NULL,NULL
 Halfmann22b_D482,nsp6,38,H,NULL,NULL
 Halfmann22b_D482,nsp8,160,I,NULL,NULL
@@ -254,7 +254,7 @@ Halfmann22b_D486,nsp2,85,I,NULL,NULL
 Halfmann22b_D486,PLpro,977,Q,NULL,NULL
 Halfmann22b_D486,PLpro,1038,F,NULL,NULL
 Halfmann22b_D486,PLpro,1788,I,NULL,NULL
-Halfmann22b_D486,3CLpro,89,F,NULL,NULL
+Halfmann22b_D486,_3CLpro,89,F,NULL,NULL
 Halfmann22b_D486,nsp6,37,F,NULL,NULL
 Halfmann22b_D486,nsp6,38,H,NULL,NULL
 Halfmann22b_D486,nsp8,160,I,NULL,NULL

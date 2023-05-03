@@ -1,10 +1,10 @@
-ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
-Halfmann22b,Pt,=,2021-01-07,Halfmann22b_D124,NP,NULL,USA,Supplmenetary Table 1
-Halfmann22b,Pt,=,2021-02-11,Halfmann22b_D159,NP,NULL,USA,Supplmenetary Table 1
-Halfmann22b,Pt,=,2021-06-29,Halfmann22b_D297,NP,NULL,USA,Supplmenetary Table 1
-Halfmann22b,Pt,=,2021-08-04,Halfmann22b_D333,NP,NULL,USA,Supplmenetary Table 1
-Halfmann22b,Pt,=,2021-09-28,Halfmann22b_D388,NP,NULL,USA,Supplmenetary Table 1
-Halfmann22b,Pt,=,2021-10-25,Halfmann22b_D415,NP,NULL,USA,Supplmenetary Table 1
-Halfmann22b,Pt,=,2021-10-27,Halfmann22b_D417,NP,NULL,USA,Supplmenetary Table 1
-Halfmann22b,Pt,=,2021-12-31,Halfmann22b_D482,NP,NULL,USA,Supplmenetary Table 1
-Halfmann22b,Pt,=,2022-01-04,Halfmann22b_D486,NP,NULL,USA,Supplmenetary Table 1
+﻿ref_name,subject_name,collection_date_cmp,collection_date,iso_name,iso_source,iso_culture,location,section
+Halfmann22b,Pt,=,2021-01-07,Halfmann22b_D124,NP,FALSE,USA,Supplmenetary Table 1
+Halfmann22b,Pt,=,2021-02-11,Halfmann22b_D159,NP,FALSE,USA,Supplmenetary Table 1
+Halfmann22b,Pt,=,2021-06-29,Halfmann22b_D297,NP,FALSE,USA,Supplmenetary Table 1
+Halfmann22b,Pt,=,2021-08-04,Halfmann22b_D333,NP,FALSE,USA,Supplmenetary Table 1
+Halfmann22b,Pt,=,2021-09-28,Halfmann22b_D388,NP,FALSE,USA,Supplmenetary Table 1
+Halfmann22b,Pt,=,2021-10-25,Halfmann22b_D415,NP,FALSE,USA,Supplmenetary Table 1
+Halfmann22b,Pt,=,2021-10-27,Halfmann22b_D417,NP,FALSE,USA,Supplmenetary Table 1
+Halfmann22b,Pt,=,2021-12-31,Halfmann22b_D482,NP,FALSE,USA,Supplmenetary Table 1
+Halfmann22b,Pt,=,2022-01-04,Halfmann22b_D486,NP,FALSE,USA,Supplmenetary Table 1

@@ -1888,6 +1888,8 @@ Halfmann22,BNT_2dose_D20,Human,NULL,24
 Halfmann22,CP_WA1_Hamster,Human,NULL,4
 Halfmann22,MOD_2dose_6M,Human,NULL,16
 Halfmann22,MOD_2dose_D20,Human,NULL,24
+Halfmann22b,Pt,Human,NULL,1
+Halfmann22b,VaxPlasma_Donor,Human,NULL,1
 Hammerschmidt21,AZD,Human,1981,31
 Hammerschmidt21,AZD_BNT,Human,1981,54
 Hammerschmidt21,BNT,Human,1981,30
