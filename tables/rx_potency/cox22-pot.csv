@@ -1,0 +1,19 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Cox22,Nirmatrelvir,WA1,Extended data Fig. 1,Virus isolate,EC50,252.8,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,B.1.1.7 full genome,Extended data Fig. 1,Virus isolate,EC50,280.1,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,P.1 full genome,Extended data Fig. 1,Virus isolate,EC50,292.4,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,B.1.617.2 full genome,Extended data Fig. 1,Virus isolate,EC50,34.32,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,Omicron/BA.1 full genome,Extended data Fig. 1,Virus isolate,EC50,21.13,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,B.1.351 full genome,Extended data Fig. 1,Virus isolate,EC50,327.6,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,Omicron/BA.4 full genome,Extended data Fig. 1,Virus isolate,EC50,34.43,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,Omicron/BA.2.12.1 full genome,Extended data Fig. 1,Virus isolate,EC50,28.8,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,Omicron/BA.2 full genome,Extended data Fig. 1,Virus isolate,EC50,37.1,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,WA1,Extended data Fig. 1,Virus isolate,EC90,287.7,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,B.1.1.7 full genome,Extended data Fig. 1,Virus isolate,EC90,328,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,P.1 full genome,Extended data Fig. 1,Virus isolate,EC90,329,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,B.1.617.2 full genome,Extended data Fig. 1,Virus isolate,EC90,42.6,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,Omicron/BA.1 full genome,Extended data Fig. 1,Virus isolate,EC90,38.6,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,B.1.351 full genome,Extended data Fig. 1,Virus isolate,EC90,421.4,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,Omicron/BA.4 full genome,Extended data Fig. 1,Virus isolate,EC90,44,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,Omicron/BA.2.12.1 full genome,Extended data Fig. 1,Virus isolate,EC90,32.8,1,1000,1,nM,2023-05-03
+Cox22,Nirmatrelvir,Omicron/BA.2 full genome,Extended data Fig. 1,Virus isolate,EC90,43.2,1,1000,1,nM,2023-05-03
