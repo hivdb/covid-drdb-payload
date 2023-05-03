@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Cox22,Nirmatrelvir,WA1,Extended data Fig. 1,Virus isolate,EC50,252.8,1,1000,1,nM,2023-05-03
 Cox22,Nirmatrelvir,B.1.1.7 full genome,Extended data Fig. 1,Virus isolate,EC50,280.1,1,1000,1,nM,2023-05-03
 Cox22,Nirmatrelvir,hCoV-19/Japan/TY7-503/2021,Extended data Fig. 1,Virus isolate,EC50,292.4,1,1000,1,nM,2023-05-03
