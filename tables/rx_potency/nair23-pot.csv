@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Nair23,PreBooster,WA1,Figure 2B,Virus isolate,NT50,1077,15,100000,50,NULL,2023-05-03
 Nair23,Boost,WA1,Figure 2B,Virus isolate,NT50,9039,15,100000,50,NULL,2023-05-03
 Nair23,PreBooster,hCoV-19/USA/NY-MSHSPSP-PV29995/2021,Figure 2B,Virus isolate,NT50,328,15,100000,50,NULL,2023-05-03
