@@ -1,0 +1,9 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Sacco22,FRET substrate,Wuhan-Hu-1 3CLpro,Figure 1b,FRET,Kcat/Km,0.011,1,NULL,NULL,s⁻¹µM⁻¹,2023-05-03
+Sacco22,FRET substrate,3CLpro:P132H,Figure 1b,FRET,Kcat/Km,0.01,1,NULL,NULL,s⁻¹µM⁻¹,2023-05-03
+Sacco22,GC376,Wuhan-Hu-1 3CLpro,Figure 1d,Pseudovirus,IC50,40.25,1,1000,1,nM,2023-05-03
+Sacco22,GC376,3CLpro:P132H,Figure 1d,Pseudovirus,IC50,39.22,1,1000,1,nM,2023-05-03
+Sacco22,Nirmatrelvir,Wuhan-Hu-1 3CLpro,Figure 1d,Pseudovirus,IC50,26.03,1,1000,1,nM,2023-05-03
+Sacco22,Nirmatrelvir,3CLpro:P132H,Figure 1d,Pseudovirus,IC50,32.45,1,1000,1,nM,2023-05-03
+Sacco22,PF-00835231,Wuhan-Hu-1 3CLpro,Figure 1d,Pseudovirus,IC50,15.09,1,1000,1,nM,2023-05-03
+Sacco22,PF-00835231,3CLpro:P132H,Figure 1d,Pseudovirus,IC50,17.61,1,1000,1,nM,2023-05-03
