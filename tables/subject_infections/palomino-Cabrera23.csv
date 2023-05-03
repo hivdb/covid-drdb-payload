@@ -1,0 +1,23 @@
+ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+Palomino-Cabrera23,Pt1,2022-01-01,~,Omicron/BA.1.1,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt2,2022-01-01,~,Omicron/BA.1.1,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt3,2022-01-01,~,Omicron/BA.1.1.1,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt4,2022-01-01,~,Omicron/BA.1.17,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt5,2022-01-01,~,Omicron/BA.2,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt6,2022-01-01,~,Omicron/BA.2,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt7,2022-07-01,~,Omicron/BA.2.56,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt8,2022-07-01,~,Omicron/BA.5.1,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt9,2022-07-01,~,Omicron/BA.5.1,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt10,2022-07-01,~,Omicron/BA.5.1,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt11,2022-07-01,~,Omicron/BA.5.1,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt12,2022-07-01,~,Omicron/BA.5.2,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt13,2022-07-01,~,Omicron/BA.5.2,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt14,2022-07-01,~,Omicron/BA.5.2.1,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt15,2022-07-01,~,Omicron/BA.5.2.1,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt16,2022-01-01,~,Omicron/BA.1,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt17,2022-01-01,~,Omicron/BA.1.1.1,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt18,2022-01-01,~,Omicron/BA.1.17,Spain,NULL,NULL,Figure 1
+Palomino-Cabrera23,Pt19,2022-01-01,~,Omicron/BA.2,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt20,2022-07-01,~,Omicron/BA.5.1,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt21,2022-07-01,~,Omicron/BA.5.1,Spain,NULL,Severe,Figure 1
+Palomino-Cabrera23,Pt22,2022-07-01,~,Omicron/BA.5.1.23,Spain,NULL,Severe,Figure 1
