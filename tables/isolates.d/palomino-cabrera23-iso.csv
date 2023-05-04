@@ -1,4 +1,4 @@
-iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
+﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 Palomino-Cabrera23_Pt1_D0,Omicron/BA.1.1,FALSE,NULL,NULL,NULL,TRUE
 Palomino-Cabrera23_Pt1_D15,Omicron/BA.1.1,FALSE,NULL,NULL,NULL,TRUE
 Palomino-Cabrera23_Pt1_D20,Omicron/BA.1.1,FALSE,NULL,NULL,NULL,TRUE

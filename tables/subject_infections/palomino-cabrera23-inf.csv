@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Palomino-Cabrera23,Pt1,~,2022-02-04,Omicron/BA.1.1,Spain,NULL,Severe,Figure 1
 Palomino-Cabrera23,Pt2,~,2022-02-04,Omicron/BA.1.1,Spain,NULL,Severe,Figure 1
 Palomino-Cabrera23,Pt3,~,2022-02-04,Omicron/BA.1.1.1,Spain,NULL,Severe,Figure 1
