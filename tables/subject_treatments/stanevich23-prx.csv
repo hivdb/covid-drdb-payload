@@ -1,0 +1,4 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Stanevich23,Patient S,Donor1_CP,=,2021-01-11,=,2021-01-11,NULL,NULL,NULL
+Stanevich23,Patient S,Donor2_CP,=,2021-01-15,=,2021-01-15,NULL,NULL,NULL
+Stanevich23,Patient S,Donor3_CP,=,2021-01-18,=,2021-01-18,NULL,NULL,NULL
