@@ -63,27 +63,235 @@ Yamasoba23,Sotrovimab,XBB.1.16 Spike,Table S1,Pseudovirus (lentivirus),IC50,780,
 Yamasoba23,Tixagevimab,XBB.1.16 Spike,Table S1,Pseudovirus (lentivirus),IC50,2600,1,2600,1,ng/ml,2023-04-16
 Yamasoba23,Ronapreve,XBB.1.16 Spike,Table S1,Pseudovirus (lentivirus),IC50,4860,1,4860,1,ng/ml,2023-04-16
 Yamasoba23,Evusheld,XBB.1.16 Spike,Table S1,Pseudovirus (lentivirus),IC50,2100,1,2100,1,ng/ml,2023-04-16
-Yamasoba23,BA.2_BTI,S:614G,Figure S1,Pseudovirus (lentivirus),NT50,1918,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.2_BTI,BA.2 Spike,Figure S1,Pseudovirus (lentivirus),NT50,845,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.2_BTI,BA.4/5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,400,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.2_BTI,XBB.1 Spike,Figure S1,Pseudovirus (lentivirus),NT50,120,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.2_BTI,XBB.1.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,126,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.2_BTI,XBB.1.5 Spike:E180V,Figure S1,Pseudovirus (lentivirus),NT50,128,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.2_BTI,XBB.1.5 Spike:T478R,Figure S1,Pseudovirus (lentivirus),NT50,129,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.2_BTI,XBB.1.16 Spike,Figure S1,Pseudovirus (lentivirus),NT50,142,13,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,S:614G,Figure S1,Pseudovirus (lentivirus),NT50,6900,15,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,BA.2 Spike,Figure S1,Pseudovirus (lentivirus),NT50,3565,15,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,BA.4/5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,2741,15,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,XBB.1 Spike,Figure S1,Pseudovirus (lentivirus),NT50,225,15,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,XBB.1.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,186,15,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,XBB.1.5 Spike:E180V,Figure S1,Pseudovirus (lentivirus),NT50,174,15,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,XBB.1.5 Spike:T478R,Figure S1,Pseudovirus (lentivirus),NT50,240,15,87480,120,NULL,2023-04-16
-Yamasoba23,BA.5_BTI,XBB.1.16 Spike,Figure S1,Pseudovirus (lentivirus),NT50,252,15,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,S:614G,Figure S1,Pseudovirus (lentivirus),NT50,131,6,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,BA.2 Spike,Figure S1,Pseudovirus (lentivirus),NT50,253,6,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,BA.4/5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,120,6,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,XBB.1 Spike,Figure S1,Pseudovirus (lentivirus),NT50,659,6,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,XBB.1.5 Spike,Figure S1,Pseudovirus (lentivirus),NT50,503,6,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,XBB.1.5 Spike:E180V,Figure S1,Pseudovirus (lentivirus),NT50,650,6,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,XBB.1.5 Spike:T478R,Figure S1,Pseudovirus (lentivirus),NT50,579,6,87480,120,NULL,2023-04-16
-Yamasoba23,XBB.1_inf_hamster,XBB.1.16 Spike,Figure S1,Pseudovirus (lentivirus),NT50,671,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,S:614G,Table S6,Pseudovirus (lentivirus),NT50,131,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,BA.2 Spike,Table S6,Pseudovirus (lentivirus),NT50,253,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,BA.4/5 Spike,Table S6,Pseudovirus (lentivirus),NT50,120,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,XBB.1 Spike,Table S6,Pseudovirus (lentivirus),NT50,659,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,XBB.1.5 Spike,Table S6,Pseudovirus (lentivirus),NT50,503,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,XBB.1.5 Spike:E180V,Table S6,Pseudovirus (lentivirus),NT50,650,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,XBB.1.5 Spike:T478R,Table S6,Pseudovirus (lentivirus),NT50,579,6,87480,120,NULL,2023-04-16
+Yamasoba23,XBB.1_inf_hamster,XBB.1.16 Spike,Table S6,Pseudovirus (lentivirus),NT50,671,6,87480,120,NULL,2023-04-16
+Yamasoba23,BA.2_P378,S:614G,Table S5,Pseudovirus (lentivirus),NT50,7881,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P398,S:614G,Table S5,Pseudovirus (lentivirus),NT50,4008,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P407,S:614G,Table S5,Pseudovirus (lentivirus),NT50,1013,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P401,S:614G,Table S5,Pseudovirus (lentivirus),NT50,4886,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P412,S:614G,Table S5,Pseudovirus (lentivirus),NT50,3158,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6449,S:614G,Table S5,Pseudovirus (lentivirus),NT50,3222,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6355,S:614G,Table S5,Pseudovirus (lentivirus),NT50,1569,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6547,S:614G,Table S5,Pseudovirus (lentivirus),NT50,1233,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_7951,S:614G,Table S5,Pseudovirus (lentivirus),NT50,333.6,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8645,S:614G,Table S5,Pseudovirus (lentivirus),NT50,3126,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8682,S:614G,Table S5,Pseudovirus (lentivirus),NT50,1098,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_5949,S:614G,Table S5,Pseudovirus (lentivirus),NT50,1917,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8796,S:614G,Table S5,Pseudovirus (lentivirus),NT50,703.5,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P378,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,2187,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P398,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,1686,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P407,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,516.9,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P401,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,3769,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P412,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,1131,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6449,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,1212,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6355,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,1011,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6547,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,440.7,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_7951,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,188,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8645,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,1346,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8682,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,594.5,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_5949,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,974,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8796,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,174.1,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P378,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,961.2,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P398,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,715.4,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P407,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,143.1,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P401,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,723.8,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P412,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,2367,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6449,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,1013,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6355,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,320.2,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6547,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,218.5,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_7951,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8645,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,468.5,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8682,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,206.8,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_5949,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,405,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8796,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P378,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P398,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P407,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P401,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P412,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6449,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6355,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6547,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_7951,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8645,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8682,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_5949,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8796,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P378,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P398,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P407,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P401,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,197.1,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P412,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,135.2,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6449,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6355,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6547,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_7951,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8645,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8682,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_5949,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8796,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P378,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P398,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P407,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P401,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,185.6,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P412,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,160.7,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6449,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,137.3,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6355,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6547,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_7951,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8645,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8682,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_5949,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8796,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P378,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P398,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P407,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P401,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,169.4,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P412,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,207.5,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6449,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,127.4,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6355,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6547,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_7951,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8645,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8682,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_5949,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8796,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P378,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P398,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P407,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P401,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,414.1,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_P412,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,301.2,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6449,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120.8,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6355,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_6547,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_7951,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8645,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8682,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_5949,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.2_8796,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P427,S:614G,Table S5,Pseudovirus (lentivirus),NT50,3757,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P439,S:614G,Table S5,Pseudovirus (lentivirus),NT50,97143,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P451,S:614G,Table S5,Pseudovirus (lentivirus),NT50,29430,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P456,S:614G,Table S5,Pseudovirus (lentivirus),NT50,4497,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P464,S:614G,Table S5,Pseudovirus (lentivirus),NT50,3599,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9341,S:614G,Table S5,Pseudovirus (lentivirus),NT50,29596,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9584,S:614G,Table S5,Pseudovirus (lentivirus),NT50,2385,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11318,S:614G,Table S5,Pseudovirus (lentivirus),NT50,3059,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_23S-08,S:614G,Table S5,Pseudovirus (lentivirus),NT50,2862,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_10826,S:614G,Table S5,Pseudovirus (lentivirus),NT50,5046,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11079,S:614G,Table S5,Pseudovirus (lentivirus),NT50,5212,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14847,S:614G,Table S5,Pseudovirus (lentivirus),NT50,10989,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_13180,S:614G,Table S5,Pseudovirus (lentivirus),NT50,3598,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_12912,S:614G,Table S5,Pseudovirus (lentivirus),NT50,14669,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14956,S:614G,Table S5,Pseudovirus (lentivirus),NT50,2335,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P427,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,3715,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P439,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,25810,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P451,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,8470,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P456,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,2950,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P464,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,2166,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9341,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,10533,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9584,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,733,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11318,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,2246,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_23S-08,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,3157,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_10826,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,1414,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11079,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,2766,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14847,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,5202,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_13180,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,2224,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_12912,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,9639,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14956,BA.2 Spike,Table S5,Pseudovirus (lentivirus),NT50,1538,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P427,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,3063,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P439,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,17618,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P451,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,9855,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P456,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,2619,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P464,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,2022,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9341,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,7658,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9584,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,707.9,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11318,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,2748,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_23S-08,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,2645,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_10826,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,1326,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11079,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,1492,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14847,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,1840,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_13180,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,720.4,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_12912,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,8374,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14956,BA.4/5 Spike,Table S5,Pseudovirus (lentivirus),NT50,1522,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P427,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,202.9,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P439,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,1207,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P451,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,1199,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P456,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,146.2,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P464,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9341,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,286.6,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9584,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11318,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_23S-08,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,299.9,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_10826,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11079,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,232.2,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14847,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_13180,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_12912,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,640,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14956,XBB.1 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P427,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,149.6,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P439,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,1274,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P451,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,985.7,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P456,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120.6,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P464,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9341,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,176,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9584,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11318,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_23S-08,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,156.8,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_10826,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11079,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,144.4,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14847,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_13180,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_12912,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,350,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14956,XBB.1.5 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P427,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P439,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,518.6,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P451,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,440.1,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P456,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P464,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9341,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9584,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11318,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_23S-08,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,1831,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_10826,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11079,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14847,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_13180,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_12912,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,134.4,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14956,XBB.1.5 Spike:E180V,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P427,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,366.2,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P439,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,1456,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P451,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,1204,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P456,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,129.7,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P464,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,124.7,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9341,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,287.8,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9584,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11318,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_23S-08,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,417.6,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_10826,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11079,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,243.5,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14847,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_13180,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_12912,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,546.9,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14956,XBB.1.5 Spike:T478R,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P427,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,449.1,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P439,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,1905,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P451,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,1733,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P456,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,163.5,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_P464,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9341,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,220.3,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_9584,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11318,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_23S-08,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,450.8,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_10826,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_11079,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,253.5,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14847,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_13180,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_12912,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,471.2,1,87480,120,NULL,2023-05-15
+Yamasoba23,BA.5_14956,XBB.1.16 Spike,Table S5,Pseudovirus (lentivirus),NT50,120,1,87480,120,NULL,2023-05-15
