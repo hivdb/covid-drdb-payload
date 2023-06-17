@@ -1,9 +1,30 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Francica23,AZD3152,B.1 full genome,Figure 3,Virus isolate,IC50,110.9,1,10000,1,ng/ml,2023-06-16
-Francica23,AZD3152,B.1.1.7 full genome,Figure 3,Virus isolate,IC50,69.0,1,10000,1,ng/ml,2023-06-16
-Francica23,AZD3152,B.1.617.2 full genome,Figure 3,Virus isolate,IC50,31.2,1,10000,1,ng/ml,2023-06-16
-Francica23,AZD3152,Omicron/BA.1 full genome,Figure 3,Virus isolate,IC50,14.9,1,10000,1,ng/ml,2023-06-16
-Francica23,AZD3152,Omicron/BA.1.1 full genome,Figure 3,Virus isolate,IC50,8.3,1,10000,1,ng/ml,2023-06-16
-Francica23,AZD3152,Omicron/BA.2 full genome,Figure 3,Virus isolate,IC50,32.9,1,10000,1,ng/ml,2023-06-16
-Francica23,AZD3152,Omicron/BA.2.12.1 full genome,Figure 3,Virus isolate,IC50,32.9,1,10000,1,ng/ml,2023-06-16
-Francica23,AZD3152,Omicron/BA.5 full genome,Figure 3,Virus isolate,IC50,17.4,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,B.1 full genome,Figure 3A,Virus isolate,IC50,110.9,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,B.1.1.7 full genome,Figure 3A,Virus isolate,IC50,53.6,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,B.1.617.2 full genome,Figure 3A,Virus isolate,IC50,25.9,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,Omicron/BA.1 full genome,Figure 3A,Virus isolate,IC50,13.1,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,Omicron/BA.1.1 full genome,Figure 3A,Virus isolate,IC50,8.3,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,Omicron/BA.2 full genome,Figure 3A,Virus isolate,IC50,32.2,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,Omicron/BA.2.12.1 full genome,Figure 3A,Virus isolate,IC50,26.5,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,Omicron/BA.5 full genome,Figure 3A,Virus isolate,IC50,15.3,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,S:614G,Figure 3B,Pseudovirus,IC50,13.5,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,B.1.1.7 Spike,Figure 3B,Pseudovirus,IC50,11,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,B.1.351 Spike,Figure 3B,Pseudovirus,IC50,10.7,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,B.1.617.3 Spike,Figure 3B,Pseudovirus,IC50,17.9,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,P.1 Spike,Figure 3B,Pseudovirus,IC50,4.6,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.1 Spike,Figure 3B,Pseudovirus,IC50,5.4,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.1.1 Spike,Figure 3B,Pseudovirus,IC50,4.6,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.2 Spike,Figure 3B,Pseudovirus,IC50,10.7,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.2.12.1 Spike,Figure 3B,Pseudovirus,IC50,7.9,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.4/5 Spike,Figure 3B,Pseudovirus,IC50,4.7,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.2.75 Spike,Figure 3B,Pseudovirus,IC50,25,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.4.6 Spike,Figure 3B,Pseudovirus,IC50,14.5,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.4.7 Spike,Figure 3B,Pseudovirus,IC50,4.2,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.5.9 Spike,Figure 3B,Pseudovirus,IC50,4.7,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BA.2.75.2 Spike,Figure 3B,Pseudovirus,IC50,9.7,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BF.7 Spike,Figure 3B,Pseudovirus,IC50,3.8,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BQ.1 Spike,Figure 3B,Pseudovirus,IC50,11.6,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,BQ.1.1 Spike,Figure 3B,Pseudovirus,IC50,9.2,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,XBB Spike,Figure 3B,Pseudovirus,IC50,3.8,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,XBB.1 Spike,Figure 3B,Pseudovirus,IC50,3.6,1,10000,1,ng/ml,2023-06-16
+Francica23,AZD3152,XBB.1.5 Spike,Figure 3B,Pseudovirus,IC50,3.2,1,10000,1,ng/ml,2023-06-16
