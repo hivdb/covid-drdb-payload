@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Wu23,Sotrovimab,M21021166,Supplementary Table 1B,Virus isolate,IC50,291.8,1,250000,0.6,ng/ml,2023-06-27
 Wu23,Sotrovimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC50,1012.1,1,250000,0.6,ng/ml,2023-06-27
 Wu23,Sotrovimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC50,4443.3,1,250000,0.6,ng/ml,2023-06-27
