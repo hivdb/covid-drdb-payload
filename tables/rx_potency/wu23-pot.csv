@@ -1,0 +1,71 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Wu23,Sotrovimab,M21021166,Supplementary Table 1B,Virus isolate,IC50,291.8,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC50,1012.1,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC50,4443.3,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC50,269,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC50,196.7,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,M21021166,Supplementary Table 1B,Virus isolate,IC90,1606.7,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC90,11573,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC90,54705.4,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC90,2886.9,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Sotrovimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC90,7442.6,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,M21021166,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,M21021166,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Casirivimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,M21021166,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC50,292.7,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,M21021166,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC90,2402.2,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Imdevimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,M21021166,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC50,417.4,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,M21021166,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC90,5509.3,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Ronapreve,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,M21021166,Supplementary Table 1B,Virus isolate,IC50,540.2,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC50,31.2,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,M21021166,Supplementary Table 1B,Virus isolate,IC90,5777.9,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC90,220.2,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Cilgavimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,M21021166,Supplementary Table 1B,Virus isolate,IC50,1610.9,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,M21021166,Supplementary Table 1B,Virus isolate,IC90,17294,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Tixagevimab,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,M21021166,Supplementary Table 1B,Virus isolate,IC50,291.1,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC50,71,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC50,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,M21021166,Supplementary Table 1B,Virus isolate,IC90,1374,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,Omicron/BA.5 full genome,Supplementary Table 1B,Virus isolate,IC90,456.3,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,hCoV-19/England/FCI-190/2022,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,Omicron/XBB full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
+Wu23,Evusheld,Omicron/XBB.1.5 full genome,Supplementary Table 1B,Virus isolate,IC90,250000,1,250000,0.6,ng/ml,2023-06-27
