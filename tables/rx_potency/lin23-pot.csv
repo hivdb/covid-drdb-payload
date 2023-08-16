@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Lin23,FRET substrate,Wuhan-Hu-1 3CLpro,Figure 2e,FRET,Kcat/Km,2.71,1,NULL,NULL,s⁻¹M⁻¹,2023-08-16
+Lin23,FRET substrate,3CLpro:G15S,Figure 2e,FRET,Kcat/Km,2.66,1,NULL,NULL,s⁻¹M⁻¹,2023-08-16
+Lin23,FRET substrate,3CLpro:K90R,Figure 2e,FRET,Kcat/Km,3.05,1,NULL,NULL,s⁻¹M⁻¹,2023-08-16
+Lin23,FRET substrate,3CLpro:P132H,Figure 2e,FRET,Kcat/Km,2.64,1,NULL,NULL,s⁻¹M⁻¹,2023-08-16
+Lin23,Ensitrelvir,Wuhan-Hu-1 3CLpro,Figure 3a,Virus isolate,EC50,0.049,1,10,0.001,µM,2023-08-16
+Lin23,Ensitrelvir,3CLpro:P132H,Figure 3a,Virus isolate,EC50,0.05,1,10,0.001,µM,2023-08-16
+Lin23,Ensitrelvir,3CLpro:G15S,Figure 3a,Virus isolate,EC50,0.048,1,10,0.001,µM,2023-08-16
+Lin23,Ensitrelvir,3CLpro:K90R,Figure 3a,Virus isolate,EC50,0.048,1,10,0.001,µM,2023-08-16
+Lin23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,Figure 3c,Virus isolate,EC50,0.044,1,10,0.001,µM,2023-08-16
+Lin23,Nirmatrelvir,3CLpro:P132H,Figure 3c,Virus isolate,EC50,0.042,1,10,0.001,µM,2023-08-16
+Lin23,Nirmatrelvir,3CLpro:G15S,Figure 3c,Virus isolate,EC50,0.045,1,10,0.001,µM,2023-08-16
+Lin23,Nirmatrelvir,3CLpro:K90R,Figure 3c,Virus isolate,EC50,0.046,1,10,0.001,µM,2023-08-16
