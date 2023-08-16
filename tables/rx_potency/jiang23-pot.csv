@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Jiang23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,Figure 3,Virus isolate,IC50,0.0576,1,100,0.001,µM,2023-08-16
 Jiang23,Nirmatrelvir,nsp5:G15S,Figure 3,Virus isolate,IC50,0.0592,1,100,0.001,µM,2023-08-16
 Jiang23,Nirmatrelvir,nsp5:T25I,Figure 3,Virus isolate,IC50,0.0323,1,100,0.001,µM,2023-08-16
