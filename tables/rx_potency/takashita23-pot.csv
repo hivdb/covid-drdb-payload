@@ -2,7 +2,7 @@
 Takashita23,Remdesivir,hCoV-19/Japan/TKYTK1734/2021,Table 3,Virus isolate,EC50,1.43,1,0.1,100,uM,2023-08-15
 Takashita23,Remdesivir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:A191T,Table 3,Virus isolate,EC50,0.8,1,0.1,100,uM,2023-08-15
 Takashita23,Remdesivir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:A191V,Table 3,Virus isolate,EC50,1.01,1,0.1,100,uM,2023-08-15
-Takashita23,Remdesivir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:T340I,Table 3,Virus isolate,EC50,0.94,1,0.1,100,uM,2023-08-15
+Takashita23,Remdesivir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:T304I,Table 3,Virus isolate,EC50,0.94,1,0.1,100,uM,2023-08-15
 Takashita23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021,Table 3,Virus isolate,EC50,1.09,1,0.1,100,uM,2023-08-15
 Takashita23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021+3CLpro:T21I,Table 3,Virus isolate,EC50,1.08,1,0.1,100,uM,2023-08-15
 Takashita23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021+3CLpro:T21I+K90R,Table 3,Virus isolate,EC50,0.86,1,0.1,100,uM,2023-08-15
@@ -14,7 +14,7 @@ Takashita23,Remdesivir,hCoV-19/Japan/NC929-1N/2021+3CLpro:A191V,Table 3,Virus is
 Takashita23,Molnupiravir,hCoV-19/Japan/TKYTK1734/2021,Table 3,Virus isolate,EC50,0.88,1,0.1,100,uM,2023-08-15
 Takashita23,Molnupiravir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:A191T,Table 3,Virus isolate,EC50,0.53,1,0.1,100,uM,2023-08-15
 Takashita23,Molnupiravir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:A191V,Table 3,Virus isolate,EC50,0.84,1,0.1,100,uM,2023-08-15
-Takashita23,Molnupiravir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:T340I,Table 3,Virus isolate,EC50,0.17,1,0.1,100,uM,2023-08-15
+Takashita23,Molnupiravir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:T304I,Table 3,Virus isolate,EC50,0.17,1,0.1,100,uM,2023-08-15
 Takashita23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021,Table 3,Virus isolate,EC50,1.2,1,0.1,100,uM,2023-08-15
 Takashita23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021+3CLpro:T21I,Table 3,Virus isolate,EC50,1.32,1,0.1,100,uM,2023-08-15
 Takashita23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021+3CLpro:T21I+K90R,Table 3,Virus isolate,EC50,0.43,1,0.1,100,uM,2023-08-15
@@ -26,7 +26,7 @@ Takashita23,Molnupiravir,hCoV-19/Japan/NC929-1N/2021+3CLpro:A191V,Table 3,Virus 
 Takashita23,Nirmatrelvir,hCoV-19/Japan/TKYTK1734/2021,Table 3,Virus isolate,EC50,2.75,1,0.1,100,uM,2023-08-15
 Takashita23,Nirmatrelvir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:A191T,Table 3,Virus isolate,EC50,1.86,1,0.1,100,uM,2023-08-15
 Takashita23,Nirmatrelvir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:A191V,Table 3,Virus isolate,EC50,2.05,1,0.1,100,uM,2023-08-15
-Takashita23,Nirmatrelvir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:T340I,Table 3,Virus isolate,EC50,9.66,1,0.1,100,uM,2023-08-15
+Takashita23,Nirmatrelvir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:T304I,Table 3,Virus isolate,EC50,9.66,1,0.1,100,uM,2023-08-15
 Takashita23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021,Table 3,Virus isolate,EC50,5.43,1,0.1,100,uM,2023-08-15
 Takashita23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021+3CLpro:T21I,Table 3,Virus isolate,EC50,12.46,1,0.1,100,uM,2023-08-15
 Takashita23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021+3CLpro:T21I+K90R,Table 3,Virus isolate,EC50,8.53,1,0.1,100,uM,2023-08-15
@@ -38,7 +38,7 @@ Takashita23,Nirmatrelvir,hCoV-19/Japan/NC929-1N/2021+3CLpro:A191V,Table 3,Virus 
 Takashita23,Lufotrelvir,hCoV-19/Japan/TKYTK1734/2021,Table 3,Virus isolate,EC50,15.15,1,0.1,100,uM,2023-08-15
 Takashita23,Lufotrelvir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:A191T,Table 3,Virus isolate,EC50,45.65,1,0.1,100,uM,2023-08-15
 Takashita23,Lufotrelvir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:A191V,Table 3,Virus isolate,EC50,53.01,1,0.1,100,uM,2023-08-15
-Takashita23,Lufotrelvir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:T340I,Table 3,Virus isolate,EC50,11.91,1,0.1,100,uM,2023-08-15
+Takashita23,Lufotrelvir,hCoV-19/Japan/TKYTK1734/2021+3CLpro:T304I,Table 3,Virus isolate,EC50,11.91,1,0.1,100,uM,2023-08-15
 Takashita23,Lufotrelvir,hCoV-19/USA/WI-UW-5250/2021,Table 3,Virus isolate,EC50,15.25,1,0.1,100,uM,2023-08-15
 Takashita23,Lufotrelvir,hCoV-19/USA/WI-UW-5250/2021+3CLpro:T21I,Table 3,Virus isolate,EC50,28.16,1,0.1,100,uM,2023-08-15
 Takashita23,Lufotrelvir,hCoV-19/USA/WI-UW-5250/2021+3CLpro:T21I+K90R,Table 3,Virus isolate,EC50,24.05,1,0.1,100,uM,2023-08-15
