@@ -1,13 +1,13 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Kiso23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021,Figure 1a,Virus isolate,IC50,8.08,1,100,0.1,µM,2023-08-16
-Kiso23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166V,Figure 1a,Virus isolate,IC50,100,1,100,0.1,µM,2023-08-16
-Kiso23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166A+L167F,Figure 1a,Virus isolate,IC50,100,1,100,0.1,µM,2023-08-16
-Kiso23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021,Figure 1a,Virus isolate,IC50,3.34,1,100,0.1,µM,2023-08-16
-Kiso23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166V,Figure 1a,Virus isolate,IC50,5.05,1,100,0.1,µM,2023-08-16
-Kiso23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166A+L167F,Figure 1a,Virus isolate,IC50,2.16,1,100,0.1,µM,2023-08-16
-Kiso23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021,Figure 1a,Virus isolate,IC50,0.81,1,100,0.1,µM,2023-08-16
-Kiso23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166V,Figure 1a,Virus isolate,IC50,1.05,1,100,0.1,µM,2023-08-16
-Kiso23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166A+L167F,Figure 1a,Virus isolate,IC50,1.19,1,100,0.1,µM,2023-08-16
-Kiso23,Ensitrelvir,hCoV-19/USA/WI-UW-5250/2021,Figure 1a,Virus isolate,IC50,0.18,1,100,0.1,µM,2023-08-16
-Kiso23,Ensitrelvir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166V,Figure 1a,Virus isolate,IC50,1.41,1,100,0.1,µM,2023-08-16
-Kiso23,Ensitrelvir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166A+L167F,Figure 1a,Virus isolate,IC50,19.34,1,100,0.1,µM,2023-08-16
+Kiso23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021,Figure 1a,Virus isolate,EC50,8.08,1,100,0.1,µM,2023-08-16
+Kiso23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166V,Figure 1a,Virus isolate,EC50,100,1,100,0.1,µM,2023-08-16
+Kiso23,Nirmatrelvir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166A+L167F,Figure 1a,Virus isolate,EC50,100,1,100,0.1,µM,2023-08-16
+Kiso23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021,Figure 1a,Virus isolate,EC50,3.34,1,100,0.1,µM,2023-08-16
+Kiso23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166V,Figure 1a,Virus isolate,EC50,5.05,1,100,0.1,µM,2023-08-16
+Kiso23,Molnupiravir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166A+L167F,Figure 1a,Virus isolate,EC50,2.16,1,100,0.1,µM,2023-08-16
+Kiso23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021,Figure 1a,Virus isolate,EC50,0.81,1,100,0.1,µM,2023-08-16
+Kiso23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166V,Figure 1a,Virus isolate,EC50,1.05,1,100,0.1,µM,2023-08-16
+Kiso23,Remdesivir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166A+L167F,Figure 1a,Virus isolate,EC50,1.19,1,100,0.1,µM,2023-08-16
+Kiso23,Ensitrelvir,hCoV-19/USA/WI-UW-5250/2021,Figure 1a,Virus isolate,EC50,0.18,1,100,0.1,µM,2023-08-16
+Kiso23,Ensitrelvir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166V,Figure 1a,Virus isolate,EC50,1.41,1,100,0.1,µM,2023-08-16
+Kiso23,Ensitrelvir,hCoV-19/USA/WI-UW-5250/2021+nsp5:L50F+E166A+L167F,Figure 1a,Virus isolate,EC50,19.34,1,100,0.1,µM,2023-08-16
