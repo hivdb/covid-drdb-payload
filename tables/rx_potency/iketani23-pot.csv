@@ -1,5 +1,5 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Iketani23,Nirmatrelvir,Wuhan-Hu-1,Figure 2L,Virus isolate,EC50,0.0576,1,100,0.001,µM,2023-08-16
-Iketani23,Nirmatrelvir,nsp5:E166V,Figure 2L,Virus isolate,EC50,0.0592,1,100,0.001,µM,2023-08-16
-Iketani23,Remdesivir,Wuhan-Hu-1,Figure 2L,Virus isolate,EC50,,1,100,0.001,µM,2023-08-16
-Iketani23,Remdesivir,nsp5:E166V,Figure 2L,Virus isolate,EC50,,1,100,0.001,µM,2023-08-16
+Iketani23,Nirmatrelvir,Wuhan-Hu-1,Figure 2L,Virus isolate,EC50,0.053,1,100,0.001,µM,2023-08-16
+Iketani23,Nirmatrelvir,nsp5:E166V,Figure 2L,Virus isolate,EC50,14.08,1,100,0.001,µM,2023-08-16
+Iketani23,Remdesivir,Wuhan-Hu-1,Figure 2L,Virus isolate,EC50,0.002,1,100,0.001,µM,2023-08-16
+Iketani23,Remdesivir,nsp5:E166V,Figure 2L,Virus isolate,EC50,0.0017,1,100,0.001,µM,2023-08-16
