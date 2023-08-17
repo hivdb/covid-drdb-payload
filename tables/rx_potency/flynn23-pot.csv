@@ -1,0 +1,7 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Flynn23,Ensitrelvir,Wuhan-Hu-1 3CLpro,Figure 5,FRET,Ki,1.04,1,NULL,NULL,nM,2023-08-16
+Flynn23,Ensitrelvir,3CLpro:M49L,Figure 5,FRET,Ki,40.2,1,NULL,NULL,nM,2023-08-16
+Flynn23,Ensitrelvir,3CLpro:T25E,Figure 5,FRET,Ki,394.4,1,NULL,NULL,nM,2023-08-16
+Flynn23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,Figure 5,FRET,Ki,0.97,1,NULL,NULL,nM,2023-08-16
+Flynn23,Nirmatrelvir,3CLpro:M49L,Figure 5,FRET,Ki,0.72,1,NULL,NULL,nM,2023-08-16
+Flynn23,Nirmatrelvir,3CLpro:T25E,Figure 5,FRET,Ki,1.2,1,NULL,NULL,nM,2023-08-16
