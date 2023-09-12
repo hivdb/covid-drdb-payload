@@ -24847,3 +24847,174 @@ Omicron/XBB.1.5 full genome,N,413,R,NULL,NULL
 3CLpro:T25E,_3CLpro,25,E,NULL,NULL
 3CLpro:S46P,_3CLpro,46,P,NULL,NULL
 3CLpro:D48N,_3CLpro,48,N,NULL,NULL
+Omicron/BA.2.86 full genome,nsp1,135,R,NULL,NULL
+Omicron/BA.2.86 full genome,nsp2,31,D,NULL,NULL
+Omicron/BA.2.86 full genome,PLpro,24,I,NULL,NULL
+Omicron/BA.2.86 full genome,PLpro,238,L,NULL,NULL
+Omicron/BA.2.86 full genome,PLpro,489,S,NULL,NULL
+Omicron/BA.2.86 full genome,PLpro,1708,S,NULL,NULL
+Omicron/BA.2.86 full genome,PLpro,1892,T,NULL,NULL
+Omicron/BA.2.86 full genome,nsp4,264,F,NULL,NULL
+Omicron/BA.2.86 full genome,nsp4,327,I,NULL,NULL
+Omicron/BA.2.86 full genome,nsp4,492,I,NULL,NULL
+Omicron/BA.2.86 full genome,_3CLpro,132,H,NULL,NULL
+Omicron/BA.2.86 full genome,nsp6,24,F,NULL,NULL
+Omicron/BA.2.86 full genome,nsp6,106,del,NULL,NULL
+Omicron/BA.2.86 full genome,nsp6,107,del,NULL,NULL
+Omicron/BA.2.86 full genome,nsp6,108,del,NULL,NULL
+Omicron/BA.2.86 full genome,nsp9,35,I,NULL,NULL
+Omicron/BA.2.86 full genome,RdRP,323,L,NULL,NULL
+Omicron/BA.2.86 full genome,nsp13,392,C,NULL,NULL
+Omicron/BA.2.86 full genome,nsp14,42,V,NULL,NULL
+Omicron/BA.2.86 full genome,nsp15,112,I,NULL,NULL
+Omicron/BA.2.86 full genome,nsp15,323,D,NULL,NULL
+Omicron/BA.2.86 full genome,nsp15,323,E,NULL,NULL
+Omicron/BA.2.86 full genome,nsp15,332,G,NULL,NULL
+Omicron/BA.2.86 full genome,nsp15,332,R,NULL,NULL
+Omicron/BA.2.86 full genome,nsp15,332,W,NULL,NULL
+Omicron/BA.2.86 full genome,S,17,ins,NULL,NULL
+Omicron/BA.2.86 full genome,S,19,F,NULL,NULL
+Omicron/BA.2.86 full genome,S,20,N,NULL,NULL
+Omicron/BA.2.86 full genome,S,21,L,NULL,NULL
+Omicron/BA.2.86 full genome,S,22,I,NULL,NULL
+Omicron/BA.2.86 full genome,S,23,T,NULL,NULL
+Omicron/BA.2.86 full genome,S,24,T,NULL,NULL
+Omicron/BA.2.86 full genome,S,25,T,NULL,NULL
+Omicron/BA.2.86 full genome,S,26,Q,NULL,NULL
+Omicron/BA.2.86 full genome,S,27,S,NULL,NULL
+Omicron/BA.2.86 full genome,S,50,L,NULL,NULL
+Omicron/BA.2.86 full genome,S,69,del,NULL,NULL
+Omicron/BA.2.86 full genome,S,70,del,NULL,NULL
+Omicron/BA.2.86 full genome,S,127,F,NULL,NULL
+Omicron/BA.2.86 full genome,S,142,D,NULL,NULL
+Omicron/BA.2.86 full genome,S,144,del,NULL,NULL
+Omicron/BA.2.86 full genome,S,157,S,NULL,NULL
+Omicron/BA.2.86 full genome,S,158,G,NULL,NULL
+Omicron/BA.2.86 full genome,S,211,I,NULL,NULL
+Omicron/BA.2.86 full genome,S,212,del,NULL,NULL
+Omicron/BA.2.86 full genome,S,213,G,NULL,NULL
+Omicron/BA.2.86 full genome,S,216,F,NULL,NULL
+Omicron/BA.2.86 full genome,S,245,N,NULL,NULL
+Omicron/BA.2.86 full genome,S,264,D,NULL,NULL
+Omicron/BA.2.86 full genome,S,332,V,NULL,NULL
+Omicron/BA.2.86 full genome,S,339,H,NULL,NULL
+Omicron/BA.2.86 full genome,S,356,T,NULL,NULL
+Omicron/BA.2.86 full genome,S,371,F,NULL,NULL
+Omicron/BA.2.86 full genome,S,373,P,NULL,NULL
+Omicron/BA.2.86 full genome,S,375,F,NULL,NULL
+Omicron/BA.2.86 full genome,S,376,A,NULL,NULL
+Omicron/BA.2.86 full genome,S,403,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,405,N,NULL,NULL
+Omicron/BA.2.86 full genome,S,408,S,NULL,NULL
+Omicron/BA.2.86 full genome,S,417,N,NULL,NULL
+Omicron/BA.2.86 full genome,S,440,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,445,H,NULL,NULL
+Omicron/BA.2.86 full genome,S,446,S,NULL,NULL
+Omicron/BA.2.86 full genome,S,450,D,NULL,NULL
+Omicron/BA.2.86 full genome,S,452,W,NULL,NULL
+Omicron/BA.2.86 full genome,S,460,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,477,N,NULL,NULL
+Omicron/BA.2.86 full genome,S,478,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,481,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,483,del,NULL,NULL
+Omicron/BA.2.86 full genome,S,484,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,486,P,NULL,NULL
+Omicron/BA.2.86 full genome,S,498,R,NULL,NULL
+Omicron/BA.2.86 full genome,S,501,Y,NULL,NULL
+Omicron/BA.2.86 full genome,S,505,H,NULL,NULL
+Omicron/BA.2.86 full genome,S,554,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,570,V,NULL,NULL
+Omicron/BA.2.86 full genome,S,614,G,NULL,NULL
+Omicron/BA.2.86 full genome,S,621,S,NULL,NULL
+Omicron/BA.2.86 full genome,S,655,Y,NULL,NULL
+Omicron/BA.2.86 full genome,S,670,V,NULL,NULL
+Omicron/BA.2.86 full genome,S,679,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,681,R,NULL,NULL
+Omicron/BA.2.86 full genome,S,764,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,796,Y,NULL,NULL
+Omicron/BA.2.86 full genome,S,939,F,NULL,NULL
+Omicron/BA.2.86 full genome,S,954,H,NULL,NULL
+Omicron/BA.2.86 full genome,S,969,K,NULL,NULL
+Omicron/BA.2.86 full genome,S,1143,L,NULL,NULL
+Omicron/BA.2.86 full genome,ORF3a,223,I,NULL,NULL
+Omicron/BA.2.86 full genome,E,9,I,NULL,NULL
+Omicron/BA.2.86 full genome,M,3,H,NULL,NULL
+Omicron/BA.2.86 full genome,M,19,E,NULL,NULL
+Omicron/BA.2.86 full genome,M,30,A,NULL,NULL
+Omicron/BA.2.86 full genome,M,63,T,NULL,NULL
+Omicron/BA.2.86 full genome,M,104,V,NULL,NULL
+Omicron/BA.2.86 full genome,ORF6,61,L,NULL,NULL
+Omicron/BA.2.86 full genome,ORF8,87,I,NULL,NULL
+Omicron/BA.2.86 full genome,N,13,L,NULL,NULL
+Omicron/BA.2.86 full genome,N,31,del,NULL,NULL
+Omicron/BA.2.86 full genome,N,32,del,NULL,NULL
+Omicron/BA.2.86 full genome,N,33,del,NULL,NULL
+Omicron/BA.2.86 full genome,N,203,K,NULL,NULL
+Omicron/BA.2.86 full genome,N,204,R,NULL,NULL
+Omicron/BA.2.86 full genome,N,229,K,NULL,NULL
+Omicron/BA.2.86 full genome,N,243,S,NULL,NULL
+Omicron/BA.2.86 full genome,N,413,R,NULL,NULL
+BA.2.86 Spike,S,17,ins,NULL,NULL
+BA.2.86 Spike,S,19,F,NULL,NULL
+BA.2.86 Spike,S,20,N,NULL,NULL
+BA.2.86 Spike,S,21,L,NULL,NULL
+BA.2.86 Spike,S,22,I,NULL,NULL
+BA.2.86 Spike,S,23,T,NULL,NULL
+BA.2.86 Spike,S,24,T,NULL,NULL
+BA.2.86 Spike,S,25,T,NULL,NULL
+BA.2.86 Spike,S,26,Q,NULL,NULL
+BA.2.86 Spike,S,27,S,NULL,NULL
+BA.2.86 Spike,S,50,L,NULL,NULL
+BA.2.86 Spike,S,69,del,NULL,NULL
+BA.2.86 Spike,S,70,del,NULL,NULL
+BA.2.86 Spike,S,127,F,NULL,NULL
+BA.2.86 Spike,S,142,D,NULL,NULL
+BA.2.86 Spike,S,144,del,NULL,NULL
+BA.2.86 Spike,S,157,S,NULL,NULL
+BA.2.86 Spike,S,158,G,NULL,NULL
+BA.2.86 Spike,S,211,I,NULL,NULL
+BA.2.86 Spike,S,212,del,NULL,NULL
+BA.2.86 Spike,S,213,G,NULL,NULL
+BA.2.86 Spike,S,216,F,NULL,NULL
+BA.2.86 Spike,S,245,N,NULL,NULL
+BA.2.86 Spike,S,264,D,NULL,NULL
+BA.2.86 Spike,S,332,V,NULL,NULL
+BA.2.86 Spike,S,339,H,NULL,NULL
+BA.2.86 Spike,S,356,T,NULL,NULL
+BA.2.86 Spike,S,371,F,NULL,NULL
+BA.2.86 Spike,S,373,P,NULL,NULL
+BA.2.86 Spike,S,375,F,NULL,NULL
+BA.2.86 Spike,S,376,A,NULL,NULL
+BA.2.86 Spike,S,403,K,NULL,NULL
+BA.2.86 Spike,S,405,N,NULL,NULL
+BA.2.86 Spike,S,408,S,NULL,NULL
+BA.2.86 Spike,S,417,N,NULL,NULL
+BA.2.86 Spike,S,440,K,NULL,NULL
+BA.2.86 Spike,S,445,H,NULL,NULL
+BA.2.86 Spike,S,446,S,NULL,NULL
+BA.2.86 Spike,S,450,D,NULL,NULL
+BA.2.86 Spike,S,452,W,NULL,NULL
+BA.2.86 Spike,S,460,K,NULL,NULL
+BA.2.86 Spike,S,477,N,NULL,NULL
+BA.2.86 Spike,S,478,K,NULL,NULL
+BA.2.86 Spike,S,481,K,NULL,NULL
+BA.2.86 Spike,S,483,del,NULL,NULL
+BA.2.86 Spike,S,484,K,NULL,NULL
+BA.2.86 Spike,S,486,P,NULL,NULL
+BA.2.86 Spike,S,498,R,NULL,NULL
+BA.2.86 Spike,S,501,Y,NULL,NULL
+BA.2.86 Spike,S,505,H,NULL,NULL
+BA.2.86 Spike,S,554,K,NULL,NULL
+BA.2.86 Spike,S,570,V,NULL,NULL
+BA.2.86 Spike,S,614,G,NULL,NULL
+BA.2.86 Spike,S,621,S,NULL,NULL
+BA.2.86 Spike,S,655,Y,NULL,NULL
+BA.2.86 Spike,S,670,V,NULL,NULL
+BA.2.86 Spike,S,679,K,NULL,NULL
+BA.2.86 Spike,S,681,R,NULL,NULL
+BA.2.86 Spike,S,764,K,NULL,NULL
+BA.2.86 Spike,S,796,Y,NULL,NULL
+BA.2.86 Spike,S,939,F,NULL,NULL
+BA.2.86 Spike,S,954,H,NULL,NULL
+BA.2.86 Spike,S,969,K,NULL,NULL
+BA.2.86 Spike,S,1143,L,NULL,NULL
