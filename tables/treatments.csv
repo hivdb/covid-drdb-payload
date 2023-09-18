@@ -38091,6 +38091,10 @@ Heilmann22,GC376
 Hensley21,Remdesivir
 Heyer22,Remdesivir
 Hogan22,Remdesivir
+Hu23,GC376
+Hu23,PF-00835231
+Hu23,Nirmatrelvir pre-print
+Hu23,Nirmatrelvir
 Iketani22b,Nirmatrelvir
 Iketani22c,Nirmatrelvir
 Iketani22c,Ensitrelvir
@@ -38170,10 +38174,6 @@ Takashita23,Remdesivir
 Takashita23,Molnupiravir
 Takashita23,Nirmatrelvir
 Takashita23,Lufotrelvir
-Tan22,GC376
-Tan22,PF-00835231
-Tan22,Nirmatrelvir pre-print
-Tan22,Nirmatrelvir
 Tong23,Pomotrelvir
 Torii22,Remdesivir
 Truffot21,Remdesivir
@@ -38209,7 +38209,7 @@ Andres22,Hyperimmune plasma
 Noske23,FRET substrate
 Ullrich22,FRET substrate
 Oliveira22,FRET substrate
-Tan22,FRET substrate
+Hu23,FRET substrate
 Ou22,FRET substrate
 Chen23b,FRET substrate
 Kawashima23,FRET substrate
