@@ -26,3 +26,7 @@ Heilmann22,Ensitrelvir,Wuhan-Hu-1,Table S8,Pseudovirus (VSV),EC50,8,1,100,0.1,µ
 Heilmann22,Ensitrelvir,3CLpro:Y54C,Table S8,Pseudovirus (VSV),EC50,25,1,100,0.1,µM,2022-11-07
 Heilmann22,Ensitrelvir,3CLpro:L167F,Table S8,Pseudovirus (VSV),EC50,41.6,1,100,0.1,µM,2022-11-07
 Heilmann22,Ensitrelvir,3CLpro:Q192R,Table S8,Pseudovirus (VSV),EC50,25.5,1,100,0.1,µM,2022-11-07
+Heilmann22,FRET,Wuhan-Hu-1,Table S9,FRET,Kcat/Km,43200,1,NULL,NULL,s⁻¹M⁻¹,2023-09-18
+Heilmann22,FRET,3CLpro:Y54C,Table S9,FRET,Kcat/Km,12100,1,NULL,NULL,s⁻¹M⁻¹,2023-09-18
+Heilmann22,FRET,3CLpro:L167F,Table S9,FRET,Kcat/Km,13100,1,NULL,NULL,s⁻¹M⁻¹,2023-09-18
+Heilmann22,FRET,3CLpro:Q192R,Table S9,FRET,Kcat/Km,6300,1,NULL,NULL,s⁻¹M⁻¹,2023-09-18
