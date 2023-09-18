@@ -1,0 +1,4 @@
+ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Flynn23,FRET substrate,Wuhan-Hu-1,3CLpro:T25E,Figure 5,FRET,Kcat/Km,=,0.13,NULL,NULL,1,2023-09-18
+Flynn23,FRET substrate,Wuhan-Hu-1,3CLpro:M49L,Figure 5,FRET,Kcat/Km,=,0.73,NULL,NULL,1,2023-09-18
+g
