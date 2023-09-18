@@ -1,10 +1,10 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Hu23,Nirmatrelvir,Wuhan-Hu-1,Figure 4,SARS-CoV-2 recombinant,,25.52,1,1000,1,nM,2023-09-18
-Hu23,Nirmatrelvir,3CLpro:S144A,Figure 4,SARS-CoV-2 recombinant,,127.3,1,1000,1,nM,2023-09-18
-Hu23,Nirmatrelvir,3CLpro:E166Q,Figure 4,SARS-CoV-2 recombinant,,69.73,1,1000,1,nM,2023-09-18
-Hu23,Nirmatrelvir,3CLpro:H172Q,Figure 4,SARS-CoV-2 recombinant,,132.9,1,1000,1,nM,2023-09-18
-Hu23,Nirmatrelvir,3CLpro:H172Y,Figure 4,SARS-CoV-2 recombinant,,377.8,1,1000,1,nM,2023-09-18
-Hu23,Nirmatrelvir,3CLpro:S144M,Figure 4,SARS-CoV-2 recombinant,,87.14,1,1000,1,nM,2023-09-18
+Hu23,Nirmatrelvir,Wuhan-Hu-1,Figure 4,SARS-CoV-2 recombinant,EC50,25.52,1,1000,1,nM,2023-09-18
+Hu23,Nirmatrelvir,3CLpro:S144A,Figure 4,SARS-CoV-2 recombinant,EC50,127.3,1,1000,1,nM,2023-09-18
+Hu23,Nirmatrelvir,3CLpro:E166Q,Figure 4,SARS-CoV-2 recombinant,EC50,69.73,1,1000,1,nM,2023-09-18
+Hu23,Nirmatrelvir,3CLpro:H172Q,Figure 4,SARS-CoV-2 recombinant,EC50,132.9,1,1000,1,nM,2023-09-18
+Hu23,Nirmatrelvir,3CLpro:H172Y,Figure 4,SARS-CoV-2 recombinant,EC50,377.8,1,1000,1,nM,2023-09-18
+Hu23,Nirmatrelvir,3CLpro:S144M,Figure 4,SARS-CoV-2 recombinant,EC50,87.14,1,1000,1,nM,2023-09-18
 Hu23,FRET substrate,Wuhan-Hu-1,Table S1,FRET,Kcat/Km,11000,1,NULL,NULL,s⁻¹M⁻¹,2023-09-18
 Hu23,FRET substrate,3CLpro:M49I,Table S1,FRET,Kcat/Km,18572,1,NULL,NULL,s⁻¹M⁻¹,2023-09-18
 Hu23,FRET substrate,3CLpro:M49T,Table S1,FRET,Kcat/Km,10728,1,NULL,NULL,s⁻¹M⁻¹,2023-09-18
