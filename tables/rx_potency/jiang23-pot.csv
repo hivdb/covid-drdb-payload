@@ -1,18 +1,18 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-Jiang23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,Figure 3,Virus isolate,EC50,0.0576,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:G15S,Figure 3,Virus isolate,EC50,0.0592,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:T25I,Figure 3,Virus isolate,EC50,0.0323,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:T45I,Figure 3,Virus isolate,EC50,0.0656,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:S46F,Figure 3,Virus isolate,EC50,0.0721,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:S46P,Figure 3,Virus isolate,EC50,0.0527,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:D48N,Figure 3,Virus isolate,EC50,0.0456,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:M49I,Figure 3,Virus isolate,EC50,0.1243,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:L50F,Figure 3,Virus isolate,EC50,0.0617,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:L89F,Figure 3,Virus isolate,EC50,0.0441,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:K90R,Figure 3,Virus isolate,EC50,0.047,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:P132H,Figure 3,Virus isolate,EC50,0.0559,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:N142S,Figure 3,Virus isolate,EC50,0.0638,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:V186F,Figure 3,Virus isolate,EC50,0.0453,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:R188K,Figure 3,Virus isolate,EC50,0.0713,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:T190I,Figure 3,Virus isolate,EC50,0.0784,1,100,0.001,µM,2023-08-16
-Jiang23,Nirmatrelvir,3CLpro:A191V,Figure 3,Virus isolate,EC50,0.0657,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,Figure 3,Virus isolate,IC50,0.0576,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:G15S,Figure 3,Virus isolate,IC50,0.0592,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:T25I,Figure 3,Virus isolate,IC50,0.0323,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:T45I,Figure 3,Virus isolate,IC50,0.0656,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:S46F,Figure 3,Virus isolate,IC50,0.0721,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:S46P,Figure 3,Virus isolate,IC50,0.0527,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:D48N,Figure 3,Virus isolate,IC50,0.0456,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:M49I,Figure 3,Virus isolate,IC50,0.1243,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:L50F,Figure 3,Virus isolate,IC50,0.0617,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:L89F,Figure 3,Virus isolate,IC50,0.0441,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:K90R,Figure 3,Virus isolate,IC50,0.047,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:P132H,Figure 3,Virus isolate,IC50,0.0559,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:N142S,Figure 3,Virus isolate,IC50,0.0638,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:V186F,Figure 3,Virus isolate,IC50,0.0453,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:R188K,Figure 3,Virus isolate,IC50,0.0713,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:T190I,Figure 3,Virus isolate,IC50,0.0784,1,100,0.001,µM,2023-08-16
+Jiang23,Nirmatrelvir,3CLpro:A191V,Figure 3,Virus isolate,IC50,0.0657,1,100,0.001,µM,2023-08-16
