@@ -13,10 +13,10 @@ Yang23,S3H3,XBB.1.5 Spike:E554K,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1
 Yang23,LY-CoV1404,XBB.1.5 Spike:E554K,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
 Yang23,COV2-2196+COV2-2130,XBB.1.5 Spike:E554K,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
 Yang23,REGN10933+REGN10987,XBB.1.5 Spike:E554K,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
-Yang23,SA55,BA.2.86 Spike:-17ins-20N-22I-23T+del24+del25+del26-670V,Figure 2C,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2023-09-11
-Yang23,Omi-42,BA.2.86 Spike:-17ins-20N-22I-23T+del24+del25+del26-670V,Figure 2C,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2023-09-11
-Yang23,S309,BA.2.86 Spike:-17ins-20N-22I-23T+del24+del25+del26-670V,Figure 2C,Pseudovirus (VSV),IC50,1890,1,10000,1,ng/ml,2023-09-11
-Yang23,S3H3,BA.2.86 Spike:-17ins-20N-22I-23T+del24+del25+del26-670V,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
-Yang23,LY-CoV1404,BA.2.86 Spike:-17ins-20N-22I-23T+del24+del25+del26-670V,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
-Yang23,COV2-2196+COV2-2130,BA.2.86 Spike:-17ins-20N-22I-23T+del24+del25+del26-670V,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
-Yang23,REGN10933+REGN10987,BA.2.86 Spike:-17ins-20N-22I-23T+del24+del25+del26-670V,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
+Yang23,SA55,BA.2.86 Spike,Figure 2C,Pseudovirus (VSV),IC50,6,1,10000,1,ng/ml,2023-09-11
+Yang23,Omi-42,BA.2.86 Spike,Figure 2C,Pseudovirus (VSV),IC50,4,1,10000,1,ng/ml,2023-09-11
+Yang23,S309,BA.2.86 Spike,Figure 2C,Pseudovirus (VSV),IC50,1890,1,10000,1,ng/ml,2023-09-11
+Yang23,S3H3,BA.2.86 Spike,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
+Yang23,LY-CoV1404,BA.2.86 Spike,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
+Yang23,COV2-2196+COV2-2130,BA.2.86 Spike,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
+Yang23,REGN10933+REGN10987,BA.2.86 Spike,Figure 2C,Pseudovirus (VSV),IC50,10000,1,10000,1,ng/ml,2023-09-11
