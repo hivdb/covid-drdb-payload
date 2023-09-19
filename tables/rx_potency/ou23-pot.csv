@@ -1,0 +1,10 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Ou23,Nirmatrelvir,Wuhan-Hu-1,Figure 2H,Yeast cell,RC50,110.47,1,200,25,µM,2022-11-09
+Ou23,Nirmatrelvir,3CLpro:P132H,Figure 2H,Yeast cell,RC50,39.26,1,200,25,µM,2022-11-09
+Ou23,Nirmatrelvir,3CLpro:E166R,Figure 2H,Yeast cell,RC50,200,1,200,25,µM,2023-09-19
+Ou23,Nirmatrelvir,3CLpro:N142A,Figure 2H,Yeast cell,RC50,163.89,1,200,25,µM,2022-11-09
+Ou23,FRET substrate,Wuhan-Hu-1,Figure 3A,FRET,Kcat/Km,11000,1,NULL,NULL,s⁻¹M⁻¹,2023-09-19
+Ou23,FRET substrate,3CLpro:E166R,Figure 3A,FRET,Kcat/Km,678,1,NULL,NULL,s⁻¹M⁻¹,2023-09-19
+Ou23,FRET substrate,3CLpro:E166N,Figure 3A,FRET,Kcat/Km,132,1,NULL,NULL,s⁻¹M⁻¹,2023-09-19
+Ou23,FRET substrate,3CLpro:E166D,Figure 3A,FRET,Kcat/Km,149,1,NULL,NULL,s⁻¹M⁻¹,2023-09-19
+Ou23,FRET substrate,3CLpro:N142A,Figure 3A,FRET,Kcat/Km,15609,1,NULL,NULL,s⁻¹M⁻¹,2023-09-19

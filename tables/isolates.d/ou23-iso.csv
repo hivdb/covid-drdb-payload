@@ -1,3 +1,5 @@
 ﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 3CLpro:E166R,NULL,FALSE,NULL,NULL,NULL,TRUE
+3CLpro:E166N,NULL,FALSE,NULL,NULL,NULL,TRUE
+3CLpro:E166D,NULL,FALSE,NULL,NULL,NULL,TRUE
 3CLpro:N142A,NULL,FALSE,NULL,NULL,NULL,TRUE
