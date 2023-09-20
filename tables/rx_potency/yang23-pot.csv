@@ -33,7 +33,7 @@ Yang23,BA5_or_BA7_BTI_XBB_reinfection,BA.2.86 Spike,Figure 2B,Pseudovirus (VSV),
 Yang23,WT_mRNA_10ug_2dose,S:614G,Figure S1,Pseudovirus (VSV),NT50,54659,10,1000000,20,NULL,2023-09-20
 Yang23,WT_mRNA_10ug_2dose,BA.1 Spike,Figure S1,Pseudovirus (VSV),NT50,3059,10,1000000,20,NULL,2023-09-20
 Yang23,WT_mRNA_10ug_2dose,BA.2 Spike,Figure S1,Pseudovirus (VSV),NT50,2506,10,1000000,20,NULL,2023-09-20
-Yang23,WT_mRNA_10ug_2dose,BA.5 Spike,Figure S1,Pseudovirus (VSV),NT50,1297,10,1000000,20,NULL,2023-09-20
+Yang23,WT_mRNA_10ug_2dose,BA.4/5 Spike,Figure S1,Pseudovirus (VSV),NT50,1297,10,1000000,20,NULL,2023-09-20
 Yang23,WT_mRNA_10ug_2dose,BQ.1.1 Spike,Figure S1,Pseudovirus (VSV),NT50,515,10,1000000,20,NULL,2023-09-20
 Yang23,WT_mRNA_10ug_2dose,XBB Spike,Figure S1,Pseudovirus (VSV),NT50,167,10,1000000,20,NULL,2023-09-20
 Yang23,WT_mRNA_10ug_2dose,XBB.1.16 Spike,Figure S1,Pseudovirus (VSV),NT50,159,10,1000000,20,NULL,2023-09-20
@@ -46,7 +46,7 @@ Yang23,WT_mRNA_10ug_2dose,SARS-CoV Spike,Figure S1,Pseudovirus (VSV),NT50,935,10
 Yang23,BA5_mRNA_10ug_2dose,S:614G,Figure S1,Pseudovirus (VSV),NT50,1327,10,1000000,20,NULL,2023-09-20
 Yang23,BA5_mRNA_10ug_2dose,BA.1 Spike,Figure S1,Pseudovirus (VSV),NT50,4371,10,1000000,20,NULL,2023-09-20
 Yang23,BA5_mRNA_10ug_2dose,BA.2 Spike,Figure S1,Pseudovirus (VSV),NT50,39327,10,1000000,20,NULL,2023-09-20
-Yang23,BA5_mRNA_10ug_2dose,BA.5 Spike,Figure S1,Pseudovirus (VSV),NT50,67730,10,1000000,20,NULL,2023-09-20
+Yang23,BA5_mRNA_10ug_2dose,BA.4/5 Spike,Figure S1,Pseudovirus (VSV),NT50,67730,10,1000000,20,NULL,2023-09-20
 Yang23,BA5_mRNA_10ug_2dose,BQ.1.1 Spike,Figure S1,Pseudovirus (VSV),NT50,42083,10,1000000,20,NULL,2023-09-20
 Yang23,BA5_mRNA_10ug_2dose,XBB Spike,Figure S1,Pseudovirus (VSV),NT50,14967,10,1000000,20,NULL,2023-09-20
 Yang23,BA5_mRNA_10ug_2dose,XBB.1.16 Spike,Figure S1,Pseudovirus (VSV),NT50,7812,10,1000000,20,NULL,2023-09-20
@@ -59,7 +59,7 @@ Yang23,BA5_mRNA_10ug_2dose,SARS-CoV Spike,Figure S1,Pseudovirus (VSV),NT50,397,1
 Yang23,BQ11_mRNA_10ug_2dose,S:614G,Figure S1,Pseudovirus (VSV),NT50,694,10,1000000,20,NULL,2023-09-20
 Yang23,BQ11_mRNA_10ug_2dose,BA.1 Spike,Figure S1,Pseudovirus (VSV),NT50,7139,10,1000000,20,NULL,2023-09-20
 Yang23,BQ11_mRNA_10ug_2dose,BA.2 Spike,Figure S1,Pseudovirus (VSV),NT50,51637,10,1000000,20,NULL,2023-09-20
-Yang23,BQ11_mRNA_10ug_2dose,BA.5 Spike,Figure S1,Pseudovirus (VSV),NT50,74717,10,1000000,20,NULL,2023-09-20
+Yang23,BQ11_mRNA_10ug_2dose,BA.4/5 Spike,Figure S1,Pseudovirus (VSV),NT50,74717,10,1000000,20,NULL,2023-09-20
 Yang23,BQ11_mRNA_10ug_2dose,BQ.1.1 Spike,Figure S1,Pseudovirus (VSV),NT50,49441,10,1000000,20,NULL,2023-09-20
 Yang23,BQ11_mRNA_10ug_2dose,XBB Spike,Figure S1,Pseudovirus (VSV),NT50,14798,10,1000000,20,NULL,2023-09-20
 Yang23,BQ11_mRNA_10ug_2dose,XBB.1.16 Spike,Figure S1,Pseudovirus (VSV),NT50,8898,10,1000000,20,NULL,2023-09-20
@@ -72,7 +72,7 @@ Yang23,BQ11_mRNA_10ug_2dose,SARS-CoV Spike,Figure S1,Pseudovirus (VSV),NT50,351,
 Yang23,XBB_mRNA_10ug_2dose,S:614G,Figure S1,Pseudovirus (VSV),NT50,265,10,1000000,20,NULL,2023-09-20
 Yang23,XBB_mRNA_10ug_2dose,BA.1 Spike,Figure S1,Pseudovirus (VSV),NT50,3300,10,1000000,20,NULL,2023-09-20
 Yang23,XBB_mRNA_10ug_2dose,BA.2 Spike,Figure S1,Pseudovirus (VSV),NT50,30492,10,1000000,20,NULL,2023-09-20
-Yang23,XBB_mRNA_10ug_2dose,BA.5 Spike,Figure S1,Pseudovirus (VSV),NT50,16894,10,1000000,20,NULL,2023-09-20
+Yang23,XBB_mRNA_10ug_2dose,BA.4/5 Spike,Figure S1,Pseudovirus (VSV),NT50,16894,10,1000000,20,NULL,2023-09-20
 Yang23,XBB_mRNA_10ug_2dose,BQ.1.1 Spike,Figure S1,Pseudovirus (VSV),NT50,8716,10,1000000,20,NULL,2023-09-20
 Yang23,XBB_mRNA_10ug_2dose,XBB Spike,Figure S1,Pseudovirus (VSV),NT50,70867,10,1000000,20,NULL,2023-09-20
 Yang23,XBB_mRNA_10ug_2dose,XBB.1.16 Spike,Figure S1,Pseudovirus (VSV),NT50,49186,10,1000000,20,NULL,2023-09-20
