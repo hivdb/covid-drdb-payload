@@ -98,4 +98,8 @@ Inactivated + mRNA-monovalent,Mixed,,,96
 BNT162b2 or AZD1222 + mRNA-monovalent,Mixed,,,97
 mRNA-bivalent + Unknown vaccine,Mixed,,,98
 BNT162b2 + mRNA-1273 bivalent,Mixed,,,99
-Unknown vaccine,Mixed,,,100
+mRNA_WT,mRNA,,,100
+mRNA_BA5,mRNA,,,101
+mRNA_BQ11,mRNA,,,102
+mRNA_XBB,mRNA,,,103
+Unknown vaccine,Mixed,,,104
