@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
+﻿ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
 Yang23,XBB_BTI,XBB_BTI,~,2023-06-18,China,XBB_BTI,NULL
 Yang23,BA5_or_BA7_BTI_XBB_reinfection,BA5_or_BA7_BTI_XBB_reinfection,~,2023-06-18,China,BA5_or_BA7_BTI_XBB_reinfection,NULL
 Yang23,WT_mRNA_10ug_2dose,WT_mRNA_10ug_2dose,~,2023-06-15,China,WT_mRNA_10ug_2dose,NULL
