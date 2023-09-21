@@ -1,2 +1,4 @@
 ﻿iso_name,var_name,site_directed,gisaid_id,genbank_accn,sra_accn,expandable
 XBB.1.5 Spike:E554K,Omicron/XBB.1.5/E554K,FALSE,NULL,NULL,NULL,TRUE
+XBB.1.5 Spike:F456L,Omicron/XBB.1.5/F456L,FALSE,NULL,NULL,NULL,TRUE
+XBB.1.5 Spike:L455F+F456L,Omicron/XBB.1.5/L455F/F456L,FALSE,NULL,NULL,NULL,TRUE

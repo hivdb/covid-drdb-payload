@@ -1,0 +1,15 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Yang23,XBB_BTI,~,2021-04-15,CoronaVac,1,China,NULL
+Yang23,XBB_BTI,~,2021-05-16,CoronaVac,2,China,NULL
+Yang23,XBB_BTI,~,2021-12-09,CoronaVac,3,China,NULL
+Yang23,BA5_or_BA7_BTI_XBB_reinfection,~,2021-04-15,CoronaVac,1,China,NULL
+Yang23,BA5_or_BA7_BTI_XBB_reinfection,~,2021-05-20,CoronaVac,2,China,NULL
+Yang23,BA5_or_BA7_BTI_XBB_reinfection,~,2021-11-28,CoronaVac,3,China,NULL
+Yang23,WT_mRNA_10ug_2dose,~,2023-05-15,mRNA_WT,1,China,NULL
+Yang23,WT_mRNA_10ug_2dose,~,2023-06-01,mRNA_WT,2,China,NULL
+Yang23,BA5_mRNA_10ug_2dose,~,2023-05-15,mRNA_BA5,1,China,NULL
+Yang23,BA5_mRNA_10ug_2dose,~,2023-06-01,mRNA_BA5,2,China,NULL
+Yang23,BQ11_mRNA_10ug_2dose,~,2023-05-15,mRNA_BQ11,1,China,NULL
+Yang23,BQ11_mRNA_10ug_2dose,~,2023-06-01,mRNA_BQ11,2,China,NULL
+Yang23,XBB_mRNA_10ug_2dose,~,2023-05-15,mRNA_XBB,1,China,NULL
+Yang23,XBB_mRNA_10ug_2dose,~,2023-06-01,mRNA_XBB,2,China,NULL
