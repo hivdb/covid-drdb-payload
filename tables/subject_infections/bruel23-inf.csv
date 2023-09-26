@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Bruel23,Sotrovimab,~,2022-01-15,Omicron/BA.1,France,NULL,NULL,NULL
 Bruel23,Imdevimab_Casirivimab,~,2021-09-15,Delta,France,NULL,NULL,NULL
 Bruel23,Cilgavimab_Tixagevimab,~,2022-08-01,Omicron/BA.5,France,NULL,NULL,NULL

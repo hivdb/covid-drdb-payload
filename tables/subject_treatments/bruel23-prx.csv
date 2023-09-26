@@ -1,4 +1,4 @@
-ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
 Bruel23,Sotrovimab,Sotrovimab_d0,~,2022-01-18,~,2022-01-18,NULL,NULL,NULL
 Bruel23,Sotrovimab,Sotrovimab_d7,~,2022-01-18,~,2022-01-18,NULL,NULL,NULL
 Bruel23,Sotrovimab,Sotrovimab_m1,~,2022-01-18,~,2022-01-18,NULL,NULL,NULL
