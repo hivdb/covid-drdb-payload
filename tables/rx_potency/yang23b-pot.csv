@@ -1,0 +1,3 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yang23b,TIX_CIL_1dose_1mo,Omicron/BN.1 full genome,Figure 1D,Virus isolate,NT50,12.9,19,1000,20,NULL,2023-09-21
+Yang23b,TIX_CIL_1dose_1mo,Omicron/BA.5 full genome,Figure 1E,Virus isolate,NT50,310.5,14,1000,20,NULL,2023-09-21
