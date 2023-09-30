@@ -102,4 +102,9 @@ mRNA_WT,mRNA,,,100
 mRNA_BA5,mRNA,,,101
 mRNA_BQ11,mRNA,,,102
 mRNA_XBB,mRNA,,,103
-Unknown vaccine,Mixed,,,104
+spike_BA1,Mixed,,,104
+spike_BA5,Mixed,,,105
+spike_BQ11,Mixed,,,106
+spike_XBB,Mixed,,,107
+spike_SARS,Mixed,,,108
+Unknown vaccine,Mixed,,,
