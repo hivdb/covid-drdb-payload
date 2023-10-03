@@ -2,6 +2,9 @@ ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,
 Yisimayi23,Coronavac_2x_BA5_spike_1x_3mo_mouse,~,2022-09-01,CoronaVac,1,China,NULL
 Yisimayi23,Coronavac_2x_BA5_spike_1x_3mo_mouse,~,2022-09-15,CoronaVac,2,China,NULL
 Yisimayi23,Coronavac_2x_BA5_spike_1x_3mo_mouse,~,2022-12-15,spike_BA5,3,China,NULL
+Yisimayi23,Coronavac_2x_BA5_spike_1x_6mo_mouse,~,2022-09-01,CoronaVac,1,China,NULL
+Yisimayi23,Coronavac_2x_BA5_spike_1x_6mo_mouse,~,2022-09-15,CoronaVac,2,China,NULL
+Yisimayi23,Coronavac_2x_BA5_spike_1x_6mo_mouse,~,2023-03-15,spike_BA5,3,China,NULL
 Yisimayi23,BA5_spike_mRNA_1ug_2x_mouse,~,2022-09-01,mRNA_BA5,1,China,NULL
 Yisimayi23,BA5_spike_mRNA_1ug_2x_mouse,~,2022-09-15,mRNA_BA5,2,China,NULL
 Yisimayi23,BQ11_spike_mRNA_1ug_2x_mouse,~,2022-09-01,mRNA_BQ11,1,China,NULL
