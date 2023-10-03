@@ -5242,12 +5242,8 @@ Yisimayi23,BA2_BTI_BA5orBF7_inf,Human,NULL,19
 Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,Human,NULL,19
 Yisimayi23,BA5_BTI,Human,NULL,36
 Yisimayi23,BA5_spike_2x_mouse,Mouse,NULL,10
-Yisimayi23,BA5_spike_mRNA_10ug_2x_mouse,Mouse,NULL,10
-Yisimayi23,BA5_spike_mRNA_1ug_2x_mouse,Mouse,NULL,10
 Yisimayi23,BF7_BTI,Human,NULL,30
 Yisimayi23,BQ11_spike_2x_mouse,Mouse,NULL,10
-Yisimayi23,BQ11_spike_mRNA_10ug_2x_mouse,Mouse,NULL,10
-Yisimayi23,BQ11_spike_mRNA_1ug_2x_mouse,Mouse,NULL,10
 Yisimayi23,Coronavac_2x_BA1_spike_1x_1mo_mouse,Mouse,NULL,10
 Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_1x_mouse,Mouse,NULL,10
 Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_2x_mouse,Mouse,NULL,10
@@ -5287,8 +5283,6 @@ Yisimayi23,WT_mRNA_2x_BQ11_spike_1x_mouse,Mouse,NULL,10
 Yisimayi23,WT_mRNA_2x_XBB_spike_1x_mouse,Mouse,NULL,10
 Yisimayi23,WT_mRNA_2x_mouse,Mouse,NULL,10
 Yisimayi23,XBB_spike_2x_mouse,Mouse,NULL,10
-Yisimayi23,XBB_spike_mRNA_10ug_2x_mouse,Mouse,NULL,10
-Yisimayi23,XBB_spike_mRNA_1ug_2x_mouse,Mouse,NULL,10
 Yu21b,Ad26.COV2.S,Macaque,NULL,12
 Yu21c,BBIBP_3dose,Human,1982,292
 Yu22,BNT162b2,Human,NULL,22
