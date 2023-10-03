@@ -1,0 +1,13 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yisimayi23,BA5_spike_mRNA_1ug_2x_mouse,BA.4/5 Spike,Figure 1E,Pseudovirus (VSV),NT50,30018,10,1000000,30,NULL,2023-09-28
+Yisimayi23,BQ11_spike_mRNA_1ug_2x_mouse,BQ.1.1 Spike,Figure 1E,Pseudovirus (VSV),NT50,17683,10,1000000,30,NULL,2023-09-28
+Yisimayi23,XBB_spike_mRNA_1ug_2x_mouse,XBB Spike,Figure 1E,Pseudovirus (VSV),NT50,8992,10,1000000,30,NULL,2023-09-28
+Yisimayi23,BA5_spike_mRNA_10ug_2x_mouse,BA.4/5 Spike,Figure 1E,Pseudovirus (VSV),NT50,52730,10,1000000,30,NULL,2023-09-28
+Yisimayi23,BQ11_spike_mRNA_10ug_2x_mouse,BQ.1.1 Spike,Figure 1E,Pseudovirus (VSV),NT50,35633,10,1000000,30,NULL,2023-09-28
+Yisimayi23,XBB_spike_mRNA_10ug_2x_mouse,XBB Spike,Figure 1E,Pseudovirus (VSV),NT50,20946,10,1000000,30,NULL,2023-09-28
+Yisimayi23,BA5orBF7_BTI,CH11,Figure 2B,Pseudovirus (VSV),NT50,29,66,1000000,20,NULL,2023-09-28
+Yisimayi23,BA5orBF7_BTI,BQ11,Figure 2B,Pseudovirus (VSV),NT50,93,66,1000000,20,NULL,2023-09-28
+Yisimayi23,BA5orBF7_BTI,XBB,Figure 2B,Pseudovirus (VSV),NT50,29,66,1000000,20,NULL,2023-09-28
+Yisimayi23,BA5orBF7_BTI,XBB15,Figure 2B,Pseudovirus (VSV),NT50,31,66,1000000,20,NULL,2023-09-28
+Yisimayi23,BA5orBF7_BTI,XBB116,Figure 2B,Pseudovirus (VSV),NT50,31,66,1000000,20,NULL,2023-09-28
+Yisimayi23,BA5orBF7_BTI,XBB1510,Figure 2B,Pseudovirus (VSV),NT50,23,66,1000000,20,NULL,2023-09-28
