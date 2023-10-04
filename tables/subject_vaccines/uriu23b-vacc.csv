@@ -1,0 +1,22 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Uriu23b,monovalent_3dose,~,2021-04-09,BNT162b2,1,Japan,NULL
+Uriu23b,monovalent_3dose,~,2021-04-30,BNT162b2,2,Japan,NULL
+Uriu23b,monovalent_3dose,~,2022-01-24,BNT162b2,3,Japan,NULL
+Uriu23b,monovalent_4dose,~,2021-05-12,BNT162b2,1,Japan,NULL
+Uriu23b,monovalent_4dose,~,2021-06-04,BNT162b2,2,Japan,NULL
+Uriu23b,monovalent_4dose,~,2022-01-28,BNT162b2,3,Japan,NULL
+Uriu23b,monovalent_4dose,~,2022-08-02,BNT162b2,4,Japan,NULL
+Uriu23b,BA1_bivalent,~,2021-08-06,BNT162b2,1,Japan,NULL
+Uriu23b,BA1_bivalent,~,2021-09-08,BNT162b2,2,Japan,NULL
+Uriu23b,BA1_bivalent,~,2022-04-11,BNT162b2,3,Japan,NULL
+Uriu23b,BA1_bivalent,~,2022-10-02,BNT162b2_BA.1_bivalent,4,Japan,NULL
+Uriu23b,BA5_bivalent,~,2021-08-23,BNT162b2,1,Japan,NULL
+Uriu23b,BA5_bivalent,~,2021-09-17,BNT162b2,2,Japan,NULL
+Uriu23b,BA5_bivalent,~,2022-03-29,BNT162b2,3,Japan,NULL
+Uriu23b,BA5_bivalent,~,2022-10-28,BNT162b2_BA.1_bivalent,4,Japan,NULL
+Uriu23b,BA5_bivalent,~,2022-11-01,BNT162b2_BA.1_bivalent,5,Japan,NULL
+Uriu23b,XBB_BTI,~,2021-08-18,BNT162b2 or mRNA-1273,1,Japan,NULL
+Uriu23b,XBB_BTI,~,2021-09-04,BNT162b2 or mRNA-1273,2,Japan,NULL
+Uriu23b,XBB_BTI,~,2022-04-16,BNT162b2 or mRNA-1273,3,Japan,NULL
+Uriu23b,XBB_BTI,~,2022-08-22,BNT162b2 or mRNA-1273,4,Japan,NULL
+Uriu23b,XBB_BTI,~,2023-01-08,BNT162b2 or mRNA-1273,5,Japan,NULL
