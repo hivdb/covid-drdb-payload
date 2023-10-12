@@ -1,0 +1,13 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Sheward23,Cilgavimab,BA.2 Spike,Figure C,Pseudovirus (lentivirus),IC50,26,1,1000,1,ng/ml,2023-10-03
+Sheward23,Tixagevimab,BA.2 Spike,Figure C,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2023-10-03
+Sheward23,Bebtelovimab,BA.2 Spike,Figure C,Pseudovirus (lentivirus),IC50,1,1,1000,1,ng/ml,2023-10-03
+Sheward23,Sotrovimab,BA.2 Spike,Figure C,Pseudovirus (lentivirus),IC50,559,1,1000,1,ng/ml,2023-10-03
+Sheward23,Cilgavimab,XBB.1.5 Spike,Figure C,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2023-10-03
+Sheward23,Tixagevimab,XBB.1.5 Spike,Figure C,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2023-10-03
+Sheward23,Bebtelovimab,XBB.1.5 Spike,Figure C,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2023-10-03
+Sheward23,Sotrovimab,XBB.1.5 Spike,Figure C,Pseudovirus (lentivirus),IC50,338,1,1000,1,ng/ml,2023-10-03
+Sheward23,Cilgavimab,BA.2.86 Spike,Figure C,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2023-10-03
+Sheward23,Tixagevimab,BA.2.86 Spike,Figure C,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2023-10-03
+Sheward23,Bebtelovimab,BA.2.86 Spike,Figure C,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2023-10-03
+Sheward23,Sotrovimab,BA.2.86 Spike,Figure C,Pseudovirus (lentivirus),IC50,1000,1,1000,1,ng/ml,2023-10-03
