@@ -1,0 +1,472 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yisimayi23,Coronavac_2x_BA5_spike_1x_3mo_mouse,S:614G,Figure 1C,Pseudovirus (VSV),NT50,16043,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_3mo_mouse,BA.4/5 Spike,Figure 1C,Pseudovirus (VSV),NT50,6001,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_6mo_mouse,S:614G,Figure 1C,Pseudovirus (VSV),NT50,17403,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_6mo_mouse,BA.4/5 Spike,Figure 1C,Pseudovirus (VSV),NT50,6235,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_mouse,S:614G,Extended Data Figure 1A,Pseudovirus (VSV),NT50,3236,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA1_spike_1x_1mo_mouse,S:614G,Extended Data Figure 1A,Pseudovirus (VSV),NT50,10863,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_1mo_mouse,S:614G,Extended Data Figure 1A,Pseudovirus (VSV),NT50,12601,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_1mo_mouse,S:614G,Extended Data Figure 1A,Pseudovirus (VSV),NT50,9221,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_1mo_mouse,S:614G,Extended Data Figure 1A,Pseudovirus (VSV),NT50,5044,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_SARS_spike_1x_1mo_mouse,S:614G,Extended Data Figure 1A,Pseudovirus (VSV),NT50,6274,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_mouse,BA.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,210,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA1_spike_1x_1mo_mouse,BA.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,2758,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_1mo_mouse,BA.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,1233,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_1mo_mouse,BA.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,864,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_1mo_mouse,BA.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,635,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_SARS_spike_1x_1mo_mouse,BA.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,529,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_mouse,BA.4/5 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,97,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA1_spike_1x_1mo_mouse,BA.4/5 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,436,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_1mo_mouse,BA.4/5 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,4197,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_1mo_mouse,BA.4/5 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,2564,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_1mo_mouse,BA.4/5 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,1002,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_SARS_spike_1x_1mo_mouse,BA.4/5 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,288,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_mouse,BQ.1.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,31,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA1_spike_1x_1mo_mouse,BQ.1.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,183,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_1mo_mouse,BQ.1.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,823,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_1mo_mouse,BQ.1.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,2450,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_1mo_mouse,BQ.1.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,328,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_SARS_spike_1x_1mo_mouse,BQ.1.1 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,43,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_mouse,BQ.1.18 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,30,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA1_spike_1x_1mo_mouse,BQ.1.18 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,78,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_1mo_mouse,BQ.1.18 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,201,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_1mo_mouse,BQ.1.18 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,499,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_1mo_mouse,BQ.1.18 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,177,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_SARS_spike_1x_1mo_mouse,BQ.1.18 Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,39,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_mouse,XBB Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,30,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA1_spike_1x_1mo_mouse,XBB Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,69,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_1mo_mouse,XBB Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,96,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_1mo_mouse,XBB Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,156,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_1mo_mouse,XBB Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,559,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_SARS_spike_1x_1mo_mouse,XBB Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,54,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_mouse,SARS-CoV Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,84,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA1_spike_1x_1mo_mouse,SARS-CoV Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,296,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_1x_1mo_mouse,SARS-CoV Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,193,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_1mo_mouse,SARS-CoV Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,184,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_1mo_mouse,SARS-CoV Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,154,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_SARS_spike_1x_1mo_mouse,SARS-CoV Spike,Extended Data Figure 1A,Pseudovirus (VSV),NT50,790,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_mouse,S:614G,Extended Data Figure 2A,Pseudovirus (VSV),NT50,27330,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BA5_spike_1x_mouse,S:614G,Extended Data Figure 2A,Pseudovirus (VSV),NT50,60034,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BQ11_spike_1x_mouse,S:614G,Extended Data Figure 2A,Pseudovirus (VSV),NT50,40541,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_XBB_spike_1x_mouse,S:614G,Extended Data Figure 2A,Pseudovirus (VSV),NT50,27678,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_mouse,BA.1 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,1530,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BA5_spike_1x_mouse,BA.1 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,3204,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BQ11_spike_1x_mouse,BA.1 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,2029,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_XBB_spike_1x_mouse,BA.1 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,1241,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_mouse,BA.4/5 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,648,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BA5_spike_1x_mouse,BA.4/5 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,11053,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BQ11_spike_1x_mouse,BA.4/5 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,6427,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_XBB_spike_1x_mouse,BA.4/5 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,2005,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_mouse,BQ.1.1 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,257,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BA5_spike_1x_mouse,BQ.1.1 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,2448,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BQ11_spike_1x_mouse,BQ.1.1 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,6070,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_XBB_spike_1x_mouse,BQ.1.1 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,654,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_mouse,BQ.1.18 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,89,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BA5_spike_1x_mouse,BQ.1.18 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,588,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BQ11_spike_1x_mouse,BQ.1.18 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,1210,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_XBB_spike_1x_mouse,BQ.1.18 Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,365,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_mouse,XBB Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,83,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BA5_spike_1x_mouse,XBB Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,247,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BQ11_spike_1x_mouse,XBB Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,400,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_XBB_spike_1x_mouse,XBB Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,1104,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_mouse,SARS-CoV Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,468,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BA5_spike_1x_mouse,SARS-CoV Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,524,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_BQ11_spike_1x_mouse,SARS-CoV Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,471,10,1000000,30,NULL,2023-09-29
+Yisimayi23,WT_mRNA_2x_XBB_spike_1x_mouse,SARS-CoV Spike,Extended Data Figure 2A,Pseudovirus (VSV),NT50,303,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_1mo_mouse,S:614G,Extended Data Figure 3B,Pseudovirus (VSV),NT50,15475,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_1mo_mouse,BA.1 Spike,Extended Data Figure 3B,Pseudovirus (VSV),NT50,2957,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_1mo_mouse,BA.4/5 Spike,Extended Data Figure 3B,Pseudovirus (VSV),NT50,10332,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_1mo_mouse,BQ.1.1 Spike,Extended Data Figure 3B,Pseudovirus (VSV),NT50,3723,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_1mo_mouse,BQ.1.18 Spike,Extended Data Figure 3B,Pseudovirus (VSV),NT50,757,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_1mo_mouse,XBB Spike,Extended Data Figure 3B,Pseudovirus (VSV),NT50,494,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_1mo_mouse,SARS-CoV Spike,Extended Data Figure 3B,Pseudovirus (VSV),NT50,175,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BA5_spike_2x_mouse,S:614G,Extended Data Figure 3C,Pseudovirus (VSV),NT50,43,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BA5_spike_2x_mouse,BA.1 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,333,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BA5_spike_2x_mouse,BA.4/5 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,21949,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BA5_spike_2x_mouse,BQ.1.1 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,4100,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BA5_spike_2x_mouse,BQ.1.18 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,3220,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BA5_spike_2x_mouse,XBB Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,73,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BA5_spike_2x_mouse,SARS-CoV Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,30,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BQ11_spike_2x_mouse,S:614G,Extended Data Figure 3C,Pseudovirus (VSV),NT50,31,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BQ11_spike_2x_mouse,BA.1 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,199,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BQ11_spike_2x_mouse,BA.4/5 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,5213,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BQ11_spike_2x_mouse,BQ.1.1 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,14357,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BQ11_spike_2x_mouse,BQ.1.18 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,9768,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BQ11_spike_2x_mouse,XBB Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,139,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BQ11_spike_2x_mouse,SARS-CoV Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,108,10,1000000,30,NULL,2023-09-29
+Yisimayi23,XBB_spike_2x_mouse,S:614G,Extended Data Figure 3C,Pseudovirus (VSV),NT50,31,10,1000000,30,NULL,2023-09-29
+Yisimayi23,XBB_spike_2x_mouse,BA.1 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,40,10,1000000,30,NULL,2023-09-29
+Yisimayi23,XBB_spike_2x_mouse,BA.4/5 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,383,10,1000000,30,NULL,2023-09-29
+Yisimayi23,XBB_spike_2x_mouse,BQ.1.1 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,795,10,1000000,30,NULL,2023-09-29
+Yisimayi23,XBB_spike_2x_mouse,BQ.1.18 Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,652,10,1000000,30,NULL,2023-09-29
+Yisimayi23,XBB_spike_2x_mouse,XBB Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,5561,10,1000000,30,NULL,2023-09-29
+Yisimayi23,XBB_spike_2x_mouse,SARS-CoV Spike,Extended Data Figure 3C,Pseudovirus (VSV),NT50,79,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_3mo_mouse,S:614G,Extended Data Figure 3D,Pseudovirus (VSV),NT50,17920,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_3mo_mouse,BA.1 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,4146,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_3mo_mouse,BA.4/5 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,19614,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_3mo_mouse,BQ.1.1 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,7705,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_3mo_mouse,BQ.1.18 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,5720,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_3mo_mouse,XBB Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,626,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_spike_2x_3mo_mouse,SARS-CoV Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,160,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_mouse,S:614G,Extended Data Figure 3D,Pseudovirus (VSV),NT50,16983,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_mouse,BA.1 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,4364,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_mouse,BA.4/5 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,12091,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_mouse,BQ.1.1 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,13622,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_mouse,BQ.1.18 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,12428,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_mouse,XBB Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,1754,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_mouse,SARS-CoV Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,187,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_mouse,S:614G,Extended Data Figure 3D,Pseudovirus (VSV),NT50,12541,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_mouse,BA.1 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,1801,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_mouse,BA.4/5 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,4420,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_mouse,BQ.1.1 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,1598,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_mouse,BQ.1.18 Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,2151,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_mouse,XBB Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,5182,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_mouse,SARS-CoV Spike,Extended Data Figure 3D,Pseudovirus (VSV),NT50,272,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_3mo_mouse,S:614G,Extended Data Figure 4B,Pseudovirus (VSV),NT50,11940,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_6mo_mouse,S:614G,Extended Data Figure 4B,Pseudovirus (VSV),NT50,12115,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_3mo_mouse,BA.1 Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,1175,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_6mo_mouse,BA.1 Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,1399,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_3mo_mouse,BA.4/5 Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,3042,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_6mo_mouse,BA.4/5 Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,3604,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_3mo_mouse,BQ.1.1 Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,2748,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_6mo_mouse,BQ.1.1 Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,3103,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_3mo_mouse,BQ.1.18 Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,536,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_6mo_mouse,BQ.1.18 Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,1247,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_3mo_mouse,XBB Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,162,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_6mo_mouse,XBB Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,202,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_3mo_mouse,SARS-CoV Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,228,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_1x_6mo_mouse,SARS-CoV Spike,Extended Data Figure 4B,Pseudovirus (VSV),NT50,313,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_3mo_mouse,S:614G,Extended Data Figure 4C,Pseudovirus (VSV),NT50,8732,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_6mo_mouse,S:614G,Extended Data Figure 4C,Pseudovirus (VSV),NT50,9488,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_3mo_mouse,BA.1 Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,771,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_6mo_mouse,BA.1 Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,983,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_3mo_mouse,BA.4/5 Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,1020,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_6mo_mouse,BA.4/5 Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,1457,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_3mo_mouse,BQ.1.1 Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,394,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_6mo_mouse,BQ.1.1 Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,501,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_3mo_mouse,BQ.1.18 Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,182,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_6mo_mouse,BQ.1.18 Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,255,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_3mo_mouse,XBB Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,552,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_6mo_mouse,XBB Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,693,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_3mo_mouse,SARS-CoV Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,163,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_1x_6mo_mouse,SARS-CoV Spike,Extended Data Figure 4C,Pseudovirus (VSV),NT50,206,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_1mo_gap_mouse,S:614G,Extended Data Figure 4D,Pseudovirus (VSV),NT50,14831,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_gap_mouse,S:614G,Extended Data Figure 4D,Pseudovirus (VSV),NT50,17544,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_6mo_gap_mouse,S:614G,Extended Data Figure 4D,Pseudovirus (VSV),NT50,12074,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_1mo_gap_mouse,BA.1 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,3420,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_gap_mouse,BA.1 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,4634,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_6mo_gap_mouse,BA.1 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,3937,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_1mo_gap_mouse,BA.4/5 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,8078,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_gap_mouse,BA.4/5 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,13501,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_6mo_gap_mouse,BA.4/5 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,15397,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_1mo_gap_mouse,BQ.1.1 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,8880,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_gap_mouse,BQ.1.1 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,11588,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_6mo_gap_mouse,BQ.1.1 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,13275,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_1mo_gap_mouse,BQ.1.18 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,2994,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_gap_mouse,BQ.1.18 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,6701,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_6mo_gap_mouse,BQ.1.18 Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,7913,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_1mo_gap_mouse,XBB Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,928,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_gap_mouse,XBB Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,1211,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_6mo_gap_mouse,XBB Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,1178,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_1mo_gap_mouse,SARS-CoV Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,437,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_3mo_gap_mouse,SARS-CoV Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,377,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_spike_2x_6mo_gap_mouse,SARS-CoV Spike,Extended Data Figure 4D,Pseudovirus (VSV),NT50,386,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_1mo_gap_mouse,S:614G,Extended Data Figure 4E,Pseudovirus (VSV),NT50,11775,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_gap_mouse,S:614G,Extended Data Figure 4E,Pseudovirus (VSV),NT50,11133,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_6mo_gap_mouse,S:614G,Extended Data Figure 4E,Pseudovirus (VSV),NT50,11684,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_1mo_gap_mouse,BA.1 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,1545,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_gap_mouse,BA.1 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,2508,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_6mo_gap_mouse,BA.1 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,3031,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_1mo_gap_mouse,BA.4/5 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,3345,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_gap_mouse,BA.4/5 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,4075,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_6mo_gap_mouse,BA.4/5 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,4698,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_1mo_gap_mouse,BQ.1.1 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,792,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_gap_mouse,BQ.1.1 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,888,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_6mo_gap_mouse,BQ.1.1 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,1085,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_1mo_gap_mouse,BQ.1.18 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,543,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_gap_mouse,BQ.1.18 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,678,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_6mo_gap_mouse,BQ.1.18 Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,825,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_1mo_gap_mouse,XBB Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,1641,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_gap_mouse,XBB Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,2841,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_6mo_gap_mouse,XBB Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,3373,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_1mo_gap_mouse,SARS-CoV Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,521,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_3mo_gap_mouse,SARS-CoV Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,410,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_spike_2x_6mo_gap_mouse,SARS-CoV Spike,Extended Data Figure 4E,Pseudovirus (VSV),NT50,473,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_1x_mouse,S:614G,Extended Data Figure 5A,Pseudovirus (VSV),NT50,20782,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_1x_mouse,BA.1 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,2846,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_1x_mouse,BA.4/5 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,6934,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_1x_mouse,BQ.1.1 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,1693,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_1x_mouse,BQ.1.18 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,223,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_1x_mouse,XBB Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,179,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_1x_mouse,SARS-CoV Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,278,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_1x_mouse,S:614G,Extended Data Figure 5A,Pseudovirus (VSV),NT50,16795,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_1x_mouse,BA.1 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,1709,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_1x_mouse,BA.4/5 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,3401,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_1x_mouse,BQ.1.1 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,3162,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_1x_mouse,BQ.1.18 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,302,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_1x_mouse,XBB Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,350,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_1x_mouse,SARS-CoV Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,446,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_1x_mouse,S:614G,Extended Data Figure 5A,Pseudovirus (VSV),NT50,10672,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_1x_mouse,BA.1 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,1967,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_1x_mouse,BA.4/5 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,978,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_1x_mouse,BQ.1.1 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,554,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_1x_mouse,BQ.1.18 Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,168,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_1x_mouse,XBB Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,602,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_1x_mouse,SARS-CoV Spike,Extended Data Figure 5A,Pseudovirus (VSV),NT50,308,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_1x_mouse,S:614G,Extended Data Figure 5B,Pseudovirus (VSV),NT50,39060,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_1x_mouse,BA.1 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,8043,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_1x_mouse,BA.4/5 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,15974,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_1x_mouse,BQ.1.1 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,3452,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_1x_mouse,BQ.1.18 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,719,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_1x_mouse,XBB Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,473,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_1x_mouse,SARS-CoV Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,339,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_1x_mouse,S:614G,Extended Data Figure 5B,Pseudovirus (VSV),NT50,18224,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_1x_mouse,BA.1 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,2272,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_1x_mouse,BA.4/5 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,4157,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_1x_mouse,BQ.1.1 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,6677,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_1x_mouse,BQ.1.18 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,765,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_1x_mouse,XBB Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,505,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_1x_mouse,SARS-CoV Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,311,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_1x_mouse,S:614G,Extended Data Figure 5B,Pseudovirus (VSV),NT50,12082,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_1x_mouse,BA.1 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,3912,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_1x_mouse,BA.4/5 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,2749,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_1x_mouse,BQ.1.1 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,787,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_1x_mouse,BQ.1.18 Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,405,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_1x_mouse,XBB Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,2431,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_1x_mouse,SARS-CoV Spike,Extended Data Figure 5B,Pseudovirus (VSV),NT50,336,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_2x_mouse,S:614G,Extended Data Figure 5C,Pseudovirus (VSV),NT50,43546,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_2x_mouse,BA.1 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,7168,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_2x_mouse,BA.4/5 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,31963,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_2x_mouse,BQ.1.1 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,13892,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_2x_mouse,BQ.1.18 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,9543,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_2x_mouse,XBB Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,1084,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_1ug_2x_mouse,SARS-CoV Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,304,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_2x_mouse,S:614G,Extended Data Figure 5C,Pseudovirus (VSV),NT50,22421,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_2x_mouse,BA.1 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,11123,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_2x_mouse,BA.4/5 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,29570,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_2x_mouse,BQ.1.1 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,18060,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_2x_mouse,BQ.1.18 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,17178,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_2x_mouse,XBB Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,4114,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_1ug_2x_mouse,SARS-CoV Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,179,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_2x_mouse,S:614G,Extended Data Figure 5C,Pseudovirus (VSV),NT50,12026,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_2x_mouse,BA.1 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,2265,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_2x_mouse,BA.4/5 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,3379,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_2x_mouse,BQ.1.1 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,2468,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_2x_mouse,BQ.1.18 Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,6319,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_2x_mouse,XBB Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,8582,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_1ug_2x_mouse,SARS-CoV Spike,Extended Data Figure 5C,Pseudovirus (VSV),NT50,316,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_2x_mouse,S:614G,Extended Data Figure 5D,Pseudovirus (VSV),NT50,62536,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_2x_mouse,BA.1 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,29357,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_2x_mouse,BA.4/5 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,79390,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_2x_mouse,BQ.1.1 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,37460,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_2x_mouse,BQ.1.18 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,22461,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_2x_mouse,XBB Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,3436,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BA5_mRNA_10ug_2x_mouse,SARS-CoV Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,587,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_2x_mouse,S:614G,Extended Data Figure 5D,Pseudovirus (VSV),NT50,34667,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_2x_mouse,BA.1 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,29353,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_2x_mouse,BA.4/5 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,49862,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_2x_mouse,BQ.1.1 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,65667,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_2x_mouse,BQ.1.18 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,48661,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_2x_mouse,XBB Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,12418,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_BQ11_mRNA_10ug_2x_mouse,SARS-CoV Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,721,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_2x_mouse,S:614G,Extended Data Figure 5D,Pseudovirus (VSV),NT50,18012,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_2x_mouse,BA.1 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,14076,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_2x_mouse,BA.4/5 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,35797,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_2x_mouse,BQ.1.1 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,12694,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_2x_mouse,BQ.1.18 Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,14819,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_2x_mouse,XBB Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,56139,10,1000000,30,NULL,2023-09-29
+Yisimayi23,Coronavac_2x_XBB_mRNA_10ug_2x_mouse,SARS-CoV Spike,Extended Data Figure 5D,Pseudovirus (VSV),NT50,510,10,1000000,30,NULL,2023-09-29
+Yisimayi23,BA1_BTI,S:614G,Figure 2A,Pseudovirus (VSV),NT50,1574,50,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI,BA.1 Spike,Figure 2A,Pseudovirus (VSV),NT50,848,50,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI,S:614G,Figure 2A,Pseudovirus (VSV),NT50,1234,39,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI,BA.2 Spike,Figure 2A,Pseudovirus (VSV),NT50,691,39,1000000,20,NULL,2023-09-29
+Yisimayi23,BA5_BTI,S:614G,Figure 2A,Pseudovirus (VSV),NT50,1116,36,1000000,20,NULL,2023-09-29
+Yisimayi23,BA5_BTI,BA.4/5 Spike,Figure 2A,Pseudovirus (VSV),NT50,513,36,1000000,20,NULL,2023-09-29
+Yisimayi23,BF7_BTI,S:614G,Figure 2A,Pseudovirus (VSV),NT50,941,30,1000000,20,NULL,2023-09-29
+Yisimayi23,BF7_BTI,BF.7 Spike,Figure 2A,Pseudovirus (VSV),NT50,311,30,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,S:614G,Figure 2A,Pseudovirus (VSV),NT50,1085,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,BA.1 Spike,Figure 2A,Pseudovirus (VSV),NT50,1466,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,BA.2 Spike,Figure 2A,Pseudovirus (VSV),NT50,1113,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,BA.4/5 Spike,Figure 2A,Pseudovirus (VSV),NT50,1051,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,BF.7 Spike,Figure 2A,Pseudovirus (VSV),NT50,788,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,S:614G,Figure 2A,Pseudovirus (VSV),NT50,891,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,BA.1 Spike,Figure 2A,Pseudovirus (VSV),NT50,767,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,BA.2 Spike,Figure 2A,Pseudovirus (VSV),NT50,1532,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,BA.4/5 Spike,Figure 2A,Pseudovirus (VSV),NT50,1081,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,BF.7 Spike,Figure 2A,Pseudovirus (VSV),NT50,879,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,S:614G,Figure 2A,Pseudovirus (VSV),NT50,241,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,BA.1 Spike,Figure 2A,Pseudovirus (VSV),NT50,2908,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,BA.2 Spike,Figure 2A,Pseudovirus (VSV),NT50,3427,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,BA.4/5 Spike,Figure 2A,Pseudovirus (VSV),NT50,3874,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,BF.7 Spike,Figure 2A,Pseudovirus (VSV),NT50,2457,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,CH.1.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,236,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,CH.1.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,269,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,CH.1.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,885,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,BQ.1.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,368,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,BQ.1.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,424,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,BQ.1.1 Spike,Figure 2B,Pseudovirus (VSV),NT50,1337,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB Spike,Figure 2B,Pseudovirus (VSV),NT50,181,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB Spike,Figure 2B,Pseudovirus (VSV),NT50,236,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB Spike,Figure 2B,Pseudovirus (VSV),NT50,471,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5 Spike,Figure 2B,Pseudovirus (VSV),NT50,207,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5 Spike,Figure 2B,Pseudovirus (VSV),NT50,251,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5 Spike,Figure 2B,Pseudovirus (VSV),NT50,562,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.16 Spike,Figure 2B,Pseudovirus (VSV),NT50,187,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.16 Spike,Figure 2B,Pseudovirus (VSV),NT50,228,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.16 Spike,Figure 2B,Pseudovirus (VSV),NT50,457,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,S:614G,Figure 2C,Pseudovirus (VSV),NT50,134,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,S:614G,Figure 2C,Pseudovirus (VSV),NT50,116,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,S:614G,Figure 2C,Pseudovirus (VSV),NT50,31,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,BA.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,140,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,BA.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,88,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,BA.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,290,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,BA.2 Spike,Figure 2C,Pseudovirus (VSV),NT50,84,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,BA.2 Spike,Figure 2C,Pseudovirus (VSV),NT50,156,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,BA.2 Spike,Figure 2C,Pseudovirus (VSV),NT50,335,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,BA.4/5 Spike,Figure 2C,Pseudovirus (VSV),NT50,102,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,BA.4/5 Spike,Figure 2C,Pseudovirus (VSV),NT50,105,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,BA.4/5 Spike,Figure 2C,Pseudovirus (VSV),NT50,381,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,BF.7 Spike,Figure 2C,Pseudovirus (VSV),NT50,75,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,BF.7 Spike,Figure 2C,Pseudovirus (VSV),NT50,87,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,BF.7 Spike,Figure 2C,Pseudovirus (VSV),NT50,249,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,CH.1.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,45,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,CH.1.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,58,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,CH.1.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,157,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,BQ.1.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,50,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,BQ.1.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,76,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,BQ.1.1 Spike,Figure 2C,Pseudovirus (VSV),NT50,194,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,XBB Spike,Figure 2C,Pseudovirus (VSV),NT50,44,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,XBB Spike,Figure 2C,Pseudovirus (VSV),NT50,54,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,XBB Spike,Figure 2C,Pseudovirus (VSV),NT50,83,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,XBB.1.5 Spike,Figure 2C,Pseudovirus (VSV),NT50,46,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,XBB.1.5 Spike,Figure 2C,Pseudovirus (VSV),NT50,54,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,XBB.1.5 Spike,Figure 2C,Pseudovirus (VSV),NT50,99,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,XBB.1.16 Spike,Figure 2C,Pseudovirus (VSV),NT50,44,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,XBB.1.16 Spike,Figure 2C,Pseudovirus (VSV),NT50,50,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,XBB.1.16 Spike,Figure 2C,Pseudovirus (VSV),NT50,87,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,XBB.1.5.10 Spike,Figure 2C,Pseudovirus (VSV),NT50,35,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,XBB.1.5.10 Spike,Figure 2C,Pseudovirus (VSV),NT50,43,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,XBB.1.5.10 Spike,Figure 2C,Pseudovirus (VSV),NT50,69,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5.10 Spike,Figure 6D,Pseudovirus (VSV),NT50,148,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y,Figure 6D,Pseudovirus (VSV),NT50,131,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K,Figure 6D,Pseudovirus (VSV),NT50,129,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T,Figure 6D,Pseudovirus (VSV),NT50,78,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N,Figure 6D,Pseudovirus (VSV),NT50,50,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P,Figure 6D,Pseudovirus (VSV),NT50,39,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P+Y453F,Figure 6D,Pseudovirus (VSV),NT50,39,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P+Y453F+N405K,Figure 6D,Pseudovirus (VSV),NT50,34,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5.10 Spike,Figure 6E,Pseudovirus (VSV),NT50,178,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y,Figure 6E,Pseudovirus (VSV),NT50,71,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K,Figure 6E,Pseudovirus (VSV),NT50,69,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T,Figure 6E,Pseudovirus (VSV),NT50,55,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N,Figure 6E,Pseudovirus (VSV),NT50,42,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P,Figure 6E,Pseudovirus (VSV),NT50,36,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P+Y453F,Figure 6E,Pseudovirus (VSV),NT50,37,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P+Y453F+N405K,Figure 6E,Pseudovirus (VSV),NT50,32,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5.10 Spike,Figure 6F,Pseudovirus (VSV),NT50,379,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y,Figure 6F,Pseudovirus (VSV),NT50,157,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K,Figure 6F,Pseudovirus (VSV),NT50,151,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T,Figure 6F,Pseudovirus (VSV),NT50,138,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N,Figure 6F,Pseudovirus (VSV),NT50,961,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P,Figure 6F,Pseudovirus (VSV),NT50,50,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P+Y453F,Figure 6F,Pseudovirus (VSV),NT50,50,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,XBB.1.5 Spike:K478R+F456L+H505Y+R403K+K444T+K440N+A484P+Y453F+N405K,Figure 6F,Pseudovirus (VSV),NT50,30,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,BA.2.75 Spike,Extended Data Figure 6A,Pseudovirus (VSV),NT50,866,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf,BQ.1.18 Spike,Extended Data Figure 6A,Pseudovirus (VSV),NT50,240,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,BA.2.75 Spike,Extended Data Figure 6B,Pseudovirus (VSV),NT50,698,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf,BQ.1.18 Spike,Extended Data Figure 6B,Pseudovirus (VSV),NT50,269,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,BA.2.75 Spike,Extended Data Figure 6C,Pseudovirus (VSV),NT50,1949,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf,BQ.1.18 Spike,Extended Data Figure 6C,Pseudovirus (VSV),NT50,781,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,BA.2.75 Spike,Extended Data Figure 6D,Pseudovirus (VSV),NT50,73,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_BA5orBF7_inf_swab,BQ.1.18 Spike,Extended Data Figure 6D,Pseudovirus (VSV),NT50,48,26,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,BA.2.75 Spike,Extended Data Figure 6E,Pseudovirus (VSV),NT50,69,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA2_BTI_BA5orBF7_inf_swab,BQ.1.18 Spike,Extended Data Figure 6E,Pseudovirus (VSV),NT50,57,19,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,BA.2.75 Spike,Extended Data Figure 6F,Pseudovirus (VSV),NT50,196,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1orBA2_inf_BA5orBF7_inf_swab,BQ.1.18 Spike,Extended Data Figure 6F,Pseudovirus (VSV),NT50,142,12,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,S:614G,Extended Data Figure 6G,Pseudovirus (VSV),NT50,169,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,BA.1 Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,124,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,BA.2 Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,94,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,BA.2.75 Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,50,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,BA.4/5 Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,29,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,BF.7 Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,24,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,BA.2.75.2 Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,20,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,BQ.1 Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,20,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,BQ.1.1 Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,20,22,1000000,20,NULL,2023-09-29
+Yisimayi23,BA1_BTI_8mo,XBB Spike,Extended Data Figure 6G,Pseudovirus (VSV),NT50,20,22,1000000,20,NULL,2023-09-29
+Yisimayi23,DXP-604,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,11,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,S2H97,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,574,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C576,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,5.4,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C581,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,65.5,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,LY-CoV1404,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,1,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,Ehling_mAb-50,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,471,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BRII-196,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,53.2,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2046,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,2.37,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2068,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,21.7,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2258,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,579,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BG7-15,S:614G,Supplementary Table 2,Pseudovirus (VSV),IC50,1.5,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,DXP-604,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,285,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,S2H97,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,2560,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C576,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,62.8,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C581,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,227,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,LY-CoV1404,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,1,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,Ehling_mAb-50,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BRII-196,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,7120,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2046,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,4.85,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2068,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,70.1,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2258,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,3600,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BG7-15,BA.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,DXP-604,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,219,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,S2H97,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,2700,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C576,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,792,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C581,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,314,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,LY-CoV1404,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,0.869,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,Ehling_mAb-50,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,931,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BRII-196,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,8530,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2046,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,4.5,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2068,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,115,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2258,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,2780,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BG7-15,BA.2 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,543,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,DXP-604,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,6260,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,S2H97,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,2790,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C576,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,704,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C581,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,2250,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,LY-CoV1404,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,0.862,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,Ehling_mAb-50,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,973,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BRII-196,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,7120,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2046,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,180,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2068,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,42.7,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2258,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,3790,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BG7-15,BA.4/5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,889,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,DXP-604,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,S2H97,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,1890,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C576,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C581,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,LY-CoV1404,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,1310,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,Ehling_mAb-50,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BRII-196,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2046,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,581,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2068,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2258,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BG7-15,BQ.1.1 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,DXP-604,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,S2H97,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,3620,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C576,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C581,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,LY-CoV1404,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,Ehling_mAb-50,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BRII-196,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2046,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2068,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2258,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BG7-15,XBB Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,DXP-604,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,S2H97,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,4810,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C576,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,C581,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,LY-CoV1404,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,Ehling_mAb-50,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BRII-196,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2046,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2068,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,COV2-2258,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29
+Yisimayi23,BG7-15,XBB.1.5 Spike,Supplementary Table 2,Pseudovirus (VSV),IC50,10000,1,10000,0.5,ng/ml,2022-09-29

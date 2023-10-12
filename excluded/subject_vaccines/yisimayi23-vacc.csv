@@ -1,0 +1,13 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Yisimayi23,BA5_spike_mRNA_1ug_2x_mouse,~,2022-09-01,mRNA_BA5,1,China,NULL
+Yisimayi23,BA5_spike_mRNA_1ug_2x_mouse,~,2022-09-15,mRNA_BA5,2,China,NULL
+Yisimayi23,BQ11_spike_mRNA_1ug_2x_mouse,~,2022-09-01,mRNA_BQ11,1,China,NULL
+Yisimayi23,BQ11_spike_mRNA_1ug_2x_mouse,~,2022-09-15,mRNA_BQ11,2,China,NULL
+Yisimayi23,XBB_spike_mRNA_1ug_2x_mouse,~,2022-09-01,mRNA_XBB,1,China,NULL
+Yisimayi23,XBB_spike_mRNA_1ug_2x_mouse,~,2022-09-15,mRNA_XBB,2,China,NULL
+Yisimayi23,BA5_spike_mRNA_10ug_2x_mouse,~,2022-09-01,mRNA_BA5,1,China,NULL
+Yisimayi23,BA5_spike_mRNA_10ug_2x_mouse,~,2022-09-15,mRNA_BA5,2,China,NULL
+Yisimayi23,BQ11_spike_mRNA_10ug_2x_mouse,~,2022-09-01,mRNA_BQ11,1,China,NULL
+Yisimayi23,BQ11_spike_mRNA_10ug_2x_mouse,~,2022-09-15,mRNA_BQ11,2,China,NULL
+Yisimayi23,XBB_spike_mRNA_10ug_2x_mouse,~,2022-09-01,mRNA_XBB,1,China,NULL
+Yisimayi23,XBB_spike_mRNA_10ug_2x_mouse,~,2022-09-15,mRNA_XBB,2,China,NULL
