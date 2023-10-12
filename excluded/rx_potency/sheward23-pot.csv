@@ -1,0 +1,7 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Sheward23,preXBB_cohort,BA.2 Spike,Figure D,Pseudovirus (lentivirus),NT50,213,10,10000,10,NULL,2023-10-03
+Sheward23,preXBB_cohort,XBB.1.5 Spike,Figure D,Pseudovirus (lentivirus),NT50,23,10,10000,10,NULL,2023-10-03
+Sheward23,preXBB_cohort,BA.2.86 Spike,Figure D,Pseudovirus (lentivirus),NT50,15,10,10000,10,NULL,2023-10-03
+Sheward23,recent_cohort,BA.2 Spike,Figure D,Pseudovirus (lentivirus),NT50,984,12,10000,10,NULL,2023-10-03
+Sheward23,recent_cohort,XBB.1.5 Spike,Figure D,Pseudovirus (lentivirus),NT50,130,12,10000,10,NULL,2023-10-03
+Sheward23,recent_cohort,BA.2.86 Spike,Figure D,Pseudovirus (lentivirus),NT50,84,12,10000,10,NULL,2023-10-03
