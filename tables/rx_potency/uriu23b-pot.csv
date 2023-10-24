@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Uriu23b,monovalent_3dose,B.1 Spike,Figure 1F,Pseudovirus (lentivirus),NT50,2002,15,100000,40,NULL,2023-10-03
 Uriu23b,monovalent_3dose,BA.2 Spike,Figure 1F,Pseudovirus (lentivirus),NT50,446,15,100000,40,NULL,2023-10-03
 Uriu23b,monovalent_3dose,EG.5.1 Spike,Figure 1F,Pseudovirus (lentivirus),NT50,44,15,100000,40,NULL,2023-10-03
