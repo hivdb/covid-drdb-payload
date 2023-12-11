@@ -1,0 +1,17 @@
+﻿ref_name,subject_name,rx_name,start_date_cmp,start_date,end_date_cmp,end_date,dosage,dosage_unit,section
+Zuckerman23,Pt,Remdesivir,~,2022-10-26,~,2022-10-31,100,mg,Figure 1
+Zuckerman23,Pt,Remdesivir,~,2022-11-05,~,2022-11-11,100,mg,Figure 1
+Zuckerman23,Pt,Remdesivir,~,2022-12-05,~,2022-12-11,100,mg,Figure 1
+Zuckerman23,Pt,Remdesivir,~,2022-12-25,~,2023-01-08,100,mg,Figure 1
+Zuckerman23,Pt,Remdesivir,~,2023-02-05,~,2023-02-19,100,mg,Figure 1
+Zuckerman23,Pt,Remdesivir,~,2023-03-11,~,2023-03-12,100,mg,Figure 1
+Zuckerman23,Pt,Nirmatrelvir,~,2022-10-26,~,2022-10-31,300,mg,Figure 1
+Zuckerman23,Pt,Nirmatrelvir,~,2022-12-05,~,2022-12-11,300,mg,Figure 1
+Zuckerman23,Pt,Nirmatrelvir,~,2022-12-27,~,2023-01-08,300,mg,Figure 1
+Zuckerman23,Pt,Nirmatrelvir,~,2023-01-19,~,2023-01-29,300,mg,Figure 1
+Zuckerman23,Pt,Nirmatrelvir,~,2023-02-08,~,2023-05-28,300,mg,Figure 1
+Zuckerman23,Pt,Molnupiravir,~,2023-03-14,~,2023-05-28,NULL,NULL,Figure 1
+Zuckerman23,Pt,Tixagevimab,~,2022-10-26,~,2022-10-26,NULL,NULL,Text
+Zuckerman23,Pt,Cilgavimab,~,2022-10-26,~,2022-10-26,NULL,NULL,Text
+Zuckerman23,Pt,Tixagevimab,<,2022-09-15,<,2022-09-15,NULL,NULL,Text
+Zuckerman23,Pt,Cilgavimab,<,2022-09-15,<,2022-09-15,NULL,NULL,Text
