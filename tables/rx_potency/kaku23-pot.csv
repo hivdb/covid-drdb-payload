@@ -1,17 +1,17 @@
 ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Kaku23,XBB_BTI_sera,S:614G,Figure 1E,Pseudovirus (lentivirus),NT50,5356,8,100000,120,NULL,2023-12-12
 Kaku23,XBB_BTI_sera,BA.2 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,2808,8,100000,120,NULL,2023-12-12
-Kaku23,XBB_BTI_sera,BA.5 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,2127,8,100000,120,NULL,2023-12-12
+Kaku23,XBB_BTI_sera,BA.4/5 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,2127,8,100000,120,NULL,2023-12-12
 Kaku23,XBB_BTI_sera,BQ.1.1 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,741,8,100000,120,NULL,2023-12-12
 Kaku23,XBB_BTI_sera,XBB.1 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,768,8,100000,120,NULL,2023-12-12
 Kaku23,XBB_BTI_sera,XBB.1.5 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,846,8,100000,120,NULL,2023-12-12
 Kaku23,XBB_BTI_sera,XBB.1.16 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,935,8,100000,120,NULL,2023-12-12
 Kaku23,XBB_BTI_sera,EG.5.1 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,738,8,100000,120,NULL,2023-12-12
-Kaku23,XBB_BTI_sera,XBB.1.5 Spike:+Q52H,Figure 1E,Pseudovirus (lentivirus),NT50,796,8,100000,120,NULL,2023-12-12
-Kaku23,XBB_BTI_sera,XBB.1.5 Spike:+456L,Figure 1E,Pseudovirus (lentivirus),NT50,441,8,100000,120,NULL,2023-12-12
+Kaku23,XBB_BTI_sera,XBB.1.5 Spike:Q52H,Figure 1E,Pseudovirus (lentivirus),NT50,796,8,100000,120,NULL,2023-12-12
+Kaku23,XBB_BTI_sera,XBB.1.5 Spike:F456L,Figure 1E,Pseudovirus (lentivirus),NT50,441,8,100000,120,NULL,2023-12-12
 Kaku23,BA.1_BTI,S:614G,Figure 1G,Pseudovirus (lentivirus),NT50,5797,13,100000,120,NULL,2023-12-12
 Kaku23,BA.1_BTI,BA.1 Spike,Figure 1G,Pseudovirus (lentivirus),NT50,1919,13,100000,120,NULL,2023-12-12
 Kaku23,BA.2_BTI,S:614G,Figure 1G,Pseudovirus (lentivirus),NT50,2627,13,100000,120,NULL,2023-12-12
 Kaku23,BA.2_BTI,BA.2 Spike,Figure 1G,Pseudovirus (lentivirus),NT50,1172,13,100000,120,NULL,2023-12-12
 Kaku23,BA.5_BTI,S:614G,Figure 1G,Pseudovirus (lentivirus),NT50,14545,15,100000,120,NULL,2023-12-12
-Kaku23,BA.5_BTI,BA.5 Spike,Figure 1G,Pseudovirus (lentivirus),NT50,4281,15,100000,120,NULL,2023-12-12
+Kaku23,BA.5_BTI,BA.4/5 Spike,Figure 1G,Pseudovirus (lentivirus),NT50,4281,15,100000,120,NULL,2023-12-12
