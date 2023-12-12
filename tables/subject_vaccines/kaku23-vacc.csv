@@ -1,0 +1,5 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Kaku23,XBB_BTI_sera,<,2022-12-31,mRNA,3,Japan,NULL
+Kaku23,BA.1_BTI,<,2022-12-31,mRNA,3,Japan,NULL
+Kaku23,BA.2_BTI,<,2022-12-31,mRNA,3,Japan,NULL
+Kaku23,BA.5_BTI,<,2022-12-31,mRNA,3,Japan,NULL
