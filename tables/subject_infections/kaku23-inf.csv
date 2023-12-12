@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Kaku23,XBB_BTI_sera,~,2023-01-01,Omicron/XBB,Japan,NULL,NULL,NULL
 Kaku23,BA.1_BTI,~,2023-01-01,Omicron/BA.1,Japan,NULL,NULL,NULL
 Kaku23,BA.2_BTI,~,2023-01-01,Omicron/BA.2,Japan,NULL,NULL,NULL

@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Kaku23,XBB_BTI_sera,S:614G,Figure 1E,Pseudovirus (lentivirus),NT50,5356,8,100000,120,NULL,2023-12-12
 Kaku23,XBB_BTI_sera,BA.2 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,2808,8,100000,120,NULL,2023-12-12
 Kaku23,XBB_BTI_sera,BA.4/5 Spike,Figure 1E,Pseudovirus (lentivirus),NT50,2127,8,100000,120,NULL,2023-12-12
