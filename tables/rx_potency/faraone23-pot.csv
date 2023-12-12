@@ -1,0 +1,29 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Faraone23,Bivalent_HCW_sera,S:614G,Figure 2A,Pseudovirus (lentivirus),NT50,2731,14,10240,40,NULL,2023-12-12
+Faraone23,Bivalent_HCW_sera,BA.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,1863,14,10240,40,NULL,2023-12-12
+Faraone23,Bivalent_HCW_sera,BA.4/5 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,1549,14,10240,40,NULL,2023-12-12
+Faraone23,Bivalent_HCW_sera,XBB.1.5 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,293,14,10240,40,NULL,2023-12-12
+Faraone23,Bivalent_HCW_sera,XBB.1.5 Spike:E180V,Figure 2A,Pseudovirus (lentivirus),NT50,268,14,10240,40,NULL,2023-12-12
+Faraone23,Bivalent_HCW_sera,XBB.1.5 Spike:T478R,Figure 2A,Pseudovirus (lentivirus),NT50,263,14,10240,40,NULL,2023-12-12
+Faraone23,Bivalent_HCW_sera,XBB.1.16 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,246,14,10240,40,NULL,2023-12-12
+Faraone23,3_dose_HCW,S:614G,Figure 2B,Pseudovirus (lentivirus),NT50,2164,15,10240,40,NULL,2023-12-12
+Faraone23,3_dose_HCW,BA.2 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,530,15,10240,40,NULL,2023-12-12
+Faraone23,3_dose_HCW,BA.4/5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,316,15,10240,40,NULL,2023-12-12
+Faraone23,3_dose_HCW,XBB.1.5 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,69,15,10240,40,NULL,2023-12-12
+Faraone23,3_dose_HCW,XBB.1.5 Spike:E180V,Figure 2B,Pseudovirus (lentivirus),NT50,72,15,10240,40,NULL,2023-12-12
+Faraone23,3_dose_HCW,XBB.1.5 Spike:T478R,Figure 2B,Pseudovirus (lentivirus),NT50,76,15,10240,40,NULL,2023-12-12
+Faraone23,3_dose_HCW,XBB.1.16 Spike,Figure 2B,Pseudovirus (lentivirus),NT50,91,15,10240,40,NULL,2023-12-12
+Faraone23,BA.4/5_CP,S:614G,Figure 2C,Pseudovirus (lentivirus),NT50,643,19,10240,40,NULL,2023-12-12
+Faraone23,BA.4/5_CP,BA.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,244,19,10240,40,NULL,2023-12-12
+Faraone23,BA.4/5_CP,BA.4/5 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,214,19,10240,40,NULL,2023-12-12
+Faraone23,BA.4/5_CP,XBB.1.5 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,29,19,10240,40,NULL,2023-12-12
+Faraone23,BA.4/5_CP,XBB.1.5 Spike:E180V,Figure 2C,Pseudovirus (lentivirus),NT50,30,19,10240,40,NULL,2023-12-12
+Faraone23,BA.4/5_CP,XBB.1.5 Spike:T478R,Figure 2C,Pseudovirus (lentivirus),NT50,28,19,10240,40,NULL,2023-12-12
+Faraone23,BA.4/5_CP,XBB.1.16 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,19,19,10240,40,NULL,2023-12-12
+Faraone23,S309,S:614G,Figure 3B,Pseudovirus (lentivirus),IC50,270,1,1000,1,ng/ml,2023-12-12
+Faraone23,S309,BA.2 Spike,Figure 3B,Pseudovirus (lentivirus),IC50,2430,1,1000,1,ng/ml,2023-12-12
+Faraone23,S309,BA.4/5 Spike,Figure 3B,Pseudovirus (lentivirus),IC50,4120,1,1000,1,ng/ml,2023-12-12
+Faraone23,S309,XBB.1.5 Spike,Figure 3B,Pseudovirus (lentivirus),IC50,2910,1,1000,1,ng/ml,2023-12-12
+Faraone23,S309,XBB.1.5 Spike:E180V,Figure 3B,Pseudovirus (lentivirus),IC50,3060,1,1000,1,ng/ml,2023-12-12
+Faraone23,S309,XBB.1.5 Spike:T478R,Figure 3B,Pseudovirus (lentivirus),IC50,4490,1,1000,1,ng/ml,2023-12-12
+Faraone23,S309,XBB.1.16 Spike,Figure 3B,Pseudovirus (lentivirus),IC50,3840,1,1000,1,ng/ml,2023-12-12
