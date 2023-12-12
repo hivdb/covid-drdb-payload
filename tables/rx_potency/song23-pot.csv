@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Song23,S2X529,S:614G,Table S1,Pseudovirus,IC50,40,1,30000,1,ng/ml,2023-12-12
 Song23,S2X529,B.1.1.7 Spike,Table S1,Pseudovirus,IC50,80,1,30000,1,ng/ml,2023-12-12
 Song23,S2X529,B.1.351 Spike,Table S1,Pseudovirus,IC50,50,1,30000,1,ng/ml,2023-12-12
