@@ -1,0 +1,92 @@
+ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Song23,S2X529,S:614G,Table S1,Pseudovirus,IC50,40,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,B.1.1.7 Spike,Table S1,Pseudovirus,IC50,80,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,B.1.351 Spike,Table S1,Pseudovirus,IC50,50,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,P.1 Spike,Table S1,Pseudovirus,IC50,10,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,B.1.617.2 Spike,Table S1,Pseudovirus,IC50,20,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,BA.1 Spike,Table S1,Pseudovirus,IC50,470,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,BA.2 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,BA.2.12.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,BA.2.75 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,BA.4/5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,BA.1.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,XBB Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S2X529,XBB.1.5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,C022,S:614G,Table S1,Pseudovirus,IC50,100,1,30000,1,ng/ml,2023-12-12
+Song23,C022,B.1.1.7 Spike,Table S1,Pseudovirus,IC50,130,1,30000,1,ng/ml,2023-12-12
+Song23,C022,B.1.351 Spike,Table S1,Pseudovirus,IC50,250,1,30000,1,ng/ml,2023-12-12
+Song23,C022,P.1 Spike,Table S1,Pseudovirus,IC50,30,1,30000,1,ng/ml,2023-12-12
+Song23,C022,B.1.617.2 Spike,Table S1,Pseudovirus,IC50,40,1,30000,1,ng/ml,2023-12-12
+Song23,C022,BA.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,C022,BA.2 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,C022,BA.2.12.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,C022,BA.2.75 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,C022,BA.4/5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,C022,BA.1.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,C022,XBB Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,C022,XBB.1.5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,S:614G,Table S1,Pseudovirus,IC50,160,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,B.1.1.7 Spike,Table S1,Pseudovirus,IC50,110,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,B.1.351 Spike,Table S1,Pseudovirus,IC50,160,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,P.1 Spike,Table S1,Pseudovirus,IC50,120,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,B.1.617.2 Spike,Table S1,Pseudovirus,IC50,50,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,BA.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,BA.2 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,BA.2.12.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,BA.2.75 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,BA.4/5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,BA.1.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,XBB Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,ADI56046,XBB.1.5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,S:614G,Table S1,Pseudovirus,IC50,170,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,B.1.1.7 Spike,Table S1,Pseudovirus,IC50,70,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,B.1.351 Spike,Table S1,Pseudovirus,IC50,60,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,P.1 Spike,Table S1,Pseudovirus,IC50,50,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,B.1.617.2 Spike,Table S1,Pseudovirus,IC50,20,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,BA.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,BA.2 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,BA.2.12.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,BA.2.75 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,BA.4/5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,BA.1.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,XBB Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DH1047,XBB.1.5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S309,S:614G,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S309,B.1.1.7 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S309,B.1.351 Spike,Table S1,Pseudovirus,IC50,6110,1,30000,1,ng/ml,2023-12-12
+Song23,S309,P.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S309,B.1.617.2 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,S309,BA.1 Spike,Table S1,Pseudovirus,IC50,4250,1,30000,1,ng/ml,2023-12-12
+Song23,S309,BA.2 Spike,Table S1,Pseudovirus,IC50,9090,1,30000,1,ng/ml,2023-12-12
+Song23,S309,BA.2.12.1 Spike,Table S1,Pseudovirus,IC50,12200,1,30000,1,ng/ml,2023-12-12
+Song23,S309,BA.2.75 Spike,Table S1,Pseudovirus,IC50,5120,1,30000,1,ng/ml,2023-12-12
+Song23,S309,BA.4/5 Spike,Table S1,Pseudovirus,IC50,16900,1,30000,1,ng/ml,2023-12-12
+Song23,S309,BA.1.1 Spike,Table S1,Pseudovirus,IC50,4280,1,30000,1,ng/ml,2023-12-12
+Song23,S309,XBB Spike,Table S1,Pseudovirus,IC50,1200,1,30000,1,ng/ml,2023-12-12
+Song23,S309,XBB.1.5 Spike,Table S1,Pseudovirus,IC50,3080,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,S:614G,Table S1,Pseudovirus,IC50,30,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,B.1.1.7 Spike,Table S1,Pseudovirus,IC50,240,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,B.1.351 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,P.1 Spike,Table S1,Pseudovirus,IC50,6820,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,B.1.617.2 Spike,Table S1,Pseudovirus,IC50,50,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,BA.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,BA.2 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,BA.2.12.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,BA.2.75 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,BA.4/5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,BA.1.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,XBB Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,CC12.1,XBB.1.5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,S:614G,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,B.1.1.7 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,B.1.351 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,P.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,B.1.617.2 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,BA.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,BA.2 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,BA.2.12.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,BA.2.75 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,BA.4/5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,BA.1.1 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,XBB Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
+Song23,DEN3,XBB.1.5 Spike,Table S1,Pseudovirus,IC50,30000,1,30000,1,ng/ml,2023-12-12
