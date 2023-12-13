@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Ito23,BA.2_BTI_1,BA.2 Spike,Figure 3a,Pseudovirus (lentivirus),NT50,6310,1,100000,126,NULL,2023-12-13
 Ito23,BA.2_BTI_2,BA.2 Spike,Figure 3a,Pseudovirus (lentivirus),NT50,3162,1,100000,126,NULL,2023-12-13
 Ito23,BA.2_BTI_3,BA.2 Spike,Figure 3a,Pseudovirus (lentivirus),NT50,5012,1,100000,126,NULL,2023-12-13
