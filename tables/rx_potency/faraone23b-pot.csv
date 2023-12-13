@@ -1,0 +1,19 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Faraone23b,3dose_HCW,S:614G,Figure 2A,Pseudovirus (lentivirus),NT50,1412,15,10000,80,NULL,2023-12-13
+Faraone23b,3dose_HCW,BA.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,412,15,10000,80,NULL,2023-12-13
+Faraone23b,3dose_HCW,XBB Spike,Figure 2A,Pseudovirus (lentivirus),NT50,94,15,10000,80,NULL,2023-12-13
+Faraone23b,3dose_HCW,BA.2.30 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,348,15,10000,80,NULL,2023-12-13
+Faraone23b,3dose_HCW,BA.2.75 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,166,15,10000,80,NULL,2023-12-13
+Faraone23b,3dose_HCW,BR.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,306,15,10000,80,NULL,2023-12-13
+Faraone23b,BA.1_wave,S:614G,Figure 2C,Pseudovirus (lentivirus),NT50,653,15,10000,80,NULL,2023-12-13
+Faraone23b,BA.1_wave,BA.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,204,15,10000,80,NULL,2023-12-13
+Faraone23b,BA.1_wave,XBB Spike,Figure 2C,Pseudovirus (lentivirus),NT50,116,15,10000,80,NULL,2023-12-13
+Faraone23b,BA.1_wave,BA.2.30 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,230,15,10000,80,NULL,2023-12-13
+Faraone23b,BA.1_wave,BA.2.75 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,45,15,10000,80,NULL,2023-12-13
+Faraone23b,BA.1_wave,BR.2 Spike,Figure 2C,Pseudovirus (lentivirus),NT50,198,15,10000,80,NULL,2023-12-13
+Faraone23b,BA.4/5_wave,S:614G,Figure 2E,Pseudovirus (lentivirus),NT50,622,20,10000,80,NULL,2023-12-13
+Faraone23b,BA.4/5_wave,BA.2 Spike,Figure 2E,Pseudovirus (lentivirus),NT50,269,20,10000,80,NULL,2023-12-13
+Faraone23b,BA.4/5_wave,XBB Spike,Figure 2E,Pseudovirus (lentivirus),NT50,84,20,10000,80,NULL,2023-12-13
+Faraone23b,BA.4/5_wave,BA.2.30 Spike,Figure 2E,Pseudovirus (lentivirus),NT50,273,20,10000,80,NULL,2023-12-13
+Faraone23b,BA.4/5_wave,BA.2.75 Spike,Figure 2E,Pseudovirus (lentivirus),NT50,122,20,10000,80,NULL,2023-12-13
+Faraone23b,BA.4/5_wave,BR.2 Spike,Figure 2E,Pseudovirus (lentivirus),NT50,340,20,10000,80,NULL,2023-12-13
