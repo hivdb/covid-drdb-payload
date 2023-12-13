@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Faraone23b,3dose_HCW,S:614G,Figure 2A,Pseudovirus (lentivirus),NT50,1412,15,10000,80,NULL,2023-12-13
 Faraone23b,3dose_HCW,BA.2 Spike,Figure 2A,Pseudovirus (lentivirus),NT50,412,15,10000,80,NULL,2023-12-13
 Faraone23b,3dose_HCW,XBB Spike,Figure 2A,Pseudovirus (lentivirus),NT50,94,15,10000,80,NULL,2023-12-13
