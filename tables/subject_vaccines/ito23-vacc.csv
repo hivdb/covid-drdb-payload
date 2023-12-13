@@ -1,0 +1,98 @@
+ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Ito23,BA.2_BTI_1,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_2,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_3,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_4,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_5,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_6,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_7,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_8,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_9,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_10,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_11,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_12,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_13,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.2_BTI_14,<,2022-06-01,Unknown vaccine,2,Japan,NULL
+Ito23,BA.5_BTI_1,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_2,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_3,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_4,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_5,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_6,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_7,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_8,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_9,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_10,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_11,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_12,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_13,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_14,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_15,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_16,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_17,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_18,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_19,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,BA.5_BTI_20,<,2022-06-01,Unknown vaccine,3,Japan,NULL
+Ito23,4dose_monovalent_1,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_2,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_3,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_4,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_5,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_6,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_7,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_8,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_9,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_10,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_11,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_12,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_13,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_14,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_15,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_16,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_17,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_18,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_19,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_monovalent_20,~,2022-10-01,spike_WT,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_1,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_2,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_3,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_4,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_5,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_6,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_7,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_8,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_9,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_10,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_11,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_12,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_13,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_14,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_15,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_16,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_17,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_18,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_19,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_20,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_21,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.1_bivalent_22,~,2022-10-01,BA.1_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_1,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_2,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_3,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_4,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_5,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_6,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_7,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_8,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_9,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_10,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_11,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_12,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_13,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_14,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_15,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_16,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_17,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_18,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_19,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_20,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
+Ito23,4dose_BA.5_bivalent_21,~,2022-10-01,BA.5_bivalent,4,Japan,NULL
