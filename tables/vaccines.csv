@@ -102,20 +102,23 @@ mRNA_WT,mRNA,,,100
 mRNA_BA5,mRNA,,,101
 mRNA_BQ11,mRNA,,,102
 mRNA_XBB,mRNA,,,103
-spike_BA1,Mixed,,,104
-spike_BA5,Mixed,,,105
-spike_BQ11,Mixed,,,106
-spike_XBB,Mixed,,,107
-spike_SARS,Mixed,,,108
-mRNA_WT + spike_BA5,Mixed,,,109
-mRNA_WT + spike_BQ11,Mixed,,,110
-mRNA_WT + spike_XBB,Mixed,,,111
-CoronaVac + mRNA_BA5,mRNA,,,112
-CoronaVac + mRNA_BQ11,mRNA,,,113
-CoronaVac + mRNA_XBB,mRNA,,,114
-CoronaVac + spike_BA1,Mixed,,,115
-CoronaVac + spike_BA5,Mixed,,,116
-CoronaVac + spike_BQ11,Mixed,,,117
-CoronaVac + spike_XBB,Mixed,,,118
-CoronaVac + spike_SARS,Mixed,,,119
-Unknown vaccine,Mixed,,,120
+spike_WT,Mixed,,,104
+spike_BA1,Mixed,,,105
+spike_BA5,Mixed,,,106
+spike_BQ11,Mixed,,,107
+spike_XBB,Mixed,,,108
+spike_SARS,Mixed,,,109
+mRNA_WT + spike_BA5,Mixed,,,110
+mRNA_WT + spike_BQ11,Mixed,,,111
+mRNA_WT + spike_XBB,Mixed,,,112
+CoronaVac + mRNA_BA5,mRNA,,,113
+CoronaVac + mRNA_BQ11,mRNA,,,114
+CoronaVac + mRNA_XBB,mRNA,,,115
+CoronaVac + spike_BA1,Mixed,,,116
+CoronaVac + spike_BA5,Mixed,,,117
+CoronaVac + spike_BQ11,Mixed,,,118
+CoronaVac + spike_XBB,Mixed,,,119
+CoronaVac + spike_SARS,Mixed,,,120
+BA.1_bivalent,Mixed,,,121
+BA.5_bivalent,Mixed,,,122
+Unknown vaccine,Mixed,,,1000
