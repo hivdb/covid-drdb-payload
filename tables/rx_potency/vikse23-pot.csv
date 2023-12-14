@@ -1,22 +1,25 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Vikse23,mRNA_3dose,,Figure 1B,Virus isolate,NT50,345,5,640,1,NULL,2023-12-14
 Vikse23,mRNA_3dose,hCoV-19/Norway/126/2022,Figure 1B,Virus isolate,NT50,125,5,640,1,NULL,2023-02-03
-Vikse23,mRNA_3dose,hCoV-19/Norway/30134/2022,Figure 1B,Virus isolate,NT50,100,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_3dose,hCoV-19/Norway/31280/2022,Figure 1B,Virus isolate,NT50,57,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_3dose,Omicron/BA.2.75.2 full genome,Figure 1B,Virus isolate,NT50,48,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_3dose,hCoV-19/Norway/32121/2022,Figure 1B,Virus isolate,NT50,9,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_3dose,hCoV-19/Norway/21334/2022,Figure 1B,Virus isolate,NT50,189,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_3dose,hCoV-19/Norway/29067/2022,Figure 1B,Virus isolate,NT50,74,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_3dose,hCoV-19/Norway/31371/2022,Figure 1B,Virus isolate,NT50,9,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/126/2022,Figure 1C,Virus isolate,NT50,900,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/30134/2022,Figure 1C,Virus isolate,NT50,613,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/31280/2022,Figure 1C,Virus isolate,NT50,369,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.1/2_BTI,Omicron/BA.2.75.2 full genome,Figure 1C,Virus isolate,NT50,440,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/32121/2022,Figure 1C,Virus isolate,NT50,60,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/21334/2022,Figure 1C,Virus isolate,NT50,708,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/29067/2022,Figure 1C,Virus isolate,NT50,365,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/31371/2022,Figure 1C,Virus isolate,NT50,43,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/126/2022,Figure 1D,Virus isolate,NT50,563,5,640,10,NULL,2023-02-03
-Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/30134/2022,Figure 1D,Virus isolate,NT50,187,5,640,10,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/30134/2022,Figure 1B,Virus isolate,NT50,100,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/31280/2022,Figure 1B,Virus isolate,NT50,57,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_3dose,Omicron/BA.2.75.2 full genome,Figure 1B,Virus isolate,NT50,48,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/32121/2022,Figure 1B,Virus isolate,NT50,9,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/21334/2022,Figure 1B,Virus isolate,NT50,189,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/29067/2022,Figure 1B,Virus isolate,NT50,74,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_3dose,hCoV-19/Norway/31371/2022,Figure 1B,Virus isolate,NT50,9,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,,Figure 1C,Virus isolate,NT50,1520,5,640,1,NULL,2023-12-14
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/126/2022,Figure 1C,Virus isolate,NT50,900,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/30134/2022,Figure 1C,Virus isolate,NT50,613,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/31280/2022,Figure 1C,Virus isolate,NT50,369,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,Omicron/BA.2.75.2 full genome,Figure 1C,Virus isolate,NT50,440,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/32121/2022,Figure 1C,Virus isolate,NT50,60,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/21334/2022,Figure 1C,Virus isolate,NT50,708,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/29067/2022,Figure 1C,Virus isolate,NT50,365,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.1/2_BTI,hCoV-19/Norway/31371/2022,Figure 1C,Virus isolate,NT50,43,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,,Figure 1D,Virus isolate,NT50,768,5,640,1,NULL,2023-12-14
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/126/2022,Figure 1D,Virus isolate,NT50,563,5,640,1,NULL,2023-02-03
+Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/30134/2022,Figure 1D,Virus isolate,NT50,187,5,640,1,NULL,2023-02-03
 Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/31280/2022,Figure 1D,Virus isolate,NT50,155,5,640,10,NULL,2023-02-03
 Vikse23,mRNA_2or3dose_BA.5_BTI,Omicron/BA.2.75.2 full genome,Figure 1D,Virus isolate,NT50,180,5,640,10,NULL,2023-02-03
 Vikse23,mRNA_2or3dose_BA.5_BTI,hCoV-19/Norway/32121/2022,Figure 1D,Virus isolate,NT50,36,5,640,10,NULL,2023-02-03
