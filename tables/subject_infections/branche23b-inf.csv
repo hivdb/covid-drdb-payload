@@ -1,4 +1,4 @@
-ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
+﻿ref_name,subject_name,infection_date_cmp,infection_date,infected_var_name,location,immune_status,severity,section
 Branche23b,Moderna_inf_prototype,~,2021-01-16,Unknown variant,USA,NULL,NULL,Table 1
 Branche23b,Moderna_inf_Beta_BA_1,~,2021-08-29,Unknown variant,USA,NULL,NULL,Table 1
 Branche23b,Moderna_inf_Delta_BA_1,~,2021-09-30,Unknown variant,USA,NULL,NULL,Table 1

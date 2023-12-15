@@ -1,4 +1,4 @@
-ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
 Branche23b,Moderna_uninf_prototype,~,2022-05-06,mRNA-1273,4,USA,Table 1
 Branche23b,Moderna_uninf_Beta_BA_1,~,2022-05-06,mRNA-1273.351_529_bivalent,4,USA,Table 1
 Branche23b,Moderna_uninf_Delta_BA_1,~,2022-05-06,mRNA-1273.617.2_529_bivalent,4,USA,Table 1

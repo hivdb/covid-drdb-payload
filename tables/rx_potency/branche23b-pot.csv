@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Branche23b,Moderna_uninf_prototype_D1,S:614G,Table S6,Pseudovirus,NT50,2228,78,100000,10,NULL,2023-12-14
 Branche23b,Moderna_uninf_prototype_D1,BA.1 Spike,Table S6,Pseudovirus,NT50,164,78,100000,10,NULL,2023-12-14
 Branche23b,Moderna_uninf_prototype_D1,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,129,22,100000,10,NULL,2023-12-14
