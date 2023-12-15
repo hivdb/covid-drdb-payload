@@ -15,10 +15,10 @@ Muik22c,BNT_booster_mice,~,2022-04-22,BNT162b2,2,Germany,Fig 1
 Muik22c,BNT_booster_mice,~,2022-07-14,BNT162b2,3,Germany,Fig 1
 Muik22c,BA.1_booster_mice,~,2022-04-01,BNT162b2,1,Germany,Fig 1
 Muik22c,BA.1_booster_mice,~,2022-04-22,BNT162b2,2,Germany,Fig 1
-Muik22c,BA.1_booster_mice,~,2022-07-14,BNT_BA.1,3,Germany,Fig 1
+Muik22c,BA.1_booster_mice,~,2022-07-14,BNT162b2_BA.1,3,Germany,Fig 1
 Muik22c,BA.4/5_booster_mice,~,2022-04-01,BNT162b2,1,Germany,Fig 1
 Muik22c,BA.4/5_booster_mice,~,2022-04-22,BNT162b2,2,Germany,Fig 1
-Muik22c,BA.4/5_booster_mice,~,2022-07-14,BNT_BA.4/5,3,Germany,Fig 1
+Muik22c,BA.4/5_booster_mice,~,2022-07-14,BNT162b2_BA.4/5,3,Germany,Fig 1
 Muik22c,BNT_BA.1_biva_mice,~,2022-04-01,BNT162b2,1,Germany,Fig 1
 Muik22c,BNT_BA.1_biva_mice,~,2022-04-22,BNT162b2,2,Germany,Fig 1
 Muik22c,BNT_BA.1_biva_mice,~,2022-07-14,BNT162b2_BA.1_bivalent,3,Germany,Fig 1
@@ -27,9 +27,9 @@ Muik22c,BNT_BA.4/5_biva_mice,~,2022-04-22,BNT162b2,2,Germany,Fig 1
 Muik22c,BNT_BA.4/5_biva_mice,~,2022-07-14,BNT162b2_BA.4/5_bivalent,3,Germany,Fig 1
 Muik22c,BNT_2dose_mice,~,2022-07-01,BNT162b2,1,Germany,Fig 1
 Muik22c,BNT_2dose_mice,~,2022-07-22,BNT162b2,2,Germany,Fig 1
-Muik22c,BA.1_2dose_mice,~,2022-07-01,BNT_BA.1,1,Germany,Fig 1
-Muik22c,BA.1_2dose_mice,~,2022-07-22,BNT_BA.1,2,Germany,Fig 1
-Muik22c,BA.4/5_2dose_mice,~,2022-07-01,BNT_BA.4/5,1,Germany,Fig 1
-Muik22c,BA.4/5_2dose_mice,~,2022-07-22,BNT_BA.4/5,2,Germany,Fig 1
+Muik22c,BA.1_2dose_mice,~,2022-07-01,BNT162b2_BA.1,1,Germany,Fig 1
+Muik22c,BA.1_2dose_mice,~,2022-07-22,BNT162b2_BA.1,2,Germany,Fig 1
+Muik22c,BA.4/5_2dose_mice,~,2022-07-01,BNT162b2_BA.4/5,1,Germany,Fig 1
+Muik22c,BA.4/5_2dose_mice,~,2022-07-22,BNT162b2_BA.4/5,2,Germany,Fig 1
 Muik22c,BNT_BA.4/5_2dose_mice,~,2022-07-01,BNT162b2_BA.4/5_bivalent,1,Germany,Fig 1
 Muik22c,BNT_BA.4/5_2dose_mice,~,2022-07-22,BNT162b2_BA.4/5_bivalent,2,Germany,Fig 1

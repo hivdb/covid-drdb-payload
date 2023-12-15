@@ -1,0 +1,589 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Branche23b,Moderna_uninf_prototype_D1,S:614G,Table S6,Pseudovirus,NT50,2228,78,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D1,BA.1 Spike,Table S6,Pseudovirus,NT50,164,78,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D1,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,129,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D1,BA.4/5 Spike,Table S6,Pseudovirus,NT50,94,78,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D1,B.1.351 Spike,Table S6,Pseudovirus,NT50,519,78,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D1,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,1095,78,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D15,S:614G,Table S6,Pseudovirus,NT50,16976,75,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D15,BA.1 Spike,Table S6,Pseudovirus,NT50,1997,75,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D15,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,1588,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D15,BA.4/5 Spike,Table S6,Pseudovirus,NT50,1007,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D15,B.1.351 Spike,Table S6,Pseudovirus,NT50,5982,75,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D15,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,9327,75,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D29,S:614G,Table S6,Pseudovirus,NT50,12600,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D29,BA.1 Spike,Table S6,Pseudovirus,NT50,1343,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D29,BA.4/5 Spike,Table S6,Pseudovirus,NT50,722,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D29,B.1.351 Spike,Table S6,Pseudovirus,NT50,3535,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D29,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,6181,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D91,S:614G,Table S6,Pseudovirus,NT50,7020,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D91,BA.1 Spike,Table S6,Pseudovirus,NT50,583,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D91,BA.4/5 Spike,Table S6,Pseudovirus,NT50,341,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D91,B.1.351 Spike,Table S6,Pseudovirus,NT50,1871,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_D91,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,3090,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D1,S:614G,Table S6,Pseudovirus,NT50,2872,160,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D1,BA.1 Spike,Table S6,Pseudovirus,NT50,199,160,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D1,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,154,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D1,BA.4/5 Spike,Table S6,Pseudovirus,NT50,105,160,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D1,B.1.351 Spike,Table S6,Pseudovirus,NT50,694,160,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D1,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,1354,160,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D15,S:614G,Table S6,Pseudovirus,NT50,16115,157,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D15,BA.1 Spike,Table S6,Pseudovirus,NT50,3742,157,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D15,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,1539,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D15,BA.4/5 Spike,Table S6,Pseudovirus,NT50,1106,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D15,B.1.351 Spike,Table S6,Pseudovirus,NT50,9591,157,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D15,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,9824,157,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D29,S:614G,Table S6,Pseudovirus,NT50,12277,154,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D29,BA.1 Spike,Table S6,Pseudovirus,NT50,2827,154,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D29,BA.4/5 Spike,Table S6,Pseudovirus,NT50,1240,154,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D29,B.1.351 Spike,Table S6,Pseudovirus,NT50,7016,154,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D29,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,7076,154,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D91,S:614G,Table S6,Pseudovirus,NT50,8449,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D91,BA.1 Spike,Table S6,Pseudovirus,NT50,1206,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D91,BA.4/5 Spike,Table S6,Pseudovirus,NT50,629,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D91,B.1.351 Spike,Table S6,Pseudovirus,NT50,3820,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Beta_BA_1_D91,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,4611,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D1,S:614G,Table S6,Pseudovirus,NT50,2812,84,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D1,BA.1 Spike,Table S6,Pseudovirus,NT50,213,84,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D1,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,192,24,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D1,BA.4/5 Spike,Table S6,Pseudovirus,NT50,108,84,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D1,B.1.351 Spike,Table S6,Pseudovirus,NT50,670,84,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D1,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,1403,84,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D15,S:614G,Table S6,Pseudovirus,NT50,21972,83,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D15,BA.1 Spike,Table S6,Pseudovirus,NT50,3808,83,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D15,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,2494,24,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D15,BA.4/5 Spike,Table S6,Pseudovirus,NT50,1584,24,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D15,B.1.351 Spike,Table S6,Pseudovirus,NT50,8608,83,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D15,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,12773,83,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D29,S:614G,Table S6,Pseudovirus,NT50,16001,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D29,BA.1 Spike,Table S6,Pseudovirus,NT50,2684,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D29,BA.4/5 Spike,Table S6,Pseudovirus,NT50,1384,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D29,B.1.351 Spike,Table S6,Pseudovirus,NT50,5783,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D29,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,9342,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D91,S:614G,Table S6,Pseudovirus,NT50,10973,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D91,BA.1 Spike,Table S6,Pseudovirus,NT50,1258,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D91,BA.4/5 Spike,Table S6,Pseudovirus,NT50,680,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D91,B.1.351 Spike,Table S6,Pseudovirus,NT50,3328,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_Delta_BA_1_D91,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,5348,62,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D1,S:614G,Table S6,Pseudovirus,NT50,2853,76,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D1,BA.1 Spike,Table S6,Pseudovirus,NT50,206,76,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D1,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,233,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D1,BA.4/5 Spike,Table S6,Pseudovirus,NT50,118,76,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D1,B.1.351 Spike,Table S6,Pseudovirus,NT50,583,76,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D1,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,1382,76,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D15,S:614G,Table S6,Pseudovirus,NT50,16467,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D15,BA.1 Spike,Table S6,Pseudovirus,NT50,4561,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D15,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,3032,18,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D15,BA.4/5 Spike,Table S6,Pseudovirus,NT50,2036,18,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D15,B.1.351 Spike,Table S6,Pseudovirus,NT50,8642,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D15,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,9490,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D29,S:614G,Table S6,Pseudovirus,NT50,11963,72,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D29,BA.1 Spike,Table S6,Pseudovirus,NT50,3005,72,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D29,BA.4/5 Spike,Table S6,Pseudovirus,NT50,1190,72,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D29,B.1.351 Spike,Table S6,Pseudovirus,NT50,5792,72,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D29,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,6902,72,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D91,S:614G,Table S6,Pseudovirus,NT50,9941,60,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D91,BA.1 Spike,Table S6,Pseudovirus,NT50,1351,60,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D91,BA.4/5 Spike,Table S6,Pseudovirus,NT50,689,60,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D91,B.1.351 Spike,Table S6,Pseudovirus,NT50,4082,60,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_BA_1_D91,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,4842,60,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D1,S:614G,Table S6,Pseudovirus,NT50,2586,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D1,BA.1 Spike,Table S6,Pseudovirus,NT50,225,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D1,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,264,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D1,BA.4/5 Spike,Table S6,Pseudovirus,NT50,103,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D1,B.1.351 Spike,Table S6,Pseudovirus,NT50,640,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D1,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,1289,79,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D15,S:614G,Table S6,Pseudovirus,NT50,21096,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D15,BA.1 Spike,Table S6,Pseudovirus,NT50,3747,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D15,BA.2.12.1 Spike,Table S6,Pseudovirus,NT50,2519,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D15,BA.4/5 Spike,Table S6,Pseudovirus,NT50,1576,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D15,B.1.351 Spike,Table S6,Pseudovirus,NT50,7814,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D15,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,10798,73,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D29,S:614G,Table S6,Pseudovirus,NT50,15635,70,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D29,BA.1 Spike,Table S6,Pseudovirus,NT50,2928,70,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D29,BA.4/5 Spike,Table S6,Pseudovirus,NT50,1322,70,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D29,B.1.351 Spike,Table S6,Pseudovirus,NT50,5744,70,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D29,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,8175,70,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D91,S:614G,Table S6,Pseudovirus,NT50,11775,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D91,BA.1 Spike,Table S6,Pseudovirus,NT50,1652,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D91,BA.4/5 Spike,Table S6,Pseudovirus,NT50,818,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D91,B.1.351 Spike,Table S6,Pseudovirus,NT50,4050,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_D91,B.1.617.2 Spike,Table S6,Pseudovirus,NT50,6143,58,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D1,S:614G,Table S7,Pseudovirus,NT50,13117,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D1,BA.1 Spike,Table S7,Pseudovirus,NT50,1573,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D1,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,1555,3,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D1,BA.4/5 Spike,Table S7,Pseudovirus,NT50,990,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D1,B.1.351 Spike,Table S7,Pseudovirus,NT50,4262,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D1,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,6586,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D15,S:614G,Table S7,Pseudovirus,NT50,44587,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D15,BA.1 Spike,Table S7,Pseudovirus,NT50,7906,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D15,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,6496,3,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D15,BA.4/5 Spike,Table S7,Pseudovirus,NT50,3560,3,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D15,B.1.351 Spike,Table S7,Pseudovirus,NT50,18863,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D15,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,25152,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D29,S:614G,Table S7,Pseudovirus,NT50,31104,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D29,BA.1 Spike,Table S7,Pseudovirus,NT50,4486,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D29,BA.4/5 Spike,Table S7,Pseudovirus,NT50,2997,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D29,B.1.351 Spike,Table S7,Pseudovirus,NT50,10588,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D29,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,15165,21,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D91,S:614G,Table S7,Pseudovirus,NT50,25356,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D91,BA.1 Spike,Table S7,Pseudovirus,NT50,2488,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D91,BA.4/5 Spike,Table S7,Pseudovirus,NT50,2015,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D91,B.1.351 Spike,Table S7,Pseudovirus,NT50,7256,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_D91,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,10795,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D1,S:614G,Table S7,Pseudovirus,NT50,10923,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D1,BA.1 Spike,Table S7,Pseudovirus,NT50,1348,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D1,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,1921,3,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D1,BA.4/5 Spike,Table S7,Pseudovirus,NT50,791,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D1,B.1.351 Spike,Table S7,Pseudovirus,NT50,4327,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D1,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,4819,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D15,S:614G,Table S7,Pseudovirus,NT50,46135,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D15,BA.1 Spike,Table S7,Pseudovirus,NT50,13558,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D15,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,11218,3,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D15,BA.4/5 Spike,Table S7,Pseudovirus,NT50,5825,3,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D15,B.1.351 Spike,Table S7,Pseudovirus,NT50,35903,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D15,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,25847,38,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D29,S:614G,Table S7,Pseudovirus,NT50,31745,37,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D29,BA.1 Spike,Table S7,Pseudovirus,NT50,10055,37,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D29,BA.4/5 Spike,Table S7,Pseudovirus,NT50,5074,37,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D29,B.1.351 Spike,Table S7,Pseudovirus,NT50,22727,37,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D29,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,19793,37,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D91,S:614G,Table S7,Pseudovirus,NT50,33376,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D91,BA.1 Spike,Table S7,Pseudovirus,NT50,9161,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D91,BA.4/5 Spike,Table S7,Pseudovirus,NT50,5401,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D91,B.1.351 Spike,Table S7,Pseudovirus,NT50,20590,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Beta_BA_1_D91,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,20257,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D1,S:614G,Table S7,Pseudovirus,NT50,10999,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D1,BA.1 Spike,Table S7,Pseudovirus,NT50,1032,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D1,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,4099,1,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D1,BA.4/5 Spike,Table S7,Pseudovirus,NT50,813,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D1,B.1.351 Spike,Table S7,Pseudovirus,NT50,3013,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D1,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,5831,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D15,S:614G,Table S7,Pseudovirus,NT50,42845,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D15,BA.1 Spike,Table S7,Pseudovirus,NT50,11385,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D15,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,5252,1,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D15,BA.4/5 Spike,Table S7,Pseudovirus,NT50,3818,1,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D15,B.1.351 Spike,Table S7,Pseudovirus,NT50,21095,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D15,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,29734,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D29,S:614G,Table S7,Pseudovirus,NT50,28982,16,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D29,BA.1 Spike,Table S7,Pseudovirus,NT50,6989,16,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D29,BA.4/5 Spike,Table S7,Pseudovirus,NT50,5355,16,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D29,B.1.351 Spike,Table S7,Pseudovirus,NT50,13357,16,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D29,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,20227,16,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D91,S:614G,Table S7,Pseudovirus,NT50,26513,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D91,BA.1 Spike,Table S7,Pseudovirus,NT50,4358,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D91,BA.4/5 Spike,Table S7,Pseudovirus,NT50,3569,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D91,B.1.351 Spike,Table S7,Pseudovirus,NT50,11861,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_Delta_BA_1_D91,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,14636,15,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D1,S:614G,Table S7,Pseudovirus,NT50,10645,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D1,BA.1 Spike,Table S7,Pseudovirus,NT50,1860,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D1,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,1311,6,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D1,BA.4/5 Spike,Table S7,Pseudovirus,NT50,1031,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D1,B.1.351 Spike,Table S7,Pseudovirus,NT50,4416,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D1,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,5421,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D15,S:614G,Table S7,Pseudovirus,NT50,31039,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D15,BA.1 Spike,Table S7,Pseudovirus,NT50,14441,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D15,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,4294,6,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D15,BA.4/5 Spike,Table S7,Pseudovirus,NT50,2349,6,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D15,B.1.351 Spike,Table S7,Pseudovirus,NT50,25132,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D15,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,21107,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D29,S:614G,Table S7,Pseudovirus,NT50,23170,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D29,BA.1 Spike,Table S7,Pseudovirus,NT50,9359,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D29,BA.4/5 Spike,Table S7,Pseudovirus,NT50,3691,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D29,B.1.351 Spike,Table S7,Pseudovirus,NT50,16174,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D29,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,13243,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D91,S:614G,Table S7,Pseudovirus,NT50,23587,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D91,BA.1 Spike,Table S7,Pseudovirus,NT50,5499,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D91,BA.4/5 Spike,Table S7,Pseudovirus,NT50,2923,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D91,B.1.351 Spike,Table S7,Pseudovirus,NT50,14719,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_BA_1_D91,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,12555,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D1,S:614G,Table S7,Pseudovirus,NT50,10902,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D1,BA.1 Spike,Table S7,Pseudovirus,NT50,1763,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D1,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,7716,2,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D1,BA.4/5 Spike,Table S7,Pseudovirus,NT50,1111,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D1,B.1.351 Spike,Table S7,Pseudovirus,NT50,4165,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D1,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,5370,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D15,S:614G,Table S7,Pseudovirus,NT50,57011,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D15,BA.1 Spike,Table S7,Pseudovirus,NT50,19160,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D15,BA.2.12.1 Spike,Table S7,Pseudovirus,NT50,21146,2,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D15,BA.4/5 Spike,Table S7,Pseudovirus,NT50,13507,2,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D15,B.1.351 Spike,Table S7,Pseudovirus,NT50,34324,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D15,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,33893,20,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D29,S:614G,Table S7,Pseudovirus,NT50,37270,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D29,BA.1 Spike,Table S7,Pseudovirus,NT50,9201,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D29,BA.4/5 Spike,Table S7,Pseudovirus,NT50,4419,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D29,B.1.351 Spike,Table S7,Pseudovirus,NT50,16575,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D29,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,23677,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D91,S:614G,Table S7,Pseudovirus,NT50,34868,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D91,BA.1 Spike,Table S7,Pseudovirus,NT50,7026,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D91,BA.4/5 Spike,Table S7,Pseudovirus,NT50,4146,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D91,B.1.351 Spike,Table S7,Pseudovirus,NT50,18303,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_inf_prototype_BA_1_D91,B.1.617.2 Spike,Table S7,Pseudovirus,NT50,18987,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D1,S:614G,Table S8,Pseudovirus,NT50,2195,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D1,BA.1 Spike,Table S8,Pseudovirus,NT50,137,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D1,BA.4/5 Spike,Table S8,Pseudovirus,NT50,81,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D1,B.1.351 Spike,Table S8,Pseudovirus,NT50,452,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D1,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,995,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D15,S:614G,Table S8,Pseudovirus,NT50,14381,30,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D15,BA.1 Spike,Table S8,Pseudovirus,NT50,1428,30,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D15,B.1.351 Spike,Table S8,Pseudovirus,NT50,4410,30,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D15,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,6883,30,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D29,S:614G,Table S8,Pseudovirus,NT50,11600,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D29,BA.1 Spike,Table S8,Pseudovirus,NT50,888,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D29,BA.4/5 Spike,Table S8,Pseudovirus,NT50,485,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D29,B.1.351 Spike,Table S8,Pseudovirus,NT50,3313,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D29,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,5890,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D91,S:614G,Table S8,Pseudovirus,NT50,5086,23,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D91,BA.1 Spike,Table S8,Pseudovirus,NT50,439,23,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D91,BA.4/5 Spike,Table S8,Pseudovirus,NT50,230,23,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D91,B.1.351 Spike,Table S8,Pseudovirus,NT50,1098,23,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_D91,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,2520,23,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D1,S:614G,Table S8,Pseudovirus,NT50,2246,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D1,BA.1 Spike,Table S8,Pseudovirus,NT50,128,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D1,BA.4/5 Spike,Table S8,Pseudovirus,NT50,67,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D1,B.1.351 Spike,Table S8,Pseudovirus,NT50,502,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D1,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,966,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D15,S:614G,Table S8,Pseudovirus,NT50,12810,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D15,BA.1 Spike,Table S8,Pseudovirus,NT50,2574,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D15,B.1.351 Spike,Table S8,Pseudovirus,NT50,6363,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D15,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,6852,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D29,S:614G,Table S8,Pseudovirus,NT50,12284,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D29,BA.1 Spike,Table S8,Pseudovirus,NT50,1653,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D29,BA.4/5 Spike,Table S8,Pseudovirus,NT50,839,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D29,B.1.351 Spike,Table S8,Pseudovirus,NT50,6071,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D29,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,6492,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D91,S:614G,Table S8,Pseudovirus,NT50,4652,26,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D91,BA.1 Spike,Table S8,Pseudovirus,NT50,881,26,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D91,BA.4/5 Spike,Table S8,Pseudovirus,NT50,447,26,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D91,B.1.351 Spike,Table S8,Pseudovirus,NT50,2117,26,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_BA_1_D91,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,2535,26,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D1,S:614G,Table S8,Pseudovirus,NT50,2533,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D1,BA.1 Spike,Table S8,Pseudovirus,NT50,162,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D1,BA.4/5 Spike,Table S8,Pseudovirus,NT50,86,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D1,B.1.351 Spike,Table S8,Pseudovirus,NT50,489,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D1,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,1090,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D15,S:614G,Table S8,Pseudovirus,NT50,12646,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D15,BA.1 Spike,Table S8,Pseudovirus,NT50,3429,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D15,B.1.351 Spike,Table S8,Pseudovirus,NT50,6873,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D15,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,6835,34,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D29,S:614G,Table S8,Pseudovirus,NT50,10951,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D29,BA.1 Spike,Table S8,Pseudovirus,NT50,2480,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D29,BA.4/5 Spike,Table S8,Pseudovirus,NT50,1054,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D29,B.1.351 Spike,Table S8,Pseudovirus,NT50,6253,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D29,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,6002,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D91,S:614G,Table S8,Pseudovirus,NT50,4860,27,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D91,BA.1 Spike,Table S8,Pseudovirus,NT50,1494,27,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D91,BA.4/5 Spike,Table S8,Pseudovirus,NT50,513,27,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D91,B.1.351 Spike,Table S8,Pseudovirus,NT50,2178,27,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_BA_1_D91,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,2783,27,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D1,S:614G,Table S8,Pseudovirus,NT50,2231,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D1,BA.1 Spike,Table S8,Pseudovirus,NT50,122,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D1,BA.4/5 Spike,Table S8,Pseudovirus,NT50,77,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D1,B.1.351 Spike,Table S8,Pseudovirus,NT50,502,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D1,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,1015,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D15,S:614G,Table S8,Pseudovirus,NT50,13936,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D15,BA.1 Spike,Table S8,Pseudovirus,NT50,2198,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D15,BA.4/5 Spike,Table S8,Pseudovirus,NT50,169,1,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D15,B.1.351 Spike,Table S8,Pseudovirus,NT50,7226,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D15,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,6636,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D29,S:614G,Table S8,Pseudovirus,NT50,11335,31,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D29,BA.1 Spike,Table S8,Pseudovirus,NT50,1411,31,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D29,BA.4/5 Spike,Table S8,Pseudovirus,NT50,914,31,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D29,B.1.351 Spike,Table S8,Pseudovirus,NT50,6247,31,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D29,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,6355,31,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D91,S:614G,Table S8,Pseudovirus,NT50,4283,25,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D91,BA.1 Spike,Table S8,Pseudovirus,NT50,717,25,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D91,BA.4/5 Spike,Table S8,Pseudovirus,NT50,309,25,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D91,B.1.351 Spike,Table S8,Pseudovirus,NT50,2057,25,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_Beta_D91,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,2244,25,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D1,S:614G,Table S8,Pseudovirus,NT50,2088,37,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D1,BA.1 Spike,Table S8,Pseudovirus,NT50,174,37,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D1,BA.4/5 Spike,Table S8,Pseudovirus,NT50,71,37,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D1,B.1.351 Spike,Table S8,Pseudovirus,NT50,653,37,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D1,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,1400,37,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D15,S:614G,Table S8,Pseudovirus,NT50,18958,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D15,BA.1 Spike,Table S8,Pseudovirus,NT50,2445,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D15,B.1.351 Spike,Table S8,Pseudovirus,NT50,7324,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D15,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,9779,36,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D29,S:614G,Table S8,Pseudovirus,NT50,15659,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D29,BA.1 Spike,Table S8,Pseudovirus,NT50,1635,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D29,BA.4/5 Spike,Table S8,Pseudovirus,NT50,959,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D29,B.1.351 Spike,Table S8,Pseudovirus,NT50,6018,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D29,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,8335,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D91,S:614G,Table S8,Pseudovirus,NT50,6546,29,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D91,BA.1 Spike,Table S8,Pseudovirus,NT50,918,29,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D91,BA.4/5 Spike,Table S8,Pseudovirus,NT50,434,29,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D91,B.1.351 Spike,Table S8,Pseudovirus,NT50,2486,29,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_Beta_D91,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,3477,29,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D1,S:614G,Table S8,Pseudovirus,NT50,2572,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D1,BA.1 Spike,Table S8,Pseudovirus,NT50,131,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D1,BA.4/5 Spike,Table S8,Pseudovirus,NT50,84,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D1,B.1.351 Spike,Table S8,Pseudovirus,NT50,454,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D1,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,1041,35,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D15,S:614G,Table S8,Pseudovirus,NT50,22430,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D15,BA.1 Spike,Table S8,Pseudovirus,NT50,3764,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D15,B.1.351 Spike,Table S8,Pseudovirus,NT50,7826,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D15,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,9992,33,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D29,S:614G,Table S8,Pseudovirus,NT50,18093,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D29,BA.1 Spike,Table S8,Pseudovirus,NT50,2171,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D29,BA.4/5 Spike,Table S8,Pseudovirus,NT50,984,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D29,B.1.351 Spike,Table S8,Pseudovirus,NT50,5664,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D29,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,8721,32,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D91,S:614G,Table S8,Pseudovirus,NT50,7140,28,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D91,BA.1 Spike,Table S8,Pseudovirus,NT50,1201,28,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D91,BA.4/5 Spike,Table S8,Pseudovirus,NT50,565,28,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D91,B.1.351 Spike,Table S8,Pseudovirus,NT50,2378,28,100000,10,NULL,2023-12-14
+Branche23b,BNT_uninf_prototype_BA_1_D91,B.1.617.2 Spike,Table S8,Pseudovirus,NT50,3807,28,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D1,S:614G,Table S9,Pseudovirus,NT50,20596,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D1,BA.1 Spike,Table S9,Pseudovirus,NT50,3428,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D1,BA.4/5 Spike,Table S9,Pseudovirus,NT50,1276,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D1,B.1.351 Spike,Table S9,Pseudovirus,NT50,7981,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D1,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,10635,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D15,S:614G,Table S9,Pseudovirus,NT50,44093,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D15,BA.1 Spike,Table S9,Pseudovirus,NT50,7996,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D15,B.1.351 Spike,Table S9,Pseudovirus,NT50,19945,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D15,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,24333,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D29,S:614G,Table S9,Pseudovirus,NT50,31701,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D29,BA.1 Spike,Table S9,Pseudovirus,NT50,4860,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D29,BA.4/5 Spike,Table S9,Pseudovirus,NT50,2621,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D29,B.1.351 Spike,Table S9,Pseudovirus,NT50,12601,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D29,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,16637,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D91,S:614G,Table S9,Pseudovirus,NT50,13278,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D91,BA.1 Spike,Table S9,Pseudovirus,NT50,2804,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D91,BA.4/5 Spike,Table S9,Pseudovirus,NT50,1692,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D91,B.1.351 Spike,Table S9,Pseudovirus,NT50,4948,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_D91,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,7594,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D1,S:614G,Table S9,Pseudovirus,NT50,9650,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D1,BA.1 Spike,Table S9,Pseudovirus,NT50,1599,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D1,BA.4/5 Spike,Table S9,Pseudovirus,NT50,755,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D1,B.1.351 Spike,Table S9,Pseudovirus,NT50,4310,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D1,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,5412,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D15,S:614G,Table S9,Pseudovirus,NT50,21357,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D15,BA.1 Spike,Table S9,Pseudovirus,NT50,8466,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D15,B.1.351 Spike,Table S9,Pseudovirus,NT50,15883,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D15,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,14547,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D29,S:614G,Table S9,Pseudovirus,NT50,24962,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D29,BA.1 Spike,Table S9,Pseudovirus,NT50,5684,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D29,BA.4/5 Spike,Table S9,Pseudovirus,NT50,2743,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D29,B.1.351 Spike,Table S9,Pseudovirus,NT50,12711,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D29,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,16584,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D91,S:614G,Table S9,Pseudovirus,NT50,8895,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D91,BA.1 Spike,Table S9,Pseudovirus,NT50,3672,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D91,BA.4/5 Spike,Table S9,Pseudovirus,NT50,1825,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D91,B.1.351 Spike,Table S9,Pseudovirus,NT50,5514,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_BA_1_D91,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,5826,17,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D1,S:614G,Table S9,Pseudovirus,NT50,9839,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D1,BA.1 Spike,Table S9,Pseudovirus,NT50,1372,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D1,BA.4/5 Spike,Table S9,Pseudovirus,NT50,833,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D1,B.1.351 Spike,Table S9,Pseudovirus,NT50,3284,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D1,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,4713,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D15,S:614G,Table S9,Pseudovirus,NT50,25267,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D15,BA.1 Spike,Table S9,Pseudovirus,NT50,9261,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D15,B.1.351 Spike,Table S9,Pseudovirus,NT50,14772,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D15,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,14154,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D29,S:614G,Table S9,Pseudovirus,NT50,29365,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D29,BA.1 Spike,Table S9,Pseudovirus,NT50,8787,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D29,BA.4/5 Spike,Table S9,Pseudovirus,NT50,4356,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D29,B.1.351 Spike,Table S9,Pseudovirus,NT50,16215,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D29,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,16722,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D91,S:614G,Table S9,Pseudovirus,NT50,13261,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D91,BA.1 Spike,Table S9,Pseudovirus,NT50,5702,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D91,BA.4/5 Spike,Table S9,Pseudovirus,NT50,2653,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D91,B.1.351 Spike,Table S9,Pseudovirus,NT50,7011,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_BA_1_D91,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,7475,16,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D1,S:614G,Table S9,Pseudovirus,NT50,9262,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D1,BA.1 Spike,Table S9,Pseudovirus,NT50,1178,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D1,BA.4/5 Spike,Table S9,Pseudovirus,NT50,502,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D1,B.1.351 Spike,Table S9,Pseudovirus,NT50,3308,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D1,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,5554,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D15,S:614G,Table S9,Pseudovirus,NT50,30370,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D15,BA.1 Spike,Table S9,Pseudovirus,NT50,6415,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D15,B.1.351 Spike,Table S9,Pseudovirus,NT50,18833,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D15,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,17162,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D29,S:614G,Table S9,Pseudovirus,NT50,22096,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D29,BA.1 Spike,Table S9,Pseudovirus,NT50,4232,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D29,BA.4/5 Spike,Table S9,Pseudovirus,NT50,2334,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D29,B.1.351 Spike,Table S9,Pseudovirus,NT50,13736,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D29,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,13432,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D91,S:614G,Table S9,Pseudovirus,NT50,11035,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D91,BA.1 Spike,Table S9,Pseudovirus,NT50,2459,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D91,BA.4/5 Spike,Table S9,Pseudovirus,NT50,1496,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D91,B.1.351 Spike,Table S9,Pseudovirus,NT50,6071,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_Beta_D91,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,6510,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D1,S:614G,Table S9,Pseudovirus,NT50,10732,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D1,BA.1 Spike,Table S9,Pseudovirus,NT50,2183,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D1,BA.4/5 Spike,Table S9,Pseudovirus,NT50,966,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D1,B.1.351 Spike,Table S9,Pseudovirus,NT50,5119,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D1,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,7062,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D15,S:614G,Table S9,Pseudovirus,NT50,33730,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D15,BA.1 Spike,Table S9,Pseudovirus,NT50,8860,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D15,B.1.351 Spike,Table S9,Pseudovirus,NT50,20415,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D15,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,19638,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D29,S:614G,Table S9,Pseudovirus,NT50,30962,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D29,BA.1 Spike,Table S9,Pseudovirus,NT50,6499,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D29,BA.4/5 Spike,Table S9,Pseudovirus,NT50,3448,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D29,B.1.351 Spike,Table S9,Pseudovirus,NT50,14002,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D29,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,17177,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D91,S:614G,Table S9,Pseudovirus,NT50,12922,14,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D91,BA.1 Spike,Table S9,Pseudovirus,NT50,3808,14,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D91,BA.4/5 Spike,Table S9,Pseudovirus,NT50,2052,14,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D91,B.1.351 Spike,Table S9,Pseudovirus,NT50,7055,14,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_Beta_D91,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,8180,14,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D1,S:614G,Table S9,Pseudovirus,NT50,15053,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D1,BA.1 Spike,Table S9,Pseudovirus,NT50,2295,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D1,BA.4/5 Spike,Table S9,Pseudovirus,NT50,838,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D1,B.1.351 Spike,Table S9,Pseudovirus,NT50,5585,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D1,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,7463,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D15,S:614G,Table S9,Pseudovirus,NT50,39480,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D15,BA.1 Spike,Table S9,Pseudovirus,NT50,10593,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D15,B.1.351 Spike,Table S9,Pseudovirus,NT50,20903,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D15,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,21511,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D29,S:614G,Table S9,Pseudovirus,NT50,36133,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D29,BA.1 Spike,Table S9,Pseudovirus,NT50,6456,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D29,BA.4/5 Spike,Table S9,Pseudovirus,NT50,3651,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D29,B.1.351 Spike,Table S9,Pseudovirus,NT50,18712,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D29,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,18391,18,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D91,S:614G,Table S9,Pseudovirus,NT50,15647,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D91,BA.1 Spike,Table S9,Pseudovirus,NT50,6678,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D91,BA.4/5 Spike,Table S9,Pseudovirus,NT50,2473,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D91,B.1.351 Spike,Table S9,Pseudovirus,NT50,7752,15,100000,10,NULL,2023-12-14
+Branche23b,BNT_inf_prototype_BA_1_D91,B.1.617.2 Spike,Table S9,Pseudovirus,NT50,8679,15,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D1,S:614G,Table S10,Pseudovirus,NT50,2438,27,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D1,BA.1 Spike,Table S10,Pseudovirus,NT50,116,27,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D1,BA.4/5 Spike,Table S10,Pseudovirus,NT50,69,27,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D1,B.1.351 Spike,Table S10,Pseudovirus,NT50,484,27,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D1,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,1236,27,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D29,S:614G,Table S10,Pseudovirus,NT50,6942,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D29,BA.1 Spike,Table S10,Pseudovirus,NT50,667,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D29,BA.4/5 Spike,Table S10,Pseudovirus,NT50,525,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D29,B.1.351 Spike,Table S10,Pseudovirus,NT50,2437,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D29,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,3739,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D91,S:614G,Table S10,Pseudovirus,NT50,6062,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D91,BA.1 Spike,Table S10,Pseudovirus,NT50,462,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D91,BA.4/5 Spike,Table S10,Pseudovirus,NT50,282,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D91,B.1.351 Spike,Table S10,Pseudovirus,NT50,1723,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_D91,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,2834,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D1,S:614G,Table S10,Pseudovirus,NT50,1587,31,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D1,BA.1 Spike,Table S10,Pseudovirus,NT50,107,31,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D1,BA.4/5 Spike,Table S10,Pseudovirus,NT50,73,31,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D1,B.1.351 Spike,Table S10,Pseudovirus,NT50,355,31,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D1,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,756,31,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D29,S:614G,Table S10,Pseudovirus,NT50,9384,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D29,BA.1 Spike,Table S10,Pseudovirus,NT50,1169,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D29,BA.4/5 Spike,Table S10,Pseudovirus,NT50,681,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D29,B.1.351 Spike,Table S10,Pseudovirus,NT50,5173,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D29,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,5670,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D91,S:614G,Table S10,Pseudovirus,NT50,8078,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D91,BA.1 Spike,Table S10,Pseudovirus,NT50,604,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D91,BA.4/5 Spike,Table S10,Pseudovirus,NT50,426,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D91,B.1.351 Spike,Table S10,Pseudovirus,NT50,3551,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_Beta_D91,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,4320,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D1,S:614G,Table S10,Pseudovirus,NT50,2839,32,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D1,BA.1 Spike,Table S10,Pseudovirus,NT50,171,32,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D1,BA.4/5 Spike,Table S10,Pseudovirus,NT50,106,32,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D1,B.1.351 Spike,Table S10,Pseudovirus,NT50,751,32,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D1,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,1436,32,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D29,S:614G,Table S10,Pseudovirus,NT50,11726,30,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D29,BA.1 Spike,Table S10,Pseudovirus,NT50,1391,30,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D29,BA.4/5 Spike,Table S10,Pseudovirus,NT50,1224,30,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D29,B.1.351 Spike,Table S10,Pseudovirus,NT50,6785,30,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D29,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,6996,30,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D91,S:614G,Table S10,Pseudovirus,NT50,7914,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D91,BA.1 Spike,Table S10,Pseudovirus,NT50,867,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D91,BA.4/5 Spike,Table S10,Pseudovirus,NT50,680,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D91,B.1.351 Spike,Table S10,Pseudovirus,NT50,3665,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_uninf_prototype_Beta_D91,B.1.617.2 Spike,Table S10,Pseudovirus,NT50,4382,25,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D1,S:614G,Table S11,Pseudovirus,NT50,13696,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D1,BA.1 Spike,Table S11,Pseudovirus,NT50,2086,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D1,BA.4/5 Spike,Table S11,Pseudovirus,NT50,1410,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D1,B.1.351 Spike,Table S11,Pseudovirus,NT50,5912,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D1,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,7160,22,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D29,S:614G,Table S11,Pseudovirus,NT50,19141,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D29,BA.1 Spike,Table S11,Pseudovirus,NT50,2756,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D29,BA.4/5 Spike,Table S11,Pseudovirus,NT50,2389,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D29,B.1.351 Spike,Table S11,Pseudovirus,NT50,8448,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D29,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,10781,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D91,S:614G,Table S11,Pseudovirus,NT50,17078,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D91,BA.1 Spike,Table S11,Pseudovirus,NT50,2396,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D91,BA.4/5 Spike,Table S11,Pseudovirus,NT50,1588,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D91,B.1.351 Spike,Table S11,Pseudovirus,NT50,7972,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_D91,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,8400,21,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D1,S:614G,Table S11,Pseudovirus,NT50,11815,19,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D1,BA.1 Spike,Table S11,Pseudovirus,NT50,1439,19,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D1,BA.4/5 Spike,Table S11,Pseudovirus,NT50,885,19,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D1,B.1.351 Spike,Table S11,Pseudovirus,NT50,3595,19,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D1,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,6648,19,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D29,S:614G,Table S11,Pseudovirus,NT50,23922,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D29,BA.1 Spike,Table S11,Pseudovirus,NT50,6302,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D29,BA.4/5 Spike,Table S11,Pseudovirus,NT50,2716,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D29,B.1.351 Spike,Table S11,Pseudovirus,NT50,15773,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D29,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,16500,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D91,S:614G,Table S11,Pseudovirus,NT50,16501,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D91,BA.1 Spike,Table S11,Pseudovirus,NT50,4254,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D91,BA.4/5 Spike,Table S11,Pseudovirus,NT50,2163,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D91,B.1.351 Spike,Table S11,Pseudovirus,NT50,11453,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_Beta_D91,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,10337,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D1,S:614G,Table S11,Pseudovirus,NT50,15252,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D1,BA.1 Spike,Table S11,Pseudovirus,NT50,1243,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D1,BA.4/5 Spike,Table S11,Pseudovirus,NT50,1033,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D1,B.1.351 Spike,Table S11,Pseudovirus,NT50,4988,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D1,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,6034,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D29,S:614G,Table S11,Pseudovirus,NT50,19765,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D29,BA.1 Spike,Table S11,Pseudovirus,NT50,2585,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D29,BA.4/5 Spike,Table S11,Pseudovirus,NT50,1760,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D29,B.1.351 Spike,Table S11,Pseudovirus,NT50,9961,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D29,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,12004,20,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D91,S:614G,Table S11,Pseudovirus,NT50,16653,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D91,BA.1 Spike,Table S11,Pseudovirus,NT50,1995,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D91,BA.4/5 Spike,Table S11,Pseudovirus,NT50,1626,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D91,B.1.351 Spike,Table S11,Pseudovirus,NT50,8604,18,100000,10,NULL,2023-12-14
+Branche23b,Sanofi_inf_prototype_Beta_D91,B.1.617.2 Spike,Table S11,Pseudovirus,NT50,8894,18,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day1,S:614G,Table S12,Pseudovirus,NT50,48,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day1,BA.1 Spike,Table S12,Pseudovirus,NT50,86,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day1,BA.2.12.1 Spike,Table S12,Pseudovirus,NT50,66,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day1,BA.4/5 Spike,Table S12,Pseudovirus,NT50,75,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,S:614G,Table S12,Pseudovirus,NT50,3248,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,BA.1 Spike,Table S12,Pseudovirus,NT50,1488,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,BA.2.12.1 Spike,Table S12,Pseudovirus,NT50,929,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,BA.4/5 Spike,Table S12,Pseudovirus,NT50,541,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,BA.2.75 Spike,Table S12,Pseudovirus,NT50,994,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,BA.4.6 Spike,Table S12,Pseudovirus,NT50,382,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,BF.7 Spike,Table S12,Pseudovirus,NT50,332,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,BA.2.75.2 Spike,Table S12,Pseudovirus,NT50,159,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,BQ.1.1 Spike,Table S12,Pseudovirus,NT50,115,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day15,XBB.1 Spike,Table S12,Pseudovirus,NT50,75,22,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,S:614G,Table S12,Pseudovirus,NT50,1812,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,BA.1 Spike,Table S12,Pseudovirus,NT50,722,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,BA.2.12.1 Spike,Table S12,Pseudovirus,NT50,312,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,BA.4/5 Spike,Table S12,Pseudovirus,NT50,262,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,BA.2.75 Spike,Table S12,Pseudovirus,NT50,484,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,BA.4.6 Spike,Table S12,Pseudovirus,NT50,146,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,BF.7 Spike,Table S12,Pseudovirus,NT50,103,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,BA.2.75.2 Spike,Table S12,Pseudovirus,NT50,58,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,BQ.1.1 Spike,Table S12,Pseudovirus,NT50,42,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_Day91,XBB.1 Spike,Table S12,Pseudovirus,NT50,29,17,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day1,S:614G,Table S12,Pseudovirus,NT50,1014,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day1,BA.1 Spike,Table S12,Pseudovirus,NT50,132,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day1,BA.2.12.1 Spike,Table S12,Pseudovirus,NT50,106,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day1,BA.4/5 Spike,Table S12,Pseudovirus,NT50,114,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day1,BA.2.75 Spike,Table S12,Pseudovirus,NT50,180,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,S:614G,Table S12,Pseudovirus,NT50,3948,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,BA.1 Spike,Table S12,Pseudovirus,NT50,2125,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,BA.2.12.1 Spike,Table S12,Pseudovirus,NT50,1502,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,BA.4/5 Spike,Table S12,Pseudovirus,NT50,716,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,BA.2.75 Spike,Table S12,Pseudovirus,NT50,1805,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,BA.4.6 Spike,Table S12,Pseudovirus,NT50,734,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,BF.7 Spike,Table S12,Pseudovirus,NT50,563,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,BA.2.75.2 Spike,Table S12,Pseudovirus,NT50,213,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,BQ.1.1 Spike,Table S12,Pseudovirus,NT50,194,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day15,XBB.1 Spike,Table S12,Pseudovirus,NT50,104,23,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,S:614G,Table S12,Pseudovirus,NT50,3216,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,BA.1 Spike,Table S12,Pseudovirus,NT50,1005,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,BA.2.12.1 Spike,Table S12,Pseudovirus,NT50,688,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,BA.4/5 Spike,Table S12,Pseudovirus,NT50,532,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,BA.2.75 Spike,Table S12,Pseudovirus,NT50,904,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,BA.4.6 Spike,Table S12,Pseudovirus,NT50,428,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,BF.7 Spike,Table S12,Pseudovirus,NT50,262,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,BA.2.75.2 Spike,Table S12,Pseudovirus,NT50,100,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,BQ.1.1 Spike,Table S12,Pseudovirus,NT50,108,19,100000,10,NULL,2023-12-14
+Branche23b,Moderna_uninf_prototype_BA_1_Day29,XBB.1 Spike,Table S12,Pseudovirus,NT50,63,19,100000,10,NULL,2023-12-14
