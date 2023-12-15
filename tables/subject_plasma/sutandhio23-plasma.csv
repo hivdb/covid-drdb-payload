@@ -1,7 +1,7 @@
 ref_name,subject_name,rx_name,collection_date_cmp,collection_date,location,cumulative_group,section
-Sutandhio23,VP_3dose_under_90,VP_3dose_under_90,~,2022-05-20,Japan,VP_3dose_under_90,
-Sutandhio23,VP_4dose_under_90,VP_4dose_under_90,~,2022-10-06,Japan,VP_4dose_under_90,
-Sutandhio23,VP_3dose_above_90,VP_3dose_above_90,~,2022-05-20,Japan,VP_3dose_above_90,
-Sutandhio23,VP_4dose_above_90,VP_4dose_above_90,~,2022-10-06,Japan,VP_4dose_above_90,
-Sutandhio23,Inf_3dose,Inf_3dose,~,2022-05-20,Japan,Inf_3dose,
-Sutandhio23,Inf_4dose,Inf_4dose,~,2022-10-06,Japan,Inf_4dose,
+Sutandhio23,VP_3dose_under_90,VP_3dose_under_90,~,2022-05-20,Japan,VP_3dose_under_90,Text
+Sutandhio23,VP_4dose_under_90,VP_4dose_under_90,~,2022-10-06,Japan,VP_4dose_under_90,Text
+Sutandhio23,VP_3dose_above_90,VP_3dose_above_90,~,2022-05-20,Japan,VP_3dose_above_90,Text
+Sutandhio23,VP_4dose_above_90,VP_4dose_above_90,~,2022-10-06,Japan,VP_4dose_above_90,Text
+Sutandhio23,Inf_3dose,Inf_3dose,~,2022-05-20,Japan,Inf_3dose,Text
+Sutandhio23,Inf_4dose,Inf_4dose,~,2022-10-06,Japan,Inf_4dose,Text
