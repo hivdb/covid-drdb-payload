@@ -1,0 +1,7 @@
+﻿ref_name,subject_name,vaccination_date_cmp,vaccination_date,vaccine_name,dosage,location,section
+Sutandhio23,VP_3dose_under_90,~,2022-02-06,BNT162b2,3,Japan,Text
+Sutandhio23,VP_4dose_under_90,~,2022-08-18,mRNA-1273,4,Japan,Text
+Sutandhio23,VP_3dose_above_90,~,2022-02-06,BNT162b2,3,Japan,Text
+Sutandhio23,VP_4dose_above_90,~,2022-08-18,mRNA-1273,4,Japan,Text
+Sutandhio23,Inf_3dose,~,2022-02-06,BNT162b2,3,Japan,Text
+Sutandhio23,Inf_4dose,~,2022-08-18,mRNA-1273,4,Japan,Text
