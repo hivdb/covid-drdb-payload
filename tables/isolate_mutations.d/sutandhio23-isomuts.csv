@@ -1,4 +1,4 @@
-iso_name,gene,position,amino_acid,count,total
+﻿iso_name,gene,position,amino_acid,count,total
 hCoV-19/Japan/TY41-795-P1/2022,nsp1,47,R,NULL,NULL
 hCoV-19/Japan/TY41-795-P1/2022,nsp1,135,R,NULL,NULL
 hCoV-19/Japan/TY41-795-P1/2022,PLpro,24,I,NULL,NULL
@@ -7,7 +7,7 @@ hCoV-19/Japan/TY41-795-P1/2022,nsp4,264,F,NULL,NULL
 hCoV-19/Japan/TY41-795-P1/2022,nsp4,327,I,NULL,NULL
 hCoV-19/Japan/TY41-795-P1/2022,nsp4,438,F,NULL,NULL
 hCoV-19/Japan/TY41-795-P1/2022,nsp4,492,I,NULL,NULL
-hCoV-19/Japan/TY41-795-P1/2022,3CLpro,132,H,NULL,NULL
+hCoV-19/Japan/TY41-795-P1/2022,_3CLpro,132,H,NULL,NULL
 hCoV-19/Japan/TY41-795-P1/2022,nsp6,106,del,NULL,NULL
 hCoV-19/Japan/TY41-795-P1/2022,nsp6,107,del,NULL,NULL
 hCoV-19/Japan/TY41-795-P1/2022,nsp6,108,del,NULL,NULL

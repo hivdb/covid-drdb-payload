@@ -4412,6 +4412,12 @@ Suryawanshi22,CP_mice_WA1,Mouse,NULL,5
 Suryawanshi22,VP_Boost,Human,1969,5
 Suryawanshi22,VP_Delta,Human,1956,7
 Suryawanshi22,VP_Omicron,Human,1976,8
+Sutandhio23,Inf_3dose,Human,NULL,1
+Sutandhio23,Inf_4dose,Human,NULL,1
+Sutandhio23,VP_3dose_above_90,Human,NULL,1
+Sutandhio23,VP_3dose_under_90,Human,NULL,1
+Sutandhio23,VP_4dose_above_90,Human,NULL,1
+Sutandhio23,VP_4dose_under_90,Human,NULL,1
 Suthar21,BNT,Human,NULL,56
 Syed21,Ad26.COV2.S,Human,NULL,9
 Syed21,BNT162b2,Human,NULL,11
