@@ -1,8 +1,8 @@
 ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
-Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25N,Figure 3D,Pseudovirus (VSV),IC50,=,12.58,NULL,NULL,1,2023-12-19
+Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25A,Figure 3D,Pseudovirus (VSV),IC50,=,12.58,NULL,NULL,1,2023-12-19
 Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25N,Figure 3D,Pseudovirus (VSV),IC50,=,0.79,NULL,NULL,1,2023-12-19
 Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,MERS-CoV 3CLpro,Figure 3D,Pseudovirus (VSV),IC50,=,11.9,NULL,NULL,1,2023-12-19
-Krismer23,Ensitrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25N,Figure 3D,Pseudovirus (VSV),IC50,=,87.66,NULL,NULL,1,2023-12-19
+Krismer23,Ensitrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25A,Figure 3D,Pseudovirus (VSV),IC50,=,87.66,NULL,NULL,1,2023-12-19
 Krismer23,Ensitrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25N,Figure 3D,Pseudovirus (VSV),IC50,=,22.94,NULL,NULL,1,2023-12-19
 Krismer23,Ensitrelvir,Wuhan-Hu-1 3CLpro,MERS-CoV 3CLpro,Figure 3D,Pseudovirus (VSV),IC50,=,114.6,NULL,NULL,1,2023-12-19
 Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,3CLPro:T25M,Figure 4A,Pseudovirus (VSV),IC50,=,1.73,NULL,NULL,1,2023-12-19
