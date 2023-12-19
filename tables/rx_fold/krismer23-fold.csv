@@ -1,0 +1,19 @@
+ref_name,rx_name,control_iso_name,iso_name,section,assay_name,potency_type,fold_cmp,fold,resistance_level,ineffective,cumulative_count,date_added
+Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25N,Figure 3D,Pseudovirus (VSV),IC50,=,12.58,NULL,NULL,1,2023-12-19
+Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25N,Figure 3D,Pseudovirus (VSV),IC50,=,0.79,NULL,NULL,1,2023-12-19
+Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,MERS-CoV 3CLpro,Figure 3D,Pseudovirus (VSV),IC50,=,11.9,NULL,NULL,1,2023-12-19
+Krismer23,Ensitrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25N,Figure 3D,Pseudovirus (VSV),IC50,=,87.66,NULL,NULL,1,2023-12-19
+Krismer23,Ensitrelvir,Wuhan-Hu-1 3CLpro,3CLpro:T25N,Figure 3D,Pseudovirus (VSV),IC50,=,22.94,NULL,NULL,1,2023-12-19
+Krismer23,Ensitrelvir,Wuhan-Hu-1 3CLpro,MERS-CoV 3CLpro,Figure 3D,Pseudovirus (VSV),IC50,=,114.6,NULL,NULL,1,2023-12-19
+Krismer23,Nirmatrelvir,Wuhan-Hu-1 3CLpro,3CLPro:T25M,Figure 4A,Pseudovirus (VSV),IC50,=,1.73,NULL,NULL,1,2023-12-19
+Krismer23,Ensitrelvir,Wuhan-Hu-1 3CLpro,3CLPro:T25M,Figure 4A,Pseudovirus (VSV),IC50,=,1.64,NULL,NULL,1,2023-12-19
+Krismer23,Nirmatrelvir,MERS-CoV 3CLpro,MERS-CoV 3CLpro:M25T,Figure 4B,Pseudovirus (VSV),IC50,=,0.1,NULL,NULL,1,2023-12-19
+Krismer23,Ensitrelvir,MERS-CoV 3CLpro,MERS-CoV 3CLpro:M25T,Figure 4B,Pseudovirus (VSV),IC50,=,5.9,NULL,NULL,1,2023-12-19
+Krismer23,Nirmatrelvir,MERS-CoV 3CLpro,MERS-CoV 3CLpro:S147Y,Figure 7D,Pseudovirus (VSV),IC50,=,25.5,NULL,NULL,1,2023-12-19
+Krismer23,Nirmatrelvir,MERS-CoV 3CLpro,MERS-CoV 3CLpro:A171S,Figure 7D,Pseudovirus (VSV),IC50,=,3.2,NULL,NULL,1,2023-12-19
+Krismer23,Ensitrelvir,MERS-CoV 3CLpro,MERS-CoV 3CLpro:S147Y,Figure 7D,Pseudovirus (VSV),IC50,=,4,NULL,NULL,1,2023-12-19
+Krismer23,Ensitrelvir,MERS-CoV 3CLpro,MERS-CoV 3CLpro:A171S,Figure 7D,Pseudovirus (VSV),IC50,=,1.4,NULL,NULL,1,2023-12-19
+Krismer23,PF-00835231,MERS-CoV 3CLpro,MERS-CoV 3CLpro:S147Y,Figure 7D,Pseudovirus (VSV),IC50,=,9.5,NULL,NULL,1,2023-12-19
+Krismer23,PF-00835231,MERS-CoV 3CLpro,MERS-CoV 3CLpro:A171S,Figure 7D,Pseudovirus (VSV),IC50,=,3.1,NULL,NULL,1,2023-12-19
+Krismer23,GC376,MERS-CoV 3CLpro,MERS-CoV 3CLpro:S147Y,Figure 7D,Pseudovirus (VSV),IC50,=,12.7,NULL,NULL,1,2023-12-19
+Krismer23,GC376,MERS-CoV 3CLpro,MERS-CoV 3CLpro:A171S,Figure 7D,Pseudovirus (VSV),IC50,=,5.8,NULL,NULL,1,2023-12-19
