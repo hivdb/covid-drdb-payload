@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Bouzidi23,Nirmatrelvir,Wuhan-Hu-1,Table 1,Virus isolate,EC50,3.7,1,60,1,µM,2023-12-19
 Bouzidi23,Nirmatrelvir,B1,Table 1,Virus isolate,EC50,10.5,1,60,1,µM,2023-12-19
 Bouzidi23,Nirmatrelvir,B2,Table 1,Virus isolate,EC50,22.3,1,60,1,µM,2023-12-19
