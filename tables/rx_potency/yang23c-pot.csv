@@ -1,0 +1,22 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Yang23c,SA55,XBB.1.5 Spike,Figure C,Pseudovirus,IC50,8,1,10000,1,ng/ml,2024-01-26
+Yang23c,SA55,XBB.1.5 Spike:E554K,Figure C,Pseudovirus,IC50,5,1,10000,1,ng/ml,2024-01-26
+Yang23c,SA55,BA.2.86 Spike,Figure C,Pseudovirus,IC50,900,1,10000,1,ng/ml,2024-01-26
+Yang23c,Omi-42,XBB.1.5 Spike,Figure C,Pseudovirus,IC50,41,1,10000,1,ng/ml,2024-01-26
+Yang23c,Omi-42,XBB.1.5 Spike:E554K,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,Omi-42,BA.2.86 Spike,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,S309,XBB.1.5 Spike,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,S309,XBB.1.5 Spike:E554K,Figure C,Pseudovirus,IC50,9,1,10000,1,ng/ml,2024-01-26
+Yang23c,S309,BA.2.86 Spike,Figure C,Pseudovirus,IC50,7,1,10000,1,ng/ml,2024-01-26
+Yang23c,S3H3,XBB.1.5 Spike,Figure C,Pseudovirus,IC50,950,1,10000,1,ng/ml,2024-01-26
+Yang23c,S3H3,XBB.1.5 Spike:E554K,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,S3H3,BA.2.86 Spike,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,LY-CoV1404,XBB.1.5 Spike,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,LY-CoV1404,XBB.1.5 Spike:E554K,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,LY-CoV1404,BA.2.86 Spike,Figure C,Pseudovirus,IC50,6,1,10000,1,ng/ml,2024-01-26
+Yang23c,COV2-2196+COV2-2130,XBB.1.5 Spike,Figure C,Pseudovirus,IC50,4,1,10000,1,ng/ml,2024-01-26
+Yang23c,COV2-2196+COV2-2130,XBB.1.5 Spike:E554K,Figure C,Pseudovirus,IC50,1890,1,10000,1,ng/ml,2024-01-26
+Yang23c,COV2-2196+COV2-2130,BA.2.86 Spike,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,REGN10933+REGN10987,XBB.1.5 Spike,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,REGN10933+REGN10987,XBB.1.5 Spike:E554K,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
+Yang23c,REGN10933+REGN10987,BA.2.86 Spike,Figure C,Pseudovirus,IC50,10000,1,10000,1,ng/ml,2024-01-26
