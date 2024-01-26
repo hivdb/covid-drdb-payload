@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Jian23,SA55,XBB.1.5 Spike,Figure 3D,Pseudovirus,IC50,8,1,10000,1,ng/ml,2024-01-26
 Jian23,SA55,XBB.1.5 Spike:L455F,Figure 3D,Pseudovirus,IC50,3,1,10000,1,ng/ml,2024-01-26
 Jian23,SA55,XBB.1.5 Spike:F456L,Figure 3D,Pseudovirus,IC50,36,1,10000,1,ng/ml,2024-01-26
