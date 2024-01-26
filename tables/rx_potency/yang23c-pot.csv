@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Yang23c,SA55,XBB.1.5 Spike,Figure C,Pseudovirus,IC50,8,1,10000,1,ng/ml,2024-01-26
 Yang23c,SA55,XBB.1.5 Spike:E554K,Figure C,Pseudovirus,IC50,5,1,10000,1,ng/ml,2024-01-26
 Yang23c,SA55,BA.2.86 Spike,Figure C,Pseudovirus,IC50,900,1,10000,1,ng/ml,2024-01-26
