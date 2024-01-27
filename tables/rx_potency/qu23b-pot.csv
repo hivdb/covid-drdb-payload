@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+Qu23b,S309,S:614G,Figure S2,Pseudovirus,IC50,140,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,BA.1 Spike,Figure S2,Pseudovirus,IC50,340,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,BA.2 Spike,Figure S2,Pseudovirus,IC50,2090,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,BA.4/5 Spike,Figure S2,Pseudovirus,IC50,1260,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,XBB.1.5 Spike,Figure S2,Pseudovirus,IC50,1300,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,EG.5.1 Spike,Figure S2,Pseudovirus,IC50,1130,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,BA.2.86 Spike,Figure S2,Pseudovirus,IC50,12000,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,XBB.1.5 Spike:L455F+F456L,Figure S2,Pseudovirus,IC50,5500,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,XBB.1.5 Spike:L455F,Figure S2,Pseudovirus,IC50,740,1,12000,1,ng/ml,2024-01-26
+Qu23b,S309,XBB.1.5 Spike:F456L,Figure S2,Pseudovirus,IC50,1170,1,12000,1,ng/ml,2024-01-26
