@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Qu23b,S309,S:614G,Figure S2,Pseudovirus,IC50,140,1,12000,1,ng/ml,2024-01-26
 Qu23b,S309,BA.1 Spike,Figure S2,Pseudovirus,IC50,340,1,12000,1,ng/ml,2024-01-26
 Qu23b,S309,BA.2 Spike,Figure S2,Pseudovirus,IC50,2090,1,12000,1,ng/ml,2024-01-26
