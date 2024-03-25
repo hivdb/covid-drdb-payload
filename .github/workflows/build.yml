@@ -34,11 +34,10 @@ jobs:
         path: covid-drdb
 
     - name: Validate the results
-      shell: 'script -q -e -c "bash {0}"'
+      # shell: 'script -q -e -c "bash {0}"'
       env:
         POSTGRES_PORT: 5432
         POSTGRES_HOST: localhost
-        TERM: xterm
       run: |
         set -e
         cd covid-drdb
