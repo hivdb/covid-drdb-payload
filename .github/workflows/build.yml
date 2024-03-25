@@ -45,4 +45,4 @@ jobs:
         docker run --rm -v="$(pwd)":/covid-drdb/ -v="$(dirname $(pwd))"/covid-drdb-payload:/covid-drdb/payload hivdb/covid-drdb-builder:latest scripts/export-sqls.sh
         psql -v ON_ERROR_STOP=1 -U postgres -h localhost -f local/sqls/01_schema.sql
         psql -v ON_ERROR_STOP=1 -U postgres -h localhost -f local/sqls/02_data_tables.sql
-        psql -v ON_ERROR_STOP=1 -U postgres -h localhost -f local/sqls/03_derived_tables.sql
+        TERM=dumb psql -v ON_ERROR_STOP=1 -U postgres -h localhost -f local/sqls/03_derived_tables.sql
