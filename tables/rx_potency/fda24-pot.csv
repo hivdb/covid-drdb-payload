@@ -1,0 +1,11 @@
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+FDA24,Pemivibart,S:614G,12.4,Virus isolate,IC50,24.3,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,B.1.617.2 Spike,12.4,Virus isolate,IC50,11,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,BA.1 Spike,12.4,Virus isolate,IC50,14.2,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,BA.2 Spike,12.4,Virus isolate,IC50,5.8,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,BA.4.1 Spike,12.4,Virus isolate,IC50,25.8,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,XBB.1.16 Spike,12.4,Virus isolate,IC50,118,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,XBB.1.5 Spike,12.4,Virus isolate,IC50,290,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,EG.5.1 Spike,12.4,Virus isolate,IC50,1445,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,HV.1 Spike,12.4,Virus isolate,IC50,529.4,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,JN.1 Spike,12.4,Virus isolate,IC50,63.6,1,10000,1,ng/ml,2024-03-26
