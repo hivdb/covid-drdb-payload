@@ -1,11 +1,44 @@
 ﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
-FDA24,Pemivibart,S:614G,12.4,Virus isolate,IC50,24.3,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,B.1.617.2 Spike,12.4,Virus isolate,IC50,11,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,BA.1 Spike,12.4,Virus isolate,IC50,14.2,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,BA.2 Spike,12.4,Virus isolate,IC50,5.8,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,BA.4.1 Spike,12.4,Virus isolate,IC50,25.8,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,XBB.1.16 Spike,12.4,Virus isolate,IC50,118,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,XBB.1.5 Spike,12.4,Virus isolate,IC50,290,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,EG.5.1 Spike,12.4,Virus isolate,IC50,1445,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,HV.1 Spike,12.4,Virus isolate,IC50,529.4,1,10000,1,ng/ml,2024-03-26
-FDA24,Pemivibart,JN.1 Spike,12.4,Virus isolate,IC50,63.6,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,B.1 Spike,Section 12.4,Virus isolate,IC50,24.3,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,B.1.617.2 Spike,Section 12.4,Virus isolate,IC50,11,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,BA.1 Spike,Section 12.4,Virus isolate,IC50,14.2,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,BA.2 Spike,Section 12.4,Virus isolate,IC50,5.8,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,BA.4.1 Spike,Section 12.4,Virus isolate,IC50,25.8,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,XBB.1.16 Spike,Section 12.4,Virus isolate,IC50,118,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,XBB.1.5 Spike,Section 12.4,Virus isolate,IC50,290,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,EG.5.1 Spike,Section 12.4,Virus isolate,IC50,1445,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,HV.1 Spike,Section 12.4,Virus isolate,IC50,529.4,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,JN.1 Spike,Section 12.4,Virus isolate,IC50,63.6,1,10000,1,ng/ml,2024-03-26
+FDA24,Pemivibart,B.1 Spike,Table 2,Pseudovirus,IC50,8.4,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,B.1.1.7 Spike,Table 2,Pseudovirus,IC50,11.4,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,B.1.351 Spike,Table 2,Pseudovirus,IC50,9,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,P.1 Spike,Table 2,Pseudovirus,IC50,12.2,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,B.1.617.2 Spike,Table 2,Pseudovirus,IC50,5.2,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,B.1.427 Spike,Table 2,Pseudovirus,IC50,3.2,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,P.2 Spike,Table 2,Pseudovirus,IC50,9.3,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,B.1.526 Spike,Table 2,Pseudovirus,IC50,8.6,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,B.1.621 Spike,Table 2,Pseudovirus,IC50,9.5,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BA.1 Spike,Table 2,Pseudovirus,IC50,121.4,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BA.2 Spike,Table 2,Pseudovirus,IC50,44.6,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BA.4/5 Spike,Table 2,Pseudovirus,IC50,47.9,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BA.4.6 Spike,Table 2,Pseudovirus,IC50,29.2,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BF.7 Spike,Table 2,Pseudovirus,IC50,72.7,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BQ.1 Spike,Table 2,Pseudovirus,IC50,164.6,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BQ.1.1 Spike,Table 2,Pseudovirus,IC50,102.1,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BA.2.75 Spike,Table 2,Pseudovirus,IC50,1364.6,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BN.1 Spike,Table 2,Pseudovirus,IC50,2112,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,XBB Spike,Table 2,Pseudovirus,IC50,152.2,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,XBB.1 Spike,Table 2,Pseudovirus,IC50,121.1,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,XBB.1.5 Spike,Table 2,Pseudovirus,IC50,104.3,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,XBB.1.16 Spike,Table 2,Pseudovirus,IC50,77.6,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,XBB.1.5.10 Spike,Table 2,Pseudovirus,IC50,108.1,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,XBB.1.5.1 Spike,Table 2,Pseudovirus,IC50,80,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,XBB.2.3 Spike,Table 2,Pseudovirus,IC50,87,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,EU.1.1 Spike,Table 2,Pseudovirus,IC50,52.1,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,FL.1.5.1 Spike,Table 2,Pseudovirus,IC50,102.1,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,HV.1 Spike,Table 2,Pseudovirus,IC50,41.2,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,HK.3 Spike,Table 2,Pseudovirus,IC50,72.3,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,JD.1.1 Spike,Table 2,Pseudovirus,IC50,101.9,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,BA.2.86 Spike,Table 2,Pseudovirus,IC50,167.7,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,JN.1 Spike,Table 2,Pseudovirus,IC50,74.6,1,1000,1,ng/ml,2024-07-19
+FDA24,Pemivibart,JN.1.11.1 Spike,Table 2,Pseudovirus,IC50,288,1,1000,1,ng/ml,2024-07-19
