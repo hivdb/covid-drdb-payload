@@ -1,13 +1,13 @@
 ref_name,control_iso_name,iso_name
-FDA24,S:614G,B.1.617.2 Spike
-FDA24,S:614G,BA.1 Spike
-FDA24,S:614G,BA.2 Spike
-FDA24,S:614G,BA.4.1 Spike
-FDA24,S:614G,XBB.1.16 Spike
-FDA24,S:614G,XBB.1.5 Spike
-FDA24,S:614G,EG.5.1 Spike
-FDA24,S:614G,HV.1 Spike
-FDA24,S:614G,JN.1 Spike
+FDA24,B.1 Spike,B.1.617.2 Spike
+FDA24,B.1 Spike,BA.1 Spike
+FDA24,B.1 Spike,BA.2 Spike
+FDA24,B.1 Spike,BA.4.1 Spike
+FDA24,B.1 Spike,XBB.1.16 Spike
+FDA24,B.1 Spike,XBB.1.5 Spike
+FDA24,B.1 Spike,EG.5.1 Spike
+FDA24,B.1 Spike,HV.1 Spike
+FDA24,B.1 Spike,JN.1 Spike
 FDA24,B.1 Spike,B.1.1.7 Spike
 FDA24,B.1 Spike,B.1.351 Spike
 FDA24,B.1 Spike,P.1 Spike
