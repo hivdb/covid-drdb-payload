@@ -1,4 +1,4 @@
-ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
+﻿ref_name,rx_name,iso_name,section,assay_name,potency_type,potency,cumulative_count,potency_upper_limit,potency_lower_limit,potency_unit,date_added
 Wang24,Pemivibart,B.1 Spike,Estimate,Pseudovirus,IC50,30,1,10000,1,ng/ml,2024-08-15
 Wang24,Pemivibart,JN.1 Spike,Figure 1B,Pseudovirus,IC50,185,1,10000,1,ng/ml,2024-08-15
 Wang24,Pemivibart,KP.2 Spike,Figure 1B,Pseudovirus,IC50,210,1,10000,1,ng/ml,2024-08-15
